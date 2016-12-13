@@ -1,0 +1,478 @@
+[
+  {
+    "scientific_name": "Amazilia yucatanensis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colibrí amazília del Yucatan"
+      },
+      {
+        "lang": "cs",
+        "name": "Kolibřík yukatánský"
+      },
+      {
+        "lang": "da",
+        "name": "Brunbuget Amazilie"
+      },
+      {
+        "lang": "de",
+        "name": "Fahlbauchamazilie"
+      },
+      {
+        "lang": "en",
+        "name": "Buff-bellied Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia Yucateca"
+      },
+      {
+        "lang": "fi",
+        "name": "Säämiskätimanttikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Ariane du Yucatan"
+      },
+      {
+        "lang": "hu",
+        "name": "Yucatáni amazília"
+      },
+      {
+        "lang": "it",
+        "name": "Colibrì panciacamoscio"
+      },
+      {
+        "lang": "ja",
+        "name": "アカハシエメラルドハチドリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Jukataninė amazilija"
+      },
+      {
+        "lang": "nl",
+        "name": "Yucatánamazilia"
+      },
+      {
+        "lang": "no",
+        "name": "Yucatánkolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "Szmaragdzik jukatanski"
+      },
+      {
+        "lang": "ru",
+        "name": "Юкатанская амазилия"
+      },
+      {
+        "lang": "sk",
+        "name": "Kolibrík hnedastobruchý"
+      },
+      {
+        "lang": "sv",
+        "name": "Yucatánsmaragd"
+      },
+      {
+        "lang": "zh",
+        "name": "棕腹蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Amazilia viridigaster",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia viridifrons",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia viridicauda",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia violiceps",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia versicolor",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia tzacatl",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kolibřík rezavoocasý"
+      },
+      {
+        "lang": "da",
+        "name": "Brunhalet Amazilie"
+      },
+      {
+        "lang": "de",
+        "name": "Braunschwanzamazilie"
+      },
+      {
+        "lang": "en",
+        "name": "Rufous-tailed Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia de Cara Rufa"
+      },
+      {
+        "lang": "fi",
+        "name": "ruostepyrstökolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Ariane à ventre gris"
+      },
+      {
+        "lang": "hu",
+        "name": "Rozsdásfarkú amazília"
+      },
+      {
+        "lang": "it",
+        "name": "Amazilia codarossiccia"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイバラエメラルドハチドリ",
+        "synonyms": [
+          "haibaraemerarudohachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Roodstaartamazilia"
+      },
+      {
+        "lang": "no",
+        "name": "Rusthalekolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "szmaragdzik brązowosterny"
+      },
+      {
+        "lang": "ru",
+        "name": "Гобакская амазилия"
+      },
+      {
+        "lang": "sk",
+        "name": "kolibrík hrdzavochvostý"
+      },
+      {
+        "lang": "sv",
+        "name": "Roststjärtad kolibri"
+      },
+      {
+        "lang": "zh",
+        "name": "棕尾蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Amazilia tobaci",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia saucerrottei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia rutila",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kolibřík ryšavý"
+      },
+      {
+        "lang": "da",
+        "name": "Kanelfarvet Amazilie"
+      },
+      {
+        "lang": "de",
+        "name": "Zimtbauchamazilie"
+      },
+      {
+        "lang": "en",
+        "name": "Cinnamon Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia Canela"
+      },
+      {
+        "lang": "fi",
+        "name": "kanelitimanttikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Ariane cannelle"
+      },
+      {
+        "lang": "hu",
+        "name": "fahéjszínű amazília"
+      },
+      {
+        "lang": "it",
+        "name": "Amazilia color cannella"
+      },
+      {
+        "lang": "ja",
+        "name": "ニッケイハチドリ",
+        "synonyms": [
+          "nikkeihachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Kaneelkleurige Amazilia"
+      },
+      {
+        "lang": "no",
+        "name": "Kanelkolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "szmaragdzik cynamonowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Пурпурнобрюхая амазилия"
+      },
+      {
+        "lang": "sk",
+        "name": "kolibrík škoricový"
+      },
+      {
+        "lang": "sv",
+        "name": "Kanelkolibri"
+      },
+      {
+        "lang": "zh",
+        "name": "桂红蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Amazilia rosenbergi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia rondoniae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia luciae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Honduran emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda hondurena"
+      },
+      {
+        "lang": "fi",
+        "name": "Hondurasintimanttikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Ariane de lucy"
+      },
+      {
+        "lang": "nl",
+        "name": "Hondurese amazilia"
+      },
+      {
+        "lang": "pl",
+        "name": "Szmaragdzik honduraski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Amazilia leucogaster",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia lactea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia franciae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia fimbriata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia edward",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kolibřík Edwardův"
+      },
+      {
+        "lang": "da",
+        "name": "Bronzehalet Snebryst"
+      },
+      {
+        "lang": "de",
+        "name": "Edwardamazilie"
+      },
+      {
+        "lang": "en",
+        "name": "Snowy-bellied Hummingbird",
+        "synonyms": [
+          "Snowy-breasted Hummingbird"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia de Edward"
+      },
+      {
+        "lang": "fi",
+        "name": "lumitimanttikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Ariane d'Edward"
+      },
+      {
+        "lang": "hu",
+        "name": "panamai kolibri"
+      },
+      {
+        "lang": "it",
+        "name": "Amazilia pettodineve"
+      },
+      {
+        "lang": "ja",
+        "name": "シロムネエメラルドハチドリ",
+        "synonyms": [
+          "shiromuneemerarudohachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Edwards Amazilia"
+      },
+      {
+        "lang": "no",
+        "name": "Snøbukkolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "szmaragdzik zlotogrzbiety"
+      },
+      {
+        "lang": "ru",
+        "name": "Белобрюхая амазилия"
+      },
+      {
+        "lang": "sk",
+        "name": "kolibrík zlatochrbtý"
+      },
+      {
+        "lang": "sv",
+        "name": "Bronsstjärtad smaragd"
+      },
+      {
+        "lang": "zh",
+        "name": "雪胸蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Amazilia decora",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia cyanura",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia cyanocephala",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia cyanifrons",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia cupreicauda",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia chionogaster",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia castaneiventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-bellied Hummingbird"
+      },
+      {
+        "lang": "fi",
+        "name": "Kastanjatimanttikolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Amazilia candida",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia brevirostris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia boucardi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia beryllina",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia amazilia",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Lesson-Amazilie"
+      },
+      {
+        "lang": "en",
+        "name": "Amazilia Hummingbird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Amazilia amabilis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Amazilia alticola",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Loja Hummingbird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Amazilia alfaroana",
+    "common_names": []
+  }
+]

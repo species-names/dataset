@@ -1,0 +1,2373 @@
+[
+  {
+    "scientific_name": "Accipiter virgatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Krahujec besra"
+      },
+      {
+        "lang": "en",
+        "name": "Besra"
+      },
+      {
+        "lang": "eo",
+        "name": "Besro"
+      },
+      {
+        "lang": "es",
+        "name": "Azor chico índico"
+      },
+      {
+        "lang": "id",
+        "name": "Alap-alap"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Lang Pipit"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec orientalny"
+      },
+      {
+        "lang": "su",
+        "name": "Alap-alap"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter ventralis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Krahujec kolumbijský"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de pecho liso"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec andyjski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter trivirgatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb chocholatý"
+      },
+      {
+        "lang": "fr",
+        "name": "Autour huppé"
+      },
+      {
+        "lang": "en",
+        "name": "Crested Goshawk"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán moñudo"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec czubaty"
+      },
+      {
+        "lang": "tr",
+        "name": "Tepeli çakır kuşu"
+      },
+      {
+        "lang": "zh",
+        "name": "凤头鹰"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "鳳頭鷹"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter trinotatus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق أنقط الذيل"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec třískvrnný"
+      },
+      {
+        "lang": "en",
+        "name": "Spot-tailed Sparrowhawk",
+        "synonyms": [
+          "Spot-tailed Goshawk"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Azor chico de cola moteada"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec plamosterny"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter toussenelii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb západoafrický"
+      },
+      {
+        "lang": "es",
+        "name": "Azor de Toussenel"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec białobrody"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter tachiro",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباز الأفريقي"
+      },
+      {
+        "lang": "cs",
+        "name": "Jestřáb tachiro"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán tachiro"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec trzypręgowy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter superciliosus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Krahujec malý"
+      },
+      {
+        "lang": "en",
+        "name": "Tiny Hawk"
+      },
+      {
+        "lang": "es",
+        "name": "Azor menor americano"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec drobny"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-miudinho"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter striatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "krahujec americký"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Spurvehøg"
+      },
+      {
+        "lang": "de",
+        "name": "Eckschwanzsperber"
+      },
+      {
+        "lang": "en",
+        "name": "Sharp-shinned Hawk"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán Americano",
+        "synonyms": [
+          "Azor rojizo"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "ameerika raudkull"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanvarpushaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Épervier brun"
+      },
+      {
+        "lang": "ht",
+        "name": "Malfini mouchè"
+      },
+      {
+        "lang": "hu",
+        "name": "csíkos karvaly"
+      },
+      {
+        "lang": "it",
+        "name": "Sparviero striato americano"
+      },
+      {
+        "lang": "ja",
+        "name": "アシボソハイタカ",
+        "synonyms": [
+          "ashibosohaitaka"
+        ]
+      },
+      {
+        "lang": "lkt",
+        "name": "Čhetáŋ glegléɡ̌a"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse Sperwer"
+      },
+      {
+        "lang": "no",
+        "name": "Tverrhalehauk"
+      },
+      {
+        "lang": "pl",
+        "name": "krogulec zmienny"
+      },
+      {
+        "lang": "pt-br",
+        "name": "gavião-miúdo"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-miúdo"
+      },
+      {
+        "lang": "ru",
+        "name": "Полосатый ястреб"
+      },
+      {
+        "lang": "sk",
+        "name": "jastrab čiarkový"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk sparvhök"
+      },
+      {
+        "lang": "zh",
+        "name": "纹腹鹰"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter soloensis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق الصيني"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec čínský"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán ranero"
+      },
+      {
+        "lang": "ja",
+        "name": "アカハラダカ"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은배새매"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec chiński"
+      },
+      {
+        "lang": "tr",
+        "name": "Çin çakır kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter rufiventris",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق أمغرُ الصَّدر"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec rudoprsý"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de pecho rufo"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec rudobrzuchy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter rufitorques",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb rudolímcový"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de Fiji"
+      },
+      {
+        "lang": "hu",
+        "name": "Fidzsi héja"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec rdzawoszyi"
+      },
+      {
+        "lang": "tr",
+        "name": "Fiji çakır kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter rhodogaster",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق خمري الصدر"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec vínoprsý"
+      },
+      {
+        "lang": "es",
+        "name": "Azor chico de pecho rojo"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec różany"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter princeps",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Azor de Nueva Bretaña"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec szarobiały"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter poliogaster",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb jihoamerický"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-bellied Goshawk"
+      },
+      {
+        "lang": "es",
+        "name": "Azor de pecho grís"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec siwobrzuchy"
+      },
+      {
+        "lang": "pt",
+        "name": "Tauató-pintado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter poliocephalus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Krahujec šedobílý"
+      },
+      {
+        "lang": "en",
+        "name": "grey-headed goshawk"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de Nueva Guinea"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec nowogwinejski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter ovampensis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "باشق الأوڤامبو"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec ovampský"
+      },
+      {
+        "lang": "en",
+        "name": "Ovambo Sparrowhawk"
+      },
+      {
+        "lang": "es",
+        "name": "Azor ovampo"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec szary"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter novaehollandiae",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Parlaq qırğı"
+      },
+      {
+        "lang": "cs",
+        "name": "Jestřáb proměnlivý"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbrauenhabicht"
+      },
+      {
+        "lang": "en",
+        "name": "Grey Goshawk"
+      },
+      {
+        "lang": "es",
+        "name": "Azor pálido"
+      },
+      {
+        "lang": "fr",
+        "name": "Autour blanc"
+      },
+      {
+        "lang": "hu",
+        "name": "Gyíkászhéja"
+      },
+      {
+        "lang": "id",
+        "name": "Alap-alap putih"
+      },
+      {
+        "lang": "it",
+        "name": "Astore grigio"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze havik"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec australijski"
+      },
+      {
+        "lang": "ru",
+        "name": "Светлый ястреб"
+      },
+      {
+        "lang": "sv",
+        "name": "Grå duvhök"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter nisus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Sperwer"
+      },
+      {
+        "lang": "als",
+        "name": "Sperber"
+      },
+      {
+        "lang": "an",
+        "name": "Gabilán"
+      },
+      {
+        "lang": "ar",
+        "name": "باشق أوراسي"
+      },
+      {
+        "lang": "ast",
+        "name": "Ferre"
+      },
+      {
+        "lang": "av",
+        "name": "Хъергъу"
+      },
+      {
+        "lang": "az",
+        "name": "Bildirçinçalan"
+      },
+      {
+        "lang": "ba",
+        "name": "Бүҙәнә ҡарсығаһы"
+      },
+      {
+        "lang": "be",
+        "name": "Перапёлачнік"
+      },
+      {
+        "lang": "bg",
+        "name": "Малък ястреб"
+      },
+      {
+        "lang": "br",
+        "name": "Sparfell c'hlas"
+      },
+      {
+        "lang": "ca",
+        "name": "Esparver"
+      },
+      {
+        "lang": "ce",
+        "name": "Q́orza kúyra"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec obecný"
+      },
+      {
+        "lang": "csb",
+        "name": "Pazurnik"
+      },
+      {
+        "lang": "cv",
+        "name": "Çерçи хурчки"
+      },
+      {
+        "lang": "cw",
+        "name": "Sparhok"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalch Glas"
+      },
+      {
+        "lang": "da",
+        "name": "Spurvehøg"
+      },
+      {
+        "lang": "de",
+        "name": "Sperber"
+      },
+      {
+        "lang": "dsb",
+        "name": "Sćagłow"
+      },
+      {
+        "lang": "el",
+        "name": "Τσιχλογέρακο"
+      },
+      {
+        "lang": "eml",
+        "name": "Falcàtt da pàser"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Sparrowhawk"
+      },
+      {
+        "lang": "eo",
+        "name": "Nizo"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán Común"
+      },
+      {
+        "lang": "et",
+        "name": "Raudkull"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabirai arrunta"
+      },
+      {
+        "lang": "fa",
+        "name": "قرقی"
+      },
+      {
+        "lang": "fi",
+        "name": "Varpushaukka"
+      },
+      {
+        "lang": "fo",
+        "name": "Spurvaheykur"
+      },
+      {
+        "lang": "fr",
+        "name": "Épervier d'Europe"
+      },
+      {
+        "lang": "frr",
+        "name": "Düüwenfalk"
+      },
+      {
+        "lang": "fur",
+        "name": "Sparvâl"
+      },
+      {
+        "lang": "fy",
+        "name": "Sparwer"
+      },
+      {
+        "lang": "ga",
+        "name": "Spioróg"
+      },
+      {
+        "lang": "gd",
+        "name": "Speireag"
+      },
+      {
+        "lang": "gl",
+        "name": "Gabián"
+      },
+      {
+        "lang": "gn",
+        "name": "Taguato"
+      },
+      {
+        "lang": "gv",
+        "name": "Shirragh ny sperriu"
+      },
+      {
+        "lang": "he",
+        "name": "נץ מצוי"
+      },
+      {
+        "lang": "hr",
+        "name": "Kobac"
+      },
+      {
+        "lang": "hsb",
+        "name": "Kraholc"
+      },
+      {
+        "lang": "hu",
+        "name": "Karvaly"
+      },
+      {
+        "lang": "hy",
+        "name": "Լորաճուռակ"
+      },
+      {
+        "lang": "ii",
+        "name": "Spelver"
+      },
+      {
+        "lang": "is",
+        "name": "Sparrhaukur"
+      },
+      {
+        "lang": "it",
+        "name": "Sparviere"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイタカ"
+      },
+      {
+        "lang": "ka",
+        "name": "მიმინო"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къашыргъащхъуэ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Хус хартығазы"
+      },
+      {
+        "lang": "kjn",
+        "name": "Хус хартығазы"
+      },
+      {
+        "lang": "kk",
+        "name": "Қырғи"
+      },
+      {
+        "lang": "ko",
+        "name": "새매"
+      },
+      {
+        "lang": "ku",
+        "name": "Başok"
+      },
+      {
+        "lang": "kw",
+        "name": "Sparhok"
+      },
+      {
+        "lang": "lb",
+        "name": "Käizchen"
+      },
+      {
+        "lang": "lld",
+        "name": "Sparvel pice"
+      },
+      {
+        "lang": "lt",
+        "name": "Paukštvanagis"
+      },
+      {
+        "lang": "lv",
+        "name": "Zvirbuļu vanags"
+      },
+      {
+        "lang": "mk",
+        "name": "Јастреб врапчар"
+      },
+      {
+        "lang": "mn",
+        "name": "Морин харцгай"
+      },
+      {
+        "lang": "mt",
+        "name": "Sparvier"
+      },
+      {
+        "lang": "nap",
+        "name": "Arpèglia"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Klemmer"
+      },
+      {
+        "lang": "nds",
+        "name": "Klemmer"
+      },
+      {
+        "lang": "nl",
+        "name": "Sperwer"
+      },
+      {
+        "lang": "nn",
+        "name": "Sporvehauk"
+      },
+      {
+        "lang": "no",
+        "name": "Spurvehauk"
+      },
+      {
+        "lang": "nrm",
+        "name": "Êpèrvi"
+      },
+      {
+        "lang": "oc",
+        "name": "Esparvièr"
+      },
+      {
+        "lang": "os",
+        "name": "Хъыргъы"
+      },
+      {
+        "lang": "pcd",
+        "name": "Bruvié"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec"
+      },
+      {
+        "lang": "pms",
+        "name": "Sparvé"
+      },
+      {
+        "lang": "pnb",
+        "name": "یوریشیائی سپیروہاک"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião da Europa"
+      },
+      {
+        "lang": "rm",
+        "name": "Sprer"
+      },
+      {
+        "lang": "rmy",
+        "name": "Hulyaika"
+      },
+      {
+        "lang": "ro",
+        "name": "Uliu păsărar"
+      },
+      {
+        "lang": "rom",
+        "name": "Hulyo"
+      },
+      {
+        "lang": "ru",
+        "name": "Перепелятник"
+      },
+      {
+        "lang": "rue",
+        "name": "Крогулець воробятник"
+      },
+      {
+        "lang": "sah",
+        "name": "Чыычаахсыт"
+      },
+      {
+        "lang": "sc",
+        "name": "Astoreddu"
+      },
+      {
+        "lang": "scn",
+        "name": "Spriveri"
+      },
+      {
+        "lang": "sco",
+        "name": "Spur-hawk"
+      },
+      {
+        "lang": "se",
+        "name": "Cihcefálli"
+      },
+      {
+        "lang": "sh",
+        "name": "Kobac ptičar"
+      },
+      {
+        "lang": "sk",
+        "name": "Jastrab krahulec"
+      },
+      {
+        "lang": "sl",
+        "name": "Skobec"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjeraqina e shkurtës"
+      },
+      {
+        "lang": "sr",
+        "name": "Kobac / кобац"
+      },
+      {
+        "lang": "sv",
+        "name": "Sparvhök"
+      },
+      {
+        "lang": "sw",
+        "name": "Kipanga wa Ulaya"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวนกกระจอกใหญ่"
+      },
+      {
+        "lang": "tk",
+        "name": "Atmaca"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı atmaca"
+      },
+      {
+        "lang": "tyv",
+        "name": "Бичии хартыга"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб малий"
+      },
+      {
+        "lang": "vec",
+        "name": "Storèla"
+      },
+      {
+        "lang": "vi",
+        "name": "Cắt hỏa mai"
+      },
+      {
+        "lang": "vls",
+        "name": "Sperwer"
+      },
+      {
+        "lang": "wa",
+        "name": "Pitit gris moxhet"
+      },
+      {
+        "lang": "zea",
+        "name": "Klamper"
+      },
+      {
+        "lang": "zh",
+        "name": "北雀鷹"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter nanus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق القزم"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec celebeský"
+      },
+      {
+        "lang": "es",
+        "name": "Azor chico de las Célebes"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec rdzawopierśny"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter minullus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق الصغير"
+      },
+      {
+        "lang": "en",
+        "name": "Little Sparrowhawk"
+      },
+      {
+        "lang": "es",
+        "name": "Azor menor africano"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec skromny"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük atmaca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter meyerianus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "باز مير"
+      },
+      {
+        "lang": "cs",
+        "name": "Jestřáb molucký"
+      },
+      {
+        "lang": "en",
+        "name": "Meyer's Goshawk"
+      },
+      {
+        "lang": "es",
+        "name": "Azor de Meyer"
+      },
+      {
+        "lang": "pl",
+        "name": "Jastrząb papuaski"
+      },
+      {
+        "lang": "sv",
+        "name": "Meyers duvhök"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter melanoleucus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق الأسود"
+      },
+      {
+        "lang": "es",
+        "name": "Azor blanco y negro"
+      },
+      {
+        "lang": "pl",
+        "name": "Jastrząb czarno-biały"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter melanochlamys",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb černopláštíkový"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de dorso negro"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec czarnogrzbiety"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter madagascariensis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق المدغشقري"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec madagaskarský"
+      },
+      {
+        "lang": "es",
+        "name": "Azor chico malgache"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec prążkowany"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter luteoschistaceus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق أردوازي الشملة"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec tmavohřbetý"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de Nueva Bretaña"
+      },
+      {
+        "lang": "fi",
+        "name": "Liuskelintuhaukka"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec białogardły"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter imitator",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Krahujec černobílý"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán imitador"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec żałobny"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter hiogaster",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Azor variable"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter henstii",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "باز هنست"
+      },
+      {
+        "lang": "cs",
+        "name": "Jestřáb madagaskarský"
+      },
+      {
+        "lang": "es",
+        "name": "Azor de Henst"
+      },
+      {
+        "lang": "pl",
+        "name": "Jastrząb brunatny"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter henicogrammus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb halmaherský"
+      },
+      {
+        "lang": "es",
+        "name": "Azor de las Molucas"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec molucki"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter haplochrous",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb novokaledonský"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de Nueva Caledonia"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec czarnogardły"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-da-Nova-Caledônia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter gundlachi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb kubánský"
+      },
+      {
+        "lang": "en",
+        "name": "Gundlach's Hawk"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán colilargo; gavilán cubano"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロハイタカ"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec kubański"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter gularis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق الياباني"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec menší"
+      },
+      {
+        "lang": "es",
+        "name": "Azor chico japonés"
+      },
+      {
+        "lang": "ja",
+        "name": "ツミ"
+      },
+      {
+        "lang": "ko",
+        "name": "조롱이"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec japoński"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter griseiceps",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Krahujec skvrnitý"
+      },
+      {
+        "lang": "en",
+        "name": "Sulawesi Goshawk"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de Célebes"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec plamisty"
+      },
+      {
+        "lang": "tr",
+        "name": "Sulawesi çakır kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter gentilis",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Happech"
+      },
+      {
+        "lang": "an",
+        "name": "Azor"
+      },
+      {
+        "lang": "ang",
+        "name": "Hafoc"
+      },
+      {
+        "lang": "ar",
+        "name": "باز شمالي"
+      },
+      {
+        "lang": "ast",
+        "name": "Ferriascu"
+      },
+      {
+        "lang": "av",
+        "name": "Хъарчигъа"
+      },
+      {
+        "lang": "az",
+        "name": "Tetraçalan"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡор ҡарсығаһы"
+      },
+      {
+        "lang": "be",
+        "name": "Ястраб-цецяроўнік"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям ястреб"
+      },
+      {
+        "lang": "br",
+        "name": "Sparfell voan"
+      },
+      {
+        "lang": "ca",
+        "name": "Astor"
+      },
+      {
+        "lang": "ce",
+        "name": "Kúyra"
+      },
+      {
+        "lang": "cjs",
+        "name": "Қартыға"
+      },
+      {
+        "lang": "co",
+        "name": "Altore"
+      },
+      {
+        "lang": "cs",
+        "name": "Jestřáb lesní"
+      },
+      {
+        "lang": "csb",
+        "name": "Kùrzélc"
+      },
+      {
+        "lang": "cv",
+        "name": "Хурчка"
+      },
+      {
+        "lang": "cw",
+        "name": "Goth-hok"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalch Marth"
+      },
+      {
+        "lang": "da",
+        "name": "Duehøg"
+      },
+      {
+        "lang": "de",
+        "name": "Habicht"
+      },
+      {
+        "lang": "dsb",
+        "name": "Jastśeb"
+      },
+      {
+        "lang": "el",
+        "name": "Διπλοσάϊνο"
+      },
+      {
+        "lang": "eml",
+        "name": "Astòr"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Goshawk"
+      },
+      {
+        "lang": "eo",
+        "name": "Akcipitro"
+      },
+      {
+        "lang": "es",
+        "name": "Azor Común"
+      },
+      {
+        "lang": "et",
+        "name": "Kanakull"
+      },
+      {
+        "lang": "eu",
+        "name": "Aztore"
+      },
+      {
+        "lang": "fa",
+        "name": "باز (پرنده)"
+      },
+      {
+        "lang": "fi",
+        "name": "Kanahaukka"
+      },
+      {
+        "lang": "fo",
+        "name": "Høsnaheykur"
+      },
+      {
+        "lang": "fr",
+        "name": "Autour des palombes"
+      },
+      {
+        "lang": "frr",
+        "name": "Hanjüger"
+      },
+      {
+        "lang": "fur",
+        "name": "Cagnŕs"
+      },
+      {
+        "lang": "fy",
+        "name": "Hauk"
+      },
+      {
+        "lang": "ga",
+        "name": "Seabach"
+      },
+      {
+        "lang": "gd",
+        "name": "Gos-sheabhag"
+      },
+      {
+        "lang": "gl",
+        "name": "Azor"
+      },
+      {
+        "lang": "gv",
+        "name": "Shawk vooar ny sperriu"
+      },
+      {
+        "lang": "he",
+        "name": "נץ גדול"
+      },
+      {
+        "lang": "hi",
+        "name": "उत्तरी बाज"
+      },
+      {
+        "lang": "hr",
+        "name": "Jastreb kokošar"
+      },
+      {
+        "lang": "hsb",
+        "name": "Jatřob"
+      },
+      {
+        "lang": "hu",
+        "name": "Héja"
+      },
+      {
+        "lang": "hy",
+        "name": "Ցախաքլորաորս"
+      },
+      {
+        "lang": "io",
+        "name": "Acipitro"
+      },
+      {
+        "lang": "is",
+        "name": "Gáshaukur"
+      },
+      {
+        "lang": "it",
+        "name": "Astore"
+      },
+      {
+        "lang": "ja",
+        "name": "オオタカ"
+      },
+      {
+        "lang": "ka",
+        "name": "ქორი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къашыргъэшхуэ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Хартыға"
+      },
+      {
+        "lang": "kjn",
+        "name": "Хартыға"
+      },
+      {
+        "lang": "kk",
+        "name": "Қаршыға"
+      },
+      {
+        "lang": "ko",
+        "name": "참매"
+      },
+      {
+        "lang": "ku",
+        "name": "Baz"
+      },
+      {
+        "lang": "kw",
+        "name": "Goedh-hok"
+      },
+      {
+        "lang": "lad",
+        "name": "Sparvel gran"
+      },
+      {
+        "lang": "lb",
+        "name": "Huer"
+      },
+      {
+        "lang": "lbe",
+        "name": "Къарчигъай"
+      },
+      {
+        "lang": "li",
+        "name": "Havik"
+      },
+      {
+        "lang": "lld",
+        "name": "Sparvel gran"
+      },
+      {
+        "lang": "lt",
+        "name": "Vištvanagis"
+      },
+      {
+        "lang": "lv",
+        "name": "Vistu vanags"
+      },
+      {
+        "lang": "mk",
+        "name": "Јастреб кокошкар"
+      },
+      {
+        "lang": "mn",
+        "name": "Үлэг харцага"
+      },
+      {
+        "lang": "mt",
+        "name": "Sparvier tal-îamiem"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Havik"
+      },
+      {
+        "lang": "nds",
+        "name": "Haavk"
+      },
+      {
+        "lang": "nl",
+        "name": "Havik"
+      },
+      {
+        "lang": "nn",
+        "name": "Hønsehauk"
+      },
+      {
+        "lang": "no",
+        "name": "Hønsehauk"
+      },
+      {
+        "lang": "nv",
+        "name": "Giníłbáhí"
+      },
+      {
+        "lang": "oc",
+        "name": "Astor"
+      },
+      {
+        "lang": "oj",
+        "name": "ᑭᐳᓇᓯ",
+        "synonyms": [
+          "ᓄᒋᓭᐍᓹᐏ"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Jastrząb"
+      },
+      {
+        "lang": "pnb",
+        "name": "اتلا گوسہاک"
+      },
+      {
+        "lang": "pt",
+        "name": "Açor"
+      },
+      {
+        "lang": "rm",
+        "name": "Sprer"
+      },
+      {
+        "lang": "ro",
+        "name": "Uliu porumbar"
+      },
+      {
+        "lang": "rom",
+        "name": "Hulyaika"
+      },
+      {
+        "lang": "ru",
+        "name": "Тетеревятник"
+      },
+      {
+        "lang": "rue",
+        "name": "Ястряб голубятник"
+      },
+      {
+        "lang": "sah",
+        "name": "Улар кыырда"
+      },
+      {
+        "lang": "sc",
+        "name": "Istore lepperajolu"
+      },
+      {
+        "lang": "scn",
+        "name": "Farcuni ri voscu"
+      },
+      {
+        "lang": "sco",
+        "name": "Gos"
+      },
+      {
+        "lang": "se",
+        "name": "Goahppilfálli"
+      },
+      {
+        "lang": "sh",
+        "name": "Jastreb"
+      },
+      {
+        "lang": "sk",
+        "name": "Jastrab veľký"
+      },
+      {
+        "lang": "sl",
+        "name": "Kragulj"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjeraqina"
+      },
+      {
+        "lang": "sr",
+        "name": "Jaстреб кокошар / Jastreb kokošar"
+      },
+      {
+        "lang": "stq",
+        "name": "Hauk"
+      },
+      {
+        "lang": "sv",
+        "name": "Duvhök"
+      },
+      {
+        "lang": "sw",
+        "name": "Kipanga Mkubwa"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวนกเขาท้องขาว"
+      },
+      {
+        "lang": "tk",
+        "name": "Çakırkuşu"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı çakır kuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Хартыга"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб-тетерев'ятник"
+      },
+      {
+        "lang": "vi",
+        "name": "Ó ngỗng"
+      },
+      {
+        "lang": "vls",
+        "name": "Oavik"
+      },
+      {
+        "lang": "wa",
+        "name": "Wôteu ås colons mansåds"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "蒼鷹"
+      },
+      {
+        "lang": "zh",
+        "name": "蒼鷹"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter francesiae",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "باشق فرنسيس"
+      },
+      {
+        "lang": "en",
+        "name": "Frances's Sparrowhawk"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec malgaski"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán francés"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter fasciatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb australský"
+      },
+      {
+        "lang": "es",
+        "name": "Azor australiano"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec brunatny"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter erythropus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق أحمر الفخذ"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec rudonohý"
+      },
+      {
+        "lang": "en",
+        "name": "Red-thighed Sparrowhawk"
+      },
+      {
+        "lang": "es",
+        "name": "Azor chico de patas rojas"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec tropikalny"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl butlu atmaca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter erythronemius",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb rudorousý"
+      },
+      {
+        "lang": "en",
+        "name": "Rufous-thighed Hawk"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de patas rufas"
+      },
+      {
+        "lang": "hu",
+        "name": "Csíkos karvaly"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec brazylijski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter erythrauchen",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق أمغر العنق"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec rudý"
+      },
+      {
+        "lang": "es",
+        "name": "Azor chico de las Molucas"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec rdzawy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter cooperii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "jestřáb Cooperův"
+      },
+      {
+        "lang": "da",
+        "name": "Gråkronet Duehøg"
+      },
+      {
+        "lang": "de",
+        "name": "Rundschwanzsperber"
+      },
+      {
+        "lang": "en",
+        "name": "Cooper's Hawk"
+      },
+      {
+        "lang": "eo",
+        "name": "Kupera akcipitro"
+      },
+      {
+        "lang": "es",
+        "name": "Azor de Cooper",
+        "synonyms": [
+          "Gavilán de Cooper"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "põhja-tanukull"
+      },
+      {
+        "lang": "fi",
+        "name": "kyyhkyhaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Épervier de Cooper"
+      },
+      {
+        "lang": "hu",
+        "name": "Cooper-héja"
+      },
+      {
+        "lang": "it",
+        "name": "Sparviero di Cooper"
+      },
+      {
+        "lang": "ja",
+        "name": "クアパアハイタカ",
+        "synonyms": [
+          "kuapaahaitaka"
+        ]
+      },
+      {
+        "lang": "lkt",
+        "name": "Čháŋška šápela"
+      },
+      {
+        "lang": "nl",
+        "name": "Coopers Sperwer"
+      },
+      {
+        "lang": "no",
+        "name": "Trostehauk"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec czarnołbisty"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-galinha",
+        "synonyms": [
+          "Falcão-do-tanoeiro"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Куперов ястреб"
+      },
+      {
+        "lang": "sk",
+        "name": "jastrab čiapočkatý"
+      },
+      {
+        "lang": "sv",
+        "name": "Cooperhök"
+      },
+      {
+        "lang": "zh",
+        "name": "库氏鹰"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter collaris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Krahujec andský"
+      },
+      {
+        "lang": "en",
+        "name": "Semicollared Hawk"
+      },
+      {
+        "lang": "es",
+        "name": "Azor acollarado"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec kryzowany"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter cirrocephalus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "البَاشِق المُطوَّق"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec rudolímcový"
+      },
+      {
+        "lang": "es",
+        "name": "Azor chico acollarado"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec obrożny"
+      },
+      {
+        "lang": "en",
+        "name": "Collared Sparrowhawk"
+      },
+      {
+        "lang": "tr",
+        "name": "Kuşaklı atmaca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter chionogaster",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Krahujec běloprsý"
+      },
+      {
+        "lang": "es",
+        "name": "Azor rojizo americano"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec gwatemalski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter chilensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb chilský"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán chileno"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec chilijski"
+      },
+      {
+        "lang": "en",
+        "name": "Chilean Hawk"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter castanilius",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الباشق كستنائي الخواصر"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec kaštanovoprsý"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut-flanked Sparrowhawk"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de dorso rojo"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec rdzawoboczny"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter butleri",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "باشق نيكوبار"
+      },
+      {
+        "lang": "ca",
+        "name": "Esparver de les Nicobar"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec nikobarský"
+      },
+      {
+        "lang": "en",
+        "name": "Nicobar Sparrowhawk"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán de Nicobar"
+      },
+      {
+        "lang": "fi",
+        "name": "Nikobaarienlintuhaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Épervier des Nicobar"
+      },
+      {
+        "lang": "nl",
+        "name": "Nicobarenshikra"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec nikobarski"
+      },
+      {
+        "lang": "sv",
+        "name": "Nikobarhök"
+      },
+      {
+        "lang": "vi",
+        "name": "Cắt Nicobar"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter brevipes",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "البيدق، الباشق الشَّامي، الباشق المشرقيّ"
+      },
+      {
+        "lang": "az",
+        "name": "Avropa tüviyi"
+      },
+      {
+        "lang": "bg",
+        "name": "Късопръст ястреб"
+      },
+      {
+        "lang": "br",
+        "name": "Sparfell treid berr"
+      },
+      {
+        "lang": "ce",
+        "name": "Źima kúyra"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec krátkoprstý"
+      },
+      {
+        "lang": "da",
+        "name": "Kortløbet Spurvehøg"
+      },
+      {
+        "lang": "de",
+        "name": "Kurzfangsperber"
+      },
+      {
+        "lang": "el",
+        "name": "Σπιννοσιάχινο"
+      },
+      {
+        "lang": "en",
+        "name": "Levant Sparrowhawk"
+      },
+      {
+        "lang": "eo",
+        "name": "Mallongkrura akcipitro"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán griego"
+      },
+      {
+        "lang": "et",
+        "name": "Stepi-raudkull"
+      },
+      {
+        "lang": "fa",
+        "name": "پیغو"
+      },
+      {
+        "lang": "fi",
+        "name": "Sirovarpushaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Épervier à pieds courts"
+      },
+      {
+        "lang": "gl",
+        "name": "Gabián grego"
+      },
+      {
+        "lang": "he",
+        "name": "נץ קצר- אצבעות"
+      },
+      {
+        "lang": "hr",
+        "name": "Kratkoprsti kobac"
+      },
+      {
+        "lang": "hu",
+        "name": "Kis héja"
+      },
+      {
+        "lang": "hy",
+        "name": "Ճնճղաճուռակ եվրոպական"
+      },
+      {
+        "lang": "is",
+        "name": "Stúfhaukur"
+      },
+      {
+        "lang": "it",
+        "name": "Sparviere levantino"
+      },
+      {
+        "lang": "ja",
+        "name": "レバントハイタカ"
+      },
+      {
+        "lang": "ka",
+        "name": "ქორცქვიტა"
+      },
+      {
+        "lang": "kk",
+        "name": "Үлкен мықы"
+      },
+      {
+        "lang": "lt",
+        "name": "Trumpanagis paukštvanagis"
+      },
+      {
+        "lang": "mk",
+        "name": "Јастреб краткопрст"
+      },
+      {
+        "lang": "nl",
+        "name": "Balkansperwer"
+      },
+      {
+        "lang": "no",
+        "name": "Balkanhauk"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec krótkonogi"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-de-pé-curto"
+      },
+      {
+        "lang": "ru",
+        "name": "Европейский тювик"
+      },
+      {
+        "lang": "sh",
+        "name": "Kratkoprsti kobac"
+      },
+      {
+        "lang": "sk",
+        "name": "Jastrab krátkoprstý"
+      },
+      {
+        "lang": "sl",
+        "name": "Kratkonogi skobec"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjeraqina këmbëshkurtër"
+      },
+      {
+        "lang": "sr",
+        "name": "Kratkoprsti kobac / Краткопрсти кобац"
+      },
+      {
+        "lang": "sv",
+        "name": "Balkanhök"
+      },
+      {
+        "lang": "sw",
+        "name": "Kipanga Miguu-mifupi"
+      },
+      {
+        "lang": "tr",
+        "name": "Yoz atmaca"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб коротконогий"
+      },
+      {
+        "lang": "zh",
+        "name": "东雀鹰"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter brachyurus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "باشق بريطانيا الجديدة"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec šedohřbetý"
+      },
+      {
+        "lang": "en",
+        "name": "New Britain Sparrowhawk"
+      },
+      {
+        "lang": "es",
+        "name": "Azor chico de Nueva Bretaña"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec trójbarwny"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter bicolor",
+    "common_names": [
+      {
+        "lang": "el",
+        "name": "Δίχρωμο σαΐνι"
+      },
+      {
+        "lang": "en",
+        "name": "Bicolored Hawk"
+      },
+      {
+        "lang": "es",
+        "name": "Azor bicolor"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec dwubarwny"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter badius",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بَاشِقُ الشِّكْرَا"
+      },
+      {
+        "lang": "cs",
+        "name": "Krahujec šikra"
+      },
+      {
+        "lang": "en",
+        "name": "Shikra"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán Chikra"
+      },
+      {
+        "lang": "hy",
+        "name": "Թուրքմենական ճնճղաճուռակ"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec mały"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวนกเขาชิครา",
+        "synonyms": [
+          "เหยี่ยวชิครา"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter albogularis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jestřáb šalamounský"
+      },
+      {
+        "lang": "en",
+        "name": "Pied goshawk"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilán pío"
+      },
+      {
+        "lang": "pl",
+        "name": "Krogulec białobrzuchy"
+      },
+      {
+        "lang": "tr",
+        "name": "Alaca çakır kuşu"
+      }
+    ]
+  }
+]

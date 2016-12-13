@@ -1,0 +1,527 @@
+[
+  {
+    "scientific_name": "Turnix worcesteri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Luzon Buttonquail",
+        "synonyms": [
+          "Philippine Buttonquail",
+          "Worcester's Buttonquail"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Worcesters vechtkwartel"
+      },
+      {
+        "lang": "fi",
+        "name": "Luzoninpyyjuoksija"
+      },
+      {
+        "lang": "sv",
+        "name": "Luzonspringhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix velox",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Little Buttonquail"
+      },
+      {
+        "lang": "fr",
+        "name": "petit turnix"
+      },
+      {
+        "lang": "fi",
+        "name": "Kulopyyjuoksija"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre springhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix varius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Painted Buttonquail"
+      },
+      {
+        "lang": "fi",
+        "name": "Pensaikkopyyjuoksija"
+      },
+      {
+        "lang": "sv",
+        "name": "Brokspringhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix tanki",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-legged Buttonquail"
+      },
+      {
+        "lang": "fi",
+        "name": "Ketopyyjuoksija"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulfotad springhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix sylvaticus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bosveldkwarteltjie"
+      },
+      {
+        "lang": "br",
+        "name": "Turniz-Andalouzia"
+      },
+      {
+        "lang": "ca",
+        "name": "Guàtlera andalusa",
+        "synonyms": [
+          "Guàtlera andalusa.",
+          "Guatlla andalusa"
+        ]
+      },
+      {
+        "lang": "cs",
+        "name": "perepel malý"
+      },
+      {
+        "lang": "da",
+        "name": "Løbehøne"
+      },
+      {
+        "lang": "de",
+        "name": "Laufhühnchen"
+      },
+      {
+        "lang": "en",
+        "name": "Common Buttonquail",
+        "synonyms": [
+          "Kurrichane Buttonquail",
+          "Small Buttonquail",
+          "Andalusian Hemipode"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Turnico"
+      },
+      {
+        "lang": "es",
+        "name": "Torillo Andaluz"
+      },
+      {
+        "lang": "et",
+        "name": "vuttledik"
+      },
+      {
+        "lang": "fi",
+        "name": "viiriäispyyjuoksija"
+      },
+      {
+        "lang": "fr",
+        "name": "Turnix d'Andalousie"
+      },
+      {
+        "lang": "gl",
+        "name": "Tourón"
+      },
+      {
+        "lang": "he",
+        "name": "טורניקס"
+      },
+      {
+        "lang": "hu",
+        "name": "Rozsdástorkú guvatfürj"
+      },
+      {
+        "lang": "id",
+        "name": "Gemak Tegalan",
+        "synonyms": [
+          "Sonta"
+        ]
+      },
+      {
+        "lang": "is",
+        "name": "Tindilfætla"
+      },
+      {
+        "lang": "it",
+        "name": "Quaglia tridattila"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメミフウズラ",
+        "synonyms": [
+          "himemifuuzura"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Miškinė vištelė"
+      },
+      {
+        "lang": "nl",
+        "name": "Gestreepte Vechtkwartel"
+      },
+      {
+        "lang": "no",
+        "name": "Springvaktel"
+      },
+      {
+        "lang": "pl",
+        "name": "Przepiórnik"
+      },
+      {
+        "lang": "pt",
+        "name": "Toirão"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканская трёхперстка"
+      },
+      {
+        "lang": "sk",
+        "name": "prepeľovec krovinový"
+      },
+      {
+        "lang": "sl",
+        "name": "tekacica",
+        "synonyms": [
+          "tekačica",
+          "tekacice"
+        ]
+      },
+      {
+        "lang": "sn",
+        "name": "Huta"
+      },
+      {
+        "lang": "st, Southern",
+        "name": "Mabuaneng"
+      },
+      {
+        "lang": "sv",
+        "name": "Springhöna"
+      },
+      {
+        "lang": "sw",
+        "name": "Kipururu"
+      },
+      {
+        "lang": "ta",
+        "name": "Kurung Kaadai"
+      },
+      {
+        "lang": "th",
+        "name": "นกคุ่มอืดเล็ก"
+      },
+      {
+        "lang": "tn",
+        "name": "Lephurrwane"
+      },
+      {
+        "lang": "tr",
+        "name": "bıldırcın yelvesi"
+      },
+      {
+        "lang": "ts",
+        "name": "Xitsatsana"
+      },
+      {
+        "lang": "vi",
+        "name": "Cun cút nhỏ"
+      },
+      {
+        "lang": "xh",
+        "name": "Ingolwane"
+      },
+      {
+        "lang": "zh",
+        "name": "林三趾鹑"
+      },
+      {
+        "lang": "zu",
+        "name": "uNgoqo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix suscitator",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Barred Buttonquail"
+      },
+      {
+        "lang": "fi",
+        "name": "Tummapyyjuoksija"
+      },
+      {
+        "lang": "ja",
+        "name": "ミフウズラ"
+      },
+      {
+        "lang": "sv",
+        "name": "Bandad springhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix pyrrhothorax",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-chested Buttonquail"
+      },
+      {
+        "lang": "es",
+        "name": "Torillo pechirrufo"
+      },
+      {
+        "lang": "fr",
+        "name": "turnix à poitrine rousse"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruostepyyjuoksija"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödbröstad springhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix olivii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "perepel okrovoprsý"
+      },
+      {
+        "lang": "da",
+        "name": "Olivenbrystet Løbehøne"
+      },
+      {
+        "lang": "de",
+        "name": "Ockerbrust-Laufhühnchen"
+      },
+      {
+        "lang": "en",
+        "name": "Buff-breasted Buttonquail"
+      },
+      {
+        "lang": "es",
+        "name": "Torillo de Robinson"
+      },
+      {
+        "lang": "et",
+        "name": "queenslandi ledik"
+      },
+      {
+        "lang": "fi",
+        "name": "okrapyyjuoksija"
+      },
+      {
+        "lang": "fr",
+        "name": "turnix de Robinson"
+      },
+      {
+        "lang": "hu",
+        "name": "barnabegyű guvatfürj"
+      },
+      {
+        "lang": "it",
+        "name": "Quaglia tridattila pettocamoscio"
+      },
+      {
+        "lang": "ja",
+        "name": "セアカミフウズラ",
+        "synonyms": [
+          "seakamifuuzura"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Cape-Yorkvechtkwartel"
+      },
+      {
+        "lang": "no",
+        "name": "Rustnakkespringvaktel"
+      },
+      {
+        "lang": "pl",
+        "name": "przepiórnik płowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Toirão-de-peito-pardo"
+      },
+      {
+        "lang": "sk",
+        "name": "prepeľovec veľkozobý"
+      },
+      {
+        "lang": "sv",
+        "name": "Beigebröstad springhöna"
+      },
+      {
+        "lang": "zh",
+        "name": "黄胸三趾鹑"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix ocellatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spotted Buttonquail"
+      },
+      {
+        "lang": "nl",
+        "name": "Gevlekte vechtkwartel"
+      },
+      {
+        "lang": "fi",
+        "name": "Täpläpyyjuoksija"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix nigricollis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Madagascar Buttonquail"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinpyyjuoksija"
+      },
+      {
+        "lang": "ja",
+        "name": "マダガスカルミフウズラ"
+      },
+      {
+        "lang": "sv",
+        "name": "Madagaskarspringhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix melanogaster",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-breasted Buttonquail"
+      },
+      {
+        "lang": "es",
+        "name": "Torillo pechinegro"
+      },
+      {
+        "lang": "fi",
+        "name": "Viidakkopyyjuoksija"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartbröstad springhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix maculosus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-backed Buttonquail"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruohikkopyyjuoksija"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråryggig springhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix hottentottus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-rumped Buttonquail"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikanpyyjuoksija"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartgumpad springhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix everetti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sumba Buttonquail"
+      },
+      {
+        "lang": "es",
+        "name": "Torillo de Sumba"
+      },
+      {
+        "lang": "fi",
+        "name": "Sumbanpyyjuoksija"
+      },
+      {
+        "lang": "sv",
+        "name": "Sumbaspringhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turnix castanotus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-backed Buttonquail"
+      },
+      {
+        "lang": "fr",
+        "name": "turnix castanote"
+      },
+      {
+        "lang": "fi",
+        "name": "Savannipyyjuoksija"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostryggig springhöna"
+      }
+    ]
+  }
+]

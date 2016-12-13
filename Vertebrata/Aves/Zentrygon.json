@@ -1,0 +1,326 @@
+[
+  {
+    "scientific_name": "Zentrygon linearis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub venezuelský"
+      },
+      {
+        "lang": "de",
+        "name": "Streifentaube"
+      },
+      {
+        "lang": "en",
+        "name": "Lined Quail-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma-perdiz embridada"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe bridée"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zentrygon lawrencii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub Lawrenceův"
+      },
+      {
+        "lang": "de",
+        "name": "Purpurrückentaube"
+      },
+      {
+        "lang": "en",
+        "name": "Purplish-backed Quail-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma-perdiz de Lawrence"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe de Lawrence"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zentrygon goldmani",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub Goldmanův"
+      },
+      {
+        "lang": "de",
+        "name": "Goldmantaube"
+      },
+      {
+        "lang": "en",
+        "name": "Russet-crowned Quail-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma-perdiz de Goldman"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe de Goldman"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zentrygon frenata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub bělohrdlý"
+      },
+      {
+        "lang": "de",
+        "name": "Peru-Wachteltaube"
+      },
+      {
+        "lang": "en",
+        "name": "White-throated Quail-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma-perdiz Gorgiblanca"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe à gorge blanche"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérképű földigalamb"
+      },
+      {
+        "lang": "nl",
+        "name": "Teugelkwartelduif"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitstrupig vaktelduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zentrygon costaricensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub kostarický"
+      },
+      {
+        "lang": "da",
+        "name": "Costa Rica-vagteldue"
+      },
+      {
+        "lang": "de",
+        "name": "Costa-Rica-Taube"
+      },
+      {
+        "lang": "en",
+        "name": "Buff-fronted Quail-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma-perdiz Costarricense"
+      },
+      {
+        "lang": "et",
+        "name": "Kostariika töbituvi"
+      },
+      {
+        "lang": "fi",
+        "name": "Purppuraviiriäiskyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe du Costa Rica"
+      },
+      {
+        "lang": "hu",
+        "name": "Costa Rica-i földigalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora quaglia della Costarica"
+      },
+      {
+        "lang": "ja",
+        "name": "セアカウズラバト"
+      },
+      {
+        "lang": "la",
+        "name": "Geotrygon costaricensis"
+      },
+      {
+        "lang": "nl",
+        "name": "Costaricaanse Kwartelduif"
+      },
+      {
+        "lang": "no",
+        "name": "Fjellvakteldue"
+      },
+      {
+        "lang": "pl",
+        "name": "Błyskotek zielonoszyi"
+      },
+      {
+        "lang": "ru",
+        "name": "Коста-Риканский земляной голубь"
+      },
+      {
+        "lang": "sk",
+        "name": "Holubec kostarický"
+      },
+      {
+        "lang": "sv",
+        "name": "Costarikansk vaktelduva"
+      },
+      {
+        "lang": "zh",
+        "name": "黄额鹑鸠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zentrygon chiriquensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub chiriquický"
+      },
+      {
+        "lang": "da",
+        "name": "Chiriquívagteldue"
+      },
+      {
+        "lang": "de",
+        "name": "Chiriquitaube"
+      },
+      {
+        "lang": "en",
+        "name": "Chiriquí Quail-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma-perdiz de Chiriquí"
+      },
+      {
+        "lang": "et",
+        "name": "Ruske-töbituvi"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruosteviiriäiskyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe du Chiriqui"
+      },
+      {
+        "lang": "hu",
+        "name": "Chiriqui földigalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora quaglia pettorossiccio"
+      },
+      {
+        "lang": "ja",
+        "name": "ムネアカウズラバト"
+      },
+      {
+        "lang": "la",
+        "name": "Geotrygon chiriquensis"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodborstkwartelduif"
+      },
+      {
+        "lang": "no",
+        "name": "Kanelvakteldue"
+      },
+      {
+        "lang": "pl",
+        "name": "Błyskotek brunatny"
+      },
+      {
+        "lang": "ru",
+        "name": "Центральноамериканский голубь"
+      },
+      {
+        "lang": "sk",
+        "name": "Holubec hôrny"
+      },
+      {
+        "lang": "sv",
+        "name": "Chiriquivaktelduva"
+      },
+      {
+        "lang": "zh",
+        "name": "棕胸鹑鸠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zentrygon carrikeri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub veracruzský"
+      },
+      {
+        "lang": "en",
+        "name": "Tuxtla Quail-dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zentrygon albifacies",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Holub okrovolící"
+      },
+      {
+        "lang": "de",
+        "name": "Sclatertaube"
+      },
+      {
+        "lang": "en",
+        "name": "White-faced Quail-dove"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma-perdiz cariblanca"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe des nuages"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehércsíkos földigalamb"
+      },
+      {
+        "lang": "nl",
+        "name": "Sclaters kwartelduif"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitkindad vaktelduva"
+      }
+    ]
+  }
+]

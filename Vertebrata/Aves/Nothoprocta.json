@@ -1,0 +1,162 @@
+[
+  {
+    "scientific_name": "Nothoprocta taczanowskii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama Taczanowského"
+      },
+      {
+        "lang": "en",
+        "name": "Taczanowski's Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú de Taczanowski"
+      },
+      {
+        "lang": "lt",
+        "name": "Tačanovskio stepinis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Taczanowskis tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nothoprocta perdicaria",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama koroptví"
+      },
+      {
+        "lang": "en",
+        "name": "Chilean Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú chileno"
+      },
+      {
+        "lang": "lt",
+        "name": "Čilinis stepinis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Chilensk tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nothoprocta pentlandii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama andská"
+      },
+      {
+        "lang": "en",
+        "name": "Andean Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú andino"
+      },
+      {
+        "lang": "lt",
+        "name": "Andinis stepinis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Andinsk tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nothoprocta ornata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ornate Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú pisacca",
+        "synonyms": [
+          "Tinamú ornado"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Puošnusis stepinis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Tofstinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nothoprocta kalinowskii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Nothoprocta curvirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama křivozobá"
+      },
+      {
+        "lang": "en",
+        "name": "Curve-billed tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú del páramo"
+      },
+      {
+        "lang": "lt",
+        "name": "Kreivasnapis stepinis tinamas"
+      },
+      {
+        "lang": "nl",
+        "name": "Krombektinamoe"
+      },
+      {
+        "lang": "sv",
+        "name": "Bågnäbbad tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nothoprocta cinerascens",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama pokřovní"
+      },
+      {
+        "lang": "en",
+        "name": "Brushland tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú montaraz",
+        "synonyms": [
+          "Tinamú de la hierba"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Krūmyninis sterpinis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Busktinamo"
+      }
+    ]
+  }
+]

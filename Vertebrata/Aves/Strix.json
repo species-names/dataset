@@ -1,0 +1,955 @@
+[
+  {
+    "scientific_name": "Strix woodfordii",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بومة الغياض الأفريقيَّة"
+      },
+      {
+        "lang": "en",
+        "name": "African Wood-owl"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikanpöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix virgata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Strix varia",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Əlvan yapalaqca"
+      },
+      {
+        "lang": "bg",
+        "name": "Северноамериканска улулица"
+      },
+      {
+        "lang": "ca",
+        "name": "Gamarús nord-americà"
+      },
+      {
+        "lang": "cs",
+        "name": "Puštík proužkovaný"
+      },
+      {
+        "lang": "da",
+        "name": "Båndet Natugle"
+      },
+      {
+        "lang": "de",
+        "name": "Streifenkauz"
+      },
+      {
+        "lang": "en",
+        "name": "Barred Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Cárabo norteamericano"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد راه‌راه"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikanviirupöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chouette rayée"
+      },
+      {
+        "lang": "hu",
+        "name": "Szalagos bagoly"
+      },
+      {
+        "lang": "it",
+        "name": "Allocco barrato"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカフクロウ"
+      },
+      {
+        "lang": "nah",
+        "name": "Chichtli"
+      },
+      {
+        "lang": "nl",
+        "name": "Gestreepte Bosuil"
+      },
+      {
+        "lang": "no",
+        "name": "Høvdingugle"
+      },
+      {
+        "lang": "pl",
+        "name": "Puszczyk kreskowany"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-barrada"
+      },
+      {
+        "lang": "ru",
+        "name": "Пёстрая неясыть"
+      },
+      {
+        "lang": "sk",
+        "name": "Sova pásikavá"
+      },
+      {
+        "lang": "sv",
+        "name": "Kråsuggla"
+      },
+      {
+        "lang": "tr",
+        "name": "Çizgili baykuş"
+      },
+      {
+        "lang": "uk",
+        "name": "Смугаста сова"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú lông sọc"
+      },
+      {
+        "lang": "zh",
+        "name": "横斑林鸮"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix uralensis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بومة الاورال"
+      },
+      {
+        "lang": "az",
+        "name": "Uzunquyruq yapalaqca"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡауҡылдаҡ ябалаҡ"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Даўгахвостая кугакаўка"
+      },
+      {
+        "lang": "be",
+        "name": "Даўгахвостая кугакаўка"
+      },
+      {
+        "lang": "bg",
+        "name": "Уралска улулица"
+      },
+      {
+        "lang": "br",
+        "name": "Kaouenn-Oural"
+      },
+      {
+        "lang": "ca",
+        "name": "Gamarús dels Urals"
+      },
+      {
+        "lang": "cs",
+        "name": "Puštík bělavý"
+      },
+      {
+        "lang": "da",
+        "name": "Slagugle"
+      },
+      {
+        "lang": "de",
+        "name": "Habichtskauz"
+      },
+      {
+        "lang": "en",
+        "name": "Ural Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Cárabo uralense"
+      },
+      {
+        "lang": "et",
+        "name": "Händkakk"
+      },
+      {
+        "lang": "eu",
+        "name": "Uraletako urubi"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد اوراسیایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Viirupöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chouette de l'Oural"
+      },
+      {
+        "lang": "hu",
+        "name": "Uráli bagoly"
+      },
+      {
+        "lang": "it",
+        "name": "Allocco degli Urali"
+      },
+      {
+        "lang": "ja",
+        "name": "フクロウ"
+      },
+      {
+        "lang": "ko",
+        "name": "긴점박이올빼미"
+      },
+      {
+        "lang": "ltg",
+        "name": "Uralu palāda"
+      },
+      {
+        "lang": "lt",
+        "name": "Uralinė pelėda"
+      },
+      {
+        "lang": "lv",
+        "name": "Urālpūce"
+      },
+      {
+        "lang": "mk",
+        "name": "Уралска улулајка"
+      },
+      {
+        "lang": "mn",
+        "name": "Хув ууль"
+      },
+      {
+        "lang": "nl",
+        "name": "Oeraluil"
+      },
+      {
+        "lang": "nn",
+        "name": "Slagugle"
+      },
+      {
+        "lang": "no",
+        "name": "Slagugle"
+      },
+      {
+        "lang": "pl",
+        "name": "Puszczyk uralski"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-dos-urais"
+      },
+      {
+        "lang": "rue",
+        "name": "Уральска сова"
+      },
+      {
+        "lang": "ru",
+        "name": "Длиннохвостая неясыть"
+      },
+      {
+        "lang": "sah",
+        "name": "Үрүҥ хаххан"
+      },
+      {
+        "lang": "se",
+        "name": "Govuskuolfi"
+      },
+      {
+        "lang": "sk",
+        "name": "Sova dlhochvostá"
+      },
+      {
+        "lang": "sl",
+        "name": "Kozača"
+      },
+      {
+        "lang": "sr",
+        "name": "Дугорепа сова"
+      },
+      {
+        "lang": "sv",
+        "name": "Slaguggla"
+      },
+      {
+        "lang": "uk",
+        "name": "Сова довгохвоста"
+      },
+      {
+        "lang": "zh",
+        "name": "長尾林鴞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix seloputo",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Puštík tečkovaný"
+      },
+      {
+        "lang": "th",
+        "name": "นกเค้าป่าหลังจุด"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix sartorii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mexican Barred Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix rufipes",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Puštík rezavonohý"
+      },
+      {
+        "lang": "es",
+        "name": "concón",
+        "synonyms": [
+          "lechuza bataraz"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Rufous-legged owl"
+      },
+      {
+        "lang": "hu",
+        "name": "Vöröslábú bagoly"
+      },
+      {
+        "lang": "fi",
+        "name": "Argentiinanpöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix omanensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Strix ocellata",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Индийска улулица"
+      },
+      {
+        "lang": "cs",
+        "name": "Puštík skvrnitý"
+      },
+      {
+        "lang": "da",
+        "name": "Vatret Natugle"
+      },
+      {
+        "lang": "de",
+        "name": "Mangokauz"
+      },
+      {
+        "lang": "en",
+        "name": "Mottled Wood Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Cárabo ocelado"
+      },
+      {
+        "lang": "et",
+        "name": "Salukakk"
+      },
+      {
+        "lang": "fi",
+        "name": "Intianpöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chouette ocellée"
+      },
+      {
+        "lang": "hu",
+        "name": "Mangóbagoly"
+      },
+      {
+        "lang": "it",
+        "name": "Allocco marezzato",
+        "synonyms": [
+          "Allocco ocellato"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "インドモリフクロウ [indomorifukurou]"
+      },
+      {
+        "lang": "ml",
+        "name": "കാലൻകോഴി"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische bosuil"
+      },
+      {
+        "lang": "no",
+        "name": "Hinduugle"
+      },
+      {
+        "lang": "pl",
+        "name": "Puszczyk falisty"
+      },
+      {
+        "lang": "ru",
+        "name": "Манговая неясыть"
+      },
+      {
+        "lang": "sk",
+        "name": "Sova hájová"
+      },
+      {
+        "lang": "sv",
+        "name": "Vattrad skogsuggla"
+      },
+      {
+        "lang": "zh",
+        "name": "白領林鴞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix occidentalis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Puštík západní"
+      },
+      {
+        "lang": "es",
+        "name": "Cárabo manchado"
+      },
+      {
+        "lang": "ja",
+        "name": "ニシアメリカフクロウ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix nivicolum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Himalayan Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix nigrolineata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Strix nebulosa",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Kaouenn lapon"
+      },
+      {
+        "lang": "cs",
+        "name": "Puštík vousatý"
+      },
+      {
+        "lang": "da",
+        "name": "Lapugle"
+      },
+      {
+        "lang": "de",
+        "name": "Bartkauz"
+      },
+      {
+        "lang": "en",
+        "name": "Great Grey Owl"
+      },
+      {
+        "lang": "eo",
+        "name": "Lapona strigo"
+      },
+      {
+        "lang": "es",
+        "name": "Cárabo Lapón"
+      },
+      {
+        "lang": "et",
+        "name": "Habekakk"
+      },
+      {
+        "lang": "fi",
+        "name": "Lapinpöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chouette lapone"
+      },
+      {
+        "lang": "he",
+        "name": "לילית אפורה"
+      },
+      {
+        "lang": "hu",
+        "name": "Szakállas bagoly"
+      },
+      {
+        "lang": "id",
+        "name": "Burung hantu kelabu besar"
+      },
+      {
+        "lang": "is",
+        "name": "Lappugla"
+      },
+      {
+        "lang": "it",
+        "name": "Allocco di Lapponia"
+      },
+      {
+        "lang": "ja",
+        "name": "カラフトフクロウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Laplandinė pelėda"
+      },
+      {
+        "lang": "nl",
+        "name": "Laplanduil"
+      },
+      {
+        "lang": "no",
+        "name": "Lappugle"
+      },
+      {
+        "lang": "pl",
+        "name": "Puszczyk mszarny"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-lapónica"
+      },
+      {
+        "lang": "ru",
+        "name": "Бородатая неясыть"
+      },
+      {
+        "lang": "sah",
+        "name": "Куйбаҥкы"
+      },
+      {
+        "lang": "se",
+        "name": "Ránesskuolfi"
+      },
+      {
+        "lang": "sk",
+        "name": "Sova tmavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Bradata sova"
+      },
+      {
+        "lang": "sv",
+        "name": "Lappuggla"
+      },
+      {
+        "lang": "uk",
+        "name": "Сова лапландська"
+      },
+      {
+        "lang": "zh",
+        "name": "乌林鸮"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix leptogrammica",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Puštík hnědý"
+      },
+      {
+        "lang": "th",
+        "name": "นกเค้าป่าสีน้ำตาล"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix hylophila",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Puštík brazilský"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix huhula",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Strix hadorami",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Desert tawny owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix fulvescens",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Puštík guatemalský"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix davidi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Puštík Davidův"
+      },
+      {
+        "lang": "en",
+        "name": "Pere David's Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix chacoensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Puštík paraguajský"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix butleri",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بومة بتلر"
+      },
+      {
+        "lang": "bg",
+        "name": "Пустинна улулица"
+      },
+      {
+        "lang": "cs",
+        "name": "Puštík arabský"
+      },
+      {
+        "lang": "da",
+        "name": "Ørkennatugle"
+      },
+      {
+        "lang": "de",
+        "name": "Fahlkauz"
+      },
+      {
+        "lang": "en",
+        "name": "Omani Owl"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد طلایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Aavikkopöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chouette de Butler"
+      },
+      {
+        "lang": "nl",
+        "name": "Omaanse uil"
+      },
+      {
+        "lang": "pl",
+        "name": "Puszczyk arabski"
+      },
+      {
+        "lang": "ru",
+        "name": "Бледная неясыть"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix aluco",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "البومة السمراء"
+      },
+      {
+        "lang": "az",
+        "name": "Adi yapalaqca"
+      },
+      {
+        "lang": "ba",
+        "name": "Һоро ябалаҡ"
+      },
+      {
+        "lang": "be",
+        "name": "Шэрая кугакаўка"
+      },
+      {
+        "lang": "bg",
+        "name": "Горска улулица"
+      },
+      {
+        "lang": "br",
+        "name": "Kaouenn penn tev"
+      },
+      {
+        "lang": "ca",
+        "name": "Gamarús"
+      },
+      {
+        "lang": "cs",
+        "name": "Puštík obecný"
+      },
+      {
+        "lang": "cv",
+        "name": "Вăрман тăмани"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan Frech"
+      },
+      {
+        "lang": "da",
+        "name": "Natugle"
+      },
+      {
+        "lang": "de",
+        "name": "Waldkauz"
+      },
+      {
+        "lang": "el",
+        "name": "Χουχουριστής"
+      },
+      {
+        "lang": "en",
+        "name": "Tawny Owl"
+      },
+      {
+        "lang": "eo",
+        "name": "Arbarstrigo"
+      },
+      {
+        "lang": "es",
+        "name": "Cárabo común"
+      },
+      {
+        "lang": "et",
+        "name": "Kodukakk"
+      },
+      {
+        "lang": "eu",
+        "name": "Urubi arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد جنگلی"
+      },
+      {
+        "lang": "fi",
+        "name": "Lehtopöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chouette hulotte"
+      },
+      {
+        "lang": "frr",
+        "name": "Kauts"
+      },
+      {
+        "lang": "gl",
+        "name": "Avelaiona"
+      },
+      {
+        "lang": "he",
+        "name": "לילית מצויה"
+      },
+      {
+        "lang": "hu",
+        "name": "Macskabagoly"
+      },
+      {
+        "lang": "hy",
+        "name": "Անտառաբու"
+      },
+      {
+        "lang": "id",
+        "name": "Burung hantu cokelat"
+      },
+      {
+        "lang": "io",
+        "name": "Falva strigo"
+      },
+      {
+        "lang": "it",
+        "name": "Allocco"
+      },
+      {
+        "lang": "ja",
+        "name": "モリフクロウ"
+      },
+      {
+        "lang": "kbd",
+        "name": "Дыгъургъуу"
+      },
+      {
+        "lang": "ko",
+        "name": "올빼미"
+      },
+      {
+        "lang": "ku",
+        "name": "Kundê şevê"
+      },
+      {
+        "lang": "lt",
+        "name": "Naminė pelėda"
+      },
+      {
+        "lang": "lv",
+        "name": "Meža pūce"
+      },
+      {
+        "lang": "nl",
+        "name": "Bosuil"
+      },
+      {
+        "lang": "nn",
+        "name": "Kattugle"
+      },
+      {
+        "lang": "no",
+        "name": "Kattugle"
+      },
+      {
+        "lang": "oc",
+        "name": "Chòt"
+      },
+      {
+        "lang": "pl",
+        "name": "Puszczyk zwyczajny"
+      },
+      {
+        "lang": "pt",
+        "name": "Aluco"
+      },
+      {
+        "lang": "ro",
+        "name": "Huhurez-mic"
+      },
+      {
+        "lang": "ru",
+        "name": "Серая неясыть"
+      },
+      {
+        "lang": "rue",
+        "name": "Лелит"
+      },
+      {
+        "lang": "scn",
+        "name": "Cuccu"
+      },
+      {
+        "lang": "sco",
+        "name": "Jennie houlet"
+      },
+      {
+        "lang": "se",
+        "name": "Bussáskuolfi"
+      },
+      {
+        "lang": "sk",
+        "name": "Sova obyčajná"
+      },
+      {
+        "lang": "sl",
+        "name": "Lesna sova"
+      },
+      {
+        "lang": "sv",
+        "name": "Kattuggla"
+      },
+      {
+        "lang": "tr",
+        "name": "Alaca baykuş"
+      },
+      {
+        "lang": "uk",
+        "name": "Сова сіра"
+      },
+      {
+        "lang": "vi",
+        "name": "Hù nivicon"
+      },
+      {
+        "lang": "zh",
+        "name": "灰林鸮"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "灰林鴞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Strix albitarsis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Puštík bělonohý"
+      },
+      {
+        "lang": "fi",
+        "name": "Andienmetsäpöllö"
+      }
+    ]
+  }
+]

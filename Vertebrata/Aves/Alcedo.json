@@ -1,0 +1,548 @@
+[
+  {
+    "scientific_name": "Alcedo semitorquata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ledňáček límcový"
+      },
+      {
+        "lang": "en",
+        "name": "Half-collared Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Martín pescador cobalto"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-pêcheur à demi-collier"
+      },
+      {
+        "lang": "hu",
+        "name": "Kobalt jégmadár"
+      },
+      {
+        "lang": "tr",
+        "name": "Yarım yakalı yalıçapkını"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alcedo quadribrachys",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ledňáček třpytivý"
+      },
+      {
+        "lang": "en",
+        "name": "Shining Blue Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Martín pescador brillante"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-pêcheur azuré"
+      },
+      {
+        "lang": "hu",
+        "name": "Schiller-jégmadár"
+      },
+      {
+        "lang": "tr",
+        "name": "Parlak mavı yalıçapkını"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alcedo meninting",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ledňáček modrohřbetý"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-eared Kingfisher"
+      },
+      {
+        "lang": "ja",
+        "name": "ルリカワセミ"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi kulaklı yalıçapkını"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alcedo ispida",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Alcedo hercules",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ledňáček větší"
+      },
+      {
+        "lang": "en",
+        "name": "Blyth's Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Martín pescador hércules"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเต็นเฮอร์คิวลิส",
+        "synonyms": [
+          "นกกะเต็นเฮอร์คิวลิส"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alcedo euryzona",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ledňáček modroprsý"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-banded Kingfisher"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi çizgili yalıçapkını"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alcedo coerulescens",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ledňáček drobný"
+      },
+      {
+        "lang": "en",
+        "name": "Small Blue Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Martín pescador azulado"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük mavi yalıçapkını"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alcedo atthis ispida",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Alcedo atthis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Europese visvanger"
+      },
+      {
+        "lang": "als",
+        "name": "Eisvogel"
+      },
+      {
+        "lang": "an",
+        "name": "Martinet pescataire"
+      },
+      {
+        "lang": "ar",
+        "name": "السّماك الاعتيادي"
+      },
+      {
+        "lang": "ast",
+        "name": "Verderríos"
+      },
+      {
+        "lang": "az",
+        "name": "Adi balıqçıl"
+      },
+      {
+        "lang": "ba",
+        "name": "Балыҡсы турғай"
+      },
+      {
+        "lang": "be",
+        "name": "Зiмародак"
+      },
+      {
+        "lang": "bg",
+        "name": "Земеродно рибарче"
+      },
+      {
+        "lang": "br",
+        "name": "Diredig boutin"
+      },
+      {
+        "lang": "ca",
+        "name": "Blauet"
+      },
+      {
+        "lang": "ce",
+        "name": "Selast"
+      },
+      {
+        "lang": "ceb",
+        "name": "Uwak-bata"
+      },
+      {
+        "lang": "cjs",
+        "name": "Қарлық"
+      },
+      {
+        "lang": "cs",
+        "name": "Ledňáček říční"
+      },
+      {
+        "lang": "csb",
+        "name": "Lodôk"
+      },
+      {
+        "lang": "cv",
+        "name": "Сенкер пулăç кайăк"
+      },
+      {
+        "lang": "cy",
+        "name": "Glas y dorlan"
+      },
+      {
+        "lang": "da",
+        "name": "Isfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Eisvogel"
+      },
+      {
+        "lang": "el",
+        "name": "Αλκυόνα"
+      },
+      {
+        "lang": "en",
+        "name": "Common Kingfisher"
+      },
+      {
+        "lang": "eo",
+        "name": "Alciono"
+      },
+      {
+        "lang": "es",
+        "name": "Martín Pescador Común"
+      },
+      {
+        "lang": "et",
+        "name": "Lõuna-jäälind"
+      },
+      {
+        "lang": "eu",
+        "name": "Martin arrantzale"
+      },
+      {
+        "lang": "ext",
+        "name": "Picapeci"
+      },
+      {
+        "lang": "fa",
+        "name": "ماهی‌خورک"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuningaskalastaja"
+      },
+      {
+        "lang": "fo",
+        "name": "Ísfuglur"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-pêcheur d'Europe"
+      },
+      {
+        "lang": "fy",
+        "name": "Iisfûgel"
+      },
+      {
+        "lang": "ga",
+        "name": "Cruidín"
+      },
+      {
+        "lang": "gd",
+        "name": "Biorra cruidein"
+      },
+      {
+        "lang": "gl",
+        "name": "Picapeixe"
+      },
+      {
+        "lang": "gv",
+        "name": "Eeasteyr beg ny hawin"
+      },
+      {
+        "lang": "he",
+        "name": "שלדג גמדי"
+      },
+      {
+        "lang": "hi",
+        "name": "कौड़िल्ली"
+      },
+      {
+        "lang": "hr",
+        "name": "Vodomar"
+      },
+      {
+        "lang": "hu",
+        "name": "Jégmadár"
+      },
+      {
+        "lang": "hy",
+        "name": "Երկնագույն Ալկիոն"
+      },
+      {
+        "lang": "id",
+        "name": "Raja-udang erasia"
+      },
+      {
+        "lang": "io",
+        "name": "Martin-peskero"
+      },
+      {
+        "lang": "is",
+        "name": "Bláþyrill"
+      },
+      {
+        "lang": "it",
+        "name": "Martin pescatore"
+      },
+      {
+        "lang": "ja",
+        "name": "カワセミ"
+      },
+      {
+        "lang": "ka",
+        "name": "ალკუნი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Псыкъуаргъ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Кöк обаа"
+      },
+      {
+        "lang": "kk",
+        "name": "Зымыран"
+      },
+      {
+        "lang": "ko",
+        "name": "물총새"
+      },
+      {
+        "lang": "ku",
+        "name": "Masîxwerê koçoç ê kesk"
+      },
+      {
+        "lang": "kw",
+        "name": "Pyscajor an Myghtern"
+      },
+      {
+        "lang": "la",
+        "name": "Alcedo"
+      },
+      {
+        "lang": "lb",
+        "name": "Äisvull"
+      },
+      {
+        "lang": "li",
+        "name": "IJsvogel"
+      },
+      {
+        "lang": "lt",
+        "name": "Tulžys"
+      },
+      {
+        "lang": "lv",
+        "name": "Zivju dzenītis"
+      },
+      {
+        "lang": "mk",
+        "name": "Рибарче"
+      },
+      {
+        "lang": "ml",
+        "name": "ചെറിയ മീൻകൊത്തി"
+      },
+      {
+        "lang": "mn",
+        "name": "Нохой шогшир"
+      },
+      {
+        "lang": "ms",
+        "name": "Raja Udang"
+      },
+      {
+        "lang": "mt",
+        "name": "Għasfur ta' San Martin"
+      },
+      {
+        "lang": "nds",
+        "name": "Iesvagel"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Iesvoggel"
+      },
+      {
+        "lang": "nl",
+        "name": "IJsvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Isfugl"
+      },
+      {
+        "lang": "no",
+        "name": "Isfugl"
+      },
+      {
+        "lang": "pcd",
+        "name": "Pêque-roche"
+      },
+      {
+        "lang": "pl",
+        "name": "Zimorodek zwyczajny"
+      },
+      {
+        "lang": "pms",
+        "name": "Martin pëscheur"
+      },
+      {
+        "lang": "pt",
+        "name": "Guarda-rios-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Pestgaderin"
+      },
+      {
+        "lang": "ro",
+        "name": "Pescăruș albastru"
+      },
+      {
+        "lang": "ru",
+        "name": "Зимородок"
+      },
+      {
+        "lang": "rue",
+        "name": "Морозюк"
+      },
+      {
+        "lang": "sc",
+        "name": "Aciufa aciufa"
+      },
+      {
+        "lang": "sco",
+        "name": "Kingfisher"
+      },
+      {
+        "lang": "sh",
+        "name": "Vodomar"
+      },
+      {
+        "lang": "sk",
+        "name": "Rybárik riečny"
+      },
+      {
+        "lang": "sl",
+        "name": "Vodomec"
+      },
+      {
+        "lang": "sq",
+        "name": "Bilbil uji"
+      },
+      {
+        "lang": "sr",
+        "name": "Vodomar / Водомар"
+      },
+      {
+        "lang": "stq",
+        "name": "Iesfuugel"
+      },
+      {
+        "lang": "sv",
+        "name": "Kungsfiskare"
+      },
+      {
+        "lang": "sw",
+        "name": "Mdiria wa Ulaya"
+      },
+      {
+        "lang": "ta",
+        "name": "மீன்கொத்தி"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเต็นน้อยธรรมดา"
+      },
+      {
+        "lang": "tk",
+        "name": "Zaply"
+      },
+      {
+        "lang": "tr",
+        "name": "Yalıçapkını"
+      },
+      {
+        "lang": "tyv",
+        "name": "Көк шиижек"
+      },
+      {
+        "lang": "uk",
+        "name": "Рибалочка"
+      },
+      {
+        "lang": "vec",
+        "name": "Pionbin"
+      },
+      {
+        "lang": "vi",
+        "name": "Bồng chanh"
+      },
+      {
+        "lang": "vls",
+        "name": "Ysveugel"
+      },
+      {
+        "lang": "zea",
+        "name": "Iesveugel"
+      },
+      {
+        "lang": "zh",
+        "name": "普通翠鸟"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "普通翠鳥"
+      }
+    ]
+  }
+]

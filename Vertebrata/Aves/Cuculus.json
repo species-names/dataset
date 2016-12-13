@@ -1,0 +1,669 @@
+[
+  {
+    "scientific_name": "Cuculus solitarius",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Piet-my-vrou"
+      },
+      {
+        "lang": "cs",
+        "name": "Kukačka červenoprsá"
+      },
+      {
+        "lang": "en",
+        "name": "Red-chested cuckoo"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl göğüslü guguk"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cuculus saturatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Himalayan Cuckoo"
+      },
+      {
+        "lang": "es",
+        "name": "Cuco oriental"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cuculus rochii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka madagaskarská"
+      },
+      {
+        "lang": "tr",
+        "name": "Madagaskar guguğu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cuculus poliocephalus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka menší"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Cuckoo"
+      },
+      {
+        "lang": "ja",
+        "name": "ホトトギス"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük guguk"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cuculus optatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Oriental Cuckoo"
+      },
+      {
+        "lang": "ja",
+        "name": "ツツドリ"
+      },
+      {
+        "lang": "tr",
+        "name": "Doğu guguğu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cuculus niger",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cuculus micropterus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka krátkokřídlá"
+      },
+      {
+        "lang": "en",
+        "name": "Indian Cuckoo"
+      },
+      {
+        "lang": "es",
+        "name": "Cuco alicorto"
+      },
+      {
+        "lang": "ja",
+        "name": "セグロカッコウ"
+      },
+      {
+        "lang": "tr",
+        "name": "Hint guguğu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cuculus lepidus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sunda Cuckoo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cuculus gularis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka africká"
+      },
+      {
+        "lang": "de",
+        "name": "Afrikanerkuckuck"
+      },
+      {
+        "lang": "en",
+        "name": "African Cuckoo"
+      },
+      {
+        "lang": "es",
+        "name": "Cuco barbiblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucou africain"
+      },
+      {
+        "lang": "pt",
+        "name": "Cuco-africano"
+      },
+      {
+        "lang": "tr",
+        "name": "Afrika guguğu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cuculus crassirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka celebeská"
+      },
+      {
+        "lang": "en",
+        "name": "Sulawesi Cuckoo"
+      },
+      {
+        "lang": "fi",
+        "name": "Celebesinhaukkakäki"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucou des Célèbes"
+      },
+      {
+        "lang": "hu",
+        "name": "Celebeszi karvalykakukk"
+      },
+      {
+        "lang": "sv",
+        "name": "Sulawesihökgök"
+      },
+      {
+        "lang": "tr",
+        "name": "Sulawesi atmaca guguğu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cuculus clamosus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka křiklavá"
+      },
+      {
+        "lang": "en",
+        "name": "Black Cuckoo"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara guguk"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cuculus canorus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Europese Koekoek"
+      },
+      {
+        "lang": "als",
+        "name": "Kuckuck"
+      },
+      {
+        "lang": "ar",
+        "name": "وقواق اعتيادي"
+      },
+      {
+        "lang": "arn",
+        "name": "Maykoño"
+      },
+      {
+        "lang": "ast",
+        "name": "Cuquiellu"
+      },
+      {
+        "lang": "av",
+        "name": "Гагу"
+      },
+      {
+        "lang": "az",
+        "name": "Ququ quşu"
+      },
+      {
+        "lang": "bar",
+        "name": "Kuckuck"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Kukūžė"
+      },
+      {
+        "lang": "be",
+        "name": "Зязюля (звычайная)"
+      },
+      {
+        "lang": "bg",
+        "name": "Обикновена кукувица"
+      },
+      {
+        "lang": "br",
+        "name": "Koukoug"
+      },
+      {
+        "lang": "ca",
+        "name": "Cucut"
+      },
+      {
+        "lang": "ce",
+        "name": "Ottyoq"
+      },
+      {
+        "lang": "co",
+        "name": "Cuccu"
+      },
+      {
+        "lang": "cs",
+        "name": "Kukačka obecná"
+      },
+      {
+        "lang": "csb",
+        "name": "Kukówka"
+      },
+      {
+        "lang": "cv",
+        "name": "Ахаль куккук"
+      },
+      {
+        "lang": "cy",
+        "name": "Cog"
+      },
+      {
+        "lang": "da",
+        "name": "Gøg"
+      },
+      {
+        "lang": "de",
+        "name": "Kuckuck"
+      },
+      {
+        "lang": "dsb",
+        "name": "Kukawa"
+      },
+      {
+        "lang": "el",
+        "name": "Κούκος"
+      },
+      {
+        "lang": "eml",
+        "name": "Cuc"
+      },
+      {
+        "lang": "en",
+        "name": "Common cuckoo"
+      },
+      {
+        "lang": "eo",
+        "name": "Kukolo"
+      },
+      {
+        "lang": "es",
+        "name": "Cuco común"
+      },
+      {
+        "lang": "et",
+        "name": "Kägu"
+      },
+      {
+        "lang": "eu",
+        "name": "Kuku"
+      },
+      {
+        "lang": "fi",
+        "name": "käki"
+      },
+      {
+        "lang": "fo",
+        "name": "Geykur"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucou gris"
+      },
+      {
+        "lang": "frr",
+        "name": "Kukütj"
+      },
+      {
+        "lang": "fur",
+        "name": "Cuc"
+      },
+      {
+        "lang": "fy",
+        "name": "Koekoek"
+      },
+      {
+        "lang": "ga",
+        "name": "Cuach"
+      },
+      {
+        "lang": "gd",
+        "name": "Cuthag"
+      },
+      {
+        "lang": "gl",
+        "name": "Cuco"
+      },
+      {
+        "lang": "gn",
+        "name": "Jeruti"
+      },
+      {
+        "lang": "gv",
+        "name": "Cooag"
+      },
+      {
+        "lang": "he",
+        "name": "קוקיה אירופאית",
+        "synonyms": [
+          "קוקיה אירופית",
+          "קוקייה אירופית"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Kukavica"
+      },
+      {
+        "lang": "hsb",
+        "name": "Kokula"
+      },
+      {
+        "lang": "hu",
+        "name": "Kakukk"
+      },
+      {
+        "lang": "hy",
+        "name": "Սովորական Կկու"
+      },
+      {
+        "lang": "id",
+        "name": "Kangkok Erasia"
+      },
+      {
+        "lang": "io",
+        "name": "Kukulo"
+      },
+      {
+        "lang": "is",
+        "name": "Gaukur"
+      },
+      {
+        "lang": "it",
+        "name": "Cuculo"
+      },
+      {
+        "lang": "ja",
+        "name": "カッコウ"
+      },
+      {
+        "lang": "ka",
+        "name": "გუგული"
+      },
+      {
+        "lang": "kbd",
+        "name": "КӀыгуугу"
+      },
+      {
+        "lang": "kjh",
+        "name": "Кööк"
+      },
+      {
+        "lang": "kk",
+        "name": "Кәдімгі кєкек"
+      },
+      {
+        "lang": "ko",
+        "name": "뻐꾸기"
+      },
+      {
+        "lang": "ku",
+        "name": "Pepûk"
+      },
+      {
+        "lang": "kw",
+        "name": "Cok"
+      },
+      {
+        "lang": "kwn",
+        "name": "Mukuku"
+      },
+      {
+        "lang": "la",
+        "name": "Cuculus"
+      },
+      {
+        "lang": "lb",
+        "name": "Guckuck"
+      },
+      {
+        "lang": "lbe",
+        "name": "Ччикку"
+      },
+      {
+        "lang": "li",
+        "name": "Koekoek"
+      },
+      {
+        "lang": "lld",
+        "name": "Cuch"
+      },
+      {
+        "lang": "lt",
+        "name": "Gegutė"
+      },
+      {
+        "lang": "lv",
+        "name": "dzeguze"
+      },
+      {
+        "lang": "liv",
+        "name": "Keg"
+      },
+      {
+        "lang": "mk",
+        "name": "Кукавица"
+      },
+      {
+        "lang": "mn",
+        "name": "Хөхөө"
+      },
+      {
+        "lang": "mol",
+        "name": "Turturica"
+      },
+      {
+        "lang": "mt",
+        "name": "Daqquqa kaħla"
+      },
+      {
+        "lang": "myv",
+        "name": "Куко"
+      },
+      {
+        "lang": "nap",
+        "name": "Turtura"
+      },
+      {
+        "lang": "nds",
+        "name": "Kukuk"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Koekoek"
+      },
+      {
+        "lang": "nl",
+        "name": "Koekoek"
+      },
+      {
+        "lang": "nn",
+        "name": "Gauk"
+      },
+      {
+        "lang": "no",
+        "name": "Gjøk"
+      },
+      {
+        "lang": "nrm",
+        "name": "Coucou"
+      },
+      {
+        "lang": "oc",
+        "name": "Coguol"
+      },
+      {
+        "lang": "pcd",
+        "name": "Cocou"
+      },
+      {
+        "lang": "pl",
+        "name": "Kukułka"
+      },
+      {
+        "lang": "pms",
+        "name": "Coco"
+      },
+      {
+        "lang": "pt",
+        "name": "Cuco-canoro"
+      },
+      {
+        "lang": "rm",
+        "name": "Cucu"
+      },
+      {
+        "lang": "rmy",
+        "name": "Chuhuriashka"
+      },
+      {
+        "lang": "ro",
+        "name": "Cuc"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенная Кукушка"
+      },
+      {
+        "lang": "sah",
+        "name": "Кэҕэ"
+      },
+      {
+        "lang": "sc",
+        "name": "Cuccheddu"
+      },
+      {
+        "lang": "scn",
+        "name": "Cuccu"
+      },
+      {
+        "lang": "sco",
+        "name": "Gowk"
+      },
+      {
+        "lang": "se",
+        "name": "Giehka"
+      },
+      {
+        "lang": "sh",
+        "name": "Kukavica"
+      },
+      {
+        "lang": "sk",
+        "name": "Kukačka"
+      },
+      {
+        "lang": "sl",
+        "name": "Kukavica"
+      },
+      {
+        "lang": "so",
+        "name": "Ceelaljoog"
+      },
+      {
+        "lang": "sq",
+        "name": "Qyqja"
+      },
+      {
+        "lang": "sr",
+        "name": "Kukavica/кукавица"
+      },
+      {
+        "lang": "stq",
+        "name": "Kukuuk"
+      },
+      {
+        "lang": "sv",
+        "name": "Gök"
+      },
+      {
+        "lang": "sw",
+        "name": "Kekeo wa Ulaya"
+      },
+      {
+        "lang": "th",
+        "name": "นกคัคคูพันธุ์ยุโรป"
+      },
+      {
+        "lang": "tk",
+        "name": "Guguk"
+      },
+      {
+        "lang": "tr",
+        "name": "Guguk"
+      },
+      {
+        "lang": "tyv",
+        "name": "Хек"
+      },
+      {
+        "lang": "udm",
+        "name": "Кикы"
+      },
+      {
+        "lang": "uk",
+        "name": "Зозуля (звичайна)"
+      },
+      {
+        "lang": "vec",
+        "name": "Cucù"
+      },
+      {
+        "lang": "vep",
+        "name": "kägi"
+      },
+      {
+        "lang": "vi",
+        "name": "Cu cu"
+      },
+      {
+        "lang": "vro",
+        "name": "Kägo"
+      },
+      {
+        "lang": "zea",
+        "name": "Koekoek"
+      },
+      {
+        "lang": "zh",
+        "name": "郭公"
+      }
+    ]
+  }
+]

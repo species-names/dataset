@@ -1,0 +1,493 @@
+[
+  {
+    "scientific_name": "Ninox variegata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka bismarcká"
+      },
+      {
+        "lang": "de",
+        "name": "Neuirland-Kauz"
+      },
+      {
+        "lang": "en",
+        "name": "Bismarck Hawk Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Nínox de las Bismarck"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe bariolée"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox theomacha",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka džunglová"
+      },
+      {
+        "lang": "en",
+        "name": "Papuan boobook",
+        "synonyms": [
+          "jungle hawk owl"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Nínox papú"
+      },
+      {
+        "lang": "fi",
+        "name": "Nokihaukkapöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe brune"
+      },
+      {
+        "lang": "sv",
+        "name": "Papuaspökuggla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox superciliaris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka madagaskarská"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox sumbaensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Little Sumba Hawk-owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox strenua",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka statná"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox squamipila",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka molucká"
+      },
+      {
+        "lang": "en",
+        "name": "Hantu boobook"
+      },
+      {
+        "lang": "es",
+        "name": "Nínox moluqueño"
+      },
+      {
+        "lang": "fi",
+        "name": "Molukkienhaukkapöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe des Moluques"
+      },
+      {
+        "lang": "hu",
+        "name": "Molukkui héjabagoly"
+      },
+      {
+        "lang": "id",
+        "name": "Pungguk Maluku"
+      },
+      {
+        "lang": "nl",
+        "name": "Molukse valkuil"
+      },
+      {
+        "lang": "sv",
+        "name": "Buruspökuggla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox scutulata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka dravčí"
+      },
+      {
+        "lang": "en",
+        "name": "Brown Hawk Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Nínox pardo"
+      },
+      {
+        "lang": "ja",
+        "name": "アオバズク"
+      },
+      {
+        "lang": "ko",
+        "name": "솔부엉이"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-de-agulhas"
+      },
+      {
+        "lang": "th",
+        "name": "นกเค้าเหยี่ยว"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox rumseyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cebu Hawk Owl"
+      },
+      {
+        "lang": "pl",
+        "name": "sowica białorzytna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox rufa",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka ryšavá"
+      },
+      {
+        "lang": "en",
+        "name": "Rufous Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox rudolfi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka sumbská"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox punctulata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka tečkovaná"
+      },
+      {
+        "lang": "en",
+        "name": "Speckled Hawk-Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Nínox punteado"
+      },
+      {
+        "lang": "fi",
+        "name": "Celebesinhaukkapöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe pointillée"
+      },
+      {
+        "lang": "nl",
+        "name": "Gespikkelde valkuil"
+      },
+      {
+        "lang": "sv",
+        "name": "Fläckig spökuggla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox philippensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka filipínská"
+      },
+      {
+        "lang": "en",
+        "name": "Philippine Hawk-Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Nínox filipino"
+      },
+      {
+        "lang": "hu",
+        "name": "Fülöp-szigeteki héjabagoly"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox odiosa",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka novobritská"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox ochracea",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Nínox ocraci"
+      },
+      {
+        "lang": "cs",
+        "name": "Sovka okrová"
+      },
+      {
+        "lang": "en",
+        "name": "Ochre-bellied Hawk-Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Nínox ocráceo"
+      },
+      {
+        "lang": "fi",
+        "name": "Aarnihaukkapöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe ocrée"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelbuikvalkuil"
+      },
+      {
+        "lang": "sv",
+        "name": "Ockraspökuggla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox novaeseelandiae",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka ostrovní"
+      },
+      {
+        "lang": "de",
+        "name": "Neuseeland-Kuckuckskauz"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Boobook",
+        "synonyms": [
+          "mopoke",
+          "morepork"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Ruruo"
+      },
+      {
+        "lang": "hu",
+        "name": "Kakukkbagoly"
+      },
+      {
+        "lang": "mi",
+        "name": "Ruru"
+      },
+      {
+        "lang": "nl",
+        "name": "Boeboekuil"
+      },
+      {
+        "lang": "no",
+        "name": "Nattsvermerugle"
+      },
+      {
+        "lang": "fi",
+        "name": "Australianhaukkapöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox natalis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka vánoční"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox meeki",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka manuská"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox leventisi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Camiguin Hawk Owl"
+      },
+      {
+        "lang": "pl",
+        "name": "sowica białogardła"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox japonica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Boobook"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox jacquinoti",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka šalamounská"
+      },
+      {
+        "lang": "en",
+        "name": "Solomon Hawk Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Nínox de las Salomón"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe de Jacquinot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox ios",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka celebeská"
+      },
+      {
+        "lang": "en",
+        "name": "Cinnabar Hawk-Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Nínox bermejo",
+        "synonyms": [
+          "Lechuza gavilana de Cinnabar"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Cinnabarinhaukkapöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe rouilleuse"
+      },
+      {
+        "lang": "hu",
+        "name": "Fahéjszínű héjabagoly"
+      },
+      {
+        "lang": "nl",
+        "name": "Roestbruine valkuil"
+      },
+      {
+        "lang": "pl",
+        "name": "Sowica cynobrowa"
+      },
+      {
+        "lang": "sv",
+        "name": "Cinnoberspökuggla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox connivens",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka štěkavá"
+      },
+      {
+        "lang": "en",
+        "name": "Barking Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox burhani",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Togian Hawk-Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox boobook",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka bubuk"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox affinis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka andamanská"
+      },
+      {
+        "lang": "en",
+        "name": "Andaman Hawk-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Nínox de Andamán"
+      }
+    ]
+  }
+]

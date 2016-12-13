@@ -1,0 +1,399 @@
+[
+  {
+    "scientific_name": "Pterocles senegallus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spotted Sandgrouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles quadricinctus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Four-banded Sandgrouse"
+      },
+      {
+        "lang": "es",
+        "name": "Ganga cuadricinta"
+      },
+      {
+        "lang": "fr",
+        "name": "Ganga quadribande"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles personatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Madagascar Sandgrouse"
+      },
+      {
+        "lang": "es",
+        "name": "Ganga malgache"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles orientalis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "قطا أسود البطن"
+      },
+      {
+        "lang": "az",
+        "name": "Qaraqarın bağrıqara"
+      },
+      {
+        "lang": "br",
+        "name": "Ganga kof du"
+      },
+      {
+        "lang": "ca",
+        "name": "Xurra"
+      },
+      {
+        "lang": "ckb",
+        "name": "کوڕکوڕە"
+      },
+      {
+        "lang": "de",
+        "name": "Sandflughuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Black-bellied Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigraventra stepkoko"
+      },
+      {
+        "lang": "es",
+        "name": "Ganga ortega",
+        "synonyms": [
+          "ortega"
+        ]
+      },
+      {
+        "lang": "eu",
+        "name": "Ganga azpibeltz"
+      },
+      {
+        "lang": "fa",
+        "name": "باقرقره"
+      },
+      {
+        "lang": "fi",
+        "name": "Hietakyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Ganga unibande"
+      },
+      {
+        "lang": "ja",
+        "name": "クロハラサケイ"
+      },
+      {
+        "lang": "kk",
+        "name": "Қарабауыр бұлдырық"
+      },
+      {
+        "lang": "ku",
+        "name": "Qitik"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketehasú pusztaityúk"
+      },
+      {
+        "lang": "hy",
+        "name": "Դռլոն սևափոր"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartbuikzandhoen"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالے ٹڈ آلا ریتگراوز"
+      },
+      {
+        "lang": "pl",
+        "name": "Stepówka czarnobrzucha"
+      },
+      {
+        "lang": "pt",
+        "name": "Cortiçol-de-barriga-preta"
+      },
+      {
+        "lang": "ru",
+        "name": "Чернобрюхий рябок"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartbukad flyghöna"
+      },
+      {
+        "lang": "tk",
+        "name": "Bagyrtlak"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı bağırtlak"
+      },
+      {
+        "lang": "zh",
+        "name": "黑腹沙鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles namaqua",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Kapsandhøne"
+      },
+      {
+        "lang": "de",
+        "name": "Nama-Flughuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Namaqua Sandgrouse"
+      },
+      {
+        "lang": "fi",
+        "name": "Namibianhietakyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Ganga Namaqua"
+      },
+      {
+        "lang": "ja",
+        "name": "クリムネサケイ"
+      },
+      {
+        "lang": "nl",
+        "name": "Namaqua-zandhoen"
+      },
+      {
+        "lang": "pl",
+        "name": "Stepówka Namibijska"
+      },
+      {
+        "lang": "pt",
+        "name": "Cortiçol de Namaqua"
+      },
+      {
+        "lang": "ru",
+        "name": "намакский рябок"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles lichtensteinii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lichtenstein's Sandgrouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles indicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Painted Sandgrouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles gutturalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-throated Sandgrouse"
+      },
+      {
+        "lang": "es",
+        "name": "Ganga gorgigualda"
+      },
+      {
+        "lang": "fr",
+        "name": "Ganga à gorge jaune"
+      },
+      {
+        "lang": "pt",
+        "name": "Cortiçol-de-garganta-amarela"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles exustus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-bellied Sandgrouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles decoratus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-faced sandgrouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles coronatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crowned Sandgrouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles burchelli",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gevlekte sandpatrys"
+      },
+      {
+        "lang": "en",
+        "name": "Burchell's Sandgrouse"
+      },
+      {
+        "lang": "es",
+        "name": "Ganga goteada"
+      },
+      {
+        "lang": "fr",
+        "name": "Ganga de Burchell"
+      },
+      {
+        "lang": "hu",
+        "name": "Pettyes pusztaityúk"
+      },
+      {
+        "lang": "nl",
+        "name": "Bont zandhoen"
+      },
+      {
+        "lang": "sv",
+        "name": "Pärlflyghöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles bicinctus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Double-banded Sandgrouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pterocles alchata",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "قطا عراقي"
+      },
+      {
+        "lang": "az",
+        "name": "Qılquyruq bağrıqara"
+      },
+      {
+        "lang": "br",
+        "name": "Ganga kata"
+      },
+      {
+        "lang": "ca",
+        "name": "Ganga"
+      },
+      {
+        "lang": "de",
+        "name": "Spießflughuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Pin-tailed Sandgrouse"
+      },
+      {
+        "lang": "es",
+        "name": "Ganga ibérica"
+      },
+      {
+        "lang": "fa",
+        "name": "باقرقره شکم‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Jouhihietakyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Ganga cata"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyílfarkú pusztaityúk"
+      },
+      {
+        "lang": "hy",
+        "name": "Դռլոն սպիտակափոր"
+      },
+      {
+        "lang": "kk",
+        "name": "Ақбауыр бұлдырық"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbuikzandhoen"
+      },
+      {
+        "lang": "pl",
+        "name": "Stepówka białobrzucha"
+      },
+      {
+        "lang": "pnb",
+        "name": "سوئی پوچھل آلی ریتگراوئز"
+      },
+      {
+        "lang": "ps",
+        "name": "کورکورۍ"
+      },
+      {
+        "lang": "pt",
+        "name": "Cortiçol-de-barriga-branc"
+      },
+      {
+        "lang": "ru",
+        "name": "Белобрюхий рябок"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbukad flyghöna"
+      },
+      {
+        "lang": "tr",
+        "name": "Kılkuyruk bağırtlak"
+      }
+    ]
+  }
+]

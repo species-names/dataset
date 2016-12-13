@@ -1,0 +1,490 @@
+[
+  {
+    "scientific_name": "Gallus varius",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Gabelschwanzhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Green Junglefowl"
+      },
+      {
+        "lang": "es",
+        "name": "Gallo de Java"
+      },
+      {
+        "lang": "id",
+        "name": "Ayam-hutan Hijau"
+      },
+      {
+        "lang": "ru",
+        "name": "Зелёная дикая курица"
+      },
+      {
+        "lang": "th",
+        "name": "ไก่ป่าชวา"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallus sonneratii",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Gall gris"
+      },
+      {
+        "lang": "de",
+        "name": "Sonnerathuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Grey Junglefowl"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza koko"
+      },
+      {
+        "lang": "es",
+        "name": "Gallo gris"
+      },
+      {
+        "lang": "fr",
+        "name": "Coq de Sonnerat"
+      },
+      {
+        "lang": "he",
+        "name": "תרנגול סונרט"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürke dzsungeltyúk"
+      },
+      {
+        "lang": "id",
+        "name": "Ayam hutan kelabu"
+      },
+      {
+        "lang": "it",
+        "name": "Gallo grigio"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイイロヤケイ"
+      },
+      {
+        "lang": "ko",
+        "name": "회색야계"
+      },
+      {
+        "lang": "lv",
+        "name": "Pelēkā savvaļas vista"
+      },
+      {
+        "lang": "ml",
+        "name": "ചാര കാട്ടുകോഴി"
+      },
+      {
+        "lang": "ms",
+        "name": "Ayam hutan Kelabu"
+      },
+      {
+        "lang": "ne",
+        "name": "कालिज"
+      },
+      {
+        "lang": "nl",
+        "name": "Sonnerathoen"
+      },
+      {
+        "lang": "pl",
+        "name": "Kur siwy"
+      },
+      {
+        "lang": "pnb",
+        "name": "گرے جنگی ککڑ"
+      },
+      {
+        "lang": "pt",
+        "name": "Bengal"
+      },
+      {
+        "lang": "ru",
+        "name": "Серая джунглевая курица"
+      },
+      {
+        "lang": "sv",
+        "name": "Sonneratshöna"
+      },
+      {
+        "lang": "th",
+        "name": "ไก่ป่าเทา"
+      },
+      {
+        "lang": "zh",
+        "name": "灰原雞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallus lafayettii",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "دجاجة الأدغال السريلانكية"
+      },
+      {
+        "lang": "bg",
+        "name": "Шриланкска кокошка"
+      },
+      {
+        "lang": "bn",
+        "name": "শ্রীলঙ্কার বনমোরগ"
+      },
+      {
+        "lang": "br",
+        "name": "Kilhog Sri Lanka"
+      },
+      {
+        "lang": "ca",
+        "name": "Gall de Sri Lanka"
+      },
+      {
+        "lang": "de",
+        "name": "Ceylonhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Sri Lanka Junglefowl"
+      },
+      {
+        "lang": "eo",
+        "name": "Srilanka koko"
+      },
+      {
+        "lang": "es",
+        "name": "Gallo de Ceilán"
+      },
+      {
+        "lang": "fr",
+        "name": "Coq de Lafayette"
+      },
+      {
+        "lang": "he",
+        "name": "תרנגול סרי לנקה"
+      },
+      {
+        "lang": "hu",
+        "name": "Ceyloni tyúk"
+      },
+      {
+        "lang": "it",
+        "name": "Gallo dello Sri Lanka"
+      },
+      {
+        "lang": "ko",
+        "name": "실론야계"
+      },
+      {
+        "lang": "lv",
+        "name": "Šrilankas savvaļas vista"
+      },
+      {
+        "lang": "ml",
+        "name": "ശ്രീലങ്കൻ കാട്ടുകോഴി"
+      },
+      {
+        "lang": "ms",
+        "name": "Ayam hutan Sri Lanka"
+      },
+      {
+        "lang": "nl",
+        "name": "Ceylonhoen"
+      },
+      {
+        "lang": "pl",
+        "name": "Kur cejloński"
+      },
+      {
+        "lang": "pnb",
+        "name": "سری لنکا جنگلی ککڑ"
+      },
+      {
+        "lang": "ru",
+        "name": "Цейлонская джунглевая курица"
+      },
+      {
+        "lang": "si",
+        "name": "වළි කුකුළා"
+      },
+      {
+        "lang": "sv",
+        "name": "Ceylondjungelhöna"
+      },
+      {
+        "lang": "ta",
+        "name": "இலங்கைக் காட்டுக்கோழி"
+      },
+      {
+        "lang": "th",
+        "name": "ไก่ป่าลังกา"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà rừng Sri Lanka"
+      },
+      {
+        "lang": "zh",
+        "name": "黑尾原雞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallus gallus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooiboshoender"
+      },
+      {
+        "lang": "ak",
+        "name": "Akokɔ"
+      },
+      {
+        "lang": "ar",
+        "name": "دجاج الأدغال الأحمر"
+      },
+      {
+        "lang": "as",
+        "name": "বনকুকুৰা"
+      },
+      {
+        "lang": "be",
+        "name": "Банкіўскі певень"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Банкіўскі певень"
+      },
+      {
+        "lang": "bg",
+        "name": "Банкивска кокошка"
+      },
+      {
+        "lang": "bh",
+        "name": "जंगली मुर्गा"
+      },
+      {
+        "lang": "bn",
+        "name": "লাল বনমোরগ"
+      },
+      {
+        "lang": "ca",
+        "name": "Gall de Bankiva"
+      },
+      {
+        "lang": "cs",
+        "name": "Kur bankivský"
+      },
+      {
+        "lang": "da",
+        "name": "Bankivahøne"
+      },
+      {
+        "lang": "de",
+        "name": "Bankivahuhn"
+      },
+      {
+        "lang": "ee",
+        "name": "Koklo"
+      },
+      {
+        "lang": "en",
+        "name": "Red Junglefowl"
+      },
+      {
+        "lang": "eo",
+        "name": "Bankiva koko"
+      },
+      {
+        "lang": "es",
+        "name": "Gallo bankiva"
+      },
+      {
+        "lang": "et",
+        "name": "Puna-džunglikana"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ جنگلی سرخ"
+      },
+      {
+        "lang": "fi",
+        "name": "Punaviidakkokana"
+      },
+      {
+        "lang": "fr",
+        "name": "Coq bankiva"
+      },
+      {
+        "lang": "frp",
+        "name": "Jal dorâ"
+      },
+      {
+        "lang": "he",
+        "name": "תרנגול בנקיבה"
+      },
+      {
+        "lang": "hr",
+        "name": "Divlja kokoš"
+      },
+      {
+        "lang": "hu",
+        "name": "Bankivatyúk"
+      },
+      {
+        "lang": "id",
+        "name": "Ayam-hutan Merah"
+      },
+      {
+        "lang": "is",
+        "name": "Bankívahænsn"
+      },
+      {
+        "lang": "it",
+        "name": "Gallo rosso"
+      },
+      {
+        "lang": "ja",
+        "name": "セキショクヤケイ"
+      },
+      {
+        "lang": "jv",
+        "name": "Pitik alas abang"
+      },
+      {
+        "lang": "ka",
+        "name": "ბანკივური ქათამი"
+      },
+      {
+        "lang": "kk",
+        "name": "Банкивтік қораз"
+      },
+      {
+        "lang": "kn",
+        "name": "ಕೆಂಪು ಕಾಡುಕೋಳಿ"
+      },
+      {
+        "lang": "ko",
+        "name": "적색야계"
+      },
+      {
+        "lang": "ky",
+        "name": "Жапайы тоок"
+      },
+      {
+        "lang": "lb",
+        "name": "Bankivahong"
+      },
+      {
+        "lang": "lt",
+        "name": "Bankivinė višta"
+      },
+      {
+        "lang": "lv",
+        "name": "Sarkanā savvaļas vista"
+      },
+      {
+        "lang": "ml",
+        "name": "ചുവന്ന കാട്ടുകോഴി"
+      },
+      {
+        "lang": "ms",
+        "name": "Ayam hutan Merah"
+      },
+      {
+        "lang": "my",
+        "name": "တောကြက်"
+      },
+      {
+        "lang": "nah",
+        "name": "Caxtiltōtōtl"
+      },
+      {
+        "lang": "ne",
+        "name": "लुइँचे"
+      },
+      {
+        "lang": "nl",
+        "name": "Bankivahoen"
+      },
+      {
+        "lang": "nn",
+        "name": "Jungelhane"
+      },
+      {
+        "lang": "no",
+        "name": "Rød bankivahøne"
+      },
+      {
+        "lang": "nv",
+        "name": "Naʼahóóhai"
+      },
+      {
+        "lang": "pl",
+        "name": "Kur bankiwa"
+      },
+      {
+        "lang": "pnb",
+        "name": "رتا جنگلی ککڑ"
+      },
+      {
+        "lang": "pt",
+        "name": "Galo-banquiva"
+      },
+      {
+        "lang": "ru",
+        "name": "Банкивская джунглевая курица"
+      },
+      {
+        "lang": "sh",
+        "name": "Divlja kokoš"
+      },
+      {
+        "lang": "sv",
+        "name": "Röd djungelhöna"
+      },
+      {
+        "lang": "ta",
+        "name": "சிவப்புக் காட்டுக்கோழி"
+      },
+      {
+        "lang": "th",
+        "name": "ไก่ป่า"
+      },
+      {
+        "lang": "tl",
+        "name": "Manok"
+      },
+      {
+        "lang": "to",
+        "name": "Moa kaivao"
+      },
+      {
+        "lang": "uk",
+        "name": "Банківський півень"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà rừng lông đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "原雞"
+      }
+    ]
+  }
+]

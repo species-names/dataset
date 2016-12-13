@@ -1,0 +1,709 @@
+[
+  {
+    "scientific_name": "Platalea regia",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "أبو ملعقة الملكي"
+      },
+      {
+        "lang": "br",
+        "name": "Spanell roueel"
+      },
+      {
+        "lang": "ca",
+        "name": "Becplaner reial"
+      },
+      {
+        "lang": "de",
+        "name": "Königslöffler"
+      },
+      {
+        "lang": "fr",
+        "name": "Spatule royale"
+      },
+      {
+        "lang": "he",
+        "name": "כפן מלכותי"
+      },
+      {
+        "lang": "hu",
+        "name": "Királykanalasgém"
+      },
+      {
+        "lang": "mi",
+        "name": "Kōtuku ngutupapa"
+      },
+      {
+        "lang": "pl",
+        "name": "Warzęcha królewska"
+      },
+      {
+        "lang": "ru",
+        "name": "Королевская колпица"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara gagalı kaşıkçı"
+      },
+      {
+        "lang": "zh",
+        "name": "皇家琵鷺"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platalea minor",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "أبو ملعقة الصغير"
+      },
+      {
+        "lang": "br",
+        "name": "Spanell dremm zu"
+      },
+      {
+        "lang": "ca",
+        "name": "Espàtula menor"
+      },
+      {
+        "lang": "da",
+        "name": "Lille skestork"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzstirnlöffler"
+      },
+      {
+        "lang": "en",
+        "name": "Black-faced spoonbill"
+      },
+      {
+        "lang": "eo",
+        "name": "Orienta plataleo"
+      },
+      {
+        "lang": "fa",
+        "name": "کفچه‌نوک صورت‌سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkukapustahaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Petite Spatule"
+      },
+      {
+        "lang": "hak",
+        "name": "Het-mien Phî-lù"
+      },
+      {
+        "lang": "he",
+        "name": "כפן שחור פנים"
+      },
+      {
+        "lang": "hu",
+        "name": "Koreai kanalasgém"
+      },
+      {
+        "lang": "ja",
+        "name": "クロツラヘラサギ（黒面箆鷺）"
+      },
+      {
+        "lang": "ko",
+        "name": "저어새"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine lepelaar"
+      },
+      {
+        "lang": "nn",
+        "name": "Kinaskeistork"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük kaşıkçı",
+        "synonyms": [
+          "Kara yüzlü kaşıkçı"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Warzęcha mała"
+      },
+      {
+        "lang": "ru",
+        "name": "Малая колпица"
+      },
+      {
+        "lang": "scn",
+        "name": "Spàtula nica"
+      },
+      {
+        "lang": "sv",
+        "name": "Koreaskedstork"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò thìa"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "O͘-bīn lā-poe"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "黑面琵鷺"
+      },
+      {
+        "lang": "zh",
+        "name": "黑脸琵鹭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platalea leucorodia",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Lepelaar"
+      },
+      {
+        "lang": "als",
+        "name": "Löffler"
+      },
+      {
+        "lang": "ar",
+        "name": "أبو ملعقة",
+        "synonyms": [
+          "أبو ملعقة أوروبي",
+          "أبو ملعقة بو الخصيف"
+        ]
+      },
+      {
+        "lang": "ast",
+        "name": "Paletón"
+      },
+      {
+        "lang": "az",
+        "name": "Ərsindimdik"
+      },
+      {
+        "lang": "ba",
+        "name": "Көрәкморон"
+      },
+      {
+        "lang": "be",
+        "name": "Колпіца"
+      },
+      {
+        "lang": "bg",
+        "name": "Лопатарка"
+      },
+      {
+        "lang": "br",
+        "name": "Spanell wenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Becplaner"
+      },
+      {
+        "lang": "crh",
+        "name": "Adiy kolpitsa quşu"
+      },
+      {
+        "lang": "cs",
+        "name": "kolpík bílý"
+      },
+      {
+        "lang": "cv",
+        "name": "Ахаль колпица"
+      },
+      {
+        "lang": "cw",
+        "name": "Gelvyn lo"
+      },
+      {
+        "lang": "cy",
+        "name": "Llwybig"
+      },
+      {
+        "lang": "da",
+        "name": "Skestork"
+      },
+      {
+        "lang": "de",
+        "name": "Löffler"
+      },
+      {
+        "lang": "dv",
+        "name": "Dheyfaiy Dhooni"
+      },
+      {
+        "lang": "el",
+        "name": "Χουλιαρομύτα"
+      },
+      {
+        "lang": "eml",
+        "name": "Spatula"
+      },
+      {
+        "lang": "en",
+        "name": "Common Spoonbill",
+        "synonyms": [
+          "Eurasian Spoonbill"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Eŭrazia plataleo"
+      },
+      {
+        "lang": "es",
+        "name": "Espátula Común"
+      },
+      {
+        "lang": "et",
+        "name": "Luitsnokk-iibis"
+      },
+      {
+        "lang": "eu",
+        "name": "Mokozabal zuri"
+      },
+      {
+        "lang": "fi",
+        "name": "kapustahaikara"
+      },
+      {
+        "lang": "fo",
+        "name": "Spónnev"
+      },
+      {
+        "lang": "fr",
+        "name": "Spatule blanche"
+      },
+      {
+        "lang": "fy",
+        "name": "Leppelbek"
+      },
+      {
+        "lang": "ga",
+        "name": "Corr leathadach"
+      },
+      {
+        "lang": "gd",
+        "name": "Gob cathainn"
+      },
+      {
+        "lang": "gl",
+        "name": "Cullereiro"
+      },
+      {
+        "lang": "gv",
+        "name": "Gob lhean"
+      },
+      {
+        "lang": "he",
+        "name": "כפן מצוי",
+        "synonyms": [
+          "אבי הכף",
+          "אבי־הכף",
+          "כפן",
+          "כפן אירופאי"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Bijela žličarka"
+      },
+      {
+        "lang": "hu",
+        "name": "Kanalasgém"
+      },
+      {
+        "lang": "hy",
+        "name": "Տարգալակտուց (Targalaktuts)"
+      },
+      {
+        "lang": "is",
+        "name": "Flatnefur"
+      },
+      {
+        "lang": "it",
+        "name": "Spatola"
+      },
+      {
+        "lang": "ja",
+        "name": "ヘラサギ",
+        "synonyms": [
+          "Herasagi"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "ჟერო"
+      },
+      {
+        "lang": "kbd",
+        "name": "Пэхьэнцэбзу"
+      },
+      {
+        "lang": "kjh",
+        "name": "Час хыл"
+      },
+      {
+        "lang": "kjn",
+        "name": "Час хыл"
+      },
+      {
+        "lang": "kk",
+        "name": "Жалбағай"
+      },
+      {
+        "lang": "kn",
+        "name": "ಸ್ಪೂನ್ ಬಿಲ್"
+      },
+      {
+        "lang": "ko",
+        "name": "노랑부리저어새"
+      },
+      {
+        "lang": "ku",
+        "name": "Devkevçî"
+      },
+      {
+        "lang": "kw",
+        "name": "Gelvyn lo"
+      },
+      {
+        "lang": "lb",
+        "name": "Läffelräer"
+      },
+      {
+        "lang": "lt",
+        "name": "Paprastoji Girnovė"
+      },
+      {
+        "lang": "lv",
+        "name": "Karošknābis"
+      },
+      {
+        "lang": "mi",
+        "name": "Kotuku-ngutupapa"
+      },
+      {
+        "lang": "mk",
+        "name": "Чапја лажичарка"
+      },
+      {
+        "lang": "ml",
+        "name": "ചട്ടുക കൊക്കൻ"
+      },
+      {
+        "lang": "mn",
+        "name": "Халбаган хушут"
+      },
+      {
+        "lang": "mr",
+        "name": "चमच्या"
+      },
+      {
+        "lang": "mt",
+        "name": "Paletta"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Lepeloar"
+      },
+      {
+        "lang": "nl",
+        "name": "Lepelaar"
+      },
+      {
+        "lang": "no",
+        "name": "Skjestork"
+      },
+      {
+        "lang": "pcd",
+        "name": "Palotier"
+      },
+      {
+        "lang": "pl",
+        "name": "Warzęcha (zwyczajna)"
+      },
+      {
+        "lang": "pnb",
+        "name": "یوریشیائی سپوونبل"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Colhereiro-europeu"
+      },
+      {
+        "lang": "pt",
+        "name": "Colhereiro"
+      },
+      {
+        "lang": "rm",
+        "name": "Ibis dal bec plat"
+      },
+      {
+        "lang": "ro",
+        "name": "Lopătar"
+      },
+      {
+        "lang": "ru",
+        "name": "Колпица"
+      },
+      {
+        "lang": "rue",
+        "name": "Кол­пиця"
+      },
+      {
+        "lang": "sah",
+        "name": "Колпица"
+      },
+      {
+        "lang": "sh",
+        "name": "Čaplja žličarka"
+      },
+      {
+        "lang": "si",
+        "name": "අභිජනන නේවාසික"
+      },
+      {
+        "lang": "sk",
+        "name": "lyžičiar biely"
+      },
+      {
+        "lang": "sl",
+        "name": "žlicarka",
+        "synonyms": [
+          "žličarka"
+        ]
+      },
+      {
+        "lang": "sq",
+        "name": "Çapka sqeplugë"
+      },
+      {
+        "lang": "sr",
+        "name": "Caplja kašikara / Цаплја кашикара",
+        "synonyms": [
+          "Bijeli kašikar"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Skedstork"
+      },
+      {
+        "lang": "ta",
+        "name": "Karandivayan"
+      },
+      {
+        "lang": "th",
+        "name": "นกช้อนหอยหน้าขาว"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı kaşıkçı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Шопулакхай"
+      },
+      {
+        "lang": "uk",
+        "name": "Косар",
+        "synonyms": [
+          "Колпиця"
+        ]
+      },
+      {
+        "lang": "vi",
+        "name": "Cò thìa Châu âu"
+      },
+      {
+        "lang": "zea",
+        "name": "Lepelaer"
+      },
+      {
+        "lang": "zh",
+        "name": "白琵鷺"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platalea flavipes",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kolpík žlutozobý"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarı gagalı kaşıkçı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platalea alba",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kolpík africký"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikankapustahaikara"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak kaşıkçı",
+        "synonyms": [
+          "Afrika kaşıkçısı"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Platalea ajaja",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "أبو ملعقة الوردي"
+      },
+      {
+        "lang": "br",
+        "name": "Spanell-Amerika"
+      },
+      {
+        "lang": "ca",
+        "name": "Becplaner rosat"
+      },
+      {
+        "lang": "cs",
+        "name": "Kolpík růžový"
+      },
+      {
+        "lang": "da",
+        "name": "Rosaskestork"
+      },
+      {
+        "lang": "de",
+        "name": "Rosalöffler"
+      },
+      {
+        "lang": "en",
+        "name": "Roseate Spoonbill"
+      },
+      {
+        "lang": "eo",
+        "name": "Ajajao"
+      },
+      {
+        "lang": "es",
+        "name": "Espátula Rosada"
+      },
+      {
+        "lang": "fi",
+        "name": "ruusukapustahaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Spatule rosée"
+      },
+      {
+        "lang": "gn",
+        "name": "Ajajái guyra pytãngy"
+      },
+      {
+        "lang": "he",
+        "name": "כפן ורוד"
+      },
+      {
+        "lang": "hr",
+        "name": "Ružičasta žličarka"
+      },
+      {
+        "lang": "hu",
+        "name": "Rózsás kanalasgém"
+      },
+      {
+        "lang": "it",
+        "name": "Spatola rosata"
+      },
+      {
+        "lang": "ja",
+        "name": "ベニヘラサギ",
+        "synonyms": [
+          "beniherasagi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Rožinė girnovė"
+      },
+      {
+        "lang": "nah",
+        "name": "Quechōlli"
+      },
+      {
+        "lang": "nl",
+        "name": "Rode lepelaar"
+      },
+      {
+        "lang": "no",
+        "name": "Rosenskjestork"
+      },
+      {
+        "lang": "pl",
+        "name": "Warzęcha różowa"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Colhereiro"
+      },
+      {
+        "lang": "pt",
+        "name": "Colhereiro",
+        "synonyms": [
+          "ajajá",
+          "Colhereiro-americano"
+        ]
+      },
+      {
+        "lang": "qu",
+        "name": "Ayaya"
+      },
+      {
+        "lang": "ru",
+        "name": "Розовая колпица"
+      },
+      {
+        "lang": "sk",
+        "name": "lyžičiar ružový"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosenskedstork"
+      },
+      {
+        "lang": "tr",
+        "name": "Pembe kaşıkçı"
+      },
+      {
+        "lang": "zh",
+        "name": "玫瑰琵鷺",
+        "synonyms": [
+          "粉红琵鹭"
+        ]
+      }
+    ]
+  }
+]

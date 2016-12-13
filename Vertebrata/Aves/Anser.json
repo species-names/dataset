@@ -1,0 +1,1406 @@
+[
+  {
+    "scientific_name": "Anser serrirostris",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Tundrasædgås"
+      },
+      {
+        "lang": "en",
+        "name": "Tundra Bean Goose"
+      },
+      {
+        "lang": "es",
+        "name": "Ganso de la tundra"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie des toundras"
+      },
+      {
+        "lang": "nl",
+        "name": "Toendrarietgans"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anser indicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Husa indická"
+      },
+      {
+        "lang": "da",
+        "name": "Indisk Gås"
+      },
+      {
+        "lang": "de",
+        "name": "Streifengans"
+      },
+      {
+        "lang": "en",
+        "name": "Bar-headed Goose"
+      },
+      {
+        "lang": "es",
+        "name": "Ansar Indio"
+      },
+      {
+        "lang": "fi",
+        "name": "Tiibetinhanhi"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie à tête barrée"
+      },
+      {
+        "lang": "hu",
+        "name": "Indiai lúd"
+      },
+      {
+        "lang": "ja",
+        "name": "インドガン"
+      },
+      {
+        "lang": "ko",
+        "name": "인도기러기"
+      },
+      {
+        "lang": "lt",
+        "name": "Kalninė žąsis"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische gans"
+      },
+      {
+        "lang": "no",
+        "name": "Stripegås"
+      },
+      {
+        "lang": "pl",
+        "name": "Gęś tybetańska"
+      },
+      {
+        "lang": "ru",
+        "name": "Горный гусь"
+      },
+      {
+        "lang": "sv",
+        "name": "Stripgås"
+      },
+      {
+        "lang": "th",
+        "name": "ห่านหัวลาย"
+      },
+      {
+        "lang": "tr",
+        "name": "Hint kazı"
+      },
+      {
+        "lang": "uk",
+        "name": "Гірська гуска"
+      },
+      {
+        "lang": "zh",
+        "name": "斑头雁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anser fabalis",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Гусь-гуменніца"
+      },
+      {
+        "lang": "bg",
+        "name": "Посевна гъска"
+      },
+      {
+        "lang": "br",
+        "name": "Gwaz-eostoù"
+      },
+      {
+        "lang": "ca",
+        "name": "Oca pradenca"
+      },
+      {
+        "lang": "cs",
+        "name": "Husa polní"
+      },
+      {
+        "lang": "cw",
+        "name": "Goth tros gwynruth"
+      },
+      {
+        "lang": "cy",
+        "name": "Gŵydd y llafur"
+      },
+      {
+        "lang": "da",
+        "name": "Sædgås"
+      },
+      {
+        "lang": "de",
+        "name": "Saatgans"
+      },
+      {
+        "lang": "el",
+        "name": "Χωραφόχηνα"
+      },
+      {
+        "lang": "en",
+        "name": "Taiga Bean Goose"
+      },
+      {
+        "lang": "eo",
+        "name": "Fabansero"
+      },
+      {
+        "lang": "es",
+        "name": "Ansar Campestre"
+      },
+      {
+        "lang": "et",
+        "name": "Rabahani"
+      },
+      {
+        "lang": "eu",
+        "name": "Antzara mokolaburra"
+      },
+      {
+        "lang": "fi",
+        "name": "Metsähanhi"
+      },
+      {
+        "lang": "fo",
+        "name": "Ekrugás"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie des moissons"
+      },
+      {
+        "lang": "frr",
+        "name": "Siadgus"
+      },
+      {
+        "lang": "fy",
+        "name": "Taigawink"
+      },
+      {
+        "lang": "ga",
+        "name": "Síolghé"
+      },
+      {
+        "lang": "gd",
+        "name": "Muir gheadh"
+      },
+      {
+        "lang": "gl",
+        "name": "Ganso campestre"
+      },
+      {
+        "lang": "gv",
+        "name": "Guiy Poanrey"
+      },
+      {
+        "lang": "he",
+        "name": "אוז אחו"
+      },
+      {
+        "lang": "hr",
+        "name": "Guska Glogovnjača"
+      },
+      {
+        "lang": "hu",
+        "name": "Vetési lúd"
+      },
+      {
+        "lang": "is",
+        "name": "Akurgæs"
+      },
+      {
+        "lang": "it",
+        "name": "Oca granaiola"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒシクイ"
+      },
+      {
+        "lang": "ka",
+        "name": "მეკალოე ბატი"
+      },
+      {
+        "lang": "kk",
+        "name": "Қырманқаз"
+      },
+      {
+        "lang": "ko",
+        "name": "큰기러기"
+      },
+      {
+        "lang": "li",
+        "name": "Reetgajs"
+      },
+      {
+        "lang": "lt",
+        "name": "Želmeninė žąsis"
+      },
+      {
+        "lang": "lv",
+        "name": "Sējas zoss"
+      },
+      {
+        "lang": "mk",
+        "name": "Палска (Посебна) гуска"
+      },
+      {
+        "lang": "mn",
+        "name": "Буурал галуу"
+      },
+      {
+        "lang": "mt",
+        "name": "Wiżża tal-Ful"
+      },
+      {
+        "lang": "nl",
+        "name": "Taigarietgans"
+      },
+      {
+        "lang": "nn",
+        "name": "Sædgås"
+      },
+      {
+        "lang": "no",
+        "name": "Sædgås"
+      },
+      {
+        "lang": "nds",
+        "name": "Reitgoos"
+      },
+      {
+        "lang": "pl",
+        "name": "Gęś zbożowa"
+      },
+      {
+        "lang": "pt",
+        "name": "Ganso-campestre"
+      },
+      {
+        "lang": "rm",
+        "name": "Auca da graun"
+      },
+      {
+        "lang": "ru",
+        "name": "Гуменник"
+      },
+      {
+        "lang": "se",
+        "name": "Čuonjá"
+      },
+      {
+        "lang": "sk",
+        "name": "Hus siatinná"
+      },
+      {
+        "lang": "sl",
+        "name": "Njivska gos"
+      },
+      {
+        "lang": "sq",
+        "name": "Pata e arave"
+      },
+      {
+        "lang": "sr",
+        "name": "Guska ljigarica"
+      },
+      {
+        "lang": "sv",
+        "name": "Sädgås"
+      },
+      {
+        "lang": "tr",
+        "name": "Tarla kazı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Шаң казы"
+      },
+      {
+        "lang": "uk",
+        "name": "Гуменник"
+      },
+      {
+        "lang": "zh",
+        "name": "豆雁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anser erythropus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "إوزة غراء صغيرة"
+      },
+      {
+        "lang": "ast",
+        "name": "Gansu Caretu Nanu"
+      },
+      {
+        "lang": "az",
+        "name": "Ağqaş qaz"
+      },
+      {
+        "lang": "ba",
+        "name": "Сәңкелдәк ҡаҙ"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Піскулька"
+      },
+      {
+        "lang": "be",
+        "name": "Піскулька"
+      },
+      {
+        "lang": "bg",
+        "name": "Малка белочела гъска"
+      },
+      {
+        "lang": "br",
+        "name": "Gwaz vailh vihan"
+      },
+      {
+        "lang": "ca",
+        "name": "Oca riallera petita"
+      },
+      {
+        "lang": "cs",
+        "name": "husa malá"
+      },
+      {
+        "lang": "cy",
+        "name": "Gŵydd dalcen gwen lleiaf"
+      },
+      {
+        "lang": "da",
+        "name": "Dværggås"
+      },
+      {
+        "lang": "de",
+        "name": "Zwerggans"
+      },
+      {
+        "lang": "el",
+        "name": "Νανόσιηνα"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser White-fronted Goose"
+      },
+      {
+        "lang": "eo",
+        "name": "Malgranda ansero"
+      },
+      {
+        "lang": "es",
+        "name": "Ánsar Chico"
+      },
+      {
+        "lang": "et",
+        "name": "Väike-laukhani"
+      },
+      {
+        "lang": "eu",
+        "name": "Antzara nano"
+      },
+      {
+        "lang": "fi",
+        "name": "kiljuhanhi"
+      },
+      {
+        "lang": "fo",
+        "name": "Ennihvít gás"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie naine"
+      },
+      {
+        "lang": "fy",
+        "name": "Goudeachje"
+      },
+      {
+        "lang": "ga",
+        "name": "Mionghé Bhánéadanach"
+      },
+      {
+        "lang": "gd",
+        "name": "Gèadh-bhlàr Bheag"
+      },
+      {
+        "lang": "gl",
+        "name": "Ganso pequeno"
+      },
+      {
+        "lang": "he",
+        "name": "אווז קטן"
+      },
+      {
+        "lang": "hr",
+        "name": "Mala guska"
+      },
+      {
+        "lang": "hu",
+        "name": "Kis lilik"
+      },
+      {
+        "lang": "hy",
+        "name": "Ծվվան Սագ"
+      },
+      {
+        "lang": "is",
+        "name": "Fjallgæs"
+      },
+      {
+        "lang": "it",
+        "name": "Oca lombardella minore"
+      },
+      {
+        "lang": "ja",
+        "name": "カリガネ",
+        "synonyms": [
+          "karigane"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "პატარა (წრიპინა) ღერღეტი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Кiчiг ах хабах хас"
+      },
+      {
+        "lang": "kk",
+        "name": "Шиқылдақ қаз"
+      },
+      {
+        "lang": "ko",
+        "name": "흰이마기러기"
+      },
+      {
+        "lang": "li",
+        "name": "Kleine kolgajs"
+      },
+      {
+        "lang": "lt",
+        "name": "Mažoji žąsis"
+      },
+      {
+        "lang": "lv",
+        "name": "Mazā zoss"
+      },
+      {
+        "lang": "mk",
+        "name": "Мала белочелна гуска"
+      },
+      {
+        "lang": "mn",
+        "name": "Одой галуу"
+      },
+      {
+        "lang": "nl",
+        "name": "Dwerggans"
+      },
+      {
+        "lang": "nn",
+        "name": "Dverggås"
+      },
+      {
+        "lang": "no",
+        "name": "Dverggås"
+      },
+      {
+        "lang": "pl",
+        "name": "gęś mała"
+      },
+      {
+        "lang": "pt",
+        "name": "Ganso-pequeno-de-testa-branca"
+      },
+      {
+        "lang": "rm",
+        "name": "Auca pitschna"
+      },
+      {
+        "lang": "ru",
+        "name": "Пискулька"
+      },
+      {
+        "lang": "rue",
+        "name": "Гуска рудонога"
+      },
+      {
+        "lang": "sah",
+        "name": "Кыра лыглыйа"
+      },
+      {
+        "lang": "se",
+        "name": "Giljobaš"
+      },
+      {
+        "lang": "sk",
+        "name": "Hus piskľavá"
+      },
+      {
+        "lang": "sl",
+        "name": "mala gos"
+      },
+      {
+        "lang": "sq",
+        "name": "Pata këmbëkuqe"
+      },
+      {
+        "lang": "sr",
+        "name": "Mala lisasta guska",
+        "synonyms": [
+          "Мала лисаста гуска"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Fjällgås"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük sakarca"
+      },
+      {
+        "lang": "tyv",
+        "name": "Дыйылаар кас",
+        "synonyms": [
+          "Дыйылаашпай"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Гуска мала"
+      },
+      {
+        "lang": "zh",
+        "name": "小白额雁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anser cygnoides",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Quruburun"
+      },
+      {
+        "lang": "br",
+        "name": "Gwaz-alarc'h"
+      },
+      {
+        "lang": "ca",
+        "name": "Oca cigne"
+      },
+      {
+        "lang": "cs",
+        "name": "Husa labutí"
+      },
+      {
+        "lang": "de",
+        "name": "Schwanengans"
+      },
+      {
+        "lang": "en",
+        "name": "Swan Goose"
+      },
+      {
+        "lang": "eo",
+        "name": "Cigna ansero"
+      },
+      {
+        "lang": "es",
+        "name": "Ánsar cisne o cisnal"
+      },
+      {
+        "lang": "fi",
+        "name": "Joutsenhanhi"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie cygnoïde"
+      },
+      {
+        "lang": "hu",
+        "name": "Kínai hattyúlúd"
+      },
+      {
+        "lang": "it",
+        "name": "Oca cignoide"
+      },
+      {
+        "lang": "ja",
+        "name": "サカツラガン"
+      },
+      {
+        "lang": "kk",
+        "name": "Қытай қазы"
+      },
+      {
+        "lang": "ko",
+        "name": "개리 (새)"
+      },
+      {
+        "lang": "mn",
+        "name": "Хошуу галуу"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwaangans"
+      },
+      {
+        "lang": "nv",
+        "name": "Chʼah Diʼilii Bikéyahdę́ę́ʼ naalʼeełítsoh"
+      },
+      {
+        "lang": "pt",
+        "name": "Ganso-africano"
+      },
+      {
+        "lang": "ru",
+        "name": "Сухонос"
+      },
+      {
+        "lang": "sv",
+        "name": "Svangås"
+      },
+      {
+        "lang": "th",
+        "name": "ห่านเทาปากดำ"
+      },
+      {
+        "lang": "tr",
+        "name": "Çin kazı"
+      },
+      {
+        "lang": "zh",
+        "name": "鸿雁"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Iá-gô"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anser brachyrhynchus",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Gansu Picu Cortu"
+      },
+      {
+        "lang": "bg",
+        "name": "Късоклюна гъска"
+      },
+      {
+        "lang": "br",
+        "name": "Gwaz beg berr"
+      },
+      {
+        "lang": "ca",
+        "name": "Oca de bec curt"
+      },
+      {
+        "lang": "cs",
+        "name": "Husa krátkozobá"
+      },
+      {
+        "lang": "cw",
+        "name": "Goth tros gwynruth"
+      },
+      {
+        "lang": "cy",
+        "name": "Gŵydd Droedbinc"
+      },
+      {
+        "lang": "da",
+        "name": "Kortnæbbet gås"
+      },
+      {
+        "lang": "de",
+        "name": "Kurzschnabelgans"
+      },
+      {
+        "lang": "en",
+        "name": "Pink-footed Goose"
+      },
+      {
+        "lang": "eo",
+        "name": "Mallongbeka ansero"
+      },
+      {
+        "lang": "es",
+        "name": "Ansar Piquicorto"
+      },
+      {
+        "lang": "et",
+        "name": "Lühinokk-hani"
+      },
+      {
+        "lang": "eu",
+        "name": "Antzara mokolaburra"
+      },
+      {
+        "lang": "fi",
+        "name": "Lyhytnokkahanhi"
+      },
+      {
+        "lang": "fo",
+        "name": "Svalbarðsgás"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie à bec court"
+      },
+      {
+        "lang": "ga",
+        "name": "Gé Ghobghearr"
+      },
+      {
+        "lang": "gd",
+        "name": "Gèadh Gorm"
+      },
+      {
+        "lang": "gl",
+        "name": "Ganso bicocurto"
+      },
+      {
+        "lang": "he",
+        "name": "אווז ורוד רגל"
+      },
+      {
+        "lang": "hu",
+        "name": "Rövidcsőrű lúd"
+      },
+      {
+        "lang": "is",
+        "name": "Heiðagæs"
+      },
+      {
+        "lang": "it",
+        "name": "Oca zamperosee"
+      },
+      {
+        "lang": "ja",
+        "name": "コザクラバシガン"
+      },
+      {
+        "lang": "lt",
+        "name": "Trumpasnapė žąsis"
+      },
+      {
+        "lang": "lv",
+        "name": "Īsknābja zoss"
+      },
+      {
+        "lang": "mt",
+        "name": "Wiżża Saqajha Roża"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine rietgans"
+      },
+      {
+        "lang": "nn",
+        "name": "Kortnebbgås"
+      },
+      {
+        "lang": "no",
+        "name": "Kortnebbgås"
+      },
+      {
+        "lang": "pl",
+        "name": "Gęś krótkodzioba"
+      },
+      {
+        "lang": "pt",
+        "name": "Ganso-de-bico-curto"
+      },
+      {
+        "lang": "rm",
+        "name": "Auca dal bec curt"
+      },
+      {
+        "lang": "ru",
+        "name": "Короткоклювый гуменник"
+      },
+      {
+        "lang": "se",
+        "name": "Oanehisnjunčuonjá"
+      },
+      {
+        "lang": "sk",
+        "name": "Hus krátkozobá"
+      },
+      {
+        "lang": "sl",
+        "name": "Kratkokljuna gos"
+      },
+      {
+        "lang": "sr",
+        "name": "Guska glogovnjaca - Гуска глоговнјача"
+      },
+      {
+        "lang": "sv",
+        "name": "Spetsbergsgås"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük tarla kazı"
+      },
+      {
+        "lang": "uk",
+        "name": "Короткодзьобий гуменник"
+      },
+      {
+        "lang": "zh",
+        "name": "粉脚雁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anser anser",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "إوز أربد"
+      },
+      {
+        "lang": "as",
+        "name": "দেওৰাজ হাঁহ"
+      },
+      {
+        "lang": "az",
+        "name": "Boz qaz"
+      },
+      {
+        "lang": "ba",
+        "name": "Ала ҡаҙ"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Шэрая гусь"
+      },
+      {
+        "lang": "be",
+        "name": "Шэрая гусь"
+      },
+      {
+        "lang": "bg",
+        "name": "Сива гъска"
+      },
+      {
+        "lang": "bn",
+        "name": "মেটে রাজহাঁস"
+      },
+      {
+        "lang": "br",
+        "name": "Gwaz louet"
+      },
+      {
+        "lang": "ca",
+        "name": "Oca vulgar"
+      },
+      {
+        "lang": "ce",
+        "name": "Moqa aqa ǵaz"
+      },
+      {
+        "lang": "cs",
+        "name": "husa velká"
+      },
+      {
+        "lang": "cy",
+        "name": "Gŵydd Wyllt"
+      },
+      {
+        "lang": "da",
+        "name": "Grågås"
+      },
+      {
+        "lang": "de",
+        "name": "Graugans"
+      },
+      {
+        "lang": "en",
+        "name": "Greylag Goose"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza ansero"
+      },
+      {
+        "lang": "es",
+        "name": "Ansar común"
+      },
+      {
+        "lang": "et",
+        "name": "Hallhani"
+      },
+      {
+        "lang": "eu",
+        "name": "Antzara hankagorrizta"
+      },
+      {
+        "lang": "fa",
+        "name": "غاز خاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "merihanhi"
+      },
+      {
+        "lang": "fo",
+        "name": "Grágás"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie cendrée"
+      },
+      {
+        "lang": "frr",
+        "name": "Grä gus"
+      },
+      {
+        "lang": "fy",
+        "name": "Skiere Goes"
+      },
+      {
+        "lang": "ga",
+        "name": "Gé ghlas"
+      },
+      {
+        "lang": "gl",
+        "name": "Ganso bravo"
+      },
+      {
+        "lang": "he",
+        "name": "אווז אפור"
+      },
+      {
+        "lang": "hi",
+        "name": "ग्रेलैग हंस"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyári lúd"
+      },
+      {
+        "lang": "hy",
+        "name": "Մոխրագույն սագ"
+      },
+      {
+        "lang": "is",
+        "name": "Grágæs"
+      },
+      {
+        "lang": "it",
+        "name": "Oca selvatica"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイイロガン"
+      },
+      {
+        "lang": "kbd",
+        "name": "Губгъуэкъаз"
+      },
+      {
+        "lang": "kk",
+        "name": "Сұр қаз"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkoji žąsis"
+      },
+      {
+        "lang": "lv",
+        "name": "Meža zoss"
+      },
+      {
+        "lang": "mk",
+        "name": "Дива гуска"
+      },
+      {
+        "lang": "mn",
+        "name": "Бор галуу"
+      },
+      {
+        "lang": "my",
+        "name": "ငန်းမွဲ"
+      },
+      {
+        "lang": "ne",
+        "name": "कलहाँस"
+      },
+      {
+        "lang": "nl",
+        "name": "Grauwe gans"
+      },
+      {
+        "lang": "nn",
+        "name": "Grågås"
+      },
+      {
+        "lang": "no",
+        "name": "Grågås"
+      },
+      {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ naalʼeełítsoh łibáhígíí"
+      },
+      {
+        "lang": "pcd",
+        "name": "Oson chindrè"
+      },
+      {
+        "lang": "pl",
+        "name": "Gęś gęgawa"
+      },
+      {
+        "lang": "pnb",
+        "name": "سونا مگھ"
+      },
+      {
+        "lang": "pt",
+        "name": "Ganso-bravo"
+      },
+      {
+        "lang": "ru",
+        "name": "Серый гусь"
+      },
+      {
+        "lang": "rue",
+        "name": "Сира гуска"
+      },
+      {
+        "lang": "sah",
+        "name": "Бороҥ хаас"
+      },
+      {
+        "lang": "se",
+        "name": "Ránesčuonjá"
+      },
+      {
+        "lang": "sh",
+        "name": "Divlja guska"
+      },
+      {
+        "lang": "sk",
+        "name": "hus divá"
+      },
+      {
+        "lang": "sv",
+        "name": "Grågås"
+      },
+      {
+        "lang": "tr",
+        "name": "Boz kaz"
+      },
+      {
+        "lang": "tt",
+        "name": "Соры каз"
+      },
+      {
+        "lang": "uk",
+        "name": "Сіра гуска"
+      },
+      {
+        "lang": "vep",
+        "name": "Handr"
+      },
+      {
+        "lang": "vi",
+        "name": "Ngỗng xám"
+      },
+      {
+        "lang": "zh",
+        "name": "灰雁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anser albifrons",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الإوز الأغر",
+        "synonyms": [
+          "الإوز الأغر وز"
+        ]
+      },
+      {
+        "lang": "ast",
+        "name": "Gansu Caretu"
+      },
+      {
+        "lang": "az",
+        "name": "Ağqalın qaz"
+      },
+      {
+        "lang": "be",
+        "name": "Белалобая гусь"
+      },
+      {
+        "lang": "bg",
+        "name": "Голяма белочела гъска"
+      },
+      {
+        "lang": "br",
+        "name": "Gwaz vailh"
+      },
+      {
+        "lang": "ca",
+        "name": "Oca carablanca"
+      },
+      {
+        "lang": "cs",
+        "name": "husa běločelá"
+      },
+      {
+        "lang": "cy",
+        "name": "Gŵydd Dalcen-wen"
+      },
+      {
+        "lang": "da",
+        "name": "Blisgås"
+      },
+      {
+        "lang": "de",
+        "name": "Blässgans"
+      },
+      {
+        "lang": "el",
+        "name": "Αρκόσιηνα"
+      },
+      {
+        "lang": "en",
+        "name": "Greater White-fronted Goose"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankfrunta ansero"
+      },
+      {
+        "lang": "es",
+        "name": "Ánsar careto"
+      },
+      {
+        "lang": "et",
+        "name": "Suur-laukhani"
+      },
+      {
+        "lang": "eu",
+        "name": "Antzara muturzuria"
+      },
+      {
+        "lang": "fi",
+        "name": "tundrahanhi"
+      },
+      {
+        "lang": "fo",
+        "name": "Korngás"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie rieuse"
+      },
+      {
+        "lang": "fy",
+        "name": "Blesgoes"
+      },
+      {
+        "lang": "ga",
+        "name": "Gé Bhánéadanach"
+      },
+      {
+        "lang": "gd",
+        "name": "Gèadh-bhlàr"
+      },
+      {
+        "lang": "gl",
+        "name": "Ánsar de testa branca"
+      },
+      {
+        "lang": "gv",
+        "name": "Guiy skead"
+      },
+      {
+        "lang": "he",
+        "name": "אווז לבן מצח"
+      },
+      {
+        "lang": "hr",
+        "name": "Lisasta guska"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy lilik"
+      },
+      {
+        "lang": "hy",
+        "name": "Սագ սպիտակաճակատ"
+      },
+      {
+        "lang": "is",
+        "name": "Blesgæs"
+      },
+      {
+        "lang": "it",
+        "name": "Oca lombardella"
+      },
+      {
+        "lang": "iu",
+        "name": "Nerleq"
+      },
+      {
+        "lang": "ja",
+        "name": "マガン"
+      },
+      {
+        "lang": "ka",
+        "name": "თეთრშუბლა ღერღეტი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Aх хабах хас"
+      },
+      {
+        "lang": "kk",
+        "name": "Ақмандайлы қаз"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠기러기"
+      },
+      {
+        "lang": "li",
+        "name": "Kolgajs"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltakaktė žąsis"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltgalves zoss"
+      },
+      {
+        "lang": "mk",
+        "name": "Белочелна (Лисеста) гуска"
+      },
+      {
+        "lang": "mn",
+        "name": "Манхин галуу"
+      },
+      {
+        "lang": "mt",
+        "name": "Wiżża tal-Maskra Bajda"
+      },
+      {
+        "lang": "nah",
+        "name": "Tlālalacatl"
+      },
+      {
+        "lang": "nl",
+        "name": "Kolgans"
+      },
+      {
+        "lang": "nn",
+        "name": "Tundragås"
+      },
+      {
+        "lang": "no",
+        "name": "Tundragås"
+      },
+      {
+        "lang": "pl",
+        "name": "gęś białoczelna"
+      },
+      {
+        "lang": "pt",
+        "name": "Ganso-grande-de-testa-branca"
+      },
+      {
+        "lang": "rm",
+        "name": "auca da la blassa"
+      },
+      {
+        "lang": "ru",
+        "name": "Белолобый гусь"
+      },
+      {
+        "lang": "sah",
+        "name": "Лыглыйа"
+      },
+      {
+        "lang": "se",
+        "name": "Duottarcuonji"
+      },
+      {
+        "lang": "sk",
+        "name": "hus bieločelá"
+      },
+      {
+        "lang": "sl",
+        "name": "belocela gos"
+      },
+      {
+        "lang": "sq",
+        "name": "Pata ballëbardhë"
+      },
+      {
+        "lang": "sr",
+        "name": "Lisasta guska"
+      },
+      {
+        "lang": "sv",
+        "name": "Bläsgås"
+      },
+      {
+        "lang": "tr",
+        "name": "Sakarca kazı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Ак хавактыг кас"
+      },
+      {
+        "lang": "uk",
+        "name": "Велика білолоба гуска"
+      },
+      {
+        "lang": "zea",
+        "name": "Kolhanze"
+      },
+      {
+        "lang": "zh",
+        "name": "白额雁"
+      }
+    ]
+  }
+]

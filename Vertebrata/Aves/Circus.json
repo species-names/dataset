@@ -1,0 +1,1345 @@
+[
+  {
+    "scientific_name": "Circus spilothorax",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Papuaweihe"
+      },
+      {
+        "lang": "en",
+        "name": "Papuan Harrier"
+      },
+      {
+        "lang": "eo",
+        "name": "Papua cirkuo"
+      },
+      {
+        "lang": "fr",
+        "name": "Busard de Nouvelle-Guinée"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus spilonotus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Arpella oriental"
+      },
+      {
+        "lang": "cs",
+        "name": "Moták východní"
+      },
+      {
+        "lang": "ja",
+        "name": "チュウヒ"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak wschodni"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus ranivorus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Moták africký"
+      },
+      {
+        "lang": "en",
+        "name": "African Marsh-Harrier"
+      },
+      {
+        "lang": "es",
+        "name": "Aguilucho lagunero etiópico"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak afrykański"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus pygargus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bloupaddavreter"
+      },
+      {
+        "lang": "ar",
+        "name": "أبو شودة"
+      },
+      {
+        "lang": "ast",
+        "name": "Aguiluchu d'Erga"
+      },
+      {
+        "lang": "az",
+        "name": "Çəmən belibağlısı"
+      },
+      {
+        "lang": "be",
+        "name": "Поплаўны лунь"
+      },
+      {
+        "lang": "bg",
+        "name": "Ливаден блатар"
+      },
+      {
+        "lang": "br",
+        "name": "Skoul glas"
+      },
+      {
+        "lang": "ca",
+        "name": "Esparver cendrós"
+      },
+      {
+        "lang": "cs",
+        "name": "Moták lužní"
+      },
+      {
+        "lang": "cv",
+        "name": "Пăнчăллă хăлат"
+      },
+      {
+        "lang": "cy",
+        "name": "Bod Montagu"
+      },
+      {
+        "lang": "da",
+        "name": "Hedehøg"
+      },
+      {
+        "lang": "de",
+        "name": "Wiesenweihe"
+      },
+      {
+        "lang": "el",
+        "name": "Καμποσιάχινο"
+      },
+      {
+        "lang": "en",
+        "name": "Montagu's Harrier"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza cirkuo"
+      },
+      {
+        "lang": "es",
+        "name": "Aguilucho cenizo"
+      },
+      {
+        "lang": "et",
+        "name": "Soo-loorkull"
+      },
+      {
+        "lang": "eu",
+        "name": "Arranokume"
+      },
+      {
+        "lang": "fi",
+        "name": "Niittysuohaukka"
+      },
+      {
+        "lang": "fo",
+        "name": "Bláheykur"
+      },
+      {
+        "lang": "fr",
+        "name": "Busard cendré"
+      },
+      {
+        "lang": "frr",
+        "name": "Grä hanjüger"
+      },
+      {
+        "lang": "ga",
+        "name": "Cromán Liath"
+      },
+      {
+        "lang": "gd",
+        "name": "Clamhan luch"
+      },
+      {
+        "lang": "gl",
+        "name": "Tartaraña cincenta"
+      },
+      {
+        "lang": "gn",
+        "name": "Taguato ra’y"
+      },
+      {
+        "lang": "gv",
+        "name": "Clowan lugh"
+      },
+      {
+        "lang": "he",
+        "name": "זרון פס"
+      },
+      {
+        "lang": "hr",
+        "name": "Eja Livadarka"
+      },
+      {
+        "lang": "hu",
+        "name": "Hamvas rétihéja"
+      },
+      {
+        "lang": "huh",
+        "name": "Ñamku"
+      },
+      {
+        "lang": "hy",
+        "name": "Մկնաճուռակ մարգագետնային"
+      },
+      {
+        "lang": "is",
+        "name": "Gráheiðir"
+      },
+      {
+        "lang": "it",
+        "name": "Albanella minore"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメハイイロチュウヒ"
+      },
+      {
+        "lang": "ka",
+        "name": "ველის ძელქორი"
+      },
+      {
+        "lang": "kk",
+        "name": "Шалғын құладыны"
+      },
+      {
+        "lang": "lt",
+        "name": "Pievinė lingė"
+      },
+      {
+        "lang": "lv",
+        "name": "Pļavu lija"
+      },
+      {
+        "lang": "arn",
+        "name": "Ñamku"
+      },
+      {
+        "lang": "mk",
+        "name": "Ливадска еја"
+      },
+      {
+        "lang": "mn",
+        "name": "Нугын цагаан элэгт"
+      },
+      {
+        "lang": "mt",
+        "name": "Bugħadam Griż"
+      },
+      {
+        "lang": "nl",
+        "name": "Grauwe kiekendief"
+      },
+      {
+        "lang": "no",
+        "name": "Enghauk"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak łąkowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Tartaranhão-caçador"
+      },
+      {
+        "lang": "rm",
+        "name": "Melv da prada"
+      },
+      {
+        "lang": "ru",
+        "name": "Луговой лунь"
+      },
+      {
+        "lang": "sc",
+        "name": "Abbilastru"
+      },
+      {
+        "lang": "sk",
+        "name": "Kaňa popolavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Močvirski lunj"
+      },
+      {
+        "lang": "sq",
+        "name": "Shqipja e balltaqeve"
+      },
+      {
+        "lang": "sr",
+        "name": "Eja livadarka - Eja ливадарка"
+      },
+      {
+        "lang": "sv",
+        "name": "Ängshök"
+      },
+      {
+        "lang": "sw",
+        "name": "Kipondya wa Montagu"
+      },
+      {
+        "lang": "tr",
+        "name": "Çayır tuygunu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Шынаа кускежизи"
+      },
+      {
+        "lang": "uk",
+        "name": "Болотняний лунь"
+      },
+      {
+        "lang": "zh",
+        "name": "乌灰鹞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus melanoleucos",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Moták černobílý"
+      },
+      {
+        "lang": "ja",
+        "name": "マダラチュウヒ"
+      },
+      {
+        "lang": "ko",
+        "name": "알락개구리매"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak czarnogłowy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus maurus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Moták černý"
+      },
+      {
+        "lang": "en",
+        "name": "Black Harrier"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak czarny"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus maillardi",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Skoul Reunion"
+      },
+      {
+        "lang": "ca",
+        "name": "Arpella de la Reunió"
+      },
+      {
+        "lang": "cs",
+        "name": "Moták réunionský"
+      },
+      {
+        "lang": "de",
+        "name": "Réunionweihe"
+      },
+      {
+        "lang": "en",
+        "name": "Réunion Harrier"
+      },
+      {
+        "lang": "eo",
+        "name": "Reunia cirkuo"
+      },
+      {
+        "lang": "es",
+        "name": "Aguilucho lagunero de Reunión"
+      },
+      {
+        "lang": "fr",
+        "name": "Papangue"
+      },
+      {
+        "lang": "ja",
+        "name": "マダガスカルチュウヒ"
+      },
+      {
+        "lang": "nl",
+        "name": "Reunionkiekendief"
+      },
+      {
+        "lang": "sv",
+        "name": "Réunionkärrhök"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus macrourus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witborspaddavreter"
+      },
+      {
+        "lang": "ar",
+        "name": "المرزة الباهتة"
+      },
+      {
+        "lang": "az",
+        "name": "Çöl belibağlısı"
+      },
+      {
+        "lang": "be",
+        "name": "Стэпавы лунь"
+      },
+      {
+        "lang": "bg",
+        "name": "Степен блатар"
+      },
+      {
+        "lang": "br",
+        "name": "Skoul gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Arpella russa"
+      },
+      {
+        "lang": "cs",
+        "name": "Moták stepní"
+      },
+      {
+        "lang": "cy",
+        "name": "Boda gwelw"
+      },
+      {
+        "lang": "da",
+        "name": "Steppehøg"
+      },
+      {
+        "lang": "de",
+        "name": "Steppenweihe"
+      },
+      {
+        "lang": "el",
+        "name": "Ασπροσιάχινο"
+      },
+      {
+        "lang": "en",
+        "name": "Pallid Harrier"
+      },
+      {
+        "lang": "eo",
+        "name": "Stepcirkuo"
+      },
+      {
+        "lang": "es",
+        "name": "Aguilucho Papialbo"
+      },
+      {
+        "lang": "et",
+        "name": "Stepi-loorkull"
+      },
+      {
+        "lang": "eu",
+        "name": "Mirotz lepazuria"
+      },
+      {
+        "lang": "fi",
+        "name": "arosuohaukka"
+      },
+      {
+        "lang": "fo",
+        "name": "Heiðaheykur"
+      },
+      {
+        "lang": "fr",
+        "name": "Busard pâle"
+      },
+      {
+        "lang": "gl",
+        "name": "Tartaraña de papo branco"
+      },
+      {
+        "lang": "he",
+        "name": "זרון שדות"
+      },
+      {
+        "lang": "hr",
+        "name": "Stepska Eja"
+      },
+      {
+        "lang": "hu",
+        "name": "Fakó rétihéja"
+      },
+      {
+        "lang": "hy",
+        "name": "Մկնաճուռյակ տափաստանային"
+      },
+      {
+        "lang": "is",
+        "name": "Fölheiðir"
+      },
+      {
+        "lang": "it",
+        "name": "Albanella pallida"
+      },
+      {
+        "lang": "ja",
+        "name": "ウスハイイロチュウヒ"
+      },
+      {
+        "lang": "ka",
+        "name": "მდელოს ძელქორი"
+      },
+      {
+        "lang": "kk",
+        "name": "Дала құладыны"
+      },
+      {
+        "lang": "lt",
+        "name": "Stepinė lingė"
+      },
+      {
+        "lang": "lv",
+        "name": "Stepes lija"
+      },
+      {
+        "lang": "mk",
+        "name": "Степска еја"
+      },
+      {
+        "lang": "ml",
+        "name": "മേടുതപ്പി"
+      },
+      {
+        "lang": "mn",
+        "name": "Хээрийн цагаан элэгт"
+      },
+      {
+        "lang": "mt",
+        "name": "Bugħadam Abjad"
+      },
+      {
+        "lang": "nl",
+        "name": "Steppekiekendief"
+      },
+      {
+        "lang": "no",
+        "name": "Steppehauk"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak stepowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Tartaranhão-de-peito-branco"
+      },
+      {
+        "lang": "rm",
+        "name": "Melv sblatg"
+      },
+      {
+        "lang": "ro",
+        "name": "Erete alb"
+      },
+      {
+        "lang": "ru",
+        "name": "Степной лунь"
+      },
+      {
+        "lang": "sk",
+        "name": "Kaňa stepná"
+      },
+      {
+        "lang": "sl",
+        "name": "Stepni lunj"
+      },
+      {
+        "lang": "sq",
+        "name": "Shqipja e stepave"
+      },
+      {
+        "lang": "sr",
+        "name": "Stepska eja / Степска eja"
+      },
+      {
+        "lang": "st",
+        "name": "Seitlhoaeleli"
+      },
+      {
+        "lang": "sv",
+        "name": "Stäpphök"
+      },
+      {
+        "lang": "sw",
+        "name": "Kipondya Kijivu"
+      },
+      {
+        "lang": "ta",
+        "name": "Poonai Parundhu"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวทุ่งสีจาง"
+      },
+      {
+        "lang": "tr",
+        "name": "Bozkır tuygunu"
+      },
+      {
+        "lang": "ts",
+        "name": "Nghotsana"
+      },
+      {
+        "lang": "tyv",
+        "name": "Хову кускежизи"
+      },
+      {
+        "lang": "uk",
+        "name": "Лунь степовий"
+      },
+      {
+        "lang": "vi",
+        "name": "Diều bụng trắng"
+      },
+      {
+        "lang": "xh",
+        "name": "Ulubisi"
+      },
+      {
+        "lang": "zh",
+        "name": "草原鹞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus macrosceles",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Malagasy Harrier"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus hudsonius",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Hudsonweihe"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Harrier"
+      },
+      {
+        "lang": "fr",
+        "name": "Busard des marais"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse blauwe kiekendief"
+      },
+      {
+        "lang": "nv",
+        "name": "Chʼiltaatʼagii"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk kärrhök"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus eylesi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Circus cyaneus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "مرزة الدجاج"
+      },
+      {
+        "lang": "ast",
+        "name": "Blanquín"
+      },
+      {
+        "lang": "az",
+        "name": "Tarla belibağlısı"
+      },
+      {
+        "lang": "be",
+        "name": "Палявы лунь"
+      },
+      {
+        "lang": "bg",
+        "name": "Полски блатар"
+      },
+      {
+        "lang": "br",
+        "name": "Skoul louet"
+      },
+      {
+        "lang": "ca",
+        "name": "Arpella pàl·lida"
+      },
+      {
+        "lang": "cs",
+        "name": "Moták pilich"
+      },
+      {
+        "lang": "cv",
+        "name": "Кăвак хăлат"
+      },
+      {
+        "lang": "cw",
+        "name": "Helghyer tynwyn"
+      },
+      {
+        "lang": "cy",
+        "name": "Boda Tinwyn"
+      },
+      {
+        "lang": "da",
+        "name": "Blå Kærhøg"
+      },
+      {
+        "lang": "de",
+        "name": "Kornweiher"
+      },
+      {
+        "lang": "el",
+        "name": "Ορνιθοσιάχινο"
+      },
+      {
+        "lang": "egl",
+        "name": "Puianétt"
+      },
+      {
+        "lang": "en",
+        "name": "Hen Harrier"
+      },
+      {
+        "lang": "eo",
+        "name": "Blua cirkuo"
+      },
+      {
+        "lang": "es",
+        "name": "Aguilucho pálido"
+      },
+      {
+        "lang": "et",
+        "name": "Välja-loorkull"
+      },
+      {
+        "lang": "eu",
+        "name": "Mirotz zuri"
+      },
+      {
+        "lang": "fa",
+        "name": "سنقر"
+      },
+      {
+        "lang": "fi",
+        "name": "Sinisuohaukka"
+      },
+      {
+        "lang": "fo",
+        "name": "Fenheykur"
+      },
+      {
+        "lang": "fr",
+        "name": "Busard Saint-Martin"
+      },
+      {
+        "lang": "frr",
+        "name": "Blä hanjüger"
+      },
+      {
+        "lang": "ga",
+        "name": "Cromán nag Cearc"
+      },
+      {
+        "lang": "gd",
+        "name": "Ant-eun fiorm"
+      },
+      {
+        "lang": "gl",
+        "name": "Gatafornela"
+      },
+      {
+        "lang": "gv",
+        "name": "Shirragh ny giark"
+      },
+      {
+        "lang": "he",
+        "name": "זרון תכול"
+      },
+      {
+        "lang": "hr",
+        "name": "Eja strnjarica"
+      },
+      {
+        "lang": "ht",
+        "name": "Gwo Malfini savann"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékes rétihéja"
+      },
+      {
+        "lang": "hy",
+        "name": "Մկնաճուռակ դաշտային"
+      },
+      {
+        "lang": "is",
+        "name": "Bláheiðir"
+      },
+      {
+        "lang": "it",
+        "name": "Albanella reale"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイイロチュウヒ"
+      },
+      {
+        "lang": "ka",
+        "name": "მინდვრის ძელქორი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Агайан"
+      },
+      {
+        "lang": "kk",
+        "name": "Түз құладыны"
+      },
+      {
+        "lang": "ko",
+        "name": "잿빛개구리매"
+      },
+      {
+        "lang": "lt",
+        "name": "Javinė lingė"
+      },
+      {
+        "lang": "lv",
+        "name": "Lauku lija"
+      },
+      {
+        "lang": "mk",
+        "name": "Полска еја"
+      },
+      {
+        "lang": "mn",
+        "name": "Цагаан элэгт"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Lang Sayap Hitam"
+      },
+      {
+        "lang": "mt",
+        "name": "Bugħadam Abjad Prim"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwe kiekendief"
+      },
+      {
+        "lang": "nn",
+        "name": "Myrhauk"
+      },
+      {
+        "lang": "no",
+        "name": "Myrhauk"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak zbożowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Tartaranhão-azulado"
+      },
+      {
+        "lang": "rm",
+        "name": "Melv da graun"
+      },
+      {
+        "lang": "ru",
+        "name": "Полевой лунь"
+      },
+      {
+        "lang": "se",
+        "name": "Jeaggehávut"
+      },
+      {
+        "lang": "sk",
+        "name": "Kaňa sivá"
+      },
+      {
+        "lang": "sl",
+        "name": "Pepelasti lunj"
+      },
+      {
+        "lang": "sq",
+        "name": "Shqipja e fushës"
+      },
+      {
+        "lang": "sr",
+        "name": "Poljska eja - Пољска eja"
+      },
+      {
+        "lang": "sv",
+        "name": "Blå kärrhök"
+      },
+      {
+        "lang": "sw",
+        "name": "Kipondya Kijivubuluu"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวทุ่งแถบเหนือ"
+      },
+      {
+        "lang": "tr",
+        "name": "Gökçe tuygun"
+      },
+      {
+        "lang": "tyv",
+        "name": "Шөл кускежизи"
+      },
+      {
+        "lang": "uk",
+        "name": "Лунь польовий"
+      },
+      {
+        "lang": "vi",
+        "name": "Diều hen"
+      },
+      {
+        "lang": "zh",
+        "name": "白尾鹞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus cinereus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Moták popelavý"
+      },
+      {
+        "lang": "en",
+        "name": "Cinereous Harrier"
+      },
+      {
+        "lang": "es",
+        "name": "Gavilan Ceniciento"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak prążkowany"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-cinza"
+      },
+      {
+        "lang": "tr",
+        "name": "Boz tuygun"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus buffoni",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Moták dlouhokřídlý"
+      },
+      {
+        "lang": "en",
+        "name": "Long-winged Harrier"
+      },
+      {
+        "lang": "es",
+        "name": "Aguilucho Grande",
+        "synonyms": [
+          "Gavilan Planeador"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak długoskrzydły"
+      },
+      {
+        "lang": "tr",
+        "name": "Uzun kanatlı tuygun"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus assimilis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Moták kropenatý"
+      },
+      {
+        "lang": "en",
+        "name": "Spotted Harrier"
+      },
+      {
+        "lang": "hu",
+        "name": "Pettyes rétihéja"
+      },
+      {
+        "lang": "id",
+        "name": "Elang Rawa Tutul"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak plamisty"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus approximans",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Moták tichomořský"
+      },
+      {
+        "lang": "en",
+        "name": "Swamp Harrier"
+      },
+      {
+        "lang": "eo",
+        "name": "Aŭstralazia marĉa cirkuo"
+      },
+      {
+        "lang": "hu",
+        "name": "Mocsári rétihéja"
+      },
+      {
+        "lang": "mi",
+        "name": "Kāhu"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak moczarowy"
+      },
+      {
+        "lang": "to",
+        "name": "taiseni"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circus aeruginosus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Europese Paddavreter"
+      },
+      {
+        "lang": "ar",
+        "name": "مرزة البطائح"
+      },
+      {
+        "lang": "ast",
+        "name": "Aguiluchu Prietu"
+      },
+      {
+        "lang": "az",
+        "name": "Qamışlıq belibağlısı"
+      },
+      {
+        "lang": "be",
+        "name": "Балотны лунь"
+      },
+      {
+        "lang": "bg",
+        "name": "Тръстиков блатар"
+      },
+      {
+        "lang": "br",
+        "name": "Skoul-korz"
+      },
+      {
+        "lang": "ca",
+        "name": "Arpellot de marjal"
+      },
+      {
+        "lang": "cs",
+        "name": "Moták pochop"
+      },
+      {
+        "lang": "cw",
+        "name": "Helghyer gwern"
+      },
+      {
+        "lang": "cy",
+        "name": "Bod y gwerni"
+      },
+      {
+        "lang": "da",
+        "name": "Rørhøg"
+      },
+      {
+        "lang": "de",
+        "name": "Rohrweihe"
+      },
+      {
+        "lang": "el",
+        "name": "Βαλτοσιάχινο"
+      },
+      {
+        "lang": "en",
+        "name": "Western Marsh Harrier"
+      },
+      {
+        "lang": "eo",
+        "name": "Marĉa cirkuo"
+      },
+      {
+        "lang": "es",
+        "name": "Aguilucho lagunero"
+      },
+      {
+        "lang": "et",
+        "name": "Roo-loorkull"
+      },
+      {
+        "lang": "eu",
+        "name": "Arpella vulgar"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskosuohaukka"
+      },
+      {
+        "lang": "fo",
+        "name": "Blotaheykur"
+      },
+      {
+        "lang": "fr",
+        "name": "Busard des roseaux"
+      },
+      {
+        "lang": "frr",
+        "name": "Raidiarn"
+      },
+      {
+        "lang": "ga",
+        "name": "Cromán mona"
+      },
+      {
+        "lang": "gd",
+        "name": "Clamhan loin"
+      },
+      {
+        "lang": "gl",
+        "name": "Tartaraña das xunqueiras"
+      },
+      {
+        "lang": "gv",
+        "name": "Shirragh ny bogleeyn"
+      },
+      {
+        "lang": "he",
+        "name": "זרון סוף"
+      },
+      {
+        "lang": "hr",
+        "name": "Eja Mocvarica"
+      },
+      {
+        "lang": "hu",
+        "name": "Barna rétihéja"
+      },
+      {
+        "lang": "hy",
+        "name": "Մկնաճուռակ ճահճային"
+      },
+      {
+        "lang": "id",
+        "name": "Elang rawa"
+      },
+      {
+        "lang": "is",
+        "name": "Brúnheiðir"
+      },
+      {
+        "lang": "it",
+        "name": "Falco di palude"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパチュウヒ"
+      },
+      {
+        "lang": "ka",
+        "name": "ჭაობის ძელქორი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Сар"
+      },
+      {
+        "lang": "kk",
+        "name": "Саз құладыны"
+      },
+      {
+        "lang": "ko",
+        "name": "개구리매"
+      },
+      {
+        "lang": "lt",
+        "name": "Nendrinė lingė"
+      },
+      {
+        "lang": "lv",
+        "name": "Niedru lija"
+      },
+      {
+        "lang": "mk",
+        "name": "Блатна еја"
+      },
+      {
+        "lang": "ml",
+        "name": "കരിതപ്പി"
+      },
+      {
+        "lang": "mn",
+        "name": "Намгийн цагаан элэгт"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Lang Uban"
+      },
+      {
+        "lang": "mt",
+        "name": "Bugħadam Aħmar"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruine kiekendief"
+      },
+      {
+        "lang": "nn",
+        "name": "Sivhauk"
+      },
+      {
+        "lang": "no",
+        "name": "Sivhauk"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotniak stawowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Tartaranhão-ruivo-dos-pauis"
+      },
+      {
+        "lang": "rm",
+        "name": "Melv da channa"
+      },
+      {
+        "lang": "ru",
+        "name": "Болотный лунь"
+      },
+      {
+        "lang": "sk",
+        "name": "Kaňa močiarna"
+      },
+      {
+        "lang": "sl",
+        "name": "Rjavi lunj"
+      },
+      {
+        "lang": "sq",
+        "name": "Shqipja e kenetes"
+      },
+      {
+        "lang": "sr",
+        "name": "Eja močvarica - Eja мочварика"
+      },
+      {
+        "lang": "sv",
+        "name": "Brun kärrhök"
+      },
+      {
+        "lang": "sw",
+        "name": "Kipondya wa Ulaya"
+      },
+      {
+        "lang": "ta",
+        "name": "Setru Poonai Parundhu"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวทุ่งพันธุ์ยูเรเซีย"
+      },
+      {
+        "lang": "tr",
+        "name": "Saz tuygunu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Тулаа кускежизи"
+      },
+      {
+        "lang": "uk",
+        "name": "Болотяний лунь"
+      },
+      {
+        "lang": "vec",
+        "name": "Falco de val"
+      },
+      {
+        "lang": "vi",
+        "name": "Diều đầu trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "白头鹞"
+      }
+    ]
+  }
+]

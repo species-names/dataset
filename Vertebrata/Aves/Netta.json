@@ -1,0 +1,373 @@
+[
+  {
+    "scientific_name": "Netta rufina",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Coríu Roxu"
+      },
+      {
+        "lang": "az",
+        "name": "Qırmızıburun dalğıc"
+      },
+      {
+        "lang": "be",
+        "name": "Чырвананосы нырок"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеноклюни потапници"
+      },
+      {
+        "lang": "br",
+        "name": "Penndog ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Xibec"
+      },
+      {
+        "lang": "cs",
+        "name": "Zrzohlávka rudozobá"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden bengoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rødhovedet and"
+      },
+      {
+        "lang": "de",
+        "name": "Kolbenente"
+      },
+      {
+        "lang": "el",
+        "name": "Κοτσινοτζέφαλη"
+      },
+      {
+        "lang": "en",
+        "name": "Red-crested Pochard"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝkapa anaso"
+      },
+      {
+        "lang": "es",
+        "name": "Pato colorado"
+      },
+      {
+        "lang": "et",
+        "name": "Punanokk-vart"
+      },
+      {
+        "lang": "eu",
+        "name": "Ahate gorrizta",
+        "synonyms": [
+          "Xibec"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "punapäänarsku"
+      },
+      {
+        "lang": "fr",
+        "name": "Nette rousse"
+      },
+      {
+        "lang": "fy",
+        "name": "Readkopein"
+      },
+      {
+        "lang": "ga",
+        "name": "Póiseard Cíordhearg"
+      },
+      {
+        "lang": "gl",
+        "name": "Pato rubio"
+      },
+      {
+        "lang": "he",
+        "name": "נטה"
+      },
+      {
+        "lang": "hr",
+        "name": "Patka Gogoljica"
+      },
+      {
+        "lang": "hu",
+        "name": "Üstökös réce"
+      },
+      {
+        "lang": "hy",
+        "name": "Սուզաբադ կարմրակտուց"
+      },
+      {
+        "lang": "is",
+        "name": "Kólfönd"
+      },
+      {
+        "lang": "it",
+        "name": "Fistione turco"
+      },
+      {
+        "lang": "ja",
+        "name": "アカハシハジロ"
+      },
+      {
+        "lang": "ka",
+        "name": "წითელცხვირა ყურყუმელა"
+      },
+      {
+        "lang": "kjn",
+        "name": "Хызыл аас öртек"
+      },
+      {
+        "lang": "kk",
+        "name": "Қызылбас сүњгуір"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은부리흰죽지"
+      },
+      {
+        "lang": "lt",
+        "name": "Šalminė antis"
+      },
+      {
+        "lang": "lv",
+        "name": "Lielgalvis"
+      },
+      {
+        "lang": "mk",
+        "name": "Патка превез"
+      },
+      {
+        "lang": "mn",
+        "name": "Улаан хошуут шумбуур"
+      },
+      {
+        "lang": "mt",
+        "name": "Brajmla tat-Toppu Aħmar"
+      },
+      {
+        "lang": "nl",
+        "name": "Krooneend"
+      },
+      {
+        "lang": "no",
+        "name": "Rødhodeand"
+      },
+      {
+        "lang": "pl",
+        "name": "Hełmiatka"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-de-bico-vermelho"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda cotschna"
+      },
+      {
+        "lang": "ru",
+        "name": "Красноносый нырок"
+      },
+      {
+        "lang": "sk",
+        "name": "hrdzavka potápavá"
+      },
+      {
+        "lang": "sl",
+        "name": "tatarska žvižgavka"
+      },
+      {
+        "lang": "sq",
+        "name": "Murrcaku"
+      },
+      {
+        "lang": "sr",
+        "name": "plovka prevez / Пловка превез"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödhuvad dykand"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดปากแดง"
+      },
+      {
+        "lang": "tr",
+        "name": "Macar ördeği"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кызыл думчуктуг шымнырак"
+      },
+      {
+        "lang": "uk",
+        "name": "Червонодзьоба чернь"
+      },
+      {
+        "lang": "zh",
+        "name": "赤嘴潜鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Netta peposaca",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Ànec peposaca"
+      },
+      {
+        "lang": "cs",
+        "name": "Zrzohlávka peposaka"
+      },
+      {
+        "lang": "de",
+        "name": "Peposakaente"
+      },
+      {
+        "lang": "en",
+        "name": "Rosy-billed Pochard"
+      },
+      {
+        "lang": "eo",
+        "name": "Rozbeka anaso"
+      },
+      {
+        "lang": "es",
+        "name": "Pato Picazo"
+      },
+      {
+        "lang": "fr",
+        "name": "Nette demi-deuil"
+      },
+      {
+        "lang": "hr",
+        "name": "Ružičastokljuna patka"
+      },
+      {
+        "lang": "hu",
+        "name": "Peposaca réce"
+      },
+      {
+        "lang": "it",
+        "name": "Fistione beccoroseo"
+      },
+      {
+        "lang": "ja",
+        "name": "ベニバシガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Peposaca-eend"
+      },
+      {
+        "lang": "no",
+        "name": "Peposacaand"
+      },
+      {
+        "lang": "pl",
+        "name": "Hełmiatka różowodzioba"
+      },
+      {
+        "lang": "pt",
+        "name": "Marrecão"
+      },
+      {
+        "lang": "sv",
+        "name": "Pampasand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Netta erythrophthalma",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bruineend"
+      },
+      {
+        "lang": "cs",
+        "name": "Zrzohlávka rudooká"
+      },
+      {
+        "lang": "de",
+        "name": "Rotaugenente"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Pochard",
+        "synonyms": [
+          "African Pochard",
+          "Red-eyed Pochard",
+          "South African Pochard"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Nette brune"
+      },
+      {
+        "lang": "es",
+        "name": "Pato Morado"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruine Krooneend"
+      },
+      {
+        "lang": "it",
+        "name": "Fistione meridionale",
+        "synonyms": [
+          "Fistione australe"
+        ]
+      },
+      {
+        "lang": "no",
+        "name": "Fløyelsand"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskonarsku"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydlig brunand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Netta caryophyllacea",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kachna růžovohlavá"
+      },
+      {
+        "lang": "en",
+        "name": "Pink-headed Duck"
+      },
+      {
+        "lang": "fr",
+        "name": "Nette à cou rose"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato de cabeça rosa"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosenand"
+      }
+    ]
+  }
+]

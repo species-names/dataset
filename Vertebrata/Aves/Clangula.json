@@ -1,0 +1,317 @@
+[
+  {
+    "scientific_name": "Clangula hyemalis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بط طويل الذنب"
+      },
+      {
+        "lang": "ast",
+        "name": "Coríu Falampiu"
+      },
+      {
+        "lang": "az",
+        "name": "Moryanka"
+      },
+      {
+        "lang": "ba",
+        "name": "Эяла"
+      },
+      {
+        "lang": "be",
+        "name": "Маранка"
+      },
+      {
+        "lang": "bg",
+        "name": "Ледена потапница"
+      },
+      {
+        "lang": "br",
+        "name": "Morhouad-kerregi"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec glacial"
+      },
+      {
+        "lang": "cs",
+        "name": "hoholka lední"
+      },
+      {
+        "lang": "cw",
+        "name": "Hos lostek"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden Gynffon-hir"
+      },
+      {
+        "lang": "da",
+        "name": "Havlit"
+      },
+      {
+        "lang": "de",
+        "name": "Eisente"
+      },
+      {
+        "lang": "el",
+        "name": "χιονόπαπια"
+      },
+      {
+        "lang": "en",
+        "name": "Long-tailed Duck",
+        "synonyms": [
+          "Oldsquaw"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Longvosta klangulo"
+      },
+      {
+        "lang": "es",
+        "name": "Pato havelda"
+      },
+      {
+        "lang": "et",
+        "name": "Aul"
+      },
+      {
+        "lang": "eu",
+        "name": "Izotz-ahate"
+      },
+      {
+        "lang": "fi",
+        "name": "Alli"
+      },
+      {
+        "lang": "fo",
+        "name": "Ógvella"
+      },
+      {
+        "lang": "fr",
+        "name": "Harelde kakawi",
+        "synonyms": [
+          "Harelde boréale",
+          "Harelde de Miquelon<small>",
+          "Garrot de Miquelon",
+          "Fuligule de Miquelon",
+          "Canard de Miquelon",
+          "Harelde glaciale",
+          "Morillon glacial",
+          "Criard d’hiver",
+          "Petit Pilet",
+          "Pilet dériveux",
+          "Micloux",
+          "Canard à longue queue de Terre-Neuve",
+          "Sarcelle de Féroé",
+          "Canard des glaces</small>"
+        ]
+      },
+      {
+        "lang": "frr",
+        "name": "Isfögel"
+      },
+      {
+        "lang": "fy",
+        "name": "Iisein"
+      },
+      {
+        "lang": "ga",
+        "name": "Lacha bhinn",
+        "synonyms": [
+          "Lacha Earrfhada"
+        ]
+      },
+      {
+        "lang": "gd",
+        "name": "Eun buchainn",
+        "synonyms": [
+          "Jan-chochail"
+        ]
+      },
+      {
+        "lang": "gl",
+        "name": "Ànec glacial",
+        "synonyms": [
+          "Pato rabeiro"
+        ]
+      },
+      {
+        "lang": "gv",
+        "name": "Laagh Lheeah",
+        "synonyms": [
+          "Thunnag ammanagh"
+        ]
+      },
+      {
+        "lang": "he",
+        "name": "ברווז קרח"
+      },
+      {
+        "lang": "hr",
+        "name": "Patka ledara"
+      },
+      {
+        "lang": "hu",
+        "name": "Jegesréce"
+      },
+      {
+        "lang": "hy",
+        "name": "Բադ ծովային"
+      },
+      {
+        "lang": "ik",
+        "name": "Aaqhaaliq"
+      },
+      {
+        "lang": "is",
+        "name": "Hávella"
+      },
+      {
+        "lang": "it",
+        "name": "Moretta codona"
+      },
+      {
+        "lang": "iu",
+        "name": "Aa'aangiq",
+        "synonyms": [
+          "Aggek"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "コオリガモ",
+        "synonyms": [
+          "koorigamo"
+        ]
+      },
+      {
+        "lang": "kk",
+        "name": "Ұшқыр үйрек"
+      },
+      {
+        "lang": "kl",
+        "name": "Alleq"
+      },
+      {
+        "lang": "ko",
+        "name": "바다꿩"
+      },
+      {
+        "lang": "la",
+        "name": "Clangula hyemalis",
+        "synonyms": [
+          "Harelda hyemalis"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Ledinė antis"
+      },
+      {
+        "lang": "lv",
+        "name": "Kākaulis"
+      },
+      {
+        "lang": "mk",
+        "name": "Леденарка",
+        "synonyms": [
+          "Северна патка"
+        ]
+      },
+      {
+        "lang": "mn",
+        "name": "Мөнгөлөг шунгаахай"
+      },
+      {
+        "lang": "nl",
+        "name": "IJseend"
+      },
+      {
+        "lang": "nn",
+        "name": "Havelle"
+      },
+      {
+        "lang": "no",
+        "name": "Havelle"
+      },
+      {
+        "lang": "pcd",
+        "name": "Pilé vireux"
+      },
+      {
+        "lang": "pl",
+        "name": "lodówka"
+      },
+      {
+        "lang": "pnb",
+        "name": "لمی پوچھل آلی بطخ"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-de-cauda-afilada"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda da glatsch"
+      },
+      {
+        "lang": "ru",
+        "name": "Морянка"
+      },
+      {
+        "lang": "sah",
+        "name": "Ээбиллэ"
+      },
+      {
+        "lang": "se",
+        "name": "Haŋŋá"
+      },
+      {
+        "lang": "sk",
+        "name": "ľadovka dĺhochvostá"
+      },
+      {
+        "lang": "sl",
+        "name": "Zimska raca"
+      },
+      {
+        "lang": "sq",
+        "name": "Rosa e ngricave"
+      },
+      {
+        "lang": "sr",
+        "name": "Ledenjarka",
+        "synonyms": [
+          "Леденjaрка"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Alfågel"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดหางยาว"
+      },
+      {
+        "lang": "tr",
+        "name": "Telkuyruk"
+      },
+      {
+        "lang": "tyv",
+        "name": "Ала шивегей-кудурук"
+      },
+      {
+        "lang": "uk",
+        "name": "Морянка"
+      },
+      {
+        "lang": "zh",
+        "name": "长尾鸭"
+      }
+    ]
+  }
+]

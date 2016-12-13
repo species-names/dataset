@@ -1,0 +1,189 @@
+[
+  {
+    "scientific_name": "Procellaria westlandica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Westland Petrel"
+      },
+      {
+        "lang": "fi",
+        "name": "Tasmanianmeriliitäjä"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Procellaria parkinsoni",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Tummameriliitäjä"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Procellaria conspicillata",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Brilbassiaan"
+      },
+      {
+        "lang": "cs",
+        "name": "Buřňák tristanský"
+      },
+      {
+        "lang": "da",
+        "name": "Brilleskråpe"
+      },
+      {
+        "lang": "de",
+        "name": "Brillensturmvogel",
+        "synonyms": [
+          "Brillesturmvogel"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Spectacled Petrel"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela de anteojos"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی خالدار"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin à lunettes"
+      },
+      {
+        "lang": "hr",
+        "name": "Burnjak naočar"
+      },
+      {
+        "lang": "id",
+        "name": "Petrel kacamata"
+      },
+      {
+        "lang": "it",
+        "name": "Petrello dagli occhiali"
+      },
+      {
+        "lang": "nl",
+        "name": "Brilstormvogel"
+      },
+      {
+        "lang": "pt",
+        "name": "Pardela-de-óculos"
+      },
+      {
+        "lang": "ru",
+        "name": "Очковый буревестник"
+      },
+      {
+        "lang": "sv",
+        "name": "Glasögonpetrell"
+      },
+      {
+        "lang": "vi",
+        "name": "Hải bão bốn mắt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Procellaria cinerea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey Petrel"
+      },
+      {
+        "lang": "fi",
+        "name": "Meriliitäjä"
+      },
+      {
+        "lang": "af",
+        "name": "Pediunker"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Procellaria aequinoctialis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bassiaan"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga de mentó blanc"
+      },
+      {
+        "lang": "de",
+        "name": "Weißkinn-Sturmvogel"
+      },
+      {
+        "lang": "en",
+        "name": "White-chinned Petrel"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela gorgiblanca",
+        "synonyms": [
+          "fardela negra grande",
+          "petrel barba blanca"
+        ]
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی چانه‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Isomeriliitäjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin à menton blanc"
+      },
+      {
+        "lang": "hr",
+        "name": "Bjelobrada burnica"
+      },
+      {
+        "lang": "id",
+        "name": "Petrel dagu-putih"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkinstormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Kvithakepetrell"
+      },
+      {
+        "lang": "no",
+        "name": "Hvithakepetrell"
+      },
+      {
+        "lang": "pt",
+        "name": "Pardela-preta",
+        "synonyms": [
+          "Pretinha"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Vithakad petrell"
+      },
+      {
+        "lang": "zh",
+        "name": "白額鸌"
+      }
+    ]
+  }
+]

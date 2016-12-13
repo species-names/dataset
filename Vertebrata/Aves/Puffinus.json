@@ -1,0 +1,546 @@
+[
+  {
+    "scientific_name": "Puffinus yelkouan",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga mediterrànea"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela mediterránea"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabai mediterraneo"
+      },
+      {
+        "lang": "gl",
+        "name": "Pardela mediterránea"
+      },
+      {
+        "lang": "tr",
+        "name": "Yelkovan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus tenuirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Short-tailed Shearwater"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシボソミズナギドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠부리슴새"
+      },
+      {
+        "lang": "fi",
+        "name": "Lyhytpyrstöliitäjä"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus subalaris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Puffinus puffinus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Обикновен буревестник"
+      },
+      {
+        "lang": "br",
+        "name": "Tort boutin"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga pufí"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn-Drycin Manaw"
+      },
+      {
+        "lang": "da",
+        "name": "Almindelig skråpe"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzschnabel-Sturmtaucher"
+      },
+      {
+        "lang": "en",
+        "name": "Manx Shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Nordmara pufino"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela pichoneta"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabai arrunt"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuliitäjä"
+      },
+      {
+        "lang": "fo",
+        "name": "Skrápur"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin des Anglais"
+      },
+      {
+        "lang": "gl",
+        "name": "Pardela furabuchos"
+      },
+      {
+        "lang": "hr",
+        "name": "Mali zovoj"
+      },
+      {
+        "lang": "hu",
+        "name": "Atlanti vészmadár"
+      },
+      {
+        "lang": "is",
+        "name": "Skrofa"
+      },
+      {
+        "lang": "ja",
+        "name": "マンクスミズナギドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Noordse pijlstormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Havlire"
+      },
+      {
+        "lang": "no",
+        "name": "Havlire"
+      },
+      {
+        "lang": "pcd",
+        "name": "Trayeux"
+      },
+      {
+        "lang": "pl",
+        "name": "Burzyk północny"
+      },
+      {
+        "lang": "pt",
+        "name": "Bobo-pequeno"
+      },
+      {
+        "lang": "ru",
+        "name": "Малый буревестник"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre lira"
+      },
+      {
+        "lang": "uk",
+        "name": "Звичайний буревісник"
+      },
+      {
+        "lang": "af",
+        "name": "Swartbekpylstormvoël"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus persicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Puffinus pacificus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wedge-tailed Shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela del Pacífico"
+      },
+      {
+        "lang": "fi",
+        "name": "Suippopyrstöliitäjä"
+      },
+      {
+        "lang": "ja",
+        "name": "オナガミズナギドリ"
+      },
+      {
+        "lang": "af",
+        "name": "Keilstertpylstormvoël"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus opisthomelas",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-vented Shearwater"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalifornianpikkuliitäjä"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus nativitatis",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Polynesianliitäjä"
+      },
+      {
+        "lang": "ja",
+        "name": "コミズナギドリ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus mauretanicus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga balear",
+        "synonyms": [
+          "baldriga pufí baleàrica",
+          "virot petit"
+        ]
+      },
+      {
+        "lang": "de",
+        "name": "Balearen-Sturmtaucher"
+      },
+      {
+        "lang": "en",
+        "name": "Balearic Shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela balear"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabai balear"
+      },
+      {
+        "lang": "fi",
+        "name": "Baleaarienliitäjä"
+      },
+      {
+        "lang": "gl",
+        "name": "Pardela balear"
+      },
+      {
+        "lang": "pl",
+        "name": "Burzyk popielaty"
+      },
+      {
+        "lang": "af",
+        "name": "Baleariese stormvoël"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus lherminieri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Audubon's Shearwater"
+      },
+      {
+        "lang": "ja",
+        "name": "セグロミズナギドリ"
+      },
+      {
+        "lang": "to",
+        "name": "teiko"
+      },
+      {
+        "lang": "pt",
+        "name": "Pardela-de-asa-larga"
+      },
+      {
+        "lang": "fi",
+        "name": "Tropiikkiliitäjä"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus huttoni",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga de Hutton"
+      },
+      {
+        "lang": "en",
+        "name": "Hutton's shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela de Hutton"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی هوتون"
+      },
+      {
+        "lang": "fi",
+        "name": "Tummapikkuliitäjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Hutton"
+      },
+      {
+        "lang": "hr",
+        "name": "Huttonov zovoj"
+      },
+      {
+        "lang": "nl",
+        "name": "Huttons pijlstormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Maorilire"
+      },
+      {
+        "lang": "sv",
+        "name": "Huttonlira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus heinrothi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Heinroth's Shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela de Heinroth"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Heinroth"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus griseus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga grisa"
+      },
+      {
+        "lang": "en",
+        "name": "Sooty Shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela sombría"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabai ilun"
+      },
+      {
+        "lang": "gl",
+        "name": "Pardela escura"
+      },
+      {
+        "lang": "is",
+        "name": "Gráskrofa"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイイロミズナギドリ"
+      },
+      {
+        "lang": "mi",
+        "name": "Tītī"
+      },
+      {
+        "lang": "nl",
+        "name": "Grauwe pijlstormvogel"
+      },
+      {
+        "lang": "nz",
+        "name": "muttonbird"
+      },
+      {
+        "lang": "af",
+        "name": "Malbaartjie"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus gravis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga capnegra"
+      },
+      {
+        "lang": "en",
+        "name": "Great",
+        "synonyms": [
+          "Greater Shearwater"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Pardela capirotada"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabai handi"
+      },
+      {
+        "lang": "gl",
+        "name": "Pardela encapuchada"
+      },
+      {
+        "lang": "af",
+        "name": "Grootpylstormvoël"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus gavia",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Puffinus creatopus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pink-footed Shearwater"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus carneipes",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Flesh-footed Shearwater"
+      },
+      {
+        "lang": "ja",
+        "name": "アカアシミズナギドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은발슴새"
+      },
+      {
+        "lang": "af",
+        "name": "Bruinpylstormvoël"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus bulleri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buller's Shearwater"
+      },
+      {
+        "lang": "fi",
+        "name": "Juovasiipiliitäjä"
+      },
+      {
+        "lang": "ja",
+        "name": "ミナミオナガミズナギドリ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus bryani",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Puffinus bannermani",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Puffinus auricularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Townsend's Shearwater"
+      },
+      {
+        "lang": "fi",
+        "name": "Meksikonpikkuliitäjä"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus assimilis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga petita"
+      },
+      {
+        "lang": "en",
+        "name": "Little Shearwater"
+      },
+      {
+        "lang": "es",
+        "name": "Pardela chica"
+      },
+      {
+        "lang": "eu",
+        "name": "Gabai txiki"
+      },
+      {
+        "lang": "fi",
+        "name": "Kääpiöliitäjä"
+      },
+      {
+        "lang": "gl",
+        "name": "Pardela pequena"
+      },
+      {
+        "lang": "pt",
+        "name": "Pardela-pequena"
+      },
+      {
+        "lang": "af",
+        "name": "Kleinpylstormvoël"
+      }
+    ]
+  }
+]

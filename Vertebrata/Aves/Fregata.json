@@ -1,0 +1,360 @@
+[
+  {
+    "scientific_name": "Fregata minor",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bindenfregattvogel"
+      },
+      {
+        "lang": "ca",
+        "name": "Fregata gran"
+      },
+      {
+        "lang": "el",
+        "name": "Μεγάλη φρεγάτα"
+      },
+      {
+        "lang": "en",
+        "name": "Great Frigatebird"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuningasfregattilintu",
+        "synonyms": [
+          "kuningaskaappari"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Frégate du Pacifique"
+      },
+      {
+        "lang": "id",
+        "name": "Cikalang besar"
+      },
+      {
+        "lang": "it",
+        "name": "Fregata maggiore"
+      },
+      {
+        "lang": "nn",
+        "name": "Storfregattfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Fregata średnia"
+      },
+      {
+        "lang": "pt",
+        "name": "Tesourão-grande"
+      },
+      {
+        "lang": "sv",
+        "name": "Större fregattfågel"
+      },
+      {
+        "lang": "vi",
+        "name": "Cốc biển đen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fregata magnificens",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Fregata magnífica"
+      },
+      {
+        "lang": "cs",
+        "name": "fregatka vznešená"
+      },
+      {
+        "lang": "da",
+        "name": "Pragtfregatfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Prachtfregattvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Magnificent Frigatebird"
+      },
+      {
+        "lang": "es",
+        "name": "Rabihorcado magnífico"
+      },
+      {
+        "lang": "fi",
+        "name": "keisarifregattilintu"
+      },
+      {
+        "lang": "fr",
+        "name": "Frégate superbe"
+      },
+      {
+        "lang": "hu",
+        "name": "Pompás fregattmadár"
+      },
+      {
+        "lang": "id",
+        "name": "Cikalang elok"
+      },
+      {
+        "lang": "is",
+        "name": "Freigátufugl"
+      },
+      {
+        "lang": "it",
+        "name": "Fregata magnifica"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカグンカンドリ",
+        "synonyms": [
+          "amerikagunkandori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse fregatvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Praktfregattfugl"
+      },
+      {
+        "lang": "no",
+        "name": "Ascensionfregattfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "fregata wielka"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Tesourão"
+      },
+      {
+        "lang": "pt",
+        "name": "Fragata-comum"
+      },
+      {
+        "lang": "ru",
+        "name": "Вознесенский фрегат"
+      },
+      {
+        "lang": "sk",
+        "name": "fregata vznešená"
+      },
+      {
+        "lang": "sv",
+        "name": "Ascensionfregattfågel",
+        "synonyms": [
+          "Praktfregattfågel"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Прекрасний фрегат"
+      },
+      {
+        "lang": "zh",
+        "name": "华丽军舰鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fregata ariel",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Lille fregatfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Arielfregattvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Frigatebird"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkufregattilintu"
+      },
+      {
+        "lang": "fr",
+        "name": "Frégate ariel"
+      },
+      {
+        "lang": "id",
+        "name": "Cikalang kecil"
+      },
+      {
+        "lang": "it",
+        "name": "Fregata minore"
+      },
+      {
+        "lang": "ja",
+        "name": "コグンカンドリ"
+      },
+      {
+        "lang": "pl",
+        "name": "Fregata mała"
+      },
+      {
+        "lang": "pt",
+        "name": "Tesourão-pequeno"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre fregattfågel"
+      },
+      {
+        "lang": "to",
+        "name": "helekosi",
+        "synonyms": [
+          "lofa"
+        ]
+      },
+      {
+        "lang": "vi",
+        "name": "Cốc biển bé"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fregata aquila",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "فرقاطة النسر"
+      },
+      {
+        "lang": "ca",
+        "name": "Fregata de l'Ascensió"
+      },
+      {
+        "lang": "de",
+        "name": "Adlerfregattvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Ascension Frigatebird"
+      },
+      {
+        "lang": "fi",
+        "name": "Atlantinfregattilintu"
+      },
+      {
+        "lang": "fr",
+        "name": "Frégate aigle-de-mer"
+      },
+      {
+        "lang": "it",
+        "name": "Fregata di Ascension",
+        "synonyms": [
+          "fregata aquila"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "メスグログンカンドリ"
+      },
+      {
+        "lang": "pl",
+        "name": "Fregata orla"
+      },
+      {
+        "lang": "ru",
+        "name": "Вознесенский фрегат"
+      },
+      {
+        "lang": "sv",
+        "name": "Ascensionfregattfågel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fregata andrewsi",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Fregata de l'illa Christmas"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbauch-Fregattvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Christmas Island Frigatebird"
+      },
+      {
+        "lang": "es",
+        "name": "Rabihorcado de la Christmas"
+      },
+      {
+        "lang": "fi",
+        "name": "Joulusaarenfregattilintu"
+      },
+      {
+        "lang": "fr",
+        "name": "Frégate d'Andrews"
+      },
+      {
+        "lang": "it",
+        "name": "Fregata di Christmas",
+        "synonyms": [
+          "Fregata di Andrews"
+        ]
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Simbang Pulau Christmas"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbuikfregatvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Fregata białobrzucha"
+      },
+      {
+        "lang": "zh",
+        "name": "白腹軍艦鳥",
+        "synonyms": [
+          "海盜鳥"
+        ]
+      },
+      {
+        "lang": "ar",
+        "name": "فرقاطة أندروسي"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ دله کریسمس"
+      },
+      {
+        "lang": "ml",
+        "name": "കൃസ്തുമസ്ദ്വീപ് കടൽക്കള്ളൻ"
+      },
+      {
+        "lang": "sv",
+        "name": "Julöfregattfågel"
+      },
+      {
+        "lang": "vi",
+        "name": "Cốc biển bụng trắng"
+      },
+      {
+        "lang": "id",
+        "name": "Cikalang christmas"
+      }
+    ]
+  }
+]

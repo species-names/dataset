@@ -1,0 +1,425 @@
+[
+  {
+    "scientific_name": "Zenaida meloda",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Hrdlička pacifická"
+      },
+      {
+        "lang": "de",
+        "name": "Perutaube"
+      },
+      {
+        "lang": "en",
+        "name": "West Peruvian Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Zenaida Peruana"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle côtière"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zenaida macroura",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Плачеща гургулица"
+      },
+      {
+        "lang": "ca",
+        "name": "Tortoreta cuallarga"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička karolinská"
+      },
+      {
+        "lang": "da",
+        "name": "Sørgedue"
+      },
+      {
+        "lang": "de",
+        "name": "Carolinataube"
+      },
+      {
+        "lang": "en",
+        "name": "Mourning Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Plorturto"
+      },
+      {
+        "lang": "es",
+        "name": "Zenaida Huilota"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر باران"
+      },
+      {
+        "lang": "fi",
+        "name": "Vaikertajakyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle triste"
+      },
+      {
+        "lang": "ga",
+        "name": "Fearán gubhach"
+      },
+      {
+        "lang": "hu",
+        "name": "Sirató gerle"
+      },
+      {
+        "lang": "id",
+        "name": "Merpati karolina"
+      },
+      {
+        "lang": "is",
+        "name": "Tregadúfa"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora luttuosa"
+      },
+      {
+        "lang": "ja",
+        "name": "ナゲキバト"
+      },
+      {
+        "lang": "mrj",
+        "name": "Америка тыргӓдӹ"
+      },
+      {
+        "lang": "nah",
+        "name": "Huilōtl"
+      },
+      {
+        "lang": "nl",
+        "name": "Treurduif"
+      },
+      {
+        "lang": "no",
+        "name": "Sørgedue"
+      },
+      {
+        "lang": "pl",
+        "name": "Gołębiak długosterny"
+      },
+      {
+        "lang": "pnb",
+        "name": "دکھی کگی"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-carpideira"
+      },
+      {
+        "lang": "ru",
+        "name": "Плачущая горлица"
+      },
+      {
+        "lang": "sk",
+        "name": "Nachovka smútočná"
+      },
+      {
+        "lang": "sv",
+        "name": "Spetsstjärtad duva"
+      },
+      {
+        "lang": "ta",
+        "name": "ஆமைப் புறா"
+      },
+      {
+        "lang": "vi",
+        "name": "Bồ câu bi ai"
+      },
+      {
+        "lang": "zh",
+        "name": "哀鸽"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "哀鸽"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "哀鴿"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zenaida graysoni",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colom Socorro"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička sokorská"
+      },
+      {
+        "lang": "de",
+        "name": "Socorrotaube"
+      },
+      {
+        "lang": "en",
+        "name": "Socorro Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Sokora turto"
+      },
+      {
+        "lang": "es",
+        "name": "Zenaida de Socorro"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle de Socorro"
+      },
+      {
+        "lang": "hu",
+        "name": "Socorrói gerle"
+      },
+      {
+        "lang": "nl",
+        "name": "Socorrotreurduif"
+      },
+      {
+        "lang": "ru",
+        "name": "Сокоррский голубь"
+      },
+      {
+        "lang": "zh",
+        "name": "索哥羅鳩"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zenaida galapagoensis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tórtora de les Galápagos"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička galapážská"
+      },
+      {
+        "lang": "de",
+        "name": "Galapagostaube"
+      },
+      {
+        "lang": "en",
+        "name": "Galapagos Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Galapaga turto"
+      },
+      {
+        "lang": "es",
+        "name": "Zenaida de Galápagos"
+      },
+      {
+        "lang": "fi",
+        "name": "Galapagosinkyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle des Galapagos"
+      },
+      {
+        "lang": "hu",
+        "name": "Galápagosi gerle"
+      },
+      {
+        "lang": "ja",
+        "name": "ガラパゴスバト"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zenaida aurita",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Hrdlička karibská"
+      },
+      {
+        "lang": "de",
+        "name": "Küstentaube"
+      },
+      {
+        "lang": "en",
+        "name": "Zenaida Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Antila turto"
+      },
+      {
+        "lang": "es",
+        "name": "Zenaida caribeña"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle à queue carrée"
+      },
+      {
+        "lang": "ja",
+        "name": "シマハジロバト"
+      },
+      {
+        "lang": "nl",
+        "name": "Antilliaanse treurduif"
+      },
+      {
+        "lang": "sv",
+        "name": "Zenaidaduva"
+      },
+      {
+        "lang": "zh",
+        "name": "鳴哀鴿"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zenaida auriculata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Hrdlička černouchá"
+      },
+      {
+        "lang": "de",
+        "name": "Ohrflecktaube"
+      },
+      {
+        "lang": "en",
+        "name": "Eared Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Orelturto"
+      },
+      {
+        "lang": "es",
+        "name": "Zenaida Torcaza"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle oreillarde"
+      },
+      {
+        "lang": "hu",
+        "name": "Fülfoltos gerle"
+      },
+      {
+        "lang": "pt",
+        "name": "Avoante"
+      },
+      {
+        "lang": "qu",
+        "name": "Waylla urpi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zenaida asiatica",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tórtora d'ales blanques"
+      },
+      {
+        "lang": "cs",
+        "name": "Hrdlička bělavokřídlá"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidvingedue"
+      },
+      {
+        "lang": "de",
+        "name": "Weißflügeltaube"
+      },
+      {
+        "lang": "en",
+        "name": "White-winged Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankflugila turto"
+      },
+      {
+        "lang": "es",
+        "name": "Zenaida Aliblanca"
+      },
+      {
+        "lang": "fi",
+        "name": "Pilkkasiipikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Tourterelle à ailes blanches"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora alibianche"
+      },
+      {
+        "lang": "ja",
+        "name": "ハジロバト"
+      },
+      {
+        "lang": "nl",
+        "name": "Witvleugeltreurduif"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitvingedue"
+      },
+      {
+        "lang": "pl",
+        "name": "gołębiak białoskrzydły"
+      },
+      {
+        "lang": "pt",
+        "name": "Rolinha-comum-da-ásia"
+      },
+      {
+        "lang": "qu",
+        "name": "Kukuli"
+      },
+      {
+        "lang": "ru",
+        "name": "Белокрылая горлица"
+      },
+      {
+        "lang": "sk",
+        "name": "Nachovka bielokrídla"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitvingad duva"
+      },
+      {
+        "lang": "zh",
+        "name": "白翅哀鸽"
+      }
+    ]
+  }
+]

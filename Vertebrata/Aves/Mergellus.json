@@ -1,0 +1,275 @@
+[
+  {
+    "scientific_name": "Mergellus albellus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بلقشة بيضاء"
+      },
+      {
+        "lang": "ast",
+        "name": "Pitorru Cande"
+      },
+      {
+        "lang": "az",
+        "name": "Nazik pazdimdik"
+      },
+      {
+        "lang": "ba",
+        "name": "Аҡсабан"
+      },
+      {
+        "lang": "be",
+        "name": "Луток"
+      },
+      {
+        "lang": "bg",
+        "name": "Малък нирец"
+      },
+      {
+        "lang": "bn",
+        "name": "স্মিউ হাঁস"
+      },
+      {
+        "lang": "br",
+        "name": "Heskenneg bihan"
+      },
+      {
+        "lang": "ca",
+        "name": "Bec de serra petit"
+      },
+      {
+        "lang": "cs",
+        "name": "Morčák malý"
+      },
+      {
+        "lang": "cw",
+        "name": "Lenes wyn"
+      },
+      {
+        "lang": "cy",
+        "name": "Lleian Wen"
+      },
+      {
+        "lang": "da",
+        "name": "Lille Skallesluger"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergsäger"
+      },
+      {
+        "lang": "el",
+        "name": "Ασπροβουττήκτης"
+      },
+      {
+        "lang": "en",
+        "name": "Smew"
+      },
+      {
+        "lang": "eo",
+        "name": "Blanka merĝo"
+      },
+      {
+        "lang": "es",
+        "name": "Serreta chica"
+      },
+      {
+        "lang": "et",
+        "name": "Väikekoskel"
+      },
+      {
+        "lang": "eu",
+        "name": "Zerra txiki"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغابی شمال اروپا و آسيا"
+      },
+      {
+        "lang": "fi",
+        "name": "Uivelo"
+      },
+      {
+        "lang": "fo",
+        "name": "Maront"
+      },
+      {
+        "lang": "fr",
+        "name": "Harle piette"
+      },
+      {
+        "lang": "fy",
+        "name": "Lytse Seachbek"
+      },
+      {
+        "lang": "ga",
+        "name": "Síolta gheal"
+      },
+      {
+        "lang": "gd",
+        "name": "Sioltaich breac"
+      },
+      {
+        "lang": "gl",
+        "name": "Mergo pequeno"
+      },
+      {
+        "lang": "gv",
+        "name": "Thunnag vreck eeacklagh"
+      },
+      {
+        "lang": "he",
+        "name": "מרגון גמד"
+      },
+      {
+        "lang": "hr",
+        "name": "Bijeli ronac"
+      },
+      {
+        "lang": "hu",
+        "name": "Kis bukó"
+      },
+      {
+        "lang": "hy",
+        "name": "Լուտոկ"
+      },
+      {
+        "lang": "is",
+        "name": "Hvítönd"
+      },
+      {
+        "lang": "it",
+        "name": "Pesciaiola"
+      },
+      {
+        "lang": "ja",
+        "name": "ミコアイサ"
+      },
+      {
+        "lang": "ka",
+        "name": "პატარა ბატასინი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Кiчiг сус"
+      },
+      {
+        "lang": "kk",
+        "name": "Кіші бейнарық"
+      },
+      {
+        "lang": "ko",
+        "name": "흰비오리"
+      },
+      {
+        "lang": "lt",
+        "name": "Mažasis dančiasnapis"
+      },
+      {
+        "lang": "lv",
+        "name": "Mazā gaura"
+      },
+      {
+        "lang": "mk",
+        "name": "Бел потопник"
+      },
+      {
+        "lang": "mn",
+        "name": "Цахиур бохио"
+      },
+      {
+        "lang": "mt",
+        "name": "Serra Bajda"
+      },
+      {
+        "lang": "nl",
+        "name": "Nonnetje"
+      },
+      {
+        "lang": "nn",
+        "name": "Lappfiskand"
+      },
+      {
+        "lang": "no",
+        "name": "Lappfiskand"
+      },
+      {
+        "lang": "pcd",
+        "name": "Mutérlète"
+      },
+      {
+        "lang": "pl",
+        "name": "Bielaczek"
+      },
+      {
+        "lang": "pnb",
+        "name": "سمیو"
+      },
+      {
+        "lang": "pt",
+        "name": "Merganso-pequeno"
+      },
+      {
+        "lang": "rm",
+        "name": "Marel pitschen"
+      },
+      {
+        "lang": "ru",
+        "name": "Луток"
+      },
+      {
+        "lang": "rue",
+        "name": "Малый крохаль"
+      },
+      {
+        "lang": "sah",
+        "name": "Билгинэх"
+      },
+      {
+        "lang": "se",
+        "name": "Gárggogoalsi"
+      },
+      {
+        "lang": "sk",
+        "name": "Potápač malý"
+      },
+      {
+        "lang": "sl",
+        "name": "Mala žagarica"
+      },
+      {
+        "lang": "sq",
+        "name": "Zhytësi i vogël laraman"
+      },
+      {
+        "lang": "sr",
+        "name": "Mali ronac / Мали ронак"
+      },
+      {
+        "lang": "sv",
+        "name": "Salskrake"
+      },
+      {
+        "lang": "tr",
+        "name": "Sütlabi"
+      },
+      {
+        "lang": "tyv",
+        "name": "Бичии ак даргат"
+      },
+      {
+        "lang": "uk",
+        "name": "Крех малий"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt mào"
+      },
+      {
+        "lang": "zh",
+        "name": "白秋沙鸭"
+      }
+    ]
+  }
+]

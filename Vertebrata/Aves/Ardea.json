@@ -1,0 +1,1600 @@
+[
+  {
+    "scientific_name": "Ardea sumatrana",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka šedohnědá"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea purpurea",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooireier"
+      },
+      {
+        "lang": "an",
+        "name": "Garra royenca"
+      },
+      {
+        "lang": "ar",
+        "name": "البلشون الأرجواني"
+      },
+      {
+        "lang": "ast",
+        "name": "Garcia Roxa"
+      },
+      {
+        "lang": "az",
+        "name": "Kürən vağ"
+      },
+      {
+        "lang": "be",
+        "name": "Чырвоная чапля"
+      },
+      {
+        "lang": "bg",
+        "name": "Червена чапла"
+      },
+      {
+        "lang": "br",
+        "name": "Kerc'heiz rous"
+      },
+      {
+        "lang": "ca",
+        "name": "Agró roig"
+      },
+      {
+        "lang": "ceb",
+        "name": "dugwak"
+      },
+      {
+        "lang": "cs",
+        "name": "volavka červená"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr porffor"
+      },
+      {
+        "lang": "da",
+        "name": "Purpurhejre"
+      },
+      {
+        "lang": "de",
+        "name": "Purpurreiher"
+      },
+      {
+        "lang": "el",
+        "name": "Πορφυρός Ψαροφάς"
+      },
+      {
+        "lang": "en",
+        "name": "Purple Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Purpura ardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garza imperial"
+      },
+      {
+        "lang": "et",
+        "name": "Purpurhaigur"
+      },
+      {
+        "lang": "eu",
+        "name": "Agró roig"
+      },
+      {
+        "lang": "fi",
+        "name": "ruskohaikara"
+      },
+      {
+        "lang": "fo",
+        "name": "Korkahegri"
+      },
+      {
+        "lang": "fr",
+        "name": "Héron pourpré"
+      },
+      {
+        "lang": "fy",
+        "name": "Reade Reager"
+      },
+      {
+        "lang": "ga",
+        "name": "Corr Chorcra"
+      },
+      {
+        "lang": "gl",
+        "name": "Agró roig"
+      },
+      {
+        "lang": "he",
+        "name": "אנפה ארגמנית"
+      },
+      {
+        "lang": "hi",
+        "name": "Peria vellai kokku"
+      },
+      {
+        "lang": "hr",
+        "name": "Caplja Danguba"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörös gém"
+      },
+      {
+        "lang": "hy",
+        "name": "Տառեղ շիկակարմիր"
+      },
+      {
+        "lang": "id",
+        "name": "Cangak Merah"
+      },
+      {
+        "lang": "is",
+        "name": "Rauðhegri"
+      },
+      {
+        "lang": "it",
+        "name": "Airone rosso"
+      },
+      {
+        "lang": "ja",
+        "name": "ムラサキサギ",
+        "synonyms": [
+          "murasakisagi"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "წითური ყანჩა"
+      },
+      {
+        "lang": "kk",
+        "name": "Қошқыл құтан"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은왜가리"
+      },
+      {
+        "lang": "kwn",
+        "name": "Samunkoma Gomugeha"
+      },
+      {
+        "lang": "lt",
+        "name": "Purpurinis garnys"
+      },
+      {
+        "lang": "mg",
+        "name": "Kehambe"
+      },
+      {
+        "lang": "mk",
+        "name": "Драјка",
+        "synonyms": [
+          "Црвена чапја"
+        ]
+      },
+      {
+        "lang": "ml",
+        "name": "ചായമുണ്ടി"
+      },
+      {
+        "lang": "mqj",
+        "name": "korong ula"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Bangau Paya"
+      },
+      {
+        "lang": "mt",
+        "name": "Russett Aħmar"
+      },
+      {
+        "lang": "nl",
+        "name": "Purperreiger"
+      },
+      {
+        "lang": "nn",
+        "name": "Purpurhegre"
+      },
+      {
+        "lang": "no",
+        "name": "Purpurhegre"
+      },
+      {
+        "lang": "pl",
+        "name": "czapla purpurowa"
+      },
+      {
+        "lang": "pt-br",
+        "name": "garça-roxa"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-vermelha"
+      },
+      {
+        "lang": "rm",
+        "name": "irun cotschen"
+      },
+      {
+        "lang": "ru",
+        "name": "Рыжая цапля"
+      },
+      {
+        "lang": "se",
+        "name": "Purporháigir"
+      },
+      {
+        "lang": "sh",
+        "name": "Crvena čaplja / црвена чапља"
+      },
+      {
+        "lang": "sk",
+        "name": "volavka purpurová"
+      },
+      {
+        "lang": "sl",
+        "name": "rjava caplja"
+      },
+      {
+        "lang": "sq",
+        "name": "Çapka rrudhi"
+      },
+      {
+        "lang": "sr",
+        "name": "crvena čaplja",
+        "synonyms": [
+          "Црвена цаплја"
+        ]
+      },
+      {
+        "lang": "st",
+        "name": "Kokolofitoe"
+      },
+      {
+        "lang": "sv",
+        "name": "Purpurhäger"
+      },
+      {
+        "lang": "sw",
+        "name": "Pondagundi"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระสาแดง"
+      },
+      {
+        "lang": "tn",
+        "name": "Kôkôlôhutwê"
+      },
+      {
+        "lang": "tr",
+        "name": "Erguvani balıkçıl"
+      },
+      {
+        "lang": "ts",
+        "name": "Rikolwa"
+      },
+      {
+        "lang": "uk",
+        "name": "Руда чапля"
+      },
+      {
+        "lang": "vi",
+        "name": "Diệc lửa"
+      },
+      {
+        "lang": "xh",
+        "name": "Ucofuza"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "草鷺"
+      },
+      {
+        "lang": "zh",
+        "name": "草鹭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea picata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka černobílá"
+      },
+      {
+        "lang": "de",
+        "name": "Elsterreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Pied Heron"
+      },
+      {
+        "lang": "hu",
+        "name": "Tarka kócsag"
+      },
+      {
+        "lang": "ja",
+        "name": "ムナジロサギ"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla srokata"
+      },
+      {
+        "lang": "zh",
+        "name": "白頸黑鷺"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea pacifica",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka bělokrká"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea melanocephala",
+    "common_names": [
+      {
+        "lang": "fr",
+        "name": "Héron mélanocéphale"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea intermedia",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Geelbekwitreier"
+      },
+      {
+        "lang": "ar",
+        "name": "بلشون متوسط"
+      },
+      {
+        "lang": "as",
+        "name": "পানী বগলী"
+      },
+      {
+        "lang": "bg",
+        "name": "Средна бяла чапла"
+      },
+      {
+        "lang": "bh",
+        "name": "मझिला बकुला"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet intermedi"
+      },
+      {
+        "lang": "de",
+        "name": "Mittelreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Intermediate Egret"
+      },
+      {
+        "lang": "eo",
+        "name": "Intermeza egreto"
+      },
+      {
+        "lang": "es",
+        "name": "Garza intermedia"
+      },
+      {
+        "lang": "eu",
+        "name": "Koartzatxo ertain"
+      },
+      {
+        "lang": "fa",
+        "name": "قار میان‌جثه"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkujalohaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Héron intermédiaire"
+      },
+      {
+        "lang": "id",
+        "name": "Kuntul perak"
+      },
+      {
+        "lang": "it",
+        "name": "Garzetta intermedia"
+      },
+      {
+        "lang": "ja",
+        "name": "チュウサギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Vidutinis baltasis garnys"
+      },
+      {
+        "lang": "ml",
+        "name": "ചെറുമുണ്ടി"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Bangau Kerbau"
+      },
+      {
+        "lang": "nl",
+        "name": "Middelste zilverreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Duskhegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla czarnonoga"
+      },
+      {
+        "lang": "pnb",
+        "name": "درمیانا ایگرٹ"
+      },
+      {
+        "lang": "ru",
+        "name": "Средняя белая цапля"
+      },
+      {
+        "lang": "sv",
+        "name": "Mellanhäger"
+      },
+      {
+        "lang": "ta",
+        "name": "வெண் கொக்கு"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò ngàng nhỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "中白鹭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea insignis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka císařská"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea humbloti",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka madagaskarská"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea herodias",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Голяма синя чапла"
+      },
+      {
+        "lang": "br",
+        "name": "Kerc'heiz vras Amerika"
+      },
+      {
+        "lang": "ca",
+        "name": "Bernat americà"
+      },
+      {
+        "lang": "chy",
+        "name": "Ne'potátse"
+      },
+      {
+        "lang": "cs",
+        "name": "volavka velká"
+      },
+      {
+        "lang": "da",
+        "name": "Stor Blåhejre"
+      },
+      {
+        "lang": "de",
+        "name": "Kanadareiher"
+      },
+      {
+        "lang": "en",
+        "name": "Great Blue Heron"
+      },
+      {
+        "lang": "es",
+        "name": "Garza azulada"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanharmaahaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand Héron"
+      },
+      {
+        "lang": "hu",
+        "name": "Királygém"
+      },
+      {
+        "lang": "is",
+        "name": "Bláhegri"
+      },
+      {
+        "lang": "it",
+        "name": "Airone azzurro maggiore"
+      },
+      {
+        "lang": "ja",
+        "name": "オオアオサギ",
+        "synonyms": [
+          "ooaosagi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis pilkasis garnys"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse blauwe reiger"
+      },
+      {
+        "lang": "no",
+        "name": "Herodiashegre"
+      },
+      {
+        "lang": "nv",
+        "name": "Táłtłʼááh álééh"
+      },
+      {
+        "lang": "pl",
+        "name": "czapla modra"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Garça-azul-grande"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-azul-grande"
+      },
+      {
+        "lang": "ru",
+        "name": "Большая голубая цапля",
+        "synonyms": [
+          "Большая цапля"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "volavka statná"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk gråhäger"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük mavi balıkçıl"
+      },
+      {
+        "lang": "uk",
+        "name": "Велика блакитна чапля"
+      },
+      {
+        "lang": "vi",
+        "name": "Diệc xanh lớn"
+      },
+      {
+        "lang": "zh",
+        "name": "大蓝鹭",
+        "synonyms": [
+          "大藍鷺"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea goliath",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka obrovská"
+      },
+      {
+        "lang": "fi",
+        "name": "Goljathaikara"
+      },
+      {
+        "lang": "hr",
+        "name": "Velika čaplja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea cocoi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka jihoamerická"
+      },
+      {
+        "lang": "en",
+        "name": "Cocoi Heron"
+      },
+      {
+        "lang": "es",
+        "name": "Garza Mora"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-moura",
+        "synonyms": [
+          "Maguari"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea cinerea",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bloureier"
+      },
+      {
+        "lang": "als",
+        "name": "Fischraigel"
+      },
+      {
+        "lang": "an",
+        "name": "Garrapescaire"
+      },
+      {
+        "lang": "ar",
+        "name": "بلشون رمادي"
+      },
+      {
+        "lang": "arn",
+        "name": "Xürla"
+      },
+      {
+        "lang": "ast",
+        "name": "Garcia Rial"
+      },
+      {
+        "lang": "az",
+        "name": "Boz vağ"
+      },
+      {
+        "lang": "ba",
+        "name": "Селән"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Guovars"
+      },
+      {
+        "lang": "be",
+        "name": "Чапля шэрая"
+      },
+      {
+        "lang": "bg",
+        "name": "Сива чапла"
+      },
+      {
+        "lang": "bn",
+        "name": "সারস"
+      },
+      {
+        "lang": "bo",
+        "name": "Kam ka"
+      },
+      {
+        "lang": "br",
+        "name": "Kerc'heiz louet"
+      },
+      {
+        "lang": "bs",
+        "name": "Caplja"
+      },
+      {
+        "lang": "ca",
+        "name": "Bernat pescaire"
+      },
+      {
+        "lang": "cs",
+        "name": "volavka popelavá"
+      },
+      {
+        "lang": "csb",
+        "name": "Sëwô czapla"
+      },
+      {
+        "lang": "cv",
+        "name": "Сарă чарлан"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr glas"
+      },
+      {
+        "lang": "da",
+        "name": "Fiskehejre"
+      },
+      {
+        "lang": "de",
+        "name": "Graureiher"
+      },
+      {
+        "lang": "dsb",
+        "name": "Źiwa šytawa"
+      },
+      {
+        "lang": "el",
+        "name": "Σταχτοτσικνιάς"
+      },
+      {
+        "lang": "eml",
+        "name": "Sghéirz"
+      },
+      {
+        "lang": "en",
+        "name": "Grey Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza ardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garza Real"
+      },
+      {
+        "lang": "et",
+        "name": "hallhaigur"
+      },
+      {
+        "lang": "eu",
+        "name": "Lertxun hauskara"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل خاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "harmaahaikara"
+      },
+      {
+        "lang": "fo",
+        "name": "Hegri"
+      },
+      {
+        "lang": "fr",
+        "name": "Héron cendré"
+      },
+      {
+        "lang": "frr",
+        "name": "Grä heeger"
+      },
+      {
+        "lang": "fur",
+        "name": "Airon"
+      },
+      {
+        "lang": "fy",
+        "name": "ielreager"
+      },
+      {
+        "lang": "ga",
+        "name": "Corr éisc"
+      },
+      {
+        "lang": "gd",
+        "name": "Corra Riathach"
+      },
+      {
+        "lang": "gl",
+        "name": "Garza real"
+      },
+      {
+        "lang": "gn",
+        "name": "Hoko"
+      },
+      {
+        "lang": "gu",
+        "name": "બગલો"
+      },
+      {
+        "lang": "gv",
+        "name": "Coar ny hastan"
+      },
+      {
+        "lang": "he",
+        "name": "אנפה אפורה"
+      },
+      {
+        "lang": "hi",
+        "name": "बगुला"
+      },
+      {
+        "lang": "hr",
+        "name": "Siva Caplja"
+      },
+      {
+        "lang": "hsb",
+        "name": "Šěra čapla"
+      },
+      {
+        "lang": "hu",
+        "name": "szürke gém"
+      },
+      {
+        "lang": "hy",
+        "name": "գորշ ձկնկուլ"
+      },
+      {
+        "lang": "id",
+        "name": "Cangak Abu"
+      },
+      {
+        "lang": "is",
+        "name": "gráhegri"
+      },
+      {
+        "lang": "it",
+        "name": "Airone cenerino"
+      },
+      {
+        "lang": "ja",
+        "name": "アオサギ",
+        "synonyms": [
+          "aosagi"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "რუხი ყანჩა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Псыхэуэ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Пора сÿлен"
+      },
+      {
+        "lang": "kjn",
+        "name": "Пора сÿлен"
+      },
+      {
+        "lang": "kk",
+        "name": "Көкқұтан"
+      },
+      {
+        "lang": "ko",
+        "name": "왜가리"
+      },
+      {
+        "lang": "ks",
+        "name": "Breg"
+      },
+      {
+        "lang": "ku",
+        "name": "Şaqavî"
+      },
+      {
+        "lang": "kw",
+        "name": "Kerghydh"
+      },
+      {
+        "lang": "kwn",
+        "name": "Samunkoma"
+      },
+      {
+        "lang": "lb",
+        "name": "Fëschräer"
+      },
+      {
+        "lang": "li",
+        "name": "Reiger"
+      },
+      {
+        "lang": "lij",
+        "name": "Perdigiorni"
+      },
+      {
+        "lang": "lld",
+        "name": "Airon"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkasis garnys"
+      },
+      {
+        "lang": "lv",
+        "name": "Zivju gārnis"
+      },
+      {
+        "lang": "mdf",
+        "name": "Вачкурган"
+      },
+      {
+        "lang": "mg",
+        "name": "Langoromavo"
+      },
+      {
+        "lang": "mk",
+        "name": "Сива чапја"
+      },
+      {
+        "lang": "ml",
+        "name": "ചാരമുണ്ടി"
+      },
+      {
+        "lang": "mn",
+        "name": "Хухэ дэглы"
+      },
+      {
+        "lang": "mr",
+        "name": "बगळा"
+      },
+      {
+        "lang": "mrj",
+        "name": "Мыгыльонг"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Seriap"
+      },
+      {
+        "lang": "mt",
+        "name": "Russett griz"
+      },
+      {
+        "lang": "myv",
+        "name": "Сенксь"
+      },
+      {
+        "lang": "nap",
+        "name": "Airóne",
+        "synonyms": [
+          "Aurana"
+        ]
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Oalraaiger"
+      },
+      {
+        "lang": "nds",
+        "name": "Reiger"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwe reiger"
+      },
+      {
+        "lang": "nn",
+        "name": "Gråhegre"
+      },
+      {
+        "lang": "no",
+        "name": "gråhegre"
+      },
+      {
+        "lang": "nrm",
+        "name": "Héthon"
+      },
+      {
+        "lang": "oc",
+        "name": "Bernat pescaire"
+      },
+      {
+        "lang": "pa",
+        "name": "ਬਗਲਾ"
+      },
+      {
+        "lang": "pcd",
+        "name": "Éron"
+      },
+      {
+        "lang": "pl",
+        "name": "czapla siwa"
+      },
+      {
+        "lang": "pms",
+        "name": "Airon"
+      },
+      {
+        "lang": "pnb",
+        "name": "گرے ہیرون"
+      },
+      {
+        "lang": "pt-br",
+        "name": "garça-real-européia"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-real"
+      },
+      {
+        "lang": "qu",
+        "name": "Wajjchilla"
+      },
+      {
+        "lang": "rm",
+        "name": "irun grisch"
+      },
+      {
+        "lang": "rmy",
+        "name": "Kokosturka"
+      },
+      {
+        "lang": "ro",
+        "name": "Stîrc cenuşiu"
+      },
+      {
+        "lang": "ru",
+        "name": "Серая цапля"
+      },
+      {
+        "lang": "rue",
+        "name": "Сира чапля"
+      },
+      {
+        "lang": "sa",
+        "name": "वकः"
+      },
+      {
+        "lang": "sah",
+        "name": "Кутан"
+      },
+      {
+        "lang": "sc",
+        "name": "Garza"
+      },
+      {
+        "lang": "sco",
+        "name": "Hern"
+      },
+      {
+        "lang": "se",
+        "name": "Ránesháigir"
+      },
+      {
+        "lang": "sh",
+        "name": "Siva čaplja"
+      },
+      {
+        "lang": "sk",
+        "name": "volavka popolavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Siva čaplja"
+      },
+      {
+        "lang": "sq",
+        "name": "çapka e përhime"
+      },
+      {
+        "lang": "sr",
+        "name": "Siva čaplja / Сива чапља"
+      },
+      {
+        "lang": "st",
+        "name": "Kokolofitoe"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråhäger"
+      },
+      {
+        "lang": "sw",
+        "name": "Koikoi Kijivu"
+      },
+      {
+        "lang": "ta",
+        "name": "சாம்பல் நாரை"
+      },
+      {
+        "lang": "te",
+        "name": "నారాయణ పక్షి"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระสานวล"
+      },
+      {
+        "lang": "tk",
+        "name": "külrengi balıkçıl"
+      },
+      {
+        "lang": "tn",
+        "name": "Kôkôlôhutwê"
+      },
+      {
+        "lang": "tr",
+        "name": "Gri balıkçıl"
+      },
+      {
+        "lang": "tt",
+        "name": "Boz balıq çil"
+      },
+      {
+        "lang": "tyv",
+        "name": "Бора коонгук"
+      },
+      {
+        "lang": "uk",
+        "name": "Чапля сіра"
+      },
+      {
+        "lang": "vec",
+        "name": "Sgarza"
+      },
+      {
+        "lang": "vi",
+        "name": "Diệc xám"
+      },
+      {
+        "lang": "vls",
+        "name": "Blauwn reiger"
+      },
+      {
+        "lang": "wo",
+        "name": "Noobine"
+      },
+      {
+        "lang": "xal",
+        "name": "Kөк деглә"
+      },
+      {
+        "lang": "xh",
+        "name": "Isikhwalimanzi"
+      },
+      {
+        "lang": "zea",
+        "name": "Reiher",
+        "synonyms": [
+          "Reigaort"
+        ]
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Hái-khiā-á"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "蒼鷺"
+      },
+      {
+        "lang": "zh",
+        "name": "苍鹭"
+      },
+      {
+        "lang": "zu",
+        "name": "uNokilonki"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea alba",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Grootwitreier"
+      },
+      {
+        "lang": "ar",
+        "name": "البلشون الأبيض الكبير"
+      },
+      {
+        "lang": "az",
+        "name": "İri ağ vağ"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Чапля вялікая белая"
+      },
+      {
+        "lang": "be",
+        "name": "Чапля вялікая белая"
+      },
+      {
+        "lang": "bg",
+        "name": "Голяма бяла чапла"
+      },
+      {
+        "lang": "br",
+        "name": "Herlegon bras"
+      },
+      {
+        "lang": "ca",
+        "name": "Agró blanc"
+      },
+      {
+        "lang": "cs",
+        "name": "volavka bílá"
+      },
+      {
+        "lang": "cy",
+        "name": "Creyr mawr gwyn",
+        "synonyms": [
+          "Crëyr mawr gwyn",
+          "Crёyr Mawr Gwyn"
+        ]
+      },
+      {
+        "lang": "da",
+        "name": "Sølvhejre"
+      },
+      {
+        "lang": "de",
+        "name": "Silberreiher"
+      },
+      {
+        "lang": "dsb",
+        "name": "Slobrowita šytawa"
+      },
+      {
+        "lang": "dv",
+        "name": "Lagnaa"
+      },
+      {
+        "lang": "el",
+        "name": "Αργυροτσικνιάς"
+      },
+      {
+        "lang": "en",
+        "name": "Great egret",
+        "synonyms": [
+          "great white heron",
+          "western great egret",
+          "eastern great egret",
+          "common egret",
+          "large egret"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Granda egretardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garza blanca",
+        "synonyms": [
+          "garceta grande"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Hõbehaigur"
+      },
+      {
+        "lang": "eu",
+        "name": "Agró blanc"
+      },
+      {
+        "lang": "fi",
+        "name": "jalohaikara"
+      },
+      {
+        "lang": "fo",
+        "name": "Silvurhegri"
+      },
+      {
+        "lang": "fr",
+        "name": "Grande aigrette"
+      },
+      {
+        "lang": "fy",
+        "name": "Grutte Wite Reager"
+      },
+      {
+        "lang": "ga",
+        "name": "Éigrit Mhór"
+      },
+      {
+        "lang": "gcf",
+        "name": "Grand crabier blanc"
+      },
+      {
+        "lang": "gd",
+        "name": "Corra-bhàn"
+      },
+      {
+        "lang": "gl",
+        "name": "Garza branca"
+      },
+      {
+        "lang": "gn",
+        "name": "Guyratî"
+      },
+      {
+        "lang": "he",
+        "name": "אנפה לבנה",
+        "synonyms": [
+          "אנפית גמדית",
+          "לבנית גדולה"
+        ]
+      },
+      {
+        "lang": "hi",
+        "name": "Chennarai"
+      },
+      {
+        "lang": "hr",
+        "name": "Velika bijela čaplja"
+      },
+      {
+        "lang": "hsb",
+        "name": "Běła čapla"
+      },
+      {
+        "lang": "ht",
+        "name": "Gwo krabye blanch"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy kócsag"
+      },
+      {
+        "lang": "hy",
+        "name": "Տառեղ մեծ սպիտակ"
+      },
+      {
+        "lang": "id",
+        "name": "Cangak besar"
+      },
+      {
+        "lang": "is",
+        "name": "Mjallhegri"
+      },
+      {
+        "lang": "it",
+        "name": "Airone bianco"
+      },
+      {
+        "lang": "ja",
+        "name": "ダイサギ",
+        "synonyms": [
+          "daisagi"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "დიდი ოყარი",
+        "synonyms": [
+          "თეთრი ყანჩა"
+        ]
+      },
+      {
+        "lang": "kbd",
+        "name": "Псыхэуэхужь"
+      },
+      {
+        "lang": "kjn",
+        "name": "Ах сÿлен"
+      },
+      {
+        "lang": "kk",
+        "name": "Үлкен аққұтан"
+      },
+      {
+        "lang": "ko",
+        "name": "대백로"
+      },
+      {
+        "lang": "ku",
+        "name": "Şaqaviyê spî yê mezin"
+      },
+      {
+        "lang": "kwn",
+        "name": "Samunkoma Gomuzera"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis baltasis garnys"
+      },
+      {
+        "lang": "lv",
+        "name": "Lielais baltais gārnis"
+      },
+      {
+        "lang": "mg",
+        "name": "domoina"
+      },
+      {
+        "lang": "mi",
+        "name": "Kōtuku"
+      },
+      {
+        "lang": "mk",
+        "name": "Голема бела чапја"
+      },
+      {
+        "lang": "ml",
+        "name": "പെരുമുണ്ടി ?"
+      },
+      {
+        "lang": "mn",
+        "name": "Цасч дэглий"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Bangau Besar"
+      },
+      {
+        "lang": "mt",
+        "name": "Russett Abjad"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote zilverreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Egretthegre"
+      },
+      {
+        "lang": "nv",
+        "name": "Toohjįʼ ndiigaiitsoh"
+      },
+      {
+        "lang": "pam",
+        "name": "Tagak"
+      },
+      {
+        "lang": "pl",
+        "name": "czapla biała"
+      },
+      {
+        "lang": "pms",
+        "name": "Egretta alba"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Garça-branca-grande"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-branca-grande"
+      },
+      {
+        "lang": "qu",
+        "name": "Hatun waqar"
+      },
+      {
+        "lang": "rm",
+        "name": "Irun alv"
+      },
+      {
+        "lang": "ru",
+        "name": "Большая белая цапля"
+      },
+      {
+        "lang": "rue",
+        "name": "Біла чапля"
+      },
+      {
+        "lang": "sk",
+        "name": "beluša veľká"
+      },
+      {
+        "lang": "sl",
+        "name": "Velika bela čaplja"
+      },
+      {
+        "lang": "sn",
+        "name": "Svorechena"
+      },
+      {
+        "lang": "sq",
+        "name": "Çapka e madhe e bardhë"
+      },
+      {
+        "lang": "sr",
+        "name": "Велика бела чапља"
+      },
+      {
+        "lang": "st",
+        "name": "Leholosiane"
+      },
+      {
+        "lang": "sv",
+        "name": "Ägretthäger"
+      },
+      {
+        "lang": "sw",
+        "name": "Msuka"
+      },
+      {
+        "lang": "ta",
+        "name": "பெரிய கொக்கு"
+      },
+      {
+        "lang": "th",
+        "name": "นกยางโทนใหญ่"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük ak balıkçıl"
+      },
+      {
+        "lang": "tt",
+        "name": "Aq balıq çil"
+      },
+      {
+        "lang": "tyv",
+        "name": "Ак коонгук",
+        "synonyms": [
+          "Тулен"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Велика біла чапля"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò ngàng lớn"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "大白鷺"
+      },
+      {
+        "lang": "zh",
+        "name": "大白鹭"
+      },
+      {
+        "lang": "zu",
+        "name": "iLanda"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea aequinoctialis",
+    "common_names": []
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "scientific_name": "Tachyeres pteneres",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Magellan-Dampfschiffente"
+      },
+      {
+        "lang": "en",
+        "name": "Magellanic Flightless Steamer Duck"
+      },
+      {
+        "lang": "fi",
+        "name": "Isoviuhtoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Brassemer cendré"
+      },
+      {
+        "lang": "hu",
+        "name": "Óriás gőzhajóréce"
+      },
+      {
+        "lang": "ja",
+        "name": "オオフナガモ"
+      },
+      {
+        "lang": "sv",
+        "name": "Magellanångbåtsand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tachyeres patachonicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Flying Steamer Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Pato vapor volador",
+        "synonyms": [
+          "Quetro Volador"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Pilkkaviuhtoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Brassemer de Patagonie"
+      },
+      {
+        "lang": "sv",
+        "name": "Långvingad ångbåtsand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tachyeres leucocephalus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-headed Flightless Steamer Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Quetro Cabeza Blanca"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkopääviuhtoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Brassemer à tête blanche"
+      },
+      {
+        "lang": "sv",
+        "name": "Vithuvad ångbåtsand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tachyeres brachypterus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Falkland-Dampfschiffente"
+      },
+      {
+        "lang": "en",
+        "name": "Falkland Flightless Steamer Duck"
+      },
+      {
+        "lang": "fi",
+        "name": "Tyrskyviuhtoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Brassemer des Malouines"
+      },
+      {
+        "lang": "hu",
+        "name": "Falkland-szigeteki gőzhajóréce"
+      },
+      {
+        "lang": "ja",
+        "name": "フナガモ"
+      },
+      {
+        "lang": "sv",
+        "name": "Falklandsångbåtsand"
+      }
+    ]
+  }
+]

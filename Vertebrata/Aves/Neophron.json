@@ -1,0 +1,275 @@
+[
+  {
+    "scientific_name": "Neophron percnopterus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Egiptiese aasvoël"
+      },
+      {
+        "lang": "als",
+        "name": "Schmutzgeier"
+      },
+      {
+        "lang": "ar",
+        "name": "رخمة مصرية"
+      },
+      {
+        "lang": "ast",
+        "name": "Zapiquera"
+      },
+      {
+        "lang": "az",
+        "name": "Leşyeyən qartal"
+      },
+      {
+        "lang": "bg",
+        "name": "Египетски лешояд"
+      },
+      {
+        "lang": "br",
+        "name": "Gup gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Aufrany"
+      },
+      {
+        "lang": "ce",
+        "name": "Moźa besnaş yolu árzu"
+      },
+      {
+        "lang": "cs",
+        "name": "Sup mrchožravý"
+      },
+      {
+        "lang": "cy",
+        "name": "Fwltur yr Aifft"
+      },
+      {
+        "lang": "da",
+        "name": "Ådselgrib"
+      },
+      {
+        "lang": "de",
+        "name": "Schmutzgeier"
+      },
+      {
+        "lang": "el",
+        "name": "Ασπρόγυπας"
+      },
+      {
+        "lang": "en",
+        "name": "Egyptian Vulture"
+      },
+      {
+        "lang": "eo",
+        "name": "Kadavrogrifo"
+      },
+      {
+        "lang": "es",
+        "name": "Alimoche"
+      },
+      {
+        "lang": "et",
+        "name": "raipekotkas"
+      },
+      {
+        "lang": "eu",
+        "name": "Sai zuri"
+      },
+      {
+        "lang": "fi",
+        "name": "pikkukorppikotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Percnoptère d'Égypte"
+      },
+      {
+        "lang": "ga",
+        "name": "Bultúr Éigipteach"
+      },
+      {
+        "lang": "gl",
+        "name": "Voitre branco"
+      },
+      {
+        "lang": "he",
+        "name": "רחם"
+      },
+      {
+        "lang": "hr",
+        "name": "Bijela crkavica"
+      },
+      {
+        "lang": "hu",
+        "name": "Dögkeselyű"
+      },
+      {
+        "lang": "hy",
+        "name": "Անգղեր"
+      },
+      {
+        "lang": "id",
+        "name": "Hering Mesir"
+      },
+      {
+        "lang": "is",
+        "name": "Skarngammur"
+      },
+      {
+        "lang": "it",
+        "name": "Capovaccaio"
+      },
+      {
+        "lang": "ja",
+        "name": "エジプトハゲワシ"
+      },
+      {
+        "lang": "ka",
+        "name": "ფასკუნჯი"
+      },
+      {
+        "lang": "kk",
+        "name": "Жұртшы"
+      },
+      {
+        "lang": "ku",
+        "name": "Sîsark"
+      },
+      {
+        "lang": "lez",
+        "name": "КӀвагъ"
+      },
+      {
+        "lang": "lt",
+        "name": "Maitvanagis"
+      },
+      {
+        "lang": "mk",
+        "name": "Египедски (Бел) мршојадец"
+      },
+      {
+        "lang": "ml",
+        "name": "തോട്ടിക്കഴുകൻ"
+      },
+      {
+        "lang": "mn",
+        "name": "Дэлт ёлон"
+      },
+      {
+        "lang": "mt",
+        "name": "Avultun Abjad"
+      },
+      {
+        "lang": "nl",
+        "name": "Aasgier"
+      },
+      {
+        "lang": "nn",
+        "name": "Åtselgribb"
+      },
+      {
+        "lang": "no",
+        "name": "Åtselgribb"
+      },
+      {
+        "lang": "nv",
+        "name": "Dííłdzid jeeshóóʼ"
+      },
+      {
+        "lang": "pl",
+        "name": "Ścierwnik"
+      },
+      {
+        "lang": "pnb",
+        "name": "مصری گدھ"
+      },
+      {
+        "lang": "pt",
+        "name": "Abutre-do-egito"
+      },
+      {
+        "lang": "rm",
+        "name": "Tschess egipzian"
+      },
+      {
+        "lang": "ro",
+        "name": "Vultur egiptean"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенный стервятник"
+      },
+      {
+        "lang": "sh",
+        "name": "Crkavica"
+      },
+      {
+        "lang": "sk",
+        "name": "Zdochlinár"
+      },
+      {
+        "lang": "sl",
+        "name": "egiptovski jastreb"
+      },
+      {
+        "lang": "sq",
+        "name": "Coftinngrënsi egjiptian"
+      },
+      {
+        "lang": "sr",
+        "name": "Bela kanja / Бела канја"
+      },
+      {
+        "lang": "st",
+        "name": "Lehonyane"
+      },
+      {
+        "lang": "sv",
+        "name": "Smutsgam"
+      },
+      {
+        "lang": "sw",
+        "name": "Tumbusi Uso-njano"
+      },
+      {
+        "lang": "ta",
+        "name": "Manjal Thirudi Kazhugu"
+      },
+      {
+        "lang": "te",
+        "name": "తెల్ల రాబందు"
+      },
+      {
+        "lang": "tr",
+        "name": "Mısır akbabası"
+      },
+      {
+        "lang": "ts",
+        "name": "Mpenyani"
+      },
+      {
+        "lang": "uk",
+        "name": "Стерв'ятник"
+      },
+      {
+        "lang": "vi",
+        "name": "Kền kền Ai Cập"
+      },
+      {
+        "lang": "xh",
+        "name": "Inkqo"
+      },
+      {
+        "lang": "zh",
+        "name": "白兀鷲"
+      },
+      {
+        "lang": "zu",
+        "name": "uPhalane"
+      }
+    ]
+  }
+]

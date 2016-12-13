@@ -1,0 +1,383 @@
+[
+  {
+    "scientific_name": "Spheniscus mendiculus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tučňák galapážský"
+      },
+      {
+        "lang": "en",
+        "name": "Galápagos Penguin"
+      },
+      {
+        "lang": "es",
+        "name": "Pingüino de las Galápagos"
+      },
+      {
+        "lang": "fr",
+        "name": "Manchot des Galapagos"
+      },
+      {
+        "lang": "hu",
+        "name": "Galápagosi pingvin"
+      },
+      {
+        "lang": "it",
+        "name": "Pinguino delle Galapagos"
+      },
+      {
+        "lang": "lt",
+        "name": "Galapaginis pingvinas"
+      },
+      {
+        "lang": "nl",
+        "name": "Galápagospinguïn"
+      },
+      {
+        "lang": "pl",
+        "name": "Pingwin równikowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Pinguim-de-Galápagos"
+      },
+      {
+        "lang": "ru",
+        "name": "Галапагоский пингвин"
+      },
+      {
+        "lang": "sv",
+        "name": "Galapagospingvin"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spheniscus magellanicus",
+    "common_names": [
+      {
+        "lang": "bar",
+        "name": "Magellan-Pinguin"
+      },
+      {
+        "lang": "cs",
+        "name": "Tučňák magellanský"
+      },
+      {
+        "lang": "de",
+        "name": "Magellan-Pinguin"
+      },
+      {
+        "lang": "en",
+        "name": "Magellanic Penguin"
+      },
+      {
+        "lang": "es",
+        "name": "Pingüino de magallanes"
+      },
+      {
+        "lang": "et",
+        "name": "Patagoonia pingviin"
+      },
+      {
+        "lang": "fr",
+        "name": "Manchot de Magellan"
+      },
+      {
+        "lang": "it",
+        "name": "Pinguino di Magellano"
+      },
+      {
+        "lang": "ja",
+        "name": "マゼランペンギン"
+      },
+      {
+        "lang": "lt",
+        "name": "Magelaninis pingvinas"
+      },
+      {
+        "lang": "pl",
+        "name": "Pingwin magellański"
+      },
+      {
+        "lang": "pt",
+        "name": "Pinguim-de-magalhães",
+        "synonyms": [
+          "pinguim",
+          "naufragado",
+          "pato-marinho"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Magellanpingvin"
+      },
+      {
+        "lang": "tr",
+        "name": "Macellan pengueni"
+      },
+      {
+        "lang": "th",
+        "name": "เพนกวินมาเจลลัน"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spheniscus humboldti",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Mank Humboldt"
+      },
+      {
+        "lang": "cs",
+        "name": "Tučňák Humboldtův"
+      },
+      {
+        "lang": "da",
+        "name": "Humboldtpingvin"
+      },
+      {
+        "lang": "de",
+        "name": "Humboldtpinguin"
+      },
+      {
+        "lang": "es",
+        "name": "Pingüino de Humboldt"
+      },
+      {
+        "lang": "en",
+        "name": "Humboldt Penguin"
+      },
+      {
+        "lang": "fi",
+        "name": "Perunpingviini"
+      },
+      {
+        "lang": "fr",
+        "name": "Manchot de Humboldt"
+      },
+      {
+        "lang": "he",
+        "name": "פינגווין הומבולדט"
+      },
+      {
+        "lang": "hu",
+        "name": "Humboldt-pingvin"
+      },
+      {
+        "lang": "it",
+        "name": "Pinguino di Humboldt"
+      },
+      {
+        "lang": "ja",
+        "name": "フンボルトペンギン"
+      },
+      {
+        "lang": "lt",
+        "name": "Humbolto pingvinas"
+      },
+      {
+        "lang": "nl",
+        "name": "Humboldt-pinguïn"
+      },
+      {
+        "lang": "no",
+        "name": "Humboldtpingvin"
+      },
+      {
+        "lang": "pl",
+        "name": "Pingwin Humboldta"
+      },
+      {
+        "lang": "pt",
+        "name": "Pinguim-de-Humboldt"
+      },
+      {
+        "lang": "qu",
+        "name": "Patranka"
+      },
+      {
+        "lang": "ru",
+        "name": "Пингвин Гумбольдта"
+      },
+      {
+        "lang": "sv",
+        "name": "Humboldtpingvin"
+      },
+      {
+        "lang": "th",
+        "name": "เพนกวินฮัมโบลด์"
+      },
+      {
+        "lang": "tr",
+        "name": "Humboldt pengueni"
+      },
+      {
+        "lang": "zh",
+        "name": "漢波德企鵝"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spheniscus demersus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Brilpikkewyn"
+      },
+      {
+        "lang": "ar",
+        "name": "البطريق الأفريقي"
+      },
+      {
+        "lang": "bg",
+        "name": "Африкански пингвин"
+      },
+      {
+        "lang": "br",
+        "name": "Mank Afrika"
+      },
+      {
+        "lang": "ca",
+        "name": "Pingüí del Cap"
+      },
+      {
+        "lang": "cs",
+        "name": "Tučňák brýlový"
+      },
+      {
+        "lang": "da",
+        "name": "Brillepingvin"
+      },
+      {
+        "lang": "de",
+        "name": "Brillenpinguin"
+      },
+      {
+        "lang": "en",
+        "name": "African Penguin"
+      },
+      {
+        "lang": "eo",
+        "name": "Sudafrika pingveno"
+      },
+      {
+        "lang": "es",
+        "name": "Pingüino de El Cabo"
+      },
+      {
+        "lang": "et",
+        "name": "Aafrika pingviin"
+      },
+      {
+        "lang": "fa",
+        "name": "پنگوئن آفریقایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikanpingviini"
+      },
+      {
+        "lang": "fr",
+        "name": "Manchot du Cap"
+      },
+      {
+        "lang": "he",
+        "name": "פינגווין שחור רגל"
+      },
+      {
+        "lang": "hi",
+        "name": "अफ्रीकी पेंगुइन"
+      },
+      {
+        "lang": "hr",
+        "name": "Magareći pingvin"
+      },
+      {
+        "lang": "hu",
+        "name": "Pápaszemes pingvin"
+      },
+      {
+        "lang": "hy",
+        "name": "Աչքավոր պինգվին"
+      },
+      {
+        "lang": "it",
+        "name": "Pinguino del Capo"
+      },
+      {
+        "lang": "ja",
+        "name": "ケープペンギン"
+      },
+      {
+        "lang": "ko",
+        "name": "아프리카펭귄"
+      },
+      {
+        "lang": "lt",
+        "name": "Akiniuotasis pingvinas"
+      },
+      {
+        "lang": "mn",
+        "name": "Африк оцон шувуу"
+      },
+      {
+        "lang": "mrj",
+        "name": "Сӹнзӓлыкан пингвин"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartvoetpinguïn"
+      },
+      {
+        "lang": "no",
+        "name": "Kappingvin"
+      },
+      {
+        "lang": "pl",
+        "name": "Pingwin przylądkowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "افریقی پینگوئن"
+      },
+      {
+        "lang": "pt",
+        "name": "Pinguim-africano"
+      },
+      {
+        "lang": "ru",
+        "name": "Очковый пингвин"
+      },
+      {
+        "lang": "sco",
+        "name": "Jack ass penguins"
+      },
+      {
+        "lang": "sr",
+        "name": "Магарећи пингвин"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydafrikansk pingvin"
+      },
+      {
+        "lang": "th",
+        "name": "เพนกวินแอฟริกัน"
+      },
+      {
+        "lang": "uk",
+        "name": "Пінгвін африканський"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim cánh cụt châu Phi"
+      },
+      {
+        "lang": "zh",
+        "name": "黑脚企鹅"
+      }
+    ]
+  }
+]

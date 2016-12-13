@@ -1,0 +1,913 @@
+[
+  {
+    "scientific_name": "Gavia stellata",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Calón Grande"
+      },
+      {
+        "lang": "az",
+        "name": "Qırmızıdöş qaqar"
+      },
+      {
+        "lang": "be",
+        "name": "Чырвонаваллёвы гагач"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеногуш гмуркач"
+      },
+      {
+        "lang": "br",
+        "name": "Splujer gouzoug ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Calàbria petita"
+      },
+      {
+        "lang": "cs",
+        "name": "Potáplice malá"
+      },
+      {
+        "lang": "cw",
+        "name": "Sedhor conna ruth"
+      },
+      {
+        "lang": "cy",
+        "name": "Trochydd Gyddfgoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rødstrubet lom"
+      },
+      {
+        "lang": "de",
+        "name": "Sterntaucher"
+      },
+      {
+        "lang": "el",
+        "name": "Κηλιδοβούτι"
+      },
+      {
+        "lang": "en",
+        "name": "Red-throated Diver"
+      },
+      {
+        "lang": "en-us",
+        "name": "Red-throated Loon"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝgorĝa kolimbo"
+      },
+      {
+        "lang": "es",
+        "name": "Colimbo chico"
+      },
+      {
+        "lang": "et",
+        "name": "Punakurk-kaur"
+      },
+      {
+        "lang": "eu",
+        "name": "Aliota txiki"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaakkuri"
+      },
+      {
+        "lang": "fo",
+        "name": "Lómur"
+      },
+      {
+        "lang": "fr",
+        "name": "Plongeon catmarin"
+      },
+      {
+        "lang": "frr",
+        "name": "Stäärdüker"
+      },
+      {
+        "lang": "fy",
+        "name": "Lytse Seedûker"
+      },
+      {
+        "lang": "ga",
+        "name": "Lóma Rua"
+      },
+      {
+        "lang": "gd",
+        "name": "Learga Mhòr"
+      },
+      {
+        "lang": "gl",
+        "name": "Mobella pequena"
+      },
+      {
+        "lang": "gv",
+        "name": "Lhargey Mooar"
+      },
+      {
+        "lang": "he",
+        "name": "צוללן אדום גרון"
+      },
+      {
+        "lang": "hr",
+        "name": "Crvenogrli Plijenor"
+      },
+      {
+        "lang": "hu",
+        "name": "Északi búvár"
+      },
+      {
+        "lang": "hy",
+        "name": "Սուզահավ կարմրախածի"
+      },
+      {
+        "lang": "is",
+        "name": "Lómur"
+      },
+      {
+        "lang": "it",
+        "name": "Strolaga minore"
+      },
+      {
+        "lang": "iu",
+        "name": "Koksau"
+      },
+      {
+        "lang": "ja",
+        "name": "アビ"
+      },
+      {
+        "lang": "ka",
+        "name": "წითელყელა ღარიხვა"
+      },
+      {
+        "lang": "kk",
+        "name": "Қаражемсаулы гагара"
+      },
+      {
+        "lang": "kl",
+        "name": "Qarssaq"
+      },
+      {
+        "lang": "ko",
+        "name": "아비"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudakaklis naras"
+      },
+      {
+        "lang": "lv",
+        "name": "Brūnkakla gārgale"
+      },
+      {
+        "lang": "mk",
+        "name": "Обичен северен нуркач"
+      },
+      {
+        "lang": "mn",
+        "name": "Улаан омруут ахууна"
+      },
+      {
+        "lang": "mt",
+        "name": "Bugħaddas tal-Maltemp"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkeelduiker"
+      },
+      {
+        "lang": "nn",
+        "name": "Smålom"
+      },
+      {
+        "lang": "no",
+        "name": "Smålom"
+      },
+      {
+        "lang": "pl",
+        "name": "Nur rdzawoszyi"
+      },
+      {
+        "lang": "pt",
+        "name": "Mobêlha-pequena"
+      },
+      {
+        "lang": "rm",
+        "name": "Sfunsella stailada"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснозобая гагара"
+      },
+      {
+        "lang": "se",
+        "name": "Gáhkkor"
+      },
+      {
+        "lang": "sk",
+        "name": "Potáplica štíhlozobá"
+      },
+      {
+        "lang": "sl",
+        "name": "Rdecegrli slapnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Nori gushëkuq"
+      },
+      {
+        "lang": "sr",
+        "name": "Krivokljuni morski gnjurac - Кривокљуни морски гњурац"
+      },
+      {
+        "lang": "sv",
+        "name": "Smålom"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl gerdanlı dalgıç"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кызыл боостаалыг онгук"
+      },
+      {
+        "lang": "uk",
+        "name": "Гагара червоношия"
+      },
+      {
+        "lang": "zh",
+        "name": "红喉潜鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gavia pacifica",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Pazifiktaucher"
+      },
+      {
+        "lang": "en",
+        "name": "Pacific Diver",
+        "synonyms": [
+          "Pacific Loon"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Colimbo del Pacífico"
+      },
+      {
+        "lang": "fi",
+        "name": "Tundrakuikka"
+      },
+      {
+        "lang": "fr",
+        "name": "Plongeon du Pacifique"
+      },
+      {
+        "lang": "it",
+        "name": "Strolaga mezzana del Pacifico"
+      },
+      {
+        "lang": "ja",
+        "name": "シロエリオオハム"
+      },
+      {
+        "lang": "pt",
+        "name": "Mobelha-do-pacífico"
+      },
+      {
+        "lang": "ru",
+        "name": "Белошейная_гагара"
+      },
+      {
+        "lang": "sv",
+        "name": "Stillahavslom"
+      },
+      {
+        "lang": "tr",
+        "name": "Pasifik dalgıcı"
+      },
+      {
+        "lang": "zh",
+        "name": "太平洋潜鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gavia immer",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Черноклюн гмуркач"
+      },
+      {
+        "lang": "br",
+        "name": "Splujer bras"
+      },
+      {
+        "lang": "ca",
+        "name": "Calàbria grossa"
+      },
+      {
+        "lang": "cs",
+        "name": "Potáplice lední"
+      },
+      {
+        "lang": "cy",
+        "name": "Trochydd Mawr"
+      },
+      {
+        "lang": "cz",
+        "name": "Potáplice lední"
+      },
+      {
+        "lang": "da",
+        "name": "Islom"
+      },
+      {
+        "lang": "de",
+        "name": "Eistaucher"
+      },
+      {
+        "lang": "en",
+        "name": "Great Northern Diver"
+      },
+      {
+        "lang": "en-us",
+        "name": "Common Loon"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda kolimbo"
+      },
+      {
+        "lang": "es",
+        "name": "Colimbo grande"
+      },
+      {
+        "lang": "et",
+        "name": "Jääkaur"
+      },
+      {
+        "lang": "eu",
+        "name": "Aliota handi"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikanjääkuikka"
+      },
+      {
+        "lang": "fr",
+        "name": "Plongeon huard"
+      },
+      {
+        "lang": "fy",
+        "name": "Iisdûker"
+      },
+      {
+        "lang": "gl",
+        "name": "Mobella grande"
+      },
+      {
+        "lang": "hu",
+        "name": "Jeges búvár"
+      },
+      {
+        "lang": "is",
+        "name": "Himbrimi"
+      },
+      {
+        "lang": "it",
+        "name": "Strolaga maggiore"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシグロアビ"
+      },
+      {
+        "lang": "lt",
+        "name": "Ledinis naras"
+      },
+      {
+        "lang": "nl",
+        "name": "Ijsduiker"
+      },
+      {
+        "lang": "nn",
+        "name": "Islom"
+      },
+      {
+        "lang": "no",
+        "name": "Islom"
+      },
+      {
+        "lang": "pl",
+        "name": "Nur lodowiec"
+      },
+      {
+        "lang": "pt",
+        "name": "Mobêlha-grande"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноклювая гагара"
+      },
+      {
+        "lang": "se",
+        "name": "Áhpedoavtta"
+      },
+      {
+        "lang": "sk",
+        "name": "Potáplica veľká"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartnäbbad islom"
+      },
+      {
+        "lang": "tr",
+        "name": "Buz dalgıcı"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim lặn mỏ đen"
+      },
+      {
+        "lang": "zh",
+        "name": "普通潜鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gavia arctica",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Calón Articu"
+      },
+      {
+        "lang": "az",
+        "name": "Qaradöş qaqar"
+      },
+      {
+        "lang": "be",
+        "name": "Чорнаваллёвы гагач"
+      },
+      {
+        "lang": "bg",
+        "name": "Черногуш гмуркач"
+      },
+      {
+        "lang": "br",
+        "name": "Splujer gouzoug du"
+      },
+      {
+        "lang": "ca",
+        "name": "Calàbria agulla"
+      },
+      {
+        "lang": "cs",
+        "name": "potáplice severní"
+      },
+      {
+        "lang": "cw",
+        "name": "Sedhor conna du"
+      },
+      {
+        "lang": "cy",
+        "name": "Trochydd gwddfddu"
+      },
+      {
+        "lang": "da",
+        "name": "Sortstrubet lom"
+      },
+      {
+        "lang": "de",
+        "name": "Prachttaucher"
+      },
+      {
+        "lang": "el",
+        "name": "Λαμπροβούττι"
+      },
+      {
+        "lang": "en",
+        "name": "Arctic Diver",
+        "synonyms": [
+          "Arctic Loon",
+          "Black-throated Diver",
+          "Black-throated Loon"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Arkta kolimbo"
+      },
+      {
+        "lang": "es",
+        "name": "Colimbo ártico"
+      },
+      {
+        "lang": "et",
+        "name": "Järvekaur"
+      },
+      {
+        "lang": "eu",
+        "name": "Aliota arktiko"
+      },
+      {
+        "lang": "fi",
+        "name": "kuikka"
+      },
+      {
+        "lang": "fo",
+        "name": "Øssvartur lómur"
+      },
+      {
+        "lang": "fr",
+        "name": "Plongeon arctique",
+        "synonyms": [
+          "Petit Plongeon",
+          "Plongeon lumne",
+          "Lumne",
+          "Liomen"
+        ]
+      },
+      {
+        "lang": "fy",
+        "name": "Bûnte Seedûker"
+      },
+      {
+        "lang": "ga",
+        "name": "Lóma Artach"
+      },
+      {
+        "lang": "gd",
+        "name": "Learg"
+      },
+      {
+        "lang": "gl",
+        "name": "Mobella ártica"
+      },
+      {
+        "lang": "gv",
+        "name": "Lhargey"
+      },
+      {
+        "lang": "he",
+        "name": "צוללן שחור גרון"
+      },
+      {
+        "lang": "hr",
+        "name": "Crnogrli Plijenor"
+      },
+      {
+        "lang": "hu",
+        "name": "Sarki búvár"
+      },
+      {
+        "lang": "hy",
+        "name": "Սուզահավ սևախածի"
+      },
+      {
+        "lang": "is",
+        "name": "Glitbrúsi"
+      },
+      {
+        "lang": "it",
+        "name": "Strolaga mezzana"
+      },
+      {
+        "lang": "ja",
+        "name": "オオハム",
+        "synonyms": [
+          "oohamu"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "შავყელა (შავჩიჩახვა) ღორიხვა"
+      },
+      {
+        "lang": "kjn",
+        "name": "Хырхара"
+      },
+      {
+        "lang": "kk",
+        "name": "Қызылжемсаулы гагара"
+      },
+      {
+        "lang": "ko",
+        "name": "큰회색머리아비"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodakaklis naras"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnkakla gārgale"
+      },
+      {
+        "lang": "mk",
+        "name": "Белец"
+      },
+      {
+        "lang": "mn",
+        "name": "Хар омруут ахууна"
+      },
+      {
+        "lang": "nl",
+        "name": "Parelduiker"
+      },
+      {
+        "lang": "nn",
+        "name": "Storlom"
+      },
+      {
+        "lang": "no",
+        "name": "Storlom"
+      },
+      {
+        "lang": "pl",
+        "name": "nur czarnoszyi"
+      },
+      {
+        "lang": "pt",
+        "name": "Mobêlha-árctica"
+      },
+      {
+        "lang": "rm",
+        "name": "Sfunsella polara"
+      },
+      {
+        "lang": "ru",
+        "name": "Чернозобая гагара"
+      },
+      {
+        "lang": "se",
+        "name": "Doavtta"
+      },
+      {
+        "lang": "sk",
+        "name": "Potáplica severská"
+      },
+      {
+        "lang": "sl",
+        "name": "polarni slapnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Nori gushëzi"
+      },
+      {
+        "lang": "sr",
+        "name": "Morski gnjurac",
+        "synonyms": [
+          "Морски гнјурац"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Storlom"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara gerdanlı dalgıç"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кара боостаалыг онгук"
+      },
+      {
+        "lang": "uk",
+        "name": "Гагара чорношия"
+      },
+      {
+        "lang": "zh",
+        "name": "黑喉潛鳥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gavia adamsii",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Беладзюбы гагач"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълтоклюн гмуркач"
+      },
+      {
+        "lang": "br",
+        "name": "Splujer beg gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Calàbria de bec blanc"
+      },
+      {
+        "lang": "cs",
+        "name": "potáplice žlutozobá"
+      },
+      {
+        "lang": "cy",
+        "name": "Trochydd pigwen"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidnæbbet lom"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbschnabeltaucher"
+      },
+      {
+        "lang": "egl",
+        "name": "Tarabus"
+      },
+      {
+        "lang": "en",
+        "name": "White-billed Diver",
+        "synonyms": [
+          "Yellow-billed Loon"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Blankbeka kolimbo"
+      },
+      {
+        "lang": "es",
+        "name": "Colimbo de Adams"
+      },
+      {
+        "lang": "et",
+        "name": "Tundrakaur"
+      },
+      {
+        "lang": "eu",
+        "name": "Aliota mokozuri"
+      },
+      {
+        "lang": "fa",
+        "name": "بوتيمار"
+      },
+      {
+        "lang": "fi",
+        "name": "jääkuikka"
+      },
+      {
+        "lang": "fo",
+        "name": "Nevgulur lómur"
+      },
+      {
+        "lang": "fr",
+        "name": "Plongeon à bec blanc"
+      },
+      {
+        "lang": "fy",
+        "name": "Gielsnaffeldûker"
+      },
+      {
+        "lang": "ga",
+        "name": "Lóma Gobgheal"
+      },
+      {
+        "lang": "gd",
+        "name": "Learga Bhlàr"
+      },
+      {
+        "lang": "gl",
+        "name": "Mobella biquibranca"
+      },
+      {
+        "lang": "he",
+        "name": "צוללן לבן־מקור"
+      },
+      {
+        "lang": "hr",
+        "name": "Žutokljuni plijenor"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehércsőrű búvár"
+      },
+      {
+        "lang": "is",
+        "name": "Svalbrúsi"
+      },
+      {
+        "lang": "it",
+        "name": "Strolaga beccogiallo"
+      },
+      {
+        "lang": "iu",
+        "name": "Tuhllik"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシジロアビ",
+        "synonyms": [
+          "hashijiroabi"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "흰부리아비"
+      },
+      {
+        "lang": "lt",
+        "name": "Geltonsnapis naras"
+      },
+      {
+        "lang": "lv",
+        "name": "Dzeltenknābja gārgale"
+      },
+      {
+        "lang": "mn",
+        "name": "Цагаан хошуут ахууна"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelsnavelduiker"
+      },
+      {
+        "lang": "nn",
+        "name": "Gulnebblom"
+      },
+      {
+        "lang": "no",
+        "name": "Gulnebblom"
+      },
+      {
+        "lang": "pl",
+        "name": "nur białodzioby"
+      },
+      {
+        "lang": "pt",
+        "name": "Mobelha-de-bico-amarelo"
+      },
+      {
+        "lang": "rm",
+        "name": "Sfunsella da glatsch dal bec mellen"
+      },
+      {
+        "lang": "ru",
+        "name": "Белоклювая гагара"
+      },
+      {
+        "lang": "sah",
+        "name": "Үрүҥ тумустаах куоҕас"
+      },
+      {
+        "lang": "se",
+        "name": "Vilgesnjunáhpedoavtta"
+      },
+      {
+        "lang": "sk",
+        "name": "potáplica bielozobá"
+      },
+      {
+        "lang": "sl",
+        "name": "rumenokljuni slapnik"
+      },
+      {
+        "lang": "sr",
+        "name": "morski gnjurac žutokljuni"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitnäbbad islom"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarı gagalı dalgıç"
+      },
+      {
+        "lang": "tyv",
+        "name": "Ак думчуктуг онгук"
+      },
+      {
+        "lang": "uk",
+        "name": "Білодзьоба гагара"
+      },
+      {
+        "lang": "zh",
+        "name": "白嘴潜鸟"
+      }
+    ]
+  }
+]

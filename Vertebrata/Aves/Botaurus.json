@@ -1,0 +1,619 @@
+[
+  {
+    "scientific_name": "Botaurus stellaris",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Grootrietreier"
+      },
+      {
+        "lang": "als",
+        "name": "Moos-Chue"
+      },
+      {
+        "lang": "ar",
+        "name": "واق أوراسي"
+      },
+      {
+        "lang": "ast",
+        "name": "Avetoru"
+      },
+      {
+        "lang": "az",
+        "name": "Iri danquşu"
+      },
+      {
+        "lang": "ba",
+        "name": "Мөншөгөр"
+      },
+      {
+        "lang": "be",
+        "name": "Вялікі бугай"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям воден бик"
+      },
+      {
+        "lang": "br",
+        "name": "Bongorz bras"
+      },
+      {
+        "lang": "bs",
+        "name": "Bukavac nebogled"
+      },
+      {
+        "lang": "ca",
+        "name": "Bitó"
+      },
+      {
+        "lang": "cs",
+        "name": "Bukač velký"
+      },
+      {
+        "lang": "cw",
+        "name": "Clabyttour"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn y Bwn"
+      },
+      {
+        "lang": "da",
+        "name": "Rørdrum"
+      },
+      {
+        "lang": "de",
+        "name": "Rohrdommel"
+      },
+      {
+        "lang": "el",
+        "name": "Ήταυρος"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Bittern"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda botaŭro"
+      },
+      {
+        "lang": "es",
+        "name": "Avetoro común"
+      },
+      {
+        "lang": "et",
+        "name": "Hüüp"
+      },
+      {
+        "lang": "eu",
+        "name": "Txori zezen arrunt"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaulushaikara"
+      },
+      {
+        "lang": "fo",
+        "name": "Mækjuglámur"
+      },
+      {
+        "lang": "fr",
+        "name": "Butor étoilé"
+      },
+      {
+        "lang": "frr",
+        "name": "Raidtromp"
+      },
+      {
+        "lang": "fy",
+        "name": "Reiddomp"
+      },
+      {
+        "lang": "ga",
+        "name": "Bonnán"
+      },
+      {
+        "lang": "gd",
+        "name": "Corra ghrain"
+      },
+      {
+        "lang": "gl",
+        "name": "Abetouro común"
+      },
+      {
+        "lang": "gv",
+        "name": "Coar vooar"
+      },
+      {
+        "lang": "he",
+        "name": "אנפה מסורטטת גדולה"
+      },
+      {
+        "lang": "hr",
+        "name": "Bukavac nebogled"
+      },
+      {
+        "lang": "hu",
+        "name": "Bölömbika"
+      },
+      {
+        "lang": "hy",
+        "name": "Մեծ Ջրցուլ"
+      },
+      {
+        "lang": "is",
+        "name": "Sefþvari"
+      },
+      {
+        "lang": "it",
+        "name": "Tarabuso"
+      },
+      {
+        "lang": "ja",
+        "name": "サンカノゴイ"
+      },
+      {
+        "lang": "ka",
+        "name": "ყარაულა"
+      },
+      {
+        "lang": "kbd",
+        "name": "БгъэкӀэхь"
+      },
+      {
+        "lang": "kjh",
+        "name": "Кöл пугазы"
+      },
+      {
+        "lang": "kjn",
+        "name": "Кöл пугазы"
+      },
+      {
+        "lang": "kk",
+        "name": "Әупілдек"
+      },
+      {
+        "lang": "ko",
+        "name": "알락해오라기"
+      },
+      {
+        "lang": "krl",
+        "name": "Kaglushaikar"
+      },
+      {
+        "lang": "ku",
+        "name": "Balaban"
+      },
+      {
+        "lang": "kw",
+        "name": "Clabyttour"
+      },
+      {
+        "lang": "kwn",
+        "name": "Shivo"
+      },
+      {
+        "lang": "lb",
+        "name": "Nuetsramm"
+      },
+      {
+        "lang": "li",
+        "name": "Rommeldoes"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis baublys"
+      },
+      {
+        "lang": "lv",
+        "name": "Lielais dumpis"
+      },
+      {
+        "lang": "mk",
+        "name": "Букаец"
+      },
+      {
+        "lang": "ml",
+        "name": "പെരുങ്കൊച്ച"
+      },
+      {
+        "lang": "mn",
+        "name": "Усны бухшувуу"
+      },
+      {
+        "lang": "mrj",
+        "name": "Вӹдӱшкӱж"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Pucong Danau"
+      },
+      {
+        "lang": "mt",
+        "name": "Kappun"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Raidomp"
+      },
+      {
+        "lang": "nds",
+        "name": "Rohrdump"
+      },
+      {
+        "lang": "nl",
+        "name": "Roerdomp"
+      },
+      {
+        "lang": "no",
+        "name": "Rørdrum"
+      },
+      {
+        "lang": "nrm",
+        "name": "Butor"
+      },
+      {
+        "lang": "pl",
+        "name": "Bąk"
+      },
+      {
+        "lang": "pnb",
+        "name": "وڈا بٹرن"
+      },
+      {
+        "lang": "pt",
+        "name": "Abetouro-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Tarbegl grond"
+      },
+      {
+        "lang": "ro",
+        "name": "Buhai de baltă"
+      },
+      {
+        "lang": "ru",
+        "name": "Выпь"
+      },
+      {
+        "lang": "rue",
+        "name": "Вып"
+      },
+      {
+        "lang": "sah",
+        "name": "Аҥыр"
+      },
+      {
+        "lang": "sco",
+        "name": "Bluiter"
+      },
+      {
+        "lang": "sh",
+        "name": "Bukavac"
+      },
+      {
+        "lang": "si",
+        "name": "සිසිර අයාලයා"
+      },
+      {
+        "lang": "sk",
+        "name": "Bučiak veľký"
+      },
+      {
+        "lang": "sl",
+        "name": "Bobnarica"
+      },
+      {
+        "lang": "sq",
+        "name": "Gakthi"
+      },
+      {
+        "lang": "sr",
+        "name": "Bukavac - Букавак"
+      },
+      {
+        "lang": "st",
+        "name": "Khoiti-mohlaka"
+      },
+      {
+        "lang": "sv",
+        "name": "Rördrom"
+      },
+      {
+        "lang": "sw",
+        "name": "Vumatiti Mkubwa"
+      },
+      {
+        "lang": "th",
+        "name": "นกยางแดงใหญ่"
+      },
+      {
+        "lang": "tn",
+        "name": "Kgapu"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı balaban"
+      },
+      {
+        "lang": "tyv",
+        "name": "бургураа"
+      },
+      {
+        "lang": "udm",
+        "name": "Иньтака"
+      },
+      {
+        "lang": "uk",
+        "name": "Бугай"
+      },
+      {
+        "lang": "vec",
+        "name": "Tarabel"
+      },
+      {
+        "lang": "vi",
+        "name": "Vạc rạ"
+      },
+      {
+        "lang": "zea",
+        "name": "Roerdomp"
+      },
+      {
+        "lang": "zh",
+        "name": "大麻鳽"
+      },
+      {
+        "lang": "zu",
+        "name": "Umabu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Botaurus poiciloptilus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Bukač australský"
+      },
+      {
+        "lang": "br",
+        "name": "Bongorz Aostralia"
+      },
+      {
+        "lang": "ca",
+        "name": "Bitó australià"
+      },
+      {
+        "lang": "de",
+        "name": "Australische Rohrdommel"
+      },
+      {
+        "lang": "es",
+        "name": "Avetoro australiano"
+      },
+      {
+        "lang": "en",
+        "name": "Australasian Bittern"
+      },
+      {
+        "lang": "fa",
+        "name": "بوتیمار استرالزیایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Butor d'Australie"
+      },
+      {
+        "lang": "hr",
+        "name": "Australski bukavac",
+        "synonyms": [
+          "smeđi bukavac"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "オーストラリアサンカノゴイ"
+      },
+      {
+        "lang": "mi",
+        "name": "Hūrepo",
+        "synonyms": [
+          "Matuku"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Australische roerdomp"
+      },
+      {
+        "lang": "nn",
+        "name": "Australrøyrdrum"
+      },
+      {
+        "lang": "no",
+        "name": "Australrørdrum"
+      },
+      {
+        "lang": "pnb",
+        "name": "بوٹارس پوئسیلوپٹیلس"
+      },
+      {
+        "lang": "sh",
+        "name": "Australski bukavac"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk rördrom"
+      },
+      {
+        "lang": "vi",
+        "name": "Vạc rạ Á Úc"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Botaurus pinnatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Bukač jihoamerický"
+      },
+      {
+        "lang": "es",
+        "name": "Avetoro mirasol"
+      },
+      {
+        "lang": "hr",
+        "name": "Južnoamerički bukavac"
+      },
+      {
+        "lang": "pt",
+        "name": "Socó-boi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Botaurus lentiginosus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Bongorz-Amerika"
+      },
+      {
+        "lang": "ca",
+        "name": "Bitó americà"
+      },
+      {
+        "lang": "cs",
+        "name": "bukač severoamerický"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn-bwn America"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Rørdrum"
+      },
+      {
+        "lang": "de",
+        "name": "Nordamerikanische Rohrdommel"
+      },
+      {
+        "lang": "en",
+        "name": "American Bittern"
+      },
+      {
+        "lang": "es",
+        "name": "Avetoro lentiginoso"
+      },
+      {
+        "lang": "et",
+        "name": "habehüüp"
+      },
+      {
+        "lang": "eu",
+        "name": "Txori zezen amerikar"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikankaulushaikara"
+      },
+      {
+        "lang": "fo",
+        "name": "Amerikanskur mækjuglámur"
+      },
+      {
+        "lang": "fr",
+        "name": "Butor d'Amérique"
+      },
+      {
+        "lang": "ga",
+        "name": "Bonnán Meiriceánach"
+      },
+      {
+        "lang": "gd",
+        "name": "Corra-ghràin mhòr Aimeireaga"
+      },
+      {
+        "lang": "gl",
+        "name": "Abetouro americano"
+      },
+      {
+        "lang": "he",
+        "name": "אנפה מסורטטת אמריקאית"
+      },
+      {
+        "lang": "ht",
+        "name": "Makwali ameriken"
+      },
+      {
+        "lang": "hu",
+        "name": "amerikai bölömbika"
+      },
+      {
+        "lang": "is",
+        "name": "Reyrþvari"
+      },
+      {
+        "lang": "it",
+        "name": "Tarabuso americano"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカサンカノゴイ",
+        "synonyms": [
+          "amerikasankanogoi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Amerikinis baublys"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse roerdomp"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikarørdrum"
+      },
+      {
+        "lang": "pl",
+        "name": "bąk amerykański"
+      },
+      {
+        "lang": "pt",
+        "name": "Abetouro-lentiginoso"
+      },
+      {
+        "lang": "ru",
+        "name": "Американская выпь"
+      },
+      {
+        "lang": "sk",
+        "name": "bučiak hnedokrký"
+      },
+      {
+        "lang": "sl",
+        "name": "severnoameriška bobnarica"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk rördom"
+      },
+      {
+        "lang": "tr",
+        "name": "Amerika Balabanı"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲麻鳽"
+      }
+    ]
+  }
+]

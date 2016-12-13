@@ -1,0 +1,589 @@
+[
+  {
+    "scientific_name": "Megascops watsonii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tawny-bellied Screech-owl"
+      },
+      {
+        "lang": "no",
+        "name": "Amazonugle"
+      },
+      {
+        "lang": "pt",
+        "name": "Corujinha-orelhuda"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops vermiculatus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Xot vermiculat"
+      },
+      {
+        "lang": "de",
+        "name": "Kritzel-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "Vermiculated Screech Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo vermiculado"
+      },
+      {
+        "lang": "fi",
+        "name": "Rusopöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc vermiculé"
+      },
+      {
+        "lang": "nl",
+        "name": "Marmerschreeuwuil"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops trichopsis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Whiskered Screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo bigotudo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops seductus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Xot del Balsas"
+      },
+      {
+        "lang": "de",
+        "name": "Balsas-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "Balsas Screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo del Balsas"
+      },
+      {
+        "lang": "fi",
+        "name": "Meksikonkirkupöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc du Balsas"
+      },
+      {
+        "lang": "nl",
+        "name": "Balsasschreeuwuil"
+      },
+      {
+        "lang": "no",
+        "name": "Balsasugle"
+      },
+      {
+        "lang": "sv",
+        "name": "Balsasskrikuv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops sanctaecatarinae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-tufted Screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo de Santa Catarina"
+      },
+      {
+        "lang": "no",
+        "name": "Duskugle"
+      },
+      {
+        "lang": "pt",
+        "name": "Corujinha-do-sul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops roraimae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Roraima Screech-Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops roboratus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Peru-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "West Peruvian Screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo peruano"
+      },
+      {
+        "lang": "fi",
+        "name": "Perunpöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc du Pérou"
+      },
+      {
+        "lang": "nl",
+        "name": "Marañón-schreeuwuil"
+      },
+      {
+        "lang": "sv",
+        "name": "Västperuansk skrikuv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops petersoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon Screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Lechuza canela"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops nudipes",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Puerto Rican Screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "mucarito de Puerto Rico"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops napensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rio Napo Screech-Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops marshalli",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Nebelwald-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "Cloud-forest Screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo de Marshall"
+      },
+      {
+        "lang": "fi",
+        "name": "Pilvimetsäpöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc de Marshall"
+      },
+      {
+        "lang": "nl",
+        "name": "Bosschreeuwuil"
+      },
+      {
+        "lang": "sv",
+        "name": "Molnskogsskrikuv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops koepckeae",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Xot de Koepcke"
+      },
+      {
+        "lang": "de",
+        "name": "Andenkreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "Koepcke's Screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo de Koepcke"
+      },
+      {
+        "lang": "fi",
+        "name": "Bolivianpöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc de Koepcke"
+      },
+      {
+        "lang": "nl",
+        "name": "Maria Koepckes schreeuwuil"
+      },
+      {
+        "lang": "sv",
+        "name": "Köpckes skrikuv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops kennicottii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Screech Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo occidental"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops ingens",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Salvin-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "Rufescent Screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo pálido"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد جارزن گردویی"
+      },
+      {
+        "lang": "fi",
+        "name": "Andienpöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc de Salvin"
+      },
+      {
+        "lang": "nl",
+        "name": "Andesschreeuwuil"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostskrikuv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops hoyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Montane Forest Screech-owl",
+        "synonyms": [
+          "Hoy's Screech-owl"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Autillo fresco",
+        "synonyms": [
+          "alilicucu yungueño"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops guatemalae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Guatemalan Screech-owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops cooperi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Mangroven-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "Pacific Screech-owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops colombianus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kolumbien-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "Colombian Screech-owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops clarkii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Nacktbein-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "Bare-shanked Screech Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo serrano"
+      },
+      {
+        "lang": "fi",
+        "name": "Panamanpöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc de Clark"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaalpootschreeuwuil"
+      },
+      {
+        "lang": "sv",
+        "name": "Barbent skrikuv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops choliba",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tropical Screech-Owl"
+      },
+      {
+        "lang": "pt",
+        "name": "Caburé-de-orelha"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops barbarus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Tropfen-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "Bearded Screech-owl",
+        "synonyms": [
+          "Santa Barbara Screech-owl"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops atricapilla",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-capped Screech-Owl",
+        "synonyms": [
+          "Variable Screech-Owl"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Autillo capirotado"
+      },
+      {
+        "lang": "no",
+        "name": "Indianerugle"
+      },
+      {
+        "lang": "pt",
+        "name": "Corujinha-sapo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops asio",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "výreček americký"
+      },
+      {
+        "lang": "da",
+        "name": "Østamerikansk Dværghornugle"
+      },
+      {
+        "lang": "de",
+        "name": "Ost-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "Eastern Screech Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo Yanqui"
+      },
+      {
+        "lang": "et",
+        "name": "aedpäll"
+      },
+      {
+        "lang": "fi",
+        "name": "idänkirkupöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc maculé"
+      },
+      {
+        "lang": "hu",
+        "name": "lármás füleskuvik"
+      },
+      {
+        "lang": "it",
+        "name": "Assiolo americano orientale"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒガシアメリカオオコノハズク",
+        "synonyms": [
+          "amerikaookonohazuku"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Oostelijke Schreeuwuil"
+      },
+      {
+        "lang": "no",
+        "name": "Lundugle"
+      },
+      {
+        "lang": "pl",
+        "name": "syczek krzykliwy"
+      },
+      {
+        "lang": "pt",
+        "name": "Corujinha-do-leste"
+      },
+      {
+        "lang": "ru",
+        "name": "Североамериканская совка"
+      },
+      {
+        "lang": "sk",
+        "name": "výrček škriekavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Östlig skrikdvärguv"
+      },
+      {
+        "lang": "zh",
+        "name": "東美角鴞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops albogularis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Xot gorjablanc"
+      },
+      {
+        "lang": "de",
+        "name": "Weißkehl-Kreischeule"
+      },
+      {
+        "lang": "en",
+        "name": "White-throated Screech Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo gorgiblanco"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkokurkkupöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc à gorge blanche"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkeelschreeuwuil"
+      },
+      {
+        "lang": "no",
+        "name": "Andesugle"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitstrupig skrikuv"
+      }
+    ]
+  }
+]

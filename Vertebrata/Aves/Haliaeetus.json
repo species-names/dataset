@@ -1,0 +1,951 @@
+[
+  {
+    "scientific_name": "Haliaeetus vociferoides",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orel madagaskarský"
+      },
+      {
+        "lang": "de",
+        "name": "Madagaskarseeadler"
+      },
+      {
+        "lang": "el",
+        "name": "Ψαραετός της Μαδαγασκάρης"
+      },
+      {
+        "lang": "en",
+        "name": "Madagascar Fish Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Pigargo malgache"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinmerikotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pygargue de Madagascar"
+      },
+      {
+        "lang": "ja",
+        "name": "マダガスカルウミワシ"
+      },
+      {
+        "lang": "pl",
+        "name": "Bielik madagaskarski"
+      },
+      {
+        "lang": "zh",
+        "name": "马达加斯加海雕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haliaeetus vocifer",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Visarend"
+      },
+      {
+        "lang": "ak",
+        "name": "nsuo mu Orkoree"
+      },
+      {
+        "lang": " ar",
+        "name": "عقاب السمك الأفريقي"
+      },
+      {
+        "lang": "cs",
+        "name": "Orel jasnohlasý"
+      },
+      {
+        "lang": "de",
+        "name": "Schreiseeadler"
+      },
+      {
+        "lang": "en",
+        "name": "African Fish Eagle"
+      },
+      {
+        "lang": "eo",
+        "name": "Afrika maraglo"
+      },
+      {
+        "lang": "es",
+        "name": "Pigargo africano"
+      },
+      {
+        "lang": "fi",
+        "name": "Kiljumerikotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pygargue vocifère"
+      },
+      {
+        "lang": "hu",
+        "name": "Lármás rétisas"
+      },
+      {
+        "lang": "ja",
+        "name": "サンショクウミワシ"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse zeearend"
+      },
+      {
+        "lang": "no",
+        "name": "Flodørn"
+      },
+      {
+        "lang": "pl",
+        "name": "Bielik afrykański"
+      },
+      {
+        "lang": "zh",
+        "name": "吼海雕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haliaeetus sanfordi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orel Sanfordův"
+      },
+      {
+        "lang": "de",
+        "name": "Salomonenseeadler"
+      },
+      {
+        "lang": "en",
+        "name": "Sanford's Sea Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Pigargo de las Salomón"
+      },
+      {
+        "lang": "fr",
+        "name": "Pygargue de Sanford"
+      },
+      {
+        "lang": "hu",
+        "name": "Salamon-szigeteki rétisas"
+      },
+      {
+        "lang": "pl",
+        "name": "Bielik melanezyjski"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskomerikotka"
+      },
+      {
+        "lang": "zh",
+        "name": "所罗门群岛海雕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haliaeetus pelagicus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Стелеров морски орел"
+      },
+      {
+        "lang": "cs",
+        "name": "Orel východní"
+      },
+      {
+        "lang": "de",
+        "name": "Riesenseeadler"
+      },
+      {
+        "lang": "en",
+        "name": "Steller's Sea Eagle"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda maraglo"
+      },
+      {
+        "lang": "es",
+        "name": "Pigargo gigante"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuningasmerikotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pygargue de Steller"
+      },
+      {
+        "lang": "hu",
+        "name": "Óriásrétisas"
+      },
+      {
+        "lang": "id",
+        "name": "Elang laut Steller"
+      },
+      {
+        "lang": "it",
+        "name": "Aquila di Steller"
+      },
+      {
+        "lang": "ja",
+        "name": "オオワシ"
+      },
+      {
+        "lang": "ko",
+        "name": "참수리"
+      },
+      {
+        "lang": "nl",
+        "name": "Stellers zeearend"
+      },
+      {
+        "lang": "pl",
+        "name": "Bielik olbrzymi"
+      },
+      {
+        "lang": "ru",
+        "name": "Белоплечий орлан"
+      },
+      {
+        "lang": "sah",
+        "name": "Ала боруллуо"
+      },
+      {
+        "lang": "sr",
+        "name": "Бјелоплећи бјелорепан"
+      },
+      {
+        "lang": "zh",
+        "name": "虎头海雕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haliaeetus leucoryphus",
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "কুড়া"
+      },
+      {
+        "lang": "br",
+        "name": "Morerer Pallas"
+      },
+      {
+        "lang": "cs",
+        "name": "Orel páskovaný"
+      },
+      {
+        "lang": "de",
+        "name": "Bindenseeadler"
+      },
+      {
+        "lang": "en",
+        "name": "Pallas's Fish Eagle"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankstriovosta maraglo"
+      },
+      {
+        "lang": "es",
+        "name": "Pigargo de Pallas"
+      },
+      {
+        "lang": "fi",
+        "name": "Aromerikotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pygargue de Pallas"
+      },
+      {
+        "lang": "hu",
+        "name": "Szalagos rétisas"
+      },
+      {
+        "lang": "ja",
+        "name": "キガシラウミワシ"
+      },
+      {
+        "lang": "no",
+        "name": "Båndhavørn"
+      },
+      {
+        "lang": "pl",
+        "name": "Bielik wschodni"
+      },
+      {
+        "lang": "ru",
+        "name": "Орлан-долгохвост"
+      },
+      {
+        "lang": "th",
+        "name": "อินทรีทะเลหัวนวล"
+      },
+      {
+        "lang": "zh",
+        "name": "玉带海雕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haliaeetus leucogaster",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orel bělobřichý"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbauchseeadler"
+      },
+      {
+        "lang": "en",
+        "name": "White-Bellied Sea Eagle"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankventra maraglo"
+      },
+      {
+        "lang": "es",
+        "name": "Pigargo oriental"
+      },
+      {
+        "lang": "fr",
+        "name": "pygargue blagre"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérhasú rétisas"
+      },
+      {
+        "lang": "ja",
+        "name": "シロハラウミワシ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Lang Siput"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbuikzeearend"
+      },
+      {
+        "lang": "pl",
+        "name": "Bielik białobrzuchy"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbukig havsörn"
+      },
+      {
+        "lang": "th",
+        "name": "นกออก"
+      },
+      {
+        "lang": "zh",
+        "name": "白腹海鵰"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "白腹海鵰"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haliaeetus leucocephalus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "نسر أمريكي"
+      },
+      {
+        "lang": "atj",
+        "name": "Mikisiw ka wapictikwanetc"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Белагаловы арол"
+      },
+      {
+        "lang": "bg",
+        "name": "Белоглав орел"
+      },
+      {
+        "lang": "ca",
+        "name": "Pigarg americà"
+      },
+      {
+        "lang": "cr",
+        "name": "ᒥᒋᓲ"
+      },
+      {
+        "lang": "chy",
+        "name": "Vóaxáa'e"
+      },
+      {
+        "lang": "cs",
+        "name": "Orel bělohlavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Eryr Moel"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidhovedet havørn"
+      },
+      {
+        "lang": "de",
+        "name": "Weißkopfseeadler"
+      },
+      {
+        "lang": "dsb",
+        "name": "Běłogłowny mórski jerjeł"
+      },
+      {
+        "lang": "nv",
+        "name": "Atsá"
+      },
+      {
+        "lang": "en",
+        "name": "Bald Eagle"
+      },
+      {
+        "lang": "el",
+        "name": "Λευκοκέφαλος θαλασσαετός"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankkapa maraglo"
+      },
+      {
+        "lang": "es",
+        "name": "Águila calva"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب گر",
+        "synonyms": [
+          "عقاب سر سفید"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Valkopäämerikotka"
+      },
+      {
+        "lang": "fo",
+        "name": "Skallaørn"
+      },
+      {
+        "lang": "fr",
+        "name": "Pygargue à tête blanche"
+      },
+      {
+        "lang": "ga",
+        "name": "Iolar maol"
+      },
+      {
+        "lang": "he",
+        "name": "עיטם לבן ראש"
+      },
+      {
+        "lang": "hsb",
+        "name": "Běłohłowny kosćełamak"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfejű rétisas"
+      },
+      {
+        "lang": "id",
+        "name": "Elang Botak"
+      },
+      {
+        "lang": "is",
+        "name": "Skallaörn"
+      },
+      {
+        "lang": "it",
+        "name": "Aquila dalla testa bianca"
+      },
+      {
+        "lang": "ja",
+        "name": "ハクトウワシ"
+      },
+      {
+        "lang": "ka",
+        "name": "თეთრთავა ფსოვი"
+      },
+      {
+        "lang": "ko",
+        "name": "흰머리수리"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltagalvis erelis"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltgalvas ērglis"
+      },
+      {
+        "lang": "mk",
+        "name": "Белоглав орел"
+      },
+      {
+        "lang": "ml",
+        "name": "വെള്ളത്തലയൻ കടൽപ്പരുന്ത്"
+      },
+      {
+        "lang": "mn",
+        "name": "Халзан бүргэд"
+      },
+      {
+        "lang": "ms",
+        "name": "Helang Botak"
+      },
+      {
+        "lang": "mic",
+        "name": "Kitpu"
+      },
+      {
+        "lang": "my",
+        "name": "ခေါင်းပြောင်ဝန်လူငှက်"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse zeearend"
+      },
+      {
+        "lang": "no",
+        "name": "Hvithodet havørn"
+      },
+      {
+        "lang": "pl",
+        "name": "Bielik amerykański"
+      },
+      {
+        "lang": "pt",
+        "name": "Águia de cabeça branca"
+      },
+      {
+        "lang": "ru",
+        "name": "Белоголовый орлан"
+      },
+      {
+        "lang": "sk",
+        "name": "Orliak bielohlavý"
+      },
+      {
+        "lang": "sr",
+        "name": "Белоглави орао"
+      },
+      {
+        "lang": "sv",
+        "name": "Vithövdad havsörn"
+      },
+      {
+        "lang": "ta",
+        "name": "வெண்தலைக் கழுகு"
+      },
+      {
+        "lang": "th",
+        "name": "อินทรีหัวขาว"
+      },
+      {
+        "lang": "tr",
+        "name": "Kel kartal"
+      },
+      {
+        "lang": "udm",
+        "name": "Тӧдьы йыро ӧрӟи"
+      },
+      {
+        "lang": "uk",
+        "name": "Білоголовий орлан"
+      },
+      {
+        "lang": "vi",
+        "name": "Đại bàng đầu trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "白頭海鵰"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haliaeetus ichthyaetus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orel šedohlavý"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-headed Fish Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Pigargo de cabeza gris"
+      },
+      {
+        "lang": "fr",
+        "name": "Pygargue à tête grise"
+      },
+      {
+        "lang": "id",
+        "name": "Elang Ikan Kepala Abu"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Helang Kepala Kelabu"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybożer białosterny"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวปลาใหญ่หัวเทา"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haliaeetus humilis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orel rybožravý"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Fish Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Pigargo menor"
+      },
+      {
+        "lang": "fr",
+        "name": "Pygargue nain"
+      },
+      {
+        "lang": "id",
+        "name": "Elang Ikan Kecil"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Helang Kangok"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybożer brunatny"
+      },
+      {
+        "lang": "zh",
+        "name": "漁雕"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวปลาเล็กหัวเทา"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haliaeetus albicilla",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "عقاب ابيض الذنب"
+      },
+      {
+        "lang": "az",
+        "name": "Ağquyruq dəniz qartalı"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Арлан-белахвост"
+      },
+      {
+        "lang": "be",
+        "name": "Арлан-белахвост"
+      },
+      {
+        "lang": "bg",
+        "name": "Морски орел"
+      },
+      {
+        "lang": "br",
+        "name": "Morerer lost gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Àguila marina"
+      },
+      {
+        "lang": "cs",
+        "name": "Orel mořský"
+      },
+      {
+        "lang": "cv",
+        "name": "Шур хӳреллĕ ăмăрткайăк"
+      },
+      {
+        "lang": "cw",
+        "name": "Er an mor"
+      },
+      {
+        "lang": "cy",
+        "name": "Eryr y Môr"
+      },
+      {
+        "lang": "da",
+        "name": "Havørn"
+      },
+      {
+        "lang": "de",
+        "name": "Seeadler"
+      },
+      {
+        "lang": "el",
+        "name": "Θαλασσαετός"
+      },
+      {
+        "lang": "en",
+        "name": "White-tailed Eagle"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankvosta maraglo"
+      },
+      {
+        "lang": "es",
+        "name": "Pigargo europeo"
+      },
+      {
+        "lang": "et",
+        "name": "Merikotkas"
+      },
+      {
+        "lang": "eu",
+        "name": "Itsas arrano buztanzuri(a)"
+      },
+      {
+        "lang": "fi",
+        "name": "Merikotka"
+      },
+      {
+        "lang": "fo",
+        "name": "Havørn"
+      },
+      {
+        "lang": "fr",
+        "name": "Pygargue à queue blanche"
+      },
+      {
+        "lang": "frr",
+        "name": "Gusiarn"
+      },
+      {
+        "lang": "fy",
+        "name": "See-earn"
+      },
+      {
+        "lang": "ga",
+        "name": "Iolair Mara"
+      },
+      {
+        "lang": "gd",
+        "name": "Iolair mhara"
+      },
+      {
+        "lang": "gl",
+        "name": "Águia mariña"
+      },
+      {
+        "lang": "gv",
+        "name": "Urley Erne"
+      },
+      {
+        "lang": "he",
+        "name": "עיטם לבן זנב"
+      },
+      {
+        "lang": "hr",
+        "name": "Orao štekavac"
+      },
+      {
+        "lang": "hu",
+        "name": "Rétisas"
+      },
+      {
+        "lang": "hy",
+        "name": "Արծիվ սպիտակապոչ"
+      },
+      {
+        "lang": "is",
+        "name": "Haförn"
+      },
+      {
+        "lang": "it",
+        "name": "Aquile di mare a coda bianca"
+      },
+      {
+        "lang": "ja",
+        "name": "オジロワシ"
+      },
+      {
+        "lang": "ka",
+        "name": "ანუ ფსოვი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Хузургул"
+      },
+      {
+        "lang": "kk",
+        "name": "Аққұйрықты субүркіті"
+      },
+      {
+        "lang": "kl",
+        "name": "Nattoralik"
+      },
+      {
+        "lang": "ko",
+        "name": "흰꼬리수리"
+      },
+      {
+        "lang": "lt",
+        "name": "Jūrinis erelis"
+      },
+      {
+        "lang": "lv",
+        "name": "Jūras ērglis"
+      },
+      {
+        "lang": "mk",
+        "name": "Белоопашест орел"
+      },
+      {
+        "lang": "mn",
+        "name": "Усны цагаан сyyлт бyргэд"
+      },
+      {
+        "lang": "mr",
+        "name": "पांढर्‍या शेपटीची घार"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Lang Ekor Putih"
+      },
+      {
+        "lang": "mt",
+        "name": "Ajkla tad-Denb Abajd"
+      },
+      {
+        "lang": "nl",
+        "name": "Zeearend"
+      },
+      {
+        "lang": "nn",
+        "name": "Havørn"
+      },
+      {
+        "lang": "no",
+        "name": "Havørn"
+      },
+      {
+        "lang": "pl",
+        "name": "Bielik"
+      },
+      {
+        "lang": "pt",
+        "name": "Águia-rabalva"
+      },
+      {
+        "lang": "rm",
+        "name": "Evla da mar"
+      },
+      {
+        "lang": "ru",
+        "name": "Орлан-белохвост"
+      },
+      {
+        "lang": "sah",
+        "name": "Боруллуо"
+      },
+      {
+        "lang": "se",
+        "name": "Mearragoaskin"
+      },
+      {
+        "lang": "sh",
+        "name": "Orao bjelorepan / орао бјелорепан"
+      },
+      {
+        "lang": "sk",
+        "name": "Orliak morský"
+      },
+      {
+        "lang": "sl",
+        "name": "Belorepec"
+      },
+      {
+        "lang": "sq",
+        "name": "Shqiponja e detit"
+      },
+      {
+        "lang": "sr",
+        "name": "Orao belorepan / Орао белорепан"
+      },
+      {
+        "lang": "sv",
+        "name": "Havsörn"
+      },
+      {
+        "lang": "th",
+        "name": "นกอินทรีหางขาว"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı deniz kartalı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Ак кудуруктуг орлан"
+      },
+      {
+        "lang": "uk",
+        "name": "Скоб білохвостий"
+      },
+      {
+        "lang": "vi",
+        "name": "Đại bàng đuôi trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "白尾海雕"
+      }
+    ]
+  }
+]

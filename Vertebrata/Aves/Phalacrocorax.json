@@ -1,0 +1,1557 @@
+[
+  {
+    "scientific_name": "Phalacrocorax varius",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Elsterscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Pied Cormorant"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán pío"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان ابلق"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaunomerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran varié"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische aalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Australskarv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran srokaty"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk skarv"
+      },
+      {
+        "lang": "tr",
+        "name": "Alaca karabatak"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax urile",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-faced Cormorant"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán carirrojo"
+      },
+      {
+        "lang": "ja",
+        "name": "チシマウガラス"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax sulcirostris",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Corb marí negre"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Little Black Cormorant"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán totinegro"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان سیاه کوچک"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustamerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran noir"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete kárókatona"
+      },
+      {
+        "lang": "id",
+        "name": "Pecuk-padi hitam"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte aalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Lagfiskeskarv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran bruzdodzioby"
+      },
+      {
+        "lang": "sv",
+        "name": "Sotskarv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax punctatus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غاق منقط"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí pigallat"
+      },
+      {
+        "lang": "de",
+        "name": "Tüpfelscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Spotted Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán moteado"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان خالدار"
+      },
+      {
+        "lang": "fi",
+        "name": "Partamerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran moucheté"
+      },
+      {
+        "lang": "nl",
+        "name": "Gevlekte aalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Kvithalsflekkskarv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran nakrapiany"
+      },
+      {
+        "lang": "sv",
+        "name": "Fläckskarv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax perspicillatus",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "メガネウ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax penicillatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brandt's Cormorant"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán sargento"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Brandt"
+      },
+      {
+        "lang": "hu",
+        "name": "Brandt-kárókatona"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax pelagicus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غاق بحري"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí pelàgic"
+      },
+      {
+        "lang": "de",
+        "name": "Meerscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Pelagic Cormorant"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán pelágico"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان لجه‌ای"
+      },
+      {
+        "lang": "fi",
+        "name": "Ulappamerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran pélagique"
+      },
+      {
+        "lang": "hu",
+        "name": "Alaszkai kárókatona"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメウ"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠가마우지"
+      },
+      {
+        "lang": "nl",
+        "name": "Pelagische aalscholver"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran krasnolicy"
+      },
+      {
+        "lang": "ru",
+        "name": "Берингов баклан"
+      },
+      {
+        "lang": "sv",
+        "name": "Pelagskarv"
+      },
+      {
+        "lang": "zh",
+        "name": "海鸬鹚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax nigrogularis",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Cormorán de Socotora"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax neglectus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bank Cormorant",
+        "synonyms": [
+          "Wahlberg's Cormorant"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de bajío"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax magellanicus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Cormorán Cuello Negro",
+        "synonyms": [
+          "Cormorán magallánico"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Rock Shag"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax lucidus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Corb marí gorjablanc"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbrustkormoran"
+      },
+      {
+        "lang": "en",
+        "name": "White-breasted Cormorant"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán cuelliblanco"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان سینه‌سفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran à poitrine blanche"
+      },
+      {
+        "lang": "nl",
+        "name": "Witborstaalscholver"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran białoszyi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax harrisi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Galapagosscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Flightless Cormorant"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán mancón"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran aptère"
+      },
+      {
+        "lang": "ja",
+        "name": "ガラパゴスコバネウ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax gaimardi",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Corb marí de Gaimard"
+      },
+      {
+        "lang": "en",
+        "name": "Red-legged Cormorant"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝkrura kormorano"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán gris"
+      },
+      {
+        "lang": "et",
+        "name": "Laikkael-kormoran"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان پاقرمز"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaamerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Gaimard"
+      },
+      {
+        "lang": "hu",
+        "name": "Vöröslábú kárókatona"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodpootaalscholver"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran czerwononogi"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödfotad skarv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax fuscicollis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غاق هندي"
+      },
+      {
+        "lang": "as",
+        "name": "কৈলাঙী"
+      },
+      {
+        "lang": "bn",
+        "name": "দেশি পানকৌড়ি"
+      },
+      {
+        "lang": "br",
+        "name": "Morvran India"
+      },
+      {
+        "lang": "de",
+        "name": "Braunwangenscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Indian Cormorant",
+        "synonyms": [
+          "Indian shag"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán indio"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان هندی"
+      },
+      {
+        "lang": "fi",
+        "name": "Intianmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran à cou brun"
+      },
+      {
+        "lang": "gu",
+        "name": "કાળો જળ કાગડો"
+      },
+      {
+        "lang": "hu",
+        "name": "Barnamellű kárókatona"
+      },
+      {
+        "lang": "ml",
+        "name": "കിന്നരി മീൻകാക്ക"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische aalscholver"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran indyjski"
+      },
+      {
+        "lang": "pnb",
+        "name": "جل کاں"
+      },
+      {
+        "lang": "ru",
+        "name": "Индийский баклан"
+      },
+      {
+        "lang": "sv",
+        "name": "Indisk skarv"
+      },
+      {
+        "lang": "ta",
+        "name": "கொண்டை நீர்க்காகம்"
+      },
+      {
+        "lang": "th",
+        "name": "นกกาน้ำปากยาว"
+      },
+      {
+        "lang": "vi",
+        "name": "Cốc đế nhỏ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax fuscescens",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غاق داكن"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí de Tasmània"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzgesichtscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Black-faced Cormorant"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigravizaĝa kormorano"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán carinegro"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان صورت‌سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Tasmanianmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Tasmanie"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketeképű kárókatona"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwmaskeraalscholver"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran czarnoczelny"
+      },
+      {
+        "lang": "ru",
+        "name": "Белогрудый баклан"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartmaskad skarv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax featherstoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pitt shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de la Pitt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax carbo",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Grootkormorant"
+      },
+      {
+        "lang": "als",
+        "name": "Kormoran"
+      },
+      {
+        "lang": "ang",
+        "name": "Schealfor"
+      },
+      {
+        "lang": "ar",
+        "name": "الغاق الكبير"
+      },
+      {
+        "lang": "ast",
+        "name": "Mabea grande"
+      },
+      {
+        "lang": "az",
+        "name": "Böyük qarabatdaq"
+      },
+      {
+        "lang": "ba",
+        "name": "баклан"
+      },
+      {
+        "lang": "bar",
+        "name": "Kormoran"
+      },
+      {
+        "lang": "be",
+        "name": "Вялікі баклан"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям корморан"
+      },
+      {
+        "lang": "br",
+        "name": "Morvran vras"
+      },
+      {
+        "lang": "bxr",
+        "name": "Ехэ хойхо"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí gros"
+      },
+      {
+        "lang": "cs",
+        "name": "Kormorán velký"
+      },
+      {
+        "lang": "cv",
+        "name": "Мăн баклан"
+      },
+      {
+        "lang": "cw",
+        "name": "Morvran"
+      },
+      {
+        "lang": "cy",
+        "name": "Mulfran"
+      },
+      {
+        "lang": "da",
+        "name": "Storskarv"
+      },
+      {
+        "lang": "de",
+        "name": "Kormoran"
+      },
+      {
+        "lang": "el",
+        "name": "Κορμοράνος"
+      },
+      {
+        "lang": "en",
+        "name": "Great Cormorant"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda kormorano"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán grande"
+      },
+      {
+        "lang": "et",
+        "name": "Kormoran"
+      },
+      {
+        "lang": "eu",
+        "name": "Ubarroi handi"
+      },
+      {
+        "lang": "fi",
+        "name": "Merimetso"
+      },
+      {
+        "lang": "fo",
+        "name": "Hiplingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand Cormoran"
+      },
+      {
+        "lang": "frr",
+        "name": "Ialgus"
+      },
+      {
+        "lang": "fy",
+        "name": "Ielgoes"
+      },
+      {
+        "lang": "ga",
+        "name": "Amplóir"
+      },
+      {
+        "lang": "gd",
+        "name": "Sgarbh"
+      },
+      {
+        "lang": "gl",
+        "name": "Corvo mariño grande"
+      },
+      {
+        "lang": "gv",
+        "name": "Scarroo"
+      },
+      {
+        "lang": "he",
+        "name": "קורמורן גדול"
+      },
+      {
+        "lang": "hr",
+        "name": "Veliki vranac"
+      },
+      {
+        "lang": "hu",
+        "name": "Kárókatona"
+      },
+      {
+        "lang": "hy",
+        "name": "Մեծ Ձկնկուլ"
+      },
+      {
+        "lang": "id",
+        "name": "Kormoran besar"
+      },
+      {
+        "lang": "is",
+        "name": "Dílaskarfur"
+      },
+      {
+        "lang": "it",
+        "name": "Marangone"
+      },
+      {
+        "lang": "ja",
+        "name": "カワウ"
+      },
+      {
+        "lang": "ka",
+        "name": "დიდი ჩვამა"
+      },
+      {
+        "lang": "kk",
+        "name": "Үлкен суқұзғын"
+      },
+      {
+        "lang": "kl",
+        "name": "Oqaatsoq"
+      },
+      {
+        "lang": "ko",
+        "name": "민물가마우지"
+      },
+      {
+        "lang": "ku",
+        "name": "Qirmiraviya reş"
+      },
+      {
+        "lang": "kw",
+        "name": "Morvran"
+      },
+      {
+        "lang": "lb",
+        "name": "Kormoran"
+      },
+      {
+        "lang": "li",
+        "name": "Ielsjolver"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis kormoranas"
+      },
+      {
+        "lang": "lv",
+        "name": "Jūras krauklis"
+      },
+      {
+        "lang": "mi",
+        "name": "Kawau"
+      },
+      {
+        "lang": "mk",
+        "name": "Голем корморан"
+      },
+      {
+        "lang": "ml",
+        "name": "നീര്‍ക്കാക്ക"
+      },
+      {
+        "lang": "mn",
+        "name": "Тураг гогой"
+      },
+      {
+        "lang": "mr",
+        "name": "मोठा पाणकावळा"
+      },
+      {
+        "lang": "ms",
+        "name": "Dendang Air"
+      },
+      {
+        "lang": "mt",
+        "name": "Margun"
+      },
+      {
+        "lang": "nds",
+        "name": "Scholver"
+      },
+      {
+        "lang": "nl",
+        "name": "Aalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Storskarv"
+      },
+      {
+        "lang": "no",
+        "name": "Storskarv"
+      },
+      {
+        "lang": "nrm",
+        "name": "Cormoran"
+      },
+      {
+        "lang": "oc",
+        "name": "Corbs marin"
+      },
+      {
+        "lang": "os",
+        "name": "Баклан"
+      },
+      {
+        "lang": "pcd",
+        "name": "Grand camàrin"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran czarny"
+      },
+      {
+        "lang": "pnb",
+        "name": "وڈا کورمینٹ"
+      },
+      {
+        "lang": "pt",
+        "name": "Corvo-marinho-de-faces-brancas"
+      },
+      {
+        "lang": "rm",
+        "name": "Cormoran"
+      },
+      {
+        "lang": "ro",
+        "name": "Cormoranul mare"
+      },
+      {
+        "lang": "ru",
+        "name": "Большой баклан"
+      },
+      {
+        "lang": "rue",
+        "name": "Корморан"
+      },
+      {
+        "lang": "sc",
+        "name": "Crovu e mari"
+      },
+      {
+        "lang": "sco",
+        "name": "Scarf"
+      },
+      {
+        "lang": "se",
+        "name": "Skárfa"
+      },
+      {
+        "lang": "sh",
+        "name": "Veliki vranac"
+      },
+      {
+        "lang": "si",
+        "name": "මහ දියකාවා"
+      },
+      {
+        "lang": "sk",
+        "name": "Kormorán veľký"
+      },
+      {
+        "lang": "sl",
+        "name": "Veliki kormoran"
+      },
+      {
+        "lang": "sq",
+        "name": "Karabullaku i detit"
+      },
+      {
+        "lang": "sr",
+        "name": "Veliki vranac - Велики вранак"
+      },
+      {
+        "lang": "sv",
+        "name": "Storskarv"
+      },
+      {
+        "lang": "ta",
+        "name": "பெரிய நீர் காகம்"
+      },
+      {
+        "lang": "th",
+        "name": "นกกาน้ำใหญ่"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük karabatak"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кара балыкчы"
+      },
+      {
+        "lang": "uk",
+        "name": "Великий баклан"
+      },
+      {
+        "lang": "vi",
+        "name": "Cốc đế"
+      },
+      {
+        "lang": "vls",
+        "name": "Butstekker"
+      },
+      {
+        "lang": "zea",
+        "name": "Aâlscholver"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Lô͘-chî"
+      },
+      {
+        "lang": "zh",
+        "name": "普通鸕鶿"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax capillatus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Morvran Japan"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí japonès"
+      },
+      {
+        "lang": "en",
+        "name": "Japanese Cormorant"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán japonés"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان تمینک"
+      },
+      {
+        "lang": "fi",
+        "name": "Japaninmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Temminck"
+      },
+      {
+        "lang": "hu",
+        "name": "Japán kárókatona"
+      },
+      {
+        "lang": "ja",
+        "name": "ウミウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Japanse aalscholver"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran japoński"
+      },
+      {
+        "lang": "ru",
+        "name": "Японский баклан"
+      },
+      {
+        "lang": "sv",
+        "name": "Japansk skarv"
+      },
+      {
+        "lang": "tr",
+        "name": "Japon karabatağı"
+      },
+      {
+        "lang": "zh",
+        "name": "暗绿背鸬鹚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax capensis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Trekkormorant"
+      },
+      {
+        "lang": "br",
+        "name": "Morvran ar C'hab"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí del Cap"
+      },
+      {
+        "lang": "de",
+        "name": "Kapscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Cormorant"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de El Cabo"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان دماغه"
+      },
+      {
+        "lang": "fi",
+        "name": "Kapinmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran du Cap"
+      },
+      {
+        "lang": "hu",
+        "name": "Fokföldi kárókatona"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapse aalscholver"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran przylądkowy"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapskarv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax brasilianus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غاق برازيلي"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí olivaci"
+      },
+      {
+        "lang": "cs",
+        "name": "Kormorán subtropický"
+      },
+      {
+        "lang": "da",
+        "name": "Olivenskarv"
+      },
+      {
+        "lang": "de",
+        "name": "Olivenscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Neotropic Cormorant"
+      },
+      {
+        "lang": "eo",
+        "name": "Brazila kormorano"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán Biguá"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان نوگرمسیر"
+      },
+      {
+        "lang": "fi",
+        "name": "Oliivimerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran vigua"
+      },
+      {
+        "lang": "it",
+        "name": "Cormorano olivaceo"
+      },
+      {
+        "lang": "hu",
+        "name": "Brazil kárókatona"
+      },
+      {
+        "lang": "ja",
+        "name": "ナンベイヒメウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bigua-aalscholver"
+      },
+      {
+        "lang": "no",
+        "name": "Flodskarv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran oliwkowy"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Biguá"
+      },
+      {
+        "lang": "pt",
+        "name": "Biguá"
+      },
+      {
+        "lang": "qu",
+        "name": "Uchuqu"
+      },
+      {
+        "lang": "ru",
+        "name": "Бигуанский баклан"
+      },
+      {
+        "lang": "sk",
+        "name": "Kormorán olivový"
+      },
+      {
+        "lang": "sv",
+        "name": "Amazonskarv"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲鸬鹚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax auritus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غاق طويل الأذن"
+      },
+      {
+        "lang": "bg",
+        "name": "Ушат корморан"
+      },
+      {
+        "lang": "br",
+        "name": "Morvran skouarnek"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí de doble cresta"
+      },
+      {
+        "lang": "cs",
+        "name": "Kormorán ušatý"
+      },
+      {
+        "lang": "da",
+        "name": "Øreskarv"
+      },
+      {
+        "lang": "de",
+        "name": "Ohrenscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Double-crested Cormorant"
+      },
+      {
+        "lang": "eo",
+        "name": "Dukresta kormorano"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán orejudo"
+      },
+      {
+        "lang": "et",
+        "name": "Ameerika kormoran"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان دوسینه"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikanmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran à aigrettes"
+      },
+      {
+        "lang": "ga",
+        "name": "Broigheall Cluasach"
+      },
+      {
+        "lang": "ht",
+        "name": "Kòmoran lanmè"
+      },
+      {
+        "lang": "hu",
+        "name": "Füles kárókatona"
+      },
+      {
+        "lang": "is",
+        "name": "Skerjaskarfur"
+      },
+      {
+        "lang": "it",
+        "name": "Marangone della doppia cresta"
+      },
+      {
+        "lang": "ja",
+        "name": "ミミヒメウ"
+      },
+      {
+        "lang": "lkt",
+        "name": "Húŋtka"
+      },
+      {
+        "lang": "lt",
+        "name": "Ausuotasis kormoranas"
+      },
+      {
+        "lang": "nl",
+        "name": "Geoorde aalscholver"
+      },
+      {
+        "lang": "no",
+        "name": "Totoppskarv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran rogaty"
+      },
+      {
+        "lang": "pt",
+        "name": "Corvo-marinho-de-orelhas"
+      },
+      {
+        "lang": "ru",
+        "name": "Ушастый баклан"
+      },
+      {
+        "lang": "sk",
+        "name": "Kormorán ušatý"
+      },
+      {
+        "lang": "sl",
+        "name": "Zlatogrli kormoran"
+      },
+      {
+        "lang": "sv",
+        "name": "Öronskarv"
+      },
+      {
+        "lang": "tr",
+        "name": "Kulaklı karabatak"
+      },
+      {
+        "lang": "uk",
+        "name": "Баклан вухатий"
+      },
+      {
+        "lang": "zh",
+        "name": "角鸕鶿"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phalacrocorax aristotelis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غاق"
+      },
+      {
+        "lang": "ast",
+        "name": "Mavea"
+      },
+      {
+        "lang": "bg",
+        "name": "Качулат корморан"
+      },
+      {
+        "lang": "br",
+        "name": "Morvran-guchenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí emplomallat"
+      },
+      {
+        "lang": "co",
+        "name": "Margonu"
+      },
+      {
+        "lang": "cs",
+        "name": "Kormorán chocholatý"
+      },
+      {
+        "lang": "cw",
+        "name": "Spylgarn"
+      },
+      {
+        "lang": "cy",
+        "name": "Mulfran Werdd"
+      },
+      {
+        "lang": "da",
+        "name": "Topskarv"
+      },
+      {
+        "lang": "de",
+        "name": "Krähenscharbe"
+      },
+      {
+        "lang": "el",
+        "name": "Θαλασσοκόρακας"
+      },
+      {
+        "lang": "en",
+        "name": "European Shag"
+      },
+      {
+        "lang": "eo",
+        "name": "Ordinara kormorano"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán moñudo"
+      },
+      {
+        "lang": "et",
+        "name": "Karikarbas"
+      },
+      {
+        "lang": "eu",
+        "name": "Ubarroi mottodun"
+      },
+      {
+        "lang": "fi",
+        "name": "Karimetso"
+      },
+      {
+        "lang": "fo",
+        "name": "Skarvur"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran huppé"
+      },
+      {
+        "lang": "ga",
+        "name": "Scaga"
+      },
+      {
+        "lang": "gd",
+        "name": "Sgarbh an Sgùmain"
+      },
+      {
+        "lang": "gl",
+        "name": "Corvo mariño cristado"
+      },
+      {
+        "lang": "gv",
+        "name": "Arragh Vooar"
+      },
+      {
+        "lang": "he",
+        "name": "קורמורן ימי"
+      },
+      {
+        "lang": "hr",
+        "name": "Morski Vranac"
+      },
+      {
+        "lang": "hu",
+        "name": "Üstökös kárókatona"
+      },
+      {
+        "lang": "is",
+        "name": "Toppskarfur"
+      },
+      {
+        "lang": "it",
+        "name": "Marangone dal ciuffo"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパヒメウ"
+      },
+      {
+        "lang": "ka",
+        "name": "ქოჩორა ჩვამა"
+      },
+      {
+        "lang": "kk",
+        "name": "Кекілді суқүзғын"
+      },
+      {
+        "lang": "lt",
+        "name": "Kuoduotasis kormoranas"
+      },
+      {
+        "lang": "lv",
+        "name": "Cekulainais jūras krauklis"
+      },
+      {
+        "lang": "mk",
+        "name": "Морски корморан"
+      },
+      {
+        "lang": "mt",
+        "name": "Margun tat-Toppu"
+      },
+      {
+        "lang": "nl",
+        "name": "Kuifaalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Toppskarv"
+      },
+      {
+        "lang": "no",
+        "name": "Toppskarv"
+      },
+      {
+        "lang": "pcd",
+        "name": "Camàrin hupèi"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran czubaty"
+      },
+      {
+        "lang": "pt",
+        "name": "Corvo-marinho-de-crista"
+      },
+      {
+        "lang": "rm",
+        "name": "Cormoran da la cresta"
+      },
+      {
+        "lang": "ru",
+        "name": "Хохлатый баклан"
+      },
+      {
+        "lang": "se",
+        "name": "Skárffaš"
+      },
+      {
+        "lang": "sk",
+        "name": "Kormorán chochlatý"
+      },
+      {
+        "lang": "sl",
+        "name": "Vranjek"
+      },
+      {
+        "lang": "sq",
+        "name": "Karabullaku me çafkë"
+      },
+      {
+        "lang": "sr",
+        "name": "Cubasti kormoran - Морски корморан"
+      },
+      {
+        "lang": "sv",
+        "name": "Toppskarv"
+      },
+      {
+        "lang": "tr",
+        "name": "Tepeli karabatak"
+      },
+      {
+        "lang": "uk",
+        "name": "Чубатий баклан"
+      },
+      {
+        "lang": "zh",
+        "name": "歐洲綠鸕鶿"
+      }
+    ]
+  }
+]

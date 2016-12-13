@@ -1,0 +1,348 @@
+[
+  {
+    "scientific_name": "Lyrurus tetrix",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "طيهوج أسود"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Tetervėns"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Цецярук"
+      },
+      {
+        "lang": "be",
+        "name": "Цецярук"
+      },
+      {
+        "lang": "bg",
+        "name": "Тетрев"
+      },
+      {
+        "lang": "br",
+        "name": "Skilgog du"
+      },
+      {
+        "lang": "ca",
+        "name": "Gall de cua forcada"
+      },
+      {
+        "lang": "cs",
+        "name": "Tetřívek obecný"
+      },
+      {
+        "lang": "csb",
+        "name": "Zwëczajny cetrzéw"
+      },
+      {
+        "lang": "cv",
+        "name": "Ăсан"
+      },
+      {
+        "lang": "cw",
+        "name": "Culyek du"
+      },
+      {
+        "lang": "cy",
+        "name": "Grugiar Ddu"
+      },
+      {
+        "lang": "da",
+        "name": "Urfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Birkhuhn"
+      },
+      {
+        "lang": "diq",
+        "name": "Kerga bırri"
+      },
+      {
+        "lang": "dsb",
+        "name": "Źiwa kokoš"
+      },
+      {
+        "lang": "el",
+        "name": "Λυροπετεινός"
+      },
+      {
+        "lang": "en",
+        "name": "Black Grouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Tetro"
+      },
+      {
+        "lang": "es",
+        "name": "Gallo lira"
+      },
+      {
+        "lang": "et",
+        "name": "Teder"
+      },
+      {
+        "lang": "eu",
+        "name": "Lira-oilar"
+      },
+      {
+        "lang": "fa",
+        "name": "سیاه‌خروس سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Teeri"
+      },
+      {
+        "lang": "fo",
+        "name": "Orri"
+      },
+      {
+        "lang": "fr",
+        "name": "Tétras lyre"
+      },
+      {
+        "lang": "fur",
+        "name": "Gjal forcel"
+      },
+      {
+        "lang": "fy",
+        "name": "Kuorhin"
+      },
+      {
+        "lang": "ga",
+        "name": "Liathchearc"
+      },
+      {
+        "lang": "gd",
+        "name": "Coileach dubh"
+      },
+      {
+        "lang": "gl",
+        "name": "Galo lira"
+      },
+      {
+        "lang": "gv",
+        "name": "Kellagh doo"
+      },
+      {
+        "lang": "he",
+        "name": "שכווי שחור"
+      },
+      {
+        "lang": "hr",
+        "name": "Mali tetrijeb"
+      },
+      {
+        "lang": "hsb",
+        "name": "Brězan"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyírfajd"
+      },
+      {
+        "lang": "is",
+        "name": "Orri"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano di monte"
+      },
+      {
+        "lang": "ja",
+        "name": "クロライチョウ"
+      },
+      {
+        "lang": "kbd",
+        "name": "Тафэмысырджэд"
+      },
+      {
+        "lang": "kjn",
+        "name": "Кÿркÿ"
+      },
+      {
+        "lang": "kk",
+        "name": "Құр"
+      },
+      {
+        "lang": "ko",
+        "name": "멧닭"
+      },
+      {
+        "lang": "ky",
+        "name": "Кара кур"
+      },
+      {
+        "lang": "lad",
+        "name": "gial fosch"
+      },
+      {
+        "lang": "lb",
+        "name": "Bierkhong"
+      },
+      {
+        "lang": "lt",
+        "name": "Tetervinas"
+      },
+      {
+        "lang": "ltg",
+        "name": "Rubyns"
+      },
+      {
+        "lang": "lv",
+        "name": "Rubenis"
+      },
+      {
+        "lang": "mk",
+        "name": "Мал тетреб"
+      },
+      {
+        "lang": "mn",
+        "name": "Хур"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹдӹр"
+      },
+      {
+        "lang": "my",
+        "name": "ခြေမွေးမဲ့ရစ်နက်"
+      },
+      {
+        "lang": "myv",
+        "name": "Вирь сараз"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Korhoonder"
+      },
+      {
+        "lang": "nl",
+        "name": "Korhoen"
+      },
+      {
+        "lang": "nn",
+        "name": "Orrfugl"
+      },
+      {
+        "lang": "no",
+        "name": "Orrfugl"
+      },
+      {
+        "lang": "oc",
+        "name": "gal salvatge"
+      },
+      {
+        "lang": "pl",
+        "name": "Cietrzew zwyczajny"
+      },
+      {
+        "lang": "pt",
+        "name": "Galo-lira"
+      },
+      {
+        "lang": "rm",
+        "name": "Cot"
+      },
+      {
+        "lang": "ro",
+        "name": "Cocoș de mesteacăn"
+      },
+      {
+        "lang": "ru",
+        "name": "Тетерев-косач"
+      },
+      {
+        "lang": "sah",
+        "name": "Куртуйах"
+      },
+      {
+        "lang": "sc",
+        "name": "Cirolitta"
+      },
+      {
+        "lang": "se",
+        "name": "Hurri"
+      },
+      {
+        "lang": "sk",
+        "name": "Tetrov hoľniak"
+      },
+      {
+        "lang": "sl",
+        "name": "Ruševec"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjeli i egër bishtlirë"
+      },
+      {
+        "lang": "sr",
+        "name": "Mali - Мали"
+      },
+      {
+        "lang": "sv",
+        "name": "Orre"
+      },
+      {
+        "lang": "tk",
+        "name": "Orman horozu"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara orman tavuğu"
+      },
+      {
+        "lang": "tt",
+        "name": "Озан"
+      },
+      {
+        "lang": "tyv",
+        "name": "Күртү"
+      },
+      {
+        "lang": "uk",
+        "name": "Тетерук"
+      },
+      {
+        "lang": "vep",
+        "name": "Tedr"
+      },
+      {
+        "lang": "zh",
+        "name": "黑琴鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lyrurus mlokosiewiczi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Caucasian Black Grouse"
+      },
+      {
+        "lang": "fr",
+        "name": "Tétras du Caucase"
+      },
+      {
+        "lang": "hy",
+        "name": "Մայրեհավ կովակասյան"
+      },
+      {
+        "lang": "sv",
+        "name": "Kaukasisk orre"
+      },
+      {
+        "lang": "tr",
+        "name": "Huş Tavuğu"
+      }
+    ]
+  }
+]

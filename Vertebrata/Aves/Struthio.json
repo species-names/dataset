@@ -1,0 +1,601 @@
+[
+  {
+    "scientific_name": "Struthio wimani",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Struthio orlovi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Struthio mongolicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Struthio chersonensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Struthio brachydactylus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Struthio anderssoni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Struthio molybdophanes",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Struskañval Somalia"
+      },
+      {
+        "lang": "ca",
+        "name": "Estruç somali"
+      },
+      {
+        "lang": "da",
+        "name": "Somalistruds"
+      },
+      {
+        "lang": "de",
+        "name": "Somalistrauß"
+      },
+      {
+        "lang": "en",
+        "name": "Somali Ostrich"
+      },
+      {
+        "lang": "eo",
+        "name": "Somalia struto"
+      },
+      {
+        "lang": "es",
+        "name": "Avestruz somalí"
+      },
+      {
+        "lang": "fa",
+        "name": "شترمرغ سومالی"
+      },
+      {
+        "lang": "fi",
+        "name": "Somalianstrutsi"
+      },
+      {
+        "lang": "fr",
+        "name": "Autruche de Somalie"
+      },
+      {
+        "lang": "hr",
+        "name": "Somalijski noj"
+      },
+      {
+        "lang": "it",
+        "name": "Struzzo somalo"
+      },
+      {
+        "lang": "nl",
+        "name": "Somalische struisvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Struś szaroskóry"
+      },
+      {
+        "lang": "ru",
+        "name": "Сомалийский страус"
+      },
+      {
+        "lang": "so",
+        "name": "Goronyo soomaaliyeed"
+      },
+      {
+        "lang": "sv",
+        "name": "Somaliastruts"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระจอกเทศโซมาลี"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Struthio camelus massaicus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Massaistrauß"
+      },
+      {
+        "lang": "en",
+        "name": "Masai Ostrich"
+      },
+      {
+        "lang": "fi",
+        "name": "Masaistrutsi"
+      },
+      {
+        "lang": "fr",
+        "name": "Autruche masaï"
+      },
+      {
+        "lang": "it",
+        "name": "Struzzo masai"
+      },
+      {
+        "lang": "li",
+        "name": "Masaïstruus"
+      },
+      {
+        "lang": "pl",
+        "name": "Struś masajski"
+      },
+      {
+        "lang": "pt",
+        "name": "Avestruz Masai"
+      },
+      {
+        "lang": "ru",
+        "name": "Масайский страус"
+      },
+      {
+        "lang": "sw",
+        "name": "Mbuni masai"
+      },
+      {
+        "lang": "zh",
+        "name": "东非鸵鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Struthio camelus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Volstruis"
+      },
+      {
+        "lang": "ak",
+        "name": "Sohori"
+      },
+      {
+        "lang": "am",
+        "name": "ሰጎን"
+      },
+      {
+        "lang": "an",
+        "name": "Estruzio"
+      },
+      {
+        "lang": "ang",
+        "name": "Strȳta"
+      },
+      {
+        "lang": "ar",
+        "name": "نعامة"
+      },
+      {
+        "lang": "av",
+        "name": "ВаранихӀинчӀ"
+      },
+      {
+        "lang": "az",
+        "name": "Dəvəquşu"
+      },
+      {
+        "lang": "be",
+        "name": "Страус"
+      },
+      {
+        "lang": "bg",
+        "name": "Щраус"
+      },
+      {
+        "lang": "bn",
+        "name": "উটপাখি"
+      },
+      {
+        "lang": "br",
+        "name": "Struskañval"
+      },
+      {
+        "lang": "bs",
+        "name": "Noj"
+      },
+      {
+        "lang": "ca",
+        "name": "Estruç"
+      },
+      {
+        "lang": "cdo",
+        "name": "Dò̤-nēu"
+      },
+      {
+        "lang": "chr",
+        "name": "ᎬᎾ ᎤᏔᎾ"
+      },
+      {
+        "lang": "ckb",
+        "name": "وشترمر"
+      },
+      {
+        "lang": "cs",
+        "name": "Pštros dvouprstý"
+      },
+      {
+        "lang": "cy",
+        "name": "Estrys"
+      },
+      {
+        "lang": "da",
+        "name": "Afrikansk struds"
+      },
+      {
+        "lang": "de",
+        "name": "Afrikanischer Strauß"
+      },
+      {
+        "lang": "el",
+        "name": "Στρουθοκάμηλος"
+      },
+      {
+        "lang": "en",
+        "name": "Common Ostrich"
+      },
+      {
+        "lang": "eo",
+        "name": "Struto"
+      },
+      {
+        "lang": "es",
+        "name": "Avestruz"
+      },
+      {
+        "lang": "et",
+        "name": "Jaanalind"
+      },
+      {
+        "lang": "eu",
+        "name": "Ostruka"
+      },
+      {
+        "lang": "fa",
+        "name": "شترمرغ"
+      },
+      {
+        "lang": "fi",
+        "name": "Strutsi"
+      },
+      {
+        "lang": "fo",
+        "name": "Strutsur"
+      },
+      {
+        "lang": "fr",
+        "name": "Autruche d’Afrique"
+      },
+      {
+        "lang": "gan",
+        "name": "鴕鳥"
+      },
+      {
+        "lang": "ga",
+        "name": "Ostrais"
+      },
+      {
+        "lang": "gd",
+        "name": "Struth"
+      },
+      {
+        "lang": "gl",
+        "name": "Avestruz"
+      },
+      {
+        "lang": "hak",
+        "name": "Thò-niâu"
+      },
+      {
+        "lang": "ha",
+        "name": "Jimina"
+      },
+      {
+        "lang": "he",
+        "name": "יען"
+      },
+      {
+        "lang": "hi",
+        "name": "शुतुरमुर्ग"
+      },
+      {
+        "lang": "hr",
+        "name": "Noj"
+      },
+      {
+        "lang": "hu",
+        "name": "Strucc"
+      },
+      {
+        "lang": "hy",
+        "name": "Ջայլամ"
+      },
+      {
+        "lang": "id",
+        "name": "Burung unta"
+      },
+      {
+        "lang": "ido",
+        "name": "Strucho"
+      },
+      {
+        "lang": "ilo",
+        "name": "Abestrus"
+      },
+      {
+        "lang": "io",
+        "name": "Strucho"
+      },
+      {
+        "lang": "it",
+        "name": "Struzzo"
+      },
+      {
+        "lang": "ja",
+        "name": "ダチョウ"
+      },
+      {
+        "lang": "jbo",
+        "name": "strutione"
+      },
+      {
+        "lang": "jv",
+        "name": "Manuk unta"
+      },
+      {
+        "lang": "ka",
+        "name": "აფრიკული სირაქლემა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Махъшэбзу"
+      },
+      {
+        "lang": "kk",
+        "name": "Түйеқұс"
+      },
+      {
+        "lang": "kn",
+        "name": "ಉಷ್ಟ್ರ"
+      },
+      {
+        "lang": "ko",
+        "name": "타조"
+      },
+      {
+        "lang": "ku",
+        "name": "Hêştirme"
+      },
+      {
+        "lang": "lbe",
+        "name": "Варани чӀелму"
+      },
+      {
+        "lang": "li",
+        "name": "Struusvogel"
+      },
+      {
+        "lang": "lt",
+        "name": "Afrikinis strutis"
+      },
+      {
+        "lang": "lv",
+        "name": "Strauss"
+      },
+      {
+        "lang": "mk",
+        "name": "Ној"
+      },
+      {
+        "lang": "ml",
+        "name": "ഒട്ടകപ്പക്ഷി"
+      },
+      {
+        "lang": "mr",
+        "name": "शहामृग"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Unta"
+      },
+      {
+        "lang": "my",
+        "name": "ငှက်ကုလားအုတ်"
+      },
+      {
+        "lang": "ne",
+        "name": "अस्ट्रिच"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse struisvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Struts"
+      },
+      {
+        "lang": "no",
+        "name": "Struts"
+      },
+      {
+        "lang": "nso",
+        "name": "Mpšhe"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsíditsoh"
+      },
+      {
+        "lang": "oc",
+        "name": "Estruci"
+      },
+      {
+        "lang": "pcd",
+        "name": "Oetriche"
+      },
+      {
+        "lang": "pl",
+        "name": "Struś czerwonoskóry"
+      },
+      {
+        "lang": "pnb",
+        "name": "شترمرغ"
+      },
+      {
+        "lang": "ps",
+        "name": "اوښمرغه"
+      },
+      {
+        "lang": "pt",
+        "name": "Avestruz"
+      },
+      {
+        "lang": "qu",
+        "name": "Awistrus"
+      },
+      {
+        "lang": "ro",
+        "name": "Struț"
+      },
+      {
+        "lang": "ru",
+        "name": "Страус африканский"
+      },
+      {
+        "lang": "scn",
+        "name": "Struzzu"
+      },
+      {
+        "lang": "sco",
+        "name": "Ostrich"
+      },
+      {
+        "lang": "sd",
+        "name": "اٺ پکي"
+      },
+      {
+        "lang": "sh",
+        "name": "Noj"
+      },
+      {
+        "lang": "si",
+        "name": "පැස්බරා"
+      },
+      {
+        "lang": "sk",
+        "name": "Pštros dvojprstý"
+      },
+      {
+        "lang": "sl",
+        "name": "Noj"
+      },
+      {
+        "lang": "sn",
+        "name": "Mhou"
+      },
+      {
+        "lang": "so",
+        "name": "Goronyo"
+      },
+      {
+        "lang": "sr",
+        "name": "Ној"
+      },
+      {
+        "lang": "sv",
+        "name": "Struts"
+      },
+      {
+        "lang": "sw",
+        "name": "Mbuni kawaida"
+      },
+      {
+        "lang": "ta",
+        "name": "தீக்கோழி"
+      },
+      {
+        "lang": "te",
+        "name": "నిప్పుకోడి"
+      },
+      {
+        "lang": "tg",
+        "name": "Шутурмурғ"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระจอกเทศ"
+      },
+      {
+        "lang": "tl",
+        "name": "Abestrus"
+      },
+      {
+        "lang": "tr",
+        "name": "Deve kuşu"
+      },
+      {
+        "lang": "tum",
+        "name": "Ntibatiba"
+      },
+      {
+        "lang": "udm",
+        "name": "Страус"
+      },
+      {
+        "lang": "ug",
+        "name": "تۆگىقۇش"
+      },
+      {
+        "lang": "uk",
+        "name": "Страус"
+      },
+      {
+        "lang": "ur",
+        "name": "شتر مرغ"
+      },
+      {
+        "lang": "vi",
+        "name": "Đà điểu châu Phi"
+      },
+      {
+        "lang": "vls",
+        "name": "Struusveugel"
+      },
+      {
+        "lang": "yi",
+        "name": "שטרויס"
+      },
+      {
+        "lang": "yo",
+        "name": "Ògòngò"
+      },
+      {
+        "lang": "zea",
+        "name": "Struusveugel"
+      },
+      {
+        "lang": "zh",
+        "name": "鴕鳥"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "鴕鳥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Struthio asiaticus",
+    "common_names": []
+  }
+]

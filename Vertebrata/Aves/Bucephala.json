@@ -1,0 +1,413 @@
+[
+  {
+    "scientific_name": "Bucephala islandica",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Garv-Island"
+      },
+      {
+        "lang": "cs",
+        "name": "hohol islandský"
+      },
+      {
+        "lang": "da",
+        "name": "Islandsk Hvinand"
+      },
+      {
+        "lang": "de",
+        "name": "Spatelente"
+      },
+      {
+        "lang": "en",
+        "name": "Barrow's Goldeneye"
+      },
+      {
+        "lang": "eo",
+        "name": "Islanda klangulo"
+      },
+      {
+        "lang": "es",
+        "name": "Porrón Islándico"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikantelkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Garrot d'Islande"
+      },
+      {
+        "lang": "hu",
+        "name": "Izlandi kerceréce"
+      },
+      {
+        "lang": "is",
+        "name": "Húsönd"
+      },
+      {
+        "lang": "it",
+        "name": "Quattrocchi islandico"
+      },
+      {
+        "lang": "ja",
+        "name": "キタホオジロガモ",
+        "synonyms": [
+          "kitahoojirogamo"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Ijslandse brilduiker"
+      },
+      {
+        "lang": "no",
+        "name": "Islandsand"
+      },
+      {
+        "lang": "pl",
+        "name": "sierpiec"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato da Islândia"
+      },
+      {
+        "lang": "ru",
+        "name": "Исландский гоголь"
+      },
+      {
+        "lang": "sk",
+        "name": "hlaholka veľká"
+      },
+      {
+        "lang": "sv",
+        "name": "Islandsknipa"
+      },
+      {
+        "lang": "zh",
+        "name": "巴氏鹊鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bucephala clangula",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بط ذهبي العين"
+      },
+      {
+        "lang": "az",
+        "name": "Adi meşəördəyi"
+      },
+      {
+        "lang": "ba",
+        "name": "Боған"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Гогаль звычайны"
+      },
+      {
+        "lang": "be",
+        "name": "Гогаль звычайны"
+      },
+      {
+        "lang": "bg",
+        "name": "Звънарка"
+      },
+      {
+        "lang": "br",
+        "name": "Garv lagad aour"
+      },
+      {
+        "lang": "ca",
+        "name": "Morell d'ulls grocs"
+      },
+      {
+        "lang": "cs",
+        "name": "Hohol severní"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden Lygad-aur"
+      },
+      {
+        "lang": "da",
+        "name": "Hvinand"
+      },
+      {
+        "lang": "de",
+        "name": "Schellente"
+      },
+      {
+        "lang": "en",
+        "name": "Common Goldeneye"
+      },
+      {
+        "lang": "eo",
+        "name": "Orokula klangulo"
+      },
+      {
+        "lang": "es",
+        "name": "Porrón osculado"
+      },
+      {
+        "lang": "et",
+        "name": "Sõtkas"
+      },
+      {
+        "lang": "eu",
+        "name": "Murgilari urrebegi"
+      },
+      {
+        "lang": "fi",
+        "name": "Telkkä"
+      },
+      {
+        "lang": "fo",
+        "name": "Súgont"
+      },
+      {
+        "lang": "fr",
+        "name": "Garrot à œil d'or"
+      },
+      {
+        "lang": "frr",
+        "name": "Bralan"
+      },
+      {
+        "lang": "gag",
+        "name": "Altıngöz"
+      },
+      {
+        "lang": "gl",
+        "name": "Ollodourado"
+      },
+      {
+        "lang": "hu",
+        "name": "Kerceréce"
+      },
+      {
+        "lang": "hy",
+        "name": "Սոնաբադ"
+      },
+      {
+        "lang": "is",
+        "name": "Hvinönd"
+      },
+      {
+        "lang": "it",
+        "name": "Quattrocchi comune"
+      },
+      {
+        "lang": "ja",
+        "name": "ホオジロガモ"
+      },
+      {
+        "lang": "lt",
+        "name": "Klykuolė"
+      },
+      {
+        "lang": "lv",
+        "name": "Gaigala"
+      },
+      {
+        "lang": "mn",
+        "name": "Алаг шунгаач"
+      },
+      {
+        "lang": "mrj",
+        "name": "Алашоэ"
+      },
+      {
+        "lang": "nl",
+        "name": "Brilduiker"
+      },
+      {
+        "lang": "nn",
+        "name": "Kvinand"
+      },
+      {
+        "lang": "no",
+        "name": "Kvinand"
+      },
+      {
+        "lang": "nv",
+        "name": "Naalʼeełí binááʼ łitsooígíí"
+      },
+      {
+        "lang": "pcd",
+        "name": "Pilé-non.nette"
+      },
+      {
+        "lang": "pl",
+        "name": "Gągoł"
+      },
+      {
+        "lang": "pnb",
+        "name": "عام سنہری اکھ"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-olho-d'ouro"
+      },
+      {
+        "lang": "ru",
+        "name": "Гоголь",
+        "synonyms": [
+          "Обыкновенный гоголь"
+        ]
+      },
+      {
+        "lang": "rue",
+        "name": "Чернеть криклива"
+      },
+      {
+        "lang": "sah",
+        "name": "Орулуос"
+      },
+      {
+        "lang": "se",
+        "name": "Čoađgi"
+      },
+      {
+        "lang": "sk",
+        "name": "Hlaholka severská"
+      },
+      {
+        "lang": "sv",
+        "name": "Knipa"
+      },
+      {
+        "lang": "tr",
+        "name": "Altıngöz"
+      },
+      {
+        "lang": "uk",
+        "name": "Гоголь"
+      },
+      {
+        "lang": "zh",
+        "name": "鹊鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bucephala albeola",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Garv kilpenn gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Morell capblanc"
+      },
+      {
+        "lang": "cs",
+        "name": "hohol bělavý"
+      },
+      {
+        "lang": "da",
+        "name": "Bøffeland"
+      },
+      {
+        "lang": "de",
+        "name": "Büffelkopfente"
+      },
+      {
+        "lang": "en",
+        "name": "Bufflehead",
+        "synonyms": [
+          "Woolhead"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Grandkapa klangulo"
+      },
+      {
+        "lang": "es",
+        "name": "Porrón coronado",
+        "synonyms": [
+          "pato moñudo",
+          "pato pinto",
+          "porrón albeola"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "pikkutelkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Garrot albéole",
+        "synonyms": [
+          "Petit Garrot"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfejű kerceréce"
+      },
+      {
+        "lang": "is",
+        "name": "Hjálmönd"
+      },
+      {
+        "lang": "it",
+        "name": "Quattrocchi minore"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメハジロ",
+        "synonyms": [
+          "himehajiro"
+        ]
+      },
+      {
+        "lang": "nah",
+        "name": "Āmanacocheh"
+      },
+      {
+        "lang": "nl",
+        "name": "Buffelkopeend"
+      },
+      {
+        "lang": "no",
+        "name": "Bøffeland"
+      },
+      {
+        "lang": "pl",
+        "name": "gągołek"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-de-touca-branca"
+      },
+      {
+        "lang": "ru",
+        "name": "Малый гоголь"
+      },
+      {
+        "lang": "sk",
+        "name": "hlaholka malá"
+      },
+      {
+        "lang": "sv",
+        "name": "Buffelhuvud"
+      },
+      {
+        "lang": "uk",
+        "name": "Малий гоголь"
+      },
+      {
+        "lang": "zh",
+        "name": "白枕鹊鸭"
+      }
+    ]
+  }
+]

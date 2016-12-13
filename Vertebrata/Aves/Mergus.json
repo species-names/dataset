@@ -1,0 +1,599 @@
+[
+  {
+    "scientific_name": "Mergus squamatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Morčák šupinatý"
+      },
+      {
+        "lang": "en",
+        "name": "Chinese Merganser"
+      },
+      {
+        "lang": "fi",
+        "name": "Amurinkoskelo"
+      },
+      {
+        "lang": "fr",
+        "name": "Harle de Chine"
+      },
+      {
+        "lang": "ja",
+        "name": "コウライアイサ"
+      },
+      {
+        "lang": "ko",
+        "name": "호사비오리"
+      },
+      {
+        "lang": "ru",
+        "name": "Чешуйчатый крохаль"
+      },
+      {
+        "lang": "zh",
+        "name": "中华秋沙鸭"
+      },
+      {
+        "lang": "sv",
+        "name": "Amurskrake"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mergus serrator",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بلقشة حمراء الصدر"
+      },
+      {
+        "lang": "ast",
+        "name": "Coríu Sierra"
+      },
+      {
+        "lang": "az",
+        "name": "Uzunburun pazdimdik"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡушы"
+      },
+      {
+        "lang": "be",
+        "name": "Крахаль даўгадзюбы"
+      },
+      {
+        "lang": "bg",
+        "name": "Среден нирец"
+      },
+      {
+        "lang": "br",
+        "name": "Heskenneg kuch"
+      },
+      {
+        "lang": "ca",
+        "name": "Bec de serra mitjà"
+      },
+      {
+        "lang": "cs",
+        "name": "Morčák prostřední"
+      },
+      {
+        "lang": "csb",
+        "name": "Mùcnica"
+      },
+      {
+        "lang": "cw",
+        "name": "Sedhor Brongough"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden Frongoch"
+      },
+      {
+        "lang": "da",
+        "name": "Toppet skallesluger"
+      },
+      {
+        "lang": "de",
+        "name": "Mittelsäger"
+      },
+      {
+        "lang": "el",
+        "name": "Θαλασσοβουττηκτής"
+      },
+      {
+        "lang": "en",
+        "name": "Red-breasted Merganser"
+      },
+      {
+        "lang": "eo",
+        "name": "Mezgranda merĝo"
+      },
+      {
+        "lang": "es",
+        "name": "Serreta mediana"
+      },
+      {
+        "lang": "et",
+        "name": "Rohukoskel"
+      },
+      {
+        "lang": "eu",
+        "name": "Zerra ertain"
+      },
+      {
+        "lang": "fa",
+        "name": "اردک ماهی‌خوار کاکلی"
+      },
+      {
+        "lang": "fi",
+        "name": "Tukkakoskelo"
+      },
+      {
+        "lang": "fo",
+        "name": "Toppont"
+      },
+      {
+        "lang": "fr",
+        "name": "Harle huppé"
+      },
+      {
+        "lang": "fy",
+        "name": "Bûnte Seachbek"
+      },
+      {
+        "lang": "ga",
+        "name": "Gairg"
+      },
+      {
+        "lang": "gd",
+        "name": "Sìolta Dhearg"
+      },
+      {
+        "lang": "gl",
+        "name": "Bec de serra mitjà"
+      },
+      {
+        "lang": "gv",
+        "name": "Thunnag Cleeau Yiarg"
+      },
+      {
+        "lang": "he",
+        "name": "מרגון בינוני"
+      },
+      {
+        "lang": "hr",
+        "name": "Mali ronac"
+      },
+      {
+        "lang": "ht",
+        "name": "Kanna fal wouj"
+      },
+      {
+        "lang": "hu",
+        "name": "Örvös bukó"
+      },
+      {
+        "lang": "hy",
+        "name": "Բադ սղոցակտուց"
+      },
+      {
+        "lang": "is",
+        "name": "Toppönd"
+      },
+      {
+        "lang": "it",
+        "name": "Smergo minore"
+      },
+      {
+        "lang": "iu",
+        "name": "Paaq"
+      },
+      {
+        "lang": "ja",
+        "name": "ウミアイサ"
+      },
+      {
+        "lang": "ka",
+        "name": "გრძელნისკარტა"
+      },
+      {
+        "lang": "kjn",
+        "name": "Орта сус"
+      },
+      {
+        "lang": "kk",
+        "name": "Секпілтєс бейнарық"
+      },
+      {
+        "lang": "kl",
+        "name": "Miteq siorartooq"
+      },
+      {
+        "lang": "ko",
+        "name": "바다비오리"
+      },
+      {
+        "lang": "lt",
+        "name": "Vidutinis dančiasnapis"
+      },
+      {
+        "lang": "lv",
+        "name": "Garknābja gaura"
+      },
+      {
+        "lang": "mk",
+        "name": "Среден потопник"
+      },
+      {
+        "lang": "mn",
+        "name": "Сэвгэр бохио"
+      },
+      {
+        "lang": "mt",
+        "name": "Serra"
+      },
+      {
+        "lang": "ne",
+        "name": "कुमथोप्ले मणितुण्डक"
+      },
+      {
+        "lang": "nl",
+        "name": "Middelste zaagbek"
+      },
+      {
+        "lang": "nn",
+        "name": "Siland"
+      },
+      {
+        "lang": "no",
+        "name": "Siland"
+      },
+      {
+        "lang": "oj",
+        "name": "ᑲᐊᐧᓯ`"
+      },
+      {
+        "lang": "pcd",
+        "name": "Hurlard"
+      },
+      {
+        "lang": "pl",
+        "name": "Szlachar"
+      },
+      {
+        "lang": "pnb",
+        "name": "رتی چھاتی آلی مرگانسر"
+      },
+      {
+        "lang": "pt",
+        "name": "Merganso-de-poupa"
+      },
+      {
+        "lang": "rm",
+        "name": "Marel mesaun"
+      },
+      {
+        "lang": "ru",
+        "name": "Средний крохаль"
+      },
+      {
+        "lang": "rue",
+        "name": "Середнїй крохаль"
+      },
+      {
+        "lang": "sah",
+        "name": "Улун"
+      },
+      {
+        "lang": "se",
+        "name": "Vuoktagoalsi"
+      },
+      {
+        "lang": "sk",
+        "name": "Potápač prostredný"
+      },
+      {
+        "lang": "sl",
+        "name": "Srednja žagarica"
+      },
+      {
+        "lang": "sq",
+        "name": "Zhytësi i mesëm me callme"
+      },
+      {
+        "lang": "sr",
+        "name": "Средњи ронак"
+      },
+      {
+        "lang": "sv",
+        "name": "Småskrake"
+      },
+      {
+        "lang": "tr",
+        "name": "Tarakdiş"
+      },
+      {
+        "lang": "tyv",
+        "name": "Узун думчуктуг даргат"
+      },
+      {
+        "lang": "uk",
+        "name": "Крех середній"
+      },
+      {
+        "lang": "zh",
+        "name": "红胸秋沙鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mergus octosetaceus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Morčák paranský"
+      },
+      {
+        "lang": "en",
+        "name": "Brazilian Merganser"
+      },
+      {
+        "lang": "es",
+        "name": "Pato serrucho brasilero"
+      },
+      {
+        "lang": "fr",
+        "name": "Harle huppard"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-mergulhão"
+      },
+      {
+        "lang": "ru",
+        "name": "Бразильский крохаль"
+      },
+      {
+        "lang": "sv",
+        "name": "Cerradoskrake"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mergus milleneri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Mergus merganser",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Böyük pazdimdik"
+      },
+      {
+        "lang": "ba",
+        "name": "Беле"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Савук вялікі"
+      },
+      {
+        "lang": "be",
+        "name": "Крахаль вялікі"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям нирец"
+      },
+      {
+        "lang": "br",
+        "name": "Heskenneg bras"
+      },
+      {
+        "lang": "ca",
+        "name": "Bec de serra gros"
+      },
+      {
+        "lang": "cs",
+        "name": "Morčák velký"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden Ddanheddog"
+      },
+      {
+        "lang": "da",
+        "name": "Stor Skallesluger"
+      },
+      {
+        "lang": "de",
+        "name": "Gänsesäger"
+      },
+      {
+        "lang": "en",
+        "name": "Goosander"
+      },
+      {
+        "lang": "en-us",
+        "name": "Common Merganser"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda merĝo"
+      },
+      {
+        "lang": "es",
+        "name": "Serreta grande"
+      },
+      {
+        "lang": "et",
+        "name": "Jääkoskel"
+      },
+      {
+        "lang": "eu",
+        "name": "Zerra handi"
+      },
+      {
+        "lang": "fi",
+        "name": "Isokoskelo"
+      },
+      {
+        "lang": "fo",
+        "name": "Tannont"
+      },
+      {
+        "lang": "fr",
+        "name": "Harle bièvre"
+      },
+      {
+        "lang": "fy",
+        "name": "Grutte Seachbek"
+      },
+      {
+        "lang": "ga",
+        "name": "Síolta mhór"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy bukó"
+      },
+      {
+        "lang": "hy",
+        "name": "Բադ սղոցակտուց մեծ"
+      },
+      {
+        "lang": "is",
+        "name": "Gulönd"
+      },
+      {
+        "lang": "it",
+        "name": "Smergo maggiore"
+      },
+      {
+        "lang": "ja",
+        "name": "カワアイサ"
+      },
+      {
+        "lang": "kk",
+        "name": "Үлкен бейнарық"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis dančiasnapis"
+      },
+      {
+        "lang": "lv",
+        "name": "Lielā gaura"
+      },
+      {
+        "lang": "mn",
+        "name": "Хумхин нугас"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote zaagbek"
+      },
+      {
+        "lang": "nn",
+        "name": "Laksand"
+      },
+      {
+        "lang": "no",
+        "name": "Laksand"
+      },
+      {
+        "lang": "pcd",
+        "name": "Gueufe"
+      },
+      {
+        "lang": "pl",
+        "name": "Nurogęś"
+      },
+      {
+        "lang": "pnb",
+        "name": "عام مرگانسر"
+      },
+      {
+        "lang": "pt",
+        "name": "Merganso-grande"
+      },
+      {
+        "lang": "ru",
+        "name": "Большой крохаль"
+      },
+      {
+        "lang": "rue",
+        "name": "Великый крохаль"
+      },
+      {
+        "lang": "sah",
+        "name": "Үрүҥ улун"
+      },
+      {
+        "lang": "se",
+        "name": "Gussagoalsi"
+      },
+      {
+        "lang": "sk",
+        "name": "Potápač veľký"
+      },
+      {
+        "lang": "sv",
+        "name": "Storskrake"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük tarakdiş"
+      },
+      {
+        "lang": "zh",
+        "name": "普通秋沙鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mergus australis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Morčák aucklandský"
+      },
+      {
+        "lang": "en",
+        "name": "Auckland Islands Merganser"
+      },
+      {
+        "lang": "es",
+        "name": "Serreta de Auckland"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelänkoskelo"
+      },
+      {
+        "lang": "fr",
+        "name": "Harle austral"
+      },
+      {
+        "lang": "ja",
+        "name": "オークランドアイサ"
+      },
+      {
+        "lang": "pl",
+        "name": "Tracz auklandzki"
+      },
+      {
+        "lang": "sv",
+        "name": "Nyazeelandskrake"
+      },
+      {
+        "lang": "zh",
+        "name": "奧克蘭秋沙鴨"
+      }
+    ]
+  }
+]

@@ -1,0 +1,941 @@
+[
+  {
+    "scientific_name": "Ciconia stormi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čáp pestrý"
+      },
+      {
+        "lang": "en",
+        "name": "Storm's stork"
+      },
+      {
+        "lang": "es",
+        "name": "Cigüeña de Storm"
+      },
+      {
+        "lang": "nl",
+        "name": "Soenda-ooievaar"
+      },
+      {
+        "lang": "sv",
+        "name": "Storms stork",
+        "synonyms": [
+          "Rödnäbbad ullhalsstork"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ciconia nigra",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Grootswartooievaar"
+      },
+      {
+        "lang": "ar",
+        "name": "لقلق الأسود"
+      },
+      {
+        "lang": "ast",
+        "name": "Cigoña"
+      },
+      {
+        "lang": "av",
+        "name": "ЧӀегӀераб лакълакъ"
+      },
+      {
+        "lang": "az",
+        "name": "Qara leylək"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡауҙы"
+      },
+      {
+        "lang": "be",
+        "name": "Чорны бусел"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Чорны бусел"
+      },
+      {
+        "lang": "bg",
+        "name": "Черен щъркел"
+      },
+      {
+        "lang": "br",
+        "name": "C'hwibon zu"
+      },
+      {
+        "lang": "ca",
+        "name": "Cigonya negra"
+      },
+      {
+        "lang": "cs",
+        "name": "Čáp černý"
+      },
+      {
+        "lang": "csb",
+        "name": "Czôrny bòcón"
+      },
+      {
+        "lang": "cw",
+        "name": "Whybon dhu"
+      },
+      {
+        "lang": "cy",
+        "name": "Ciconia du"
+      },
+      {
+        "lang": "da",
+        "name": "Sort Stork"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzstorch"
+      },
+      {
+        "lang": "dsb",
+        "name": "Carny bóśon"
+      },
+      {
+        "lang": "el",
+        "name": "Μαυροπελαργός"
+      },
+      {
+        "lang": "en",
+        "name": "Black Stork"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigra cikonio"
+      },
+      {
+        "lang": "es",
+        "name": "Cigüeña negra"
+      },
+      {
+        "lang": "et",
+        "name": "Must-toonekurg"
+      },
+      {
+        "lang": "eu",
+        "name": "Amiamoko beltz"
+      },
+      {
+        "lang": "fa",
+        "name": "لک‌لک سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustahaikara"
+      },
+      {
+        "lang": "fo",
+        "name": "Svartstorkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Cigogne noire"
+      },
+      {
+        "lang": "frr",
+        "name": "Suart aarebaare"
+      },
+      {
+        "lang": "fy",
+        "name": "Swarte Earrebarre"
+      },
+      {
+        "lang": "ga",
+        "name": "Storc Dubh"
+      },
+      {
+        "lang": "gd",
+        "name": "Corra dubh"
+      },
+      {
+        "lang": "gl",
+        "name": "Cegoña negra"
+      },
+      {
+        "lang": "gv",
+        "name": "Coar ghoo"
+      },
+      {
+        "lang": "he",
+        "name": "חסידה שחורה"
+      },
+      {
+        "lang": "hr",
+        "name": "Crna roda"
+      },
+      {
+        "lang": "hsb",
+        "name": "Čorny baćon"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete gólya"
+      },
+      {
+        "lang": "hy",
+        "name": "Սև արագիլ"
+      },
+      {
+        "lang": "is",
+        "name": "Kolstorkur"
+      },
+      {
+        "lang": "it",
+        "name": "Cicogna nera"
+      },
+      {
+        "lang": "ja",
+        "name": "ナベコウ"
+      },
+      {
+        "lang": "ka",
+        "name": "ყარყატი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къырпсыхэуэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Қара дегелек"
+      },
+      {
+        "lang": "ko",
+        "name": "먹황새"
+      },
+      {
+        "lang": "ku",
+        "name": "Leglega reş"
+      },
+      {
+        "lang": "kwn",
+        "name": "Endongondongo"
+      },
+      {
+        "lang": "li",
+        "name": "Zwarte stork"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodasis gandras"
+      },
+      {
+        "lang": "ltg",
+        "name": "Malnuo žugure"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnais stārķis"
+      },
+      {
+        "lang": "mk",
+        "name": "Црн штрк"
+      },
+      {
+        "lang": "mn",
+        "name": "Хар өрөвтас"
+      },
+      {
+        "lang": "mr",
+        "name": "काळा करकोचा"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шим цӓрлӓнгӹ"
+      },
+      {
+        "lang": "mt",
+        "name": "Ċikonja Sewda"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte ooievaar"
+      },
+      {
+        "lang": "no",
+        "name": "Svartstork"
+      },
+      {
+        "lang": "pcd",
+        "name": "Chicon·nhe nòre"
+      },
+      {
+        "lang": "pl",
+        "name": "Bocian czarny"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالی سٹارک"
+      },
+      {
+        "lang": "pt",
+        "name": "Cegonha-preta"
+      },
+      {
+        "lang": "rm",
+        "name": "Cicogna naira"
+      },
+      {
+        "lang": "ro",
+        "name": "Barză neagră"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрный аист"
+      },
+      {
+        "lang": "rue",
+        "name": "Бузёк чорный"
+      },
+      {
+        "lang": "sah",
+        "name": "Хара эһир"
+      },
+      {
+        "lang": "se",
+        "name": "Cáhppesháigir"
+      },
+      {
+        "lang": "sh",
+        "name": "Crna roda - црна рода"
+      },
+      {
+        "lang": "sk",
+        "name": "Bocian čierny"
+      },
+      {
+        "lang": "sl",
+        "name": "Črna štorklja"
+      },
+      {
+        "lang": "sq",
+        "name": "Lejleku i zi"
+      },
+      {
+        "lang": "sr",
+        "name": "Црна рода"
+      },
+      {
+        "lang": "st",
+        "name": "Mokoroane"
+      },
+      {
+        "lang": "sv",
+        "name": "Svart Stork"
+      },
+      {
+        "lang": "sw",
+        "name": "Korongo Mweusi"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระสาดำ"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara leylek"
+      },
+      {
+        "lang": "tyv",
+        "name": "Шилен"
+      },
+      {
+        "lang": "uk",
+        "name": "Лелека чорний"
+      },
+      {
+        "lang": "vi",
+        "name": "Hạc đen"
+      },
+      {
+        "lang": "xh",
+        "name": "Unocofu"
+      },
+      {
+        "lang": "zh",
+        "name": "黑鹳"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "黑鹳"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "黑鸛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ciconia maguari",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čáp jihoamerický"
+      },
+      {
+        "lang": "en",
+        "name": "Maguari Stork"
+      },
+      {
+        "lang": "es",
+        "name": "Cigueña maguari"
+      },
+      {
+        "lang": "nl",
+        "name": "Magoeari"
+      },
+      {
+        "lang": "sv",
+        "name": "Maguaristork"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ciconia episcopus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Wolnekooievaar"
+      },
+      {
+        "lang": "cs",
+        "name": "Čáp bělokrký"
+      },
+      {
+        "lang": "en",
+        "name": "Woolly-necked Stork"
+      },
+      {
+        "lang": "es",
+        "name": "Cigüeña lanuda"
+      },
+      {
+        "lang": "ja",
+        "name": "エンビコウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bisschopsooievaar"
+      },
+      {
+        "lang": "sv",
+        "name": "Ullhalsstork"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ciconia ciconia",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witooievaar"
+      },
+      {
+        "lang": "als",
+        "name": "Stòòrch"
+      },
+      {
+        "lang": "an",
+        "name": "Ciguenya blanca"
+      },
+      {
+        "lang": "ar",
+        "name": "اللقلق",
+        "synonyms": [
+          "اللقلق الأبيض"
+        ]
+      },
+      {
+        "lang": "ast",
+        "name": "Cigoña"
+      },
+      {
+        "lang": "av",
+        "name": "ХъахӀаб лакълакъ"
+      },
+      {
+        "lang": "az",
+        "name": "Ağ leylək"
+      },
+      {
+        "lang": "bar",
+        "name": "Schtoach"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Busils"
+      },
+      {
+        "lang": "be",
+        "name": "Белы бусел"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Бусел белы"
+      },
+      {
+        "lang": "bg",
+        "name": "Бял щъркел"
+      },
+      {
+        "lang": "br",
+        "name": "C'hwibon wenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Cigonya blanca"
+      },
+      {
+        "lang": "cs",
+        "name": "Čáp bílý"
+      },
+      {
+        "lang": "csb",
+        "name": "Biôłi bòcón"
+      },
+      {
+        "lang": "cy",
+        "name": "Ciconia gwyn"
+      },
+      {
+        "lang": "da",
+        "name": "Hvid Stork"
+      },
+      {
+        "lang": "de",
+        "name": "Weißstorch"
+      },
+      {
+        "lang": "dsb",
+        "name": "Běły bóśon"
+      },
+      {
+        "lang": "el",
+        "name": "Λευκός Πελαργός"
+      },
+      {
+        "lang": "en",
+        "name": "White Stork"
+      },
+      {
+        "lang": "eo",
+        "name": "Blanka cikonio"
+      },
+      {
+        "lang": "es",
+        "name": "Cigüeña Blanca"
+      },
+      {
+        "lang": "et",
+        "name": "Valge-toonekurg"
+      },
+      {
+        "lang": "eu",
+        "name": "Amiamoko zuri"
+      },
+      {
+        "lang": "fa",
+        "name": "ک‌لک سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Kattohaikara"
+      },
+      {
+        "lang": "fo",
+        "name": "Storkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Cigogne blanche"
+      },
+      {
+        "lang": "frr",
+        "name": "Aarebaare"
+      },
+      {
+        "lang": "fur",
+        "name": "Cicogne"
+      },
+      {
+        "lang": "fy",
+        "name": "Earrebarre"
+      },
+      {
+        "lang": "ga",
+        "name": "Corr bhán"
+      },
+      {
+        "lang": "gd",
+        "name": "Corra Bhàn"
+      },
+      {
+        "lang": "gl",
+        "name": "Cegoña branca"
+      },
+      {
+        "lang": "gv",
+        "name": "Stork bane"
+      },
+      {
+        "lang": "ha",
+        "name": "Galantoyi"
+      },
+      {
+        "lang": "he",
+        "name": "חסידה לבנה"
+      },
+      {
+        "lang": "hi",
+        "name": "गैबर"
+      },
+      {
+        "lang": "hr",
+        "name": "Bijela roda"
+      },
+      {
+        "lang": "hsb",
+        "name": "Běły baćon"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehér gólya"
+      },
+      {
+        "lang": "hy",
+        "name": "Սպիտակ արագիլ"
+      },
+      {
+        "lang": "is",
+        "name": "Hvítstorkur"
+      },
+      {
+        "lang": "it",
+        "name": "Cicogna bianca"
+      },
+      {
+        "lang": "ja",
+        "name": "シュバシコ"
+      },
+      {
+        "lang": "ka",
+        "name": "ლაკლაკი"
+      },
+      {
+        "lang": "kbd",
+        "name": "ПсыхэуэщӀыбыпцӀэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Ақ дегелек"
+      },
+      {
+        "lang": "ko",
+        "name": "홍부리황새"
+      },
+      {
+        "lang": "ku",
+        "name": "Legleg",
+        "synonyms": [
+          "Hacîleqleq"
+        ]
+      },
+      {
+        "lang": "kw",
+        "name": "Hwibon wynn"
+      },
+      {
+        "lang": "kwn",
+        "name": "Nkumbinkumbi"
+      },
+      {
+        "lang": "la",
+        "name": "Ciconia"
+      },
+      {
+        "lang": "lb",
+        "name": "Storch"
+      },
+      {
+        "lang": "lbe",
+        "name": "ХӀажилаглаг"
+      },
+      {
+        "lang": "li",
+        "name": "Witte stork"
+      },
+      {
+        "lang": "lld",
+        "name": "Zicogna"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltasis gandras"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltais stārķis"
+      },
+      {
+        "lang": "mk",
+        "name": "Бел штрк"
+      },
+      {
+        "lang": "mr",
+        "name": "श्वेतबलाक"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ош цӓрлӓнгӹ"
+      },
+      {
+        "lang": "mt",
+        "name": "Ċikonja Bajda"
+      },
+      {
+        "lang": "my",
+        "name": "ထုံးစပ်ဖြူငှက်"
+      },
+      {
+        "lang": "nds",
+        "name": "Aadboor"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Wittn stoark"
+      },
+      {
+        "lang": "nl",
+        "name": "Ooievaar"
+      },
+      {
+        "lang": "nn",
+        "name": "Stork"
+      },
+      {
+        "lang": "no",
+        "name": "Stork"
+      },
+      {
+        "lang": "nso",
+        "name": "Leakaboswana le Lešweu"
+      },
+      {
+        "lang": "oc",
+        "name": "Cigonha"
+      },
+      {
+        "lang": "pcd",
+        "name": "Chicon·nhe"
+      },
+      {
+        "lang": "pl",
+        "name": "Bocian biały"
+      },
+      {
+        "lang": "pms",
+        "name": "Sicògna"
+      },
+      {
+        "lang": "pt",
+        "name": "Cegonha-branca"
+      },
+      {
+        "lang": "rm",
+        "name": "Cicogna alva"
+      },
+      {
+        "lang": "rmy",
+        "name": "Kokosturko"
+      },
+      {
+        "lang": "ro",
+        "name": "Barză"
+      },
+      {
+        "lang": "ru",
+        "name": "Белый аист"
+      },
+      {
+        "lang": "rue",
+        "name": "Бузёк"
+      },
+      {
+        "lang": "sc",
+        "name": "Cicňnnia"
+      },
+      {
+        "lang": "sco",
+        "name": "Stork"
+      },
+      {
+        "lang": "se",
+        "name": "Vilgesháigir"
+      },
+      {
+        "lang": "sh",
+        "name": "Bijela roda / бијела рода"
+      },
+      {
+        "lang": "sk",
+        "name": "Bocian biely"
+      },
+      {
+        "lang": "sl",
+        "name": "Bela štorklja"
+      },
+      {
+        "lang": "sn",
+        "name": "Shuramurove"
+      },
+      {
+        "lang": "sq",
+        "name": "Lejleku"
+      },
+      {
+        "lang": "sr",
+        "name": "Бела рода"
+      },
+      {
+        "lang": "st",
+        "name": "Mokoroane"
+      },
+      {
+        "lang": "stq",
+        "name": "Stoark"
+      },
+      {
+        "lang": "sv",
+        "name": "Vit stork"
+      },
+      {
+        "lang": "sw",
+        "name": "Korongo mweupe"
+      },
+      {
+        "lang": "ta",
+        "name": "செங்கால் நாரை"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระสาขาว"
+      },
+      {
+        "lang": "tn",
+        "name": "Lekôlôlwane"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak Leylek"
+      },
+      {
+        "lang": "tso",
+        "name": "Gumba"
+      },
+      {
+        "lang": "uk",
+        "name": "Лелека білий"
+      },
+      {
+        "lang": "vi",
+        "name": "Hạc trắng"
+      },
+      {
+        "lang": "xh",
+        "name": "Ingwamza"
+      },
+      {
+        "lang": "zea",
+        "name": "Ooievèr"
+      },
+      {
+        "lang": "zh",
+        "name": "白 鹳",
+        "synonyms": [
+          "白鹳"
+        ]
+      },
+      {
+        "lang": "zu",
+        "name": "uNogolantethe"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ciconia boyciana",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čáp východní"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzschnabelstorch"
+      },
+      {
+        "lang": "en",
+        "name": "Oriental Stork"
+      },
+      {
+        "lang": "es",
+        "name": "Cigüeña oriental"
+      },
+      {
+        "lang": "ja",
+        "name": "コウノトリ"
+      },
+      {
+        "lang": "ko",
+        "name": "황새"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartsnavelooievaar"
+      },
+      {
+        "lang": "sv",
+        "name": "Amurstork"
+      },
+      {
+        "lang": "zh",
+        "name": "東方白鸛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ciconia abdimii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čáp simbil"
+      },
+      {
+        "lang": "es",
+        "name": "Cigüeña de Abdim"
+      },
+      {
+        "lang": "ja",
+        "name": "アオハシコウ"
+      },
+      {
+        "lang": "pl",
+        "name": "Bocian białobrzuchy"
+      },
+      {
+        "lang": "tr",
+        "name": "Abdim leyleği"
+      }
+    ]
+  }
+]

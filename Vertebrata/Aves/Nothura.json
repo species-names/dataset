@@ -1,0 +1,147 @@
+[
+  {
+    "scientific_name": "Nothura minor",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama menší"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Nothura"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú menor"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit Tinamou"
+      },
+      {
+        "lang": "lt",
+        "name": "Mažoji notura"
+      },
+      {
+        "lang": "pt",
+        "name": "Codorna-mineira"
+      },
+      {
+        "lang": "sv",
+        "name": "Småtinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nothura maculosa",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama skvrnitá"
+      },
+      {
+        "lang": "en",
+        "name": "Spotted Nothura"
+      },
+      {
+        "lang": "es",
+        "name": "Inambú Común",
+        "synonyms": [
+          "Perdiz Común(ARG)",
+          "Tinamú manchado"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Tinamou tacheté"
+      },
+      {
+        "lang": "lt",
+        "name": "Dėmėtoji notura"
+      },
+      {
+        "lang": "nl",
+        "name": "Gevlekte nothura"
+      },
+      {
+        "lang": "pt",
+        "name": "Codorna-do-campo"
+      },
+      {
+        "lang": "sv",
+        "name": "Fläckig tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nothura darwinii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama Darwinova"
+      },
+      {
+        "lang": "en",
+        "name": "Darwin's Nothura"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú de Darwin"
+      },
+      {
+        "lang": "lt",
+        "name": "Darvinė notura"
+      },
+      {
+        "lang": "sv",
+        "name": "Darwins tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nothura chacoensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama pampová"
+      },
+      {
+        "lang": "en",
+        "name": "Chaco Nothura"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú chaqueño"
+      },
+      {
+        "lang": "lt",
+        "name": "Čakinė norura"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nothura boraquira",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama pastvinná"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú ventriblanco"
+      },
+      {
+        "lang": "en",
+        "name": "White-bellied Nothura"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltapilvė notura"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbukad tinamo"
+      }
+    ]
+  }
+]

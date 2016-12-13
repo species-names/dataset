@@ -1,0 +1,736 @@
+[
+  {
+    "scientific_name": "Melanitta perspicillata",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Черна американска потапница"
+      },
+      {
+        "lang": "br",
+        "name": "Duanenn vailh"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec negre americà"
+      },
+      {
+        "lang": "cs",
+        "name": "turpan pestrozobý"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-hwyaden yr ewyn"
+      },
+      {
+        "lang": "da",
+        "name": "Brilleand"
+      },
+      {
+        "lang": "de",
+        "name": "Brillenente"
+      },
+      {
+        "lang": "en",
+        "name": "Surf Scoter"
+      },
+      {
+        "lang": "eo",
+        "name": "Okulvitra maranaso"
+      },
+      {
+        "lang": "es",
+        "name": "Negrón costero"
+      },
+      {
+        "lang": "et",
+        "name": "prillvaeras"
+      },
+      {
+        "lang": "eu",
+        "name": "Ahatebeltz kopetazuri"
+      },
+      {
+        "lang": "fi",
+        "name": "pilkkaniska"
+      },
+      {
+        "lang": "fo",
+        "name": "Nakkahvít kolont"
+      },
+      {
+        "lang": "fr",
+        "name": "Macreuse à front blanc"
+      },
+      {
+        "lang": "ga",
+        "name": "Scótar Toinne"
+      },
+      {
+        "lang": "gl",
+        "name": "Pentumeiro careto"
+      },
+      {
+        "lang": "he",
+        "name": "קטיפנית משברים"
+      },
+      {
+        "lang": "hu",
+        "name": "Pápaszemes réce"
+      },
+      {
+        "lang": "is",
+        "name": "Krákönd"
+      },
+      {
+        "lang": "it",
+        "name": "Orco marino dagli occhiali"
+      },
+      {
+        "lang": "ja",
+        "name": "アラナミキンクロ",
+        "synonyms": [
+          "aranamikinkuro"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Baltakaktė nuodėgulė"
+      },
+      {
+        "lang": "nl",
+        "name": "Brilzee-eend"
+      },
+      {
+        "lang": "no",
+        "name": "Brilleand"
+      },
+      {
+        "lang": "pl",
+        "name": "uhla pstrodzioba"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-careto"
+      },
+      {
+        "lang": "ru",
+        "name": "Пестроносый турпан"
+      },
+      {
+        "lang": "sk",
+        "name": "turpan okuliarnatý"
+      },
+      {
+        "lang": "sl",
+        "name": "očalarka"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitnackad svärta"
+      },
+      {
+        "lang": "tr",
+        "name": "Yamalı Ördek"
+      },
+      {
+        "lang": "zh",
+        "name": "斑头海番鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Melanitta nigra",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بط أسقطور"
+      },
+      {
+        "lang": "ast",
+        "name": "Coríu Moru"
+      },
+      {
+        "lang": "az",
+        "name": "Qara qılquyruq"
+      },
+      {
+        "lang": "be",
+        "name": "Нырок-сіньга"
+      },
+      {
+        "lang": "bg",
+        "name": "Траурна потапница"
+      },
+      {
+        "lang": "br",
+        "name": "Duanenn voutin"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec negre"
+      },
+      {
+        "lang": "cs",
+        "name": "Turpan černý"
+      },
+      {
+        "lang": "cw",
+        "name": "Mor-hos du"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-hwyaden Ddu"
+      },
+      {
+        "lang": "da",
+        "name": "Sortand"
+      },
+      {
+        "lang": "de",
+        "name": "Trauerente"
+      },
+      {
+        "lang": "el",
+        "name": "Μαυρόπαπια"
+      },
+      {
+        "lang": "en",
+        "name": "Common Scoter"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigra maranaso"
+      },
+      {
+        "lang": "es",
+        "name": "Negrón común"
+      },
+      {
+        "lang": "et",
+        "name": "Mustvaeras"
+      },
+      {
+        "lang": "eu",
+        "name": "Ahatebeltz arrunt"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustalintu"
+      },
+      {
+        "lang": "fo",
+        "name": "Kolont"
+      },
+      {
+        "lang": "fr",
+        "name": "Macreuse noire"
+      },
+      {
+        "lang": "frr",
+        "name": "Suart an"
+      },
+      {
+        "lang": "ga",
+        "name": "Scótar dubh"
+      },
+      {
+        "lang": "gd",
+        "name": "Lach bheag dhub"
+      },
+      {
+        "lang": "gl",
+        "name": "Ànec negre",
+        "synonyms": [
+          "Parrulo pentumeiro"
+        ]
+      },
+      {
+        "lang": "gv",
+        "name": "Thunnag ghob chrottagh"
+      },
+      {
+        "lang": "he",
+        "name": "קטיפנית שחורה"
+      },
+      {
+        "lang": "hr",
+        "name": "Crna patka"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete réce"
+      },
+      {
+        "lang": "is",
+        "name": "Hrafnsönd"
+      },
+      {
+        "lang": "it",
+        "name": "Orchetto marino"
+      },
+      {
+        "lang": "ja",
+        "name": "クロガモ"
+      },
+      {
+        "lang": "kk",
+        "name": "Қара тұрпан"
+      },
+      {
+        "lang": "ko",
+        "name": "검둥오리"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodoji antis"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnā pīle"
+      },
+      {
+        "lang": "mt",
+        "name": "Borka Sewda"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte zee-eend"
+      },
+      {
+        "lang": "nn",
+        "name": "Svartand"
+      },
+      {
+        "lang": "no",
+        "name": "Svartand"
+      },
+      {
+        "lang": "pcd",
+        "name": "Grisette"
+      },
+      {
+        "lang": "pl",
+        "name": "Markaczka"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-preto"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda naira"
+      },
+      {
+        "lang": "ru",
+        "name": "Синьга"
+      },
+      {
+        "lang": "sah",
+        "name": "Буор атах анды"
+      },
+      {
+        "lang": "se",
+        "name": "Njurggu"
+      },
+      {
+        "lang": "sk",
+        "name": "Turpan čierny"
+      },
+      {
+        "lang": "sl",
+        "name": "Crna raca"
+      },
+      {
+        "lang": "sq",
+        "name": "Rosa e zezë"
+      },
+      {
+        "lang": "sr",
+        "name": "Crna plovka - Црна пловка"
+      },
+      {
+        "lang": "sv",
+        "name": "Sjöorre"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı kara ördek"
+      },
+      {
+        "lang": "uk",
+        "name": "Синьга"
+      },
+      {
+        "lang": "zh",
+        "name": "黑海番鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Melanitta fusca",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بط أسقطور مخملي"
+      },
+      {
+        "lang": "az",
+        "name": "Qılquyruq ördək"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡарасабан"
+      },
+      {
+        "lang": "bg",
+        "name": "Кадифена потапница"
+      },
+      {
+        "lang": "br",
+        "name": "Duanenn vras"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec fosc"
+      },
+      {
+        "lang": "cs",
+        "name": "Turpan hnědý"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-hwyaden y Gogledd"
+      },
+      {
+        "lang": "de",
+        "name": "Samtente"
+      },
+      {
+        "lang": "en",
+        "name": "Velvet Scoter"
+      },
+      {
+        "lang": "et",
+        "name": "Tõmmuvaeras"
+      },
+      {
+        "lang": "es",
+        "name": "Negrón especulado"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankspegula maranaso"
+      },
+      {
+        "lang": "eu",
+        "name": "Ahatebeltz hegazuri"
+      },
+      {
+        "lang": "fo",
+        "name": "Spegilsont"
+      },
+      {
+        "lang": "fr",
+        "name": "Macreuse brune"
+      },
+      {
+        "lang": "gl",
+        "name": "Parrulo mourelo"
+      },
+      {
+        "lang": "hy",
+        "name": "Տուրպան"
+      },
+      {
+        "lang": "is",
+        "name": "Korpönd"
+      },
+      {
+        "lang": "it",
+        "name": "Orco marino"
+      },
+      {
+        "lang": "kk",
+        "name": "Қара тұрпан"
+      },
+      {
+        "lang": "lt",
+        "name": "Nuodėgulė"
+      },
+      {
+        "lang": "lv",
+        "name": "Tumšā pīle"
+      },
+      {
+        "lang": "hu",
+        "name": "Füstös réce"
+      },
+      {
+        "lang": "mn",
+        "name": "Тольт монхдой"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote zee-eend"
+      },
+      {
+        "lang": "ja",
+        "name": "ビロードキンクロ"
+      },
+      {
+        "lang": "no",
+        "name": "Sjøorre"
+      },
+      {
+        "lang": "nn",
+        "name": "Sjøorre"
+      },
+      {
+        "lang": "pl",
+        "name": "Uhla"
+      },
+      {
+        "lang": "rue",
+        "name": "Нырка чорна"
+      },
+      {
+        "lang": "ru",
+        "name": "Турпан"
+      },
+      {
+        "lang": "sah",
+        "name": "Анды"
+      },
+      {
+        "lang": "se",
+        "name": "Skoarra"
+      },
+      {
+        "lang": "sl",
+        "name": "Beloliska"
+      },
+      {
+        "lang": "fi",
+        "name": "Pilkkasiipi"
+      },
+      {
+        "lang": "sv",
+        "name": "Svärta"
+      },
+      {
+        "lang": "tr",
+        "name": "Kadife ördek"
+      },
+      {
+        "lang": "uk",
+        "name": "Турпан"
+      },
+      {
+        "lang": "zh",
+        "name": "斑脸海番鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Melanitta deglandi",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Amerikansk Fløjlsand"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanische Samtente"
+      },
+      {
+        "lang": "en",
+        "name": "White-winged Scoter"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankaflugila maranaso"
+      },
+      {
+        "lang": "es",
+        "name": "Negrón aliblanco"
+      },
+      {
+        "lang": "et",
+        "name": "ameerika tõmmuvaeras"
+      },
+      {
+        "lang": "fi",
+        "name": "Kyhmypilkkasiipi"
+      },
+      {
+        "lang": "fr",
+        "name": "Macreuse à ailes blanches"
+      },
+      {
+        "lang": "he",
+        "name": "קטיפנית שחומה"
+      },
+      {
+        "lang": "hu",
+        "name": "tükrös réce"
+      },
+      {
+        "lang": "ik",
+        "name": "Tuunġaaġruk"
+      },
+      {
+        "lang": "it",
+        "name": "Orco marino americano"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカビロードキンクロ",
+        "synonyms": [
+          "birodo-kinkuro"
+        ]
+      },
+      {
+        "lang": "kjn",
+        "name": "Пугур аас хара öртек"
+      },
+      {
+        "lang": "kk",
+        "name": "Дөңтұмсық тұрпан"
+      },
+      {
+        "lang": "ko",
+        "name": "검둥오리사촌"
+      },
+      {
+        "lang": "mn",
+        "name": "Дорт нугас"
+      },
+      {
+        "lang": "nl",
+        "name": "Pacifische grote zee-eend"
+      },
+      {
+        "lang": "pl",
+        "name": "uhla amerykańska"
+      },
+      {
+        "lang": "ru",
+        "name": "Горбоносый турпан"
+      },
+      {
+        "lang": "sk",
+        "name": "turpan nosorohý"
+      },
+      {
+        "lang": "sv",
+        "name": "Knölsvärta"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak kanatlı kara ördek"
+      },
+      {
+        "lang": "tyv",
+        "name": "Тышпан"
+      },
+      {
+        "lang": "zh",
+        "name": "白色飞过的黑凫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Melanitta americana",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Amerika qılquyruğu"
+      },
+      {
+        "lang": "bg",
+        "name": "Черна потапница"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Sortand"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanische Trauerente"
+      },
+      {
+        "lang": "en",
+        "name": "Black Scoter"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika maranaso"
+      },
+      {
+        "lang": "es",
+        "name": "Negrón americano"
+      },
+      {
+        "lang": "et",
+        "name": "Ida-mustvaeras"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikanmustalintu"
+      },
+      {
+        "lang": "fr",
+        "name": "Macreuse à bec jaune"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyerges réce"
+      },
+      {
+        "lang": "it",
+        "name": "Orchetto marino americano"
+      },
+      {
+        "lang": "ja",
+        "name": "クロガモ"
+      },
+      {
+        "lang": "ko",
+        "name": "검둥오리"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse zee-eend"
+      },
+      {
+        "lang": "pl",
+        "name": "Markaczka amerykańska"
+      },
+      {
+        "lang": "ru",
+        "name": "Американская синьга"
+      },
+      {
+        "lang": "sah",
+        "name": "Америка буор атах андыта"
+      },
+      {
+        "lang": "sk",
+        "name": "Turpan americký"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk sjöorre"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt Scoter đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑海番鸭"
+      }
+    ]
+  }
+]

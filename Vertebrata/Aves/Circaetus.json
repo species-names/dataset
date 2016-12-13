@@ -1,0 +1,490 @@
+[
+  {
+    "scientific_name": "Circaetus rhodopensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Circaetus pectoralis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Swartborsslangarend"
+      },
+      {
+        "lang": "br",
+        "name": "Skoulerer jave du"
+      },
+      {
+        "lang": "ca",
+        "name": "Àguila serpentera pitnegra"
+      },
+      {
+        "lang": "cs",
+        "name": "Orlík tmavoprsý"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzbrust-Schlangenadler"
+      },
+      {
+        "lang": "en",
+        "name": "Black-chested Snake-Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera pechinegra"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب مارخور کاکل‌سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Savannikäärmekotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Circaète à poitrine noire"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketemellű kígyászölyv"
+      },
+      {
+        "lang": "it",
+        "name": "Biancone pettonero"
+      },
+      {
+        "lang": "ja",
+        "name": "ムナグロチュウヒワシ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartborstslangenarend"
+      },
+      {
+        "lang": "pl",
+        "name": "Gadożer białobrzuchy"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartbröstad ormörn"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circaetus gallicus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Swartborsslangarend"
+      },
+      {
+        "lang": "ar",
+        "name": "عقاب ابو الحيات"
+      },
+      {
+        "lang": "ast",
+        "name": "Aigla Cande"
+      },
+      {
+        "lang": "az",
+        "name": "Adi ilanyeyən"
+      },
+      {
+        "lang": "be",
+        "name": "Арлан-вужаед"
+      },
+      {
+        "lang": "bg",
+        "name": "Орел змияр"
+      },
+      {
+        "lang": "br",
+        "name": "Ar skoulerer hañv"
+      },
+      {
+        "lang": "ca",
+        "name": "Àguila marcenca"
+      },
+      {
+        "lang": "cs",
+        "name": "Orlík krátkoprstý"
+      },
+      {
+        "lang": "cy",
+        "name": "Eryr byrfys"
+      },
+      {
+        "lang": "da",
+        "name": "Slangeørn"
+      },
+      {
+        "lang": "de",
+        "name": "Schlangenadler"
+      },
+      {
+        "lang": "el",
+        "name": "Φιδαετός"
+      },
+      {
+        "lang": "en",
+        "name": "Short-toed Eagle",
+        "synonyms": [
+          "Short-toed Snake-Eagle"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Serpentaglo"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera Europea"
+      },
+      {
+        "lang": "et",
+        "name": "Madukotkas"
+      },
+      {
+        "lang": "eu",
+        "name": "Àguila marcenca"
+      },
+      {
+        "lang": "fi",
+        "name": "käärmekotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Circaète Jean-le-Blanc"
+      },
+      {
+        "lang": "gl",
+        "name": "Aguia cobreira"
+      },
+      {
+        "lang": "he",
+        "name": "חויאי"
+      },
+      {
+        "lang": "hr",
+        "name": "Zmijar"
+      },
+      {
+        "lang": "hu",
+        "name": "Kígyászölyv"
+      },
+      {
+        "lang": "hy",
+        "name": "Արծիվ օձակեր"
+      },
+      {
+        "lang": "id",
+        "name": "Elangular Jari-pendek"
+      },
+      {
+        "lang": "is",
+        "name": "Snákerna"
+      },
+      {
+        "lang": "it",
+        "name": "Biancone"
+      },
+      {
+        "lang": "ja",
+        "name": "チュウヒワシ"
+      },
+      {
+        "lang": "ka",
+        "name": "გველიჭამია არწივი"
+      },
+      {
+        "lang": "kk",
+        "name": "Жыланжегіш бүркіт"
+      },
+      {
+        "lang": "lb",
+        "name": "Schlaangenadler"
+      },
+      {
+        "lang": "lt",
+        "name": "Gyvatėdis"
+      },
+      {
+        "lang": "lv",
+        "name": "Čūsku ērglis"
+      },
+      {
+        "lang": "mk",
+        "name": "Орел-змијар"
+      },
+      {
+        "lang": "ms",
+        "name": "Helang Ular"
+      },
+      {
+        "lang": "mt",
+        "name": "Ajkla Bajda"
+      },
+      {
+        "lang": "nl",
+        "name": "Slangenarend"
+      },
+      {
+        "lang": "no",
+        "name": "Slangeørn"
+      },
+      {
+        "lang": "pl",
+        "name": "Gadożer"
+      },
+      {
+        "lang": "pt",
+        "name": "Águia-cobreira"
+      },
+      {
+        "lang": "rm",
+        "name": "Evla alva"
+      },
+      {
+        "lang": "ro",
+        "name": "Serparul"
+      },
+      {
+        "lang": "ru",
+        "name": "Змееяд"
+      },
+      {
+        "lang": "sk",
+        "name": "Hadiar krátkoprstý"
+      },
+      {
+        "lang": "sl",
+        "name": "Kačar"
+      },
+      {
+        "lang": "sq",
+        "name": "Shqiponja gjarperngrenese"
+      },
+      {
+        "lang": "sr",
+        "name": "orao zmijar / Орао змијар"
+      },
+      {
+        "lang": "sv",
+        "name": "Ormörn"
+      },
+      {
+        "lang": "ta",
+        "name": "Onan Kothi Kazhugu"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวนิ้วสั้น"
+      },
+      {
+        "lang": "tr",
+        "name": "Yılan kartalı"
+      },
+      {
+        "lang": "uk",
+        "name": "Змієїд",
+        "synonyms": [
+          "крачун"
+        ]
+      },
+      {
+        "lang": "vi",
+        "name": "Diều ngón ngắn"
+      },
+      {
+        "lang": "zh",
+        "name": "短趾雕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circaetus fasciolatus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Dubbelbandslangarend"
+      },
+      {
+        "lang": "br",
+        "name": "Skoulerer roudennek"
+      },
+      {
+        "lang": "cs",
+        "name": "Orlík jižní"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Banded Snake-eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera barreada"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب مارخور نواری جنوبی"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkukäärmekotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Circaète barré"
+      },
+      {
+        "lang": "hu",
+        "name": "Parti kígyászölyv"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze slangenarend"
+      },
+      {
+        "lang": "pl",
+        "name": "Gadożer krótkoskrzydły"
+      },
+      {
+        "lang": "sv",
+        "name": "Kustormörn"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circaetus cinereus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bruinslangarend"
+      },
+      {
+        "lang": "cs",
+        "name": "Orlík hnědý"
+      },
+      {
+        "lang": "de",
+        "name": "Einfarb-Schlangenadler"
+      },
+      {
+        "lang": "en",
+        "name": "Brown Snake-Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera Sombría"
+      },
+      {
+        "lang": "fr",
+        "name": "Circaète brun"
+      },
+      {
+        "lang": "ja",
+        "name": "チャイロチュウヒワシ"
+      },
+      {
+        "lang": "hu",
+        "name": "Barna kígyászölyv"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruine Slangenarend"
+      },
+      {
+        "lang": "pl",
+        "name": "Gadożer brunatny"
+      },
+      {
+        "lang": "pt",
+        "name": "Águia-cobreira-castanha"
+      },
+      {
+        "lang": "ru",
+        "name": "Бурый Змееяд"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circaetus cinerascens",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Enkelbandslangarend"
+      },
+      {
+        "lang": "br",
+        "name": "Skoulerer louet"
+      },
+      {
+        "lang": "cs",
+        "name": "Orlík menší"
+      },
+      {
+        "lang": "en",
+        "name": "Banded Snake-Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera coliblanca"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب مارخور نواری غربی"
+      },
+      {
+        "lang": "fi",
+        "name": "Jokikäärmekotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Circaète cendré"
+      },
+      {
+        "lang": "hu",
+        "name": "Örvös kígyászölyv"
+      },
+      {
+        "lang": "it",
+        "name": "Biancone dal nastro"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine grijze slangenarend"
+      },
+      {
+        "lang": "pl",
+        "name": "Gadożer białopręgi"
+      },
+      {
+        "lang": "sv",
+        "name": "Flodormörn"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Circaetus beaudouini",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orlík savanový"
+      },
+      {
+        "lang": "en",
+        "name": "Beaudouin's Snake-eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebrera sudanesa"
+      },
+      {
+        "lang": "pl",
+        "name": "Gadożer prążkowany"
+      }
+    ]
+  }
+]

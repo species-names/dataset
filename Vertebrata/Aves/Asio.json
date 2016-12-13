@@ -1,0 +1,944 @@
+[
+  {
+    "scientific_name": "Asio stygius",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kalous americký"
+      },
+      {
+        "lang": "en",
+        "name": "Stygian Owl"
+      },
+      {
+        "lang": "eo",
+        "name": "Stigia orelstrigo"
+      },
+      {
+        "lang": "es",
+        "name": "Lechuzón negruzco"
+      },
+      {
+        "lang": "fr",
+        "name": "Hibou maître-bois"
+      },
+      {
+        "lang": "ht",
+        "name": "mèt bwa"
+      },
+      {
+        "lang": "no",
+        "name": "Styxugle"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-diabo"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mocho diabo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Asio otus",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Waldohrüüle"
+      },
+      {
+        "lang": "ar",
+        "name": "البومة الاذناء"
+      },
+      {
+        "lang": "ast",
+        "name": "Tubeca"
+      },
+      {
+        "lang": "az",
+        "name": "Adi qulaqlı bayquş"
+      },
+      {
+        "lang": "ba",
+        "name": "Өкө ябалағы"
+      },
+      {
+        "lang": "be",
+        "name": "Вушастая сава"
+      },
+      {
+        "lang": "bg",
+        "name": "Горска ушата сова"
+      },
+      {
+        "lang": "br",
+        "name": "Toud penn-kazh"
+      },
+      {
+        "lang": "ca",
+        "name": "Mussol banyut"
+      },
+      {
+        "lang": "ce",
+        "name": "Buh̗a"
+      },
+      {
+        "lang": "cs",
+        "name": "kalous ušatý"
+      },
+      {
+        "lang": "csb",
+        "name": "Ùszatô sowa"
+      },
+      {
+        "lang": "cv",
+        "name": "Хăлхаллă тăмана"
+      },
+      {
+        "lang": "cw",
+        "name": "oula kernik",
+        "synonyms": [
+          "Ula kernek"
+        ]
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan gorniog"
+      },
+      {
+        "lang": "da",
+        "name": "Skovhornugle"
+      },
+      {
+        "lang": "de",
+        "name": "Waldohreule"
+      },
+      {
+        "lang": "el",
+        "name": "Νανόμπουφος"
+      },
+      {
+        "lang": "en",
+        "name": "Long-eared Owl",
+        "synonyms": [
+          "Northern Long-eared Owl"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "orelstrigo"
+      },
+      {
+        "lang": "es",
+        "name": "Búho chico"
+      },
+      {
+        "lang": "et",
+        "name": "Kõrvukräts"
+      },
+      {
+        "lang": "eu",
+        "name": "Hontz ertain"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد شاخدار",
+        "synonyms": [
+          "جغد گوش‌دراز"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "sarvipöllö"
+      },
+      {
+        "lang": "fo",
+        "name": "kattúla"
+      },
+      {
+        "lang": "fr",
+        "name": "Hibou moyen-duc"
+      },
+      {
+        "lang": "frr",
+        "name": "Hurnüül"
+      },
+      {
+        "lang": "fur",
+        "name": "Çus"
+      },
+      {
+        "lang": "fy",
+        "name": "Hoarnûle",
+        "synonyms": [
+          "Katûle",
+          ""
+        ]
+      },
+      {
+        "lang": "ga",
+        "name": "Ceann cait"
+      },
+      {
+        "lang": "gd",
+        "name": "Comhachag Adhairceach"
+      },
+      {
+        "lang": "gl",
+        "name": "Bufo pequeno"
+      },
+      {
+        "lang": "gv",
+        "name": "Hullad eairkagh"
+      },
+      {
+        "lang": "he",
+        "name": "ינשוף עצים"
+      },
+      {
+        "lang": "hr",
+        "name": "Mala Ušara"
+      },
+      {
+        "lang": "hsb",
+        "name": "lěsawa"
+      },
+      {
+        "lang": "hu",
+        "name": "Erdei fülesbagoly"
+      },
+      {
+        "lang": "hy",
+        "name": "Ականջավոր բու (Akanjavor bu)"
+      },
+      {
+        "lang": "is",
+        "name": "Eyrugla"
+      },
+      {
+        "lang": "it",
+        "name": "Gufo comune"
+      },
+      {
+        "lang": "ja",
+        "name": "トラフズク",
+        "synonyms": [
+          "torafuzuku"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "ოლოლი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Мэзжьынду"
+      },
+      {
+        "lang": "kjh",
+        "name": "Чаба хулах"
+      },
+      {
+        "lang": "kjn",
+        "name": "Чаба хулах"
+      },
+      {
+        "lang": "kk",
+        "name": "Құлақты жапалақ"
+      },
+      {
+        "lang": "ko",
+        "name": "칡부엉이"
+      },
+      {
+        "lang": "ku",
+        "name": "Kundê şaxkidar"
+      },
+      {
+        "lang": "kw",
+        "name": "Ula kernek"
+      },
+      {
+        "lang": "la",
+        "name": "Asio"
+      },
+      {
+        "lang": "lad",
+        "name": "ciuita"
+      },
+      {
+        "lang": "lb",
+        "name": "Huereil"
+      },
+      {
+        "lang": "lkt",
+        "name": "Hiŋháŋ kapʼípila"
+      },
+      {
+        "lang": "lld",
+        "name": "Ciuita"
+      },
+      {
+        "lang": "lt",
+        "name": "mažasis apuokas"
+      },
+      {
+        "lang": "lv",
+        "name": "Ausainā pūce"
+      },
+      {
+        "lang": "mk",
+        "name": "Mал був"
+      },
+      {
+        "lang": "mn",
+        "name": "Соотон гуйванга"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung hantu telinga panjang"
+      },
+      {
+        "lang": "mt",
+        "name": "qattus"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Raansoel"
+      },
+      {
+        "lang": "nl",
+        "name": "Ransuil"
+      },
+      {
+        "lang": "nn",
+        "name": "Hornugle"
+      },
+      {
+        "lang": "no",
+        "name": "Hornugle"
+      },
+      {
+        "lang": "oc",
+        "name": "Duganèl"
+      },
+      {
+        "lang": "pcd",
+        "name": "Hou-hou"
+      },
+      {
+        "lang": "pl",
+        "name": "uszatka"
+      },
+      {
+        "lang": "pms",
+        "name": "Cioch"
+      },
+      {
+        "lang": "pt",
+        "name": "Bufo-pequeno"
+      },
+      {
+        "lang": "rm",
+        "name": "piv mesaun"
+      },
+      {
+        "lang": "ro",
+        "name": "Ciuf"
+      },
+      {
+        "lang": "ru",
+        "name": "Ушастая сова"
+      },
+      {
+        "lang": "rue",
+        "name": "Ухан"
+      },
+      {
+        "lang": "sah",
+        "name": "Кулгаахтаах мэкчиргэ"
+      },
+      {
+        "lang": "sc",
+        "name": "Cuccumeň"
+      },
+      {
+        "lang": "scn",
+        "name": "Ruccaru"
+      },
+      {
+        "lang": "sco",
+        "name": "Hornit houlet"
+      },
+      {
+        "lang": "se",
+        "name": "Bealljeloađgu"
+      },
+      {
+        "lang": "sh",
+        "name": "Mala ušara"
+      },
+      {
+        "lang": "sk",
+        "name": "myšiarka ušatá"
+      },
+      {
+        "lang": "sl",
+        "name": "mala uharica"
+      },
+      {
+        "lang": "sq",
+        "name": "Bufi veshëgjatë"
+      },
+      {
+        "lang": "sr",
+        "name": "Mala ušara/Мала ушара"
+      },
+      {
+        "lang": "sv",
+        "name": "Hornuggla"
+      },
+      {
+        "lang": "sw",
+        "name": "Bundi wa Ulaya"
+      },
+      {
+        "lang": "tk",
+        "name": "kulaklı orman baykuşu"
+      },
+      {
+        "lang": "tr",
+        "name": "Kulaklı orman baykuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Мыйыстыг инек-сокпа"
+      },
+      {
+        "lang": "uk",
+        "name": "Сова вухата"
+      },
+      {
+        "lang": "vec",
+        "name": "Ciusso"
+      },
+      {
+        "lang": "zea",
+        "name": "Katuul"
+      },
+      {
+        "lang": "zh",
+        "name": "长耳鸮"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Asio madagascariensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kalous madagaskarský"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Asio flammeus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "البومة قصيرة الأذن"
+      },
+      {
+        "lang": "ast",
+        "name": "Curuxa Mariñana"
+      },
+      {
+        "lang": "ay",
+        "name": "Juku"
+      },
+      {
+        "lang": "az",
+        "name": "Bataqlıq bayquşu"
+      },
+      {
+        "lang": "be",
+        "name": "Сава балотная"
+      },
+      {
+        "lang": "bg",
+        "name": "Блатна сова"
+      },
+      {
+        "lang": "br",
+        "name": "Toud-lann"
+      },
+      {
+        "lang": "ca",
+        "name": "Mussol emigrant"
+      },
+      {
+        "lang": "co",
+        "name": "Ciocciu"
+      },
+      {
+        "lang": "cs",
+        "name": "Kalous pustovka"
+      },
+      {
+        "lang": "cv",
+        "name": "Шурлăх тăмани"
+      },
+      {
+        "lang": "cw",
+        "name": "Oula bras"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan glustiog"
+      },
+      {
+        "lang": "da",
+        "name": "Mosehornugle"
+      },
+      {
+        "lang": "de",
+        "name": "Sumpfohreule"
+      },
+      {
+        "lang": "dsb",
+        "name": "Šubut"
+      },
+      {
+        "lang": "el",
+        "name": "Βαλτόμπουφος"
+      },
+      {
+        "lang": "eml",
+        "name": "Gòff"
+      },
+      {
+        "lang": "en",
+        "name": "Short-eared Owl"
+      },
+      {
+        "lang": "eo",
+        "name": "Marĉostrigo"
+      },
+      {
+        "lang": "es",
+        "name": "Búho campestre"
+      },
+      {
+        "lang": "et",
+        "name": "Sooräts"
+      },
+      {
+        "lang": "eu",
+        "name": "Zingira-hontz"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد تالابی"
+      },
+      {
+        "lang": "fi",
+        "name": "Suopöllö"
+      },
+      {
+        "lang": "fo",
+        "name": "Uglubóndi"
+      },
+      {
+        "lang": "fr",
+        "name": "Hibou des marais"
+      },
+      {
+        "lang": "frr",
+        "name": "Kadüül"
+      },
+      {
+        "lang": "fur",
+        "name": "Dűc"
+      },
+      {
+        "lang": "fy",
+        "name": "Fjildûle"
+      },
+      {
+        "lang": "ga",
+        "name": "Ulchabhán Réisc"
+      },
+      {
+        "lang": "gd",
+        "name": "Comhachag chluassach"
+      },
+      {
+        "lang": "gl",
+        "name": "Curuxa das xunqueiras"
+      },
+      {
+        "lang": "gn",
+        "name": "Suinda ñu"
+      },
+      {
+        "lang": "gv",
+        "name": "Hullad ghiare-chleayshagh"
+      },
+      {
+        "lang": "haw",
+        "name": "Pueo"
+      },
+      {
+        "lang": "he",
+        "name": "ינשוף שדות"
+      },
+      {
+        "lang": "hr",
+        "name": "Sova močvarica"
+      },
+      {
+        "lang": "hsb",
+        "name": "Pujwuj"
+      },
+      {
+        "lang": "ht",
+        "name": "Lechuza de Sabana"
+      },
+      {
+        "lang": "hu",
+        "name": "Réti fülesbagoly"
+      },
+      {
+        "lang": "hy",
+        "name": "Ճահճային բու"
+      },
+      {
+        "lang": "id",
+        "name": "Burung-hantu Telinga-pendek"
+      },
+      {
+        "lang": "is",
+        "name": "Brandugla"
+      },
+      {
+        "lang": "it",
+        "name": "Gufo di palude"
+      },
+      {
+        "lang": "ja",
+        "name": "コミミズク"
+      },
+      {
+        "lang": "ka",
+        "name": "ბაიყუში"
+      },
+      {
+        "lang": "kbd",
+        "name": "КӀукӀумяугъуэ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Тасха"
+      },
+      {
+        "lang": "kjn",
+        "name": "Тасха"
+      },
+      {
+        "lang": "kk",
+        "name": "Саз жапалақ"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠부엉이"
+      },
+      {
+        "lang": "krl",
+        "name": "Tuikkailindu"
+      },
+      {
+        "lang": "ku",
+        "name": "Kundê goran"
+      },
+      {
+        "lang": "kw",
+        "name": "Oula bras"
+      },
+      {
+        "lang": "lb",
+        "name": "Broocheil"
+      },
+      {
+        "lang": "lkt",
+        "name": "Hiŋháŋ ɡ̌í"
+      },
+      {
+        "lang": "lld",
+        "name": "Duch"
+      },
+      {
+        "lang": "lt",
+        "name": "Balinė pelėda"
+      },
+      {
+        "lang": "lv",
+        "name": "Purva pūce"
+      },
+      {
+        "lang": "mk",
+        "name": "Блатна утка"
+      },
+      {
+        "lang": "ml",
+        "name": "പൂച്ച മൂങ്ങ"
+      },
+      {
+        "lang": "mn",
+        "name": "Хулгар гуйванга"
+      },
+      {
+        "lang": "mol",
+        "name": "Buha mare"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung hantu telinga pendek"
+      },
+      {
+        "lang": "mt",
+        "name": "Kokka tax-Xagħri"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Esoele"
+      },
+      {
+        "lang": "nds",
+        "name": "Moorule"
+      },
+      {
+        "lang": "ne",
+        "name": "लघुकर्ण लाटोकोसेरो"
+      },
+      {
+        "lang": "nl",
+        "name": "Velduil"
+      },
+      {
+        "lang": "nn",
+        "name": "Jordugle"
+      },
+      {
+        "lang": "no",
+        "name": "Jordugle"
+      },
+      {
+        "lang": "oc",
+        "name": "Ducàs"
+      },
+      {
+        "lang": "pl",
+        "name": "Sowa błotna"
+      },
+      {
+        "lang": "pms",
+        "name": "Cioch"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹی سٹارک"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-do-nabal"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mocho-dos-banhados"
+      },
+      {
+        "lang": "rm",
+        "name": "Piv da palì"
+      },
+      {
+        "lang": "rmy",
+        "name": "Bufniţă"
+      },
+      {
+        "lang": "ro",
+        "name": "Ciuf de câmp"
+      },
+      {
+        "lang": "ru",
+        "name": "Болотная сова"
+      },
+      {
+        "lang": "sah",
+        "name": "Түлүрбэх"
+      },
+      {
+        "lang": "sco",
+        "name": "Hill oul"
+      },
+      {
+        "lang": "se",
+        "name": "Loađgu"
+      },
+      {
+        "lang": "sh",
+        "name": "Sova močvarica"
+      },
+      {
+        "lang": "sk",
+        "name": "Myšiarka močiarna"
+      },
+      {
+        "lang": "sl",
+        "name": "Močvirska uharica"
+      },
+      {
+        "lang": "sq",
+        "name": "Bufi veshëshkurtër"
+      },
+      {
+        "lang": "sr",
+        "name": "Ritska sova - Ритска сова"
+      },
+      {
+        "lang": "stq",
+        "name": "Katuule"
+      },
+      {
+        "lang": "sv",
+        "name": "Jorduggla"
+      },
+      {
+        "lang": "sw",
+        "name": "Bundi masikio-mafupi"
+      },
+      {
+        "lang": "ta",
+        "name": "Komban kottaan"
+      },
+      {
+        "lang": "th",
+        "name": "นกเค้าแมวหูสั้น"
+      },
+      {
+        "lang": "tk",
+        "name": "Hüwi"
+      },
+      {
+        "lang": "tr",
+        "name": "Kır baykuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Тулаа инек-сокпазы"
+      },
+      {
+        "lang": "uk",
+        "name": "Сова болотяна"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú lửa"
+      },
+      {
+        "lang": "vls",
+        "name": "Ooruil"
+      },
+      {
+        "lang": "wa",
+        "name": "Duk di bwès"
+      },
+      {
+        "lang": "zh",
+        "name": "短耳鴞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Asio clamator",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kalous páskovaný"
+      },
+      {
+        "lang": "en",
+        "name": "Striped Owl"
+      },
+      {
+        "lang": "eo",
+        "name": "Stristrigo"
+      },
+      {
+        "lang": "fr",
+        "name": "Hibou strié"
+      },
+      {
+        "lang": "no",
+        "name": "Stripeugle"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-orelhuda"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Asio capensis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Vleiuil"
+      },
+      {
+        "lang": "cs",
+        "name": "Kalous africký"
+      },
+      {
+        "lang": "da",
+        "name": "Kapugle"
+      },
+      {
+        "lang": "en",
+        "name": "Marsh Owl"
+      },
+      {
+        "lang": "no",
+        "name": "Gressugle"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-moura"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Asio abyssinicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kalous etiopský"
+      },
+      {
+        "lang": "en",
+        "name": "African Long-eared Owl",
+        "synonyms": [
+          "Abyssinian Owl"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Afrika orelstrigo"
+      },
+      {
+        "lang": "no",
+        "name": "Fjellhornugle"
+      }
+    ]
+  }
+]

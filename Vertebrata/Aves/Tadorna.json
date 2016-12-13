@@ -1,0 +1,778 @@
+[
+  {
+    "scientific_name": "Tadorna variegata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Husice rajská"
+      },
+      {
+        "lang": "de",
+        "name": "Paradieskasarka"
+      },
+      {
+        "lang": "en",
+        "name": "Paradise Shelduck"
+      },
+      {
+        "lang": "es",
+        "name": "Tarro Maorí"
+      },
+      {
+        "lang": "fr",
+        "name": "Tadorne de paradis"
+      },
+      {
+        "lang": "hu",
+        "name": "Új-zélandi ásólúd"
+      },
+      {
+        "lang": "ja",
+        "name": "クロアカツクシガモ"
+      },
+      {
+        "lang": "mi",
+        "name": "Pūtangitangi"
+      },
+      {
+        "lang": "pl",
+        "name": "Kazarka rajska"
+      },
+      {
+        "lang": "sv",
+        "name": "Paradisgravand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tadorna tadornoides",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Husice australská"
+      },
+      {
+        "lang": "de",
+        "name": "Australische Kasarka"
+      },
+      {
+        "lang": "en",
+        "name": "Australian Shelduck"
+      },
+      {
+        "lang": "es",
+        "name": "Tarro Australiano"
+      },
+      {
+        "lang": "fr",
+        "name": "Tadorne d'Australie"
+      },
+      {
+        "lang": "hu",
+        "name": "Ausztrál ásólúd"
+      },
+      {
+        "lang": "ja",
+        "name": "クビワアカツクシガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische bergeend"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk gravand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tadorna tadorna",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "شهرمان شائع"
+      },
+      {
+        "lang": "ast",
+        "name": "Coríu la Basa"
+      },
+      {
+        "lang": "az",
+        "name": "Ala ördək"
+      },
+      {
+        "lang": "ba",
+        "name": "Аласабыр"
+      },
+      {
+        "lang": "be",
+        "name": "Пярэстая качка"
+      },
+      {
+        "lang": "bg",
+        "name": "Бял ангъч"
+      },
+      {
+        "lang": "bn",
+        "name": "শাহ চখা"
+      },
+      {
+        "lang": "br",
+        "name": "Tadorn roueel"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec blanc"
+      },
+      {
+        "lang": "cs",
+        "name": "Husice liščí"
+      },
+      {
+        "lang": "cw",
+        "name": "Hos eythyn"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden yr Eithin"
+      },
+      {
+        "lang": "da",
+        "name": "Gravand"
+      },
+      {
+        "lang": "de",
+        "name": "Brandgans"
+      },
+      {
+        "lang": "el",
+        "name": "Αλάουρτος"
+      },
+      {
+        "lang": "egl-romagnolo",
+        "name": "Zizlén d'mer"
+      },
+      {
+        "lang": "en",
+        "name": "Common Shelduck"
+      },
+      {
+        "lang": "eo",
+        "name": "Ordinara tadorno"
+      },
+      {
+        "lang": "es",
+        "name": "Tarro blanco"
+      },
+      {
+        "lang": "et",
+        "name": "Ristpart"
+      },
+      {
+        "lang": "eu",
+        "name": "Paita arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "تنجه"
+      },
+      {
+        "lang": "fi",
+        "name": "Ristisorsa"
+      },
+      {
+        "lang": "fo",
+        "name": "Kápureyð ont"
+      },
+      {
+        "lang": "fr",
+        "name": "Tadorne de Belon"
+      },
+      {
+        "lang": "frr",
+        "name": "Baragan"
+      },
+      {
+        "lang": "fy",
+        "name": "Berchein"
+      },
+      {
+        "lang": "ga",
+        "name": "Lacha bhreach"
+      },
+      {
+        "lang": "gd",
+        "name": "Cra-geadh"
+      },
+      {
+        "lang": "gl",
+        "name": "Pato branco"
+      },
+      {
+        "lang": "gv",
+        "name": "Thunnag vreck"
+      },
+      {
+        "lang": "he",
+        "name": "טדורנה"
+      },
+      {
+        "lang": "hr",
+        "name": "Utva"
+      },
+      {
+        "lang": "hu",
+        "name": "Bütykös ásólúd"
+      },
+      {
+        "lang": "hy",
+        "name": "Խայտաբադ"
+      },
+      {
+        "lang": "is",
+        "name": "Brandönd"
+      },
+      {
+        "lang": "it",
+        "name": "Volpoca"
+      },
+      {
+        "lang": "ja",
+        "name": "ツクシガモ"
+      },
+      {
+        "lang": "ka",
+        "name": "ამლაყი იხვი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къазкъуэлэн"
+      },
+      {
+        "lang": "kjn",
+        "name": "Ала хас"
+      },
+      {
+        "lang": "kk",
+        "name": "Италақаз"
+      },
+      {
+        "lang": "ko",
+        "name": "혹부리오리"
+      },
+      {
+        "lang": "ku",
+        "name": "Werdeka golan"
+      },
+      {
+        "lang": "lt",
+        "name": "Urvinė antis"
+      },
+      {
+        "lang": "lv",
+        "name": "Sāmsalas dižpīle"
+      },
+      {
+        "lang": "mk",
+        "name": "Гусковида патка"
+      },
+      {
+        "lang": "mn",
+        "name": "Анхидал"
+      },
+      {
+        "lang": "mt",
+        "name": "Kuluvert tas-Salib"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Bargente"
+      },
+      {
+        "lang": "nl",
+        "name": "Bergeend"
+      },
+      {
+        "lang": "nn",
+        "name": "Gravand"
+      },
+      {
+        "lang": "no",
+        "name": "Gravand"
+      },
+      {
+        "lang": "pcd",
+        "name": "Ringand"
+      },
+      {
+        "lang": "pl",
+        "name": "Ohar"
+      },
+      {
+        "lang": "pnb",
+        "name": "عام شیلڈک"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-branco"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda faschada"
+      },
+      {
+        "lang": "ru",
+        "name": "Пеганка"
+      },
+      {
+        "lang": "rue",
+        "name": "Казарка"
+      },
+      {
+        "lang": "sah",
+        "name": "Эриэн кус"
+      },
+      {
+        "lang": "se",
+        "name": "Ruossaduoršu"
+      },
+      {
+        "lang": "sh",
+        "name": "Utva"
+      },
+      {
+        "lang": "sk",
+        "name": "Kazarka pestrá"
+      },
+      {
+        "lang": "sl",
+        "name": "Duplinska gos"
+      },
+      {
+        "lang": "sq",
+        "name": "Laroshja"
+      },
+      {
+        "lang": "sr",
+        "name": "Šarena utva",
+        "synonyms": [
+          "Шарена утва"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Gravand"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดเชลดัก"
+      },
+      {
+        "lang": "tr",
+        "name": "Suna"
+      },
+      {
+        "lang": "tyv",
+        "name": "Ала-шокар ангыр"
+      },
+      {
+        "lang": "uk",
+        "name": "Галагаз"
+      },
+      {
+        "lang": "vec",
+        "name": "Tadorna"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt khoang"
+      },
+      {
+        "lang": "zh",
+        "name": "翘鼻麻鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tadorna radjah",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Husice královská"
+      },
+      {
+        "lang": "de",
+        "name": "Radjahgans"
+      },
+      {
+        "lang": "en",
+        "name": "Radjah Shelduck"
+      },
+      {
+        "lang": "es",
+        "name": "Tarro Rajá"
+      },
+      {
+        "lang": "fr",
+        "name": "Tadorne radjah"
+      },
+      {
+        "lang": "hu",
+        "name": "Radjah ásólúd"
+      },
+      {
+        "lang": "ja",
+        "name": "シロガシラツクシガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Radjah-eend"
+      },
+      {
+        "lang": "ru",
+        "name": "Пеганка-раджа"
+      },
+      {
+        "lang": "sv",
+        "name": "Vithuvad gravand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tadorna ferruginea",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "النحام",
+        "synonyms": [
+          "النحام بط"
+        ]
+      },
+      {
+        "lang": "az",
+        "name": "Anqut",
+        "synonyms": [
+          "Qırmızı ördək"
+        ]
+      },
+      {
+        "lang": "be",
+        "name": "Качка-огар"
+      },
+      {
+        "lang": "bg",
+        "name": "Червен ангъч"
+      },
+      {
+        "lang": "br",
+        "name": "An tadorn ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec canyella"
+      },
+      {
+        "lang": "cs",
+        "name": "husice rezavá"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden goch yr eithin"
+      },
+      {
+        "lang": "da",
+        "name": "Rustand"
+      },
+      {
+        "lang": "de",
+        "name": "Rostgans"
+      },
+      {
+        "lang": "el",
+        "name": "Καστανόπαπια"
+      },
+      {
+        "lang": "en",
+        "name": "Ruddy Shelduck"
+      },
+      {
+        "lang": "eo",
+        "name": "Rusta tadorno"
+      },
+      {
+        "lang": "es",
+        "name": "Tarro canelo"
+      },
+      {
+        "lang": "et",
+        "name": "Tulipart"
+      },
+      {
+        "lang": "eu",
+        "name": "Ànec canyella"
+      },
+      {
+        "lang": "fi",
+        "name": "ruostesorsa"
+      },
+      {
+        "lang": "fo",
+        "name": "Royðuont"
+      },
+      {
+        "lang": "fr",
+        "name": "Tadorne casarca"
+      },
+      {
+        "lang": "ga",
+        "name": "Seil-Lacha Rua"
+      },
+      {
+        "lang": "gl",
+        "name": "Ànec canyella",
+        "synonyms": [
+          "Pato canelo"
+        ]
+      },
+      {
+        "lang": "he",
+        "name": "קזרקה"
+      },
+      {
+        "lang": "hr",
+        "name": "Zlatokrila utva"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörös ásólúd"
+      },
+      {
+        "lang": "hy",
+        "name": "Բադ կարմիր"
+      },
+      {
+        "lang": "is",
+        "name": "Ryðönd"
+      },
+      {
+        "lang": "it",
+        "name": "Casarca"
+      },
+      {
+        "lang": "ja",
+        "name": "アカツクシガモ",
+        "synonyms": [
+          "akatsukushigamo"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "წითელი იხვი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Аат"
+      },
+      {
+        "lang": "kk",
+        "name": "Отүйрек",
+        "synonyms": [
+          "Сарыалақаз"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "황오리"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudoji antis"
+      },
+      {
+        "lang": "lv",
+        "name": "Rudā dižpīle"
+      },
+      {
+        "lang": "mn",
+        "name": "Ангир"
+      },
+      {
+        "lang": "mr",
+        "name": "ब्राम्हणी बदक"
+      },
+      {
+        "lang": "mt",
+        "name": "Kuluvert Aħmar"
+      },
+      {
+        "lang": "nl",
+        "name": "Casarca"
+      },
+      {
+        "lang": "no",
+        "name": "Rustand"
+      },
+      {
+        "lang": "pl",
+        "name": "kazarka rdzawa"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-ferrugíneo"
+      },
+      {
+        "lang": "rm",
+        "name": "Auca cotschna"
+      },
+      {
+        "lang": "ru",
+        "name": "Красная утка"
+      },
+      {
+        "lang": "sk",
+        "name": "kazarka hrdzavá"
+      },
+      {
+        "lang": "sl",
+        "name": "rjasta kozarka"
+      },
+      {
+        "lang": "sq",
+        "name": "Kuqaloshja"
+      },
+      {
+        "lang": "sr",
+        "name": "zlatokrila utva",
+        "synonyms": [
+          "Златокрила утва"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Rostand"
+      },
+      {
+        "lang": "ta",
+        "name": "Garuda Thara"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดพม่า"
+      },
+      {
+        "lang": "tr",
+        "name": "Angut"
+      },
+      {
+        "lang": "tyv",
+        "name": "Ангыр"
+      },
+      {
+        "lang": "uk",
+        "name": "Огар"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "赤麻鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tadorna cristata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Husice chocholatá"
+      },
+      {
+        "lang": "de",
+        "name": "Schopfkasarka"
+      },
+      {
+        "lang": "en",
+        "name": "Crested Shelduck"
+      },
+      {
+        "lang": "eo",
+        "name": "Kresta tadorno"
+      },
+      {
+        "lang": "fi",
+        "name": "Amurinsorsa"
+      },
+      {
+        "lang": "fr",
+        "name": "Tadorne de Corée"
+      },
+      {
+        "lang": "hu",
+        "name": "Koreai ásólúd"
+      },
+      {
+        "lang": "ja",
+        "name": "カンムリツクシガモ"
+      },
+      {
+        "lang": "ko",
+        "name": "원앙사촌"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-de-crista-da-coreia"
+      },
+      {
+        "lang": "ru",
+        "name": "Хохлатая пеганка"
+      },
+      {
+        "lang": "sv",
+        "name": "Tofsgravand"
+      },
+      {
+        "lang": "zh",
+        "name": "冠麻鴨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tadorna cana",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kopereend"
+      },
+      {
+        "lang": "cs",
+        "name": "Husice šedohlavá"
+      },
+      {
+        "lang": "de",
+        "name": "Graukopfkasarka"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Shelduck"
+      },
+      {
+        "lang": "fr",
+        "name": "Tadorne à tête grise"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürkefejű ásólúd"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse bergeend"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråhuvad rostand"
+      }
+    ]
+  }
+]

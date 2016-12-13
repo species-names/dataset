@@ -1,0 +1,516 @@
+[
+  {
+    "scientific_name": "Diomedea sanfordi",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Albatroz Sanford"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros de Sanford"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Royal Albatross"
+      },
+      {
+        "lang": "eo",
+        "name": "Nordreĝa albatroso"
+      },
+      {
+        "lang": "es",
+        "name": "Albatros Real del Norte"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس سلطنتی شمالی"
+      },
+      {
+        "lang": "hu",
+        "name": "Északi királyalbatrosz"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros raja-utara"
+      },
+      {
+        "lang": "nl",
+        "name": "Noordelijke koningsalbatros"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-real-setentrional"
+      },
+      {
+        "lang": "uk",
+        "name": "Північний королівський альбатрос"
+      },
+      {
+        "lang": "af",
+        "name": "Swartvlerkkoningalbatros"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Diomedea exulans",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Grootmalmok/Grootalbatros"
+      },
+      {
+        "lang": "ar",
+        "name": "القطرس التائه"
+      },
+      {
+        "lang": "bg",
+        "name": "Странстващ албатрос"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz kantreat"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros viatger"
+      },
+      {
+        "lang": "cs",
+        "name": "Albatros stěhovavý"
+      },
+      {
+        "lang": "de",
+        "name": "Wanderalbatros"
+      },
+      {
+        "lang": "en",
+        "name": "Wandering Albatross"
+      },
+      {
+        "lang": "eo",
+        "name": "Vagalbatroso"
+      },
+      {
+        "lang": "es",
+        "name": "Albatros errante"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس سرگردان"
+      },
+      {
+        "lang": "fi",
+        "name": "Jättiläisalbatrossi"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros hurleur"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס נודד"
+      },
+      {
+        "lang": "hu",
+        "name": "Vándoralbatrosz"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros kelana"
+      },
+      {
+        "lang": "it",
+        "name": "Albatro urlatore"
+      },
+      {
+        "lang": "ja",
+        "name": "ワタリアホウドリ"
+      },
+      {
+        "lang": "mn",
+        "name": "Хэрмэл салхич шувуу <!--"
+      },
+      {
+        "lang": "my",
+        "name": "သမုဒ္ဒရာစင်ယော်ကြီး-->"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote albatros"
+      },
+      {
+        "lang": "nn",
+        "name": "Vandrealbatross"
+      },
+      {
+        "lang": "no",
+        "name": "Vandrealbatross"
+      },
+      {
+        "lang": "pl",
+        "name": "Albatros wędrowny"
+      },
+      {
+        "lang": "pnb",
+        "name": "پاندھی البٹراس"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-errante"
+      },
+      {
+        "lang": "ro",
+        "name": "Albatros călător"
+      },
+      {
+        "lang": "ru",
+        "name": "Странствующий альбатрос"
+      },
+      {
+        "lang": "sk",
+        "name": "Albatros sťahovavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Vandringsalbatross"
+      },
+      {
+        "lang": "to",
+        "name": "Katafa lalahi"
+      },
+      {
+        "lang": "tr",
+        "name": "Gezgin albatros"
+      },
+      {
+        "lang": "uk",
+        "name": "Мандрівний альбатрос"
+      },
+      {
+        "lang": "zh",
+        "name": "漂泊信天翁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Diomedea epomophora",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witvlerkkoningalbatros"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Паўднёвы каралеўскі альбатрос"
+      },
+      {
+        "lang": "be",
+        "name": "Паўднёвы каралеўскі альбатрос"
+      },
+      {
+        "lang": "bg",
+        "name": "Кралски албатрос"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz roueel"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros reial"
+      },
+      {
+        "lang": "de",
+        "name": "Königsalbatros"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Royal Albatross"
+      },
+      {
+        "lang": "eo",
+        "name": "Sudreĝa albatroso"
+      },
+      {
+        "lang": "es",
+        "name": "Albatros Real"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس سلطنتی جنوبی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuningasalbatrossi"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros royal"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס מלכותי"
+      },
+      {
+        "lang": "hu",
+        "name": "Királyalbatrosz"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros raja-selatan"
+      },
+      {
+        "lang": "ja",
+        "name": "シロアホウドリ"
+      },
+      {
+        "lang": "mi",
+        "name": "Toroa ingoingo"
+      },
+      {
+        "lang": "nl",
+        "name": "Zuidelijke koningsalbatros"
+      },
+      {
+        "lang": "nn",
+        "name": "Kongealbatross"
+      },
+      {
+        "lang": "pl",
+        "name": "Albatros królewski"
+      },
+      {
+        "lang": "pnb",
+        "name": "راج البٹراس"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-real-meridional"
+      },
+      {
+        "lang": "ru",
+        "name": "Королевский альбатрос"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydlig kungsalbatross"
+      },
+      {
+        "lang": "tr",
+        "name": "Kral albatros"
+      },
+      {
+        "lang": "uk",
+        "name": "Південний королівський альбатрос"
+      },
+      {
+        "lang": "zh",
+        "name": "南方皇家信天翁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Diomedea dabbenena",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Tristangrootalbatros"
+      },
+      {
+        "lang": "bg",
+        "name": "Тристански албатрос"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz Tristan"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros de Tristan"
+      },
+      {
+        "lang": "de",
+        "name": "Tristan-Albatros"
+      },
+      {
+        "lang": "en",
+        "name": "Tristan Albatross"
+      },
+      {
+        "lang": "eo",
+        "name": "Tristana albatroso"
+      },
+      {
+        "lang": "es",
+        "name": "Albatros de Tristán"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس تریستان"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס טריסטני"
+      },
+      {
+        "lang": "hu",
+        "name": "Tristan da Cunha-szigeteki albatrosz"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros tristan"
+      },
+      {
+        "lang": "it",
+        "name": "Albatro di Tristan"
+      },
+      {
+        "lang": "nl",
+        "name": "Tristanalbatros"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹرسٹان البٹراس"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-de-Tristão"
+      },
+      {
+        "lang": "sv",
+        "name": "Tristanalbatross"
+      },
+      {
+        "lang": "uk",
+        "name": "Трістанський альбатрос"
+      },
+      {
+        "lang": "vi",
+        "name": "Hải âu Tristan"
+      },
+      {
+        "lang": "zh",
+        "name": "特島信天翁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Diomedea antipodensis",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Albatroz Antipodes"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros dels Antípodes"
+      },
+      {
+        "lang": "en",
+        "name": "Antipodean Albatross"
+      },
+      {
+        "lang": "eo",
+        "name": "Antipoda albatroso"
+      },
+      {
+        "lang": "es",
+        "name": "Albatros de las Antípodas"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس آنتیپودی"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס אנטיפודי"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros antipodes"
+      },
+      {
+        "lang": "it",
+        "name": "Albatro degli Antipodi"
+      },
+      {
+        "lang": "nl",
+        "name": "Antipodenalbatros"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-das-antípodas"
+      },
+      {
+        "lang": "sv",
+        "name": "Antipodalbatross"
+      },
+      {
+        "lang": "uk",
+        "name": "Альбатрос антиподів"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Diomedea amsterdamensis",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Albatroz Amsterdam"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros d'Amsterdam"
+      },
+      {
+        "lang": "de",
+        "name": "Amsterdam-Albatros"
+      },
+      {
+        "lang": "en",
+        "name": "Amsterdam Albatross"
+      },
+      {
+        "lang": "es",
+        "name": "Albatros de Ámsterdam"
+      },
+      {
+        "lang": "fi",
+        "name": "Amsterdamsaarenalbatrossi"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros d'Amsterdam"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס אמסטרדם"
+      },
+      {
+        "lang": "hu",
+        "name": "Amszterdam-szigeti albatrosz"
+      },
+      {
+        "lang": "ja",
+        "name": "アムステルダムアホウドリ"
+      },
+      {
+        "lang": "sv",
+        "name": "Amsterdamalbatross"
+      },
+      {
+        "lang": "tr",
+        "name": "Amsterdam albastrosu"
+      },
+      {
+        "lang": "uk",
+        "name": "Амстердамський альбатрос"
+      },
+      {
+        "lang": "zh",
+        "name": "阿島信天翁"
+      }
+    ]
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "scientific_name": "Phoebastria rexsularum",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Phoebastria californica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Phoebastria anglica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Phoebastria nigripes",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-footed Albatross"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros à pieds noirs"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketelábú albatrosz"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartfotad albatross"
+      },
+      {
+        "lang": "zh",
+        "name": "黑腳信天翁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phoebastria irrorata",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Albatroz Galapagos"
+      },
+      {
+        "lang": "de",
+        "name": "Galapagosalbatros"
+      },
+      {
+        "lang": "en",
+        "name": "Waved Albatross"
+      },
+      {
+        "lang": "fi",
+        "name": "Galapagosinalbatrossi"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros des Galapagos"
+      },
+      {
+        "lang": "hu",
+        "name": "Galápagosi albatrosz"
+      },
+      {
+        "lang": "nl",
+        "name": "Galápagos-albatros"
+      },
+      {
+        "lang": "ja",
+        "name": "ガラパゴスアホウドリ"
+      },
+      {
+        "lang": "pl",
+        "name": "Albatros galapagoski"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-das-galápagos"
+      },
+      {
+        "lang": "sv",
+        "name": "Galapagosalbatross"
+      },
+      {
+        "lang": "uk",
+        "name": "Галапагоський альбатрос"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phoebastria immutabilis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Laysanse Malmok/Swartwangalbatros"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz Laysan"
+      },
+      {
+        "lang": "cs",
+        "name": "albatros laysanský"
+      },
+      {
+        "lang": "da",
+        "name": "Laysanalbatros"
+      },
+      {
+        "lang": "de",
+        "name": "Laysanalbatros"
+      },
+      {
+        "lang": "en",
+        "name": "Laysan Albatross"
+      },
+      {
+        "lang": "es",
+        "name": "Albatros de Laysan"
+      },
+      {
+        "lang": "et",
+        "name": "mask-albatross"
+      },
+      {
+        "lang": "fi",
+        "name": "havaijinalbatrossi"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros de Laysan"
+      },
+      {
+        "lang": "haw",
+        "name": "Mōli"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס נצחי"
+      },
+      {
+        "lang": "hu",
+        "name": "Laysan-albatrosz"
+      },
+      {
+        "lang": "it",
+        "name": "Albatro di Laysan"
+      },
+      {
+        "lang": "ja",
+        "name": "コアホウドリ",
+        "synonyms": [
+          "koahoudori"
+        ]
+      },
+      {
+        "lang": "la",
+        "name": "Phoebastria immutabilis",
+        "synonyms": [
+          "Diomedea immutabilis"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Laysan-albatros"
+      },
+      {
+        "lang": "no",
+        "name": "Laysanalbatross"
+      },
+      {
+        "lang": "pl",
+        "name": "albatros ciemnolicy"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-de-laysan"
+      },
+      {
+        "lang": "ru",
+        "name": "Темноспинный альбатрос"
+      },
+      {
+        "lang": "sk",
+        "name": "albatros nemenlivý"
+      },
+      {
+        "lang": "sv",
+        "name": "Laysanalbatross"
+      },
+      {
+        "lang": "uk",
+        "name": "Темноспинный альбатрос"
+      },
+      {
+        "lang": "zh",
+        "name": "黑背信天翁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phoebastria albatrus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Albatroz lost berr"
+      },
+      {
+        "lang": "de",
+        "name": "Kurzschwanzalbatros"
+      },
+      {
+        "lang": "en",
+        "name": "Short-tailed Albatross"
+      },
+      {
+        "lang": "fi",
+        "name": "Japaninalbatrossi"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros à queue courte"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס שטלר"
+      },
+      {
+        "lang": "ja",
+        "name": "アホウドリ"
+      },
+      {
+        "lang": "hu",
+        "name": "Rövidfarkú albatrosz"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-de-cauda-curta"
+      },
+      {
+        "lang": "ru",
+        "name": "Белоспинный альбатрос"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulnackad albatross"
+      },
+      {
+        "lang": "uk",
+        "name": "Короткохвостий альбатрос"
+      },
+      {
+        "lang": "zh",
+        "name": "短尾信天翁"
+      }
+    ]
+  }
+]

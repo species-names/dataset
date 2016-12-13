@@ -1,0 +1,326 @@
+[
+  {
+    "scientific_name": "Eudyptes sclateri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Erect-crested Penguin"
+      },
+      {
+        "lang": "es",
+        "name": "Pingüino crestudo de Sclater o de las antípodas"
+      },
+      {
+        "lang": "it",
+        "name": "Pinguino crestato maggiore"
+      },
+      {
+        "lang": "lt",
+        "name": "Paprastasis kuoduotasis pingvinas"
+      },
+      {
+        "lang": "fr",
+        "name": "Gorfou huppé"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote kuifpinguïn"
+      },
+      {
+        "lang": "pl",
+        "name": "Pingwin szczotkoczuby",
+        "synonyms": [
+          "Skocz szczotkoczuby"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Tofspingvin"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eudyptes schlegeli",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Mank Schlegel"
+      },
+      {
+        "lang": "cs",
+        "name": "Tučňák královský"
+      },
+      {
+        "lang": "de",
+        "name": "Haubenpinguin"
+      },
+      {
+        "lang": "en",
+        "name": "Royal penguin"
+      },
+      {
+        "lang": "es",
+        "name": "Pingüino de Schlegel",
+        "synonyms": [
+          "pinguino reale",
+          "pinguino reale dal ciuffo dorato"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Macquarienpingviini",
+        "synonyms": [
+          "töyhtöpingviini"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Gorfou de Schlegel"
+      },
+      {
+        "lang": "hu",
+        "name": "Royal-pingvin"
+      },
+      {
+        "lang": "ja",
+        "name": "ロイヤルペンギン"
+      },
+      {
+        "lang": "lt",
+        "name": "Šlėgelio kuoduotasis pingvinas"
+      },
+      {
+        "lang": "nl",
+        "name": "Schlegels pinguïn"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitkinnpingvin"
+      },
+      {
+        "lang": "pl",
+        "name": "Pingwin krótkoczuby",
+        "synonyms": [
+          "skocz krótkoczuby"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Pinguim-real",
+        "synonyms": [
+          "Pinguim de Schlegel"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Пинвин Шлегеля"
+      },
+      {
+        "lang": "sr",
+        "name": "Макворијски пингвин"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitkindad pingvin"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eudyptes robustus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tučňák snarský"
+      },
+      {
+        "lang": "en",
+        "name": "Snares Penguin"
+      },
+      {
+        "lang": "es",
+        "name": "Pingüino de las Snares"
+      },
+      {
+        "lang": "fi",
+        "name": "Snaressaartenpingviini"
+      },
+      {
+        "lang": "fr",
+        "name": "Gorfou des Snares"
+      },
+      {
+        "lang": "it",
+        "name": "Pinguino delle Snares"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis kuoduotasis pingvinas"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote kuifpinguïn"
+      },
+      {
+        "lang": "pl",
+        "name": "Pingwin grzebieniasty",
+        "synonyms": [
+          "Skocz grzebieniasty"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Snarespingvin"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eudyptes pachyrhynchus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tučňák novozélandský"
+      },
+      {
+        "lang": "en",
+        "name": "Fiordland Penguin"
+      },
+      {
+        "lang": "es",
+        "name": "Pingüino de Fiordland"
+      },
+      {
+        "lang": "it",
+        "name": "Eudipte beccogrosso",
+        "synonyms": [
+          "Pinguino dal becco grosso",
+          "Pinguino del Fiordland"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Storasnapis kuoduotasis pingvinas"
+      },
+      {
+        "lang": "pl",
+        "name": "Pingwin grubodzioby",
+        "synonyms": [
+          "Skocz grubodzioby"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Fjordpingvin"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eudyptes moseleyi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tučňák skalní"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Rockhopper Penguin"
+      },
+      {
+        "lang": "fr",
+        "name": "Gorfou sauteur subtropical"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eudyptes chrysolophus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Macaroni Penguin"
+      },
+      {
+        "lang": "es",
+        "name": "Pingüino Macaroni",
+        "synonyms": [
+          "Pingüino macarrón (ESP)"
+        ]
+      },
+      {
+        "lang": "cs",
+        "name": "Tučňák žlutorohý"
+      },
+      {
+        "lang": "it",
+        "name": "Eudipte ciuffodorato",
+        "synonyms": [
+          "Pinguino fronte dorata",
+          "Pinguino macaroni"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Auksaspalvis kuoduotasis pingvinas"
+      },
+      {
+        "lang": "nl",
+        "name": "Macaroni-pinguïn"
+      },
+      {
+        "lang": "pl",
+        "name": "Pingwin złotoczuby"
+      },
+      {
+        "lang": "pt",
+        "name": "Pinguim-de-testa-amarela"
+      },
+      {
+        "lang": "sv",
+        "name": "Macaronipingvin"
+      },
+      {
+        "lang": "tr",
+        "name": "Macaroni pengueni"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eudyptes chrysocome",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tučňák skalní"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Rockhopper Penguin"
+      },
+      {
+        "lang": "es",
+        "name": "Pingüino saltarrocas"
+      },
+      {
+        "lang": "fr",
+        "name": "Gorfou sauteur"
+      },
+      {
+        "lang": "it",
+        "name": "Pinguino saltarocce"
+      },
+      {
+        "lang": "lt",
+        "name": "Uolinis kuoduotasis pingvinas"
+      },
+      {
+        "lang": "nl",
+        "name": "Rotspinguïn"
+      },
+      {
+        "lang": "pl",
+        "name": "Pingwin skalny"
+      },
+      {
+        "lang": "sv",
+        "name": "Klipphopparpingvin"
+      }
+    ]
+  }
+]

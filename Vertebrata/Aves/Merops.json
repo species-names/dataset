@@ -1,0 +1,948 @@
+[
+  {
+    "scientific_name": "Merops viridis",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Gwespetaer gouzoug glas"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlha malajská"
+      },
+      {
+        "lang": "de",
+        "name": "Malaienspint"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-throated Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier à gorge bleue"
+      },
+      {
+        "lang": "id",
+        "name": "Kirik-kirik Biru"
+      },
+      {
+        "lang": "hu",
+        "name": "Kéktorkú gyurgyalag"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Berek-berek Rengkung Biru"
+      },
+      {
+        "lang": "nl",
+        "name": "Maleise bijeneter"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåstrupig biätare"
+      },
+      {
+        "lang": "vi",
+        "name": "Trảu đầu nâu"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝喉蜂虎"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops variegatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha modroprsá"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-breasted Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier à collier bleu"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékmellű gyurgyalag"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops superciliosus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Olyfbyvreter"
+      },
+      {
+        "lang": "bg",
+        "name": "Зелен пчелояд"
+      },
+      {
+        "lang": "br",
+        "name": "Gwespetaer Madagaskar"
+      },
+      {
+        "lang": "da",
+        "name": "Madagaskarbiæder"
+      },
+      {
+        "lang": "de",
+        "name": "Madagaskarspint"
+      },
+      {
+        "lang": "en",
+        "name": "Olive Bee-eater"
+      },
+      {
+        "lang": "eo",
+        "name": "Madagaskara abelmanĝulo"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco Malgache"
+      },
+      {
+        "lang": "fi",
+        "name": "Vihermehiläissyöjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier de Madagascar"
+      },
+      {
+        "lang": "hu",
+        "name": "Zöld gyurgyalag"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskarbijeneter"
+      },
+      {
+        "lang": "pl",
+        "name": "Żołna zielona"
+      },
+      {
+        "lang": "pt",
+        "name": "Abelharuco-de-garganta-vermelha"
+      },
+      {
+        "lang": "ru",
+        "name": "Оливковая щурка"
+      },
+      {
+        "lang": "sv",
+        "name": "Grön biätare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops revoilii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha somálská"
+      },
+      {
+        "lang": "en",
+        "name": "Somali Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier de Revoil"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops pusillus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha malá"
+      },
+      {
+        "lang": "en",
+        "name": "Little Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier nain"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops philippinus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "وروار أزرق الذيل"
+      },
+      {
+        "lang": "as",
+        "name": "জিঞাখাটী"
+      },
+      {
+        "lang": "br",
+        "name": "Gwespetaer lost glas"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlha modroocasá"
+      },
+      {
+        "lang": "de",
+        "name": "Blauschwanzspint"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-tailed Bee-eater"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco coliazul"
+      },
+      {
+        "lang": "fa",
+        "name": "زنبورخوار دم‌آبی"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier à queue d'azur"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékfarkú gyurgyalag"
+      },
+      {
+        "lang": "id",
+        "name": "Kirik-kirik laut"
+      },
+      {
+        "lang": "ja",
+        "name": "ハリオハチクイ"
+      },
+      {
+        "lang": "ml",
+        "name": "വലിയ വേലിത്തത്ത"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Berek-berek Carik Dada"
+      },
+      {
+        "lang": "ne",
+        "name": "नीलपुच्छ्रे मुरलीचरा"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwstaartbijeneter"
+      },
+      {
+        "lang": "pnb",
+        "name": "وڈا پترنگا"
+      },
+      {
+        "lang": "ru",
+        "name": "Синехвостая щурка"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåstjärtad biätare"
+      },
+      {
+        "lang": "th",
+        "name": "นกจาบคาหัวเขียว"
+      },
+      {
+        "lang": "zh",
+        "name": "栗喉蜂虎"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops persicus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Blouwangbyvreter"
+      },
+      {
+        "lang": "az",
+        "name": "Yaşıl qızlarquşu"
+      },
+      {
+        "lang": "br",
+        "name": "Gwespetaer-Persia"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlha modrolící"
+      },
+      {
+        "lang": "de",
+        "name": "Blauwangenspint"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-cheeked Bee-eater"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco persa"
+      },
+      {
+        "lang": "fa",
+        "name": "زنبورخوار گلوخرمایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Vihermehiläissyöjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier de Perse"
+      },
+      {
+        "lang": "hu",
+        "name": "Perzsa gyurgyalag"
+      },
+      {
+        "lang": "hy",
+        "name": "Մեղվակեր կանաչ"
+      },
+      {
+        "lang": "nl",
+        "name": "Groene bijeneter"
+      },
+      {
+        "lang": "no",
+        "name": "Blåkinnbieter"
+      },
+      {
+        "lang": "sv",
+        "name": "Grön biätare"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi yanaklı arı kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Бджолоїдка зелена"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops ornatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rainbow Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier arc-en-ciel"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketefarkú gyurgyalag"
+      },
+      {
+        "lang": "ja",
+        "name": "ハチクイ"
+      },
+      {
+        "lang": "nl",
+        "name": "Regenboogbijeneter"
+      },
+      {
+        "lang": "pl",
+        "name": "Żołna tęczowa"
+      },
+      {
+        "lang": "ru",
+        "name": "Радужная щурка"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops orientalis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha proměnlivá"
+      },
+      {
+        "lang": "de",
+        "name": "Smaragdspint"
+      },
+      {
+        "lang": "en",
+        "name": "Little Green Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier d'Orient"
+      },
+      {
+        "lang": "hu",
+        "name": "Smaragd gyurgyalag"
+      },
+      {
+        "lang": "ja",
+        "name": "ミドリハチクイ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops oreobates",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha skořicovoprsá"
+      },
+      {
+        "lang": "en",
+        "name": "Cinnamon-chested Bee-eater"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco montano"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier montagnard"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyi gyurgyalag"
+      },
+      {
+        "lang": "ru",
+        "name": "Ошейниковая щурка"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops nubicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha núbijská"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Carmine Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier écarlate"
+      },
+      {
+        "lang": "hu",
+        "name": "Kármin gyurgyalag"
+      },
+      {
+        "lang": "ja",
+        "name": "キタベニハチクイ"
+      },
+      {
+        "lang": "pl",
+        "name": "Żołna szkarłatna"
+      },
+      {
+        "lang": "sv",
+        "name": "Nordlig karminbiätare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops nubicoides",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooiborsbyvreter"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Carmine Bee-eater"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco carmesí sureño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops muelleri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha safírová"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-headed Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier à tête bleue"
+      },
+      {
+        "lang": "hu",
+        "name": "Zafírgyurgyalag"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwkopbijeneter"
+      },
+      {
+        "lang": "ru",
+        "name": "Синеголовая щурка"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops mentalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-moustached Bee-eater"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops malimbicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha rudobřichá"
+      },
+      {
+        "lang": "en",
+        "name": "Rosy Bee-eater"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco de Malimba"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier gris-rose"
+      },
+      {
+        "lang": "pt",
+        "name": "Abelharuco-rosado"
+      },
+      {
+        "lang": "nl",
+        "name": "Roze bijeneter"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops leschenaulti",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha hnědohlavá"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut-headed Bee-eater"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco cabecirrufo"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier de Leschenault"
+      },
+      {
+        "lang": "hu",
+        "name": "Barnafejű gyurgyalag"
+      },
+      {
+        "lang": "km",
+        "name": "ត្រដេវក្បាលត្នោតខ្ចី"
+      },
+      {
+        "lang": "ml",
+        "name": "ചെന്തലയന്‍ വേലിത്തത്ത"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Berek-berek Senja"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinkopbijeneter"
+      },
+      {
+        "lang": "pl",
+        "name": "Żołna obrożna"
+      },
+      {
+        "lang": "zh",
+        "name": "黑胸蜂虎"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops hirundineus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Swaelstertbyvreter"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlha vlaštovčí"
+      },
+      {
+        "lang": "en",
+        "name": "Swallow-tailed Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier à queue d'aronde"
+      },
+      {
+        "lang": "hu",
+        "name": "Fecskefarkú gyurgyalag"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwaluwstaartbijeneter"
+      },
+      {
+        "lang": "pt",
+        "name": "Abelharuco-andorinha"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops gularis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha sametová"
+      },
+      {
+        "lang": "en",
+        "name": "Black Bee-eater"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco negro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops bulocki",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha zelenočelá"
+      },
+      {
+        "lang": "en",
+        "name": "Red-throated Bee-eater"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops bullockoides",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooikeelbyvreter"
+      },
+      {
+        "lang": "ar",
+        "name": "وروار أبيض الجبهة"
+      },
+      {
+        "lang": "bg",
+        "name": "Белочел пчелояд"
+      },
+      {
+        "lang": "br",
+        "name": "Gwespetaer bailh"
+      },
+      {
+        "lang": "ca",
+        "name": "Abellerol de front blanc"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlha běločelá"
+      },
+      {
+        "lang": "en",
+        "name": "White-fronted Bee-eater"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankfrunta abelmanĝulo"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco frentiblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier à front blanc"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfejű gyurgyalag"
+      },
+      {
+        "lang": "it",
+        "name": "Gruccione frontebianca"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkapbijeneter"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹا موہرہ مکھی کھانا"
+      },
+      {
+        "lang": "pt",
+        "name": "Abelharuco-africano"
+      },
+      {
+        "lang": "ru",
+        "name": "Белолобая щурка"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitpannad biätare"
+      },
+      {
+        "lang": "zh",
+        "name": "白額蜂虎"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops breweri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlha černohlavá"
+      },
+      {
+        "lang": "en",
+        "name": "Black-headed Bee-eater"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco cabecinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier à tête noire"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketefejű gyurgyalag"
+      },
+      {
+        "lang": "pt",
+        "name": "Abelharuco-de-cabeça-preta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops boehmi",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Roeskopbyvreter"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlha Boehmova"
+      },
+      {
+        "lang": "de",
+        "name": "Böhmspint"
+      },
+      {
+        "lang": "en",
+        "name": "Boehm's Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier de Böhm"
+      },
+      {
+        "lang": "hu",
+        "name": "Böhm-gyurgyalag"
+      },
+      {
+        "lang": "pt",
+        "name": "Abelharuco-de-böhm"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops apiaster",
+    "common_names": [
+      {
+        "lang": "an",
+        "name": "Abellaruelo europeyo"
+      },
+      {
+        "lang": "bg",
+        "name": "Обикновен пчелояд"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlha pestrá"
+      },
+      {
+        "lang": "da",
+        "name": "Biæder"
+      },
+      {
+        "lang": "de",
+        "name": "Bienenfresser"
+      },
+      {
+        "lang": "en",
+        "name": "European Bee-eater"
+      },
+      {
+        "lang": "eo",
+        "name": "Europa abelmangulo"
+      },
+      {
+        "lang": "es",
+        "name": "Abejaruco"
+      },
+      {
+        "lang": "eu",
+        "name": "Erlatxoria"
+      },
+      {
+        "lang": "fi",
+        "name": "Mehiläissyöjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier d'Europe"
+      },
+      {
+        "lang": "gl",
+        "name": "Abelleiro"
+      },
+      {
+        "lang": "hy",
+        "name": "Մեղվակեր ոսկեգույն"
+      },
+      {
+        "lang": "it",
+        "name": "Gruccione"
+      },
+      {
+        "lang": "lt",
+        "name": "Bitininkas"
+      },
+      {
+        "lang": "lv",
+        "name": "Bišu dzenis"
+      },
+      {
+        "lang": "mk",
+        "name": "Пчеларка"
+      },
+      {
+        "lang": "nl",
+        "name": "Bijeneter"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパハチクイ"
+      },
+      {
+        "lang": "oc",
+        "name": "Serena",
+        "synonyms": [
+          "abelhòla",
+          "ceira vèrda",
+          "ceira dei ribàs",
+          "manjamèu"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Żołna zwyczajna"
+      },
+      {
+        "lang": "pt",
+        "name": "Abelharuco-comum",
+        "synonyms": [
+          "ou",
+          "Abelharuco-europeu"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Золотистая щурка"
+      },
+      {
+        "lang": "sl",
+        "name": "Čebelar"
+      },
+      {
+        "lang": "sv",
+        "name": "Biätare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Merops albicollis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witkeelbyvreter"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlha bělohrdlá"
+      },
+      {
+        "lang": "en",
+        "name": "White-throated Bee-eater"
+      },
+      {
+        "lang": "fr",
+        "name": "Guêpier à gorge blanche"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehértorkú gyurgyalag"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkeelbijeneter"
+      },
+      {
+        "lang": "ru",
+        "name": "Белогорлая щурка"
+      }
+    ]
+  }
+]

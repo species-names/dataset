@@ -1,0 +1,573 @@
+[
+  {
+    "scientific_name": "Centropus viridis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka filipínská"
+      },
+      {
+        "lang": "en",
+        "name": "Philippine Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal filipino"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal vert"
+      },
+      {
+        "lang": "tr",
+        "name": "Filipin kukalı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus violaceus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka purpurová"
+      },
+      {
+        "lang": "en",
+        "name": "Violaceous Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal violáceo"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal violet"
+      },
+      {
+        "lang": "tr",
+        "name": "Mor kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus unirufus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka bambusová"
+      },
+      {
+        "lang": "tr",
+        "name": "Paslı kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus toulou",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka toloho"
+      },
+      {
+        "lang": "en",
+        "name": "Madagascar Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal malgache"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucou de Madagascar ; Toulou"
+      },
+      {
+        "lang": "tr",
+        "name": "Madagaskar kukalı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus superciliosus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka bělobrvá"
+      },
+      {
+        "lang": "en",
+        "name": "White-browed Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal cejiblanco"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak tepeli kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus steerii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka mindorská"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara tepeli kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus sinensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka vraní"
+      },
+      {
+        "lang": "tr",
+        "name": "İri kukal"
+      },
+      {
+        "lang": "th",
+        "name": "นกกดใหญ่",
+        "synonyms": [
+          "นกกดเพลิง"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus senegalensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka senegalská"
+      },
+      {
+        "lang": "en",
+        "name": "Senegal Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal senegalés"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal du Sénégal"
+      },
+      {
+        "lang": "tr",
+        "name": "Senegal kukalı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus rectunguis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka krátkoprstá"
+      },
+      {
+        "lang": "en",
+        "name": "Short-toed Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal de Strickland"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal de Strickland"
+      },
+      {
+        "lang": "tr",
+        "name": "Kısa parmaklı kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus phasianinus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka bažantí"
+      },
+      {
+        "lang": "en",
+        "name": "Pheasant Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal faisán"
+      },
+      {
+        "lang": "tr",
+        "name": "Sülün kukalı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus nigrorufus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka dvoubarvá"
+      },
+      {
+        "lang": "en",
+        "name": "Sunda Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal de la Sonda"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal noirou"
+      },
+      {
+        "lang": "tr",
+        "name": "Sunda kukalı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus monachus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka mniší"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-headed coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal monje"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi göğüslü kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus milo",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Blasskopfkuckuck"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarı göğüslü kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus menbeki",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka tmavá"
+      },
+      {
+        "lang": "en",
+        "name": "Greater Black Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal menebiki"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük kara kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus melanops",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka škrabošková"
+      },
+      {
+        "lang": "en",
+        "name": "Black-faced Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal carinegro"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartwangspoorkoekoek"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara gözlü kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus leucogaster",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka bělobřichá"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara gerdanlı kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus grillii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka černoprsá"
+      },
+      {
+        "lang": "en",
+        "name": "Black Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal negro"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal noir"
+      },
+      {
+        "lang": "pt",
+        "name": "Cucal-preto-africano"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus goliath",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka goliáš"
+      },
+      {
+        "lang": "en",
+        "name": "Goliath Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal Goliat"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal goliath"
+      },
+      {
+        "lang": "tr",
+        "name": "Goliath kukalı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus cupreicaudus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka měděná"
+      },
+      {
+        "lang": "tr",
+        "name": "Bakır kuyruklu kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus chlororhynchos",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-billed Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal de Ceilán"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal de Ceylan"
+      },
+      {
+        "lang": "si",
+        "name": "බට ඇටි කුකුළා"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeşil gagalı kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus chalybeus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka biakská"
+      },
+      {
+        "lang": "en",
+        "name": "Biak Coucal"
+      },
+      {
+        "lang": "tr",
+        "name": "Biak kukalı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus celebensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka červenavá"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal de Célebes"
+      },
+      {
+        "lang": "tr",
+        "name": "Defne kukalı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus burchellii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Burchell's Coucal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus bernsteini",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka Bernsteinova"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Black Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal de Bernstein"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal de Bernstein"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük kara kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus bengalensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka bengálská"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Coucal"
+      },
+      {
+        "lang": "es",
+        "name": "Cucal bengalí"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal rufin"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung But-but Kecil"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük kukal"
+      },
+      {
+        "lang": "vi",
+        "name": "Bìm bịp nhỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "番鵑"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus ateralbus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka stračí"
+      },
+      {
+        "lang": "tr",
+        "name": "Benekli kukal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus anselli",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka gabonská"
+      },
+      {
+        "lang": "tr",
+        "name": "Gabon kukalı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Centropus andamanensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kukačka andamanská"
+      },
+      {
+        "lang": "en",
+        "name": "Brown Coucal"
+      },
+      {
+        "lang": "tr",
+        "name": "Andaman kukalı"
+      }
+    ]
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "scientific_name": "Gyps tenuirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sup tenkozobý"
+      },
+      {
+        "lang": "en",
+        "name": "Slender-billed Vulture"
+      },
+      {
+        "lang": "fi",
+        "name": "Gangesinkorppikotka"
+      },
+      {
+        "lang": "hu",
+        "name": "Keskenycsőrű keselyű"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gyps rueppellii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sup krahujový"
+      },
+      {
+        "lang": "de",
+        "name": "Sperbergeier"
+      },
+      {
+        "lang": "en",
+        "name": "Rueppell's Griffon"
+      },
+      {
+        "lang": "es",
+        "name": "Buitre moteado"
+      },
+      {
+        "lang": "fr",
+        "name": "Vautour de Rüppell"
+      },
+      {
+        "lang": "hu",
+        "name": "Karvalykeselyű"
+      },
+      {
+        "lang": "pl",
+        "name": "Sęp plamisty"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gyps melitensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gyps indicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sup indický"
+      },
+      {
+        "lang": "en",
+        "name": "Long-billed Vulture"
+      },
+      {
+        "lang": "es",
+        "name": "Buitre hindú"
+      },
+      {
+        "lang": "pl",
+        "name": "Sęp indyjski"
+      },
+      {
+        "lang": "th",
+        "name": "แร้งสีน้ำตาล"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gyps himalayensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sup himálajský"
+      },
+      {
+        "lang": "de",
+        "name": "Schneegeier"
+      },
+      {
+        "lang": "en",
+        "name": "Himalayan Griffon"
+      },
+      {
+        "lang": "es",
+        "name": "Buitre del Himalaya"
+      },
+      {
+        "lang": "hu",
+        "name": "Havasi fakókeselyű"
+      },
+      {
+        "lang": "pl",
+        "name": "Sęp himalajski"
+      },
+      {
+        "lang": "th",
+        "name": "แร้งสีน้ำตาลหิมาลัย"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gyps fulvus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kransaasvoël"
+      },
+      {
+        "lang": "ar",
+        "name": "النسر"
+      },
+      {
+        "lang": "ast",
+        "name": "La Utre"
+      },
+      {
+        "lang": "az",
+        "name": "Ağbaş Asiya kərkəsi"
+      },
+      {
+        "lang": "be",
+        "name": "Белагаловы сіп"
+      },
+      {
+        "lang": "bg",
+        "name": "Белоглав лешояд"
+      },
+      {
+        "lang": "br",
+        "name": "Gup gell"
+      },
+      {
+        "lang": "ca",
+        "name": "Voltor comú"
+      },
+      {
+        "lang": "cs",
+        "name": "Sup bělohlavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Fultur"
+      },
+      {
+        "lang": "da",
+        "name": "Gåsegrib"
+      },
+      {
+        "lang": "de",
+        "name": "Gänsegeier"
+      },
+      {
+        "lang": "el",
+        "name": "Όρνιο"
+      },
+      {
+        "lang": "en",
+        "name": "Griffon Vulture"
+      },
+      {
+        "lang": "eo",
+        "name": "Ansergrifo"
+      },
+      {
+        "lang": "es",
+        "name": "Buitre leonado"
+      },
+      {
+        "lang": "et",
+        "name": "Kaeluskotkas"
+      },
+      {
+        "lang": "eu",
+        "name": "Sai arre"
+      },
+      {
+        "lang": "fi",
+        "name": "Hanhikorppikotka"
+      },
+      {
+        "lang": "fo",
+        "name": "Gammur"
+      },
+      {
+        "lang": "fr",
+        "name": "Vautour fauve"
+      },
+      {
+        "lang": "fy",
+        "name": "Feale gier"
+      },
+      {
+        "lang": "ga",
+        "name": "Bultúr"
+      },
+      {
+        "lang": "gl",
+        "name": "Voitre común"
+      },
+      {
+        "lang": "he",
+        "name": "נשר מקראי"
+      },
+      {
+        "lang": "hr",
+        "name": "Bjeloglavi sup"
+      },
+      {
+        "lang": "hu",
+        "name": "Fakókeselyű"
+      },
+      {
+        "lang": "hy",
+        "name": "Անգղ սպիտակագլուխ"
+      },
+      {
+        "lang": "is",
+        "name": "Gæsagammur"
+      },
+      {
+        "lang": "it",
+        "name": "Grifone"
+      },
+      {
+        "lang": "ja",
+        "name": "シロエリハゲワシ"
+      },
+      {
+        "lang": "ka",
+        "name": "ორბი"
+      },
+      {
+        "lang": "kk",
+        "name": "Ақбас құмай"
+      },
+      {
+        "lang": "li",
+        "name": "Vale gier"
+      },
+      {
+        "lang": "lt",
+        "name": "Palšasis grifas"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltgalvas grifs"
+      },
+      {
+        "lang": "mk",
+        "name": "Белоглав мршојадец"
+      },
+      {
+        "lang": "mn",
+        "name": "Ухаа хажир"
+      },
+      {
+        "lang": "mt",
+        "name": "Avultun prim"
+      },
+      {
+        "lang": "nl",
+        "name": "Vale gier"
+      },
+      {
+        "lang": "no",
+        "name": "Gåsegribb"
+      },
+      {
+        "lang": "pl",
+        "name": "Sęp płowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Abutre-fouveiro"
+      },
+      {
+        "lang": "rm",
+        "name": "Tschess cularin"
+      },
+      {
+        "lang": "ro",
+        "name": "Vultur sur"
+      },
+      {
+        "lang": "ru",
+        "name": "Белоголовый сип"
+      },
+      {
+        "lang": "sc",
+        "name": "Bentruxiu"
+      },
+      {
+        "lang": "sk",
+        "name": "Sup bielohlavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Beloglavi jastreb"
+      },
+      {
+        "lang": "sq",
+        "name": "Coftinngrënsi"
+      },
+      {
+        "lang": "sr",
+        "name": "Beloglavi sup - белоглави суп"
+      },
+      {
+        "lang": "sv",
+        "name": "Gåsgam"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl akbaba"
+      },
+      {
+        "lang": "tyv",
+        "name": "Ак баштыг дас"
+      },
+      {
+        "lang": "uk",
+        "name": "Сип білоголовий"
+      },
+      {
+        "lang": "zh",
+        "name": "西域兀赞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gyps coprotheres",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sup kapský"
+      },
+      {
+        "lang": "es",
+        "name": "Buitre de El Cabo"
+      },
+      {
+        "lang": "fr",
+        "name": "Vautour du Cap"
+      },
+      {
+        "lang": "ja",
+        "name": "ケープハゲワシ"
+      },
+      {
+        "lang": "pl",
+        "name": "Sęp przylądkowy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gyps bochenskii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gyps bengalensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sup bengálský"
+      },
+      {
+        "lang": "en",
+        "name": "White-rumped Vulture"
+      },
+      {
+        "lang": "es",
+        "name": "Buitre dorsiblanco bengalí"
+      },
+      {
+        "lang": "ja",
+        "name": "ベンガルハゲワシ"
+      },
+      {
+        "lang": "th",
+        "name": "แร้งเทาหลังขาว"
+      },
+      {
+        "lang": "pl",
+        "name": "Sęp bengalski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gyps africanus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witrugaasvoël"
+      },
+      {
+        "lang": "cs",
+        "name": "Sup africký"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidrygget grib"
+      },
+      {
+        "lang": "de",
+        "name": "Weißrückengeier"
+      },
+      {
+        "lang": "en",
+        "name": "White-backed Vulture"
+      },
+      {
+        "lang": "es",
+        "name": "Buitre de espalda blanca"
+      },
+      {
+        "lang": "fi",
+        "name": "Savannikorppikotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Vautour africain"
+      },
+      {
+        "lang": "he",
+        "name": "נשר אפריקני"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérhátú keselyű"
+      },
+      {
+        "lang": "it",
+        "name": "Grifone dorsobianco africano"
+      },
+      {
+        "lang": "nl",
+        "name": "witruggier"
+      },
+      {
+        "lang": "pl",
+        "name": "Sęp afrykański"
+      },
+      {
+        "lang": "xsm",
+        "name": "Ŋwɩ-poŋo"
+      }
+    ]
+  }
+]

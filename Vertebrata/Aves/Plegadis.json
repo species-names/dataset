@@ -1,0 +1,388 @@
+[
+  {
+    "scientific_name": "Plegadis ridgwayi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ibis andský"
+      },
+      {
+        "lang": "tr",
+        "name": "Puna aynağı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Plegadis falcinellus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Glansibis"
+      },
+      {
+        "lang": "ar",
+        "name": "أبو منجل المصقول"
+      },
+      {
+        "lang": "ast",
+        "name": "Morín"
+      },
+      {
+        "lang": "az",
+        "name": "Qaranaz"
+      },
+      {
+        "lang": "be",
+        "name": "Каравайка"
+      },
+      {
+        "lang": "bg",
+        "name": "Блестящ ибис"
+      },
+      {
+        "lang": "br",
+        "name": "Ibiz du"
+      },
+      {
+        "lang": "ca",
+        "name": "Capó reial"
+      },
+      {
+        "lang": "cs",
+        "name": "ibis hnědý"
+      },
+      {
+        "lang": "cy",
+        "name": "Chwibanogl ddu"
+      },
+      {
+        "lang": "da",
+        "name": "Sort Ibis"
+      },
+      {
+        "lang": "de",
+        "name": "Brauner Sichler"
+      },
+      {
+        "lang": "dv",
+        "name": "ކަޅު ބުޅިތުންބި",
+        "synonyms": [
+          "Kalhu Bulhithunbi"
+        ]
+      },
+      {
+        "lang": "el",
+        "name": "Χαλκόκοτα"
+      },
+      {
+        "lang": "en",
+        "name": "Glossy Ibis"
+      },
+      {
+        "lang": "eo",
+        "name": "Bruna ibiso"
+      },
+      {
+        "lang": "es",
+        "name": "Morito Común"
+      },
+      {
+        "lang": "et",
+        "name": "Tõmmuiibis"
+      },
+      {
+        "lang": "eu",
+        "name": "Beltzarana"
+      },
+      {
+        "lang": "fi",
+        "name": "pronssi-iibis"
+      },
+      {
+        "lang": "fo",
+        "name": "Bognev"
+      },
+      {
+        "lang": "fr",
+        "name": "Ibis falcinelle"
+      },
+      {
+        "lang": "ga",
+        "name": "Íbis Niamhrach"
+      },
+      {
+        "lang": "gl",
+        "name": "mazarico mouro",
+        "synonyms": [
+          "mazarico negro"
+        ]
+      },
+      {
+        "lang": "gn",
+        "name": "Karâu'i"
+      },
+      {
+        "lang": "he",
+        "name": "מגלן חום"
+      },
+      {
+        "lang": "hr",
+        "name": "Blistavi Ibis"
+      },
+      {
+        "lang": "ht",
+        "name": "Ibis pechè"
+      },
+      {
+        "lang": "hu",
+        "name": "Batla"
+      },
+      {
+        "lang": "hy",
+        "name": "Քաջահավ"
+      },
+      {
+        "lang": "id",
+        "name": "Ibis hitam"
+      },
+      {
+        "lang": "is",
+        "name": "Bognefur"
+      },
+      {
+        "lang": "it",
+        "name": "Mignattaio"
+      },
+      {
+        "lang": "ja",
+        "name": "ブロンズトキ",
+        "synonyms": [
+          "buronzutoki"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "ივეოსი"
+      },
+      {
+        "lang": "kk",
+        "name": "Қарабай"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudasis ibis"
+      },
+      {
+        "lang": "lv",
+        "name": "Brūnais ibiss"
+      },
+      {
+        "lang": "mg",
+        "name": "Famakisifotra"
+      },
+      {
+        "lang": "mk",
+        "name": "Кривоклуна чапја",
+        "synonyms": [
+          "Црн (Блескав) ибис"
+        ]
+      },
+      {
+        "lang": "mr",
+        "name": "चिमणा अवाक"
+      },
+      {
+        "lang": "ms",
+        "name": "Sekendi Kilat"
+      },
+      {
+        "lang": "mt",
+        "name": "Velleran"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte ibis"
+      },
+      {
+        "lang": "no",
+        "name": "Bronseibis"
+      },
+      {
+        "lang": "pcd",
+        "name": "Chàrlo"
+      },
+      {
+        "lang": "pl",
+        "name": "ibis kasztanowaty"
+      },
+      {
+        "lang": "pnb",
+        "name": "گلاسی آئیبس"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Caraúna-de-cara-branca"
+      },
+      {
+        "lang": "pt",
+        "name": "Íbis-preto"
+      },
+      {
+        "lang": "rm",
+        "name": "Ibis dal bec tort"
+      },
+      {
+        "lang": "ru",
+        "name": "Каравайка"
+      },
+      {
+        "lang": "sh",
+        "name": "crni ibis / црни ибис"
+      },
+      {
+        "lang": "sk",
+        "name": "ibisovec hnedý"
+      },
+      {
+        "lang": "sl",
+        "name": "plevica"
+      },
+      {
+        "lang": "sq",
+        "name": "Kojliku i zi"
+      },
+      {
+        "lang": "sr",
+        "name": "Crni ibis"
+      },
+      {
+        "lang": "sv",
+        "name": "Bronsibis"
+      },
+      {
+        "lang": "sw",
+        "name": "Kwarara Mweusi"
+      },
+      {
+        "lang": "ta",
+        "name": "அன்றில்"
+      },
+      {
+        "lang": "th",
+        "name": "นกช้อนหอยดำเหลือบ"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı aynak"
+      },
+      {
+        "lang": "uk",
+        "name": "Коровайка"
+      },
+      {
+        "lang": "vi",
+        "name": "Quắm đen"
+      },
+      {
+        "lang": "zh",
+        "name": "彩鹮"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Plegadis chihi",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Ibiz dremm wenn"
+      },
+      {
+        "lang": "cs",
+        "name": "Ibis americký"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidmasket Ibis"
+      },
+      {
+        "lang": "de",
+        "name": "Brillensichler"
+      },
+      {
+        "lang": "en",
+        "name": "White-faced Ibis"
+      },
+      {
+        "lang": "es",
+        "name": "Morito Cariblanco",
+        "synonyms": [
+          "Ibis de cara blanca",
+          "Cuervillo de Cañada (ARG)"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanpronssi-iibis"
+      },
+      {
+        "lang": "fr",
+        "name": "Ibis à face blanche"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérarcú batla"
+      },
+      {
+        "lang": "it",
+        "name": "Ibis facciabianca"
+      },
+      {
+        "lang": "ja",
+        "name": "カオジロブロンズトキ",
+        "synonyms": [
+          "kaojiroburonzutoki"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Witmaskeribis"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitgrimeibis"
+      },
+      {
+        "lang": "pl",
+        "name": "Ibis amerykański"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Caraúna-de-cara-branca"
+      },
+      {
+        "lang": "pt",
+        "name": "Caraúna"
+      },
+      {
+        "lang": "ru",
+        "name": "Очковая каравайка"
+      },
+      {
+        "lang": "sk",
+        "name": "ibisovec okuliarnatý"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitpannad bronsibis"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak yüzlü aynak"
+      },
+      {
+        "lang": "zh",
+        "name": "白脸彩鹮"
+      }
+    ]
+  }
+]

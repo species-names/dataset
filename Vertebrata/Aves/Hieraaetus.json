@@ -1,0 +1,327 @@
+[
+  {
+    "scientific_name": "Hieraaetus weiskei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "New Guinea Hawk-eagle"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hieraaetus wahlbergi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orel Wahlbergův"
+      },
+      {
+        "lang": "en",
+        "name": "Wahlberg's Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Águila de Wahlberg"
+      },
+      {
+        "lang": "it",
+        "name": "Aquila di Wahlberg"
+      },
+      {
+        "lang": "pl",
+        "name": "Orzeł afrykański"
+      },
+      {
+        "lang": "tr",
+        "name": "Wahlberg kartalı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hieraaetus pennatus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Dwergarend"
+      },
+      {
+        "lang": "ar",
+        "name": "السّبَر"
+      },
+      {
+        "lang": "ast",
+        "name": "Aigla de les Biesques"
+      },
+      {
+        "lang": "az",
+        "name": "Cırtdan qartal"
+      },
+      {
+        "lang": "be",
+        "name": "Арол-карлік"
+      },
+      {
+        "lang": "bg",
+        "name": "Малък орел"
+      },
+      {
+        "lang": "br",
+        "name": "Erer korr"
+      },
+      {
+        "lang": "ca",
+        "name": "Àguila calçada"
+      },
+      {
+        "lang": "cs",
+        "name": "Orel nejmenší"
+      },
+      {
+        "lang": "da",
+        "name": "Dværgørn"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergadler"
+      },
+      {
+        "lang": "el",
+        "name": "Σταυραετός"
+      },
+      {
+        "lang": "en",
+        "name": "Booted Eagle"
+      },
+      {
+        "lang": "eo",
+        "name": "Botaglo"
+      },
+      {
+        "lang": "es",
+        "name": "Águila calzada"
+      },
+      {
+        "lang": "et",
+        "name": "Kääbuskotkas"
+      },
+      {
+        "lang": "eu",
+        "name": "Àguila calçada"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkukotka"
+      },
+      {
+        "lang": "fo",
+        "name": "Velbrún ørn"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigle botté"
+      },
+      {
+        "lang": "gl",
+        "name": "Aguia calzada"
+      },
+      {
+        "lang": "he",
+        "name": "עיט גמד"
+      },
+      {
+        "lang": "hr",
+        "name": "Patuljasti orao"
+      },
+      {
+        "lang": "hu",
+        "name": "Törpesas"
+      },
+      {
+        "lang": "hy",
+        "name": "Արծիվ գաճաճ"
+      },
+      {
+        "lang": "id",
+        "name": "Elang Setiwel"
+      },
+      {
+        "lang": "is",
+        "name": "Skálmörn"
+      },
+      {
+        "lang": "it",
+        "name": "Aquila minore eurasiatica"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメクマタカ"
+      },
+      {
+        "lang": "ka",
+        "name": "ჩია არწივი"
+      },
+      {
+        "lang": "kk",
+        "name": "Бақалтақ бүркіт"
+      },
+      {
+        "lang": "ko",
+        "name": "흰점어깨수리"
+      },
+      {
+        "lang": "kwn",
+        "name": "Ekangakodi"
+      },
+      {
+        "lang": "lt",
+        "name": "Nykštukinis erelis"
+      },
+      {
+        "lang": "mk",
+        "name": "Џуџест (Мал) орел"
+      },
+      {
+        "lang": "mn",
+        "name": "Бахим бүргэд"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Lang Junam"
+      },
+      {
+        "lang": "mt",
+        "name": "Ajkla tal-Kalzetti"
+      },
+      {
+        "lang": "nl",
+        "name": "Dwergarend"
+      },
+      {
+        "lang": "no",
+        "name": "Dvergørn"
+      },
+      {
+        "lang": "pl",
+        "name": "Orzełek włochaty"
+      },
+      {
+        "lang": "pt",
+        "name": "Águia-pequena"
+      },
+      {
+        "lang": "rm",
+        "name": "Evla pitschna"
+      },
+      {
+        "lang": "ru",
+        "name": "Орёл-карлик"
+      },
+      {
+        "lang": "sk",
+        "name": "Orol myšiakovitý"
+      },
+      {
+        "lang": "sl",
+        "name": "Mali orel"
+      },
+      {
+        "lang": "sq",
+        "name": "Shqiponja e vogel"
+      },
+      {
+        "lang": "sr",
+        "name": "patuljasti orao / Патулјасти орао"
+      },
+      {
+        "lang": "sv",
+        "name": "Dvärgörn"
+      },
+      {
+        "lang": "sw",
+        "name": "Tai Mabuti"
+      },
+      {
+        "lang": "ta",
+        "name": "Punjai Parundhu"
+      },
+      {
+        "lang": "th",
+        "name": "นกอินทรีเล็ก"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük kartal"
+      },
+      {
+        "lang": "tyv",
+        "name": "Бичии эзир"
+      },
+      {
+        "lang": "uk",
+        "name": "Орел-карлик"
+      },
+      {
+        "lang": "zh",
+        "name": "靴雕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hieraaetus morphnoides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Little Eagle"
+      },
+      {
+        "lang": "pl",
+        "name": "Orzełek australijski"
+      },
+      {
+        "lang": "es",
+        "name": "Aguililla australiana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hieraaetus ayresii",
+    "common_names": [
+      {
+        "lang": "pl",
+        "name": "Orzełek plamisty"
+      },
+      {
+        "lang": "en",
+        "name": "Ayres's Hawk-Eagle"
+      },
+      {
+        "lang": "de",
+        "name": "Fleckenadler"
+      },
+      {
+        "lang": "es",
+        "name": "Águila de Ayres"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigle d'Ayres"
+      },
+      {
+        "lang": "it",
+        "name": "Aquila minore di Ayres"
+      },
+      {
+        "lang": "nl",
+        "name": "Ayres-havikarend"
+      },
+      {
+        "lang": "pt",
+        "name": "Águia-de-ayres"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканский ястребиный орёл"
+      }
+    ]
+  }
+]

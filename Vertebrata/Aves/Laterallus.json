@@ -1,0 +1,366 @@
+[
+  {
+    "scientific_name": "Laterallus xenopterus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-faced Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Burrito cara roja"
+      },
+      {
+        "lang": "fi",
+        "name": "Paraguaynrääkkä"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo facciarossiccia"
+      },
+      {
+        "lang": "ja",
+        "name": "シロオビクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Conovers dwergral"
+      },
+      {
+        "lang": "pt",
+        "name": "Sanã-de-cara-ruiva"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödhuvad dvärgrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Laterallus spilonotus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Rasclet de les Galápagos"
+      },
+      {
+        "lang": "en",
+        "name": "Galapagos Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela de las Galápagos"
+      },
+      {
+        "lang": "fi",
+        "name": "Galapagosinrääkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle des Galapagos"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo delle Galápagos"
+      },
+      {
+        "lang": "ja",
+        "name": "ガラパゴスクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Galápagosdwergral"
+      },
+      {
+        "lang": "sv",
+        "name": "Galapagosrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Laterallus ruber",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ruddy Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela rojiza"
+      },
+      {
+        "lang": "fi",
+        "name": "Meksikonrääkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle roux"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo rossiccio"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロコクイナ"
+      },
+      {
+        "lang": "ml",
+        "name": "ചുവന്ന നെല്ലിക്കോഴി"
+      },
+      {
+        "lang": "nl",
+        "name": "Rosse dwergral"
+      },
+      {
+        "lang": "sv",
+        "name": "Koppardvärgrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Laterallus melanophaius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-sided Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela burrito"
+      },
+      {
+        "lang": "fi",
+        "name": "Eteläamerikanrääkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle brunoir"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo fianchirossicci"
+      },
+      {
+        "lang": "nl",
+        "name": "Braziliaanse dwergral"
+      },
+      {
+        "lang": "pt",
+        "name": "Açanã-de-pescoço-ferrugem",
+        "synonyms": [
+          "Sanã-parda"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Rödsidig dvärgrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Laterallus levraudi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rusty-flanked Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela venezolana"
+      },
+      {
+        "lang": "fi",
+        "name": "Orinoconrääkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Levraud"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo fianchiruggine"
+      },
+      {
+        "lang": "ja",
+        "name": "ワキアカクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Levrauds dwergral"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostsidig dvärgrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Laterallus leucopyrrhus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-and-white Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela rojiblanca"
+      },
+      {
+        "lang": "fi",
+        "name": "Paranánrääkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle blanc et roux"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo biancorosso"
+      },
+      {
+        "lang": "ja",
+        "name": "アカシロクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodbonte dwergral"
+      },
+      {
+        "lang": "pt",
+        "name": "Sanã-vermelha"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödvit dvärgrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Laterallus jamaicensis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "مرعة سوداء"
+      },
+      {
+        "lang": "en",
+        "name": "Black Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela negra"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustarääkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle noir"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo nerastro"
+      },
+      {
+        "lang": "ja",
+        "name": "クロコクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte dwergral"
+      },
+      {
+        "lang": "pt",
+        "name": "Açanã-preta"
+      },
+      {
+        "lang": "sv",
+        "name": "Svart dvärgrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Laterallus exilis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "مرعة رمادية الصدر"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-breasted Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela bicolor"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruohikkorääkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle grêle"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo pettogrigio"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイムネコクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Amazonedwergral"
+      },
+      {
+        "lang": "pt",
+        "name": "Sanã-do-capim"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråbröstad dvärgrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Laterallus albigularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela carrasqueadora"
+      },
+      {
+        "lang": "fi",
+        "name": "Lymyrääkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle à menton blanc"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo golabianca"
+      },
+      {
+        "lang": "ja",
+        "name": "キタノドジロコクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkeeldwergral"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitstrupig dvärgrall"
+      }
+    ]
+  }
+]

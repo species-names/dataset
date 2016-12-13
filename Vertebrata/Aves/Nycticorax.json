@@ -1,0 +1,474 @@
+[
+  {
+    "scientific_name": "Nycticorax nycticorax",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gewone nagreier"
+      },
+      {
+        "lang": "an",
+        "name": "Martinetz"
+      },
+      {
+        "lang": "ar",
+        "name": "بلشون الليل"
+      },
+      {
+        "lang": "ast",
+        "name": "Garcina de Nueche"
+      },
+      {
+        "lang": "az",
+        "name": "Adi qarıldaq"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡауылдаҡ селән"
+      },
+      {
+        "lang": "be",
+        "name": "Кваква звычайная"
+      },
+      {
+        "lang": "bg",
+        "name": "Нощна чапла"
+      },
+      {
+        "lang": "bh",
+        "name": "तार बकुला"
+      },
+      {
+        "lang": "bn",
+        "name": "নিশি বক"
+      },
+      {
+        "lang": "br",
+        "name": "Kerc'heiz-noz kein du"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet de nit"
+      },
+      {
+        "lang": "cs",
+        "name": "Kvakoš noční"
+      },
+      {
+        "lang": "cw",
+        "name": "Kerghyth nos"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr y nos"
+      },
+      {
+        "lang": "da",
+        "name": "Nathejre"
+      },
+      {
+        "lang": "de",
+        "name": "Nachtreiher"
+      },
+      {
+        "lang": "dv",
+        "name": "ރާބޮނދި"
+      },
+      {
+        "lang": "el",
+        "name": "Νυχτοκόρακας"
+      },
+      {
+        "lang": "en",
+        "name": "Black-crowned Night Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Noktardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Martinete común",
+        "synonyms": [
+          "aldorta",
+          "guaco",
+          "huaco",
+          "garza bruja",
+          "huairavo",
+          "martinete capinegro",
+          "rey congo cabeza negra",
+          "pedrete de corona negra"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Ööhaigur"
+      },
+      {
+        "lang": "eu",
+        "name": "Amiltxori arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل کاکل‌سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Yöhaikara"
+      },
+      {
+        "lang": "fo",
+        "name": "Nátthegri"
+      },
+      {
+        "lang": "fr",
+        "name": "Bihoreau gris"
+      },
+      {
+        "lang": "fy",
+        "name": "Kwak"
+      },
+      {
+        "lang": "ga",
+        "name": "Corr oíche"
+      },
+      {
+        "lang": "gcf",
+        "name": "Crabier bois"
+      },
+      {
+        "lang": "gl",
+        "name": "Garza da noite"
+      },
+      {
+        "lang": "gn",
+        "name": "Tajasu guyra"
+      },
+      {
+        "lang": "gu",
+        "name": "અવાક"
+      },
+      {
+        "lang": "gv",
+        "name": "Coar ny hoie"
+      },
+      {
+        "lang": "haw",
+        "name": "'Auku'u"
+      },
+      {
+        "lang": "he",
+        "name": "אנפת לילה"
+      },
+      {
+        "lang": "hi",
+        "name": "वाक"
+      },
+      {
+        "lang": "hr",
+        "name": "Gak kakavac"
+      },
+      {
+        "lang": "ht",
+        "name": "Kòk lannwit kouwòn nwa"
+      },
+      {
+        "lang": "hu",
+        "name": "Bakcsó"
+      },
+      {
+        "lang": "hy",
+        "name": "Կվակվա"
+      },
+      {
+        "lang": "id",
+        "name": "Kowak-malam Abu"
+      },
+      {
+        "lang": "is",
+        "name": "Nátthegri"
+      },
+      {
+        "lang": "it",
+        "name": "Nitticora"
+      },
+      {
+        "lang": "ja",
+        "name": "ゴイサギ"
+      },
+      {
+        "lang": "ka",
+        "name": "ღამის ყანჩა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Псыхэуэпщагуэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Бақылдақ құтан"
+      },
+      {
+        "lang": "kn",
+        "name": "ರಾತ್ರಿ ಬಕ"
+      },
+      {
+        "lang": "ko",
+        "name": "해오라기"
+      },
+      {
+        "lang": "kw",
+        "name": "Kerghyth nos"
+      },
+      {
+        "lang": "kwn",
+        "name": "Hakaruu Gomasiku"
+      },
+      {
+        "lang": "la",
+        "name": "Nycticorax"
+      },
+      {
+        "lang": "lb",
+        "name": "Nuetsräer"
+      },
+      {
+        "lang": "lt",
+        "name": "Naktikovas"
+      },
+      {
+        "lang": "lv",
+        "name": "Nakts gārnis"
+      },
+      {
+        "lang": "mg",
+        "name": "Doaka"
+      },
+      {
+        "lang": "mk",
+        "name": "Ноќна чапја"
+      },
+      {
+        "lang": "ml",
+        "name": "പാതിരാക്കൊക്ക്"
+      },
+      {
+        "lang": "mqj",
+        "name": "Dakko-dakko"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Pucong Kuak"
+      },
+      {
+        "lang": "mt",
+        "name": "Kwakka"
+      },
+      {
+        "lang": "my",
+        "name": "လင်းဝက်"
+      },
+      {
+        "lang": "nl",
+        "name": "Kwak"
+      },
+      {
+        "lang": "nn",
+        "name": "Natthegre"
+      },
+      {
+        "lang": "no",
+        "name": "Natthegre"
+      },
+      {
+        "lang": "pcd",
+        "name": "Buhorioe"
+      },
+      {
+        "lang": "pl",
+        "name": "Ślepowron zwyczajny"
+      },
+      {
+        "lang": "pnb",
+        "name": "رات دا ہیرون"
+      },
+      {
+        "lang": "pt",
+        "name": "Goraz"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Savacu"
+      },
+      {
+        "lang": "qu",
+        "name": "Waqwa"
+      },
+      {
+        "lang": "rm",
+        "name": "Irun stgarvunà"
+      },
+      {
+        "lang": "ro",
+        "name": "Stârc de noapte"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенная кваква"
+      },
+      {
+        "lang": "rue",
+        "name": "Кваква"
+      },
+      {
+        "lang": "sh",
+        "name": "Gak kakavac"
+      },
+      {
+        "lang": "sk",
+        "name": "Chvakoš nočný"
+      },
+      {
+        "lang": "sl",
+        "name": "Kvakač"
+      },
+      {
+        "lang": "sq",
+        "name": "Çapka e natës"
+      },
+      {
+        "lang": "sr",
+        "name": "Ноћна чапља"
+      },
+      {
+        "lang": "st",
+        "name": "Kokolofitoe"
+      },
+      {
+        "lang": "su",
+        "name": "Kowak-peuting kulawu"
+      },
+      {
+        "lang": "sv",
+        "name": "Natthäger"
+      },
+      {
+        "lang": "sw",
+        "name": "Kingoyo Utosi-mweusi"
+      },
+      {
+        "lang": "ta",
+        "name": "இராக்கொக்கு"
+      },
+      {
+        "lang": "th",
+        "name": "นกแขวก"
+      },
+      {
+        "lang": "tr",
+        "name": "Gece balıkçılı"
+      },
+      {
+        "lang": "uk",
+        "name": "Квак"
+      },
+      {
+        "lang": "vec",
+        "name": "Sgarzo"
+      },
+      {
+        "lang": "vi",
+        "name": "Vạc"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Àm-kong"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "夜鷺"
+      },
+      {
+        "lang": "zh",
+        "name": "夜鹭"
+      },
+      {
+        "lang": "zu",
+        "name": "uSiba"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nycticorax caledonicus",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Каледонская кваква"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet de nit canyella"
+      },
+      {
+        "lang": "cs",
+        "name": "Kvakoš rezavý"
+      },
+      {
+        "lang": "de",
+        "name": "Rotrückenreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Nankeen Night Heron"
+      },
+      {
+        "lang": "es",
+        "name": "Martinete canelo"
+      },
+      {
+        "lang": "fr",
+        "name": "Bihoreau cannelle"
+      },
+      {
+        "lang": "hu",
+        "name": "Kaledón bakcsó"
+      },
+      {
+        "lang": "id",
+        "name": "Kowak-malam merah"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシブトゴイ"
+      },
+      {
+        "lang": "nl",
+        "name": "Rosse kwak"
+      },
+      {
+        "lang": "pl",
+        "name": "Ślepowron rdzawy"
+      },
+      {
+        "lang": "pnb",
+        "name": "نکٹوکوریکس کیلیڈونیکس"
+      },
+      {
+        "lang": "ru",
+        "name": "Каледонская кваква"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostnatthäger"
+      },
+      {
+        "lang": "tr",
+        "name": "Nankeen gece balıkçılı"
+      },
+      {
+        "lang": "zh",
+        "name": "紫花夜鷺"
+      }
+    ]
+  }
+]

@@ -1,0 +1,694 @@
+[
+  {
+    "scientific_name": "Gallirallus temptatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus storrsolsoni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus roletti",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus ripleyi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus pisonii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus pendiculentus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus huiatua",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus gracilitibia",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus ernstmayri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus epulare",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus wakensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Wake-Ralle"
+      },
+      {
+        "lang": "en",
+        "name": "Wake Island Rail"
+      },
+      {
+        "lang": "ja",
+        "name": "ウェーククイナ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus vekamatolu",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus torquatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Chřástal příčkovaný"
+      },
+      {
+        "lang": "en",
+        "name": "Barred Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón acollarado"
+      },
+      {
+        "lang": "fi",
+        "name": "Viiksiluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle à collier"
+      },
+      {
+        "lang": "id",
+        "name": "Mandar-padi zebra"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo barrato"
+      },
+      {
+        "lang": "ja",
+        "name": "ムナオビクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zebraral"
+      },
+      {
+        "lang": "ru",
+        "name": "Зебровый пастушок"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostbandad rall",
+        "synonyms": [
+          "Zebrarall"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus sylvestris",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Waldralle"
+      },
+      {
+        "lang": "en",
+        "name": "Lord Howe Woodhen"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón de la Lord Howe"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskoluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle sylvestre"
+      },
+      {
+        "lang": "hu",
+        "name": "Barna bozótguvat"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo di Lord Howe"
+      },
+      {
+        "lang": "ja",
+        "name": "ロードハウクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Lord-Howeral"
+      },
+      {
+        "lang": "ru",
+        "name": "Лесной пастушок"
+      },
+      {
+        "lang": "sv",
+        "name": "Lordhowerall"
+      },
+      {
+        "lang": "zh",
+        "name": "森秧雞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus striatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Slaty-breasted Rail"
+      },
+      {
+        "lang": "fi",
+        "name": "Seepraluhtakana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus steadmani",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallirallus sharpei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sharpe's Rail"
+      },
+      {
+        "lang": "fi",
+        "name": "Outoluhtakana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus rovianae",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rovianaralle"
+      },
+      {
+        "lang": "en",
+        "name": "Roviana Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón de Roviana"
+      },
+      {
+        "lang": "fi",
+        "name": "Salomoninluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle roviana"
+      },
+      {
+        "lang": "hu",
+        "name": "Roviana szigeti guvat"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo roviana"
+      },
+      {
+        "lang": "nl",
+        "name": "Rovianaral"
+      },
+      {
+        "lang": "pl",
+        "name": "Wodnik melanezyjski"
+      },
+      {
+        "lang": "sv",
+        "name": "Rovianarall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus philippensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Chřástal páskovaný"
+      },
+      {
+        "lang": "en",
+        "name": "Buff-banded Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón filipino"
+      },
+      {
+        "lang": "fi",
+        "name": "Itkuluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle tiklin"
+      },
+      {
+        "lang": "hu",
+        "name": "Szalagos guvat"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo bandecamoscio"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelbandral"
+      },
+      {
+        "lang": "nn",
+        "name": "Bandrikse"
+      },
+      {
+        "lang": "pl",
+        "name": "Wodnik białobrewy"
+      },
+      {
+        "lang": "ru",
+        "name": "Полосатый пастушок"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostbandad rall"
+      },
+      {
+        "lang": "to",
+        "name": "Veka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus pacificus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rotschnabelralle"
+      },
+      {
+        "lang": "en",
+        "name": "Tahitian Red-billed Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón del Pacífico"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle tévéa"
+      },
+      {
+        "lang": "hu",
+        "name": "Tahiti guvat"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo di Tahiti"
+      },
+      {
+        "lang": "ja",
+        "name": "タヒチクイナ"
+      },
+      {
+        "lang": "pl",
+        "name": "Wodnik pacyficzny"
+      },
+      {
+        "lang": "ru",
+        "name": "Таитянский красноклювый пастушок"
+      },
+      {
+        "lang": "sv",
+        "name": "Tahitirall"
+      },
+      {
+        "lang": "zh",
+        "name": "塔希提島紅嘴秧雞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus owstoni",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Guamralle"
+      },
+      {
+        "lang": "en",
+        "name": "Guam Rail"
+      },
+      {
+        "lang": "ja",
+        "name": "グァムクイナ"
+      },
+      {
+        "lang": "pl",
+        "name": "Wodnik guamski"
+      },
+      {
+        "lang": "fi",
+        "name": "Guaminluhtakana"
+      },
+      {
+        "lang": "sv",
+        "name": "Guamrall"
+      },
+      {
+        "lang": "zh",
+        "name": "關島秧雞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus okinawae",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Rascló d'Okinawa"
+      },
+      {
+        "lang": "de",
+        "name": "Okinawaralle"
+      },
+      {
+        "lang": "en",
+        "name": "Okinawa Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón de Okinawa"
+      },
+      {
+        "lang": "fi",
+        "name": "Okinawanluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle d'Okinawa"
+      },
+      {
+        "lang": "hu",
+        "name": "Okinavai guvat"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo di Okinawa"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤンバルクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Okinawaral"
+      },
+      {
+        "lang": "pl",
+        "name": "Wodnik okinawski"
+      },
+      {
+        "lang": "ru",
+        "name": "Ямбару-куина"
+      },
+      {
+        "lang": "sv",
+        "name": "Okinawarall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus modestus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chatham Rail"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle des Chatham"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus lafresnayanus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Pelzralle"
+      },
+      {
+        "lang": "en",
+        "name": "New Caledonian Rail"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Lafresnaye"
+      },
+      {
+        "lang": "fi",
+        "name": "Kanakkiluhtakana"
+      },
+      {
+        "lang": "pl",
+        "name": "wodnik nowokaledoński"
+      },
+      {
+        "lang": "pt",
+        "name": "Galinha-d'água-da-Nova-Caledônia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus insignis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "New Britain Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón de Nueva Bretaña"
+      },
+      {
+        "lang": "fi",
+        "name": "Koiraluhtakana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus dieffenbachii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Dieffenbach-Ralle"
+      },
+      {
+        "lang": "en",
+        "name": "Dieffenbach's Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón de Dieffenbach"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Dieffenbach"
+      },
+      {
+        "lang": "hu",
+        "name": "Csíkos guvat"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo di Dieffenbach"
+      },
+      {
+        "lang": "ja",
+        "name": "チャタムシマクイナ"
+      },
+      {
+        "lang": "ru",
+        "name": "Диффенбахов пастушок"
+      },
+      {
+        "lang": "sv",
+        "name": "Mehorikirall"
+      },
+      {
+        "lang": "zh",
+        "name": "獃秧雞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus conditicius",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Waldralle"
+      },
+      {
+        "lang": "en",
+        "name": "Lord Howe Woodhen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus calayanensis",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Calayan-rikse"
+      },
+      {
+        "lang": "de",
+        "name": "Calayan-Ralle"
+      },
+      {
+        "lang": "en",
+        "name": "Calayan Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Racón de Calayán"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Calayan"
+      },
+      {
+        "lang": "hu",
+        "name": "Calayai guvat"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo di Calayan"
+      },
+      {
+        "lang": "nl",
+        "name": "Calayanral"
+      },
+      {
+        "lang": "pl",
+        "name": "Chruściel kalajański"
+      },
+      {
+        "lang": "sv",
+        "name": "Calayanrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallirallus australis",
+    "common_names": [
+      {
+        "lang": "ang",
+        "name": "Wuduhen"
+      },
+      {
+        "lang": "bg",
+        "name": "Уека"
+      },
+      {
+        "lang": "br",
+        "name": "Weka"
+      },
+      {
+        "lang": "ca",
+        "name": "Weka"
+      },
+      {
+        "lang": "de",
+        "name": "Wekaralle"
+      },
+      {
+        "lang": "en",
+        "name": "Weka"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón weka"
+      },
+      {
+        "lang": "et",
+        "name": "Veeka"
+      },
+      {
+        "lang": "fa",
+        "name": "وکا"
+      },
+      {
+        "lang": "fi",
+        "name": "Vekaluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle wéka"
+      },
+      {
+        "lang": "he",
+        "name": "וקה"
+      },
+      {
+        "lang": "hu",
+        "name": "Weka"
+      },
+      {
+        "lang": "it",
+        "name": "Weka"
+      },
+      {
+        "lang": "ja",
+        "name": "ニュージーランドクイナ"
+      },
+      {
+        "lang": "ko",
+        "name": "웨카"
+      },
+      {
+        "lang": "mi",
+        "name": "Weka"
+      },
+      {
+        "lang": "nl",
+        "name": "Weka"
+      },
+      {
+        "lang": "nn",
+        "name": "Wekarikse"
+      },
+      {
+        "lang": "pl",
+        "name": "Weka"
+      },
+      {
+        "lang": "ru",
+        "name": "Пастушок-уэка"
+      },
+      {
+        "lang": "sv",
+        "name": "Wekarall"
+      }
+    ]
+  }
+]

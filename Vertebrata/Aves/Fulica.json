@@ -1,0 +1,778 @@
+[
+  {
+    "scientific_name": "Fulica rufifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-fronted Coot"
+      },
+      {
+        "lang": "pt",
+        "name": "Carqueja-de-escudo-roxo"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Carqueja-de-escudo-vermelho"
+      },
+      {
+        "lang": "es",
+        "name": "Focha frentirroja; gallareta escudete rojo"
+      },
+      {
+        "lang": "fi",
+        "name": "Lymynokikana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica newtoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mascarene Coot"
+      },
+      {
+        "lang": "fr",
+        "name": "Foulque des Mascareignes"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica leucoptera",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-winged Coot"
+      },
+      {
+        "lang": "es",
+        "name": "Gallareta chica"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkunokikana"
+      },
+      {
+        "lang": "fr",
+        "name": "Foulque leucoptère"
+      },
+      {
+        "lang": "pt",
+        "name": "Carqueja-de-bico-amarelo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica gigantea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Giant Coot"
+      },
+      {
+        "lang": "fr",
+        "name": "Foulque géante"
+      },
+      {
+        "lang": "fi",
+        "name": "Punannokikana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica cristata",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bleshoender"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеночела лиска"
+      },
+      {
+        "lang": "br",
+        "name": "Jualenn gribennek"
+      },
+      {
+        "lang": "ca",
+        "name": "Fotja banyuda"
+      },
+      {
+        "lang": "de",
+        "name": "Kammblässhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Red-knobbed Coot"
+      },
+      {
+        "lang": "es",
+        "name": "Focha moruna",
+        "synonyms": [
+          "focha cornuda"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Krestfuliko"
+      },
+      {
+        "lang": "fa",
+        "name": "چنگر کاکلی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kruununokikana"
+      },
+      {
+        "lang": "fr",
+        "name": "Foulque à crête"
+      },
+      {
+        "lang": "hu",
+        "name": "Bütykös szárcsa"
+      },
+      {
+        "lang": "it",
+        "name": "Folaga cristata"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカオオバン"
+      },
+      {
+        "lang": "nl",
+        "name": "Knobbelmeerkoet"
+      },
+      {
+        "lang": "pl",
+        "name": "Łyska czubata"
+      },
+      {
+        "lang": "pt",
+        "name": "Galeirão-de-crista"
+      },
+      {
+        "lang": "ru",
+        "name": "Хохлатая лысуха"
+      },
+      {
+        "lang": "sv",
+        "name": "Kamsothöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica cornuta",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Horned Coot"
+      },
+      {
+        "lang": "fi",
+        "name": "Sarvinokikana"
+      },
+      {
+        "lang": "fr",
+        "name": "Foulque cornue"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica caribaea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Caribbean Coot"
+      },
+      {
+        "lang": "eo",
+        "name": "Kariba fuliko"
+      },
+      {
+        "lang": "fi",
+        "name": "Karibiannokikana"
+      },
+      {
+        "lang": "fr",
+        "name": "Foulque à cachet blanc"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica atra",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Taucherli"
+      },
+      {
+        "lang": "ar",
+        "name": "الغر",
+        "synonyms": [
+          "الغراء"
+        ]
+      },
+      {
+        "lang": "ast",
+        "name": "Fulcre"
+      },
+      {
+        "lang": "az",
+        "name": "Adi qaşqaldaq"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡашҡабаш"
+      },
+      {
+        "lang": "bar",
+        "name": "Böichn"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Лыска"
+      },
+      {
+        "lang": "be",
+        "name": "Лысуха"
+      },
+      {
+        "lang": "bg",
+        "name": "Лиска"
+      },
+      {
+        "lang": "br",
+        "name": "Jualenn vailh"
+      },
+      {
+        "lang": "ca",
+        "name": "Fotja"
+      },
+      {
+        "lang": "cs",
+        "name": "Lyska černá"
+      },
+      {
+        "lang": "cv",
+        "name": "Кукша чăх"
+      },
+      {
+        "lang": "cw",
+        "name": "Dowryar"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiar"
+      },
+      {
+        "lang": "da",
+        "name": "Blishøne"
+      },
+      {
+        "lang": "de",
+        "name": "Blässhuhn"
+      },
+      {
+        "lang": "dv",
+        "name": "ސަލްވާ ދޫނި"
+      },
+      {
+        "lang": "el",
+        "name": "Φαλαρίδα"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Coot"
+      },
+      {
+        "lang": "eo",
+        "name": "nigra fuliko"
+      },
+      {
+        "lang": "es",
+        "name": "Focha"
+      },
+      {
+        "lang": "et",
+        "name": "Lauk"
+      },
+      {
+        "lang": "eu",
+        "name": "Kopetazuri"
+      },
+      {
+        "lang": "fi",
+        "name": "Nokikana"
+      },
+      {
+        "lang": "fo",
+        "name": "Sjógvhøna"
+      },
+      {
+        "lang": "fr",
+        "name": "Foulque macroule"
+      },
+      {
+        "lang": "frr",
+        "name": "Bleskaader"
+      },
+      {
+        "lang": "fy",
+        "name": "Markol"
+      },
+      {
+        "lang": "ga",
+        "name": "Cearc cheannann"
+      },
+      {
+        "lang": "gd",
+        "name": "Lach a' Bhlàir"
+      },
+      {
+        "lang": "gl",
+        "name": "Galiñola negra"
+      },
+      {
+        "lang": "gv",
+        "name": "Kiark ushtey vane"
+      },
+      {
+        "lang": "he",
+        "name": "אגמית",
+        "synonyms": [
+          "אגמית מצויה"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Crna liska"
+      },
+      {
+        "lang": "hu",
+        "name": "Szárcsa"
+      },
+      {
+        "lang": "hy",
+        "name": "Սև Փարփար"
+      },
+      {
+        "lang": "id",
+        "name": "Mandar Hitam"
+      },
+      {
+        "lang": "is",
+        "name": "Bleshæna"
+      },
+      {
+        "lang": "it",
+        "name": "Folaga"
+      },
+      {
+        "lang": "ja",
+        "name": "オオバン"
+      },
+      {
+        "lang": "ka",
+        "name": "მელოტა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Псыджэд"
+      },
+      {
+        "lang": "kjh",
+        "name": "Суғ кÿркÿзi"
+      },
+      {
+        "lang": "kjn",
+        "name": "Суғ кÿркÿзi"
+      },
+      {
+        "lang": "kk",
+        "name": "Қасқалдақ"
+      },
+      {
+        "lang": "ko",
+        "name": "물닭"
+      },
+      {
+        "lang": "ku",
+        "name": "Mirîşka avî ya reşbeş"
+      },
+      {
+        "lang": "kw",
+        "name": "Dowryar"
+      },
+      {
+        "lang": "la",
+        "name": "Fulica"
+      },
+      {
+        "lang": "lb",
+        "name": "Blässhong"
+      },
+      {
+        "lang": "lmo",
+        "name": "Fùlaga"
+      },
+      {
+        "lang": "lt",
+        "name": "Laukys"
+      },
+      {
+        "lang": "lv",
+        "name": "Laucis"
+      },
+      {
+        "lang": "mk",
+        "name": "Лиска"
+      },
+      {
+        "lang": "mn",
+        "name": "Халзан түнжүү"
+      },
+      {
+        "lang": "mrj",
+        "name": "Вӹдцӹвӹ"
+      },
+      {
+        "lang": "ms",
+        "name": "Pangling Hitam"
+      },
+      {
+        "lang": "mt",
+        "name": "Tiġieġa tal-Baħar"
+      },
+      {
+        "lang": "nap",
+        "name": "Follaca"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Meerkoutje"
+      },
+      {
+        "lang": "nds",
+        "name": "Waterküken"
+      },
+      {
+        "lang": "nl",
+        "name": "Meerkoet"
+      },
+      {
+        "lang": "nn",
+        "name": "Sothøne"
+      },
+      {
+        "lang": "no",
+        "name": "Sothøne"
+      },
+      {
+        "lang": "nrm",
+        "name": "Mèrcrole"
+      },
+      {
+        "lang": "pcd",
+        "name": "Blérie"
+      },
+      {
+        "lang": "pl",
+        "name": "Łyska"
+      },
+      {
+        "lang": "pnb",
+        "name": "کوٹ"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Frango-d'agua-comum"
+      },
+      {
+        "lang": "pt",
+        "name": "Galeirão-comum"
+      },
+      {
+        "lang": "qu",
+        "name": "Iwrupa chuqa"
+      },
+      {
+        "lang": "rm",
+        "name": "Fulca"
+      },
+      {
+        "lang": "ro",
+        "name": "Lișiță"
+      },
+      {
+        "lang": "ru",
+        "name": "Лысуха"
+      },
+      {
+        "lang": "rue",
+        "name": "Лиска чорна"
+      },
+      {
+        "lang": "sah",
+        "name": "Ураанай"
+      },
+      {
+        "lang": "sc",
+        "name": "Pùliga"
+      },
+      {
+        "lang": "scn",
+        "name": "Fiddècula"
+      },
+      {
+        "lang": "sco",
+        "name": "Beld-cuit"
+      },
+      {
+        "lang": "se",
+        "name": "Giehpavuonccis"
+      },
+      {
+        "lang": "sh",
+        "name": "Liska"
+      },
+      {
+        "lang": "sk",
+        "name": "Lyska čierna"
+      },
+      {
+        "lang": "sl",
+        "name": "Liska"
+      },
+      {
+        "lang": "sq",
+        "name": "Bajza"
+      },
+      {
+        "lang": "sr",
+        "name": "Liska / Лиска"
+      },
+      {
+        "lang": "stq",
+        "name": "Bläshanne"
+      },
+      {
+        "lang": "sv",
+        "name": "Sothöna"
+      },
+      {
+        "lang": "sw",
+        "name": "Kukuziwa kigao-cheupe"
+      },
+      {
+        "lang": "ta",
+        "name": "Tanneer kozhi"
+      },
+      {
+        "lang": "te",
+        "name": "నామాల కోడి"
+      },
+      {
+        "lang": "th",
+        "name": "นกคู้ต"
+      },
+      {
+        "lang": "tr",
+        "name": "Sakarmeke"
+      },
+      {
+        "lang": "tyv",
+        "name": "Калчан-кара"
+      },
+      {
+        "lang": "uk",
+        "name": "Лиска"
+      },
+      {
+        "lang": "vec",
+        "name": "Fòlega"
+      },
+      {
+        "lang": "vi",
+        "name": "Sâm cầm"
+      },
+      {
+        "lang": "vls",
+        "name": "Koter"
+      },
+      {
+        "lang": "zea",
+        "name": "Maerekote"
+      },
+      {
+        "lang": "zh",
+        "name": "冬鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica armillata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-gartered Coot"
+      },
+      {
+        "lang": "fi",
+        "name": "Isonokikana"
+      },
+      {
+        "lang": "pt",
+        "name": "carqueja",
+        "synonyms": [
+          "galinha-d'água",
+          "mergulhão"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Rödgulpannad sothöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica ardesiaca",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Andiennokikana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica americana",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Jualenn-Amerika"
+      },
+      {
+        "lang": "cs",
+        "name": "lyska americká"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Blishøne"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanisches Bläßhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "American Coot"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika fuliko"
+      },
+      {
+        "lang": "es",
+        "name": "Focha Americana"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikannokikana"
+      },
+      {
+        "lang": "fr",
+        "name": "Foulque d'Amérique"
+      },
+      {
+        "lang": "haw",
+        "name": "ʻAlae kea"
+      },
+      {
+        "lang": "hu",
+        "name": "Gyűrűscsőrű szárcsa"
+      },
+      {
+        "lang": "is",
+        "name": "Kolhæna"
+      },
+      {
+        "lang": "it",
+        "name": "Folaga americana"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカオオバン",
+        "synonyms": [
+          "amerikaooban"
+        ]
+      },
+      {
+        "lang": "lkt",
+        "name": "Čhaŋtípaŋ"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse Meerkoet"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikasothøne"
+      },
+      {
+        "lang": "pdc",
+        "name": "Schtink Ent"
+      },
+      {
+        "lang": "pl",
+        "name": "Łyska amerykańska"
+      },
+      {
+        "lang": "pt",
+        "name": "Galeirão-americano"
+      },
+      {
+        "lang": "ru",
+        "name": "Американская лысуха"
+      },
+      {
+        "lang": "sk",
+        "name": "lyska popolavá"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk sothöna"
+      },
+      {
+        "lang": "uk",
+        "name": "Американська лиска"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲骨顶"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fulica alai",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hawaiian Coot"
+      },
+      {
+        "lang": "fr",
+        "name": "Foulque des Hawaï"
+      },
+      {
+        "lang": "fi",
+        "name": "Havaijinnokikana"
+      },
+      {
+        "lang": "sv",
+        "name": "Hawaiisothöna"
+      }
+    ]
+  }
+]

@@ -1,0 +1,846 @@
+[
+  {
+    "scientific_name": "Egretta vinaceigula",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka rudohrdlá"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Egretta tricolor",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "volavka tříbarvá"
+      },
+      {
+        "lang": "da",
+        "name": "Trefarvet Hejre"
+      },
+      {
+        "lang": "de",
+        "name": "Dreifarbenreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Tricolored Heron"
+      },
+      {
+        "lang": "es",
+        "name": "Garceta Tricolor"
+      },
+      {
+        "lang": "et",
+        "name": "mudahaigur"
+      },
+      {
+        "lang": "fi",
+        "name": "karibianhaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigrette tricolore"
+      },
+      {
+        "lang": "gcf",
+        "name": "Héron tricolore"
+      },
+      {
+        "lang": "ht",
+        "name": "Krabye twa koulè"
+      },
+      {
+        "lang": "hu",
+        "name": "lagúnagém"
+      },
+      {
+        "lang": "is",
+        "name": "Hólmahegri"
+      },
+      {
+        "lang": "it",
+        "name": "Airone della Luisiana"
+      },
+      {
+        "lang": "ja",
+        "name": "サンショクサギ",
+        "synonyms": [
+          "sanshokusagi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Trispalvis garnys"
+      },
+      {
+        "lang": "nl",
+        "name": "Driekleurenreiger",
+        "synonyms": [
+          "Witbuikreiger"
+        ]
+      },
+      {
+        "lang": "no",
+        "name": "Prakthegre"
+      },
+      {
+        "lang": "pl",
+        "name": "czapla trójbarwna"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Garça-tricolor"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-tricolor"
+      },
+      {
+        "lang": "ru",
+        "name": "Трёхцветная цапля"
+      },
+      {
+        "lang": "sk",
+        "name": "volavka trojfarebná"
+      },
+      {
+        "lang": "sl",
+        "name": "tribarvna čaplja"
+      },
+      {
+        "lang": "sv",
+        "name": "Trefärgad häger"
+      },
+      {
+        "lang": "tr",
+        "name": "üç renkli balıkçıl"
+      },
+      {
+        "lang": "zh",
+        "name": "三色鹭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Egretta thula",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "مالك الحزين"
+      },
+      {
+        "lang": "cs",
+        "name": "volavka bělostná"
+      },
+      {
+        "lang": "da",
+        "name": "Snehejre"
+      },
+      {
+        "lang": "de",
+        "name": "Schmuckreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Snowy Egret"
+      },
+      {
+        "lang": "es",
+        "name": "Garceta Nívea",
+        "synonyms": [
+          "Garcita Blanca"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "lumihaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigrette neigeuse"
+      },
+      {
+        "lang": "hu",
+        "name": "Hókócsag"
+      },
+      {
+        "lang": "is",
+        "name": "Ljómahegri"
+      },
+      {
+        "lang": "it",
+        "name": "Garzetta nivea"
+      },
+      {
+        "lang": "ja",
+        "name": "ユキコサギ",
+        "synonyms": [
+          "yukikosagi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Snieginis garnys"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse kleine zilverreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Snøhegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla śnieżna"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Garça-branca-pequena"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-branca-pequena",
+        "synonyms": [
+          "Garcinha-branca"
+        ]
+      },
+      {
+        "lang": "qu",
+        "name": "Yuraq waqar"
+      },
+      {
+        "lang": "ru",
+        "name": "Белая американская цапля"
+      },
+      {
+        "lang": "sk",
+        "name": "volavka žltoprstá"
+      },
+      {
+        "lang": "sv",
+        "name": "Snöhäger"
+      },
+      {
+        "lang": "zh",
+        "name": "雪鹭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Egretta sacra",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka pobřežní"
+      },
+      {
+        "lang": "id",
+        "name": "Kuntul Karang"
+      },
+      {
+        "lang": "ja",
+        "name": "クロサギ"
+      },
+      {
+        "lang": "to",
+        "name": "motuku"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Egretta rufescens",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "volavka červenavá"
+      },
+      {
+        "lang": "da",
+        "name": "Rusthejre"
+      },
+      {
+        "lang": "de",
+        "name": "Rötelreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Reddish Egret"
+      },
+      {
+        "lang": "es",
+        "name": "Garceta Rojiza"
+      },
+      {
+        "lang": "et",
+        "name": "tantsuhaigur"
+      },
+      {
+        "lang": "fi",
+        "name": "klovnihaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigrette roussâtre"
+      },
+      {
+        "lang": "ht",
+        "name": "Krabye tèt wouj"
+      },
+      {
+        "lang": "hu",
+        "name": "vörhenyes kócsag"
+      },
+      {
+        "lang": "it",
+        "name": "Garzetta rugginosa"
+      },
+      {
+        "lang": "ja",
+        "name": "アカクロサギ",
+        "synonyms": [
+          "akakurosagi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Rausvasis garnys"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodhalsreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Dansehegre"
+      },
+      {
+        "lang": "pl",
+        "name": "czapla rdzawoszyja"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-vermelha"
+      },
+      {
+        "lang": "ru",
+        "name": "Голубоногая цапля"
+      },
+      {
+        "lang": "sk",
+        "name": "volavka strapatá"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosthäger"
+      },
+      {
+        "lang": "zh",
+        "name": "棕颈鹭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Egretta novaehollandiae",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka bělolící"
+      },
+      {
+        "lang": "en",
+        "name": "White-faced Heron"
+      },
+      {
+        "lang": "es",
+        "name": "Garceta cariblanca"
+      },
+      {
+        "lang": "to",
+        "name": "motuku"
+      },
+      {
+        "lang": "mi",
+        "name": "matuku moana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Egretta gularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Reef heron"
+      },
+      {
+        "lang": "ta",
+        "name": "கரைக் கொக்கு"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Egretta garzetta",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kleinwitreier"
+      },
+      {
+        "lang": "ar",
+        "name": "الغرنوق الأبيض"
+      },
+      {
+        "lang": "ast",
+        "name": "Garcia Cande",
+        "synonyms": [
+          "Garcina"
+        ]
+      },
+      {
+        "lang": "az",
+        "name": "Kiçik ağ vağ"
+      },
+      {
+        "lang": "be",
+        "name": "Малая белая чапля"
+      },
+      {
+        "lang": "bg",
+        "name": "Малка бяла чапла"
+      },
+      {
+        "lang": "br",
+        "name": "Herlegon bihan"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet blanc"
+      },
+      {
+        "lang": "cs",
+        "name": "volavka stříbřitá"
+      },
+      {
+        "lang": "cw",
+        "name": "Kerghyth penvagas lyha"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr Bach"
+      },
+      {
+        "lang": "da",
+        "name": "Silkehejre"
+      },
+      {
+        "lang": "de",
+        "name": "Seidenreiher"
+      },
+      {
+        "lang": "el",
+        "name": "Χιονάτη"
+      },
+      {
+        "lang": "en",
+        "name": "Little Egret"
+      },
+      {
+        "lang": "eo",
+        "name": "Malgranda egretardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garceta Común"
+      },
+      {
+        "lang": "et",
+        "name": "Siidhaigur"
+      },
+      {
+        "lang": "eu",
+        "name": "Lertxuntxo txikia"
+      },
+      {
+        "lang": "fi",
+        "name": "silkkihaikara"
+      },
+      {
+        "lang": "fo",
+        "name": "Silkihegri"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigrette garzette"
+      },
+      {
+        "lang": "fy",
+        "name": "Lytse Wite Reager"
+      },
+      {
+        "lang": "ga",
+        "name": "Éigrit Bheag"
+      },
+      {
+        "lang": "gd",
+        "name": "Corra Gheal Bheag"
+      },
+      {
+        "lang": "gl",
+        "name": "Garzota"
+      },
+      {
+        "lang": "he",
+        "name": "לבנית קטנה"
+      },
+      {
+        "lang": "hi",
+        "name": "Chinna vellai kokku"
+      },
+      {
+        "lang": "hr",
+        "name": "Mala Bijela Čaplja"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti Krabye etranje"
+      },
+      {
+        "lang": "hu",
+        "name": "Kis kócsag"
+      },
+      {
+        "lang": "hy",
+        "name": "Տառեղ փոքր սպիտակ"
+      },
+      {
+        "lang": "id",
+        "name": "Kuntul Kecil"
+      },
+      {
+        "lang": "is",
+        "name": "Bjarthegri"
+      },
+      {
+        "lang": "it",
+        "name": "Garzetta"
+      },
+      {
+        "lang": "ja",
+        "name": "コサギ",
+        "synonyms": [
+          "kosagi"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "პატარა თეთრი ყანჩა"
+      },
+      {
+        "lang": "kk",
+        "name": "Кишкене аққұтан"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠백로"
+      },
+      {
+        "lang": "kwn",
+        "name": "Samunkoma"
+      },
+      {
+        "lang": "lt",
+        "name": "Mažasis baltasis garnys"
+      },
+      {
+        "lang": "lv",
+        "name": "Mazais baltais gārnis"
+      },
+      {
+        "lang": "mk",
+        "name": "Мала бела (Сребреникава) чапја"
+      },
+      {
+        "lang": "ml",
+        "name": "ചിന്നമുണ്ടി"
+      },
+      {
+        "lang": "mqj",
+        "name": "korong ula"
+      },
+      {
+        "lang": "mr",
+        "name": "लहान बगळा"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Bangau Kecil"
+      },
+      {
+        "lang": "mt",
+        "name": "Agrett Abjad"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine zilverreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Silkehegre"
+      },
+      {
+        "lang": "pl",
+        "name": "czapla nadobna"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Garça-negra"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-branca-pequena"
+      },
+      {
+        "lang": "rm",
+        "name": "Irun da saida"
+      },
+      {
+        "lang": "ru",
+        "name": "Малая белая цапля"
+      },
+      {
+        "lang": "se",
+        "name": "Silkeháigir"
+      },
+      {
+        "lang": "sk",
+        "name": "Volavka striebristá"
+      },
+      {
+        "lang": "sl",
+        "name": "Mala bela čaplja"
+      },
+      {
+        "lang": "sq",
+        "name": "Çapka e bardhë e vogël"
+      },
+      {
+        "lang": "sr",
+        "name": "Mala bela caplja",
+        "synonyms": [
+          "Мала бела цаплја"
+        ]
+      },
+      {
+        "lang": "st",
+        "name": "Leholosiane"
+      },
+      {
+        "lang": "sv",
+        "name": "Silkeshäger"
+      },
+      {
+        "lang": "sw",
+        "name": "Dandala"
+      },
+      {
+        "lang": "ta",
+        "name": "சின்ன கொக்கு"
+      },
+      {
+        "lang": "th",
+        "name": "นกยางเปีย"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük ak balıkçıl"
+      },
+      {
+        "lang": "uk",
+        "name": "Мала біла чапля",
+        "synonyms": [
+          "Чепура мала"
+        ]
+      },
+      {
+        "lang": "vec",
+        "name": "Garzeta"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò trắng"
+      },
+      {
+        "lang": "zea",
+        "name": "Kleine zilverreiher"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "小白鷺"
+      },
+      {
+        "lang": "zh",
+        "name": "白鹭"
+      },
+      {
+        "lang": "zu",
+        "name": "iNgekle"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Egretta eulophotes",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka žlutozobá"
+      },
+      {
+        "lang": "en",
+        "name": "Chinese Egret"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigrette de Chine"
+      },
+      {
+        "lang": "ja",
+        "name": "カラシラサギ"
+      },
+      {
+        "lang": "ko",
+        "name": "노랑부리백로"
+      },
+      {
+        "lang": "zh",
+        "name": "黃嘴白鷺"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Egretta dimorpha",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Egretta caerulea",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kleinbloureier"
+      },
+      {
+        "lang": "br",
+        "name": "Herlegon glas"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet blau"
+      },
+      {
+        "lang": "cs",
+        "name": "volavka modrošedá"
+      },
+      {
+        "lang": "da",
+        "name": "Blåhejre"
+      },
+      {
+        "lang": "de",
+        "name": "Blaureiher"
+      },
+      {
+        "lang": "en",
+        "name": "Little Blue Heron"
+      },
+      {
+        "lang": "es",
+        "name": "Garceta Azul",
+        "synonyms": [
+          "Garza Azul"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "sinihaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigrette bleue"
+      },
+      {
+        "lang": "hu",
+        "name": "Kék gém"
+      },
+      {
+        "lang": "is",
+        "name": "Mýrahegri"
+      },
+      {
+        "lang": "it",
+        "name": "Airone azzurro minore"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメアカクロサギ",
+        "synonyms": [
+          "スミレサギ",
+          "himeakakurosagi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Mažasis melsvasis garnys"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine blauwe reiger"
+      },
+      {
+        "lang": "no",
+        "name": "Blåhegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla śniada"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Garça-azul"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-azul"
+      },
+      {
+        "lang": "ru",
+        "name": "Малая голубая цапля"
+      },
+      {
+        "lang": "sk",
+        "name": "volavka modrosivá"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåhäger"
+      },
+      {
+        "lang": "zh",
+        "name": "小蓝鹭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Egretta ardesiaca",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka černá"
+      },
+      {
+        "lang": "ja",
+        "name": "クロコサギ"
+      }
+    ]
+  }
+]

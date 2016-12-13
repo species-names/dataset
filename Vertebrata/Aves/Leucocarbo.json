@@ -1,0 +1,548 @@
+[
+  {
+    "scientific_name": "Leucocarbo verrucosus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kerguelenscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Kerguelen Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de las Kerguelen"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran des Kerguelen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo ranfurlyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bounty Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de las Bounty"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí de les Bounty"
+      },
+      {
+        "lang": "de",
+        "name": "Bountyscharbe"
+      },
+      {
+        "lang": "eo",
+        "name": "Buntia tufkormorano"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان جزیره بانتی"
+      },
+      {
+        "lang": "fi",
+        "name": "Bountynmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Bounty"
+      },
+      {
+        "lang": "hu",
+        "name": "Bounty-szigeti kárókatona"
+      },
+      {
+        "lang": "nl",
+        "name": "Bounty-aalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Bountyskarv"
+      },
+      {
+        "lang": "sv",
+        "name": "Bountyskarv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo purpurascens",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Corb marí de l'illa de Macquarie"
+      },
+      {
+        "lang": "cs",
+        "name": "Kormorán macquarijský"
+      },
+      {
+        "lang": "da",
+        "name": "Macquarieskarv"
+      },
+      {
+        "lang": "de",
+        "name": "Macquariescharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Macquarie Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de la Macquarie"
+      },
+      {
+        "lang": "et",
+        "name": "Macquarie kormoran"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان مک‌کواری"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Macquarie"
+      },
+      {
+        "lang": "it",
+        "name": "Cormorano delle Macquarie"
+      },
+      {
+        "lang": "nl",
+        "name": "Macquarieaalscholver"
+      },
+      {
+        "lang": "no",
+        "name": "Flekkfotskarv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran wspaniały"
+      },
+      {
+        "lang": "pt",
+        "name": "Biguá-da-macquarie"
+      },
+      {
+        "lang": "sk",
+        "name": "kormorán pôvabný"
+      },
+      {
+        "lang": "sv",
+        "name": "Macquarieskarv"
+      },
+      {
+        "lang": "zh",
+        "name": "麦岛鸬鹚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo onslowi",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Corb marí de les Chatham"
+      },
+      {
+        "lang": "de",
+        "name": "Chathamscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Chatham Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de las Chatham"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان چاتهام"
+      },
+      {
+        "lang": "fi",
+        "name": "Chathaminmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran des Chatham"
+      },
+      {
+        "lang": "nl",
+        "name": "Onslows aalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Chathamskarv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran plamisty"
+      },
+      {
+        "lang": "sv",
+        "name": "Chathamskarv"
+      },
+      {
+        "lang": "zh",
+        "name": "查島鸕鶿"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo nivalis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Heardscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Heard Island Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de la Heard"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Heard"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo melanogenis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Crozetscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Crozet Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de las Crozet"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Crozet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo georgianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "South Georgia Shag"
+      },
+      {
+        "lang": "eo",
+        "name": "Sudgeorgia tufkormorano"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de Georgia"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان جورجیای جنوبی"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydgeorgisk skarv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo colensoi",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Corb marí de les Auckland"
+      },
+      {
+        "lang": "de",
+        "name": "Aucklandscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Auckland Shag"
+      },
+      {
+        "lang": "eo",
+        "name": "Aŭklanda tufkormorano"
+      },
+      {
+        "lang": "es",
+        "name": "Comorán de las Auckland"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان اوکلند"
+      },
+      {
+        "lang": "fi",
+        "name": "Aucklandinmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran des Auckland"
+      },
+      {
+        "lang": "hu",
+        "name": "Auckland-szigeteki kárókatona"
+      },
+      {
+        "lang": "nl",
+        "name": "Aucklandaalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Aucklandskarv"
+      },
+      {
+        "lang": "ru",
+        "name": "Оклендский баклан"
+      },
+      {
+        "lang": "sv",
+        "name": "Aucklandskarv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo chalconotus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stewart Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de la Stewart"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo carunculatus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Грапаволик корморан"
+      },
+      {
+        "lang": "de",
+        "name": "Warzenscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "New Zealand King Shag"
+      },
+      {
+        "lang": "eo",
+        "name": "Reĝa tufkormorano"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán carunculado"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان شاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Maorimerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran caronculé"
+      },
+      {
+        "lang": "hu",
+        "name": "Királykormorán"
+      },
+      {
+        "lang": "nl",
+        "name": "Wrattenaalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Vorteskarv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran szorstkodzioby"
+      },
+      {
+        "lang": "ru",
+        "name": "Новозеландский баклан"
+      },
+      {
+        "lang": "sk",
+        "name": "Kormorán kráľovský"
+      },
+      {
+        "lang": "sv",
+        "name": "Vårtskarv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo campbelli",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Campbell Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán de la Campbell"
+      },
+      {
+        "lang": "fi",
+        "name": "Sepelmerimetso"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo bransfieldensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Antarktikscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Antarctic Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán antártico"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran antarctique"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo bougainvillii",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Peruskarv"
+      },
+      {
+        "lang": "de",
+        "name": "Guanokormoran"
+      },
+      {
+        "lang": "en",
+        "name": "Guanay Cormorant"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán Guanay"
+      },
+      {
+        "lang": "fi",
+        "name": "Guanomerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Bougainville"
+      },
+      {
+        "lang": "hu",
+        "name": "Guanókormorán"
+      },
+      {
+        "lang": "it",
+        "name": "Cormorano del guano"
+      },
+      {
+        "lang": "nl",
+        "name": "Humboldt-aalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Guanoskarv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran peruwiański"
+      },
+      {
+        "lang": "qu",
+        "name": "Wanay"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leucocarbo atriceps",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Keiserduiker"
+      },
+      {
+        "lang": "br",
+        "name": "Morvran impalaerel"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí imperial"
+      },
+      {
+        "lang": "cs",
+        "name": "Kormorán modrooký"
+      },
+      {
+        "lang": "de",
+        "name": "Blauaugenscharbe"
+      },
+      {
+        "lang": "en",
+        "name": "Imperial Shag"
+      },
+      {
+        "lang": "es",
+        "name": "Cormorán Imperial"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelänmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran impérial"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékszemű kárókatona"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran niebieskooki"
+      },
+      {
+        "lang": "sk",
+        "name": "Kormorán modrooký"
+      }
+    ]
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "scientific_name": "Crypturellus variegatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama pestrobarvá"
+      },
+      {
+        "lang": "en",
+        "name": "Variegated tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú abigarrado"
+      },
+      {
+        "lang": "lt",
+        "name": "Rusvakrūtis tinamas"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinzwarte tinamoe"
+      },
+      {
+        "lang": "pt",
+        "name": "Inhambu-anhanga"
+      },
+      {
+        "lang": "sv",
+        "name": "Broktinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus undulatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama vlnkovaná"
+      },
+      {
+        "lang": "en",
+        "name": "Undulated Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú ondulado"
+      },
+      {
+        "lang": "fr",
+        "name": "Tinamou vermiculé"
+      },
+      {
+        "lang": "hu",
+        "name": "Hullámos tinamu"
+      },
+      {
+        "lang": "lt",
+        "name": "Raibasis tinamas"
+      },
+      {
+        "lang": "pt",
+        "name": "Jaó"
+      },
+      {
+        "lang": "fi",
+        "name": "Huhuilijatinami"
+      },
+      {
+        "lang": "sv",
+        "name": "Inambutinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus transfasciatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pale-browed Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú cejudo"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltaburvis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Ljusbrynad tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus tataupa",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama tataupa"
+      },
+      {
+        "lang": "en",
+        "name": "Tataupa Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú tataupá"
+      },
+      {
+        "lang": "lt",
+        "name": "Tinamas tataupa"
+      },
+      {
+        "lang": "sv",
+        "name": "Tataupatinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus strigulosus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama brazilská"
+      },
+      {
+        "lang": "en",
+        "name": "Brazilian tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú brasileño"
+      },
+      {
+        "lang": "lt",
+        "name": "Brazilinis tinamas"
+      },
+      {
+        "lang": "pt",
+        "name": "Inhambu-relógio"
+      },
+      {
+        "lang": "sv",
+        "name": "Brasiliansk tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus soui",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama malá"
+      },
+      {
+        "lang": "en",
+        "name": "Little Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú chico"
+      },
+      {
+        "lang": "fr",
+        "name": "Tinamou soui"
+      },
+      {
+        "lang": "hr",
+        "name": "Tinamu mali"
+      },
+      {
+        "lang": "lt",
+        "name": "Mažasis tinamas"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine tinamoe"
+      },
+      {
+        "lang": "pt",
+        "name": "Sururina"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus ptaritepui",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama tepuová"
+      },
+      {
+        "lang": "en",
+        "name": "Tepui Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú tepui"
+      },
+      {
+        "lang": "lt",
+        "name": "Venesuelinis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Tepuitinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus parvirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama malozobá"
+      },
+      {
+        "lang": "en",
+        "name": "Small-billed Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú piquicorto"
+      },
+      {
+        "lang": "fr",
+        "name": "Tinamou à petit bec"
+      },
+      {
+        "lang": "lt",
+        "name": "Trumpasnapis tinamas"
+      },
+      {
+        "lang": "pt",
+        "name": "Inhambu-chororó"
+      },
+      {
+        "lang": "sv",
+        "name": "Smånäbbad tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus obsoletus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama hnědá"
+      },
+      {
+        "lang": "de",
+        "name": "Kastanientinamu"
+      },
+      {
+        "lang": "en",
+        "name": "Brown Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú café"
+      },
+      {
+        "lang": "fr",
+        "name": "Tinamou brun"
+      },
+      {
+        "lang": "it",
+        "name": "Tinamo bruno"
+      },
+      {
+        "lang": "lt",
+        "name": "Kaštoninis tinamas"
+      },
+      {
+        "lang": "pt",
+        "name": "Inhambu-guaçu"
+      },
+      {
+        "lang": "sv",
+        "name": "Brun tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus noctivagus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama žlutonohá"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-legged Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú patigualdo"
+      },
+      {
+        "lang": "fr",
+        "name": "Tinamou noctivague"
+      },
+      {
+        "lang": "lt",
+        "name": "Geltonkojis tinamas"
+      },
+      {
+        "lang": "pt",
+        "name": "Jaó-do-litoral"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulbent tinamo"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarı bacaklı tinamu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus kerriae",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama kolumbijská"
+      },
+      {
+        "lang": "en",
+        "name": "Choco Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú del Chocó"
+      },
+      {
+        "lang": "lt",
+        "name": "Kero tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Chocótinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus erythropus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama rudonohá"
+      },
+      {
+        "lang": "en",
+        "name": "Red-legged Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú patirrojo"
+      },
+      {
+        "lang": "lt",
+        "name": "Raudonkojis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödfotad tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus duidae",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama šedonohá"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-legged tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú patigrís"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkakojis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråbent tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus cinnamomeus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama skořicová"
+      },
+      {
+        "lang": "en",
+        "name": "Thicket Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú canelo"
+      },
+      {
+        "lang": "lt",
+        "name": "Krūmyninis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Snårtinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus cinereus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama podrostní"
+      },
+      {
+        "lang": "en",
+        "name": "Cinereous tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú sombrío"
+      },
+      {
+        "lang": "fr",
+        "name": "Tinamou cendré"
+      },
+      {
+        "lang": "jbt",
+        "name": "Kuraheri"
+      },
+      {
+        "lang": "lt",
+        "name": "Peleninis tinamas"
+      },
+      {
+        "lang": "pl",
+        "name": "kusacz popielaty"
+      },
+      {
+        "lang": "pt",
+        "name": "Inhambu-preto"
+      },
+      {
+        "lang": "sv",
+        "name": "Askgrå tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus casiquiare",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama páskovaná"
+      },
+      {
+        "lang": "en",
+        "name": "Barred Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú Casiquiare"
+      },
+      {
+        "lang": "lt",
+        "name": "Dryžasis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Strimmig tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus brevirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama pralesní"
+      },
+      {
+        "lang": "en",
+        "name": "Rusty Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú herrumbroso"
+      },
+      {
+        "lang": "lt",
+        "name": "Rusvasis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosttinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus boucardi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama středoamerická"
+      },
+      {
+        "lang": "en",
+        "name": "Slaty-breasted Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú pizarroso"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkakrūtis tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Boucards tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus berlepschi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama Berlepschova"
+      },
+      {
+        "lang": "en",
+        "name": "Berlepsch's Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú tizón"
+      },
+      {
+        "lang": "fr",
+        "name": "Tinamou de Berlepsch"
+      },
+      {
+        "lang": "pl",
+        "name": "kusacz brunatny"
+      },
+      {
+        "lang": "sv",
+        "name": "Sottinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus bartletti",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama Bartlettova"
+      },
+      {
+        "lang": "en",
+        "name": "Bartlett's Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú de Bartlett"
+      },
+      {
+        "lang": "lt",
+        "name": "Bartleto tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Bartletts tinamo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crypturellus atrocapillus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tinama černotemenná"
+      },
+      {
+        "lang": "en",
+        "name": "Black-capped Tinamou"
+      },
+      {
+        "lang": "es",
+        "name": "Tinamú capirotado"
+      },
+      {
+        "lang": "fr",
+        "name": "Tinamou à calotte noire"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodakepuris tinamas"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthättad tinamo"
+      }
+    ]
+  }
+]

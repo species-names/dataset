@@ -1,0 +1,633 @@
+[
+  {
+    "scientific_name": "Coturnix ypsilophora",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown Quail"
+      },
+      {
+        "lang": "sv",
+        "name": "Brun vaktel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coturnix pectoralis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stubble Quail"
+      },
+      {
+        "lang": "sv",
+        "name": "Stäppvaktel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coturnix novaezelandiae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "New Zealand Quail"
+      },
+      {
+        "lang": "es",
+        "name": "Codorniz de Nueva Zelanda"
+      },
+      {
+        "lang": "ja",
+        "name": "ニュージーランドウズラ"
+      },
+      {
+        "lang": "sv",
+        "name": "Nyazeelandvaktel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coturnix japonica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Japanese Quail"
+      },
+      {
+        "lang": "fr",
+        "name": "Caille du Japon"
+      },
+      {
+        "lang": "ja",
+        "name": "ウズラ"
+      },
+      {
+        "lang": "ko",
+        "name": "메추라기"
+      },
+      {
+        "lang": "pl",
+        "name": "Przepiórka japońska"
+      },
+      {
+        "lang": "sv",
+        "name": "Japansk vaktel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coturnix delegorguei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Harlequin Quail"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikanviiriäinen"
+      },
+      {
+        "lang": "sv",
+        "name": "Harlekinvaktel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coturnix coturnix",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Afrikaanse Kwartel"
+      },
+      {
+        "lang": "als",
+        "name": "Wachdl"
+      },
+      {
+        "lang": "an",
+        "name": "Cotornice"
+      },
+      {
+        "lang": "ar",
+        "name": "سمان"
+      },
+      {
+        "lang": "ast",
+        "name": "Parpayuela"
+      },
+      {
+        "lang": "av",
+        "name": "ЧӀороло"
+      },
+      {
+        "lang": "ay",
+        "name": "Iwrupa khullu"
+      },
+      {
+        "lang": "az",
+        "name": "Adi bildirçin"
+      },
+      {
+        "lang": "ba",
+        "name": "Бүҙәнә"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Перапёлка"
+      },
+      {
+        "lang": "be",
+        "name": "Перапёлка"
+      },
+      {
+        "lang": "bg",
+        "name": "Пъдпъдък"
+      },
+      {
+        "lang": "br",
+        "name": "Koailh"
+      },
+      {
+        "lang": "ca",
+        "name": "Guatlla comuna"
+      },
+      {
+        "lang": "ce",
+        "name": "Лекъ"
+      },
+      {
+        "lang": "co",
+        "name": "Quaglia"
+      },
+      {
+        "lang": "cs",
+        "name": "Křepelka polní"
+      },
+      {
+        "lang": "cv",
+        "name": "Путене"
+      },
+      {
+        "lang": "cw",
+        "name": "Rynk"
+      },
+      {
+        "lang": "cy",
+        "name": "Sofliar"
+      },
+      {
+        "lang": "da",
+        "name": "Vagtel"
+      },
+      {
+        "lang": "de",
+        "name": "Wachtel"
+      },
+      {
+        "lang": "dsb",
+        "name": "Paśpula"
+      },
+      {
+        "lang": "el",
+        "name": "Ορτύκι"
+      },
+      {
+        "lang": "en",
+        "name": "Common Quail"
+      },
+      {
+        "lang": "eo",
+        "name": "Koturno"
+      },
+      {
+        "lang": "es",
+        "name": "Codorniz Común"
+      },
+      {
+        "lang": "et",
+        "name": "Poldvutt"
+      },
+      {
+        "lang": "eu",
+        "name": "Galeper"
+      },
+      {
+        "lang": "fa",
+        "name": "بلدرچین"
+      },
+      {
+        "lang": "fi",
+        "name": "Viiriäinen"
+      },
+      {
+        "lang": "fo",
+        "name": "Vaktil"
+      },
+      {
+        "lang": "fr",
+        "name": "Caille des blés"
+      },
+      {
+        "lang": "frr",
+        "name": "Bipkerwik"
+      },
+      {
+        "lang": "fur",
+        "name": "Cuaie"
+      },
+      {
+        "lang": "fy",
+        "name": "Kwartel"
+      },
+      {
+        "lang": "ga",
+        "name": "Gearg"
+      },
+      {
+        "lang": "gd",
+        "name": "Gearradh Gort"
+      },
+      {
+        "lang": "gl",
+        "name": "Paspallás"
+      },
+      {
+        "lang": "gv",
+        "name": "Quayl"
+      },
+      {
+        "lang": "he",
+        "name": "שלו"
+      },
+      {
+        "lang": "hi",
+        "name": "बटेर"
+      },
+      {
+        "lang": "hr",
+        "name": "Prepelica"
+      },
+      {
+        "lang": "hsb",
+        "name": "Pocpula"
+      },
+      {
+        "lang": "hu",
+        "name": "Fürj"
+      },
+      {
+        "lang": "hy",
+        "name": "Լոր"
+      },
+      {
+        "lang": "io",
+        "name": "Qualio"
+      },
+      {
+        "lang": "is",
+        "name": "Kornhæna"
+      },
+      {
+        "lang": "it",
+        "name": "Quaglia"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパウズラ"
+      },
+      {
+        "lang": "ka",
+        "name": "მწყერი"
+      },
+      {
+        "lang": "kab",
+        "name": "Timarḍifelt"
+      },
+      {
+        "lang": "kbd",
+        "name": "Ныбгъуэ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Пÿдÿрчÿн"
+      },
+      {
+        "lang": "kjn",
+        "name": "Пÿдÿрчÿн"
+      },
+      {
+        "lang": "kk",
+        "name": "Бөдене"
+      },
+      {
+        "lang": "ko",
+        "name": "메추라기"
+      },
+      {
+        "lang": "ku",
+        "name": "Zirsûsik"
+      },
+      {
+        "lang": "kw",
+        "name": "Rynk"
+      },
+      {
+        "lang": "kwn",
+        "name": "Erurumbe"
+      },
+      {
+        "lang": "la",
+        "name": "Coturnix"
+      },
+      {
+        "lang": "lad",
+        "name": "Caia"
+      },
+      {
+        "lang": "lb",
+        "name": "Wuechtel"
+      },
+      {
+        "lang": "lbe",
+        "name": "ХхюнчӀа"
+      },
+      {
+        "lang": "li",
+        "name": "Kwartel"
+      },
+      {
+        "lang": "lij",
+        "name": "Quaggia"
+      },
+      {
+        "lang": "lld",
+        "name": "Caia"
+      },
+      {
+        "lang": "lt",
+        "name": "Putpelė"
+      },
+      {
+        "lang": "lv",
+        "name": "Paipala"
+      },
+      {
+        "lang": "mg",
+        "name": "Papelika"
+      },
+      {
+        "lang": "mhr",
+        "name": "Пулдырчо"
+      },
+      {
+        "lang": "mk",
+        "name": "Пoтполошка"
+      },
+      {
+        "lang": "ml",
+        "name": "ചാരക്കാട"
+      },
+      {
+        "lang": "mn",
+        "name": "Бүднэ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Выльдырцан"
+      },
+      {
+        "lang": "mt",
+        "name": "Summiena"
+      },
+      {
+        "lang": "nah",
+        "name": "Caxtillān zōlin"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Kwartel"
+      },
+      {
+        "lang": "nds",
+        "name": "Kweddeltien"
+      },
+      {
+        "lang": "ne",
+        "name": "बट्टाई"
+      },
+      {
+        "lang": "nl",
+        "name": "Kwartel"
+      },
+      {
+        "lang": "nn",
+        "name": "Vaktel"
+      },
+      {
+        "lang": "no",
+        "name": "Vaktel"
+      },
+      {
+        "lang": "nrm",
+        "name": "Caille"
+      },
+      {
+        "lang": "nso",
+        "name": "Sekhwiri"
+      },
+      {
+        "lang": "nv",
+        "name": "Díłdánii yił aheełtʼéhii"
+      },
+      {
+        "lang": "oc",
+        "name": "Catla"
+      },
+      {
+        "lang": "os",
+        "name": "Уæрцц"
+      },
+      {
+        "lang": "pcd",
+        "name": "Càrcalhoe"
+      },
+      {
+        "lang": "pl",
+        "name": "Przepiórka"
+      },
+      {
+        "lang": "pms",
+        "name": "Quaja"
+      },
+      {
+        "lang": "pnb",
+        "name": "عام کوئل"
+      },
+      {
+        "lang": "pt",
+        "name": "Codorniz"
+      },
+      {
+        "lang": "rm",
+        "name": "Quacra"
+      },
+      {
+        "lang": "rmy",
+        "name": "Dropya"
+      },
+      {
+        "lang": "ro",
+        "name": "Prepeliță"
+      },
+      {
+        "lang": "ru",
+        "name": "Перепел"
+      },
+      {
+        "lang": "sah",
+        "name": "Хонуу бочугураһа"
+      },
+      {
+        "lang": "sc",
+        "name": "Xrěcchibi"
+      },
+      {
+        "lang": "sco",
+        "name": "Quail"
+      },
+      {
+        "lang": "se",
+        "name": "Goaktil"
+      },
+      {
+        "lang": "sh",
+        "name": "Prepelica pućpura"
+      },
+      {
+        "lang": "sk",
+        "name": "Prepelica poľná"
+      },
+      {
+        "lang": "sl",
+        "name": "Prepelica"
+      },
+      {
+        "lang": "sn",
+        "name": "Huta"
+      },
+      {
+        "lang": "sq",
+        "name": "Shkurta"
+      },
+      {
+        "lang": "sr",
+        "name": "Prepelica - препелица"
+      },
+      {
+        "lang": "st",
+        "name": "Koekoe"
+      },
+      {
+        "lang": "sv",
+        "name": "Vaktel"
+      },
+      {
+        "lang": "sw",
+        "name": "Tombo"
+      },
+      {
+        "lang": "ta",
+        "name": "நாட்டுக் காடை"
+      },
+      {
+        "lang": "th",
+        "name": "นกคุ่มญี่ปุ่น"
+      },
+      {
+        "lang": "tk",
+        "name": "Bıldırcın"
+      },
+      {
+        "lang": "tl",
+        "name": "Karaniwang pugo"
+      },
+      {
+        "lang": "tn",
+        "name": "Tshosabannê"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı bıldırcın"
+      },
+      {
+        "lang": "tso",
+        "name": "Khevezi"
+      },
+      {
+        "lang": "tyv",
+        "name": "Бөдене"
+      },
+      {
+        "lang": "udm",
+        "name": "Бӧдёно"
+      },
+      {
+        "lang": "uk",
+        "name": "Перепілка"
+      },
+      {
+        "lang": "vec",
+        "name": "Quaja"
+      },
+      {
+        "lang": "vi",
+        "name": "Cay nhật bản"
+      },
+      {
+        "lang": "vls",
+        "name": "Kwakkel"
+      },
+      {
+        "lang": "xh",
+        "name": "Isagwityi"
+      },
+      {
+        "lang": "zea",
+        "name": "Kwakkel"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "鵪鶉"
+      },
+      {
+        "lang": "zh",
+        "name": "鹌鹑"
+      },
+      {
+        "lang": "zu",
+        "name": "isiGwaca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coturnix coromandelica",
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "চিনা বটেরা"
+      },
+      {
+        "lang": "en",
+        "name": "Rain Quail"
+      },
+      {
+        "lang": "fr",
+        "name": "Caille nattée"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartbröstad vaktel"
+      }
+    ]
+  }
+]

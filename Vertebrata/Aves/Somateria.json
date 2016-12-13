@@ -1,0 +1,517 @@
+[
+  {
+    "scientific_name": "Somateria mollissima mollissima",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Somateria spectabilis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "العيدر"
+      },
+      {
+        "lang": "bg",
+        "name": "Гребенчата гага"
+      },
+      {
+        "lang": "br",
+        "name": "Eider penn livet"
+      },
+      {
+        "lang": "ca",
+        "name": "Èider reial"
+      },
+      {
+        "lang": "cs",
+        "name": "Kajka královská"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden fwythblu big-goch"
+      },
+      {
+        "lang": "da",
+        "name": "Kongeederfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Prachteiderente"
+      },
+      {
+        "lang": "en",
+        "name": "King Eider"
+      },
+      {
+        "lang": "eo",
+        "name": "Reĝa molanaso"
+      },
+      {
+        "lang": "es",
+        "name": "Eider real"
+      },
+      {
+        "lang": "et",
+        "name": "Kuninghahk"
+      },
+      {
+        "lang": "eu",
+        "name": "Eider errege"
+      },
+      {
+        "lang": "fi",
+        "name": "Kyhmyhaahka"
+      },
+      {
+        "lang": "fo",
+        "name": "Æðukongur"
+      },
+      {
+        "lang": "fr",
+        "name": "Eider à tête grise"
+      },
+      {
+        "lang": "fy",
+        "name": "Keningseider"
+      },
+      {
+        "lang": "ga",
+        "name": "Éadar Taibhseach"
+      },
+      {
+        "lang": "gl",
+        "name": "Éider real"
+      },
+      {
+        "lang": "he",
+        "name": "אדרית מלכותית"
+      },
+      {
+        "lang": "hu",
+        "name": "Cifra pehelyréce"
+      },
+      {
+        "lang": "ik",
+        "name": "Qiŋalik"
+      },
+      {
+        "lang": "is",
+        "name": "Æðarkóngur"
+      },
+      {
+        "lang": "it",
+        "name": "Re degli edredoni"
+      },
+      {
+        "lang": "iu",
+        "name": "Kingalik"
+      },
+      {
+        "lang": "ja",
+        "name": "ケワタガモ"
+      },
+      {
+        "lang": "kk",
+        "name": "Гага"
+      },
+      {
+        "lang": "kl",
+        "name": "Miteq sujorakitsoq"
+      },
+      {
+        "lang": "lt",
+        "name": "Skiauterėtoji gaga"
+      },
+      {
+        "lang": "lv",
+        "name": "Krāšņā pūkpīle"
+      },
+      {
+        "lang": "nl",
+        "name": "Koningseider"
+      },
+      {
+        "lang": "nn",
+        "name": "Praktærfugl"
+      },
+      {
+        "lang": "no",
+        "name": "Praktærfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Turkan"
+      },
+      {
+        "lang": "pt",
+        "name": "Eider-real"
+      },
+      {
+        "lang": "ru",
+        "name": "Гага-гребенушка"
+      },
+      {
+        "lang": "sah",
+        "name": "Сыа муруннаах турукаан"
+      },
+      {
+        "lang": "se",
+        "name": "Áhpehávda"
+      },
+      {
+        "lang": "sk",
+        "name": "Kajka hrbozobá"
+      },
+      {
+        "lang": "sl",
+        "name": "Pisana gaga"
+      },
+      {
+        "lang": "sv",
+        "name": "Praktejder"
+      },
+      {
+        "lang": "tr",
+        "name": "Süslü Pufla"
+      },
+      {
+        "lang": "uk",
+        "name": "Королівська гага"
+      },
+      {
+        "lang": "zh",
+        "name": "王绒鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Somateria mollissima",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Coríu Pina"
+      },
+      {
+        "lang": "be",
+        "name": "Звычайная гага"
+      },
+      {
+        "lang": "bg",
+        "name": "Обикновена гага"
+      },
+      {
+        "lang": "br",
+        "name": "Eider-dum"
+      },
+      {
+        "lang": "ca",
+        "name": "Èider"
+      },
+      {
+        "lang": "cs",
+        "name": "Kajka mořská"
+      },
+      {
+        "lang": "cw",
+        "name": "Hos eyder"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden fwythblu"
+      },
+      {
+        "lang": "da",
+        "name": "Ederfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Eiderente"
+      },
+      {
+        "lang": "el",
+        "name": "Πουπουλόπαπια"
+      },
+      {
+        "lang": "en",
+        "name": "Common Eider"
+      },
+      {
+        "lang": "eo",
+        "name": "Molanaso"
+      },
+      {
+        "lang": "es",
+        "name": "Eider común"
+      },
+      {
+        "lang": "et",
+        "name": "Hahk"
+      },
+      {
+        "lang": "eu",
+        "name": "Eider arrunt"
+      },
+      {
+        "lang": "fi",
+        "name": "Haahka"
+      },
+      {
+        "lang": "fo",
+        "name": "Æða"
+      },
+      {
+        "lang": "fr",
+        "name": "Eider à duvet"
+      },
+      {
+        "lang": "frr",
+        "name": "Eidergus"
+      },
+      {
+        "lang": "fy",
+        "name": "Eider"
+      },
+      {
+        "lang": "ga",
+        "name": "Colc"
+      },
+      {
+        "lang": "gd",
+        "name": "Colc"
+      },
+      {
+        "lang": "gl",
+        "name": "Éider"
+      },
+      {
+        "lang": "gv",
+        "name": "Laagh Loghlinagh"
+      },
+      {
+        "lang": "he",
+        "name": "אדרית שחורת כיפה"
+      },
+      {
+        "lang": "hr",
+        "name": "Gavka"
+      },
+      {
+        "lang": "hu",
+        "name": "Pehelyréce"
+      },
+      {
+        "lang": "ik",
+        "name": "Amauligruaq"
+      },
+      {
+        "lang": "is",
+        "name": "Æðarfugl"
+      },
+      {
+        "lang": "it",
+        "name": "Edredone"
+      },
+      {
+        "lang": "iu",
+        "name": "Amaulik"
+      },
+      {
+        "lang": "ja",
+        "name": "ホンケワタガモ"
+      },
+      {
+        "lang": "kl",
+        "name": "Miteq siorartooq"
+      },
+      {
+        "lang": "kw",
+        "name": "Hos eyder"
+      },
+      {
+        "lang": "lt",
+        "name": "Paprastoji gaga"
+      },
+      {
+        "lang": "lv",
+        "name": "Parastā pūkpīle"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Eiderente"
+      },
+      {
+        "lang": "nl",
+        "name": "Eidereend"
+      },
+      {
+        "lang": "nn",
+        "name": "Ærfugl"
+      },
+      {
+        "lang": "no",
+        "name": "Ærfugl"
+      },
+      {
+        "lang": "nv",
+        "name": "Hakʼaz naalʼeełí"
+      },
+      {
+        "lang": "pcd",
+        "name": "Càn·nàr édredon"
+      },
+      {
+        "lang": "pl",
+        "name": "Edredon"
+      },
+      {
+        "lang": "pt",
+        "name": "Eider-edredão"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda loma"
+      },
+      {
+        "lang": "ru",
+        "name": "Гага"
+      },
+      {
+        "lang": "sah",
+        "name": "Улахан турукаан"
+      },
+      {
+        "lang": "sco",
+        "name": "Dunter"
+      },
+      {
+        "lang": "se",
+        "name": "Hávda"
+      },
+      {
+        "lang": "sh",
+        "name": "Gavka"
+      },
+      {
+        "lang": "sk",
+        "name": "Kajka morská"
+      },
+      {
+        "lang": "sl",
+        "name": "Navadna gaga"
+      },
+      {
+        "lang": "sq",
+        "name": "Pata e detit"
+      },
+      {
+        "lang": "sr",
+        "name": "Gavka - Гавка"
+      },
+      {
+        "lang": "sv",
+        "name": "Ejder"
+      },
+      {
+        "lang": "tr",
+        "name": "Pufla"
+      },
+      {
+        "lang": "uk",
+        "name": "Гага"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt nhung thường"
+      },
+      {
+        "lang": "zh",
+        "name": "欧绒鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Somateria fischeri",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Очилата гага"
+      },
+      {
+        "lang": "br",
+        "name": "Eider lunedek"
+      },
+      {
+        "lang": "ca",
+        "name": "Èider de Fischer"
+      },
+      {
+        "lang": "cs",
+        "name": "Kajka brýlatá"
+      },
+      {
+        "lang": "de",
+        "name": "Plüschkopfente"
+      },
+      {
+        "lang": "en",
+        "name": "Spectacled Eider"
+      },
+      {
+        "lang": "eo",
+        "name": "Okulvitra molanaso"
+      },
+      {
+        "lang": "fi",
+        "name": "Silmälasihaahka"
+      },
+      {
+        "lang": "fr",
+        "name": "Eider à lunettes"
+      },
+      {
+        "lang": "fy",
+        "name": "Brileider"
+      },
+      {
+        "lang": "hu",
+        "name": "Pápaszemes pehelyréce"
+      },
+      {
+        "lang": "ik",
+        "name": "Qavaasuk"
+      },
+      {
+        "lang": "it",
+        "name": "Edredone dagli occhiali"
+      },
+      {
+        "lang": "ja",
+        "name": "メガネケワタガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Brileider"
+      },
+      {
+        "lang": "no",
+        "name": "Brilleærfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Edredon okularowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Очковая гага"
+      },
+      {
+        "lang": "sah",
+        "name": "Турукаан"
+      },
+      {
+        "lang": "sv",
+        "name": "Glasögonejder"
+      }
+    ]
+  }
+]

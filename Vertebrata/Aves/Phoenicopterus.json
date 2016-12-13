@@ -1,0 +1,500 @@
+[
+  {
+    "scientific_name": "Phoenicopterus ruber",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Grootflamink"
+      },
+      {
+        "lang": "ar",
+        "name": "نحام الكاريبي"
+      },
+      {
+        "lang": "az",
+        "name": "Qırmızı qızılqaz"
+      },
+      {
+        "lang": "be",
+        "name": "Чырванакрылы фламінга"
+      },
+      {
+        "lang": "bg",
+        "name": "Розово фламинго"
+      },
+      {
+        "lang": "br",
+        "name": "Flammeg Amerika"
+      },
+      {
+        "lang": "ca",
+        "name": "Flamenc del Carib"
+      },
+      {
+        "lang": "cs",
+        "name": "Plameňák karibský"
+      },
+      {
+        "lang": "cy",
+        "name": "Fflamingo"
+      },
+      {
+        "lang": "da",
+        "name": "Cariberflamingo"
+      },
+      {
+        "lang": "de",
+        "name": "Kubaflamingo"
+      },
+      {
+        "lang": "el",
+        "name": "Φοινικόπτερο"
+      },
+      {
+        "lang": "en",
+        "name": "American Flamingo"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝa flamengo"
+      },
+      {
+        "lang": "es",
+        "name": "Flamenco del Caribe",
+        "synonyms": [
+          "flamenco rojo"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Flamingo"
+      },
+      {
+        "lang": "eu",
+        "name": "Flamenko handia"
+      },
+      {
+        "lang": "fa",
+        "name": "فلامینگوی آمریکایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Karibianflamingo"
+      },
+      {
+        "lang": "fo",
+        "name": "Flæmingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Flamant des Caraïbes"
+      },
+      {
+        "lang": "ga",
+        "name": "Lasairéan Mór"
+      },
+      {
+        "lang": "gl",
+        "name": "Flamingo"
+      },
+      {
+        "lang": "he",
+        "name": "פלמינגו אמריקני"
+      },
+      {
+        "lang": "hi",
+        "name": "Pun narai"
+      },
+      {
+        "lang": "hr",
+        "name": "Karipski plamenac"
+      },
+      {
+        "lang": "ht",
+        "name": "Flanman wòz"
+      },
+      {
+        "lang": "hu",
+        "name": "Karibi flamingó"
+      },
+      {
+        "lang": "hy",
+        "name": "Ֆլամինգո"
+      },
+      {
+        "lang": "is",
+        "name": "Flæmingi"
+      },
+      {
+        "lang": "it",
+        "name": "Fenicottero rosso"
+      },
+      {
+        "lang": "ja",
+        "name": "ベニイロフラミンゴ"
+      },
+      {
+        "lang": "kk",
+        "name": "Кәдімгі қоқиқаз"
+      },
+      {
+        "lang": "ko",
+        "name": "분홍홍학"
+      },
+      {
+        "lang": "lt",
+        "name": "Karibų flamingas"
+      },
+      {
+        "lang": "lv",
+        "name": "Sārtais flamingo"
+      },
+      {
+        "lang": "mg",
+        "name": "Samaky"
+      },
+      {
+        "lang": "mk",
+        "name": "Фламинго"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Flamingo Besar"
+      },
+      {
+        "lang": "mt",
+        "name": "Fjamingu"
+      },
+      {
+        "lang": "nl",
+        "name": "Rode flamingo"
+      },
+      {
+        "lang": "no",
+        "name": "Rødflamingo"
+      },
+      {
+        "lang": "pl",
+        "name": "Flaming karmazynowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "امریکی فلیمنگو"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Flamingo"
+      },
+      {
+        "lang": "pt",
+        "name": "Flamingo-americano"
+      },
+      {
+        "lang": "rm",
+        "name": "flamingo"
+      },
+      {
+        "lang": "ru",
+        "name": "Красный фламинго"
+      },
+      {
+        "lang": "se",
+        "name": "Flamingo"
+      },
+      {
+        "lang": "sh",
+        "name": "Karipski plamenac / карипски пламенац"
+      },
+      {
+        "lang": "sk",
+        "name": "Plameniak červený"
+      },
+      {
+        "lang": "sl",
+        "name": "plamenec"
+      },
+      {
+        "lang": "sq",
+        "name": "Lejleku krahëkuq"
+      },
+      {
+        "lang": "sr",
+        "name": "Flamingo / Фламинго"
+      },
+      {
+        "lang": "sv",
+        "name": "Karibisk flamingo"
+      },
+      {
+        "lang": "sw",
+        "name": "Heroe Mkubwa"
+      },
+      {
+        "lang": "tr",
+        "name": "Karayip flamingosu"
+      },
+      {
+        "lang": "udm",
+        "name": "Горд фламинго"
+      },
+      {
+        "lang": "uk",
+        "name": "Фламінго"
+      },
+      {
+        "lang": "vi",
+        "name": "Hồng hạc Mỹ"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲紅鸛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phoenicopterus roseus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Grootflamink"
+      },
+      {
+        "lang": "ar",
+        "name": "نحام كبي"
+      },
+      {
+        "lang": "az",
+        "name": "Adi qızılqaz"
+      },
+      {
+        "lang": "be",
+        "name": "Фламінга звычайны"
+      },
+      {
+        "lang": "bg",
+        "name": "Розово фламинго"
+      },
+      {
+        "lang": "bh",
+        "name": "राजहंस"
+      },
+      {
+        "lang": "br",
+        "name": "Flammeg boutin"
+      },
+      {
+        "lang": "ca",
+        "name": "Flamenc rosat"
+      },
+      {
+        "lang": "cs",
+        "name": "Plameňák růžový"
+      },
+      {
+        "lang": "de",
+        "name": "Rosaflamingo"
+      },
+      {
+        "lang": "en",
+        "name": "Greater Flamingo"
+      },
+      {
+        "lang": "eo",
+        "name": "Rozkolora flamengo"
+      },
+      {
+        "lang": "es",
+        "name": "Flamenco común"
+      },
+      {
+        "lang": "fa",
+        "name": "فلامینگوی بزرگتر"
+      },
+      {
+        "lang": "fi",
+        "name": "Flamingo"
+      },
+      {
+        "lang": "fr",
+        "name": "Flamant rose"
+      },
+      {
+        "lang": "he",
+        "name": "פלמינגו מצוי"
+      },
+      {
+        "lang": "hr",
+        "name": "Ružičasti plamenac"
+      },
+      {
+        "lang": "hu",
+        "name": "Rózsás flamingó"
+      },
+      {
+        "lang": "hy",
+        "name": "Ֆլամինգո սովորական"
+      },
+      {
+        "lang": "it",
+        "name": "Fenicottero rosa"
+      },
+      {
+        "lang": "ja",
+        "name": "オオフラミンゴ"
+      },
+      {
+        "lang": "kbd",
+        "name": "ЛъакъуапцӀэплъыфэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Кәдімгі қоқиқаз"
+      },
+      {
+        "lang": "ku",
+        "name": "Sorewîlka mezintir"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis flamingas"
+      },
+      {
+        "lang": "mk",
+        "name": "Розово фламинго"
+      },
+      {
+        "lang": "ml",
+        "name": "വലിയ അരയന്നക്കൊക്ക്"
+      },
+      {
+        "lang": "mn",
+        "name": "Ягаан нал"
+      },
+      {
+        "lang": "mr",
+        "name": "महा रोहित"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Flamingo Caribbean"
+      },
+      {
+        "lang": "nl",
+        "name": "(Gewone) flamingo"
+      },
+      {
+        "lang": "nn",
+        "name": "Rosenflamingo"
+      },
+      {
+        "lang": "no",
+        "name": "Flamingo"
+      },
+      {
+        "lang": "pl",
+        "name": "Flaming różowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "وڈا فلیمنگو"
+      },
+      {
+        "lang": "pt",
+        "name": "Flamingo-comum"
+      },
+      {
+        "lang": "ru",
+        "name": "Розовый фламинго"
+      },
+      {
+        "lang": "sr",
+        "name": "Ружичасти фламинго"
+      },
+      {
+        "lang": "sv",
+        "name": "Större flamingo"
+      },
+      {
+        "lang": "ta",
+        "name": "பெரும் பூநாரை"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük flamingo"
+      },
+      {
+        "lang": "uk",
+        "name": "Фламінго рожевий"
+      },
+      {
+        "lang": "vi",
+        "name": "Hồng hạc lớn"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "大紅鸛"
+      },
+      {
+        "lang": "zh",
+        "name": "大紅鸛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phoenicopterus chilensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Plameňák chilský"
+      },
+      {
+        "lang": " de",
+        "name": "Chilenischer Flamingo"
+      },
+      {
+        "lang": "en",
+        "name": "Chilean Flamingo"
+      },
+      {
+        "lang": "eo",
+        "name": "Ĉilia flamengo"
+      },
+      {
+        "lang": "es",
+        "name": "Flamenco chileno o Austral"
+      },
+      {
+        "lang": "fi",
+        "name": "Chilenflamingo"
+      },
+      {
+        "lang": "fr",
+        "name": "Flamant du Chili"
+      },
+      {
+        "lang": "ja",
+        "name": "チリーフラミンゴ"
+      },
+      {
+        "lang": "nl",
+        "name": "Chileense flamingo"
+      },
+      {
+        "lang": "pt",
+        "name": "Flamingo chileno"
+      },
+      {
+        "lang": "ru",
+        "name": "Чилийский фламинго"
+      },
+      {
+        "lang": "sv",
+        "name": "Chileflamingo"
+      },
+      {
+        "lang": "tr",
+        "name": "Şili flamingosu"
+      }
+    ]
+  }
+]

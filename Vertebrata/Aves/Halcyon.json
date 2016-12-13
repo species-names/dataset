@@ -1,0 +1,861 @@
+[
+  {
+    "scientific_name": "Halcyon smyrnensis",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Diredig jave gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció d'Esmirna"
+      },
+      {
+        "lang": "cs",
+        "name": "Ledňáček hnědohlavý"
+      },
+      {
+        "lang": "de",
+        "name": "Braunliest"
+      },
+      {
+        "lang": "en",
+        "name": "White-throated Kingfisher"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankgorĝa arbalciono"
+      },
+      {
+        "lang": "es",
+        "name": "Alción de Esmirna"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur de Smyrne"
+      },
+      {
+        "lang": "he",
+        "name": "שלדג לבן החזה"
+      },
+      {
+        "lang": "hi",
+        "name": "श्वेतकण्ठ कौड़िल्ला"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehértorkú halkapó"
+      },
+      {
+        "lang": "id",
+        "name": "Cekakak Belukar"
+      },
+      {
+        "lang": "ja",
+        "name": "アオショウビン"
+      },
+      {
+        "lang": "ml",
+        "name": "മീൻകൊത്തിച്ചാത്തൻ"
+      },
+      {
+        "lang": "mr",
+        "name": "खंड्या"
+      },
+      {
+        "lang": "nl",
+        "name": "Smyrna-ijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹی تون آلا مچھی مار"
+      },
+      {
+        "lang": "pl",
+        "name": "Łowiec krasnodzioby"
+      },
+      {
+        "lang": "ru",
+        "name": "Красноклювая альциона"
+      },
+      {
+        "lang": "sv",
+        "name": "Smyrnakungsfiskare"
+      },
+      {
+        "lang": "ta",
+        "name": "வெண்தொண்டை மீன்கொத்தி"
+      },
+      {
+        "lang": "tr",
+        "name": "İzmir yalıçapkını"
+      },
+      {
+        "lang": "zh",
+        "name": "白胸翡翠"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "白胸翡翠"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "蒼翡翠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Halcyon senegaloides",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Manglietvisvanger"
+      },
+      {
+        "lang": "br",
+        "name": "Diredig ar mangrovennoù"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció de manglar"
+      },
+      {
+        "lang": "cs",
+        "name": "Ledňáček pobřežní"
+      },
+      {
+        "lang": "de",
+        "name": "Mangrovenliest"
+      },
+      {
+        "lang": "en",
+        "name": "Mangrove Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Alción de manglar"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur des mangroves"
+      },
+      {
+        "lang": "it",
+        "name": "Martin pescatore delle mangrovie"
+      },
+      {
+        "lang": "nl",
+        "name": "Mangrove-ijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "مینگروو مچھی مار"
+      },
+      {
+        "lang": "ru",
+        "name": "Мангровая альциона"
+      },
+      {
+        "lang": "sv",
+        "name": "Kustkungsfiskare"
+      },
+      {
+        "lang": "tr",
+        "name": "Mangrov yalıçapkını"
+      },
+      {
+        "lang": "vi",
+        "name": "Sả rừng đước"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Halcyon senegalensis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bosveldvisvanger"
+      },
+      {
+        "lang": "br",
+        "name": "Diredig Senegal"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció del Senegal"
+      },
+      {
+        "lang": "cs",
+        "name": "Ledňáček senegalský"
+      },
+      {
+        "lang": "de",
+        "name": "Senegalliest"
+      },
+      {
+        "lang": "en",
+        "name": "Woodland Kingfisher"
+      },
+      {
+        "lang": "eo",
+        "name": "Senegala arbalciono"
+      },
+      {
+        "lang": "es",
+        "name": "Alción Senegalés"
+      },
+      {
+        "lang": "fa",
+        "name": "ماهی‌خورک وودلند"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur du Sénégal"
+      },
+      {
+        "lang": "hu",
+        "name": "Türkiz halkapó"
+      },
+      {
+        "lang": "ja",
+        "name": "セネガルショウビン"
+      },
+      {
+        "lang": "nl",
+        "name": "Senegal-ijsvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Lundisfugl"
+      },
+      {
+        "lang": "pnb",
+        "name": "سینیگال مچھی مار"
+      },
+      {
+        "lang": "ru",
+        "name": "Сенегальская альциона"
+      },
+      {
+        "lang": "sv",
+        "name": "Savannkungsfiskare"
+      },
+      {
+        "lang": "uk",
+        "name": "Лісовий зимородок"
+      },
+      {
+        "lang": "vi",
+        "name": "Sả Senegal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Halcyon pileata",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "صياد السمك أسود التاج"
+      },
+      {
+        "lang": "bn",
+        "name": "কালো মাথা মাছরাঙা"
+      },
+      {
+        "lang": "br",
+        "name": "Diredig kabell du"
+      },
+      {
+        "lang": "cs",
+        "name": "Ledňáček černohlavý"
+      },
+      {
+        "lang": "de",
+        "name": "Kappenliest"
+      },
+      {
+        "lang": "en",
+        "name": "Black-capped Kingfisher"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrakapa arbalciono"
+      },
+      {
+        "lang": "es",
+        "name": "Alción capirotado"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur à calotte noire"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤマショウビン"
+      },
+      {
+        "lang": "ko",
+        "name": "청호반새"
+      },
+      {
+        "lang": "ml",
+        "name": "കരിന്തലയൻ‌മീൻ‌കൊത്തി"
+      },
+      {
+        "lang": "mn",
+        "name": "Хармагнай халуу"
+      },
+      {
+        "lang": "mr",
+        "name": "काळ्या डोक्याचा खंड्या"
+      },
+      {
+        "lang": "ms",
+        "name": "Pekaka Kopiah Hitam"
+      },
+      {
+        "lang": "ne",
+        "name": "कालोटाउके माटीकोरे"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkapijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالی ٹوپیوالا مچھی مار"
+      },
+      {
+        "lang": "ru",
+        "name": "Ошейниковая альциона"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthuvad kungsfiskare"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝翡翠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Halcyon malimbica",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Diredig jave glas"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció malímbic"
+      },
+      {
+        "lang": "cs",
+        "name": "Ledňáček malimbijský"
+      },
+      {
+        "lang": "da",
+        "name": "Malimbicaisfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Zügelliest"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-breasted Kingfisher"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigraŝultra arbalciono"
+      },
+      {
+        "lang": "es",
+        "name": "Alción pechiazul"
+      },
+      {
+        "lang": "et",
+        "name": "Sinipugu-safiirlind"
+      },
+      {
+        "lang": "fi",
+        "name": "Sinirintakalastaja"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur à poitrine bleue"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékbegyű halcion"
+      },
+      {
+        "lang": "it",
+        "name": "Martin pescatore pettazzurro"
+      },
+      {
+        "lang": "ja",
+        "name": "アオムネショウビン"
+      },
+      {
+        "lang": "nl",
+        "name": "Teugelijsvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "łowiec kameruński"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالا نیلا مچھی مار"
+      },
+      {
+        "lang": "pt",
+        "name": "Guarda-rios-de-peito-azul"
+      },
+      {
+        "lang": "ru",
+        "name": "Синегрудая альциона"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåbröstad kungsfiskare"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi göğüslü yalıçapkını"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Halcyon leucocephala",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gryskopvisvanger"
+      },
+      {
+        "lang": "br",
+        "name": "Diredig penn gris"
+      },
+      {
+        "lang": "cs",
+        "name": "Lednácek šedohlavý"
+      },
+      {
+        "lang": "da",
+        "name": "Gråhovedet Isfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Graukopfliest"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-headed Kingfisher"
+      },
+      {
+        "lang": "eo",
+        "name": "Grizkapa arbalciono"
+      },
+      {
+        "lang": "es",
+        "name": "Alción cabeciblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Hallpea-safiirlind"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaapääkalastaja"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur à tête grise"
+      },
+      {
+        "lang": "is",
+        "name": "Gráþyrill"
+      },
+      {
+        "lang": "it",
+        "name": "Martin pescatore testagrigia"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイガシラショウビン"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltagalvis halcionas"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijskopijsvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Gråhodeisfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "łowiec szarogłowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Guarda-rios-de-cabeca-cinzenta"
+      },
+      {
+        "lang": "ru",
+        "name": "Сероголовая альциона"
+      },
+      {
+        "lang": "sk",
+        "name": "Rybárik sivohlavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Sivoglavi gozdomec"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråhuvad kungsfiskare"
+      },
+      {
+        "lang": "tr",
+        "name": "Boz-başlı Yalıçapkını"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Halcyon cyanoventris",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Diredig Java"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció de Java"
+      },
+      {
+        "lang": "cs",
+        "name": "Lednácek jávský"
+      },
+      {
+        "lang": "da",
+        "name": "Brunstrubet Smyrnaisfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Javaliest"
+      },
+      {
+        "lang": "en",
+        "name": "Javan Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Alción de Java"
+      },
+      {
+        "lang": "et",
+        "name": "Jaava safiirlind"
+      },
+      {
+        "lang": "fi",
+        "name": "Jaavankalastaja"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur de Java"
+      },
+      {
+        "lang": "hu",
+        "name": "Jávai halkapó"
+      },
+      {
+        "lang": "id",
+        "name": "Cekakak gunung"
+      },
+      {
+        "lang": "it",
+        "name": "Martin pescatore di Giava"
+      },
+      {
+        "lang": "ja",
+        "name": "ジャワショウビン"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaanse Ijsvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Javaisfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "łowiec brązowoszyi"
+      },
+      {
+        "lang": "pnb",
+        "name": "جاوی مچھی مار"
+      },
+      {
+        "lang": "ru",
+        "name": "Яванская альциона"
+      },
+      {
+        "lang": "su",
+        "name": "Cangkakak"
+      },
+      {
+        "lang": "sv",
+        "name": "Javakungsfiskare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Halcyon coromanda",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Diredig ruz"
+      },
+      {
+        "lang": "cs",
+        "name": "Ledňáček ohnivý"
+      },
+      {
+        "lang": "da",
+        "name": "Violetisfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Feuerliest"
+      },
+      {
+        "lang": "en",
+        "name": "Ruddy Kingfisher"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝa arbalciono"
+      },
+      {
+        "lang": "es",
+        "name": "Alción rojizo"
+      },
+      {
+        "lang": "et",
+        "name": "Puna-safiirlind"
+      },
+      {
+        "lang": "fi",
+        "name": "Punakalastaja"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur violet"
+      },
+      {
+        "lang": "id",
+        "name": "Cekakak merah"
+      },
+      {
+        "lang": "it",
+        "name": "Martin pescatore rossiccio"
+      },
+      {
+        "lang": "ja",
+        "name": "アカショウビン"
+      },
+      {
+        "lang": "ko",
+        "name": "호반새"
+      },
+      {
+        "lang": "ms",
+        "name": "Pekaka Ungu"
+      },
+      {
+        "lang": "nl",
+        "name": "Rosse Ijsvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "łowiec płomienny"
+      },
+      {
+        "lang": "ru",
+        "name": "Зимородок рыжий"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostkungsfiskare"
+      },
+      {
+        "lang": "th",
+        "name": "นกกะเต็นแดง"
+      },
+      {
+        "lang": "tr",
+        "name": "Al yalıçapkını"
+      },
+      {
+        "lang": "vi",
+        "name": "Sả hung"
+      },
+      {
+        "lang": "zh",
+        "name": "赤翡翠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Halcyon chelicuti",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gestreepte visvanger"
+      },
+      {
+        "lang": "cs",
+        "name": "Ledňáček žíhaný"
+      },
+      {
+        "lang": "en",
+        "name": "Striped Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Alción estriado"
+      },
+      {
+        "lang": "pt",
+        "name": "Pica-peixe-riscado"
+      },
+      {
+        "lang": "tr",
+        "name": "Çizgili yalıçapkını"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Halcyon badia",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Lednácek nádherný"
+      },
+      {
+        "lang": "da",
+        "name": "Lille Smyrnaisfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Kastanienliest"
+      },
+      {
+        "lang": "en",
+        "name": "Chocolate-backed Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Alción castaño"
+      },
+      {
+        "lang": "et",
+        "name": "Mahagon-safiirlind"
+      },
+      {
+        "lang": "fi",
+        "name": "Kanelikalastaja"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur marron"
+      },
+      {
+        "lang": "it",
+        "name": "Martin pescatore cioccolato"
+      },
+      {
+        "lang": "ja",
+        "name": "セグロショウビン"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkeelijsvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Łowiec czekoladowy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Halcyon albiventris",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bruinkopvisvanger"
+      },
+      {
+        "lang": "br",
+        "name": "Diredig kabell gell"
+      },
+      {
+        "lang": "cs",
+        "name": "Ledňáček kápový"
+      },
+      {
+        "lang": "de",
+        "name": "Braunkopfliest"
+      },
+      {
+        "lang": "en",
+        "name": "Brown-hooded Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Alción cabecipardo"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur à tête brune"
+      },
+      {
+        "lang": "hu",
+        "name": "Barnafejű halkapó"
+      },
+      {
+        "lang": "it",
+        "name": "Martin pescatore capobruno"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinkapijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ونچل مچھی مار"
+      },
+      {
+        "lang": "pt",
+        "name": "Pica-peixe-de-barrete-castanho"
+      },
+      {
+        "lang": "ru",
+        "name": "Буроголовая альциона"
+      },
+      {
+        "lang": "sv",
+        "name": "Brunhuvad kungsfiskare"
+      }
+    ]
+  }
+]

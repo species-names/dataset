@@ -1,0 +1,480 @@
+[
+  {
+    "scientific_name": "Coracias temminckii",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "شقراق أرجواني الجناح"
+      },
+      {
+        "lang": "br",
+        "name": "Korag Temminck"
+      },
+      {
+        "lang": "cs",
+        "name": "Mandelík celebeský"
+      },
+      {
+        "lang": "da",
+        "name": "Sulawesiellekrage"
+      },
+      {
+        "lang": "de",
+        "name": "Celebes Racke",
+        "synonyms": [
+          "Celebesracke"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Purple-winged Roller"
+      },
+      {
+        "lang": "es",
+        "name": "Carraca de Célebes"
+      },
+      {
+        "lang": "et",
+        "name": "Sulawesi siniraag"
+      },
+      {
+        "lang": "fa",
+        "name": "سبزقبای بال‌ارغوانی"
+      },
+      {
+        "lang": "fi",
+        "name": "Celebesinsininärhi"
+      },
+      {
+        "lang": "fr",
+        "name": "Rollier de Temminck"
+      },
+      {
+        "lang": "ja",
+        "name": "セレベスブッポウソウ [serebesubuppousou]"
+      },
+      {
+        "lang": "hu",
+        "name": "Kucsmás szalakóta"
+      },
+      {
+        "lang": "id",
+        "name": "Tiong-lampu sulawesi"
+      },
+      {
+        "lang": "nl",
+        "name": "Sulawesischarrelaar"
+      },
+      {
+        "lang": "no",
+        "name": "Sulawesiråke"
+      },
+      {
+        "lang": "ru",
+        "name": "Сулавесская сизоворонка"
+      },
+      {
+        "lang": "sk",
+        "name": "Krakľa purpurová"
+      },
+      {
+        "lang": "sv",
+        "name": "Sulawesiblåkråka"
+      },
+      {
+        "lang": "tr",
+        "name": "Temminck gökkuzgunu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coracias spatulatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Racket-tailed Roller"
+      },
+      {
+        "lang": "es",
+        "name": "Carraca de raquetas"
+      },
+      {
+        "lang": "fr",
+        "name": "Rollier à raquettes"
+      },
+      {
+        "lang": "pt",
+        "name": "Rolieiro-cauda-de-raquete"
+      },
+      {
+        "lang": "ru",
+        "name": "ракетохвостая сизоворонка"
+      },
+      {
+        "lang": "tr",
+        "name": "Raket kuyruklu gökkuzgun"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coracias naevius",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Mandelík nachový"
+      },
+      {
+        "lang": "en",
+        "name": "Rufous-crowned Roller"
+      },
+      {
+        "lang": "fr",
+        "name": "Rollier varié"
+      },
+      {
+        "lang": "tr",
+        "name": "Pas taçlı gökkuzgun"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coracias garrulus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Europese troupant"
+      },
+      {
+        "lang": "ar",
+        "name": "الخضيري"
+      },
+      {
+        "lang": "ba",
+        "name": "Күк ҡарға"
+      },
+      {
+        "lang": "be",
+        "name": "Сіваграк звычайны"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Сіваграк"
+      },
+      {
+        "lang": "bg",
+        "name": "Синявица"
+      },
+      {
+        "lang": "br",
+        "name": "Korag-Europa"
+      },
+      {
+        "lang": "ca",
+        "name": "Gaig blau"
+      },
+      {
+        "lang": "cs",
+        "name": "Mandelík hajní"
+      },
+      {
+        "lang": "cv",
+        "name": "Кăвак курак"
+      },
+      {
+        "lang": "de",
+        "name": "Blauracke"
+      },
+      {
+        "lang": "en",
+        "name": "European Roller"
+      },
+      {
+        "lang": "es",
+        "name": "Carraca"
+      },
+      {
+        "lang": "et",
+        "name": "Siniraag"
+      },
+      {
+        "lang": "fi",
+        "name": "Sininärhi"
+      },
+      {
+        "lang": "fr",
+        "name": "Rollier d'Europe"
+      },
+      {
+        "lang": "gl",
+        "name": "Carraca"
+      },
+      {
+        "lang": "hy",
+        "name": "Ներկարար"
+      },
+      {
+        "lang": "it",
+        "name": "Ghiandaia marina"
+      },
+      {
+        "lang": "ja",
+        "name": "ニシブッポウソウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Žalvarnis"
+      },
+      {
+        "lang": "nl",
+        "name": "Europese scharrelaar"
+      },
+      {
+        "lang": "pl",
+        "name": "Kraska"
+      },
+      {
+        "lang": "ru",
+        "name": "Сизоворонка"
+      },
+      {
+        "lang": "sk",
+        "name": "Krakľa belasá"
+      },
+      {
+        "lang": "sl",
+        "name": "Zlatovranka"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåkråka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coracias cyanogaster",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Mandelík modrobřichý"
+      },
+      {
+        "lang": "de",
+        "name": "Opalracke"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-bellied Roller"
+      },
+      {
+        "lang": "eo",
+        "name": "Bluventra koracio"
+      },
+      {
+        "lang": "fr",
+        "name": "Rollier à ventre bleu"
+      },
+      {
+        "lang": "ja",
+        "name": "アオハラニシブッポウソウ"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi karınlı gökkuzgun"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coracias caudatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Mandelík fialovoprsý"
+      },
+      {
+        "lang": "en",
+        "name": "Lilac-breasted Roller"
+      },
+      {
+        "lang": "fi",
+        "name": "Savannisininärhi"
+      },
+      {
+        "lang": "fr",
+        "name": "Rollier à longs brins"
+      },
+      {
+        "lang": "ja",
+        "name": "ライラックニシブッポウソウ"
+      },
+      {
+        "lang": "tr",
+        "name": "Eflatun göğüslü gökkuzgun"
+      },
+      {
+        "lang": "th",
+        "name": "นกตะขาบอกสีม่วง",
+        "synonyms": [
+          "นกตะขาบทุ่งอกสีม่วง"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coracias caffra",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Coracias benghalensis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "شقراق هندي"
+      },
+      {
+        "lang": "bn",
+        "name": "নীলকণ্ঠ পাখি"
+      },
+      {
+        "lang": "br",
+        "name": "Korag India"
+      },
+      {
+        "lang": "ca",
+        "name": "Gaig blau indi"
+      },
+      {
+        "lang": "cs",
+        "name": "Mandelík indický"
+      },
+      {
+        "lang": "de",
+        "name": "Hinduracke"
+      },
+      {
+        "lang": "en",
+        "name": "Indian Roller"
+      },
+      {
+        "lang": "eo",
+        "name": "Azia koracio"
+      },
+      {
+        "lang": "es",
+        "name": "Carraca india"
+      },
+      {
+        "lang": "eu",
+        "name": "Indiar karraka"
+      },
+      {
+        "lang": "fr",
+        "name": "Rollier indien"
+      },
+      {
+        "lang": "hi",
+        "name": "नीलकंठ पक्षी"
+      },
+      {
+        "lang": "kn",
+        "name": "ನೀಲಕಂಠ"
+      },
+      {
+        "lang": "hu",
+        "name": "Bengál szalakóta"
+      },
+      {
+        "lang": "ml",
+        "name": "പനങ്കാക്ക"
+      },
+      {
+        "lang": "mr",
+        "name": "चास"
+      },
+      {
+        "lang": "my",
+        "name": "ငှက်ခါး"
+      },
+      {
+        "lang": "ja",
+        "name": "インドブッポウソウ"
+      },
+      {
+        "lang": "or",
+        "name": "ଭଦଳଭଦଳିଆ"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیل کنٹھ"
+      },
+      {
+        "lang": "ru",
+        "name": "Бенгальская сизоворонка"
+      },
+      {
+        "lang": "sv",
+        "name": "Indisk blåkråka"
+      },
+      {
+        "lang": "ta",
+        "name": "பனங்காடை"
+      },
+      {
+        "lang": "te",
+        "name": "పాలపిట్ట"
+      },
+      {
+        "lang": "th",
+        "name": "นกตะขาบทุ่ง",
+        "synonyms": [
+          "นกตะขาบ",
+          "นกขาบ"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Hint gökkuzgunu"
+      },
+      {
+        "lang": "vi",
+        "name": "Sả rừng"
+      },
+      {
+        "lang": "zh",
+        "name": "棕胸佛法僧"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coracias abyssinicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Mandelík sahelský"
+      },
+      {
+        "lang": "en",
+        "name": "Abyssinian Roller"
+      },
+      {
+        "lang": "es",
+        "name": "Carraca abisinia"
+      },
+      {
+        "lang": "fr",
+        "name": "Rollier d'Abyssinie"
+      },
+      {
+        "lang": "sl",
+        "name": "abesinska zlatovranka"
+      },
+      {
+        "lang": "fi",
+        "name": "Abessiniansininärhi"
+      },
+      {
+        "lang": "tr",
+        "name": "Etiyopya gökkuzgunu"
+      }
+    ]
+  }
+]

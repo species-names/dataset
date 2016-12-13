@@ -1,0 +1,336 @@
+[
+  {
+    "scientific_name": "Aix sponsa",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Каролинка"
+      },
+      {
+        "lang": "br",
+        "name": "Houad Carolina"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec carolí"
+      },
+      {
+        "lang": "cs",
+        "name": "Kachnička karolínská"
+      },
+      {
+        "lang": "da",
+        "name": "Brudeand"
+      },
+      {
+        "lang": "de",
+        "name": "Brautente"
+      },
+      {
+        "lang": "en",
+        "name": "Wood Duck"
+      },
+      {
+        "lang": "eo",
+        "name": "Arbanaso"
+      },
+      {
+        "lang": "es",
+        "name": "Pato Joyuyo"
+      },
+      {
+        "lang": "fi",
+        "name": "Morsiosorsa"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard branchu"
+      },
+      {
+        "lang": "he",
+        "name": "ברווז עצים"
+      },
+      {
+        "lang": "hr",
+        "name": "Karolinka"
+      },
+      {
+        "lang": "hu",
+        "name": "Karolinai réce"
+      },
+      {
+        "lang": "is",
+        "name": "Brúðönd"
+      },
+      {
+        "lang": "it",
+        "name": "Anatra sposa"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカオシ"
+      },
+      {
+        "lang": "ko",
+        "name": "아메리카원앙"
+      },
+      {
+        "lang": "lt",
+        "name": "Miškinė antis"
+      },
+      {
+        "lang": "ms",
+        "name": "Itik Kayu"
+      },
+      {
+        "lang": "nl",
+        "name": "Carolina-eend"
+      },
+      {
+        "lang": "no",
+        "name": "Brudeand"
+      },
+      {
+        "lang": "nv",
+        "name": "Naalʼeełí naashchʼąąʼígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Karolinka"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-carolino"
+      },
+      {
+        "lang": "ru",
+        "name": "Каролинская утка"
+      },
+      {
+        "lang": "sk",
+        "name": "Kačička obojková"
+      },
+      {
+        "lang": "sv",
+        "name": "Brudand"
+      },
+      {
+        "lang": "ta",
+        "name": "காட்டு வாத்து"
+      },
+      {
+        "lang": "uk",
+        "name": "Каролінська качка"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt Carolina"
+      },
+      {
+        "lang": "zh",
+        "name": "林鸳鸯"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aix galericulata",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بط الماندرين"
+      },
+      {
+        "lang": "be",
+        "name": "Мандарынка"
+      },
+      {
+        "lang": "bg",
+        "name": "Мандаринка"
+      },
+      {
+        "lang": "bn",
+        "name": "মান্দারিন হাঁস"
+      },
+      {
+        "lang": "br",
+        "name": "Houad mandarin"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec mandarí"
+      },
+      {
+        "lang": "cs",
+        "name": "Kachnička mandarínská"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden gribog"
+      },
+      {
+        "lang": "da",
+        "name": "Mandarinand"
+      },
+      {
+        "lang": "de",
+        "name": "Mandarinente"
+      },
+      {
+        "lang": "en",
+        "name": "Mandarin Duck"
+      },
+      {
+        "lang": "eo",
+        "name": "Mandarenanaso"
+      },
+      {
+        "lang": "es",
+        "name": "Pato mandarín"
+      },
+      {
+        "lang": "et",
+        "name": "Mandariinpart"
+      },
+      {
+        "lang": "eu",
+        "name": "Mandarin ahate"
+      },
+      {
+        "lang": "fi",
+        "name": "Mandariinisorsa"
+      },
+      {
+        "lang": "fo",
+        "name": "Seglont"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard mandarin"
+      },
+      {
+        "lang": "ga",
+        "name": "Lacha Mhandrach"
+      },
+      {
+        "lang": "gl",
+        "name": "Pato mandarín"
+      },
+      {
+        "lang": "he",
+        "name": "מנדרין סיני"
+      },
+      {
+        "lang": "hr",
+        "name": "Mandarinka"
+      },
+      {
+        "lang": "hu",
+        "name": "Mandarinréce"
+      },
+      {
+        "lang": "id",
+        "name": "Bebek Mandarin"
+      },
+      {
+        "lang": "is",
+        "name": "Mandarínönd"
+      },
+      {
+        "lang": "it",
+        "name": "Anatra mandarina"
+      },
+      {
+        "lang": "ja",
+        "name": "オシドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "원앙"
+      },
+      {
+        "lang": "lt",
+        "name": "Mandarininė antis"
+      },
+      {
+        "lang": "lv",
+        "name": "Mandarīnpīle"
+      },
+      {
+        "lang": "mn",
+        "name": "Мандир уранхажин"
+      },
+      {
+        "lang": "ms",
+        "name": "Itik Mandarin"
+      },
+      {
+        "lang": "nl",
+        "name": "Mandarijneend"
+      },
+      {
+        "lang": "nn",
+        "name": "Mandarinand"
+      },
+      {
+        "lang": "no",
+        "name": "Mandarinand"
+      },
+      {
+        "lang": "nv",
+        "name": "Náátsʼózídę́ę́ʼ naalʼeełí"
+      },
+      {
+        "lang": "pl",
+        "name": "Mandarynka"
+      },
+      {
+        "lang": "pnb",
+        "name": "مینڈارن بطخ"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-mandarim"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda mandarina"
+      },
+      {
+        "lang": "ru",
+        "name": "Мандаринка"
+      },
+      {
+        "lang": "sk",
+        "name": "Kačička mandarínska"
+      },
+      {
+        "lang": "sl",
+        "name": "Mandarinka"
+      },
+      {
+        "lang": "sv",
+        "name": "Mandarinand"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดแมนดาริน"
+      },
+      {
+        "lang": "tr",
+        "name": "Mandarin ördeği"
+      },
+      {
+        "lang": "uk",
+        "name": "Мандаринка"
+      },
+      {
+        "lang": "vi",
+        "name": "Uyên ương"
+      },
+      {
+        "lang": "zh",
+        "name": "鸳鸯"
+      }
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "scientific_name": "Aegolius ridgwayi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýc panamský"
+      },
+      {
+        "lang": "de",
+        "name": "Ridgwaykauz"
+      },
+      {
+        "lang": "en",
+        "name": "Unspotted Saw-whet Owl"
+      },
+      {
+        "lang": "hu",
+        "name": "Ridway-bagoly"
+      },
+      {
+        "lang": "no",
+        "name": "Kanelugle"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskohelmipöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aegolius harrisii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýc plavočelý"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbstirnkauz"
+      },
+      {
+        "lang": "en",
+        "name": "Buff-fronted Owl"
+      },
+      {
+        "lang": "hu",
+        "name": "Halványhomlokú bagoly"
+      },
+      {
+        "lang": "no",
+        "name": "Svartbrynugle"
+      },
+      {
+        "lang": "pt",
+        "name": "Caburé-acanelado"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo canela"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aegolius gradyi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Aegolius funereus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "البومة الصغيرة قبسة، بومة"
+      },
+      {
+        "lang": "ast",
+        "name": "Curuxa de Tengmalm"
+      },
+      {
+        "lang": "az",
+        "name": "Qütb bayquşu"
+      },
+      {
+        "lang": "be",
+        "name": "Касматаногі сыч"
+      },
+      {
+        "lang": "bg",
+        "name": "Пернатонога кукумявка"
+      },
+      {
+        "lang": "br",
+        "name": "Kaouenn-dTengmalm"
+      },
+      {
+        "lang": "ca",
+        "name": "Mussol pirinenc"
+      },
+      {
+        "lang": "cv",
+        "name": "Тĕклĕ уралла тăмана"
+      },
+      {
+        "lang": "cs",
+        "name": "sýc rousný"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan Tengmalm"
+      },
+      {
+        "lang": "da",
+        "name": "Perleugle"
+      },
+      {
+        "lang": "de",
+        "name": "Raufußkauz"
+      },
+      {
+        "lang": "el",
+        "name": "Αιγωλιός"
+      },
+      {
+        "lang": "en",
+        "name": "Boreal Owl",
+        "synonyms": [
+          "Tengmalm's Owl"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "funebra strigo"
+      },
+      {
+        "lang": "es",
+        "name": "Lechuza boreal",
+        "synonyms": [
+          "Mochuelo boreal"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Karvasjalg-kakk"
+      },
+      {
+        "lang": "eu",
+        "name": "Mussol pirinenc"
+      },
+      {
+        "lang": "fi",
+        "name": "helmipöllö"
+      },
+      {
+        "lang": "fo",
+        "name": "Hjómut ugla"
+      },
+      {
+        "lang": "fr",
+        "name": "Chouette de Tengmalm",
+        "synonyms": [
+          "Nyctale de Tengmalm"
+        ]
+      },
+      {
+        "lang": "gl",
+        "name": "Moucho de Tengmalm"
+      },
+      {
+        "lang": "he",
+        "name": "כוס חום"
+      },
+      {
+        "lang": "hr",
+        "name": "Mrtvačka sovica"
+      },
+      {
+        "lang": "hu",
+        "name": "Gatyáskuvik"
+      },
+      {
+        "lang": "hy",
+        "name": "Բու թավշաոտ"
+      },
+      {
+        "lang": "is",
+        "name": "Skálmugla"
+      },
+      {
+        "lang": "it",
+        "name": "Civetta capogrosso"
+      },
+      {
+        "lang": "ja",
+        "name": "キンメフクロウ(金目梟)"
+      },
+      {
+        "lang": "ka",
+        "name": "ბუკიოტი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Тасхачах"
+      },
+      {
+        "lang": "kk",
+        "name": "Орман байғызы"
+      },
+      {
+        "lang": "lt",
+        "name": "Lututė"
+      },
+      {
+        "lang": "lv",
+        "name": "Bikšainais apogs"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung hantu telinga pendek"
+      },
+      {
+        "lang": "mk",
+        "name": "Јакеста кукумјавка",
+        "synonyms": [
+          "Утка"
+        ]
+      },
+      {
+        "lang": "mn",
+        "name": "Савагт ууль"
+      },
+      {
+        "lang": "nl",
+        "name": "Ruigpootuil"
+      },
+      {
+        "lang": "nn",
+        "name": "Perleugle"
+      },
+      {
+        "lang": "no",
+        "name": "Perleugle"
+      },
+      {
+        "lang": "pl",
+        "name": "włochatka"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mocho-dos-banhados"
+      },
+      {
+        "lang": "pt",
+        "name": "Mocho de Tengmalm"
+      },
+      {
+        "lang": "rm",
+        "name": "Tschuetta pailusa"
+      },
+      {
+        "lang": "ru",
+        "name": "Мохноногий сыч"
+      },
+      {
+        "lang": "se",
+        "name": "Bearalskuolfi"
+      },
+      {
+        "lang": "sk",
+        "name": "pôtik kapcavý"
+      },
+      {
+        "lang": "sl",
+        "name": "koconogi čuk"
+      },
+      {
+        "lang": "sq",
+        "name": "Kukuvajka e Tengmalnit"
+      },
+      {
+        "lang": "sr",
+        "name": "Gacasta kukumavka",
+        "synonyms": [
+          "Гачаста кукумавка"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Pärluggla"
+      },
+      {
+        "lang": "tr",
+        "name": "Paçalı baykuş"
+      },
+      {
+        "lang": "tyv",
+        "name": "Селбегер буттуг ыйбааңгы үгү"
+      },
+      {
+        "lang": "uk",
+        "name": "Сич волохатий"
+      },
+      {
+        "lang": "zh",
+        "name": "鬼鴞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aegolius acadicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "sýc americký"
+      },
+      {
+        "lang": "da",
+        "name": "Lille Perleugle"
+      },
+      {
+        "lang": "de",
+        "name": "Sägekauz"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Saw-whet Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Lechuza norteña",
+        "synonyms": [
+          "Mochuelo Cabezón"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanhelmipöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Petite nyctale"
+      },
+      {
+        "lang": "hu",
+        "name": "Fűrészbagoly"
+      },
+      {
+        "lang": "it",
+        "name": "Civetta capogrosso del Nordamerica"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカキンメフクロウ",
+        "synonyms": [
+          "amerikakinmefukurou"
+        ]
+      },
+      {
+        "lang": "lkt",
+        "name": "hiŋháŋčisčila",
+        "synonyms": [
+          "Hiŋháŋ číkʼala"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Zaaguil"
+      },
+      {
+        "lang": "no",
+        "name": "Slipeugle"
+      },
+      {
+        "lang": "pl",
+        "name": "Włochatka mała"
+      },
+      {
+        "lang": "pt",
+        "name": "Mocho-amolador"
+      },
+      {
+        "lang": "ru",
+        "name": "Североамериканский мохноногий сыч"
+      },
+      {
+        "lang": "sk",
+        "name": "pôtik škripľavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostpärluggla"
+      },
+      {
+        "lang": "zh",
+        "name": "棕榈鬼鸮"
+      }
+    ]
+  }
+]

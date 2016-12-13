@@ -1,0 +1,479 @@
+[
+  {
+    "scientific_name": "Trogon viridis",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Hvidhalet trogon"
+      },
+      {
+        "lang": "en",
+        "name": "White-tailed Trogon"
+      },
+      {
+        "lang": "pt",
+        "name": "Surucuá-de-barriga-amarela"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak kuyruklu trogon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon violaceus",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Blågul trogon"
+      },
+      {
+        "lang": "en",
+        "name": "Violaceous Trogon"
+      },
+      {
+        "lang": "pt",
+        "name": "Surucuá-miudinho"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon surrucura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Surucua Trogon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon rufus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-throated Trogon"
+      },
+      {
+        "lang": "pt",
+        "name": "Surucuá-de-barriga-amarela"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon personatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Masked Trogon"
+      },
+      {
+        "lang": "fi",
+        "name": "Naamiotrogoni"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon mexicanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mountain Trogon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon melanurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-tailed Trogon"
+      },
+      {
+        "lang": "pt",
+        "name": "Surucuá-de-cauda-preta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon melanocephalus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Trogon penn du"
+      },
+      {
+        "lang": "cs",
+        "name": "trogon černohlavý"
+      },
+      {
+        "lang": "da",
+        "name": "Sorthovedet Trogon"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkopftrogon"
+      },
+      {
+        "lang": "en",
+        "name": "Black-headed Trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón Cabecinegro"
+      },
+      {
+        "lang": "et",
+        "name": "salu-järanokk"
+      },
+      {
+        "lang": "fi",
+        "name": "naurutrogoni"
+      },
+      {
+        "lang": "fr",
+        "name": "Trogon à tête noire"
+      },
+      {
+        "lang": "hu",
+        "name": "kormosfejű aranytrogon"
+      },
+      {
+        "lang": "it",
+        "name": "Trogone testanera"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロハグロキヌバネドリ",
+        "synonyms": [
+          "zugurohagurokinubanedori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkoptrogon"
+      },
+      {
+        "lang": "no",
+        "name": "Svarthodetrogon"
+      },
+      {
+        "lang": "pl",
+        "name": "trogon czarnoglowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноголовый трогон"
+      },
+      {
+        "lang": "sk",
+        "name": "trogón čiernohlavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthuvad trogon"
+      },
+      {
+        "lang": "zh",
+        "name": "黑头美洲咬鹃"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon massena",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "trogon Massenův"
+      },
+      {
+        "lang": "da",
+        "name": "Orangenæbbet Trogon"
+      },
+      {
+        "lang": "de",
+        "name": "Schieferschwanztrogon"
+      },
+      {
+        "lang": "en",
+        "name": "Slaty-tailed Trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón Grande"
+      },
+      {
+        "lang": "et",
+        "name": "suur-järanokk"
+      },
+      {
+        "lang": "fi",
+        "name": "lyijytrogoni"
+      },
+      {
+        "lang": "fr",
+        "name": "Trogon de Masséna"
+      },
+      {
+        "lang": "it",
+        "name": "Trogone di Massena"
+      },
+      {
+        "lang": "ja",
+        "name": "オグロキヌバネドリ",
+        "synonyms": [
+          "ogurokinubanedori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Massena's Trogon"
+      },
+      {
+        "lang": "no",
+        "name": "Oransjenebbtrogon"
+      },
+      {
+        "lang": "pl",
+        "name": "trogon krasnodzioby"
+      },
+      {
+        "lang": "pt",
+        "name": "Surucuá-de-cauda-escura"
+      },
+      {
+        "lang": "ru",
+        "name": "Аспиднохвостый трогон"
+      },
+      {
+        "lang": "sk",
+        "name": "trogón holubí"
+      },
+      {
+        "lang": "sv",
+        "name": "Massenatrogon"
+      },
+      {
+        "lang": "zh",
+        "name": "灰尾美洲咬鹃"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon elegans",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Elegant Trogon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon curucui",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-crowned Trogon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon comptus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-eyed Trogon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon collaris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "trogon limcový"
+      },
+      {
+        "lang": "da",
+        "name": "Båndhaletrogon"
+      },
+      {
+        "lang": "de",
+        "name": "Jungferntrogon"
+      },
+      {
+        "lang": "en",
+        "name": "Collared Trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón Acollarado"
+      },
+      {
+        "lang": "et",
+        "name": "välu-järanokk"
+      },
+      {
+        "lang": "fi",
+        "name": "käkitrogoni"
+      },
+      {
+        "lang": "fr",
+        "name": "Trogon rosalba"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyi trogon"
+      },
+      {
+        "lang": "it",
+        "name": "Trogone dal collare"
+      },
+      {
+        "lang": "ja",
+        "name": "クビワキヌバネドリ",
+        "synonyms": [
+          "kubiwakinubanedori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Gekraagde trogon"
+      },
+      {
+        "lang": "no",
+        "name": "Båndtrogon"
+      },
+      {
+        "lang": "pl",
+        "name": "trogon obrożny"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Surucuá-de-coleira"
+      },
+      {
+        "lang": "pt",
+        "name": "Surucuá-de-coleira"
+      },
+      {
+        "lang": "ru",
+        "name": "Ошейниковый трогон"
+      },
+      {
+        "lang": "sk",
+        "name": "trogón pásikavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Halsbandstrogon"
+      },
+      {
+        "lang": "zh",
+        "name": "白领美洲咬鹃"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon clathratus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lattice-tailed Trogon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon citreolus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Citreoline Trogon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon bairdii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Baird's Trogon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon aurantiiventris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "trogon zlatobrichý"
+      },
+      {
+        "lang": "da",
+        "name": "Orangebuget Trogon"
+      },
+      {
+        "lang": "de",
+        "name": "Goldbauchtrogon"
+      },
+      {
+        "lang": "en",
+        "name": "Orange-bellied Trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Surucuá de Vientre Naranja"
+      },
+      {
+        "lang": "et",
+        "name": "tulikõht-järanokk"
+      },
+      {
+        "lang": "fi",
+        "name": "panamantrogoni"
+      },
+      {
+        "lang": "fr",
+        "name": "Trogon à ventre orange"
+      },
+      {
+        "lang": "it",
+        "name": "Trogone ventrearancio"
+      },
+      {
+        "lang": "ja",
+        "name": "オレンジキヌバネドリ",
+        "synonyms": [
+          "orenjikinubanedori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Oranjebuiktrogon"
+      },
+      {
+        "lang": "no",
+        "name": "Ildbuktrogon"
+      },
+      {
+        "lang": "pl",
+        "name": "trogon złotobrzuchy"
+      },
+      {
+        "lang": "ru",
+        "name": "Златобрюхий трогон"
+      },
+      {
+        "lang": "sk",
+        "name": "trogón kostarický"
+      },
+      {
+        "lang": "sv",
+        "name": "Orangebukad trogon"
+      },
+      {
+        "lang": "zh",
+        "name": "橙腹美洲咬鹃"
+      }
+    ]
+  }
+]

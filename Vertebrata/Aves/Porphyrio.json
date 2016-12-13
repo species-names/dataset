@@ -1,0 +1,498 @@
+[
+  {
+    "scientific_name": "Porphyrio pulverulentus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Philippine Swamphen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio porphyrio",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "دجاجة الماء ارجوانية"
+      },
+      {
+        "lang": "az",
+        "name": "Sultan toyuğu"
+      },
+      {
+        "lang": "bn",
+        "name": "কালিম"
+      },
+      {
+        "lang": "br",
+        "name": "Douryar roueel"
+      },
+      {
+        "lang": "ca",
+        "name": "Polla blava"
+      },
+      {
+        "lang": "cs",
+        "name": "Slípka modrá"
+      },
+      {
+        "lang": "de",
+        "name": "Purpurhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Western Swamphen"
+      },
+      {
+        "lang": "eo",
+        "name": "Purpura porfirio"
+      },
+      {
+        "lang": "es",
+        "name": "Calamón"
+      },
+      {
+        "lang": "eu",
+        "name": "Uroilo urdin"
+      },
+      {
+        "lang": "fa",
+        "name": "طاووسک"
+      },
+      {
+        "lang": "fi",
+        "name": "Sulttaanikana"
+      },
+      {
+        "lang": "fo",
+        "name": "Brandnev"
+      },
+      {
+        "lang": "fr",
+        "name": "Talève sultane"
+      },
+      {
+        "lang": "hu",
+        "name": "Kék fú"
+      },
+      {
+        "lang": "hy",
+        "name": "Հավ սուլթանական"
+      },
+      {
+        "lang": "it",
+        "name": "Pollo sultano"
+      },
+      {
+        "lang": "ja",
+        "name": "セイケイ"
+      },
+      {
+        "lang": "ka",
+        "name": "პორფირიონი"
+      },
+      {
+        "lang": "kbd",
+        "name": "НатӀэплъджэд"
+      },
+      {
+        "lang": "kk",
+        "name": "Көкмаңдай"
+      },
+      {
+        "lang": "mi",
+        "name": "Pūkeko"
+      },
+      {
+        "lang": "ml",
+        "name": "നീലക്കോഴി"
+      },
+      {
+        "lang": "mr",
+        "name": "जांभळी पाणकोंबडी"
+      },
+      {
+        "lang": "my",
+        "name": "မယ်ညိုငှက်"
+      },
+      {
+        "lang": "nl",
+        "name": "Purperkoet"
+      },
+      {
+        "lang": "no",
+        "name": "Sultanhøne"
+      },
+      {
+        "lang": "pl",
+        "name": "Modrzyk"
+      },
+      {
+        "lang": "pnb",
+        "name": "جامنی چھپڑ ککڑ"
+      },
+      {
+        "lang": "pt",
+        "name": "Caimão-comum"
+      },
+      {
+        "lang": "ru",
+        "name": "Султанка"
+      },
+      {
+        "lang": "sv",
+        "name": "Purpurhöna"
+      },
+      {
+        "lang": "ta",
+        "name": "நீலத் தாழைக்கோழி"
+      },
+      {
+        "lang": "to",
+        "name": "Kalae"
+      },
+      {
+        "lang": "tr",
+        "name": "Sazhorozu"
+      },
+      {
+        "lang": "vi",
+        "name": "Xít"
+      },
+      {
+        "lang": "zh",
+        "name": "紫水鸡"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "紫水雞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio poliocephalus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-headed Swamphen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio melanotus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Australasian Swamphen"
+      },
+      {
+        "lang": "mi",
+        "name": "Pūkeko"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio mcnabi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Porphyrio martinicus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Amerikaanse koningriethaan"
+      },
+      {
+        "lang": "bg",
+        "name": "Пурпурна султанка"
+      },
+      {
+        "lang": "br",
+        "name": "Douryar-Vartinik"
+      },
+      {
+        "lang": "ca",
+        "name": "Polla blava de la Martinica"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergsultanshuhn"
+      },
+      {
+        "lang": "en",
+        "name": "American Purple Gallinule"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika purpura porfirio"
+      },
+      {
+        "lang": "es",
+        "name": "Calamoncillo americano"
+      },
+      {
+        "lang": "fi",
+        "name": "Siniliejukana"
+      },
+      {
+        "lang": "fr",
+        "name": "Talève violacée"
+      },
+      {
+        "lang": "ga",
+        "name": "Cearcóg chorcra"
+      },
+      {
+        "lang": "hu",
+        "name": "Amerikai szultántyúk"
+      },
+      {
+        "lang": "is",
+        "name": "Flóðhæna"
+      },
+      {
+        "lang": "it",
+        "name": "Gallinella viola americana"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaans purperhoen"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikapurpurhøne"
+      },
+      {
+        "lang": "pl",
+        "name": "Sułtanka amerykańska"
+      },
+      {
+        "lang": "pt",
+        "name": "Frango-d'água-azul"
+      },
+      {
+        "lang": "ru",
+        "name": "Малая султанка"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk sultanhöna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio mantelli",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "takahe"
+      },
+      {
+        "lang": "ja",
+        "name": "タカヘ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio madagascariensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "African Swamphen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio indicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-backed Swamphen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio hochstetteri",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "تاكاهي"
+      },
+      {
+        "lang": "bg",
+        "name": "Южно такахе"
+      },
+      {
+        "lang": "br",
+        "name": "Takahe"
+      },
+      {
+        "lang": "ca",
+        "name": "Takahe"
+      },
+      {
+        "lang": "cs",
+        "name": "Slípka takahe"
+      },
+      {
+        "lang": "da",
+        "name": "Sydlig takahe"
+      },
+      {
+        "lang": "de",
+        "name": "Südinseltakahe"
+      },
+      {
+        "lang": "en",
+        "name": "Takahe"
+      },
+      {
+        "lang": "es",
+        "name": "Calamón takahe"
+      },
+      {
+        "lang": "fa",
+        "name": "تاکاهی"
+      },
+      {
+        "lang": "fi",
+        "name": "Takahe"
+      },
+      {
+        "lang": "fr",
+        "name": "Talève takahé"
+      },
+      {
+        "lang": "he",
+        "name": "טאקאהה"
+      },
+      {
+        "lang": "hu",
+        "name": "Takahe"
+      },
+      {
+        "lang": "id",
+        "name": "Takahē"
+      },
+      {
+        "lang": "ja",
+        "name": "タカヘ"
+      },
+      {
+        "lang": "ko",
+        "name": "타카헤"
+      },
+      {
+        "lang": "mi",
+        "name": "Takahē"
+      },
+      {
+        "lang": "ml",
+        "name": "റ്റക്കായി"
+      },
+      {
+        "lang": "nl",
+        "name": "Zuidereilandtakahe"
+      },
+      {
+        "lang": "nn",
+        "name": "Takahe"
+      },
+      {
+        "lang": "pl",
+        "name": "Takahe południowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹاکاہی"
+      },
+      {
+        "lang": "pt",
+        "name": "Takahe"
+      },
+      {
+        "lang": "ru",
+        "name": "Такахе"
+      },
+      {
+        "lang": "sv",
+        "name": "Takahe"
+      },
+      {
+        "lang": "uk",
+        "name": "Такахе"
+      },
+      {
+        "lang": "zh",
+        "name": "南秧雞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio flavirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Azure Gallinule"
+      },
+      {
+        "lang": "es",
+        "name": "Calamoncillo celeste"
+      },
+      {
+        "lang": "pt",
+        "name": "Frango-d'água-pequeno"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio alleni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Allen's Gallinule"
+      },
+      {
+        "lang": "es",
+        "name": "Calamoncillo africano"
+      },
+      {
+        "lang": "fi",
+        "name": "Kurnuliejukana"
+      },
+      {
+        "lang": "fr",
+        "name": "Talève d'Allen"
+      },
+      {
+        "lang": "pt",
+        "name": "Caimão-de-allen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrio albus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Lord-Howe-Purpurhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Lord Howe Swamphen"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkosulttaanikana"
+      },
+      {
+        "lang": "ja",
+        "name": "ロードハウセイケイ"
+      },
+      {
+        "lang": "zh",
+        "name": "新不列顛紫水雞"
+      }
+    ]
+  }
+]

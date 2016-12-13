@@ -1,0 +1,412 @@
+[
+  {
+    "scientific_name": "Pandion haliaetus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Visarend"
+      },
+      {
+        "lang": "an",
+        "name": "Aliga pescataira"
+      },
+      {
+        "lang": "ar",
+        "name": "العقاب النسارية"
+      },
+      {
+        "lang": "ast",
+        "name": "Aigla Pexera"
+      },
+      {
+        "lang": "az",
+        "name": "Çay qaraquşu"
+      },
+      {
+        "lang": "ba",
+        "name": "Кәлмәргән"
+      },
+      {
+        "lang": "be",
+        "name": "Скапа"
+      },
+      {
+        "lang": "bg",
+        "name": "Орел рибар"
+      },
+      {
+        "lang": "br",
+        "name": "Erer-spluj"
+      },
+      {
+        "lang": "ca",
+        "name": "Àguila peixatera"
+      },
+      {
+        "lang": "co",
+        "name": "Alpana"
+      },
+      {
+        "lang": "cpf",
+        "name": "Malfini"
+      },
+      {
+        "lang": "cs",
+        "name": "Orlovec říční"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalch y pysgod"
+      },
+      {
+        "lang": "da",
+        "name": "Fiskeørn"
+      },
+      {
+        "lang": "de",
+        "name": "Fischadler"
+      },
+      {
+        "lang": "el",
+        "name": "Ψαραετός"
+      },
+      {
+        "lang": "en",
+        "name": "Western Osprey"
+      },
+      {
+        "lang": "eo",
+        "name": "Fiŝaglo"
+      },
+      {
+        "lang": "es",
+        "name": "Águila pescadora"
+      },
+      {
+        "lang": "et",
+        "name": "Kalakotkas"
+      },
+      {
+        "lang": "eu",
+        "name": "Arrano arrantzale"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب ماهی‌گیر"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalasääski"
+      },
+      {
+        "lang": "fo",
+        "name": "Fiskiørn"
+      },
+      {
+        "lang": "fr",
+        "name": "Balbuzard pêcheur"
+      },
+      {
+        "lang": "frr",
+        "name": "Faskiarn"
+      },
+      {
+        "lang": "fur",
+        "name": "Falcuz pescjadôr"
+      },
+      {
+        "lang": "fy",
+        "name": "Fiskearn"
+      },
+      {
+        "lang": "ga",
+        "name": "Coirneach"
+      },
+      {
+        "lang": "gcf",
+        "name": "Aiglon"
+      },
+      {
+        "lang": "gd",
+        "name": "Càirneach"
+      },
+      {
+        "lang": "gl",
+        "name": "Aguia peixeira"
+      },
+      {
+        "lang": "gn",
+        "name": "Taguato rye morotî"
+      },
+      {
+        "lang": "gv",
+        "name": "Shawk eeastee"
+      },
+      {
+        "lang": "he",
+        "name": "שלך"
+      },
+      {
+        "lang": "hr",
+        "name": "Bukoč"
+      },
+      {
+        "lang": "ht",
+        "name": "Malfini lanmè"
+      },
+      {
+        "lang": "hu",
+        "name": "Halászsas"
+      },
+      {
+        "lang": "hy",
+        "name": "Ջրարծիվ"
+      },
+      {
+        "lang": "id",
+        "name": "Elang Tiram"
+      },
+      {
+        "lang": "io",
+        "name": "Mar-aglo"
+      },
+      {
+        "lang": "is",
+        "name": "Gjóður"
+      },
+      {
+        "lang": "it",
+        "name": "Falco pescatore"
+      },
+      {
+        "lang": "ja",
+        "name": "ウオタカ"
+      },
+      {
+        "lang": "ka",
+        "name": "შაკი"
+      },
+      {
+        "lang": "kjh",
+        "name": "Сатхыс"
+      },
+      {
+        "lang": "kk",
+        "name": "Балықшы"
+      },
+      {
+        "lang": "ko",
+        "name": "물수리"
+      },
+      {
+        "lang": "kw",
+        "name": "Morer"
+      },
+      {
+        "lang": "lb",
+        "name": "Fëschplompert"
+      },
+      {
+        "lang": "li",
+        "name": "Vèserend"
+      },
+      {
+        "lang": "lkt",
+        "name": "Čháŋška hoyázela"
+      },
+      {
+        "lang": "lt",
+        "name": "Erelis žuvininkas"
+      },
+      {
+        "lang": "lv",
+        "name": "Zivjērglis"
+      },
+      {
+        "lang": "mk",
+        "name": "Орел-рибар"
+      },
+      {
+        "lang": "ml",
+        "name": "താലിപ്പരുന്ത്"
+      },
+      {
+        "lang": "mn",
+        "name": "Загасч явлаг"
+      },
+      {
+        "lang": "mol",
+        "name": "Acvila pitică"
+      },
+      {
+        "lang": "mrj",
+        "name": "Сексӹ"
+      },
+      {
+        "lang": "ms",
+        "name": "Helang Tiram"
+      },
+      {
+        "lang": "mt",
+        "name": "Arpa"
+      },
+      {
+        "lang": "my",
+        "name": "ဝန်လက်"
+      },
+      {
+        "lang": "nl",
+        "name": "Visarend"
+      },
+      {
+        "lang": "nn",
+        "name": "Fiskeørn"
+      },
+      {
+        "lang": "no",
+        "name": "Fiskeørn"
+      },
+      {
+        "lang": "nrm",
+        "name": "Orfinne"
+      },
+      {
+        "lang": "nv",
+        "name": "Tónteel giní"
+      },
+      {
+        "lang": "oj",
+        "name": "ᐱᒋᑯᑲᐧᓀ"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybołów"
+      },
+      {
+        "lang": "pnb",
+        "name": "آسپرے"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Águia-pescadora"
+      },
+      {
+        "lang": "pt",
+        "name": "Águia-pesqueira"
+      },
+      {
+        "lang": "rm",
+        "name": "Evla da peschs"
+      },
+      {
+        "lang": "ro",
+        "name": "Vultur pescar"
+      },
+      {
+        "lang": "ru",
+        "name": "Скопа"
+      },
+      {
+        "lang": "rue",
+        "name": "Скоб"
+      },
+      {
+        "lang": "sah",
+        "name": "Умсан"
+      },
+      {
+        "lang": "scn",
+        "name": "Aculoccia di mari"
+      },
+      {
+        "lang": "sco",
+        "name": "Fish-hawk"
+      },
+      {
+        "lang": "se",
+        "name": "Ciekcá"
+      },
+      {
+        "lang": "sh",
+        "name": "Orao ribar"
+      },
+      {
+        "lang": "sk",
+        "name": "Kršiak rybár"
+      },
+      {
+        "lang": "sl",
+        "name": "Ribji orel"
+      },
+      {
+        "lang": "sq",
+        "name": "Shqiponja peshkngrënëse"
+      },
+      {
+        "lang": "sr",
+        "name": "Orao ribar / Орао рибар"
+      },
+      {
+        "lang": "sv",
+        "name": "Fiskgjuse"
+      },
+      {
+        "lang": "sw",
+        "name": "Koho"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวออสเปร"
+      },
+      {
+        "lang": "tl",
+        "name": "Halyeto"
+      },
+      {
+        "lang": "tr",
+        "name": "Balık kartalı"
+      },
+      {
+        "lang": "tyv",
+        "name": "балык-тевер"
+      },
+      {
+        "lang": "uk",
+        "name": "Скопа"
+      },
+      {
+        "lang": "vi",
+        "name": "Ó cá"
+      },
+      {
+        "lang": "vls",
+        "name": "Visoarnd"
+      },
+      {
+        "lang": "yo",
+        "name": "Àwòdì apẹja"
+      },
+      {
+        "lang": "zea",
+        "name": "Visaerend"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "魚鷹"
+      },
+      {
+        "lang": "zh",
+        "name": "鹗"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pandion cristatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern Osprey"
+      }
+    ]
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "scientific_name": "Tetrao urogallus",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Auerhuhn"
+      },
+      {
+        "lang": "ast",
+        "name": "Gallu"
+      },
+      {
+        "lang": "ba",
+        "name": "Һуйыр"
+      },
+      {
+        "lang": "be",
+        "name": "Глушэц"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Глушэц"
+      },
+      {
+        "lang": "bg",
+        "name": "Глухар"
+      },
+      {
+        "lang": "br",
+        "name": "Skilgog meur"
+      },
+      {
+        "lang": "ca",
+        "name": "Gall fer"
+      },
+      {
+        "lang": "ce",
+        "name": "Къоракуотам"
+      },
+      {
+        "lang": "cs",
+        "name": "Tetřev hlušec"
+      },
+      {
+        "lang": "cv",
+        "name": "Ахаль карăк"
+      },
+      {
+        "lang": "cw",
+        "name": "Culyek cors"
+      },
+      {
+        "lang": "cy",
+        "name": "Ceiliog coed"
+      },
+      {
+        "lang": "da",
+        "name": "Tjur"
+      },
+      {
+        "lang": "de",
+        "name": "Auerhuhn"
+      },
+      {
+        "lang": "dsb",
+        "name": "Źiwa kokoš"
+      },
+      {
+        "lang": "el",
+        "name": "Αγριόκουρκος"
+      },
+      {
+        "lang": "en",
+        "name": "Western Capercaillie"
+      },
+      {
+        "lang": "eo",
+        "name": "Urogalo"
+      },
+      {
+        "lang": "es",
+        "name": "Urogallo"
+      },
+      {
+        "lang": "et",
+        "name": "Metsis"
+      },
+      {
+        "lang": "eu",
+        "name": "Basoilar"
+      },
+      {
+        "lang": "fi",
+        "name": "Metso"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand Tétras"
+      },
+      {
+        "lang": "fur",
+        "name": "Forcel"
+      },
+      {
+        "lang": "ga",
+        "name": "Capall coille"
+      },
+      {
+        "lang": "gd",
+        "name": "Capall-coille"
+      },
+      {
+        "lang": "gl",
+        "name": "Pita do monte"
+      },
+      {
+        "lang": "gv",
+        "name": "Cabbyl keylley"
+      },
+      {
+        "lang": "he",
+        "name": "שכו-י ענק"
+      },
+      {
+        "lang": "hr",
+        "name": "Tetrijeb"
+      },
+      {
+        "lang": "hsb",
+        "name": "Brězan"
+      },
+      {
+        "lang": "hu",
+        "name": "Siketfajd"
+      },
+      {
+        "lang": "io",
+        "name": "Tetraso"
+      },
+      {
+        "lang": "is",
+        "name": "Þiður"
+      },
+      {
+        "lang": "it",
+        "name": "Urogallo"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパオオライチョウ"
+      },
+      {
+        "lang": "kjn",
+        "name": "Силей ии"
+      },
+      {
+        "lang": "kk",
+        "name": "Меңіреу құр"
+      },
+      {
+        "lang": "koi",
+        "name": "Дозмӧр"
+      },
+      {
+        "lang": "krc",
+        "name": "Агъач тауукъ"
+      },
+      {
+        "lang": "krl",
+        "name": "Tadri"
+      },
+      {
+        "lang": "kv",
+        "name": "Дозмӧр"
+      },
+      {
+        "lang": "lad",
+        "name": "gial grisc"
+      },
+      {
+        "lang": "lld",
+        "name": "Gial fosch"
+      },
+      {
+        "lang": "lt",
+        "name": "Kurtinys"
+      },
+      {
+        "lang": "lv",
+        "name": "Mednis"
+      },
+      {
+        "lang": "mk",
+        "name": "Голем тетреб"
+      },
+      {
+        "lang": "mn",
+        "name": "Эгэл сойр"
+      },
+      {
+        "lang": "mrj",
+        "name": "Сузы"
+      },
+      {
+        "lang": "myv",
+        "name": "Сувозей"
+      },
+      {
+        "lang": "nl",
+        "name": "Auerhoen"
+      },
+      {
+        "lang": "nn",
+        "name": "Storfugl"
+      },
+      {
+        "lang": "no",
+        "name": "Storfugl"
+      },
+      {
+        "lang": "oc",
+        "name": "Pollambèrt"
+      },
+      {
+        "lang": "pl",
+        "name": "Głuszec"
+      },
+      {
+        "lang": "pt",
+        "name": "Tetraz-grande"
+      },
+      {
+        "lang": "rm",
+        "name": "Cot"
+      },
+      {
+        "lang": "ro",
+        "name": "Cocoșul de munte"
+      },
+      {
+        "lang": "ru",
+        "name": "Глухарь"
+      },
+      {
+        "lang": "sah",
+        "name": "Чакыр улар"
+      },
+      {
+        "lang": "sc",
+        "name": "Puddu cedrone"
+      },
+      {
+        "lang": "se",
+        "name": "Čukčá"
+      },
+      {
+        "lang": "sk",
+        "name": "Hlucháň hôrny"
+      },
+      {
+        "lang": "sl",
+        "name": "Divji petelin"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjeli i egër"
+      },
+      {
+        "lang": "sr",
+        "name": "Gluhan / Глухан"
+      },
+      {
+        "lang": "tk",
+        "name": "Çalihorozu"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük orman tavuğu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кара-куш"
+      },
+      {
+        "lang": "sv",
+        "name": "Tjäder"
+      },
+      {
+        "lang": "udm",
+        "name": "Дукъя"
+      },
+      {
+        "lang": "uk",
+        "name": "Глушець"
+      },
+      {
+        "lang": "wa",
+        "name": "Cok di brouhire"
+      },
+      {
+        "lang": "zh",
+        "name": "松鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tetrao urogalloides",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Skilgog beg du"
+      },
+      {
+        "lang": "ca",
+        "name": "Gall fer becnegre"
+      },
+      {
+        "lang": "de",
+        "name": "Stein-Auerhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Black-billed Capercaillie"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrabeka urogalo"
+      },
+      {
+        "lang": "es",
+        "name": "Urogallo piquinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Tétras à bec noir"
+      },
+      {
+        "lang": "hu",
+        "name": "Rövidcsőrű siketfajd"
+      },
+      {
+        "lang": "lt",
+        "name": "Ilgauodegis kurtinys"
+      },
+      {
+        "lang": "mn",
+        "name": "Нургийн сойр"
+      },
+      {
+        "lang": "nl",
+        "name": "Rotsauerhoen"
+      },
+      {
+        "lang": "pl",
+        "name": "Głuszec czarnodzioby"
+      },
+      {
+        "lang": "ru",
+        "name": "Каменный глухарь"
+      },
+      {
+        "lang": "sah",
+        "name": "Хара улар"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartnäbbad tjäder"
+      },
+      {
+        "lang": "zh",
+        "name": "黑嘴松鸡"
+      }
+    ]
+  }
+]

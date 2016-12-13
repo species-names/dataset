@@ -1,0 +1,1409 @@
+[
+  {
+    "scientific_name": "Grus virgo",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "كركي آنسة"
+      },
+      {
+        "lang": "az",
+        "name": "Qəşəng durna"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡара торна"
+      },
+      {
+        "lang": "bg",
+        "name": "Момин жерав"
+      },
+      {
+        "lang": "br",
+        "name": "Garan dek"
+      },
+      {
+        "lang": "ca",
+        "name": "Grua damisel·la"
+      },
+      {
+        "lang": "da",
+        "name": "Jomfrutrane"
+      },
+      {
+        "lang": "de",
+        "name": "Jungfernkranich"
+      },
+      {
+        "lang": "el",
+        "name": "Νυφογερανός"
+      },
+      {
+        "lang": "en",
+        "name": "Demoiselle Crane"
+      },
+      {
+        "lang": "eo",
+        "name": "Fraŭlingruo"
+      },
+      {
+        "lang": "es",
+        "name": "Grulla damisela"
+      },
+      {
+        "lang": "fi",
+        "name": "Neitokurki"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue demoiselle"
+      },
+      {
+        "lang": "gl",
+        "name": "Grou pequeno"
+      },
+      {
+        "lang": "hy",
+        "name": "Կռունկ գեղանի"
+      },
+      {
+        "lang": "it",
+        "name": "Damigella di Numidia"
+      },
+      {
+        "lang": "he",
+        "name": "עגור חן"
+      },
+      {
+        "lang": "kbd",
+        "name": "КърупщэфӀыцӀэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Ақбас тырна"
+      },
+      {
+        "lang": "lt",
+        "name": "Gervė gražuolėlė"
+      },
+      {
+        "lang": "hu",
+        "name": "Pártásdaru"
+      },
+      {
+        "lang": "ja",
+        "name": "アネハヅル"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠재두루미"
+      },
+      {
+        "lang": "ml",
+        "name": "ഡമോയ്‌സെല്ലി കൊക്ക്"
+      },
+      {
+        "lang": "mr",
+        "name": "कांड्या करकोचा"
+      },
+      {
+        "lang": "nl",
+        "name": "Jufferkraanvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Jomfrutrane"
+      },
+      {
+        "lang": "pnb",
+        "name": "کونج"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw stepowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Журавль-красавка"
+      },
+      {
+        "lang": "sv",
+        "name": "Jungfrutrana"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเรียนเล็ก"
+      },
+      {
+        "lang": "tr",
+        "name": "Telli turna"
+      },
+      {
+        "lang": "uk",
+        "name": "Журавель степовий"
+      },
+      {
+        "lang": "zh",
+        "name": "蓑羽鹤"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus vipio",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Garan kilpenn gwenn"
+      },
+      {
+        "lang": "cs",
+        "name": "Jeřáb bělošíjí"
+      },
+      {
+        "lang": "de",
+        "name": "Weißnackenkranich"
+      },
+      {
+        "lang": "en",
+        "name": "White-naped Crane"
+      },
+      {
+        "lang": "eo",
+        "name": "Blanknuka gruo"
+      },
+      {
+        "lang": "fi",
+        "name": "Silmälasikurki"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue à cou blanc"
+      },
+      {
+        "lang": "fy",
+        "name": "Wytnekkraan"
+      },
+      {
+        "lang": "he",
+        "name": "עגור לבן עורף"
+      },
+      {
+        "lang": "hu",
+        "name": "Amuri daru"
+      },
+      {
+        "lang": "ja",
+        "name": "マナヅル"
+      },
+      {
+        "lang": "ko",
+        "name": "재두루미"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltasprandė gervė"
+      },
+      {
+        "lang": "nl",
+        "name": "Witnekkraanvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw białoszyi"
+      },
+      {
+        "lang": "ru",
+        "name": "Даурский журавль"
+      },
+      {
+        "lang": "sv",
+        "name": "Glasögontrana"
+      },
+      {
+        "lang": "zh",
+        "name": "白枕鶴"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "白枕鶴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus rubicunda",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Brolgakranich"
+      },
+      {
+        "lang": "en",
+        "name": "Brolga"
+      },
+      {
+        "lang": "fi",
+        "name": "Australiankurki"
+      },
+      {
+        "lang": "ja",
+        "name": "オーストラリアヅル"
+      },
+      {
+        "lang": "nl",
+        "name": "Brolgakraanvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw australijski"
+      },
+      {
+        "lang": "sv",
+        "name": "Brolgatrana"
+      },
+      {
+        "lang": "zh",
+        "name": "澳洲鶴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus primigenia",
+    "common_names": [
+      {
+        "lang": "fr",
+        "name": "Grande grue des cavernes"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus paradisea",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bloukraanvoël"
+      },
+      {
+        "lang": "br",
+        "name": "Garan c'hlas"
+      },
+      {
+        "lang": "cs",
+        "name": "Jeřáb rajský"
+      },
+      {
+        "lang": "de",
+        "name": "Paradieskranich"
+      },
+      {
+        "lang": "en",
+        "name": "Blue Crane"
+      },
+      {
+        "lang": "es",
+        "name": "Grulla del paraíso"
+      },
+      {
+        "lang": "fi",
+        "name": "Hopeakurki"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue de paradis"
+      },
+      {
+        "lang": "he",
+        "name": "עגור כחול"
+      },
+      {
+        "lang": "hu",
+        "name": "Paradicsomdaru"
+      },
+      {
+        "lang": "ja",
+        "name": "ハゴロモヅル"
+      },
+      {
+        "lang": "lt",
+        "name": "Melsvoji gervė"
+      },
+      {
+        "lang": "nl",
+        "name": "Paradijskraanvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw rajski"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканская красавка"
+      },
+      {
+        "lang": "sv",
+        "name": "Paradistrana"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเรียนฟ้า"
+      },
+      {
+        "lang": "zh",
+        "name": "藍鶴"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "藍鶴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus nigricollis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Schwarzhalskranich"
+      },
+      {
+        "lang": "en",
+        "name": "Black-necked Crane"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrokola gruo"
+      },
+      {
+        "lang": "es",
+        "name": "Grulla cuellinegra"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue à cou noir"
+      },
+      {
+        "lang": "ja",
+        "name": "オグロヅル"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarthalskraanvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthalsad trana"
+      },
+      {
+        "lang": "zh",
+        "name": "黑颈鹤"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus monacha",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Mönchskranich"
+      },
+      {
+        "lang": "en",
+        "name": "Hooded Crane"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue moine"
+      },
+      {
+        "lang": "ko",
+        "name": "흑두루미"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodoji gervė"
+      },
+      {
+        "lang": "ja",
+        "name": "ナベヅル"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрный журавль"
+      },
+      {
+        "lang": "fi",
+        "name": "Munkkikurki"
+      },
+      {
+        "lang": "sv",
+        "name": "Munktrana"
+      },
+      {
+        "lang": "zh",
+        "name": "白头鹤"
+      },
+      {
+        "lang": "nl",
+        "name": "Monnikskraanvogel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus leucogeranus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Nonnenkranich"
+      },
+      {
+        "lang": "en",
+        "name": "Siberian Crane"
+      },
+      {
+        "lang": "fi",
+        "name": "Lumikurki"
+      },
+      {
+        "lang": "ja",
+        "name": "ソデグロヅル"
+      },
+      {
+        "lang": "ko",
+        "name": "시베리아흰두루미"
+      },
+      {
+        "lang": "nl",
+        "name": "Siberische witte kraanvogel"
+      },
+      {
+        "lang": "ru",
+        "name": "Стерх"
+      },
+      {
+        "lang": "sah",
+        "name": "Кыталык"
+      },
+      {
+        "lang": "sv",
+        "name": "Snötrana"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak turna"
+      },
+      {
+        "lang": "zh",
+        "name": "白鹤"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus japonensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jeřáb mandžuský"
+      },
+      {
+        "lang": "de",
+        "name": "Mandschurenkranich"
+      },
+      {
+        "lang": "en",
+        "name": "Red-crowned Crane",
+        "synonyms": [
+          "Japanese Crane",
+          "Manchurian Crane"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝverta gruo"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue du Japon"
+      },
+      {
+        "lang": "he",
+        "name": "עגור אדום כתר"
+      },
+      {
+        "lang": "hu",
+        "name": "Mandzsu daru"
+      },
+      {
+        "lang": "ja",
+        "name": "タンチョウ"
+      },
+      {
+        "lang": "ko",
+        "name": "두루미"
+      },
+      {
+        "lang": "lt",
+        "name": "Japoninė gervė"
+      },
+      {
+        "lang": "nl",
+        "name": "Chinese kraanvogel"
+      },
+      {
+        "lang": "pt",
+        "name": "Grou-da-manchúria"
+      },
+      {
+        "lang": "ru",
+        "name": "Японский журавль"
+      },
+      {
+        "lang": "fi",
+        "name": "Mantsuriankurki"
+      },
+      {
+        "lang": "sv",
+        "name": "Japansk trana"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเรียนมงกุฎแดง"
+      },
+      {
+        "lang": "tr",
+        "name": "Japon turnası"
+      },
+      {
+        "lang": "zh",
+        "name": "丹頂鶴",
+        "synonyms": [
+          "仙鶴"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus grus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kraanvoël"
+      },
+      {
+        "lang": "an",
+        "name": "Gruda común"
+      },
+      {
+        "lang": "ar",
+        "name": "كركي شائع"
+      },
+      {
+        "lang": "ast",
+        "name": "Grulla"
+      },
+      {
+        "lang": "av",
+        "name": "Къункъра"
+      },
+      {
+        "lang": "az",
+        "name": "Boz durna"
+      },
+      {
+        "lang": "ba",
+        "name": "Һоро торна"
+      },
+      {
+        "lang": "be",
+        "name": "Шэры журавель"
+      },
+      {
+        "lang": "bg",
+        "name": "Сив жерав"
+      },
+      {
+        "lang": "br",
+        "name": "Garan louet"
+      },
+      {
+        "lang": "ca",
+        "name": "Grua"
+      },
+      {
+        "lang": "ce",
+        "name": "Ǵaraǵuli"
+      },
+      {
+        "lang": "cs",
+        "name": "Jeřáb popelavý"
+      },
+      {
+        "lang": "csb",
+        "name": "Trulôcz"
+      },
+      {
+        "lang": "cv",
+        "name": "Сăрă тăрна"
+      },
+      {
+        "lang": "cw",
+        "name": "Garan"
+      },
+      {
+        "lang": "cy",
+        "name": "Garan"
+      },
+      {
+        "lang": "da",
+        "name": "Trane"
+      },
+      {
+        "lang": "de",
+        "name": "Kranich"
+      },
+      {
+        "lang": "el",
+        "name": "Γερανός"
+      },
+      {
+        "lang": "en",
+        "name": "Common Crane"
+      },
+      {
+        "lang": "eo",
+        "name": "Gruo"
+      },
+      {
+        "lang": "es",
+        "name": "Grulla Común"
+      },
+      {
+        "lang": "et",
+        "name": "Sookurg"
+      },
+      {
+        "lang": "eu",
+        "name": "Kurrilo arrunt"
+      },
+      {
+        "lang": "fi",
+        "name": "Kurki"
+      },
+      {
+        "lang": "fo",
+        "name": "Trani"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue cendrée"
+      },
+      {
+        "lang": "frr",
+        "name": "Kraanek"
+      },
+      {
+        "lang": "fy",
+        "name": "Kraan"
+      },
+      {
+        "lang": "ga",
+        "name": "Corr mhóna"
+      },
+      {
+        "lang": "gd",
+        "name": "Corra mhonaich"
+      },
+      {
+        "lang": "gl",
+        "name": "Grou"
+      },
+      {
+        "lang": "gv",
+        "name": "Groose"
+      },
+      {
+        "lang": "he",
+        "name": "עגור אפור"
+      },
+      {
+        "lang": "hr",
+        "name": "Sivi ždral"
+      },
+      {
+        "lang": "hu",
+        "name": "Daru"
+      },
+      {
+        "lang": "hy",
+        "name": "Մոխրագույն Կռունկ"
+      },
+      {
+        "lang": "is",
+        "name": "Grátrana"
+      },
+      {
+        "lang": "it",
+        "name": "Gru"
+      },
+      {
+        "lang": "ja",
+        "name": "クロヅル"
+      },
+      {
+        "lang": "ka",
+        "name": "რუხი წერო"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къру"
+      },
+      {
+        "lang": "kjh",
+        "name": "Пора турна"
+      },
+      {
+        "lang": "kjn",
+        "name": "Пора турна"
+      },
+      {
+        "lang": "kk",
+        "name": "Сұр тырна"
+      },
+      {
+        "lang": "ko",
+        "name": "검은목두루미"
+      },
+      {
+        "lang": "krc",
+        "name": "Акъ турна"
+      },
+      {
+        "lang": "ku",
+        "name": "Quling"
+      },
+      {
+        "lang": "kv",
+        "name": "Тури"
+      },
+      {
+        "lang": "kw",
+        "name": "Garan"
+      },
+      {
+        "lang": "ky",
+        "name": "Ак турна"
+      },
+      {
+        "lang": "la",
+        "name": "Grus"
+      },
+      {
+        "lang": "lb",
+        "name": "Horgäns"
+      },
+      {
+        "lang": "li",
+        "name": "Kroenekraan"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkoji gervė"
+      },
+      {
+        "lang": "lv",
+        "name": "Dzērve"
+      },
+      {
+        "lang": "mk",
+        "name": "Жерав"
+      },
+      {
+        "lang": "mn",
+        "name": "Тогоруу"
+      },
+      {
+        "lang": "mt",
+        "name": "Grawwa"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Krön"
+      },
+      {
+        "lang": "nds",
+        "name": "Kraan"
+      },
+      {
+        "lang": "nl",
+        "name": "Kraanvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Trane"
+      },
+      {
+        "lang": "no",
+        "name": "Trane"
+      },
+      {
+        "lang": "os",
+        "name": "Хърихъупп"
+      },
+      {
+        "lang": "pfl",
+        "name": "Talgans"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw"
+      },
+      {
+        "lang": "pms",
+        "name": "Grùa"
+      },
+      {
+        "lang": "pnb",
+        "name": "عام کرین"
+      },
+      {
+        "lang": "pt",
+        "name": "Grou-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Gru grisch"
+      },
+      {
+        "lang": "ro",
+        "name": "Cocor"
+      },
+      {
+        "lang": "ru",
+        "name": "Серый журавль"
+      },
+      {
+        "lang": "sc",
+        "name": "Fusellu"
+      },
+      {
+        "lang": "scn",
+        "name": "Groi"
+      },
+      {
+        "lang": "sco",
+        "name": "Crane"
+      },
+      {
+        "lang": "se",
+        "name": "Goarga"
+      },
+      {
+        "lang": "sh",
+        "name": "Ždral"
+      },
+      {
+        "lang": "sk",
+        "name": "Žeriav popolavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Navadni žerjav"
+      },
+      {
+        "lang": "sq",
+        "name": "Krilla"
+      },
+      {
+        "lang": "sr",
+        "name": "Ždral / Ждрал"
+      },
+      {
+        "lang": "sv",
+        "name": "Trana"
+      },
+      {
+        "lang": "sw",
+        "name": "Korongo paji-jeusi"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเรียนยุโรป"
+      },
+      {
+        "lang": "tk",
+        "name": "Ak durna"
+      },
+      {
+        "lang": "tr",
+        "name": "Turna"
+      },
+      {
+        "lang": "tt",
+        "name": "Aq turna"
+      },
+      {
+        "lang": "tyv",
+        "name": "Бора дуруяа"
+      },
+      {
+        "lang": "uk",
+        "name": "Журавель сірий"
+      },
+      {
+        "lang": "vi",
+        "name": "Sếu cổ trắng"
+      },
+      {
+        "lang": "zea",
+        "name": "Kraenveugel"
+      },
+      {
+        "lang": "zh",
+        "name": "灰鹤"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus carunculata",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Lelkraanvoël"
+      },
+      {
+        "lang": "br",
+        "name": "Garan greskennek"
+      },
+      {
+        "lang": "de",
+        "name": "Klunkerkranich"
+      },
+      {
+        "lang": "en",
+        "name": "Wattled Crane"
+      },
+      {
+        "lang": "fi",
+        "name": "Helttakurki"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue caronculée"
+      },
+      {
+        "lang": "ja",
+        "name": "ホオカザリヅル"
+      },
+      {
+        "lang": "ko",
+        "name": "볼장식두루미"
+      },
+      {
+        "lang": "lt",
+        "name": "Kutuotoji gervė"
+      },
+      {
+        "lang": "nl",
+        "name": "Lelkraanvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw koralowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Серёжчатый журавль"
+      },
+      {
+        "lang": "sv",
+        "name": "Vårttrana"
+      },
+      {
+        "lang": "zh",
+        "name": "垂鹤属"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus canadensis",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Garan Kanada"
+      },
+      {
+        "lang": "ca",
+        "name": "Grua del Canadà"
+      },
+      {
+        "lang": "cs",
+        "name": "jeřáb kanadský"
+      },
+      {
+        "lang": "cy",
+        "name": "Garan y twyni"
+      },
+      {
+        "lang": "da",
+        "name": "Prærietrane"
+      },
+      {
+        "lang": "de",
+        "name": "Kanadakranich"
+      },
+      {
+        "lang": "en",
+        "name": "Sandhill Crane"
+      },
+      {
+        "lang": "eo",
+        "name": "Kanada gruo"
+      },
+      {
+        "lang": "es",
+        "name": "Grulla canadiense"
+      },
+      {
+        "lang": "et",
+        "name": "kanada kurg"
+      },
+      {
+        "lang": "fi",
+        "name": "hietakurki"
+      },
+      {
+        "lang": "fo",
+        "name": "Kanadatrani"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue du Canada"
+      },
+      {
+        "lang": "fy",
+        "name": "Kanadeeske Kraan"
+      },
+      {
+        "lang": "ga",
+        "name": "Grús Ceanadach"
+      },
+      {
+        "lang": "hu",
+        "name": "kanadai daru"
+      },
+      {
+        "lang": "is",
+        "name": "Mótrana"
+      },
+      {
+        "lang": "it",
+        "name": "Gru canadese"
+      },
+      {
+        "lang": "iu",
+        "name": "Tatigak",
+        "synonyms": [
+          "Tutteghuk"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "カナダヅル",
+        "synonyms": [
+          "kanadaduru"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "캐나다두루미"
+      },
+      {
+        "lang": "lt",
+        "name": "Kanadinė gervė"
+      },
+      {
+        "lang": "nl",
+        "name": "Canadese kraanvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Kanadatrane"
+      },
+      {
+        "lang": "nv",
+        "name": "Déłí"
+      },
+      {
+        "lang": "oj",
+        "name": "ᐅᒋᒐ`"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw kanadyjski"
+      },
+      {
+        "lang": "pt",
+        "name": "Grou-canadiano"
+      },
+      {
+        "lang": "ru",
+        "name": "Канадский журавль"
+      },
+      {
+        "lang": "sk",
+        "name": "žeriav plavokrký"
+      },
+      {
+        "lang": "sl",
+        "name": "Kanadski žerjav"
+      },
+      {
+        "lang": "sv",
+        "name": "Prärietrana"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเรียนเนินทราย"
+      },
+      {
+        "lang": "tr",
+        "name": "Kanada turnası"
+      },
+      {
+        "lang": "zh",
+        "name": "沙丘鹤"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus antigone",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Garan Antigone"
+      },
+      {
+        "lang": "ca",
+        "name": "Grua sarus"
+      },
+      {
+        "lang": "cs",
+        "name": "Jeřáb Antigonin"
+      },
+      {
+        "lang": "de",
+        "name": "Saruskranich"
+      },
+      {
+        "lang": "en",
+        "name": "Sarus Crane"
+      },
+      {
+        "lang": "es",
+        "name": "Grulla sarus"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝkola gruo"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue antigone"
+      },
+      {
+        "lang": "he",
+        "name": "עגור סארוס"
+      },
+      {
+        "lang": "lt",
+        "name": "Indijos gervė"
+      },
+      {
+        "lang": "hu",
+        "name": "Antigoné-daru"
+      },
+      {
+        "lang": "mr",
+        "name": "सारस क्रौंच"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Bangau Keria"
+      },
+      {
+        "lang": "my",
+        "name": "ကြိုးကြာ"
+      },
+      {
+        "lang": "nl",
+        "name": "Saruskraanvogel"
+      },
+      {
+        "lang": "ne",
+        "name": "सारस"
+      },
+      {
+        "lang": "ja",
+        "name": "オオヅル"
+      },
+      {
+        "lang": "ko",
+        "name": "큰두루미"
+      },
+      {
+        "lang": "pnb",
+        "name": "سارس"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw indyjski"
+      },
+      {
+        "lang": "ru",
+        "name": "Индийский журавль"
+      },
+      {
+        "lang": "fi",
+        "name": "Saruskurki"
+      },
+      {
+        "lang": "sv",
+        "name": "Sarustrana"
+      },
+      {
+        "lang": "ta",
+        "name": "சாரசு கொக்கு"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเรียนไทย"
+      },
+      {
+        "lang": "tr",
+        "name": "Saras turnası"
+      },
+      {
+        "lang": "vi",
+        "name": "Sếu đầu đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "赤颈鹤"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Grus americana",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Garan Amerika"
+      },
+      {
+        "lang": "ca",
+        "name": "Grua cridanera americana"
+      },
+      {
+        "lang": "de",
+        "name": "Schreikranich"
+      },
+      {
+        "lang": "nv",
+        "name": "Tóniłhę́ęshii"
+      },
+      {
+        "lang": "en",
+        "name": "Whooping Crane"
+      },
+      {
+        "lang": "es",
+        "name": "Grulla trompetera"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika gruo"
+      },
+      {
+        "lang": "eu",
+        "name": "Amerikar kurrilo"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue blanche"
+      },
+      {
+        "lang": "fy",
+        "name": "Trompetkraan"
+      },
+      {
+        "lang": "ko",
+        "name": "미국흰두루미"
+      },
+      {
+        "lang": "it",
+        "name": "Gru americana"
+      },
+      {
+        "lang": "he",
+        "name": "עגור אמריקאי"
+      },
+      {
+        "lang": "lt",
+        "name": "Amerikinė gervė"
+      },
+      {
+        "lang": "hu",
+        "name": "Lármás daru"
+      },
+      {
+        "lang": "mn",
+        "name": "Америк тогоруу"
+      },
+      {
+        "lang": "nl",
+        "name": "Trompetkraanvogel"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカシロヅル"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw krzykliwy"
+      },
+      {
+        "lang": "pt",
+        "name": "Grou-americano"
+      },
+      {
+        "lang": "ru",
+        "name": "Американский журавль"
+      },
+      {
+        "lang": "fi",
+        "name": "Trumpettikurki"
+      },
+      {
+        "lang": "sv",
+        "name": "Trumpetartrana"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเรียนกู่"
+      },
+      {
+        "lang": "tr",
+        "name": "Haykıran turna"
+      },
+      {
+        "lang": "uk",
+        "name": "Американський журавель"
+      },
+      {
+        "lang": "vi",
+        "name": "Sếu Mỹ"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲鶴"
+      }
+    ]
+  }
+]

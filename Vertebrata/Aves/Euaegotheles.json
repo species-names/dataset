@@ -1,0 +1,64 @@
+[
+  {
+    "scientific_name": "Euaegotheles tatei",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Lelčík nížinný"
+      },
+      {
+        "lang": "en",
+        "name": "Starry Owlet-Nightjar"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Euaegotheles insignis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Lelčík velký"
+      },
+      {
+        "lang": "en",
+        "name": "Feline Owlet-Nightjar"
+      },
+      {
+        "lang": "es",
+        "name": "Egotelo grande"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand Égothèle"
+      },
+      {
+        "lang": "sv",
+        "name": "Större ugglenattskärra"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Euaegotheles crinifrons",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Lelčík molucký"
+      },
+      {
+        "lang": "en",
+        "name": "Moluccan Owlet-nightjar",
+        "synonyms": [
+          "Long-whiskered Owlet-nightjar"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Egotelo moluqueño"
+      },
+      {
+        "lang": "fr",
+        "name": "Égothèle des Moluques"
+      }
+    ]
+  }
+]

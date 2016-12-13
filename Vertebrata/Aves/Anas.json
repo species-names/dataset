@@ -1,0 +1,4432 @@
+[
+  {
+    "scientific_name": "Anas theodori",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Anas marecula",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Anas zonorhyncha",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern Spot-billed Duck"
+      },
+      {
+        "lang": "ja",
+        "name": "カルガモ"
+      },
+      {
+        "lang": "ko",
+        "name": "흰뺨검둥오리"
+      },
+      {
+        "lang": "ru",
+        "name": "Черная кряква"
+      },
+      {
+        "lang": "zh",
+        "name": "斑嘴鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas wyvilliana",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kachna havajská"
+      },
+      {
+        "lang": "en",
+        "name": "Hawaiian Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Pato de Hawai"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard d'Hawaii"
+      },
+      {
+        "lang": "haw",
+        "name": "Koloa maoli"
+      },
+      {
+        "lang": "ja",
+        "name": "ハワイマガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Hawaiiand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas versicolor",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čírka modrozobá"
+      },
+      {
+        "lang": "de",
+        "name": "Versicolorente"
+      },
+      {
+        "lang": "en",
+        "name": "Silver Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Pato capuchino"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle bariolée"
+      },
+      {
+        "lang": "ja",
+        "name": "ギンイロシマアジ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkaptaling"
+      },
+      {
+        "lang": "no",
+        "name": "Sølvand"
+      },
+      {
+        "lang": "sv",
+        "name": "Silverand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas undulata",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Geelbekeend"
+      },
+      {
+        "lang": "cs",
+        "name": "Kachna žlutozobá"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbschnabelente"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-billed Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Pato de pico amarillo"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard à bec jaune"
+      },
+      {
+        "lang": "ja",
+        "name": "キバシガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Gulnebband"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulnäbbad and"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas superciliosa",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kachna proužkovaná"
+      },
+      {
+        "lang": "en",
+        "name": "Pacific Black Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Pato negro del Pacífico"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard à sourcils"
+      },
+      {
+        "lang": "ja",
+        "name": "マミジロカルガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Stripeand"
+      },
+      {
+        "lang": "mi",
+        "name": "Pārera"
+      },
+      {
+        "lang": "ru",
+        "name": "Австралийская чёрная кряква"
+      },
+      {
+        "lang": "to",
+        "name": "toloa"
+      },
+      {
+        "lang": "sv",
+        "name": "Stillahavssvartand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas strepera",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "البط السماري"
+      },
+      {
+        "lang": "ast",
+        "name": "Coríu Buxu"
+      },
+      {
+        "lang": "az",
+        "name": "Boz ördək"
+      },
+      {
+        "lang": "be",
+        "name": "Качка-неразня"
+      },
+      {
+        "lang": "bg",
+        "name": "Сива патица"
+      },
+      {
+        "lang": "br",
+        "name": "Houad louet"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec griset"
+      },
+      {
+        "lang": "cjs",
+        "name": "Пор öртек"
+      },
+      {
+        "lang": "cs",
+        "name": "kopřivka obecná"
+      },
+      {
+        "lang": "cv",
+        "name": "Сăрă кăвакал"
+      },
+      {
+        "lang": "cw",
+        "name": "Hos tor wyn"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden Lwyd"
+      },
+      {
+        "lang": "da",
+        "name": "Knarand"
+      },
+      {
+        "lang": "de",
+        "name": "Schnatterente"
+      },
+      {
+        "lang": "egl",
+        "name": "Arbalon"
+      },
+      {
+        "lang": "el",
+        "name": "Κανναούρα"
+      },
+      {
+        "lang": "en",
+        "name": "Gadwall"
+      },
+      {
+        "lang": "eo",
+        "name": "Knaranaso"
+      },
+      {
+        "lang": "es",
+        "name": "Ánade friso"
+      },
+      {
+        "lang": "et",
+        "name": "Rääkspart"
+      },
+      {
+        "lang": "eu",
+        "name": "Ipar-ahatea"
+      },
+      {
+        "lang": "fa",
+        "name": "اردک قهوه ای"
+      },
+      {
+        "lang": "fi",
+        "name": "harmaasorsa"
+      },
+      {
+        "lang": "fo",
+        "name": "Sutlont"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard chipeau"
+      },
+      {
+        "lang": "fy",
+        "name": "Eastein"
+      },
+      {
+        "lang": "ga",
+        "name": "Gadual"
+      },
+      {
+        "lang": "gd",
+        "name": "Lach glas"
+      },
+      {
+        "lang": "gl",
+        "name": "Pato cinsento"
+      },
+      {
+        "lang": "gv",
+        "name": "Laagh Ghlass"
+      },
+      {
+        "lang": "he",
+        "name": "ברווז אפור"
+      },
+      {
+        "lang": "hr",
+        "name": "Patka kreketaljka"
+      },
+      {
+        "lang": "hu",
+        "name": "Kendermagos réce"
+      },
+      {
+        "lang": "hy",
+        "name": "Մոխրագույն Բադ"
+      },
+      {
+        "lang": "is",
+        "name": "Gargönd"
+      },
+      {
+        "lang": "it",
+        "name": "Canapiglia"
+      },
+      {
+        "lang": "ja",
+        "name": "オカヨシガモ",
+        "synonyms": [
+          "okayoshigamo"
+        ]
+      },
+      {
+        "lang": "ka",
+        "name": "რუხი იხვი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Пора öртек"
+      },
+      {
+        "lang": "kk",
+        "name": "Қоњыр үйрек"
+      },
+      {
+        "lang": "ko",
+        "name": "알락오리"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkoji antis"
+      },
+      {
+        "lang": "lv",
+        "name": "Pelēkā pīle"
+      },
+      {
+        "lang": "mk",
+        "name": "Брешка",
+        "synonyms": [
+          "Сива патка"
+        ]
+      },
+      {
+        "lang": "mn",
+        "name": "Бор нугас"
+      },
+      {
+        "lang": "ms",
+        "name": "Itik Gadwall"
+      },
+      {
+        "lang": "mt",
+        "name": "Kuluvert Griż"
+      },
+      {
+        "lang": "nl",
+        "name": "Krakeend"
+      },
+      {
+        "lang": "nn",
+        "name": "Snadderand"
+      },
+      {
+        "lang": "no",
+        "name": "Snadderand"
+      },
+      {
+        "lang": "pl",
+        "name": "Kaczka krakwa"
+      },
+      {
+        "lang": "pt",
+        "name": "Frisada"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda baterlunza"
+      },
+      {
+        "lang": "ru",
+        "name": "Серая утка"
+      },
+      {
+        "lang": "sah",
+        "name": "Дьаҕыл уйус"
+      },
+      {
+        "lang": "se",
+        "name": "Ránessnárttal"
+      },
+      {
+        "lang": "sk",
+        "name": "Kačica chripľavá"
+      },
+      {
+        "lang": "sl",
+        "name": "konopnica"
+      },
+      {
+        "lang": "sq",
+        "name": "Rosa e përhimë"
+      },
+      {
+        "lang": "sr",
+        "name": "Plovka cegrtuša",
+        "synonyms": [
+          "Пловка цегртуша"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Snatterand"
+      },
+      {
+        "lang": "ta",
+        "name": "Karuval Vathu"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดเทาก้นดำ"
+      },
+      {
+        "lang": "tr",
+        "name": "Boz ördek"
+      },
+      {
+        "lang": "tyv",
+        "name": "баракчын",
+        "synonyms": [
+          "Бора өдурек",
+          "Боракшин"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Нерозень"
+      },
+      {
+        "lang": "vec",
+        "name": "Mezan"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt cánh trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "赤膀鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas sparsa",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Swarteend"
+      },
+      {
+        "lang": "cs",
+        "name": "Kachna temná"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzente"
+      },
+      {
+        "lang": "en",
+        "name": "African Black Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Anade Negro"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard noir"
+      },
+      {
+        "lang": "it",
+        "name": "Germano nero africano"
+      },
+      {
+        "lang": "ja",
+        "name": "シラボシガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Elveand"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk svartand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas smithii",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kaapse slopeend"
+      },
+      {
+        "lang": "cs",
+        "name": "Lžičák kapský"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Shoveler"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard de Smith"
+      },
+      {
+        "lang": "ja",
+        "name": "ケープハシビロガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Kappskjeand"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapskedand"
+      },
+      {
+        "lang": "tr",
+        "name": "Kap kaşıkgagası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas sibilatrix",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Hvízdák chilský"
+      },
+      {
+        "lang": "de",
+        "name": "Chilepfeifente"
+      },
+      {
+        "lang": "en",
+        "name": "Chiloé Wigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Pato Overo"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard de Chiloé"
+      },
+      {
+        "lang": "hu",
+        "name": "Chilei fütyülőréce"
+      },
+      {
+        "lang": "it",
+        "name": "Fischione del Cile"
+      },
+      {
+        "lang": "ja",
+        "name": "ワキアカヒドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Chileense smient"
+      },
+      {
+        "lang": "no",
+        "name": "Sørblesand"
+      },
+      {
+        "lang": "pl",
+        "name": "Świstun chilijski"
+      },
+      {
+        "lang": "pt",
+        "name": "Marreca-oveira"
+      },
+      {
+        "lang": "sv",
+        "name": "Chilensk bläsand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas rubripes",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kachna tmavá"
+      },
+      {
+        "lang": "da",
+        "name": "Sortbrun And"
+      },
+      {
+        "lang": "de",
+        "name": "Dunkelente"
+      },
+      {
+        "lang": "en",
+        "name": "American Black Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Anade Sombrío"
+      },
+      {
+        "lang": "fi",
+        "name": "nokisorsa"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard noir"
+      },
+      {
+        "lang": "hu",
+        "name": "Kormos réce"
+      },
+      {
+        "lang": "is",
+        "name": "Brúnönd"
+      },
+      {
+        "lang": "it",
+        "name": "Anatra zamperosse"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカガモ",
+        "synonyms": [
+          "amerikagamo"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "미국오리"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse Zwarte Eend"
+      },
+      {
+        "lang": "no",
+        "name": "Rødfotand"
+      },
+      {
+        "lang": "pl",
+        "name": "brązówka"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-escuro-americano"
+      },
+      {
+        "lang": "ru",
+        "name": "Американская чёрная кряква"
+      },
+      {
+        "lang": "sk",
+        "name": "kačica černastá"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartand"
+      },
+      {
+        "lang": "zh",
+        "name": "北美黑鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas rhynchotis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Ànec cullerot australià"
+      },
+      {
+        "lang": "cs",
+        "name": "Lžičák australský"
+      },
+      {
+        "lang": "de",
+        "name": "Australische Löffelente"
+      },
+      {
+        "lang": "en",
+        "name": "Australasian Shoveler"
+      },
+      {
+        "lang": "es",
+        "name": "Cuchara australiano"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard bridé"
+      },
+      {
+        "lang": "hu",
+        "name": "Ausztráliai kanalasréce"
+      },
+      {
+        "lang": "it",
+        "name": "Mestolone australiano"
+      },
+      {
+        "lang": "ja",
+        "name": "ミカヅキハシビロガモ"
+      },
+      {
+        "lang": "mi",
+        "name": "Kuruwhengi"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische slobeend"
+      },
+      {
+        "lang": "no",
+        "name": "Sigdskjeand"
+      },
+      {
+        "lang": "nn",
+        "name": "Sigdskeiand"
+      },
+      {
+        "lang": "ru",
+        "name": "Австралийская широконоска"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi kanatlı kaşıkgaga",
+        "synonyms": [
+          "Avustralya kaşıkgagası"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk skedand"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt mỏ thìa Úc"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas querquedula",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Somereend"
+      },
+      {
+        "lang": "ar",
+        "name": "شرشير صيفي"
+      },
+      {
+        "lang": "ast",
+        "name": "Coríu"
+      },
+      {
+        "lang": "az",
+        "name": "Cırıldayan cürə"
+      },
+      {
+        "lang": "be",
+        "name": "Качка-чырка"
+      },
+      {
+        "lang": "bg",
+        "name": "Лятно бърне"
+      },
+      {
+        "lang": "br",
+        "name": "Krag-hañv"
+      },
+      {
+        "lang": "ca",
+        "name": "Xarrasclet",
+        "synonyms": [
+          "Roncadell"
+        ]
+      },
+      {
+        "lang": "cs",
+        "name": "Čírka modrá"
+      },
+      {
+        "lang": "cv",
+        "name": "Шурă йĕрлĕ шăркалчă"
+      },
+      {
+        "lang": "cw",
+        "name": "Hos haf"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden addfain"
+      },
+      {
+        "lang": "da",
+        "name": "Atlingand"
+      },
+      {
+        "lang": "de",
+        "name": "Knäkente"
+      },
+      {
+        "lang": "dv",
+        "name": "Kunburu Reyru"
+      },
+      {
+        "lang": "egl",
+        "name": "Canaròl"
+      },
+      {
+        "lang": "el",
+        "name": "σαρσέλα"
+      },
+      {
+        "lang": "en",
+        "name": "Garganey"
+      },
+      {
+        "lang": "eo",
+        "name": "Marĉanaso"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta Carretona"
+      },
+      {
+        "lang": "et",
+        "name": "Rägapart"
+      },
+      {
+        "lang": "eu",
+        "name": "Udako zertzeta"
+      },
+      {
+        "lang": "fa",
+        "name": "خوتکای ابرو سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "heinätavi"
+      },
+      {
+        "lang": "fo",
+        "name": "Krypilsont"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle d'été"
+      },
+      {
+        "lang": "frr",
+        "name": "Leguart"
+      },
+      {
+        "lang": "fy",
+        "name": "Skiertsjilling"
+      },
+      {
+        "lang": "ga",
+        "name": "Praslacha Shamhraidh"
+      },
+      {
+        "lang": "gd",
+        "name": "Lach crann"
+      },
+      {
+        "lang": "gl",
+        "name": "Cerceta albela"
+      },
+      {
+        "lang": "gv",
+        "name": "Thunnag houree"
+      },
+      {
+        "lang": "he",
+        "name": "קרקיר"
+      },
+      {
+        "lang": "hr",
+        "name": "Patka Pupcanica"
+      },
+      {
+        "lang": "hu",
+        "name": "Böjti réce"
+      },
+      {
+        "lang": "hy",
+        "name": "Մրտիմն ճքճքան"
+      },
+      {
+        "lang": "id",
+        "name": "Itik Jurai"
+      },
+      {
+        "lang": "is",
+        "name": "Taumönd"
+      },
+      {
+        "lang": "it",
+        "name": "Marzaiola"
+      },
+      {
+        "lang": "ja",
+        "name": "シマアジ"
+      },
+      {
+        "lang": "ka",
+        "name": "იხვინჯა"
+      },
+      {
+        "lang": "kjn",
+        "name": "Сиргейек"
+      },
+      {
+        "lang": "kk",
+        "name": "Даурықпа шүрегей"
+      },
+      {
+        "lang": "ko",
+        "name": "발구지"
+      },
+      {
+        "lang": "la",
+        "name": "Anas querquedula",
+        "synonyms": [
+          "Spatula querquedula"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Dryžagalvė kryklė"
+      },
+      {
+        "lang": "lv",
+        "name": "Prīkšķe"
+      },
+      {
+        "lang": "mk",
+        "name": "Крецка",
+        "synonyms": [
+          "Патка кркач",
+          "Патка–пупчаница"
+        ]
+      },
+      {
+        "lang": "ml",
+        "name": "വരി  എരണ്ട"
+      },
+      {
+        "lang": "mn",
+        "name": "Цагаан хөмсөгт нугас"
+      },
+      {
+        "lang": "ms",
+        "name": "Itik Garganey"
+      },
+      {
+        "lang": "mt",
+        "name": "Sarsella îamra"
+      },
+      {
+        "lang": "nl",
+        "name": "Zomertaling"
+      },
+      {
+        "lang": "nn",
+        "name": "Knekkand"
+      },
+      {
+        "lang": "no",
+        "name": "Knekkand"
+      },
+      {
+        "lang": "pl",
+        "name": "Cyranka"
+      },
+      {
+        "lang": "pt",
+        "name": "Marreco"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda da mars"
+      },
+      {
+        "lang": "ru",
+        "name": "Чирок-трескунок"
+      },
+      {
+        "lang": "sah",
+        "name": "Чардырҕас чөркөй"
+      },
+      {
+        "lang": "se",
+        "name": "Suoidnečiksa"
+      },
+      {
+        "lang": "sk",
+        "name": "Kačica chrapačka"
+      },
+      {
+        "lang": "sl",
+        "name": "Regeljc"
+      },
+      {
+        "lang": "sq",
+        "name": "Marsatorja"
+      },
+      {
+        "lang": "sr",
+        "name": "Krdža / Крджа"
+      },
+      {
+        "lang": "sv",
+        "name": "Årta"
+      },
+      {
+        "lang": "sw",
+        "name": "Bata Mchirizi-mweupe"
+      },
+      {
+        "lang": "ta",
+        "name": "Neela Chiragi"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดลาย"
+      },
+      {
+        "lang": "tr",
+        "name": "Çıkrıkçın"
+      },
+      {
+        "lang": "tyv",
+        "name": "Сиргей",
+        "synonyms": [
+          "Чергий-өдурек"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Велика чирянка"
+      },
+      {
+        "lang": "vec",
+        "name": "Rocheto"
+      },
+      {
+        "lang": "vi",
+        "name": "Mòng két mày trắng"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Pe̍h-ba̍k-bâi-á"
+      },
+      {
+        "lang": "zh",
+        "name": "白眉鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas puna",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Puna Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Pato puna"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle du puna"
+      },
+      {
+        "lang": "ja",
+        "name": "プナシマアジ"
+      },
+      {
+        "lang": "no",
+        "name": "Punaand"
+      },
+      {
+        "lang": "sv",
+        "name": "Punaand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas poecilorhyncha",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kachna skvrnozobá"
+      },
+      {
+        "lang": "de",
+        "name": "Fleckschnabelente"
+      },
+      {
+        "lang": "en",
+        "name": "Indian Spot-billed Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Ánade picopinto"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard à bec tacheté"
+      },
+      {
+        "lang": "ja",
+        "name": "カルガモ"
+      },
+      {
+        "lang": "ko",
+        "name": "흰뺨검둥오리"
+      },
+      {
+        "lang": "nl",
+        "name": "Vlekbekeend"
+      },
+      {
+        "lang": "no",
+        "name": "Flekknebband"
+      },
+      {
+        "lang": "ru",
+        "name": "Черная кряква"
+      },
+      {
+        "lang": "zh",
+        "name": "斑嘴鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas platyrhynchos",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Groenkopeend"
+      },
+      {
+        "lang": "ak",
+        "name": "Dabodabo"
+      },
+      {
+        "lang": "als",
+        "name": "Wildänte"
+      },
+      {
+        "lang": "an",
+        "name": "Anade reyal"
+      },
+      {
+        "lang": "ar",
+        "name": "بط بري",
+        "synonyms": [
+          "البُركة",
+          "البُركة بو الخصيف",
+          "الخضيري"
+        ]
+      },
+      {
+        "lang": "ast",
+        "name": "Coríu Rial"
+      },
+      {
+        "lang": "az",
+        "name": "Yaşılbaş ördək"
+      },
+      {
+        "lang": "ba",
+        "name": "Һуна өйрәк"
+      },
+      {
+        "lang": "bar",
+        "name": "Stóckanten"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Dėdliuojė pīlė"
+      },
+      {
+        "lang": "be",
+        "name": "Крыжанка"
+      },
+      {
+        "lang": "bg",
+        "name": "Зеленоглава патица"
+      },
+      {
+        "lang": "br",
+        "name": "Houad-korz"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec collverd"
+      },
+      {
+        "lang": "ce",
+        "name": "Aqa bad"
+      },
+      {
+        "lang": "cs",
+        "name": "Kachna divoká"
+      },
+      {
+        "lang": "cv",
+        "name": "Кăвакал-хăй"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden wyllt"
+      },
+      {
+        "lang": "da",
+        "name": "Gråand"
+      },
+      {
+        "lang": "de",
+        "name": "Stockente"
+      },
+      {
+        "lang": "dsb",
+        "name": "Źiwa kacka"
+      },
+      {
+        "lang": "el",
+        "name": "Πρασινοκέφαλη"
+      },
+      {
+        "lang": "en",
+        "name": "Mallard"
+      },
+      {
+        "lang": "eo",
+        "name": "Platbeka anaso"
+      },
+      {
+        "lang": "es",
+        "name": "Ánade Azulón"
+      },
+      {
+        "lang": "et",
+        "name": "Sinikael-part"
+      },
+      {
+        "lang": "eu",
+        "name": "Basahate"
+      },
+      {
+        "lang": "fa",
+        "name": "کله‌سبز",
+        "synonyms": [
+          "اردك وحشی"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Sinisorsa"
+      },
+      {
+        "lang": "fo",
+        "name": "Villdunna"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard colvert"
+      },
+      {
+        "lang": "frr",
+        "name": "Wil an"
+      },
+      {
+        "lang": "fur",
+        "name": "Masurin"
+      },
+      {
+        "lang": "fy",
+        "name": "Wylde ein"
+      },
+      {
+        "lang": "ga",
+        "name": "Lacha Fhiáin"
+      },
+      {
+        "lang": "gd",
+        "name": "Tunnag fhiadhaich"
+      },
+      {
+        "lang": "gl",
+        "name": "Lavanco"
+      },
+      {
+        "lang": "gv",
+        "name": "Laagh Voirrey"
+      },
+      {
+        "lang": "he",
+        "name": "ברכיה",
+        "synonyms": [
+          "ברכייה"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Divlja patka"
+      },
+      {
+        "lang": "hsb",
+        "name": "Dźiwja kačka"
+      },
+      {
+        "lang": "ht",
+        "name": "Kanna kolvèt"
+      },
+      {
+        "lang": "hu",
+        "name": "Tőkés réce"
+      },
+      {
+        "lang": "hy",
+        "name": "Կռնչան Բադ"
+      },
+      {
+        "lang": "is",
+        "name": "Stokkönd"
+      },
+      {
+        "lang": "it",
+        "name": "Germano reale"
+      },
+      {
+        "lang": "iu",
+        "name": "Qeerlutooq"
+      },
+      {
+        "lang": "ja",
+        "name": "マガモ"
+      },
+      {
+        "lang": "ka",
+        "name": "გარეული იხვი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Губгъуэбабыщ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Сас öртек"
+      },
+      {
+        "lang": "kk",
+        "name": "Барылдауық үйрек"
+      },
+      {
+        "lang": "kl",
+        "name": "Qeerlutooq"
+      },
+      {
+        "lang": "ko",
+        "name": "청둥오리"
+      },
+      {
+        "lang": "ks",
+        "name": "Nilij"
+      },
+      {
+        "lang": "ku",
+        "name": "Werdeka avî"
+      },
+      {
+        "lang": "kv",
+        "name": "Горда"
+      },
+      {
+        "lang": "kw",
+        "name": "Hos gwyls"
+      },
+      {
+        "lang": "la",
+        "name": "Anas"
+      },
+      {
+        "lang": "lb",
+        "name": "Stackint"
+      },
+      {
+        "lang": "li",
+        "name": "Wil eend"
+      },
+      {
+        "lang": "lld",
+        "name": "Anera salvaria"
+      },
+      {
+        "lang": "lt",
+        "name": "Didžioji antis"
+      },
+      {
+        "lang": "ltg",
+        "name": "Raudive"
+      },
+      {
+        "lang": "lv",
+        "name": "Meža pīle"
+      },
+      {
+        "lang": "mk",
+        "name": "Дива патка"
+      },
+      {
+        "lang": "mn",
+        "name": "Зэрлэг нугас"
+      },
+      {
+        "lang": "mr",
+        "name": "मलार्ड बदक"
+      },
+      {
+        "lang": "mrj",
+        "name": "Лӧркӓ"
+      },
+      {
+        "lang": "ms",
+        "name": "Itik Melewar"
+      },
+      {
+        "lang": "mt",
+        "name": "Kuluvert"
+      },
+      {
+        "lang": "my",
+        "name": "ဘဲခေါင်းစိမ်း"
+      },
+      {
+        "lang": "nah",
+        "name": "Zōlcanauhtli"
+      },
+      {
+        "lang": "nds",
+        "name": "Wildänte"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Wilde ente"
+      },
+      {
+        "lang": "nl",
+        "name": "Wilde Eend"
+      },
+      {
+        "lang": "nn",
+        "name": "Stokkand"
+      },
+      {
+        "lang": "no",
+        "name": "Stokkand"
+      },
+      {
+        "lang": "nrm",
+        "name": "Maillard"
+      },
+      {
+        "lang": "nv",
+        "name": "Naalʼeełí bitsiiʼ dootłʼizhí"
+      },
+      {
+        "lang": "oc",
+        "name": "Guit",
+        "synonyms": [
+          "Rit"
+        ]
+      },
+      {
+        "lang": "pcd",
+        "name": "Anéte"
+      },
+      {
+        "lang": "pdc",
+        "name": "Stockent"
+      },
+      {
+        "lang": "pl",
+        "name": "Krzyżówka"
+      },
+      {
+        "lang": "pms",
+        "name": "Ania servaja"
+      },
+      {
+        "lang": "pnb",
+        "name": "میلرڈ"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-real"
+      },
+      {
+        "lang": "qu",
+        "name": "Asulun"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda selvadia"
+      },
+      {
+        "lang": "rmy",
+        "name": "Divlio-ratsa"
+      },
+      {
+        "lang": "ro",
+        "name": "Raţă mare"
+      },
+      {
+        "lang": "ru",
+        "name": "Кряква"
+      },
+      {
+        "lang": "rue",
+        "name": "Дика качка-кряква"
+      },
+      {
+        "lang": "sah",
+        "name": "Хара көҕөн"
+      },
+      {
+        "lang": "sc",
+        "name": "Anadi conca birdi"
+      },
+      {
+        "lang": "sco",
+        "name": "Muir deuk"
+      },
+      {
+        "lang": "se",
+        "name": "Duoršu"
+      },
+      {
+        "lang": "sh",
+        "name": "Divlja patka / Дивља патка"
+      },
+      {
+        "lang": "sk",
+        "name": "Kačica divá"
+      },
+      {
+        "lang": "sl",
+        "name": "Mlakarica"
+      },
+      {
+        "lang": "sq",
+        "name": "Rosa e vëndit"
+      },
+      {
+        "lang": "sr",
+        "name": "Divlja patka"
+      },
+      {
+        "lang": "stq",
+        "name": "Wüülde oante"
+      },
+      {
+        "lang": "sv",
+        "name": "Gräsand"
+      },
+      {
+        "lang": "sw",
+        "name": "Bata wa Ulaya"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดหัวเขียว"
+      },
+      {
+        "lang": "tk",
+        "name": "Ýaşylbaş"
+      },
+      {
+        "lang": "tl",
+        "name": "Papaw"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeşilbaş"
+      },
+      {
+        "lang": "tyv",
+        "name": "бос"
+      },
+      {
+        "lang": "udm",
+        "name": "Лудӵӧж"
+      },
+      {
+        "lang": "uk",
+        "name": "Крижень"
+      },
+      {
+        "lang": "vec",
+        "name": "Màzaro"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt cổ xanh"
+      },
+      {
+        "lang": "vls",
+        "name": "Eende"
+      },
+      {
+        "lang": "zea",
+        "name": "Wilden eend"
+      },
+      {
+        "lang": "zh",
+        "name": "绿头鸭"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Kim-thâu-á"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas platalea",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Lžičák tečkovaný"
+      },
+      {
+        "lang": "en",
+        "name": "Red Shoveler"
+      },
+      {
+        "lang": "es",
+        "name": "Pato pico cuchara sudamericano"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard spatule"
+      },
+      {
+        "lang": "ja",
+        "name": "アカハシビロガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Prikkskjeand"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl kaşıkgaga"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydamerikansk skedand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas penelope",
+    "common_names": [
+      {
+        "lang": "ab",
+        "name": "Атрышәас"
+      },
+      {
+        "lang": "ar",
+        "name": "صواي"
+      },
+      {
+        "lang": "az",
+        "name": "Fitçi-marek"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡашҡалаҡ"
+      },
+      {
+        "lang": "be",
+        "name": "Свіязь"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Сьвістун"
+      },
+      {
+        "lang": "bg",
+        "name": "Фиш"
+      },
+      {
+        "lang": "bn",
+        "name": "ইউরেশীয় সিঁথিহাঁস"
+      },
+      {
+        "lang": "br",
+        "name": "Houad penn ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec xiulador"
+      },
+      {
+        "lang": "cs",
+        "name": "Hvízdák eurasijský"
+      },
+      {
+        "lang": "cy",
+        "name": "Chwiwell"
+      },
+      {
+        "lang": "da",
+        "name": "Pibeand"
+      },
+      {
+        "lang": "de",
+        "name": "Pfeifente"
+      },
+      {
+        "lang": "el",
+        "name": "Σφυριχτάρι"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Wigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Fajfanaso"
+      },
+      {
+        "lang": "es",
+        "name": "Silbón europeo"
+      },
+      {
+        "lang": "et",
+        "name": "Viupart"
+      },
+      {
+        "lang": "eu",
+        "name": "Ahate txistulari"
+      },
+      {
+        "lang": "fa",
+        "name": "گیلار"
+      },
+      {
+        "lang": "fi",
+        "name": "Haapana"
+      },
+      {
+        "lang": "fo",
+        "name": "Ennigul ont"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard siffleur"
+      },
+      {
+        "lang": "frr",
+        "name": "Smen"
+      },
+      {
+        "lang": "fy",
+        "name": "Smjunt"
+      },
+      {
+        "lang": "gl",
+        "name": "Asubiador"
+      },
+      {
+        "lang": "he",
+        "name": "ברווז צהוב-מצח"
+      },
+      {
+        "lang": "hr",
+        "name": "Patka zviždara"
+      },
+      {
+        "lang": "hu",
+        "name": "Fütyülő réce"
+      },
+      {
+        "lang": "hy",
+        "name": "Պենելոպա"
+      },
+      {
+        "lang": "id",
+        "name": "Itik bungalan"
+      },
+      {
+        "lang": "is",
+        "name": "Rauðhöfðaönd"
+      },
+      {
+        "lang": "it",
+        "name": "Fischione europeo"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒドリガモ"
+      },
+      {
+        "lang": "kk",
+        "name": "Сарыайдар үйрек"
+      },
+      {
+        "lang": "ko",
+        "name": "홍머리오리"
+      },
+      {
+        "lang": "kv",
+        "name": "Вӧзь"
+      },
+      {
+        "lang": "lt",
+        "name": "Cyplė"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltvēderis"
+      },
+      {
+        "lang": "mk",
+        "name": "Патка свиркач"
+      },
+      {
+        "lang": "ml",
+        "name": "ചന്ദനക്കുറി എരണ്ട"
+      },
+      {
+        "lang": "mn",
+        "name": "Зээрд нугас"
+      },
+      {
+        "lang": "ms",
+        "name": "Itik Wigeon"
+      },
+      {
+        "lang": "my",
+        "name": "ဘဲအ"
+      },
+      {
+        "lang": "nds",
+        "name": "Smunt"
+      },
+      {
+        "lang": "ne",
+        "name": "सिन्दुरे हाँस"
+      },
+      {
+        "lang": "nl",
+        "name": "Smient"
+      },
+      {
+        "lang": "nn",
+        "name": "Brunnakke"
+      },
+      {
+        "lang": "no",
+        "name": "Brunnakke"
+      },
+      {
+        "lang": "pcd",
+        "name": "Win·nhe"
+      },
+      {
+        "lang": "pl",
+        "name": "Świstun zwyczajny"
+      },
+      {
+        "lang": "pnb",
+        "name": "یوریشاء وجن"
+      },
+      {
+        "lang": "pt",
+        "name": "Piadeira"
+      },
+      {
+        "lang": "ro",
+        "name": "Rață fluierătoare"
+      },
+      {
+        "lang": "ru",
+        "name": "Свиязь"
+      },
+      {
+        "lang": "rue",
+        "name": "Утка"
+      },
+      {
+        "lang": "sah",
+        "name": "Тыйаах"
+      },
+      {
+        "lang": "sco",
+        "name": "Whistlin deuk"
+      },
+      {
+        "lang": "se",
+        "name": "Snárttal"
+      },
+      {
+        "lang": "sh",
+        "name": "Patka zviždara"
+      },
+      {
+        "lang": "sk",
+        "name": "Kačica hvizdárka"
+      },
+      {
+        "lang": "sv",
+        "name": "Bläsand"
+      },
+      {
+        "lang": "tr",
+        "name": "Fiyu"
+      },
+      {
+        "lang": "uk",
+        "name": "Свищ"
+      },
+      {
+        "lang": "vec",
+        "name": "Fio"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt đầu vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "赤颈鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas nesiotis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Campbell Island Teal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas melleri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kachna madagaskarská"
+      },
+      {
+        "lang": "en",
+        "name": "Meller's Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Pato de Meller"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard de Meller"
+      },
+      {
+        "lang": "ja",
+        "name": "マダガスカルガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Madagaskarand"
+      },
+      {
+        "lang": "sv",
+        "name": "Mellers and"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas luzonica",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kachna filipínská"
+      },
+      {
+        "lang": "en",
+        "name": "Philippine Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Ánade filipino"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard des Philippines"
+      },
+      {
+        "lang": "it",
+        "name": "Anatra delle Filippine"
+      },
+      {
+        "lang": "ja",
+        "name": "アカノドカルガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Filipijnse eend"
+      },
+      {
+        "lang": "no",
+        "name": "Filippinerand"
+      },
+      {
+        "lang": "zh",
+        "name": "棕頸鴨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas laysanensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kachna laysanská"
+      },
+      {
+        "lang": "de",
+        "name": "Laysanente"
+      },
+      {
+        "lang": "en",
+        "name": "Laysan Duck",
+        "synonyms": [
+          "Laysan Teal"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Ánade de Laysán"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard de Laysan"
+      },
+      {
+        "lang": "ja",
+        "name": "レイサンマガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Laysanand"
+      },
+      {
+        "lang": "sv",
+        "name": "Laysanand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas hottentota",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gevlekte eend"
+      },
+      {
+        "lang": "cs",
+        "name": "Čírka hottentotská"
+      },
+      {
+        "lang": "de",
+        "name": "Hottentottenente"
+      },
+      {
+        "lang": "en",
+        "name": "Hottentot Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta hotentote"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle hottentote"
+      },
+      {
+        "lang": "it",
+        "name": "Alzavola ottentotta"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカコガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Hottentottaling"
+      },
+      {
+        "lang": "no",
+        "name": "Hottentottand"
+      },
+      {
+        "lang": "ru",
+        "name": "Пятнистый чирок"
+      },
+      {
+        "lang": "sv",
+        "name": "Hottentotkricka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas gracilis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey Teal"
+      },
+      {
+        "lang": "no",
+        "name": "Nomadeand"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk gråkricka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas gibberifrons",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čírka australasijská"
+      },
+      {
+        "lang": "en",
+        "name": "Sunda Teal"
+      },
+      {
+        "lang": "ja",
+        "name": "インドネシアコガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Gråkrikkand"
+      },
+      {
+        "lang": "ru",
+        "name": "Серый чирок"
+      },
+      {
+        "lang": "sv",
+        "name": "Indonesisk gråkricka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas georgica",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ostralka žlutozobá"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-billed Pintail"
+      },
+      {
+        "lang": "es",
+        "name": "Pato maicero"
+      },
+      {
+        "lang": "ja",
+        "name": "キバシオナガガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Spisshaleand"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulnäbbad stjärtand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas fulvigula",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Floridagråand"
+      },
+      {
+        "lang": "de",
+        "name": "Floridaente",
+        "synonyms": [
+          "Stockente-fulvigula"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Mottled Duck",
+        "synonyms": [
+          "Florida duck"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Ánade Jaspeado"
+      },
+      {
+        "lang": "et",
+        "name": "rand-sinikaelpart"
+      },
+      {
+        "lang": "fi",
+        "name": "suolakkosorsa"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard brun"
+      },
+      {
+        "lang": "hu",
+        "name": "floridai réce"
+      },
+      {
+        "lang": "it",
+        "name": "Germano maculato"
+      },
+      {
+        "lang": "ja",
+        "name": "マダラガモ",
+        "synonyms": [
+          "madaragamo"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Gevlekte Eend"
+      },
+      {
+        "lang": "no",
+        "name": "Golfand"
+      },
+      {
+        "lang": "pl",
+        "name": "krzyzówka florydzka"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-da-flórida"
+      },
+      {
+        "lang": "ru",
+        "name": "Флоридский чирок"
+      },
+      {
+        "lang": "sk",
+        "name": "kačica pobrežná"
+      },
+      {
+        "lang": "sv",
+        "name": "Fläckand"
+      },
+      {
+        "lang": "zh",
+        "name": "北美斑鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas formosa",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čírka sibiřská"
+      },
+      {
+        "lang": "de",
+        "name": "Baikalente"
+      },
+      {
+        "lang": "en",
+        "name": "Baikal Teal"
+      },
+      {
+        "lang": "eo",
+        "name": "Bajkala kreko"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta del Baikal"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle élégante"
+      },
+      {
+        "lang": "hu",
+        "name": "Cifra réce"
+      },
+      {
+        "lang": "hr",
+        "name": "Šarenoglava patka"
+      },
+      {
+        "lang": "it",
+        "name": "Alzavola asiatica"
+      },
+      {
+        "lang": "ja",
+        "name": "トモエガモ"
+      },
+      {
+        "lang": "ko",
+        "name": "가창오리"
+      },
+      {
+        "lang": "lt",
+        "name": "Baikalinė kryklė"
+      },
+      {
+        "lang": "nl",
+        "name": "Siberische taling"
+      },
+      {
+        "lang": "no",
+        "name": "Gulkinnand"
+      },
+      {
+        "lang": "pl",
+        "name": "Cyraneczka bajkalska"
+      },
+      {
+        "lang": "ru",
+        "name": "Клоктун",
+        "synonyms": [
+          "Чирок-клоктун"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Gulkindad kricka"
+      },
+      {
+        "lang": "zh",
+        "name": "花脸鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas flavirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čírka kropenatá"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-billed Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta Barcina"
+      },
+      {
+        "lang": "fr",
+        "name": "sarcelle à bec jaune"
+      },
+      {
+        "lang": "ja",
+        "name": "キバシコガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Gulnebbkrikkand"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulnäbbad kricka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas falcata",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Сърпокрила патица"
+      },
+      {
+        "lang": "cs",
+        "name": "Čírka srpoperá"
+      },
+      {
+        "lang": "de",
+        "name": "Sichelente"
+      },
+      {
+        "lang": "en",
+        "name": "Falcated Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta de alfanjes"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard à faucilles"
+      },
+      {
+        "lang": "fy",
+        "name": "Grienkopein"
+      },
+      {
+        "lang": "gl",
+        "name": "Pato falcado"
+      },
+      {
+        "lang": "hu",
+        "name": "Sarlós réce"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨシガモ"
+      },
+      {
+        "lang": "ko",
+        "name": "청머리오리"
+      },
+      {
+        "lang": "nl",
+        "name": "Bronskopeend"
+      },
+      {
+        "lang": "no",
+        "name": "Sibirand"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-falcado"
+      },
+      {
+        "lang": "sah",
+        "name": "Уйус"
+      },
+      {
+        "lang": "sv",
+        "name": "Praktand"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük çamurcun"
+      },
+      {
+        "lang": "zh",
+        "name": "罗纹鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas erythrorhyncha",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooibekeend"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеноклюно бърне"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec bec-roig"
+      },
+      {
+        "lang": "cs",
+        "name": "Ostralka rudozobá"
+      },
+      {
+        "lang": "de",
+        "name": "Rotschnabelente"
+      },
+      {
+        "lang": "en",
+        "name": "Red-billed Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Ánade piquirrojo"
+      },
+      {
+        "lang": "fi",
+        "name": "Punanokkasorsa"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard à bec rouge"
+      },
+      {
+        "lang": "hu",
+        "name": "Piroscsőrű réce"
+      },
+      {
+        "lang": "it",
+        "name": "Anatra becco rosso"
+      },
+      {
+        "lang": "ja",
+        "name": "アカハシオナガガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodbekpijlstaart"
+      },
+      {
+        "lang": "no",
+        "name": "Rødnebband"
+      },
+      {
+        "lang": "ru",
+        "name": "Красноклювая шилохвость"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödnäbbad and"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas eatoni",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Eaton se pylsterteend"
+      },
+      {
+        "lang": "cs",
+        "name": "Ostralka kerguelenská"
+      },
+      {
+        "lang": "en",
+        "name": "Eaton's Pintail"
+      },
+      {
+        "lang": "es",
+        "name": "Pato de Eaton"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard d'Eaton"
+      },
+      {
+        "lang": "ja",
+        "name": "イートンオナガガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Kerguelenand"
+      },
+      {
+        "lang": "sv",
+        "name": "Kerguelenand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas discors",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Krag eskell glas"
+      },
+      {
+        "lang": "cs",
+        "name": "čírka modrokřídlá"
+      },
+      {
+        "lang": "da",
+        "name": "Blåvinget And"
+      },
+      {
+        "lang": "de",
+        "name": "Blauflügelente"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-winged Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Pato media luna",
+        "synonyms": [
+          "Cerceta aliazul",
+          "Barraquete aliazul"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "sinisiipitavi"
+      },
+      {
+        "lang": "fr",
+        "name": "sarcelle à ailes bleues",
+        "synonyms": [
+          "sarcelle soucrourou"
+        ]
+      },
+      {
+        "lang": "gl",
+        "name": "Cerceta aliazul"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékszárnyú réce"
+      },
+      {
+        "lang": "is",
+        "name": "Bláönd"
+      },
+      {
+        "lang": "it",
+        "name": "Anatra aliazzurre americana"
+      },
+      {
+        "lang": "ja",
+        "name": "ミカヅキシマアジ",
+        "synonyms": [
+          "mikadukishimaaji"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwvleugeltaling"
+      },
+      {
+        "lang": "no",
+        "name": "Blåvingeand"
+      },
+      {
+        "lang": "pl",
+        "name": "cyranka modroskrzydła"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Marreca-de-asa-azul"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-d'asa-azul"
+      },
+      {
+        "lang": "ru",
+        "name": "Голубокрылый чирок",
+        "synonyms": [
+          "Синекрылый чирок"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "kačica modrokrídla"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåvingad årta"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝翅鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas diazi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mexican Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Pato Mexicano"
+      },
+      {
+        "lang": "sv",
+        "name": "Mexikansk and"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas cyanoptera",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čírka skořicová"
+      },
+      {
+        "lang": "da",
+        "name": "Kaneland"
+      },
+      {
+        "lang": "de",
+        "name": "Zimtente"
+      },
+      {
+        "lang": "en",
+        "name": "Cinnamon Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta Colorada"
+      },
+      {
+        "lang": "fi",
+        "name": "punatavi"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle cannelle"
+      },
+      {
+        "lang": "hu",
+        "name": "Fahéjszínű réce"
+      },
+      {
+        "lang": "it",
+        "name": "Anatra color cannella"
+      },
+      {
+        "lang": "ja",
+        "name": "アカシマアジ",
+        "synonyms": [
+          "akashimaaji"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Kaneelkleurige taling",
+        "synonyms": [
+          "Kaneeltaling"
+        ]
+      },
+      {
+        "lang": "no",
+        "name": "Kaneland"
+      },
+      {
+        "lang": "pl",
+        "name": "Cynamonka"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Marreca-colorada"
+      },
+      {
+        "lang": "pt",
+        "name": "Marreca-carijó",
+        "synonyms": [
+          "Pato-canela"
+        ]
+      },
+      {
+        "lang": "qu",
+        "name": "Puka pili"
+      },
+      {
+        "lang": "ru",
+        "name": "Коричневый чирок"
+      },
+      {
+        "lang": "sk",
+        "name": "kačica škoricová"
+      },
+      {
+        "lang": "sv",
+        "name": "Kanelårta"
+      },
+      {
+        "lang": "zh",
+        "name": "桂红鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas crecca",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الحذف الشتوي"
+      },
+      {
+        "lang": "ast",
+        "name": "Zarceta Coríu"
+      },
+      {
+        "lang": "az",
+        "name": "Fitçi-cürə"
+      },
+      {
+        "lang": "be",
+        "name": "Качка-цыранка"
+      },
+      {
+        "lang": "bg",
+        "name": "Зимно бърне"
+      },
+      {
+        "lang": "br",
+        "name": "Krag-goañv"
+      },
+      {
+        "lang": "ca",
+        "name": "Xarxet comú"
+      },
+      {
+        "lang": "cv",
+        "name": "Симĕс йĕрлĕ шăркалчă"
+      },
+      {
+        "lang": "cs",
+        "name": "čírka obecná"
+      },
+      {
+        "lang": "cw",
+        "name": "Cor-hos"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhwyaden"
+      },
+      {
+        "lang": "da",
+        "name": "Krikand"
+      },
+      {
+        "lang": "de",
+        "name": "Krickente"
+      },
+      {
+        "lang": "el",
+        "name": "Σαρσέλλι"
+      },
+      {
+        "lang": "egl",
+        "name": "Pazzett"
+      },
+      {
+        "lang": "en",
+        "name": "Common teal",
+        "synonyms": [
+          "Eurasian teal",
+          "Teal"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Kreko"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta común"
+      },
+      {
+        "lang": "et",
+        "name": "Piilpart"
+      },
+      {
+        "lang": "eu",
+        "name": "Xarxet comú"
+      },
+      {
+        "lang": "fa",
+        "name": "خوتکا"
+      },
+      {
+        "lang": "fi",
+        "name": "tavi"
+      },
+      {
+        "lang": "fo",
+        "name": "Krikkont"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle d'hiver"
+      },
+      {
+        "lang": "frr",
+        "name": "Uart"
+      },
+      {
+        "lang": "fy",
+        "name": "Piiptsjilling"
+      },
+      {
+        "lang": "ga",
+        "name": "Praslacha"
+      },
+      {
+        "lang": "gcf",
+        "name": "Sarcelle"
+      },
+      {
+        "lang": "gd",
+        "name": "Crann-Lach"
+      },
+      {
+        "lang": "gl",
+        "name": "Cerceta Real"
+      },
+      {
+        "lang": "gv",
+        "name": "Laagh Laaghag"
+      },
+      {
+        "lang": "he",
+        "name": "שרשיר"
+      },
+      {
+        "lang": "hi",
+        "name": "Chhoti Murgabi"
+      },
+      {
+        "lang": "hr",
+        "name": "Kržulja"
+      },
+      {
+        "lang": "ht",
+        "name": "Sasèl zèl vèt"
+      },
+      {
+        "lang": "hu",
+        "name": "Csörgő réce"
+      },
+      {
+        "lang": "hy",
+        "name": "Մրտիմն սուլող"
+      },
+      {
+        "lang": "is",
+        "name": "Urtönd"
+      },
+      {
+        "lang": "it",
+        "name": "Alzavola"
+      },
+      {
+        "lang": "ja",
+        "name": "コガモ"
+      },
+      {
+        "lang": "ka",
+        "name": "სტვენია-იხვინჯა"
+      },
+      {
+        "lang": "krl",
+        "name": "Tavi"
+      },
+      {
+        "lang": "kjn",
+        "name": "Сығырчаң сиргейек"
+      },
+      {
+        "lang": "kk",
+        "name": "Шүрегей ысқырғыш"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠오리"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudagalvė kryklė"
+      },
+      {
+        "lang": "lv",
+        "name": "Krīklis"
+      },
+      {
+        "lang": "mk",
+        "name": "Крѓа",
+        "synonyms": [
+          "Патка берија"
+        ]
+      },
+      {
+        "lang": "mn",
+        "name": "Ногоохон нугас"
+      },
+      {
+        "lang": "ms",
+        "name": "Itik Teal"
+      },
+      {
+        "lang": "mt",
+        "name": "Sarsella"
+      },
+      {
+        "lang": "nl",
+        "name": "Wintertaling"
+      },
+      {
+        "lang": "no",
+        "name": "Krikkand"
+      },
+      {
+        "lang": "pl",
+        "name": "cyraneczka"
+      },
+      {
+        "lang": "pt",
+        "name": "Marrequinha-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda crecca"
+      },
+      {
+        "lang": "ru",
+        "name": "Чирок-свистунок"
+      },
+      {
+        "lang": "sah",
+        "name": "Чөркөй"
+      },
+      {
+        "lang": "se",
+        "name": "Čiksa"
+      },
+      {
+        "lang": "sk",
+        "name": "Kačica chrapkavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Kreheljc"
+      },
+      {
+        "lang": "sq",
+        "name": "Rosa kere"
+      },
+      {
+        "lang": "sr",
+        "name": "Krkavac / Кркавац"
+      },
+      {
+        "lang": "sv",
+        "name": "Kricka"
+      },
+      {
+        "lang": "sw",
+        "name": "Bata Bawa-kijani"
+      },
+      {
+        "lang": "ta",
+        "name": "Kiluvai"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดปีกเขียว"
+      },
+      {
+        "lang": "tr",
+        "name": "Çamurcun",
+        "synonyms": [
+          "Çakırkanat"
+        ]
+      },
+      {
+        "lang": "tyv",
+        "name": "Сыгырар сиргей"
+      },
+      {
+        "lang": "uk",
+        "name": "Чирок-свистунець"
+      },
+      {
+        "lang": "vec",
+        "name": "Anarin"
+      },
+      {
+        "lang": "vi",
+        "name": "Ba kiếm"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Chúi-phiô-á"
+      },
+      {
+        "lang": "zh",
+        "name": "绿翅鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas clypeata",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Europese slopeend"
+      },
+      {
+        "lang": "ar",
+        "name": "أبو مجروف",
+        "synonyms": [
+          "أبو مجروف بط",
+          "الكيش"
+        ]
+      },
+      {
+        "lang": "ast",
+        "name": "Coríu Cuyar"
+      },
+      {
+        "lang": "az",
+        "name": "Enlidimdik ördək"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡашыҡморон"
+      },
+      {
+        "lang": "be",
+        "name": "Качка-лапаноска"
+      },
+      {
+        "lang": "bg",
+        "name": "Клопач"
+      },
+      {
+        "lang": "bn",
+        "name": "উত্তুরে খুন্তেহাঁস"
+      },
+      {
+        "lang": "br",
+        "name": "Houad beg-golvazh"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec cullerot"
+      },
+      {
+        "lang": "cs",
+        "name": "Lžičák pestrý"
+      },
+      {
+        "lang": "cv",
+        "name": "Кĕреçе сăмса"
+      },
+      {
+        "lang": "cw",
+        "name": "Gelvyn ledan"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden lydanbig"
+      },
+      {
+        "lang": "da",
+        "name": "Skeand"
+      },
+      {
+        "lang": "de",
+        "name": "Löffelente"
+      },
+      {
+        "lang": "el",
+        "name": "Χουλιαρόπαπια"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Shoveler"
+      },
+      {
+        "lang": "eo",
+        "name": "Kuleranaso"
+      },
+      {
+        "lang": "es",
+        "name": "Cuchara Común"
+      },
+      {
+        "lang": "et",
+        "name": "Luitsnokk-part"
+      },
+      {
+        "lang": "eu",
+        "name": "Ahate mokozabal"
+      },
+      {
+        "lang": "fi",
+        "name": "lapasorsa"
+      },
+      {
+        "lang": "fo",
+        "name": "Spónont"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard souchet"
+      },
+      {
+        "lang": "frr",
+        "name": "Slob"
+      },
+      {
+        "lang": "fy",
+        "name": "Slob"
+      },
+      {
+        "lang": "ga",
+        "name": "Spadalach tuaisceartach"
+      },
+      {
+        "lang": "gd",
+        "name": "Lach a'ghuib leathainn"
+      },
+      {
+        "lang": "gl",
+        "name": "Cullerete"
+      },
+      {
+        "lang": "gv",
+        "name": "Thunnag y cleayst"
+      },
+      {
+        "lang": "haw",
+        "name": "Koloa mohā"
+      },
+      {
+        "lang": "he",
+        "name": "מרית צפונית",
+        "synonyms": [
+          "ברוז רחב־מקור",
+          "מרית"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Patka žličarka"
+      },
+      {
+        "lang": "ht",
+        "name": "Jeneral"
+      },
+      {
+        "lang": "hu",
+        "name": "Kanalas réce"
+      },
+      {
+        "lang": "hy",
+        "name": "Լայնակտուց Բադ"
+      },
+      {
+        "lang": "is",
+        "name": "Skeiðönd"
+      },
+      {
+        "lang": "it",
+        "name": "Mestolone"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシビロガモ"
+      },
+      {
+        "lang": "ka",
+        "name": "განიერისკარტა იხვი"
+      },
+      {
+        "lang": "kjh",
+        "name": "Coxcax"
+      },
+      {
+        "lang": "kjn",
+        "name": "Coxcax"
+      },
+      {
+        "lang": "kk",
+        "name": "Жалпақтұмсық үйрек"
+      },
+      {
+        "lang": "kn",
+        "name": "ನಾರ್ದನ್ ಶೆಲ್ವರ್"
+      },
+      {
+        "lang": "ko",
+        "name": "넓적부리"
+      },
+      {
+        "lang": "ku",
+        "name": "Kepîpan"
+      },
+      {
+        "lang": "kw",
+        "name": "Gelvyn ledan"
+      },
+      {
+        "lang": "la",
+        "name": "Anas clypeata",
+        "synonyms": [
+          "Spatula clypeata"
+        ]
+      },
+      {
+        "lang": "lb",
+        "name": "Läffelint"
+      },
+      {
+        "lang": "li",
+        "name": "Slobbereend"
+      },
+      {
+        "lang": "lt",
+        "name": "Šaukštasnapė antis"
+      },
+      {
+        "lang": "lv",
+        "name": "Platknābis"
+      },
+      {
+        "lang": "dv",
+        "name": "Reyru"
+      },
+      {
+        "lang": "mk",
+        "name": "Патка лажичарка"
+      },
+      {
+        "lang": "mn",
+        "name": "Халбага нугас"
+      },
+      {
+        "lang": "mr",
+        "name": "शोव्हेलर"
+      },
+      {
+        "lang": "mrj",
+        "name": "Саваланер"
+      },
+      {
+        "lang": "ms",
+        "name": "Itik Paruh Sudu"
+      },
+      {
+        "lang": "mt",
+        "name": "Palettuna"
+      },
+      {
+        "lang": "nah",
+        "name": "Caxtillān canauhtli"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Lepelbek"
+      },
+      {
+        "lang": "nds",
+        "name": "Lepeloont"
+      },
+      {
+        "lang": "nl",
+        "name": "Slobeend"
+      },
+      {
+        "lang": "nn",
+        "name": "Skeiand"
+      },
+      {
+        "lang": "no",
+        "name": "Skjeand"
+      },
+      {
+        "lang": "oj",
+        "name": "ᒪᑕᐃᑲᓂᔑᐟᐱ"
+      },
+      {
+        "lang": "pcd",
+        "name": "Souché"
+      },
+      {
+        "lang": "pl",
+        "name": "Płaskonos"
+      },
+      {
+        "lang": "pnb",
+        "name": "شوولر"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-trombeteiro"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda da la palutta"
+      },
+      {
+        "lang": "ro",
+        "name": "Rață lingurar"
+      },
+      {
+        "lang": "ru",
+        "name": "Широконоска"
+      },
+      {
+        "lang": "rue",
+        "name": "Широконоска"
+      },
+      {
+        "lang": "sah",
+        "name": "Халба"
+      },
+      {
+        "lang": "se",
+        "name": "Spoađđoduoršu"
+      },
+      {
+        "lang": "sh",
+        "name": "Patka žličarka"
+      },
+      {
+        "lang": "si",
+        "name": "උතුරු-සවල් සේරුවා"
+      },
+      {
+        "lang": "sk",
+        "name": "Kačica lyžičiarka"
+      },
+      {
+        "lang": "sl",
+        "name": "Raca žlicarica"
+      },
+      {
+        "lang": "sq",
+        "name": "Sqepluga"
+      },
+      {
+        "lang": "sr",
+        "name": "Plovka kašikara / Пловка кашикара"
+      },
+      {
+        "lang": "sv",
+        "name": "Skedand"
+      },
+      {
+        "lang": "sw",
+        "name": "Bata sepeto"
+      },
+      {
+        "lang": "ta",
+        "name": "ஆண்டி வாத்து"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดปากพลั่ว"
+      },
+      {
+        "lang": "tr",
+        "name": "Kaşıkgaga"
+      },
+      {
+        "lang": "tyv",
+        "name": "Калбак думчук"
+      },
+      {
+        "lang": "uk",
+        "name": "Широконіска"
+      },
+      {
+        "lang": "vec",
+        "name": "Paloto"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt mỏ thìa"
+      },
+      {
+        "lang": "zea",
+        "name": "Slobeend"
+      },
+      {
+        "lang": "zh",
+        "name": "琵嘴鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas chlorotis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Anas cheuen",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Anas castanea",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čírka kaštanová"
+      },
+      {
+        "lang": "de",
+        "name": "Kastanienente"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut Teal"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle rousse"
+      },
+      {
+        "lang": "hu",
+        "name": "Gesztenyebarna réce"
+      },
+      {
+        "lang": "ja",
+        "name": "アオクビコガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Kastanjetaling"
+      },
+      {
+        "lang": "no",
+        "name": "Kastanjeand"
+      },
+      {
+        "lang": "ru",
+        "name": "Каштановый чирок"
+      },
+      {
+        "lang": "sv",
+        "name": "Kastanjekricka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas carolinensis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Xarxet americà"
+      },
+      {
+        "lang": "cs",
+        "name": "Čírka karolinská"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhwyaden Asgell-werdd"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Krikand"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanische Krickente"
+      },
+      {
+        "lang": "en",
+        "name": "Green-winged Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta americana"
+      },
+      {
+        "lang": "et",
+        "name": "Ameerika piilpart"
+      },
+      {
+        "lang": "eu",
+        "name": "Xarxet de Carolina"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikantavi"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle à ailes vertes"
+      },
+      {
+        "lang": "ga",
+        "name": "Praslacha ghlaseiteach"
+      },
+      {
+        "lang": "gl",
+        "name": "Cerceta da Carolina"
+      },
+      {
+        "lang": "he",
+        "name": "שרשיר"
+      },
+      {
+        "lang": "ht",
+        "name": "Sasèl zèl vèt"
+      },
+      {
+        "lang": "hu",
+        "name": "Zöldszárnyú réce"
+      },
+      {
+        "lang": "is",
+        "name": "Murtönd"
+      },
+      {
+        "lang": "it",
+        "name": "Alzavola americana"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカコガモ"
+      },
+      {
+        "lang": "ko",
+        "name": "미국쇠오리"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse Wintertaling"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikakrikkand"
+      },
+      {
+        "lang": "pl",
+        "name": "Cyraneczka karolińska"
+      },
+      {
+        "lang": "pt",
+        "name": "Marrequinha-americana"
+      },
+      {
+        "lang": "ru",
+        "name": "Зеленокрылый чирок"
+      },
+      {
+        "lang": "sk",
+        "name": "Kačica zelenokrídla"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk kricka"
+      },
+      {
+        "lang": "tr",
+        "name": "Amerika çamurcunu"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲绿翅鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas capensis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Teeleend"
+      },
+      {
+        "lang": "cs",
+        "name": "Čírka popelavá"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta de El Cabo"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle du Cap"
+      },
+      {
+        "lang": "ja",
+        "name": "アカハシコガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Kappand"
+      },
+      {
+        "lang": "ru",
+        "name": "Капский чирок"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas bernieri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čírka černoskvrnná"
+      },
+      {
+        "lang": "de",
+        "name": "Bernierente"
+      },
+      {
+        "lang": "en",
+        "name": "Bernier's Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta malgache"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle de Bernier"
+      },
+      {
+        "lang": "ja",
+        "name": "シロスジコガモ"
+      },
+      {
+        "lang": "hu",
+        "name": "Bernier-réce"
+      },
+      {
+        "lang": "no",
+        "name": "Gasserkrikkand"
+      },
+      {
+        "lang": "rm",
+        "name": "Sarcelle de Bernier"
+      },
+      {
+        "lang": "sv",
+        "name": "Madagaskarkricka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas bahamensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bahamaente"
+      },
+      {
+        "lang": "en",
+        "name": "White-cheeked Pintail"
+      },
+      {
+        "lang": "es",
+        "name": "Pato gargantilla"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard des Bahamas"
+      },
+      {
+        "lang": "hu",
+        "name": "Bahama-kacsa"
+      },
+      {
+        "lang": "ja",
+        "name": "ホオジロオナガガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bahamapijlstaart"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitkinnand"
+      },
+      {
+        "lang": "sv",
+        "name": "Bahamaand"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas aucklandica",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čírka hnědá"
+      },
+      {
+        "lang": "en",
+        "name": "Auckland Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta de Auckland"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle brune"
+      },
+      {
+        "lang": "ja",
+        "name": "クリイロコガモ"
+      },
+      {
+        "lang": "no",
+        "name": "Bronseand"
+      },
+      {
+        "lang": "sv",
+        "name": "Aucklandkricka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas andium",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Andean Teal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas americana",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Houad Jansen"
+      },
+      {
+        "lang": "cs",
+        "name": "hvízdák americký"
+      },
+      {
+        "lang": "cy",
+        "name": "Chwiwell America"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Pibeand"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanische Pfeifente",
+        "synonyms": [
+          "Nordamerikanische Pfeifente"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "American Wigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Silbón americano"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanhaapana"
+      },
+      {
+        "lang": "fr",
+        "name": "canard siffleur d'Amérique",
+        "synonyms": [
+          "Canard d'Amérique",
+          "Canard à front blanc"
+        ]
+      },
+      {
+        "lang": "gl",
+        "name": "Asubiador americano"
+      },
+      {
+        "lang": "hu",
+        "name": "Álarcos réce"
+      },
+      {
+        "lang": "is",
+        "name": "Ljóshöfðaönd"
+      },
+      {
+        "lang": "it",
+        "name": "Condone",
+        "synonyms": [
+          "Fischione americano"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカヒドリ",
+        "synonyms": [
+          "amerikahidori"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "아메리카홍머리오리"
+      },
+      {
+        "lang": "lt",
+        "name": "Amerikinė cyplė"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse smient"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikablesand"
+      },
+      {
+        "lang": "pl",
+        "name": "Świstun amerykański"
+      },
+      {
+        "lang": "pt",
+        "name": "Pato-americano",
+        "synonyms": [
+          "Piadeira-americana"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Американская свиязь"
+      },
+      {
+        "lang": "sk",
+        "name": "kačica bielohlavá"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk bläsand"
+      },
+      {
+        "lang": "zh",
+        "name": "绿眉鸭"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas albogularis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Xarxet d'Andaman"
+      },
+      {
+        "lang": "de",
+        "name": "Andamanen-Weißkehlente"
+      },
+      {
+        "lang": "en",
+        "name": "Andaman Teal"
+      },
+      {
+        "lang": "es",
+        "name": "Cerceta de Andamán"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle des Andaman"
+      },
+      {
+        "lang": "nl",
+        "name": "Andamanentaling"
+      },
+      {
+        "lang": "pnb",
+        "name": "اینڈامین ٹیل"
+      },
+      {
+        "lang": "sv",
+        "name": "Andamankricka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anas acuta",
+    "common_names": [
+      {
+        "lang": "ab",
+        "name": "Аҵыхәеимҿаҧа"
+      },
+      {
+        "lang": "af",
+        "name": "Pylsterteend"
+      },
+      {
+        "lang": "ar",
+        "name": "البلبول الشائع البط"
+      },
+      {
+        "lang": "ast",
+        "name": "Coríu Rabullargu"
+      },
+      {
+        "lang": "az",
+        "name": "Bizquyruq"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡылғойроҡ"
+      },
+      {
+        "lang": "be",
+        "name": "Качка-шылахвостка"
+      },
+      {
+        "lang": "bg",
+        "name": "Шилоопашата патица"
+      },
+      {
+        "lang": "br",
+        "name": "Houad lostek"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec cuallarg"
+      },
+      {
+        "lang": "cs",
+        "name": "Ostralka štíhlá"
+      },
+      {
+        "lang": "cv",
+        "name": "Хĕлĕх хӳре"
+      },
+      {
+        "lang": "cw",
+        "name": "Hos Gwaf"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden Lostfain"
+      },
+      {
+        "lang": "da",
+        "name": "Spidsand"
+      },
+      {
+        "lang": "de",
+        "name": "Spießente"
+      },
+      {
+        "lang": "el",
+        "name": "Σουβλόπαπια"
+      },
+      {
+        "lang": "eml",
+        "name": "Culanz"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Pintail"
+      },
+      {
+        "lang": "eo",
+        "name": "Pintvostanaso"
+      },
+      {
+        "lang": "es",
+        "name": "Ánade rabudo"
+      },
+      {
+        "lang": "et",
+        "name": "Soopart"
+      },
+      {
+        "lang": "eu",
+        "name": "Ahate buztanluze"
+      },
+      {
+        "lang": "fi",
+        "name": "Jouhisorsa"
+      },
+      {
+        "lang": "fo",
+        "name": "Stikkont"
+      },
+      {
+        "lang": "fr",
+        "name": "Canard pilet"
+      },
+      {
+        "lang": "frr",
+        "name": "Gräfögel"
+      },
+      {
+        "lang": "fy",
+        "name": "Pylksturt"
+      },
+      {
+        "lang": "ga",
+        "name": "Biorearrach"
+      },
+      {
+        "lang": "gd",
+        "name": "Lach stiuireach"
+      },
+      {
+        "lang": "gl",
+        "name": "Pato rabilongo"
+      },
+      {
+        "lang": "gu",
+        "name": "સીંગપર (બતક)"
+      },
+      {
+        "lang": "gv",
+        "name": "Laagh fammanagh"
+      },
+      {
+        "lang": "haw",
+        "name": "Koloa māpu"
+      },
+      {
+        "lang": "he",
+        "name": "חד-זנב"
+      },
+      {
+        "lang": "hi",
+        "name": "सींखपर"
+      },
+      {
+        "lang": "hr",
+        "name": "Patka lastarka"
+      },
+      {
+        "lang": "ht",
+        "name": "Kanna pilè"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyílfarkú réce"
+      },
+      {
+        "lang": "hy",
+        "name": "Բադ նետապոչ"
+      },
+      {
+        "lang": "id",
+        "name": "Itik Utara"
+      },
+      {
+        "lang": "ik",
+        "name": "Kurugaq"
+      },
+      {
+        "lang": "is",
+        "name": "Grafönd"
+      },
+      {
+        "lang": "it",
+        "name": "Codone"
+      },
+      {
+        "lang": "iu",
+        "name": "Ivurak"
+      },
+      {
+        "lang": "ja",
+        "name": "オナガガモ"
+      },
+      {
+        "lang": "ka",
+        "name": "კუდსადგისა იხვი"
+      },
+      {
+        "lang": "kbd",
+        "name": "БабыщкӀэпсыгъуэ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Хыл хузурух"
+      },
+      {
+        "lang": "kjn",
+        "name": "Хыл хузурух"
+      },
+      {
+        "lang": "kk",
+        "name": "Бізқұйрық үйрек"
+      },
+      {
+        "lang": "ko",
+        "name": "고방오리"
+      },
+      {
+        "lang": "ks",
+        "name": "Pechin"
+      },
+      {
+        "lang": "kw",
+        "name": "Hos Gwaf"
+      },
+      {
+        "lang": "lb",
+        "name": "Spéissint"
+      },
+      {
+        "lang": "lt",
+        "name": "Smailiauodegė antis"
+      },
+      {
+        "lang": "lv",
+        "name": "Garkaklis"
+      },
+      {
+        "lang": "mk",
+        "name": "Патка ластовичарка"
+      },
+      {
+        "lang": "ml",
+        "name": "വാലൻ എരണ്ട"
+      },
+      {
+        "lang": "mn",
+        "name": "Шовтгоралаг нугас"
+      },
+      {
+        "lang": "mr",
+        "name": "पिनटेल बदक"
+      },
+      {
+        "lang": "ms",
+        "name": "Itik Ekor Runcing"
+      },
+      {
+        "lang": "mt",
+        "name": "Silfjun"
+      },
+      {
+        "lang": "nl",
+        "name": "Pijlstaart"
+      },
+      {
+        "lang": "nn",
+        "name": "Stjertand"
+      },
+      {
+        "lang": "no",
+        "name": "Stjertand"
+      },
+      {
+        "lang": "oc",
+        "name": "Guit pilet"
+      },
+      {
+        "lang": "pcd",
+        "name": "Pilé à-lonque-qheue"
+      },
+      {
+        "lang": "pl",
+        "name": "rożeniec"
+      },
+      {
+        "lang": "pnb",
+        "name": "سوئی پوچھل"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Arrabio"
+      },
+      {
+        "lang": "pt",
+        "name": "Marreca-arrebio"
+      },
+      {
+        "lang": "rm",
+        "name": "Anda gita"
+      },
+      {
+        "lang": "ro",
+        "name": "Rața sulițar"
+      },
+      {
+        "lang": "ru",
+        "name": "Шилохвость"
+      },
+      {
+        "lang": "rue",
+        "name": "Остралка"
+      },
+      {
+        "lang": "sah",
+        "name": "Моонньоҕон"
+      },
+      {
+        "lang": "se",
+        "name": "Vuojaš"
+      },
+      {
+        "lang": "sh",
+        "name": "Patka lastarka"
+      },
+      {
+        "lang": "sk",
+        "name": "Kačica ostrochvostá"
+      },
+      {
+        "lang": "sl",
+        "name": "Dolgorepa raca"
+      },
+      {
+        "lang": "sq",
+        "name": "Rosa bishtgjele"
+      },
+      {
+        "lang": "sr",
+        "name": "Шиљкан"
+      },
+      {
+        "lang": "sv",
+        "name": "Stjärtand"
+      },
+      {
+        "lang": "sw",
+        "name": "Bata kipini"
+      },
+      {
+        "lang": "ta",
+        "name": "Oosival Vathu"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดหางแหลม"
+      },
+      {
+        "lang": "to",
+        "name": "Pato"
+      },
+      {
+        "lang": "tr",
+        "name": "Kılkuyruk"
+      },
+      {
+        "lang": "tyv",
+        "name": "Хыл-кудурук"
+      },
+      {
+        "lang": "uk",
+        "name": "Шилохвіст"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt mốc"
+      },
+      {
+        "lang": "wa",
+        "name": "Mårlå al longue cawe"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Chiam-boé-á"
+      },
+      {
+        "lang": "zh",
+        "name": "针尾鸭"
+      }
+    ]
+  }
+]

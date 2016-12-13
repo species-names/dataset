@@ -1,0 +1,78 @@
+[
+  {
+    "scientific_name": "Psittacella picta",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Painted tiger parrot"
+      },
+      {
+        "lang": "es",
+        "name": "Lorito tigre pintado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacella modesta",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Modest tiger parrot"
+      },
+      {
+        "lang": "es",
+        "name": "Lorito tigre modesto"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche modeste"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacella madaraszi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Madarasz-Bindensittich"
+      },
+      {
+        "lang": "en",
+        "name": "Madarasz's Tiger-parrot"
+      },
+      {
+        "lang": "es",
+        "name": "Lorito tigre de Madarasz"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche de Madarasz"
+      },
+      {
+        "lang": "hu",
+        "name": "Madarász-papagáj"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacella brehmii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Brehmpapagei"
+      },
+      {
+        "lang": "en",
+        "name": "Brehm's Tiger Parrot"
+      },
+      {
+        "lang": "es",
+        "name": "Lorito tigre de Brehm"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche de Brehm"
+      }
+    ]
+  }
+]
