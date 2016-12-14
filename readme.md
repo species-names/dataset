@@ -14,6 +14,7 @@ Absolutly beta state, note that format still can change currently.
 
 ## Todo
 - json-schema
+- test with json-schema -> travis
 
 ## Contribute
 You can provide Pull Request to add or correct translations and species.  
