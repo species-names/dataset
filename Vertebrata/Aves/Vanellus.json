@@ -1,0 +1,1506 @@
+[
+  {
+    "scientific_name": "Vanellus vanellus",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Giritzi"
+      },
+      {
+        "lang": "ar",
+        "name": "أبوطيط ذو العرف"
+      },
+      {
+        "lang": "ast",
+        "name": "Cigoreya"
+      },
+      {
+        "lang": "az",
+        "name": "Buynyzlu cüllüt"
+      },
+      {
+        "lang": "ba",
+        "name": "Тәгәрлек"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Pīmpė"
+      },
+      {
+        "lang": "be",
+        "name": "Кнігаўка"
+      },
+      {
+        "lang": "bg",
+        "name": "Обикновена калугерица"
+      },
+      {
+        "lang": "br",
+        "name": "Kornigell gupennek"
+      },
+      {
+        "lang": "ca",
+        "name": "Fredeluga"
+      },
+      {
+        "lang": "ce",
+        "name": "Kuź bolu h́oza"
+      },
+      {
+        "lang": "cs",
+        "name": "Čejka chocholatá"
+      },
+      {
+        "lang": "csb",
+        "name": "Cziwùtka"
+      },
+      {
+        "lang": "cv",
+        "name": "Тĕкĕрлек"
+      },
+      {
+        "lang": "cw",
+        "name": "Cornwhylen"
+      },
+      {
+        "lang": "cy",
+        "name": "Cornchwiglen"
+      },
+      {
+        "lang": "da",
+        "name": "Vibe"
+      },
+      {
+        "lang": "de",
+        "name": "Kiebitz"
+      },
+      {
+        "lang": "el",
+        "name": "Καλημάνα"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Lapwing"
+      },
+      {
+        "lang": "eo",
+        "name": "vanelo"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría Europea"
+      },
+      {
+        "lang": "et",
+        "name": "Kiivitaja"
+      },
+      {
+        "lang": "eu",
+        "name": "Hegabera"
+      },
+      {
+        "lang": "fa",
+        "name": "خروس کولی"
+      },
+      {
+        "lang": "fi",
+        "name": "Töyhtöhyyppä"
+      },
+      {
+        "lang": "fo",
+        "name": "Vípa"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau huppé"
+      },
+      {
+        "lang": "frr",
+        "name": "Liap"
+      },
+      {
+        "lang": "fy",
+        "name": "Ljip"
+      },
+      {
+        "lang": "ga",
+        "name": "Pilibín"
+      },
+      {
+        "lang": "gd",
+        "name": "Curracag"
+      },
+      {
+        "lang": "gl",
+        "name": "Avefría"
+      },
+      {
+        "lang": "gv",
+        "name": "Eairkan"
+      },
+      {
+        "lang": "he",
+        "name": "קוית מצויצת"
+      },
+      {
+        "lang": "hr",
+        "name": "Vivak"
+      },
+      {
+        "lang": "hu",
+        "name": "Bíbic"
+      },
+      {
+        "lang": "hy",
+        "name": "Սովորական Կիվիվ"
+      },
+      {
+        "lang": "is",
+        "name": "Vepja"
+      },
+      {
+        "lang": "it",
+        "name": "Pavoncella"
+      },
+      {
+        "lang": "ja",
+        "name": "タゲリ"
+      },
+      {
+        "lang": "ka",
+        "name": "პრანწია"
+      },
+      {
+        "lang": "kbd",
+        "name": "Темэнпсычэт"
+      },
+      {
+        "lang": "kjh",
+        "name": "Тикке мÿÿс"
+      },
+      {
+        "lang": "kjn",
+        "name": "Тикке мÿÿс"
+      },
+      {
+        "lang": "kk",
+        "name": "Қызғыш"
+      },
+      {
+        "lang": "ko",
+        "name": "댕기물떼새"
+      },
+      {
+        "lang": "ku",
+        "name": "Kedîkê bi kofîk"
+      },
+      {
+        "lang": "kw",
+        "name": "Cornwhylen"
+      },
+      {
+        "lang": "la",
+        "name": "Vanellus"
+      },
+      {
+        "lang": "lb",
+        "name": "Kiwitsch"
+      },
+      {
+        "lang": "lt",
+        "name": "Pempė"
+      },
+      {
+        "lang": "lv",
+        "name": "Ķīvīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Калуѓерка"
+      },
+      {
+        "lang": "ml",
+        "name": "തിത്തിരിപ്പക്ഷി"
+      },
+      {
+        "lang": "mn",
+        "name": "Умардын хавтгаалж / ᠣᠮᠠᠷᠠᠲᠣ ᠶᠢᠨ ᠬᠠᠪᠲᠠᠭᠠᠯᠵᠢ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹшедӹк"
+      },
+      {
+        "lang": "mt",
+        "name": "Venewwa"
+      },
+      {
+        "lang": "myv",
+        "name": "Цибирькай"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Kiefte"
+      },
+      {
+        "lang": "nds",
+        "name": "Kiewitt"
+      },
+      {
+        "lang": "nl",
+        "name": "Kievit"
+      },
+      {
+        "lang": "nn",
+        "name": "Vipe"
+      },
+      {
+        "lang": "no",
+        "name": "Vipe"
+      },
+      {
+        "lang": "nrm",
+        "name": "Pievie"
+      },
+      {
+        "lang": "pcd",
+        "name": "Ouvergne"
+      },
+      {
+        "lang": "pl",
+        "name": "Czajka"
+      },
+      {
+        "lang": "pms",
+        "name": "Pavonëtta"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہری ٹٹیری"
+      },
+      {
+        "lang": "pt",
+        "name": "Abibe-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Vanel"
+      },
+      {
+        "lang": "ro",
+        "name": "Nagâț"
+      },
+      {
+        "lang": "ru",
+        "name": "Чибис"
+      },
+      {
+        "lang": "rue",
+        "name": "Чайка звычайна"
+      },
+      {
+        "lang": "sc",
+        "name": "Lèpiri de argiola"
+      },
+      {
+        "lang": "scn",
+        "name": "Pauneddu nivaloru"
+      },
+      {
+        "lang": "sco",
+        "name": "Teuchit"
+      },
+      {
+        "lang": "se",
+        "name": "Vuoktaláfol"
+      },
+      {
+        "lang": "sh",
+        "name": "Vivak pozviždač"
+      },
+      {
+        "lang": "sk",
+        "name": "Cíbik chochlatý"
+      },
+      {
+        "lang": "sl",
+        "name": "priba"
+      },
+      {
+        "lang": "sq",
+        "name": "Gicvilja"
+      },
+      {
+        "lang": "sr",
+        "name": "Vivak / Вивак"
+      },
+      {
+        "lang": "stq",
+        "name": "Kiewiet"
+      },
+      {
+        "lang": "sv",
+        "name": "Tofsvipa"
+      },
+      {
+        "lang": "sw",
+        "name": "Kiluwiluwi wa Ulaya"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระแตหงอน"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı kız kuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Шына сайжи"
+      },
+      {
+        "lang": "udm",
+        "name": "Сэдык"
+      },
+      {
+        "lang": "uk",
+        "name": "Звичайна чайка"
+      },
+      {
+        "lang": "vec",
+        "name": "Pavonzina"
+      },
+      {
+        "lang": "vi",
+        "name": "Te mào"
+      },
+      {
+        "lang": "zh",
+        "name": "凤头麦鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus tricolor",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Kornigell driliv"
+      },
+      {
+        "lang": "ca",
+        "name": "Fredeluga tricolor"
+      },
+      {
+        "lang": "cs",
+        "name": "Čejka krátkonohá"
+      },
+      {
+        "lang": "en",
+        "name": "Banded Lapwing"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría tricolor"
+      },
+      {
+        "lang": "fa",
+        "name": "خروس کولی نواردار"
+      },
+      {
+        "lang": "fi",
+        "name": "Australianhyyppä"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau tricolore"
+      },
+      {
+        "lang": "it",
+        "name": "Pavoncella tricolore"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische kievit"
+      },
+      {
+        "lang": "sv",
+        "name": "Bältesvipa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus tectus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka černohlavá"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthuvad vipa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus superciliosus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka hnědoprsá"
+      },
+      {
+        "lang": "en",
+        "name": "Brown-chested Lapwing"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría pechirrufa"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau à poitrine châtaine"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus spinosus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Spoorvlerkkiewiet"
+      },
+      {
+        "lang": "ar",
+        "name": "قطقاط شوكي الجناح"
+      },
+      {
+        "lang": "bg",
+        "name": "Шипокрила калугерица"
+      },
+      {
+        "lang": "br",
+        "name": "Kornigell gentrek"
+      },
+      {
+        "lang": "ca",
+        "name": "Fredeluga esperonada"
+      },
+      {
+        "lang": "cs",
+        "name": "Čejka trnitá"
+      },
+      {
+        "lang": "da",
+        "name": "Sporevibe"
+      },
+      {
+        "lang": "de",
+        "name": "Spornkiebitz"
+      },
+      {
+        "lang": "el",
+        "name": "Πελλοκατερίνα"
+      },
+      {
+        "lang": "en",
+        "name": "Spur-winged Lapwing"
+      },
+      {
+        "lang": "eo",
+        "name": "Dornoflugila vanelo"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría espinosa"
+      },
+      {
+        "lang": "et",
+        "name": "Lokutkiivitaja"
+      },
+      {
+        "lang": "eu",
+        "name": "Hegabera ezproidun"
+      },
+      {
+        "lang": "fi",
+        "name": "kynsihyyppä"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau à éperons"
+      },
+      {
+        "lang": "ga",
+        "name": "Feadóg sporeiteach"
+      },
+      {
+        "lang": "gl",
+        "name": "Avefría esporada"
+      },
+      {
+        "lang": "he",
+        "name": "סיקסק"
+      },
+      {
+        "lang": "hu",
+        "name": "Tüskés bíbic"
+      },
+      {
+        "lang": "hy",
+        "name": "Կիվիվ բտիկաթև"
+      },
+      {
+        "lang": "is",
+        "name": "Broddvepja"
+      },
+      {
+        "lang": "it",
+        "name": "Pavoncella spinosa"
+      },
+      {
+        "lang": "ja",
+        "name": "ツバメゲリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Pentinuotoji pempė"
+      },
+      {
+        "lang": "mt",
+        "name": "Venewwa ta' l-Ixpruni"
+      },
+      {
+        "lang": "my",
+        "name": "စစ်တလိုင်းငှက်"
+      },
+      {
+        "lang": "nl",
+        "name": "Sporenkievit"
+      },
+      {
+        "lang": "no",
+        "name": "Sporevipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Czajka szponiasta"
+      },
+      {
+        "lang": "pt",
+        "name": "Abibe-esporado"
+      },
+      {
+        "lang": "ro",
+        "name": "Nagâț sudic"
+      },
+      {
+        "lang": "ru",
+        "name": "Шпорцевый чибис"
+      },
+      {
+        "lang": "sk",
+        "name": "Cíbik tŕňokrídly"
+      },
+      {
+        "lang": "sl",
+        "name": "ostogasta priba"
+      },
+      {
+        "lang": "sr",
+        "name": "vivak mamuzar"
+      },
+      {
+        "lang": "sv",
+        "name": "Sporrvipa"
+      },
+      {
+        "lang": "sw",
+        "name": "Kiluwiluwi Kizibao-cheusi"
+      },
+      {
+        "lang": "tr",
+        "name": "Diken kanatlı kız kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Чайка шпорова"
+      },
+      {
+        "lang": "zh",
+        "name": "黑胸距翅麦鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus senegallus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wattled Lapwing"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus resplendens",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka andská"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus miles",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka australská"
+      },
+      {
+        "lang": "de",
+        "name": "Maskenkiebitz"
+      },
+      {
+        "lang": "en",
+        "name": "Masked Lapwing",
+        "synonyms": [
+          "Masked Plover"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Maskita vanelo"
+      },
+      {
+        "lang": "hu",
+        "name": "Álarcos bíbic"
+      },
+      {
+        "lang": "nl",
+        "name": "Maskerkievit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus melanopterus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka černokřídlá"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus melanocephalus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka etiopská"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus malabaricus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka indická"
+      },
+      {
+        "lang": "de",
+        "name": "Gelblappenkiebitz"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus macropterus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka jávská"
+      },
+      {
+        "lang": "en",
+        "name": "Javan lapwing"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría javanesa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus lugubris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka šedoprsá"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría lúgubre"
+      },
+      {
+        "lang": "en",
+        "name": "Senegal lapwing"
+      },
+      {
+        "lang": "af",
+        "name": "Kleinswartvlerkkiewiet"
+      },
+      {
+        "lang": "ar",
+        "name": "أبو طيط سنغالي"
+      },
+      {
+        "lang": "ca",
+        "name": "Fredeluga lúgubre"
+      },
+      {
+        "lang": "fa",
+        "name": "خروس کولی سنگال"
+      },
+      {
+        "lang": "fi",
+        "name": "Kulohyyppä"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau terne"
+      },
+      {
+        "lang": "hu",
+        "name": "Szavannabíbic"
+      },
+      {
+        "lang": "it",
+        "name": "Pavoncella lugubre"
+      },
+      {
+        "lang": "nl",
+        "name": "Rouwkievit"
+      },
+      {
+        "lang": "sv",
+        "name": "Mörk sorgvipa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus leucurus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الزقزاق أبيض الذيل"
+      },
+      {
+        "lang": "az",
+        "name": "Ağquyruq çökükburun"
+      },
+      {
+        "lang": "bg",
+        "name": "Белоопашата калугерица"
+      },
+      {
+        "lang": "br",
+        "name": "Kornigell lost gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Fredeluga cuablanca"
+      },
+      {
+        "lang": "cs",
+        "name": "Keptuška běloocasá"
+      },
+      {
+        "lang": "cy",
+        "name": "Comchwiglen gynffonwen"
+      },
+      {
+        "lang": "da",
+        "name": "Sumpvibe"
+      },
+      {
+        "lang": "de",
+        "name": "Weißschwanzkiebitz"
+      },
+      {
+        "lang": "el",
+        "name": "Ερημογιαννής"
+      },
+      {
+        "lang": "en",
+        "name": "White-tailed Lapwing"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankvosta vanelo"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría Coliblanca"
+      },
+      {
+        "lang": "et",
+        "name": "Valgesaba-kiivitaja"
+      },
+      {
+        "lang": "eu",
+        "name": "Fredeluga cuablanca"
+      },
+      {
+        "lang": "fi",
+        "name": "Suohyyppä"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau à queue blanche"
+      },
+      {
+        "lang": "gl",
+        "name": "Fredeluga cuablanca"
+      },
+      {
+        "lang": "he",
+        "name": "קוית לבנת־זנב"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfarkú lilebíbic"
+      },
+      {
+        "lang": "hy",
+        "name": "Եղտյուրիկ սպիտակապոչ"
+      },
+      {
+        "lang": "is",
+        "name": "Flóavepja"
+      },
+      {
+        "lang": "ja",
+        "name": "オジロゲリ"
+      },
+      {
+        "lang": "kk",
+        "name": "Аққұйрықты тарғақ"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltauodegė pempė"
+      },
+      {
+        "lang": "mt",
+        "name": "Venewwa Denbha Abjad"
+      },
+      {
+        "lang": "nl",
+        "name": "Witstaartkievit"
+      },
+      {
+        "lang": "no",
+        "name": "Sumpvipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Czajka stepowa"
+      },
+      {
+        "lang": "pt",
+        "name": "Abibe-de-cauda-branca"
+      },
+      {
+        "lang": "ro",
+        "name": "Nagâț cu coadă albă"
+      },
+      {
+        "lang": "ru",
+        "name": "Белохвостая пигалица"
+      },
+      {
+        "lang": "sk",
+        "name": "Cíbik bielochvostý"
+      },
+      {
+        "lang": "sl",
+        "name": "Belorepa priba"
+      },
+      {
+        "lang": "sv",
+        "name": "Sumpvipa"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak kuyruklu kız kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Білохвоста чайка"
+      },
+      {
+        "lang": "zh",
+        "name": "白尾麦鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus indicus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rotlappenkiebitz"
+      },
+      {
+        "lang": "cs",
+        "name": "Čejka černoprsá"
+      },
+      {
+        "lang": "en",
+        "name": "Red-wattled Lapwing"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝbeka vanelo"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau indien"
+      },
+      {
+        "lang": "th",
+        "name": "นกต้อยตีวิด",
+        "synonyms": [
+          "นกกระแตแต้แว้ด"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus gregarius",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الزقزاق الأنيس"
+      },
+      {
+        "lang": "az",
+        "name": "Çığırğan cüllüt"
+      },
+      {
+        "lang": "bg",
+        "name": "Степна калугерица"
+      },
+      {
+        "lang": "br",
+        "name": "Kornigell-stepenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol pit-roig"
+      },
+      {
+        "lang": "cs",
+        "name": "Keptuška stepní"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiad heidiol"
+      },
+      {
+        "lang": "da",
+        "name": "Steppevibe"
+      },
+      {
+        "lang": "de",
+        "name": "Steppenkiebitz"
+      },
+      {
+        "lang": "el",
+        "name": "Στεπογιαννής"
+      },
+      {
+        "lang": "en",
+        "name": "Sociable Lapwing"
+      },
+      {
+        "lang": "eo",
+        "name": "Socia vanelo"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría Sociable"
+      },
+      {
+        "lang": "et",
+        "name": "Stepikiivitaja"
+      },
+      {
+        "lang": "eu",
+        "name": "Fredeluga gregària"
+      },
+      {
+        "lang": "fi",
+        "name": "Arohyyppä"
+      },
+      {
+        "lang": "fo",
+        "name": "Sandvípa"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau sociable"
+      },
+      {
+        "lang": "fy",
+        "name": "Steppeljip"
+      },
+      {
+        "lang": "ga",
+        "name": "Pilibín Ealtúil"
+      },
+      {
+        "lang": "gl",
+        "name": "Avefría sociable"
+      },
+      {
+        "lang": "he",
+        "name": "קוית להקנית"
+      },
+      {
+        "lang": "hu",
+        "name": "Lilebíbic"
+      },
+      {
+        "lang": "hy",
+        "name": "Ճախրուկ"
+      },
+      {
+        "lang": "is",
+        "name": "Steppuvepja"
+      },
+      {
+        "lang": "it",
+        "name": "Pavoncella gregaria"
+      },
+      {
+        "lang": "ja",
+        "name": "マミヒロゲリ"
+      },
+      {
+        "lang": "ka",
+        "name": "ველის პრანწია"
+      },
+      {
+        "lang": "kk",
+        "name": "Тарғақ"
+      },
+      {
+        "lang": "lt",
+        "name": "Stepinė pempė"
+      },
+      {
+        "lang": "lb",
+        "name": "Steppepiwitsch"
+      },
+      {
+        "lang": "mn",
+        "name": "Хээрийн хавтгалж",
+        "synonyms": [
+          "ᠬᠡᠬᠡᠷᠠ ᠶᠢᠨ ᠬᠠᠪᠲᠠᠭᠠᠯᠵᠢ"
+        ]
+      },
+      {
+        "lang": "mt",
+        "name": "Venewwa tal-Qtajja'"
+      },
+      {
+        "lang": "ne",
+        "name": "वेनेल्लुस ग्रेगारिउस"
+      },
+      {
+        "lang": "nl",
+        "name": "Steppekievit"
+      },
+      {
+        "lang": "no",
+        "name": "Steppevipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Czajka towarzyska"
+      },
+      {
+        "lang": "pt",
+        "name": "Abibe-sociável"
+      },
+      {
+        "lang": "rm",
+        "name": "Vanel da rotscha"
+      },
+      {
+        "lang": "ro",
+        "name": "Nagâț de stepă"
+      },
+      {
+        "lang": "ru",
+        "name": "Кречётка"
+      },
+      {
+        "lang": "sk",
+        "name": "Cíbik stepný"
+      },
+      {
+        "lang": "sl",
+        "name": "Stepska priba"
+      },
+      {
+        "lang": "sv",
+        "name": "Stäppvipa"
+      },
+      {
+        "lang": "tr",
+        "name": "Sürmeli kız kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Кречітка"
+      },
+      {
+        "lang": "zh",
+        "name": "黄颊麦鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus duvaucelli",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Vanellus crassirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka bělohlavá"
+      },
+      {
+        "lang": "en",
+        "name": "Long-toed Lapwing"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus coronatus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kroonkiewiet  of Kiewiet"
+      },
+      {
+        "lang": "cs",
+        "name": "Čejka korunkatá"
+      },
+      {
+        "lang": "en",
+        "name": "Crowned Plover",
+        "synonyms": [
+          "Crowned Lapwing"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus cinereus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "أبو طيط رمادي"
+      },
+      {
+        "lang": "br",
+        "name": "Kornigell penn louet"
+      },
+      {
+        "lang": "cs",
+        "name": "Čejka šedohlavá"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-headed Lapwing"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría ceniza"
+      },
+      {
+        "lang": "fa",
+        "name": "خروس کولی سرخاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "Huppuhyyppä"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau à tête grise"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürkefejű bíbic"
+      },
+      {
+        "lang": "it",
+        "name": "Pavoncella cenerina"
+      },
+      {
+        "lang": "ja",
+        "name": "[[:ja:ケリ"
+      },
+      {
+        "lang": "ko",
+        "name": "민댕기물떼새"
+      },
+      {
+        "lang": "ml",
+        "name": "ചാരത്തലയൻ തിത്തിരി"
+      },
+      {
+        "lang": "ne",
+        "name": "राजहुटिट्याउँ"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijskopkievit"
+      },
+      {
+        "lang": "ru",
+        "name": "Серый чибис"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråhuvad vipa"
+      },
+      {
+        "lang": "vi",
+        "name": "Te vàng"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "灰頭麥雞"
+      },
+      {
+        "lang": "zh",
+        "name": "灰头麦鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus chilensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "čejka jihoamerická"
+      },
+      {
+        "lang": "da",
+        "name": "Sydvibe"
+      },
+      {
+        "lang": "de",
+        "name": "Bronzekiebitz"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Lapwing"
+      },
+      {
+        "lang": "eo",
+        "name": "Sudamerika vanelo"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría Tero",
+        "synonyms": [
+          "Queltehue",
+          "Treile",
+          "Tero"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "lõunakiivitaja"
+      },
+      {
+        "lang": "fi",
+        "name": "eteläamerikanhyyppä"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau téro"
+      },
+      {
+        "lang": "fy",
+        "name": "Sjileenske Ljip"
+      },
+      {
+        "lang": "gn",
+        "name": "Tetẽu"
+      },
+      {
+        "lang": "hu",
+        "name": "pampabíbic"
+      },
+      {
+        "lang": "it",
+        "name": "Pavoncella del Cile"
+      },
+      {
+        "lang": "ja",
+        "name": "ナンベイゲリ",
+        "synonyms": [
+          "nambeitageri"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Chileense kievit"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikatoppvipe",
+        "synonyms": [
+          "Bronsevipe"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "czajka miedziana"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Quero-quero"
+      },
+      {
+        "lang": "pt",
+        "name": "Quero-quero"
+      },
+      {
+        "lang": "ru",
+        "name": "Чилийский чибис"
+      },
+      {
+        "lang": "sk",
+        "name": "cíbik čiernočelý"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydamerikansk vipa"
+      },
+      {
+        "lang": "zh",
+        "name": "凤头距翅麦鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus cayanus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Čejka kulíkovitá"
+      },
+      {
+        "lang": "en",
+        "name": "Pied Lapwing"
+      },
+      {
+        "lang": "pt",
+        "name": "Maçarico-de-esporão"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus armatus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bontkiewiet"
+      },
+      {
+        "lang": "ca",
+        "name": "Fredeluga armada"
+      },
+      {
+        "lang": "cs",
+        "name": "Čejka běločelá"
+      },
+      {
+        "lang": "de",
+        "name": "Waffenkiebitz"
+      },
+      {
+        "lang": "en",
+        "name": "Blacksmith Plover",
+        "synonyms": [
+          "Blacksmith Lapwing"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Avefría armada"
+      },
+      {
+        "lang": "fa",
+        "name": "خروس کولی مسلح"
+      },
+      {
+        "lang": "fi",
+        "name": "Seppähyyppä"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau armé"
+      },
+      {
+        "lang": "hu",
+        "name": "Patkós bíbic"
+      },
+      {
+        "lang": "it",
+        "name": "Pavoncella armata"
+      },
+      {
+        "lang": "nl",
+        "name": "Smidsplevier"
+      },
+      {
+        "lang": "pl",
+        "name": "Czajka srokata"
+      },
+      {
+        "lang": "sv",
+        "name": "Smedvipa"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "黑枕麥雞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vanellus albiceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-headed Lapwing, White-headed Plover",
+        "synonyms": [
+          "White-crowned Plover"
+        ]
+      },
+      {
+        "lang": "cs",
+        "name": "Čejka laločnatá"
+      }
+    ]
+  }
+]

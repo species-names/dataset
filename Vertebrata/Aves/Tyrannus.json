@@ -1,0 +1,690 @@
+[
+  {
+    "scientific_name": "Tyrannus vociferans",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tyran křiklavý"
+      },
+      {
+        "lang": "en",
+        "name": "Cassin's Kingbird"
+      },
+      {
+        "lang": "de",
+        "name": "Cassinkönigstyrann"
+      },
+      {
+        "lang": "da",
+        "name": "Nordlig Kongetyran"
+      },
+      {
+        "lang": "es",
+        "name": "Tirano gritón"
+      },
+      {
+        "lang": "fi",
+        "name": "tarhatyranni"
+      },
+      {
+        "lang": "fr",
+        "name": "Tyran de Cassin"
+      },
+      {
+        "lang": "it",
+        "name": "Tiranno di Cassin"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシボソタイランチョウ",
+        "synonyms": [
+          "hashibosotairanchou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Cassins Koningstiran"
+      },
+      {
+        "lang": "no",
+        "name": "Krattkongetyrann"
+      },
+      {
+        "lang": "pl",
+        "name": "tyran krzykliwy"
+      },
+      {
+        "lang": "ru",
+        "name": "Королевский тиранн Кассина"
+      },
+      {
+        "lang": "sk",
+        "name": "postriežkar krikľavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Cassins kungstyrann"
+      },
+      {
+        "lang": "zh",
+        "name": "卡氏王霸鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus verticalis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tyran západní"
+      },
+      {
+        "lang": "da",
+        "name": "Vestlig Kongetyran"
+      },
+      {
+        "lang": "de",
+        "name": "Arkansaskönigstyrann"
+      },
+      {
+        "lang": "en",
+        "name": "Western Kingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tirano occidental"
+      },
+      {
+        "lang": "et",
+        "name": "lääne-türanntikat"
+      },
+      {
+        "lang": "fi",
+        "name": "niittytyranni"
+      },
+      {
+        "lang": "fr",
+        "name": "Tyran de l'Ouest"
+      },
+      {
+        "lang": "hu",
+        "name": "arkansasi tirannusz"
+      },
+      {
+        "lang": "it",
+        "name": "Tiranno occidentale"
+      },
+      {
+        "lang": "ja",
+        "name": "ニシタイランチョウ",
+        "synonyms": [
+          "nishitairanchou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Arkansaskoningstiran"
+      },
+      {
+        "lang": "no",
+        "name": "Vestkongetyrann"
+      },
+      {
+        "lang": "pl",
+        "name": "tyran bahamski"
+      },
+      {
+        "lang": "pt",
+        "name": "Suiriri-ocidental"
+      },
+      {
+        "lang": "ru",
+        "name": "Западный (королевский) тиранн"
+      },
+      {
+        "lang": "sk",
+        "name": "postriežkár čiernochvostý"
+      },
+      {
+        "lang": "sv",
+        "name": "Västlig kungstyrann"
+      },
+      {
+        "lang": "zh",
+        "name": "西王霸鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus tyrannus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tyran královský",
+        "synonyms": [
+          "tyran obecný"
+        ]
+      },
+      {
+        "lang": "da",
+        "name": "Østlig Kongetyran"
+      },
+      {
+        "lang": "de",
+        "name": "Königstyrann",
+        "synonyms": [
+          "Schieferrücken-Königstyrann"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Eastern Kingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Pitirre americano",
+        "synonyms": [
+          "sirirí migrante",
+          "tirano viajero",
+          "tirano oriental",
+          "benteveo blanco y negro"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "pihatyranni"
+      },
+      {
+        "lang": "fr",
+        "name": "Tyran tritri"
+      },
+      {
+        "lang": "hu",
+        "name": "Keleti királygébics"
+      },
+      {
+        "lang": "it",
+        "name": "Tiranno orientale"
+      },
+      {
+        "lang": "ja",
+        "name": "オウサマタイランチョウ",
+        "synonyms": [
+          "ousamatairanchou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Koningstiran"
+      },
+      {
+        "lang": "no",
+        "name": "Østkongetyrann"
+      },
+      {
+        "lang": "pl",
+        "name": "Tyran północny"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Suiriri-valente"
+      },
+      {
+        "lang": "pt",
+        "name": "Suiriri-valente"
+      },
+      {
+        "lang": "ru",
+        "name": "Восточный королевский тиранн",
+        "synonyms": [
+          "Королевский тиранн"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "postriežkar kráľovský"
+      },
+      {
+        "lang": "sv",
+        "name": "Östlig kungstyrann"
+      },
+      {
+        "lang": "zh",
+        "name": "东王霸鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus savana",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tyran savanový"
+      },
+      {
+        "lang": "da",
+        "name": "Langhalet Kongetyran"
+      },
+      {
+        "lang": "de",
+        "name": "Gabelschwanz-Königstyrann"
+      },
+      {
+        "lang": "en",
+        "name": "Fork-tailed Flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Tijereta sabanera"
+      },
+      {
+        "lang": "et",
+        "name": "lõhissaba-tikat"
+      },
+      {
+        "lang": "fi",
+        "name": "laahustyranni"
+      },
+      {
+        "lang": "fr",
+        "name": "Tyran des savanes"
+      },
+      {
+        "lang": "gn",
+        "name": "Guyra jetapa"
+      },
+      {
+        "lang": "ht",
+        "name": "Pipirit ke fann"
+      },
+      {
+        "lang": "hu",
+        "name": "villásfarkú királygébics"
+      },
+      {
+        "lang": "it",
+        "name": "Tiranno codaforcuta meridionale"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロエンビタイランチョウ",
+        "synonyms": [
+          "zuguroembitairanchou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Vorkstaartkoningstiran"
+      },
+      {
+        "lang": "no",
+        "name": "Gaffeltyrann"
+      },
+      {
+        "lang": "pl",
+        "name": "tyran widłosterny"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Tesourinha"
+      },
+      {
+        "lang": "pt",
+        "name": "Tesourinha-do-campo"
+      },
+      {
+        "lang": "ru",
+        "name": "Вилохвостый королевский тиранн"
+      },
+      {
+        "lang": "sk",
+        "name": "postriežkar lastovičí"
+      },
+      {
+        "lang": "sv",
+        "name": "Gaffelstjärtstyrann"
+      },
+      {
+        "lang": "zh",
+        "name": "叉尾王霸鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus niveigularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Snowy-throated kingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tirano gorginíveo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus melancholicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tyran tropický"
+      },
+      {
+        "lang": "da",
+        "name": "Tropisk Kongetyran"
+      },
+      {
+        "lang": "de",
+        "name": "Trauerkönigstyrann",
+        "synonyms": [
+          "Trauertyrann"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Tropical Kingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tirano melancólico; suirirí real"
+      },
+      {
+        "lang": "fi",
+        "name": "livertäjätyranni"
+      },
+      {
+        "lang": "fr",
+        "name": "Tyran mélancolique"
+      },
+      {
+        "lang": "it",
+        "name": "Tiranno tropicale"
+      },
+      {
+        "lang": "ja",
+        "name": "オリアブタイランチョウ",
+        "synonyms": [
+          "ori-butairanchou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Tropische Koningstiran"
+      },
+      {
+        "lang": "no",
+        "name": "Tropekongetyrann"
+      },
+      {
+        "lang": "pl",
+        "name": "tyran melancholijny"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Suiriri"
+      },
+      {
+        "lang": "pt",
+        "name": "Suiriri",
+        "synonyms": [
+          "Suiriri-comun",
+          "Suiriri-tropical"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Траурный королевский тиранн"
+      },
+      {
+        "lang": "sk",
+        "name": "postriežkár čiernozobý"
+      },
+      {
+        "lang": "sv",
+        "name": "Tropisk kungstyrann"
+      },
+      {
+        "lang": "zh",
+        "name": "热带王霸鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus forficatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tyran vidloocasý"
+      },
+      {
+        "lang": "da",
+        "name": "Sakshalet Kongetyran"
+      },
+      {
+        "lang": "de",
+        "name": "Scherenschwanz-Königstyrann"
+      },
+      {
+        "lang": "en",
+        "name": "Scissor-tailed Flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Tijereta rosada"
+      },
+      {
+        "lang": "et",
+        "name": "käärsaba-tikat"
+      },
+      {
+        "lang": "fi",
+        "name": "saksityranni"
+      },
+      {
+        "lang": "fr",
+        "name": "Tyran à longue queue"
+      },
+      {
+        "lang": "ht",
+        "name": "Pipirit ke long"
+      },
+      {
+        "lang": "hu",
+        "name": "ollósfarkú tirannusz"
+      },
+      {
+        "lang": "it",
+        "name": "Tiranno codaforcuta settentrionale"
+      },
+      {
+        "lang": "ja",
+        "name": "エンビタイランチョウ",
+        "synonyms": [
+          "embitairanchou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Zwaluwstaartkoningstiran"
+      },
+      {
+        "lang": "no",
+        "name": "Saksetyrann"
+      },
+      {
+        "lang": "pl",
+        "name": "tyran różany"
+      },
+      {
+        "lang": "ru",
+        "name": "Ножницехвостый мухолов"
+      },
+      {
+        "lang": "sk",
+        "name": "postriežkár vidlochvostý"
+      },
+      {
+        "lang": "sv",
+        "name": "Saxstjärtstyrann"
+      },
+      {
+        "lang": "zh",
+        "name": "剪尾王霸鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus dominicensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gray Kingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tirano dominicano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus cubensis",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Tirano cubano"
+      },
+      {
+        "lang": "en",
+        "name": "Giant kinbird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus crassirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Thick-billed kingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tirano piquigrueso"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus couchii",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Tirano silbador"
+      },
+      {
+        "lang": "en",
+        "name": "Couch's kingbird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus caudifasciatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tyran karibský"
+      },
+      {
+        "lang": "da",
+        "name": "Storhovedet Kongetyran"
+      },
+      {
+        "lang": "de",
+        "name": "Olivgrauer Königstyrann"
+      },
+      {
+        "lang": "en",
+        "name": "Loggerhead Kingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tirano guatíbere"
+      },
+      {
+        "lang": "et",
+        "name": "antilli türanntikat"
+      },
+      {
+        "lang": "fi",
+        "name": "karibiantyranni"
+      },
+      {
+        "lang": "fr",
+        "name": "Tyran tête-police"
+      },
+      {
+        "lang": "ht",
+        "name": "Pipirit chandèl"
+      },
+      {
+        "lang": "hu",
+        "name": "baráttirannusz"
+      },
+      {
+        "lang": "it",
+        "name": "Tiranno codafasciata"
+      },
+      {
+        "lang": "ja",
+        "name": "オジロハイイロタイランチョウ",
+        "synonyms": [
+          "ojirohaiirotairanchou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Bahamakoningstiran"
+      },
+      {
+        "lang": "no",
+        "name": "Karibkongetyrann"
+      },
+      {
+        "lang": "pl",
+        "name": "tyran zmiennosterny"
+      },
+      {
+        "lang": "ru",
+        "name": "Драчливый королевский тиранн"
+      },
+      {
+        "lang": "sk",
+        "name": "postriežkár karibský"
+      },
+      {
+        "lang": "sv",
+        "name": "Karibisk kungstyrann"
+      },
+      {
+        "lang": "zh",
+        "name": "圆头王霸鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyrannus albogularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Kingbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Suiriri-de-garganta-branca"
+      },
+      {
+        "lang": "es",
+        "name": "Tirano gorgiblanco"
+      }
+    ]
+  }
+]

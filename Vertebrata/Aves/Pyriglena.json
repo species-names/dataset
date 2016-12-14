@@ -1,0 +1,60 @@
+[
+  {
+    "scientific_name": "Pyriglena pernambucensis",
+    "common_names": [
+      {
+        "lang": "pt",
+        "name": "Papa-taoca-de-pernambuco"
+      },
+      {
+        "lang": "en",
+        "name": "Pernambuco fire-eye"
+      },
+      {
+        "lang": "es",
+        "name": "ojodefuego pernambucano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pyriglena leucoptera",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pyriglena leuconota",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-backed Fire-eye"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-taoca"
+      },
+      {
+        "lang": "es",
+        "name": "Ojodefuego dorsiblanco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pyriglena atra",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fringe-backed Fire-eye"
+      },
+      {
+        "lang": "es",
+        "name": "Ojodefuego de Bahía"
+      },
+      {
+        "lang": "pt",
+        "name": "Olho-de-fogo-rendado",
+        "synonyms": [
+          "papa-taoca-da-bahia"
+        ]
+      }
+    ]
+  }
+]

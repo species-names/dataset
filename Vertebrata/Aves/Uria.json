@@ -1,0 +1,351 @@
+[
+  {
+    "scientific_name": "Uria lomvia",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Erev-Brünnich"
+      },
+      {
+        "lang": "ca",
+        "name": "Somorgollaire de Brünnich"
+      },
+      {
+        "lang": "cs",
+        "name": "Alkoun tlustozobý"
+      },
+      {
+        "lang": "da",
+        "name": "Polarlomvie"
+      },
+      {
+        "lang": "de",
+        "name": "Dickschnabellumme"
+      },
+      {
+        "lang": "en",
+        "name": "Brünnich's Guillemot"
+      },
+      {
+        "lang": "es",
+        "name": "Arao de Brünnich",
+        "synonyms": [
+          "arao de pico ancho"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Dikbeka urio"
+      },
+      {
+        "lang": "eu",
+        "name": "Ipar-martin"
+      },
+      {
+        "lang": "fo",
+        "name": "Íslandslomvigi"
+      },
+      {
+        "lang": "fr",
+        "name": "Guillemot de Brünnich"
+      },
+      {
+        "lang": "fy",
+        "name": "Tsjoksnaffelskoet"
+      },
+      {
+        "lang": "is",
+        "name": "Stuttnefja"
+      },
+      {
+        "lang": "it",
+        "name": "Uria di Brünnich"
+      },
+      {
+        "lang": "lt",
+        "name": "Storasnapis narūnėlis"
+      },
+      {
+        "lang": "lv",
+        "name": "Resnknābja kaira"
+      },
+      {
+        "lang": "hu",
+        "name": "Vastagcsőrű lumma"
+      },
+      {
+        "lang": "nl",
+        "name": "Kortbekzeekoet"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシブトウミガラス"
+      },
+      {
+        "lang": "no",
+        "name": "Polarlomvi"
+      },
+      {
+        "lang": "nn",
+        "name": "Polarlomvi"
+      },
+      {
+        "lang": "pl",
+        "name": "Nurzyk polarny"
+      },
+      {
+        "lang": "ru",
+        "name": "Толстоклювая кайра"
+      },
+      {
+        "lang": "fi",
+        "name": "Pohjankiisla"
+      },
+      {
+        "lang": "sv",
+        "name": "Spetsbergsgrissla"
+      },
+      {
+        "lang": "tr",
+        "name": "İnce gagalı dalıcımartı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Uria aalge",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Arau"
+      },
+      {
+        "lang": "bg",
+        "name": "Тънкоклюна кайра"
+      },
+      {
+        "lang": "br",
+        "name": "Erev beg hir"
+      },
+      {
+        "lang": "ca",
+        "name": "Somorgollaire"
+      },
+      {
+        "lang": "cs",
+        "name": "Alkoun úzkozobý"
+      },
+      {
+        "lang": "cw",
+        "name": "Kyddaw lagas gwyn"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylog"
+      },
+      {
+        "lang": "da",
+        "name": "Lomvie"
+      },
+      {
+        "lang": "de",
+        "name": "Trottellumme"
+      },
+      {
+        "lang": "en",
+        "name": "Common Guillemot"
+      },
+      {
+        "lang": "en-us",
+        "name": "Common Murre"
+      },
+      {
+        "lang": "eo",
+        "name": "Longbeka urio"
+      },
+      {
+        "lang": "es",
+        "name": "Arao común"
+      },
+      {
+        "lang": "et",
+        "name": "Lõunatirk"
+      },
+      {
+        "lang": "eu",
+        "name": "Martin"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelänkiisla"
+      },
+      {
+        "lang": "fo",
+        "name": "Lomvigi"
+      },
+      {
+        "lang": "fr",
+        "name": "Guillemot marmette"
+      },
+      {
+        "lang": "frr",
+        "name": "Luum"
+      },
+      {
+        "lang": "fy",
+        "name": "Skoet"
+      },
+      {
+        "lang": "ga",
+        "name": "Éan Aille"
+      },
+      {
+        "lang": "gcf",
+        "name": "Petite mauve"
+      },
+      {
+        "lang": "gd",
+        "name": "Eun dubh an sgadain"
+      },
+      {
+        "lang": "gl",
+        "name": "Arao dos cons"
+      },
+      {
+        "lang": "gv",
+        "name": "Stronnag"
+      },
+      {
+        "lang": "he",
+        "name": "אוריה"
+      },
+      {
+        "lang": "hu",
+        "name": "Lumma"
+      },
+      {
+        "lang": "is",
+        "name": "Langvía"
+      },
+      {
+        "lang": "it",
+        "name": "Uria"
+      },
+      {
+        "lang": "ja",
+        "name": "ウミガラス"
+      },
+      {
+        "lang": "kl",
+        "name": "Appa sigguttooq"
+      },
+      {
+        "lang": "ko",
+        "name": "바다오리"
+      },
+      {
+        "lang": "kw",
+        "name": "Kyddaw lagas gwyn"
+      },
+      {
+        "lang": "la",
+        "name": "Uria"
+      },
+      {
+        "lang": "lt",
+        "name": "Laibasnapis narūnėlis"
+      },
+      {
+        "lang": "lv",
+        "name": "Garknābja kaira"
+      },
+      {
+        "lang": "mt",
+        "name": "Mus Geddumu Rqiq"
+      },
+      {
+        "lang": "nds",
+        "name": "Lumm"
+      },
+      {
+        "lang": "nl",
+        "name": "Zeekoet"
+      },
+      {
+        "lang": "nn",
+        "name": "Lomvi"
+      },
+      {
+        "lang": "no",
+        "name": "Lomvi"
+      },
+      {
+        "lang": "nrm",
+        "name": "Âne dé mé"
+      },
+      {
+        "lang": "pl",
+        "name": "Nurzyk"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Trinta-reis-miudo"
+      },
+      {
+        "lang": "pt",
+        "name": "Arau-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Vriel"
+      },
+      {
+        "lang": "ru",
+        "name": "Тонкоклювая кайра"
+      },
+      {
+        "lang": "sco",
+        "name": "Cuit"
+      },
+      {
+        "lang": "se",
+        "name": "Skárfacielkkis"
+      },
+      {
+        "lang": "sh",
+        "name": "Tankokljuna njorka"
+      },
+      {
+        "lang": "sk",
+        "name": "Alka tenkozobá"
+      },
+      {
+        "lang": "sl",
+        "name": "Lumna"
+      },
+      {
+        "lang": "sv",
+        "name": "Sillgrissla"
+      },
+      {
+        "lang": "sw",
+        "name": "Alka domo-jembamba"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı dalıcımartı"
+      },
+      {
+        "lang": "uk",
+        "name": "Тонкодзьоба кайра"
+      },
+      {
+        "lang": "zea",
+        "name": "Zeêkoet"
+      },
+      {
+        "lang": "zh",
+        "name": "崖海鴉"
+      }
+    ]
+  }
+]

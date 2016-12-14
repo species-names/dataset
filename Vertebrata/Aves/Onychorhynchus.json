@@ -1,0 +1,62 @@
+[
+  {
+    "scientific_name": "Onychorhynchus swainsoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Atlantic royal flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero real atlántico"
+      },
+      {
+        "lang": "pt",
+        "name": "Maria-leque-do-sudeste"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Onychorhynchus occidentalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pacific royal flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero real pacífico"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Onychorhynchus mexicanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern royal flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero real centroamericano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Onychorhynchus coronatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Amazonian Royal Flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero real"
+      },
+      {
+        "lang": "pt",
+        "name": "Maria-leque"
+      }
+    ]
+  }
+]

@@ -1,0 +1,874 @@
+[
+  {
+    "scientific_name": "Limosa limosa",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Swartstertgriet"
+      },
+      {
+        "lang": "ar",
+        "name": "بقويقة سوداء الذيل"
+      },
+      {
+        "lang": "ast",
+        "name": "Abuya de Rau Prietu"
+      },
+      {
+        "lang": "az",
+        "name": "Böyük oxcüllüt"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡыҙғатау"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Вераценьнік вялікі"
+      },
+      {
+        "lang": "be",
+        "name": "Вераценнік вялікі"
+      },
+      {
+        "lang": "bg",
+        "name": "Черноопашат крайбрежен бекас"
+      },
+      {
+        "lang": "bn",
+        "name": "কালালেজ জৌরালি"
+      },
+      {
+        "lang": "br",
+        "name": "Marc'heg lost du"
+      },
+      {
+        "lang": "ca",
+        "name": "Tètol cuanegre"
+      },
+      {
+        "lang": "cs",
+        "name": "Břehouš černoocasý"
+      },
+      {
+        "lang": "cw",
+        "name": "Godwyt tyndhu"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtyn ddu"
+      },
+      {
+        "lang": "da",
+        "name": "Stor kobbersneppe"
+      },
+      {
+        "lang": "de",
+        "name": "Uferschnepfe"
+      },
+      {
+        "lang": "dv",
+        "name": "އެށުންގަ އިލޮޅި"
+      },
+      {
+        "lang": "el",
+        "name": "Βαλτομπεκάτσα"
+      },
+      {
+        "lang": "en",
+        "name": "Black-tailed Godwit"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigravosta limozo"
+      },
+      {
+        "lang": "es",
+        "name": "Aguja colinegra"
+      },
+      {
+        "lang": "et",
+        "name": "Mustsaba-vigle"
+      },
+      {
+        "lang": "eu",
+        "name": "Kuliska buztanbeltz"
+      },
+      {
+        "lang": "fa",
+        "name": "گیلان‌شاه بال‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustapyrstökuiri"
+      },
+      {
+        "lang": "fo",
+        "name": "Reyðspógvi"
+      },
+      {
+        "lang": "fr",
+        "name": "Barge à queue noire"
+      },
+      {
+        "lang": "frr",
+        "name": "Rütjer"
+      },
+      {
+        "lang": "fy",
+        "name": "Skries"
+      },
+      {
+        "lang": "ga",
+        "name": "Guilbneach Earrdhubh"
+      },
+      {
+        "lang": "gd",
+        "name": "Cearra ghob"
+      },
+      {
+        "lang": "gl",
+        "name": "Agulla colinegra"
+      },
+      {
+        "lang": "he",
+        "name": "לימוזה מצויה"
+      },
+      {
+        "lang": "hr",
+        "name": "Crnorepa Muljaca"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy goda"
+      },
+      {
+        "lang": "hy",
+        "name": "Իլիկակտցար մեծ"
+      },
+      {
+        "lang": "id",
+        "name": "Biru laut ekor hitam"
+      },
+      {
+        "lang": "is",
+        "name": "Jaðrakan"
+      },
+      {
+        "lang": "it",
+        "name": "Pittima reale"
+      },
+      {
+        "lang": "ja",
+        "name": "オグロシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "დიდი ლია"
+      },
+      {
+        "lang": "kk",
+        "name": "Үлкен шырғалақ"
+      },
+      {
+        "lang": "ko",
+        "name": "흑꼬리도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Wiseschnepp"
+      },
+      {
+        "lang": "lt",
+        "name": "Griciukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnā puskuitala"
+      },
+      {
+        "lang": "mk",
+        "name": "Црноопашна блатарка"
+      },
+      {
+        "lang": "mn",
+        "name": "Морин цууцал / ᠬᠠᠷ᠎ᠠ ᠰᠡᠭᠦᠯᠲᠦ ᠮᠣᠷᠢᠨ ᠵᠠᠷᠠᠭ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Ekor Hitam"
+      },
+      {
+        "lang": "mt",
+        "name": "Girwiel Prim"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Gruto"
+      },
+      {
+        "lang": "nl",
+        "name": "Grutto"
+      },
+      {
+        "lang": "nn",
+        "name": "Svarthalespove"
+      },
+      {
+        "lang": "no",
+        "name": "Svarthalespove"
+      },
+      {
+        "lang": "pcd",
+        "name": "Boufeumèi"
+      },
+      {
+        "lang": "pl",
+        "name": "Rycyk"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالی پچھ آلا گاڈوٹ"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Macarico-galego"
+      },
+      {
+        "lang": "pt",
+        "name": "Maçarico-de-bico-direito"
+      },
+      {
+        "lang": "rm",
+        "name": "Becassina da riva"
+      },
+      {
+        "lang": "ro",
+        "name": "Sitar de mal"
+      },
+      {
+        "lang": "ru",
+        "name": "Большой веретенник"
+      },
+      {
+        "lang": "rue",
+        "name": "Сукалень"
+      },
+      {
+        "lang": "sah",
+        "name": "Кураҕаччы"
+      },
+      {
+        "lang": "se",
+        "name": "Cáhppesbaðošguškil"
+      },
+      {
+        "lang": "sk",
+        "name": "Brehár čiernochvostý"
+      },
+      {
+        "lang": "sl",
+        "name": "črnorepi kljunač"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjelëza e madhe bishtzezë"
+      },
+      {
+        "lang": "sr",
+        "name": "Muljaca / Мулјача"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödspov"
+      },
+      {
+        "lang": "sw",
+        "name": "Msese Mkia-mweusi"
+      },
+      {
+        "lang": "ta",
+        "name": "Karuvaal Mookkaan"
+      },
+      {
+        "lang": "th",
+        "name": "นกปากแอ่นหางดำ"
+      },
+      {
+        "lang": "tr",
+        "name": "Çamur çulluğu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Улуг ээргииш"
+      },
+      {
+        "lang": "uk",
+        "name": "Великий грицик"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Choắt mỏ thẳng đuôi đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑尾塍鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Limosa lapponica",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bandstertgriet"
+      },
+      {
+        "lang": "ar",
+        "name": "بقويقة مخطط الذيل"
+      },
+      {
+        "lang": "ast",
+        "name": "Aguya Roxa"
+      },
+      {
+        "lang": "az",
+        "name": "Kiçik oxcüllüt"
+      },
+      {
+        "lang": "be",
+        "name": "Малы грыцук"
+      },
+      {
+        "lang": "bg",
+        "name": "Пъстроопашат крайбрежен бекас"
+      },
+      {
+        "lang": "bn",
+        "name": "দাগিলেজ জৌরালি"
+      },
+      {
+        "lang": "br",
+        "name": "Marc'heg ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Tètol cuabarrat"
+      },
+      {
+        "lang": "cs",
+        "name": "Břehouš rudý"
+      },
+      {
+        "lang": "cw",
+        "name": "Godwyt Cough"
+      },
+      {
+        "lang": "cy",
+        "name": "Cyffylog y mor"
+      },
+      {
+        "lang": "da",
+        "name": "Lille kobbersneppe"
+      },
+      {
+        "lang": "de",
+        "name": "Pfuhlschnepfe"
+      },
+      {
+        "lang": "el",
+        "name": "Λαπωνική Βαλτομπεκάτσα"
+      },
+      {
+        "lang": "en",
+        "name": "Bar-tailed Godwit"
+      },
+      {
+        "lang": "eo",
+        "name": "Lapona limozo"
+      },
+      {
+        "lang": "es",
+        "name": "Aguja colipinta",
+        "synonyms": [
+          "becasina de cola barrada"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Vöötsaba-vigle"
+      },
+      {
+        "lang": "eu",
+        "name": "Kuliska gorri"
+      },
+      {
+        "lang": "fi",
+        "name": "Punakuiri"
+      },
+      {
+        "lang": "fo",
+        "name": "Lónspógvi"
+      },
+      {
+        "lang": "fr",
+        "name": "Barge rousse"
+      },
+      {
+        "lang": "frr",
+        "name": "Letj rütjer"
+      },
+      {
+        "lang": "ga",
+        "name": "Guilbneach Stríocearrach"
+      },
+      {
+        "lang": "gd",
+        "name": "Cearra ghob mhor"
+      },
+      {
+        "lang": "gl",
+        "name": "Agulla colipinta"
+      },
+      {
+        "lang": "gv",
+        "name": "Feddag hraie"
+      },
+      {
+        "lang": "he",
+        "name": "לימוזה חומת־בטן"
+      },
+      {
+        "lang": "hr",
+        "name": "Riđa muljača"
+      },
+      {
+        "lang": "hu",
+        "name": "Kis goda"
+      },
+      {
+        "lang": "hy",
+        "name": "Իլիկակտցար փոքր"
+      },
+      {
+        "lang": "id",
+        "name": "Biru-laut ekor-blorok"
+      },
+      {
+        "lang": "is",
+        "name": "Lappajaðrakan"
+      },
+      {
+        "lang": "it",
+        "name": "Pittima minore"
+      },
+      {
+        "lang": "ja",
+        "name": "オオソリハシシギ"
+      },
+      {
+        "lang": "kk",
+        "name": "Кіші шырғалақ"
+      },
+      {
+        "lang": "ko",
+        "name": "큰뒷부리도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Pullschnepp"
+      },
+      {
+        "lang": "lt",
+        "name": "Laplandinis griciukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Sarkanā puskuitala"
+      },
+      {
+        "lang": "mi",
+        "name": "Kūaka"
+      },
+      {
+        "lang": "mn",
+        "name": "Хурган цууцал / ᠮᠣᠷᠢᠨ ᠴᠣᠣᠴᠠᠯᠢ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Ekor Berjalur"
+      },
+      {
+        "lang": "mt",
+        "name": "Girwiel Denbu bl-Istrixxi"
+      },
+      {
+        "lang": "nl",
+        "name": "Rosse grutto"
+      },
+      {
+        "lang": "nn",
+        "name": "Lappspove"
+      },
+      {
+        "lang": "no",
+        "name": "Lappspove"
+      },
+      {
+        "lang": "pcd",
+        "name": "Boufàrie"
+      },
+      {
+        "lang": "pl",
+        "name": "Szlamnik zwyczajny"
+      },
+      {
+        "lang": "pnb",
+        "name": "بار دم آلا گاڈوٹ"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Fuselo"
+      },
+      {
+        "lang": "pt",
+        "name": "Fuselo"
+      },
+      {
+        "lang": "rm",
+        "name": "Becassina da ruina"
+      },
+      {
+        "lang": "ro",
+        "name": "Sitar de mal nordic"
+      },
+      {
+        "lang": "ru",
+        "name": "Малый веретенник"
+      },
+      {
+        "lang": "sah",
+        "name": "Куралай"
+      },
+      {
+        "lang": "se",
+        "name": "Ruksesguškil"
+      },
+      {
+        "lang": "sk",
+        "name": "Brehár hrdzavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Progastorepi kljunač"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjelëza e vogël e bishtvijëzuar"
+      },
+      {
+        "lang": "sr",
+        "name": "Mala muljaca / Мала муљача"
+      },
+      {
+        "lang": "sv",
+        "name": "Myrspov"
+      },
+      {
+        "lang": "sw",
+        "name": "Msese Mkia-miraba"
+      },
+      {
+        "lang": "ta",
+        "name": "Pattaivaal Mookkaan"
+      },
+      {
+        "lang": "th",
+        "name": "นกปากแอ่นหางลาย"
+      },
+      {
+        "lang": "to",
+        "name": "Kiu foaʻunga kula"
+      },
+      {
+        "lang": "tr",
+        "name": "Kıyı çamur çulluğu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Бичии ээргииш"
+      },
+      {
+        "lang": "uk",
+        "name": "Малий грицик"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Choắt mỏ thẳng đuôi vằn"
+      },
+      {
+        "lang": "zh",
+        "name": "斑尾塍鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Limosa haemastica",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Amerikaanse Griet"
+      },
+      {
+        "lang": "br",
+        "name": "Marc'heg Hudson"
+      },
+      {
+        "lang": "ca",
+        "name": "Tètol de Hudson",
+        "synonyms": [
+          "Břehouš aljašský"
+        ]
+      },
+      {
+        "lang": "cs",
+        "name": "břehouš aljašský"
+      },
+      {
+        "lang": "da",
+        "name": "Canadisk Kobbersneppe"
+      },
+      {
+        "lang": "de",
+        "name": "Hudsonschnepfe"
+      },
+      {
+        "lang": "en",
+        "name": "Hudsonian Godwit"
+      },
+      {
+        "lang": "eo",
+        "name": "Hudsona limozo"
+      },
+      {
+        "lang": "es",
+        "name": "Zarapito pico recto",
+        "synonyms": [
+          "Aguja Café"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "tumevigle"
+      },
+      {
+        "lang": "fi",
+        "name": "eskimokuiri"
+      },
+      {
+        "lang": "fr",
+        "name": "Barge hudsonienne"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu'i"
+      },
+      {
+        "lang": "ht",
+        "name": "Kouli vant blanch"
+      },
+      {
+        "lang": "hu",
+        "name": "feketeszárnyú goda"
+      },
+      {
+        "lang": "is",
+        "name": "Mýrajaðrakan"
+      },
+      {
+        "lang": "it",
+        "name": "Pittima dell'Hudson"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカオグロシギ",
+        "synonyms": [
+          "amerikashigi"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "캐나다흑꼬리도요"
+      },
+      {
+        "lang": "lt",
+        "name": "Kanadinis griciukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Hudsongrutto",
+        "synonyms": [
+          "Rode Grutto"
+        ]
+      },
+      {
+        "lang": "no",
+        "name": "Svartvingespove"
+      },
+      {
+        "lang": "pl",
+        "name": "Szlamnik amerykański"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-de-bico-virado"
+      },
+      {
+        "lang": "pt",
+        "name": "Macaricao de bico virado"
+      },
+      {
+        "lang": "ru",
+        "name": "Канадский веретенник"
+      },
+      {
+        "lang": "sk",
+        "name": "brehár jarabý"
+      },
+      {
+        "lang": "sl",
+        "name": "pepelasti kljunač"
+      },
+      {
+        "lang": "sv",
+        "name": "Hudsonspov"
+      },
+      {
+        "lang": "tr",
+        "name": "Hudson çamurçulluğu"
+      },
+      {
+        "lang": "zh",
+        "name": "棕塍鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Limosa fedoa",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Американски крайбрежен бекас"
+      },
+      {
+        "lang": "br",
+        "name": "Marc'heg marellek"
+      },
+      {
+        "lang": "ca",
+        "name": "Tètol marbrenc"
+      },
+      {
+        "lang": "cs",
+        "name": "břehouš velký"
+      },
+      {
+        "lang": "da",
+        "name": "Præriekobbersneppe"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanische Pfuhlschnepfe",
+        "synonyms": [
+          "Marmorschnepfe"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Marbled Godwit"
+      },
+      {
+        "lang": "eo",
+        "name": "Marmora limozo"
+      },
+      {
+        "lang": "es",
+        "name": "Aguja Canela",
+        "synonyms": [
+          "Picopando canelo"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "preeriavigle"
+      },
+      {
+        "lang": "fi",
+        "name": "ruostekuiri"
+      },
+      {
+        "lang": "fr",
+        "name": "Barge marbrée"
+      },
+      {
+        "lang": "ht",
+        "name": "Kouli takte"
+      },
+      {
+        "lang": "hu",
+        "name": "márványos goda"
+      },
+      {
+        "lang": "it",
+        "name": "Pittima marmoreggiata"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカオオソリハシシギ",
+        "synonyms": [
+          "amerikaoosorihashishigi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Marmurinis griciukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Marmergrutto"
+      },
+      {
+        "lang": "no",
+        "name": "Kanelspove"
+      },
+      {
+        "lang": "pl",
+        "name": "Szlamnik duży"
+      },
+      {
+        "lang": "pt-br",
+        "name": "maçarico-marmóreo"
+      },
+      {
+        "lang": "pt",
+        "name": "Maçarico-marmóreo"
+      },
+      {
+        "lang": "ru",
+        "name": "Пятнистый веретенник"
+      },
+      {
+        "lang": "sk",
+        "name": "brehár mramorovaný"
+      },
+      {
+        "lang": "sv",
+        "name": "Präriespov"
+      },
+      {
+        "lang": "zh",
+        "name": "云斑塍鹬"
+      }
+    ]
+  }
+]

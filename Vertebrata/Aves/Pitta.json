@@ -1,0 +1,538 @@
+[
+  {
+    "scientific_name": "Pitta versicolor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Noisy Pitta"
+      },
+      {
+        "lang": "es",
+        "name": "Pita bulliciosa"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève versicolore"
+      },
+      {
+        "lang": "hu",
+        "name": "Lármás pitta"
+      },
+      {
+        "lang": "id",
+        "name": "Paok lantang"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische pitta"
+      },
+      {
+        "lang": "pl",
+        "name": "Kurtaczek hałaśliwy"
+      },
+      {
+        "lang": "pnb",
+        "name": "رولا نورنگا"
+      },
+      {
+        "lang": "ru",
+        "name": "Крикливая питта"
+      },
+      {
+        "lang": "sv",
+        "name": "Larmpitta"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt ồn ào"
+      },
+      {
+        "lang": "zh",
+        "name": "噪八色鸫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta venusta",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Graceful Pitta"
+      },
+      {
+        "lang": "es",
+        "name": "Pita graciosa"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève gracieuse"
+      },
+      {
+        "lang": "hu",
+        "name": "Vénuszpitta"
+      },
+      {
+        "lang": "it",
+        "name": "Pitta graziosa"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkruinpitta"
+      },
+      {
+        "lang": "pnb",
+        "name": "سجیا نورنگا"
+      },
+      {
+        "lang": "sv",
+        "name": "Sumatrapitta"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt chỏm đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑冠八色鸫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta ussheri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-and-crimson Pitta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta superba",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pitta steerii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Azure-breasted Pitta"
+      },
+      {
+        "lang": "ja",
+        "name": "ソライロヤイロチョウ"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève de Steere"
+      },
+      {
+        "lang": "hu",
+        "name": "Azúrmellű pitta"
+      },
+      {
+        "lang": "nl",
+        "name": "Steere's pitta"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیلی چھاتیوالا نورنگا"
+      },
+      {
+        "lang": "sv",
+        "name": "Azurpitta"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt ngực thiên thanh"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝胸八色鸫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta soror",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pitta sordida",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kappenpitta"
+      },
+      {
+        "lang": "en",
+        "name": "Hooded Pitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève à capuchon"
+      },
+      {
+        "lang": "hu",
+        "name": "Kucsmás pitta"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロヤイロチョウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Kappitta"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноголовая питта"
+      },
+      {
+        "lang": "zh",
+        "name": "绿胸八色鸫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta schneideri",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Pita de Schneider"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta reichenowi",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Groenborspitta"
+      },
+      {
+        "lang": "en",
+        "name": "Green-breasted Pitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève à poitrine verte"
+      },
+      {
+        "lang": "hu",
+        "name": "Zöldmellű pitta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta phayrei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pitta oatesi",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Pita rojiza"
+      },
+      {
+        "lang": "en",
+        "name": "Rusty-naped Pitta"
+      },
+      {
+        "lang": "zh",
+        "name": "栗头八色鸫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta nympha",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Keijupitta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta nipalensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-naped Pitta"
+      },
+      {
+        "lang": "es",
+        "name": "Pita nuquiazul"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝枕八色鸫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta moluccensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-winged Pitta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta megarhyncha",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mangrove Pitta"
+      },
+      {
+        "lang": "th",
+        "name": "นกแต้วแร้วป่าโกงกาง"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta maxima",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ivory-breasted Pitta"
+      },
+      {
+        "lang": "es",
+        "name": "Pita de Halmahera"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève d'Halmahera"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérmellű pitta"
+      },
+      {
+        "lang": "it",
+        "name": "Pitta pettoavorio"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote pitta"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹیچھاتیوالا نورنگا"
+      },
+      {
+        "lang": "ru",
+        "name": "Питта-великан"
+      },
+      {
+        "lang": "sv",
+        "name": "Halmaherapitta"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt ngực ngà"
+      },
+      {
+        "lang": "zh",
+        "name": "白胸八色鸫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta kochi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Whiskered Pitta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta iris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rainbow Pitta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta gurneyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gurney's Pitta"
+      },
+      {
+        "lang": "es",
+        "name": "Pita de Gurney"
+      },
+      {
+        "lang": "hu",
+        "name": "Sziámi pitta"
+      },
+      {
+        "lang": "th",
+        "name": "นกแต้วแร้วท้องดำ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta guajana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Banded Pitta"
+      },
+      {
+        "lang": "hu",
+        "name": "Tűzpitta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta granatina",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Garnet Pitta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta erythrogaster",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-bellied Pitta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta elliotii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pitta elegans",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "インドネシアノドグロヤイロチョウ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta dohertyi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pitta cyanea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue Pitta"
+      },
+      {
+        "lang": "zh",
+        "name": "藍八色鶇"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta caerulea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pitta brachyura",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "インドヤイロチョウ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta baudii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-headed Pitta"
+      },
+      {
+        "lang": "es",
+        "name": "Pita cabeciazul"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève à tête bleue"
+      },
+      {
+        "lang": "hu",
+        "name": "Koronás pitta"
+      },
+      {
+        "lang": "it",
+        "name": "Pitta testa azzurra"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Pacat Kepala Merah"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwkoppitta"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیلسرا نورنگا"
+      },
+      {
+        "lang": "ru",
+        "name": "Синегрудая питта"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåhuvad pitta"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt đầu lam"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝头八色鸫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta arquata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Pitta angolensis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Angolapitta"
+      },
+      {
+        "lang": "en",
+        "name": "African Pitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève d'Angola"
+      },
+      {
+        "lang": "hu",
+        "name": "Afrikai pitta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pitta anerythra",
+    "common_names": []
+  }
+]

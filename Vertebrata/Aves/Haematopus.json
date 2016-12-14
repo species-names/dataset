@@ -1,0 +1,555 @@
+[
+  {
+    "scientific_name": "Haematopus unicolor",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ústřičník proměnlivý"
+      },
+      {
+        "lang": "en",
+        "name": "Variable Oystercatcher"
+      },
+      {
+        "lang": "fi",
+        "name": "Nokimeriharakka"
+      },
+      {
+        "lang": "sv",
+        "name": "Nyazeelandstrandskata"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus palliatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ústřičník americký"
+      },
+      {
+        "lang": "en",
+        "name": "American Oystercatcher"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika hematopo"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカミヤコドリ"
+      },
+      {
+        "lang": "pt",
+        "name": "Pirupiru"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk strandskata"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus ostralegus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bonttobie"
+      },
+      {
+        "lang": "ar",
+        "name": "أكل المحار"
+      },
+      {
+        "lang": "ast",
+        "name": "Levantallámpares"
+      },
+      {
+        "lang": "az",
+        "name": "Sağ-sağan cüllüt"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡом һайыҫҡаны"
+      },
+      {
+        "lang": "be",
+        "name": "Крывок"
+      },
+      {
+        "lang": "bg",
+        "name": "Стридояд"
+      },
+      {
+        "lang": "br",
+        "name": "Morbig-Eurazia"
+      },
+      {
+        "lang": "ca",
+        "name": "Garsa de mar"
+      },
+      {
+        "lang": "cs",
+        "name": "Ústřičník velký"
+      },
+      {
+        "lang": "cw",
+        "name": "Morbyasen"
+      },
+      {
+        "lang": "cy",
+        "name": "Pioden y Môr"
+      },
+      {
+        "lang": "da",
+        "name": "Strandskade"
+      },
+      {
+        "lang": "de",
+        "name": "Austernfischer"
+      },
+      {
+        "lang": "el",
+        "name": "Στρειδοφάγος"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Oystercatcher"
+      },
+      {
+        "lang": "eo",
+        "name": "hematopo"
+      },
+      {
+        "lang": "es",
+        "name": "Ostrero euroasiático"
+      },
+      {
+        "lang": "et",
+        "name": "Merisk"
+      },
+      {
+        "lang": "eu",
+        "name": "Itsas mika"
+      },
+      {
+        "lang": "fi",
+        "name": "meriharakka"
+      },
+      {
+        "lang": "fo",
+        "name": "Tjaldur"
+      },
+      {
+        "lang": "fr",
+        "name": "Huîtrier pie"
+      },
+      {
+        "lang": "frr",
+        "name": "Liiw"
+      },
+      {
+        "lang": "fy",
+        "name": "Strânljip"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadán",
+        "synonyms": [
+          "Roilleach"
+        ]
+      },
+      {
+        "lang": "gd",
+        "name": "Gille-Brìghde"
+      },
+      {
+        "lang": "gl",
+        "name": "Gabita",
+        "synonyms": [
+          "gavita"
+        ]
+      },
+      {
+        "lang": "gv",
+        "name": "Bridgeen"
+      },
+      {
+        "lang": "he",
+        "name": "שלצדף החוף"
+      },
+      {
+        "lang": "hr",
+        "name": "Oštrigar"
+      },
+      {
+        "lang": "hu",
+        "name": "Csigaforgató"
+      },
+      {
+        "lang": "hy",
+        "name": "Կաչաղակ կտցար"
+      },
+      {
+        "lang": "is",
+        "name": "Tjaldur"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia di mare",
+        "synonyms": [
+          "ostrichiere"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ミヤコドリ"
+      },
+      {
+        "lang": "ka",
+        "name": "სირკაჭკჭი"
+      },
+      {
+        "lang": "kk",
+        "name": "Бізтұмсық"
+      },
+      {
+        "lang": "ko",
+        "name": "검은머리물떼새"
+      },
+      {
+        "lang": "lt",
+        "name": "Jūrinė šarka"
+      },
+      {
+        "lang": "lb",
+        "name": "Mierkréi"
+      },
+      {
+        "lang": "lv",
+        "name": "Jūras žagata"
+      },
+      {
+        "lang": "mi",
+        "name": "Torea"
+      },
+      {
+        "lang": "mk",
+        "name": "Властелица остригер"
+      },
+      {
+        "lang": "ml",
+        "name": "മണ്ണാത്തിപ്പക്ഷി"
+      },
+      {
+        "lang": "mrj",
+        "name": "Алавӹтельӹ"
+      },
+      {
+        "lang": "mt",
+        "name": "Gallina tal-Baħar"
+      },
+      {
+        "lang": "nl",
+        "name": "Scholekster"
+      },
+      {
+        "lang": "nn",
+        "name": "Tjeld"
+      },
+      {
+        "lang": "no",
+        "name": "Tjeld"
+      },
+      {
+        "lang": "pl",
+        "name": "Ostrygojad zwyczajny"
+      },
+      {
+        "lang": "pt",
+        "name": "Ostraceiro-europeu"
+      },
+      {
+        "lang": "rm",
+        "name": "Austrel"
+      },
+      {
+        "lang": "ro",
+        "name": "Scoicar"
+      },
+      {
+        "lang": "ru",
+        "name": "Кулик-сорока"
+      },
+      {
+        "lang": "se",
+        "name": "Cagán"
+      },
+      {
+        "lang": "sk",
+        "name": "Lastúrničiar strakatý"
+      },
+      {
+        "lang": "sl",
+        "name": "školjkarica"
+      },
+      {
+        "lang": "sq",
+        "name": "Laraska e detit"
+      },
+      {
+        "lang": "sr",
+        "name": "Ostrigar / Остригар"
+      },
+      {
+        "lang": "sv",
+        "name": "Strandskata"
+      },
+      {
+        "lang": "sw",
+        "name": "Kizamichaza"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı poyraz kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Кулик-сорока"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim mò sò"
+      },
+      {
+        "lang": "zea",
+        "name": "Bonte piet"
+      },
+      {
+        "lang": "zh",
+        "name": "蛎鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus moquini",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ústřičník jihoafrický"
+      },
+      {
+        "lang": "en",
+        "name": "African Oystercatcher"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカクロミヤコドリ"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapstrandskata"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus meadewaldoi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ústřičník kanárský"
+      },
+      {
+        "lang": "en",
+        "name": "Canarian Black Oystercatcher"
+      },
+      {
+        "lang": "fi",
+        "name": "Kanarianmeriharakka"
+      },
+      {
+        "lang": "zh",
+        "name": "加那利黑蠣鷸"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus longirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ústřičník dlouhozobý"
+      },
+      {
+        "lang": "de",
+        "name": "Australischer Austernfischer"
+      },
+      {
+        "lang": "en",
+        "name": "Pied Oystercatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Ostrero pío australiano"
+      },
+      {
+        "lang": "fr",
+        "name": "Huîtrier à long bec"
+      },
+      {
+        "lang": "ja",
+        "name": "オーストラリアミヤコドリ"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk strandskata"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus leucopodus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ústřičník žlutooký"
+      },
+      {
+        "lang": "sv",
+        "name": "Magellanstrandskata"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus fuliginosus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ústřičník australský"
+      },
+      {
+        "lang": "sv",
+        "name": "Sotstrandskata"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus finschi",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "صائد المحار الفنشي"
+      },
+      {
+        "lang": "br",
+        "name": "Morbig Finsch"
+      },
+      {
+        "lang": "de",
+        "name": "Südinsel-Austernfischer"
+      },
+      {
+        "lang": "en",
+        "name": "South Island Pied Oystercatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Ostrero de Finsch"
+      },
+      {
+        "lang": "fa",
+        "name": "صدف‌خوار جزیره جنوب"
+      },
+      {
+        "lang": "fi",
+        "name": "Uudenseelanninmeriharakka"
+      },
+      {
+        "lang": "fr",
+        "name": "Huîtrier de Finsch"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia di mare di South Island"
+      },
+      {
+        "lang": "ja",
+        "name": "ミナミミヤコドリ"
+      },
+      {
+        "lang": "mi",
+        "name": "Tōrea nl Finsch' scholekster"
+      },
+      {
+        "lang": "nn",
+        "name": "Nyzealandtjeld"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydstrandskata"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus chathamensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ústřičník chathamský"
+      },
+      {
+        "lang": "de",
+        "name": "Chatham-Austernfischer"
+      },
+      {
+        "lang": "en",
+        "name": "Chatham Island oystercatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Ostrero de las Chatham"
+      },
+      {
+        "lang": "fa",
+        "name": "صدف‌خوار چاتهام"
+      },
+      {
+        "lang": "fr",
+        "name": "Huîtrier des Chatham"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia di mare delle isole Chatham"
+      },
+      {
+        "lang": "sv",
+        "name": "Chathamstrandskata"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus bachmani",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ústřičník západní"
+      },
+      {
+        "lang": "sv",
+        "name": "Klippstrandskata"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Haematopus ater",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ústřičník tmavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydamerikansk strandskata"
+      }
+    ]
+  }
+]

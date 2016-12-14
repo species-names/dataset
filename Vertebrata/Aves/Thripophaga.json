@@ -1,0 +1,57 @@
+[
+  {
+    "scientific_name": "Thripophaga macroura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Striated Softtail"
+      },
+      {
+        "lang": "es",
+        "name": "Colasuave estriado"
+      },
+      {
+        "lang": "pt",
+        "name": "Rabo-amarelo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thripophaga fusciceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Plain Softtail"
+      },
+      {
+        "lang": "es",
+        "name": "Colasuave sencillo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thripophaga cherriei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orinoco Softtail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thripophaga berlepschi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Russet-mantled Softtail"
+      },
+      {
+        "lang": "es",
+        "name": "Colasuave dorsirrufo",
+        "synonyms": [
+          "espinero castaño"
+        ]
+      }
+    ]
+  }
+]

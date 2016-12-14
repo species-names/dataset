@@ -1,0 +1,73 @@
+[
+  {
+    "scientific_name": "Manacus vitellinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-collared manakin"
+      },
+      {
+        "lang": "es",
+        "name": "Saltarín cuellidorado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Manacus manacus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Weißbrustpipra"
+      },
+      {
+        "lang": "en",
+        "name": "White-bearded Manakin"
+      },
+      {
+        "lang": "es",
+        "name": "Saltarín barbiblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Manakin casse-noisette"
+      },
+      {
+        "lang": "nl",
+        "name": "Bonte Manakin"
+      },
+      {
+        "lang": "pt",
+        "name": "Rendeira",
+        "synonyms": [
+          "Rendeira-branca"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Manacus candei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-collared manakin"
+      },
+      {
+        "lang": "es",
+        "name": "Saltarín cuelliblanco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Manacus aurantiacus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-collared manakin"
+      },
+      {
+        "lang": "es",
+        "name": "Saltarín cuellinaranja"
+      }
+    ]
+  }
+]

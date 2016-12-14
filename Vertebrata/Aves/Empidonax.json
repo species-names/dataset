@@ -1,0 +1,507 @@
+[
+  {
+    "scientific_name": "Empidonax wrightii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "American gray flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero gris"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax virescens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Acadian Flycatcher"
+      },
+      {
+        "lang": "fi",
+        "name": "Korpisieppari"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero verdoso"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax traillii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tyranovec vrbový"
+      },
+      {
+        "lang": "da",
+        "name": "Pileempidonax"
+      },
+      {
+        "lang": "de",
+        "name": "Weidenschnäppertyrann"
+      },
+      {
+        "lang": "en",
+        "name": "Willow Flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero saucero"
+      },
+      {
+        "lang": "et",
+        "name": "paju-salutikat"
+      },
+      {
+        "lang": "fi",
+        "name": "pajusieppari"
+      },
+      {
+        "lang": "fr",
+        "name": "Moucherolle des saules"
+      },
+      {
+        "lang": "is",
+        "name": "Elrigreipur"
+      },
+      {
+        "lang": "it",
+        "name": "Pigliamosche di Traille"
+      },
+      {
+        "lang": "ja",
+        "name": "メジロハエトリ",
+        "synonyms": [
+          "mejirohaetori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Wilgenfeetiran"
+      },
+      {
+        "lang": "no",
+        "name": "Vierempid"
+      },
+      {
+        "lang": "pl",
+        "name": "Empidonka mała"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maria-fibiu"
+      },
+      {
+        "lang": "pt",
+        "name": "Maria-fibiu"
+      },
+      {
+        "lang": "ru",
+        "name": "Ивовая мухоловка"
+      },
+      {
+        "lang": "sk",
+        "name": "pamuchár vŕbový"
+      },
+      {
+        "lang": "sv",
+        "name": "Pilempid"
+      },
+      {
+        "lang": "zh",
+        "name": "纹霸鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax occidentalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cordilleran Flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero cordillerano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax oberholseri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dusky Flycatcher"
+      },
+      {
+        "lang": "fi",
+        "name": "Pensassieppari"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero oscuro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax minimus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tyranovec malinký"
+      },
+      {
+        "lang": "da",
+        "name": "Lille Empidonax"
+      },
+      {
+        "lang": "de",
+        "name": "Gartentyrann",
+        "synonyms": [
+          "Zwergschnäppertyrann"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Least Flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero mínimo"
+      },
+      {
+        "lang": "et",
+        "name": "vahtra-salutikat"
+      },
+      {
+        "lang": "fi",
+        "name": "pikkusieppari"
+      },
+      {
+        "lang": "fr",
+        "name": "Moucherolle tchébec"
+      },
+      {
+        "lang": "hu",
+        "name": "törpetirannusz"
+      },
+      {
+        "lang": "is",
+        "name": "Stúfgreipur"
+      },
+      {
+        "lang": "it",
+        "name": "Pigliamosche minimo"
+      },
+      {
+        "lang": "ja",
+        "name": "チビメジロハエトリ",
+        "synonyms": [
+          "chibimejirohaetori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine Feetiran"
+      },
+      {
+        "lang": "no",
+        "name": "Småempid"
+      },
+      {
+        "lang": "pl",
+        "name": "empidonka siwa"
+      },
+      {
+        "lang": "ru",
+        "name": "Малая мухоловка"
+      },
+      {
+        "lang": "sk",
+        "name": "pamuchár záhradný"
+      },
+      {
+        "lang": "sv",
+        "name": "Dvärgempid"
+      },
+      {
+        "lang": "zh",
+        "name": "小纹霸鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax hammondii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hammond's Flycatcher"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuorisieppari"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero de Hammond"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax fulvifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-breasted Flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero pechicanelo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax flaviventris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tyranovec žlutobřichý"
+      },
+      {
+        "lang": "da",
+        "name": "Gulbuget Empidonax"
+      },
+      {
+        "lang": "de",
+        "name": "Birkenschnäppertyrann"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-bellied Flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero ventriamarillo"
+      },
+      {
+        "lang": "et",
+        "name": "kuuse-salutikat"
+      },
+      {
+        "lang": "fi",
+        "name": "kuusisieppari"
+      },
+      {
+        "lang": "fr",
+        "name": "Moucherolle à ventre jaune"
+      },
+      {
+        "lang": "hu",
+        "name": "sárgahasú tirannusz"
+      },
+      {
+        "lang": "it",
+        "name": "Pigliamosche ventregiallo"
+      },
+      {
+        "lang": "ja",
+        "name": "キバラメジロハエトリ",
+        "synonyms": [
+          "kibaramejirohaetori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Berkenfeetiran"
+      },
+      {
+        "lang": "no",
+        "name": "Gulbukempid"
+      },
+      {
+        "lang": "pl",
+        "name": "empidonka żółtobrzucha"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтобрюхая мухоловка"
+      },
+      {
+        "lang": "sk",
+        "name": "pamuchár žltobruchý"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulbukad empid"
+      },
+      {
+        "lang": "zh",
+        "name": "黃腹紋霸鶲"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax flavescens",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "tyranovec olivovožlutavý"
+      },
+      {
+        "lang": "da",
+        "name": "Gullig Empidonax"
+      },
+      {
+        "lang": "de",
+        "name": "Gilbufertyrann",
+        "synonyms": [
+          "Sumpfschnäppertyrann"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Yellowish Flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero Amarillento"
+      },
+      {
+        "lang": "fi",
+        "name": "pilvimetsäsieppari"
+      },
+      {
+        "lang": "fr",
+        "name": "Moucherolle jaunâtre"
+      },
+      {
+        "lang": "hu",
+        "name": "sárgás tirannusz"
+      },
+      {
+        "lang": "it",
+        "name": "Pigliamosche giallastro"
+      },
+      {
+        "lang": "ja",
+        "name": "キメジロハエトリ",
+        "synonyms": [
+          "kimejirohaetori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Gele feetiran"
+      },
+      {
+        "lang": "no",
+        "name": "Gulempid"
+      },
+      {
+        "lang": "pl",
+        "name": "empidonka żółtawa"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтоватый мухолов"
+      },
+      {
+        "lang": "sk",
+        "name": "pamuchár čistinový"
+      },
+      {
+        "lang": "sv",
+        "name": "Höglandsempid"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarımsı sinekkapan"
+      },
+      {
+        "lang": "zh",
+        "name": "淡黃紋霸鶲"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax difficilis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pacific-slope Flycatcher"
+      },
+      {
+        "lang": "fi",
+        "name": "Metsäsieppari"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero del Pacífico"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax atriceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-capped Flycatcher"
+      },
+      {
+        "lang": "fi",
+        "name": "Nokipääsieppari"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero cabecinegro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax alnorum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Alder Flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero alisero"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-moscas-de-alder"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax albigularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero gorgiblanco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Empidonax affinis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pine flycatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquero de los pinos"
+      }
+    ]
+  }
+]

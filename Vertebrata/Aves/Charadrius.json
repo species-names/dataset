@@ -1,0 +1,2383 @@
+[
+  {
+    "scientific_name": "Charadrius wilsonia",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "زقزاق ويلسوني"
+      },
+      {
+        "lang": "br",
+        "name": "Nouelig Wilson"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol de Wilson"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík tlustozobý"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiad torchog Wilson"
+      },
+      {
+        "lang": "en",
+        "name": "Wilson's Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo Piquigrueso"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم ویلسون"
+      },
+      {
+        "lang": "fi",
+        "name": "Paksunokkatylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier de Wilson"
+      },
+      {
+        "lang": "hu",
+        "name": "Wilson-lile"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere di Wilson"
+      },
+      {
+        "lang": "nl",
+        "name": "Dikbekplevier"
+      },
+      {
+        "lang": "pt",
+        "name": "Batuíra-bicuda"
+      },
+      {
+        "lang": "sv",
+        "name": "Wilsonstrandpipare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius vociferus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Nouelig kildir"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol cua-roig"
+      },
+      {
+        "lang": "cs",
+        "name": "kulík rezavoocasý"
+      },
+      {
+        "lang": "da",
+        "name": "Kildire"
+      },
+      {
+        "lang": "de",
+        "name": "Keilschwanz-Regenpfeifer"
+      },
+      {
+        "lang": "en",
+        "name": "Killdeer"
+      },
+      {
+        "lang": "eo",
+        "name": "Kripluvio"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo colirrojo",
+        "synonyms": [
+          "chorlo gritón"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "amerikantylli"
+      },
+      {
+        "lang": "fo",
+        "name": "Tvíringd svarthálsa"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier kildir"
+      },
+      {
+        "lang": "ga",
+        "name": "Feadóg ghlórach"
+      },
+      {
+        "lang": "gl",
+        "name": "Píllara rabirrubia"
+      },
+      {
+        "lang": "hu",
+        "name": "Ékfarkú lile"
+      },
+      {
+        "lang": "is",
+        "name": "Skræklóa"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere americano"
+      },
+      {
+        "lang": "ja",
+        "name": "フタオビチドリ",
+        "synonyms": [
+          "futaobichidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Killdeerplevier"
+      },
+      {
+        "lang": "no",
+        "name": "Tobeltelo"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąądijádí"
+      },
+      {
+        "lang": "pl",
+        "name": "sieweczka krzykliwa"
+      },
+      {
+        "lang": "pt",
+        "name": "Borrelho-de-dupla-coleira"
+      },
+      {
+        "lang": "ru",
+        "name": "Крикливый зуёк"
+      },
+      {
+        "lang": "sk",
+        "name": "kulík krikľavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Skrikstrandpipare"
+      },
+      {
+        "lang": "zh",
+        "name": "双领鸻"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius veredus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "زقزاق مشرقي"
+      },
+      {
+        "lang": "bg",
+        "name": "Степен дъждосвирец"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol oriental"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík rezavoprsý"
+      },
+      {
+        "lang": "da",
+        "name": "Gobipræstekrave"
+      },
+      {
+        "lang": "de",
+        "name": "Hufeisen-Regenpfeifer",
+        "synonyms": [
+          "Orientregenpfeifer",
+          "Steppenregenpfeifer"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Oriental Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlito asiático grande"
+      },
+      {
+        "lang": "et",
+        "name": "Kõnnutüll"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم شرقی"
+      },
+      {
+        "lang": "fi",
+        "name": "Gobintylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier oriental"
+      },
+      {
+        "lang": "hu",
+        "name": "Barnaszárnyú lile"
+      },
+      {
+        "lang": "id",
+        "name": "Cerek Asia",
+        "synonyms": [
+          "Kèra-kèra"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Corriere pettocastano"
+      },
+      {
+        "lang": "ja",
+        "name": "オオチドリ"
+      },
+      {
+        "lang": "kk",
+        "name": "Восточный зуек"
+      },
+      {
+        "lang": "ko",
+        "name": "큰물떼새"
+      },
+      {
+        "lang": "mn",
+        "name": "Дорнотын хиазат"
+      },
+      {
+        "lang": "ms",
+        "name": "Rapang Timor"
+      },
+      {
+        "lang": "nl",
+        "name": "Steppeplevier"
+      },
+      {
+        "lang": "no",
+        "name": "Steppelo"
+      },
+      {
+        "lang": "pl",
+        "name": "Sieweczka stepowa"
+      },
+      {
+        "lang": "pt",
+        "name": "Batuíra-oriental"
+      },
+      {
+        "lang": "pnb",
+        "name": "اورینٹل پلوور"
+      },
+      {
+        "lang": "ru",
+        "name": "Восточный зуек",
+        "synonyms": [
+          "Восточный зуёк",
+          "Зуек восточный"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "Kulík podkovár"
+      },
+      {
+        "lang": "sv",
+        "name": "Orientpipare"
+      },
+      {
+        "lang": "th",
+        "name": "นกหัวโตขายาว"
+      },
+      {
+        "lang": "vi",
+        "name": "Choi choi châu Á"
+      },
+      {
+        "lang": "zh",
+        "name": "东方鸻"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius tricollaris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík třípásý"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius thoracicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík madagaskarský"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius semipalmatus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Nouelig dambalvezek"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol semipalmat"
+      },
+      {
+        "lang": "cs",
+        "name": "kulík kanadský"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Præstekrave"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanischer Sandregenpfeifer"
+      },
+      {
+        "lang": "en",
+        "name": "Semipalmated Plover"
+      },
+      {
+        "lang": "eo",
+        "name": "Duonreta pluvio"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo Semipalmeado"
+      },
+      {
+        "lang": "et",
+        "name": "ameerika tundratüll"
+      },
+      {
+        "lang": "eu",
+        "name": "Corriol semipalmat"
+      },
+      {
+        "lang": "fi",
+        "name": "kanadantylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier semipalmé"
+      },
+      {
+        "lang": "gcf",
+        "name": "Collier"
+      },
+      {
+        "lang": "gl",
+        "name": "píllara semipalmada"
+      },
+      {
+        "lang": "gn",
+        "name": "Mbatuirusu"
+      },
+      {
+        "lang": "ht",
+        "name": "Kolye janm jòn"
+      },
+      {
+        "lang": "hu",
+        "name": "kanadai lile"
+      },
+      {
+        "lang": "is",
+        "name": "Kvöldlóa"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere semipalmato"
+      },
+      {
+        "lang": "ja",
+        "name": "ミカズキチドリ",
+        "synonyms": [
+          "mizukakichidori"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Amerikinis kirlikas"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse Bontbekplevier"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikasandlo"
+      },
+      {
+        "lang": "pl",
+        "name": "sieweczka skapopletwa"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Batuíra-de-bando"
+      },
+      {
+        "lang": "pt",
+        "name": "Borrelho-semipalmado"
+      },
+      {
+        "lang": "ru",
+        "name": "Перепончатопалый галстучник"
+      },
+      {
+        "lang": "sk",
+        "name": "kulík poloblanistý"
+      },
+      {
+        "lang": "sl",
+        "name": "ameriški komatni deževnik"
+      },
+      {
+        "lang": "sv",
+        "name": "Flikstrandpipare"
+      },
+      {
+        "lang": "tr",
+        "name": "Perdeli Cılıbıt"
+      },
+      {
+        "lang": "zh",
+        "name": "半蹼鸻"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius sanctaehelenae",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík dlouhonohý"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius ruficapillus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "زقزاق أحمر الرأس"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol cap-roig"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík rezavotemenný"
+      },
+      {
+        "lang": "en",
+        "name": "Red-capped Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo capelirrojo"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم بالاسرقرمز"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruosteniskatylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier à tête rousse"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörösfejű lile"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere caporosso"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkopplevier"
+      },
+      {
+        "lang": "ru",
+        "name": "Красноголовый зуёк"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödhuvad strandpipare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius placidus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík dlouhozobý"
+      },
+      {
+        "lang": "en",
+        "name": "Long-billed Plover"
+      },
+      {
+        "lang": "ja",
+        "name": "イカルチドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "흰목물떼새"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius peronii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík malajský"
+      },
+      {
+        "lang": "en",
+        "name": "Malaysian Plover"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier de Péron"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius pecuarius",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík africký"
+      },
+      {
+        "lang": "da",
+        "name": "Kittlitz præstekrave"
+      },
+      {
+        "lang": "en",
+        "name": "Kittlitz's Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo pecuario"
+      },
+      {
+        "lang": "nl",
+        "name": "Herdersplevier"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius pallidus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík krotký"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo pálido"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius obscurus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík novozélandský"
+      },
+      {
+        "lang": "ja",
+        "name": "ニュージーランドチドリ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius nivosus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الزقزاق الاسكندراني"
+      },
+      {
+        "lang": "bg",
+        "name": "Морски дъждосвирец"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol nevat"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík západní"
+      },
+      {
+        "lang": "da",
+        "name": "Snepræstekrave"
+      },
+      {
+        "lang": "de",
+        "name": "Amerika-Seeregenpfeifer"
+      },
+      {
+        "lang": "el",
+        "name": "Θαλασσοσφυριχτής"
+      },
+      {
+        "lang": "en",
+        "name": "Snowy plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo nivoso"
+      },
+      {
+        "lang": "et",
+        "name": "Ameerika mustjalg-tüll"
+      },
+      {
+        "lang": "fi",
+        "name": "Pulmustylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier neigeux"
+      },
+      {
+        "lang": "he",
+        "name": "חופמי אלכסנדרי"
+      },
+      {
+        "lang": "hr",
+        "name": "Morski Kulik"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti Plivye blanch"
+      },
+      {
+        "lang": "it",
+        "name": "Piviere nevoso"
+      },
+      {
+        "lang": "ja",
+        "name": "ユキチドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "흰물떼새"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse Strandplevier"
+      },
+      {
+        "lang": "pl",
+        "name": "Sieweczka jasna"
+      },
+      {
+        "lang": "pt",
+        "name": "borrelho de coleira interrompida"
+      },
+      {
+        "lang": "ru",
+        "name": "Чилийский зуёк"
+      },
+      {
+        "lang": "sk",
+        "name": "Kulík snežný"
+      },
+      {
+        "lang": "sl",
+        "name": "Beloceli deževnik"
+      },
+      {
+        "lang": "sr",
+        "name": "Morski zujavac"
+      },
+      {
+        "lang": "sv",
+        "name": "Snöstrandpipare"
+      },
+      {
+        "lang": "zh",
+        "name": "雪鸻"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius morinellus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "قطقاط أوراسي"
+      },
+      {
+        "lang": "ast",
+        "name": "Pollu Berizu"
+      },
+      {
+        "lang": "az",
+        "name": "Düymədimdik"
+      },
+      {
+        "lang": "ba",
+        "name": "Ала сәпсәү"
+      },
+      {
+        "lang": "be",
+        "name": "Хрустан"
+      },
+      {
+        "lang": "bg",
+        "name": "Планински дъждосвирец"
+      },
+      {
+        "lang": "br",
+        "name": "Morlivid-menez"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol pit-roig"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík hnědý"
+      },
+      {
+        "lang": "cw",
+        "name": "Boba buba"
+      },
+      {
+        "lang": "cy",
+        "name": "Hutan y mynydd"
+      },
+      {
+        "lang": "da",
+        "name": "Pomeransfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Mornellregenpfeifer"
+      },
+      {
+        "lang": "el",
+        "name": "Βουνοπλουμίδι"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Dotterel"
+      },
+      {
+        "lang": "eo",
+        "name": "Morinelo"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlito Carambolo"
+      },
+      {
+        "lang": "et",
+        "name": "Roosterind-tüll"
+      },
+      {
+        "lang": "eu",
+        "name": "Txirri lepokodun"
+      },
+      {
+        "lang": "fi",
+        "name": "Keräkurmitsa"
+      },
+      {
+        "lang": "fo",
+        "name": "Kviðreyð lógv"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier guignard"
+      },
+      {
+        "lang": "fy",
+        "name": "Grutte Bûnte Wilster"
+      },
+      {
+        "lang": "ga",
+        "name": "Amadán móinteach"
+      },
+      {
+        "lang": "gd",
+        "name": "Amadan-Mòintich"
+      },
+      {
+        "lang": "gl",
+        "name": "Píllara rubia"
+      },
+      {
+        "lang": "gv",
+        "name": "Feddag volvaneagh"
+      },
+      {
+        "lang": "he",
+        "name": "חופמי ע־רבה"
+      },
+      {
+        "lang": "hr",
+        "name": "Kulik lakrdijaš"
+      },
+      {
+        "lang": "hu",
+        "name": "Havasi lile"
+      },
+      {
+        "lang": "hy",
+        "name": "Պինդիրա"
+      },
+      {
+        "lang": "is",
+        "name": "Fjalllóa"
+      },
+      {
+        "lang": "it",
+        "name": "Piviere tortolino"
+      },
+      {
+        "lang": "ja",
+        "name": "コバシチドリ"
+      },
+      {
+        "lang": "ka",
+        "name": "ტიბუარა"
+      },
+      {
+        "lang": "kk",
+        "name": "Алқалы татрењ"
+      },
+      {
+        "lang": "ko",
+        "name": "흰눈썹물떼새"
+      },
+      {
+        "lang": "lb",
+        "name": "Mornell"
+      },
+      {
+        "lang": "lt",
+        "name": "Mornelis"
+      },
+      {
+        "lang": "lv",
+        "name": "Morinella tārtiņš"
+      },
+      {
+        "lang": "mk",
+        "name": "Зујавец"
+      },
+      {
+        "lang": "mn",
+        "name": "Урианхай сүвээ цагаан / ᠣᠷᠢᠶᠠᠩᠬᠠᠢ ᠶᠢᠨ ᠴᠠᠭᠠᠨ ᠬᠢᠵᠠᠲᠣ"
+      },
+      {
+        "lang": "mt",
+        "name": "Birwina"
+      },
+      {
+        "lang": "nl",
+        "name": "Morinelplevier"
+      },
+      {
+        "lang": "nn",
+        "name": "Boltit"
+      },
+      {
+        "lang": "no",
+        "name": "Boltit"
+      },
+      {
+        "lang": "pl",
+        "name": "Mornel"
+      },
+      {
+        "lang": "pt",
+        "name": "Borrelho-ruivo"
+      },
+      {
+        "lang": "rm",
+        "name": "Gravarel brin"
+      },
+      {
+        "lang": "ro",
+        "name": "Prundăraş de munte"
+      },
+      {
+        "lang": "ru",
+        "name": "Хрустан"
+      },
+      {
+        "lang": "rue",
+        "name": "Глупа ржанка"
+      },
+      {
+        "lang": "sah",
+        "name": "Алтан түөс"
+      },
+      {
+        "lang": "se",
+        "name": "Láfol"
+      },
+      {
+        "lang": "sk",
+        "name": "Kulík vrchovský"
+      },
+      {
+        "lang": "sl",
+        "name": "Dular"
+      },
+      {
+        "lang": "sr",
+        "name": "Planinski zujavac / Планински зуjaвац"
+      },
+      {
+        "lang": "sv",
+        "name": "Fjällpipare"
+      },
+      {
+        "lang": "tr",
+        "name": "Dağ cılıbıtı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Даг сайжызы"
+      },
+      {
+        "lang": "uk",
+        "name": "Хрустан"
+      },
+      {
+        "lang": "zh",
+        "name": "小嘴鸻"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius montanus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík pastvinný"
+      },
+      {
+        "lang": "en",
+        "name": "Mountain Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlito llanero"
+      },
+      {
+        "lang": "fi",
+        "name": "Preeriatylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier montagnard"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius mongolus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík menší"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Sand Plover"
+      },
+      {
+        "lang": "ja",
+        "name": "メダイチドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "왕눈물떼새"
+      },
+      {
+        "lang": "sv",
+        "name": "Mongolpipare"
+      },
+      {
+        "lang": "zh",
+        "name": "蒙古沙鴴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius modestus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-chested Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlito chileno"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík šedolící"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius melodus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kulík hvízdavý"
+      },
+      {
+        "lang": "da",
+        "name": "Kortnæbbet Præstekrave"
+      },
+      {
+        "lang": "de",
+        "name": "Flötenregenpfeifer",
+        "synonyms": [
+          "Gelbfuß-Regenpfeifer"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Piping Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo Silbador"
+      },
+      {
+        "lang": "et",
+        "name": "hõbetüll"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم پازرد"
+      },
+      {
+        "lang": "fi",
+        "name": "huilutylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier siffleur"
+      },
+      {
+        "lang": "gcf",
+        "name": "Collier"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti Plivye siflè"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere canoro"
+      },
+      {
+        "lang": "ja",
+        "name": "フエコチドリ",
+        "synonyms": [
+          "fuekochidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Dwergplevier"
+      },
+      {
+        "lang": "no",
+        "name": "Piplo"
+      },
+      {
+        "lang": "pl",
+        "name": "sieweczka blada"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Batuíra-melodiosa"
+      },
+      {
+        "lang": "pt",
+        "name": "Batuíra-melodiosa"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтоногий зуёк"
+      },
+      {
+        "lang": "sk",
+        "name": "kulík pískavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Flöjtstrandpipare"
+      },
+      {
+        "lang": "zh",
+        "name": "笛鸻"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius marginatus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Nouelig tal gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol de front blanc"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík proměnlivý"
+      },
+      {
+        "lang": "de",
+        "name": "Weißstirn-Regenpfeifer"
+      },
+      {
+        "lang": "en",
+        "name": "White-fronted Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo frentiblanco"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم جلوسفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Hietatylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier à front blanc"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere marginato"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitpannad strandpipare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius leschenaultii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík větší"
+      },
+      {
+        "lang": "en",
+        "name": "Greater Sand Plover"
+      },
+      {
+        "lang": "ja",
+        "name": "オオメダイチドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "큰왕눈물떼새"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius javanicus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Nouelig Java"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol de Java"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík jávský"
+      },
+      {
+        "lang": "de",
+        "name": "Javaregenpfeifer"
+      },
+      {
+        "lang": "en",
+        "name": "Javan Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo Javanés"
+      },
+      {
+        "lang": "fi",
+        "name": "Jaavantylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier de Java"
+      },
+      {
+        "lang": "id",
+        "name": "Cerek jawa"
+      },
+      {
+        "lang": "pl",
+        "name": "Sieweczka jawajska"
+      },
+      {
+        "lang": "sv",
+        "name": "Javastrandpipare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius hiaticula",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Ringnekstrandkiewiet"
+      },
+      {
+        "lang": "ar",
+        "name": "رسول الغيث المطوق"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazaricu de Collar"
+      },
+      {
+        "lang": "az",
+        "name": "Yaxalı bozca"
+      },
+      {
+        "lang": "be",
+        "name": "Гальштучнік"
+      },
+      {
+        "lang": "bg",
+        "name": "Пясъчен дъждосвирец"
+      },
+      {
+        "lang": "bn",
+        "name": "পাতি নথজিরিয়া"
+      },
+      {
+        "lang": "br",
+        "name": "Nouelig bras"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol gros"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík písečný"
+      },
+      {
+        "lang": "csb",
+        "name": "Wãdzôrz"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiad Torchog"
+      },
+      {
+        "lang": "da",
+        "name": "Stor præstekrave"
+      },
+      {
+        "lang": "de",
+        "name": "Sandregenpfeifer"
+      },
+      {
+        "lang": "dv",
+        "name": "އަނގޮޓި ބޮނޑަނަ"
+      },
+      {
+        "lang": "el",
+        "name": "Αμμοπλουμίδι"
+      },
+      {
+        "lang": "en",
+        "name": "Common Ringed Plover"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda pluvio"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo Grande"
+      },
+      {
+        "lang": "et",
+        "name": "Liivatüll"
+      },
+      {
+        "lang": "eu",
+        "name": "Txirritxo handi"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم طوقی"
+      },
+      {
+        "lang": "fi",
+        "name": "Tylli"
+      },
+      {
+        "lang": "fo",
+        "name": "Svarthálsa"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier grand-gravelot"
+      },
+      {
+        "lang": "frr",
+        "name": "Groonk"
+      },
+      {
+        "lang": "fy",
+        "name": "Bûnte wilster"
+      },
+      {
+        "lang": "ga",
+        "name": "Feadóg an fhainne"
+      },
+      {
+        "lang": "gd",
+        "name": "Bòdhag"
+      },
+      {
+        "lang": "gl",
+        "name": "Píllara real"
+      },
+      {
+        "lang": "gv",
+        "name": "Feddag Ainit"
+      },
+      {
+        "lang": "he",
+        "name": "חופמי צוארון"
+      },
+      {
+        "lang": "hr",
+        "name": "Kulik blataric"
+      },
+      {
+        "lang": "hu",
+        "name": "Parti lile"
+      },
+      {
+        "lang": "hy",
+        "name": "Փողկապավոր քարադր"
+      },
+      {
+        "lang": "is",
+        "name": "Sandlóa"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere grosso"
+      },
+      {
+        "lang": "iu",
+        "name": "Kudlekaleak"
+      },
+      {
+        "lang": "ja",
+        "name": "ハジロコチドリ"
+      },
+      {
+        "lang": "ka",
+        "name": "საყელოიანი წინტალა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Щхьэщ"
+      },
+      {
+        "lang": "kk",
+        "name": "Шүрілдек торғай"
+      },
+      {
+        "lang": "ko",
+        "name": "흰죽지꼬마물떼새"
+      },
+      {
+        "lang": "lb",
+        "name": "Grousse Wakeleefer"
+      },
+      {
+        "lang": "lt",
+        "name": "Jūrinis kirlikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Smilšu tārtiņš"
+      },
+      {
+        "lang": "mk",
+        "name": "Среден пескар"
+      },
+      {
+        "lang": "ml",
+        "name": "വലിയ മോതിരക്കോഴി"
+      },
+      {
+        "lang": "mn",
+        "name": "Хиазат сүвээ цагаан - ᠬᠦᠵᠣᠬᠦᠪᠴᠢᠲᠣ ᠬᠢᠵᠠᠲᠣ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Rapang Gelang Besar"
+      },
+      {
+        "lang": "mt",
+        "name": "Monakella prima"
+      },
+      {
+        "lang": "nl",
+        "name": "Bontbekplevier"
+      },
+      {
+        "lang": "nn",
+        "name": "Sandlo"
+      },
+      {
+        "lang": "no",
+        "name": "Sandlo"
+      },
+      {
+        "lang": "pl",
+        "name": "Sieweczka obrożna"
+      },
+      {
+        "lang": "pnb",
+        "name": "چکردار پلوور"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Batuíra-de-bando"
+      },
+      {
+        "lang": "pt",
+        "name": "Borrelho-grande-de-coleira"
+      },
+      {
+        "lang": "rm",
+        "name": "Gravarel grond"
+      },
+      {
+        "lang": "ro",
+        "name": "Prundăraş gulerat mare"
+      },
+      {
+        "lang": "ru",
+        "name": "Галстучник"
+      },
+      {
+        "lang": "rue",
+        "name": "Ржанка берегівка"
+      },
+      {
+        "lang": "se",
+        "name": "Buvvedat"
+      },
+      {
+        "lang": "sk",
+        "name": "Kulík piesočný"
+      },
+      {
+        "lang": "sl",
+        "name": "Komatni deževnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Vraponjësi i madh"
+      },
+      {
+        "lang": "sr",
+        "name": "Žalar blataric - Жалар блатарич"
+      },
+      {
+        "lang": "sv",
+        "name": "Större strandpipare"
+      },
+      {
+        "lang": "sw",
+        "name": "Kitwitwi Mkufu-mweusi"
+      },
+      {
+        "lang": "th",
+        "name": "นกหัวโตเล็กขาส้ม"
+      },
+      {
+        "lang": "tr",
+        "name": "Kolyeli büyük yağmurcun"
+      },
+      {
+        "lang": "tyv",
+        "name": "Мончарлыг сайжы"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісочник великий"
+      },
+      {
+        "lang": "vi",
+        "name": "Choi choi mỏ dài"
+      },
+      {
+        "lang": "xh",
+        "name": "Unokrekre"
+      },
+      {
+        "lang": "zh",
+        "name": "剑鸻"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius forbesi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík Forbesův"
+      },
+      {
+        "lang": "en",
+        "name": "Forbes's plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo de Forbes"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier de Forbes"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskonaamatylli"
+      },
+      {
+        "lang": "it",
+        "name": "corriere di Forbes"
+      },
+      {
+        "lang": "sv",
+        "name": "Savannstrandpipare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius falklandicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík falklandský"
+      },
+      {
+        "lang": "en",
+        "name": "Two-banded Plover"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius dubius",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kleinringnekstrandkiewiet"
+      },
+      {
+        "lang": "ar",
+        "name": "الزقزاق المطوق الصغير"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazaricu Caretu"
+      },
+      {
+        "lang": "az",
+        "name": "Kiçik bozca"
+      },
+      {
+        "lang": "be",
+        "name": "Малы зуёк"
+      },
+      {
+        "lang": "bg",
+        "name": "Речен дъждосвирец"
+      },
+      {
+        "lang": "bn",
+        "name": "ছোট নথজিরিয়া"
+      },
+      {
+        "lang": "br",
+        "name": "An nouelig bihan"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol anellat petit",
+        "synonyms": [
+          "Corriol gros",
+          "Corriol petit",
+          "Picaplatges petit"
+        ]
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík říční"
+      },
+      {
+        "lang": "cy",
+        "name": "Cornicyll modrwyog lleiaf"
+      },
+      {
+        "lang": "da",
+        "name": "Lille præstekrave"
+      },
+      {
+        "lang": "de",
+        "name": "Flußregenpfeifer"
+      },
+      {
+        "lang": "el",
+        "name": "Λιμνοπλουμίδι"
+      },
+      {
+        "lang": "en",
+        "name": "Little Ringed Plover"
+      },
+      {
+        "lang": "eo",
+        "name": "Malgranda pluvio"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo Chico"
+      },
+      {
+        "lang": "et",
+        "name": "Väiketüll"
+      },
+      {
+        "lang": "eu",
+        "name": "Corriol petit"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkutylli"
+      },
+      {
+        "lang": "fo",
+        "name": "Lítil svarthálsa"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit Gravelot"
+      },
+      {
+        "lang": "frr",
+        "name": "Liirk"
+      },
+      {
+        "lang": "fy",
+        "name": "Lytse Bûnte Wilster"
+      },
+      {
+        "lang": "ga",
+        "name": "Feadóigín Chladaigh"
+      },
+      {
+        "lang": "gd",
+        "name": "Trìlleachan Traighe Bheag"
+      },
+      {
+        "lang": "gl",
+        "name": "Píllara areeira"
+      },
+      {
+        "lang": "he",
+        "name": "חופמי גדות"
+      },
+      {
+        "lang": "hi",
+        "name": "Chinna Kottan"
+      },
+      {
+        "lang": "hr",
+        "name": "Kulik slijepčić"
+      },
+      {
+        "lang": "hu",
+        "name": "Kis lile"
+      },
+      {
+        "lang": "hy",
+        "name": "Քարադր փոքր"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Cerek Kalung-kecil"
+      },
+      {
+        "lang": "is",
+        "name": "Vatnalóa"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere piccolo"
+      },
+      {
+        "lang": "ja",
+        "name": "コチドリ"
+      },
+      {
+        "lang": "ka",
+        "name": "პატარა წინტალა"
+      },
+      {
+        "lang": "kjn",
+        "name": "Самсалых"
+      },
+      {
+        "lang": "kk",
+        "name": "Шаушүрілдек торғай"
+      },
+      {
+        "lang": "ko",
+        "name": "작은물떼새"
+      },
+      {
+        "lang": "lb",
+        "name": "Klenge Wakeleefer"
+      },
+      {
+        "lang": "lt",
+        "name": "Upinis kirlikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Upes tārtiņš"
+      },
+      {
+        "lang": "mk",
+        "name": "Дождосвирец"
+      },
+      {
+        "lang": "ml",
+        "name": "ആറ്റു  മണല്‍ക്കോഴി"
+      },
+      {
+        "lang": "mn",
+        "name": "Нарийн хиазат",
+        "synonyms": [
+          "ᠨᠠᠷᠢᠨ ᠬᠢᠵᠠᠲᠣ"
+        ]
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Rapang Biji Nangka"
+      },
+      {
+        "lang": "mt",
+        "name": "Monakella"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine Plevier"
+      },
+      {
+        "lang": "no",
+        "name": "Dverglo"
+      },
+      {
+        "lang": "pl",
+        "name": "sieweczka rzeczna"
+      },
+      {
+        "lang": "pt",
+        "name": "Borrelho-pequeno-de-coleira"
+      },
+      {
+        "lang": "rm",
+        "name": "Gravarel pitschen"
+      },
+      {
+        "lang": "ro",
+        "name": "Prundăraş gulerat mic"
+      },
+      {
+        "lang": "ru",
+        "name": "Малый зуёк"
+      },
+      {
+        "lang": "sk",
+        "name": "Kulík riečný"
+      },
+      {
+        "lang": "sl",
+        "name": "Mali deževnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Vraponjësi i vogël"
+      },
+      {
+        "lang": "sr",
+        "name": "Mali zujavac / Мали зујавац"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre strandpipare"
+      },
+      {
+        "lang": "sw",
+        "name": "Kitwitwi Macho-njano"
+      },
+      {
+        "lang": "ta",
+        "name": "Pattani Uppukkothi"
+      },
+      {
+        "lang": "th",
+        "name": "นกหัวโตเล็กขาเหลือง"
+      },
+      {
+        "lang": "tr",
+        "name": "Halkalı küçük cılıbıt"
+      },
+      {
+        "lang": "uk",
+        "name": "Малий зуйок"
+      },
+      {
+        "lang": "vec",
+        "name": "Pivierin"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Choi choi nhỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "金眶鴴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius cristatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Charadrius collaris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík límcový"
+      },
+      {
+        "lang": "en",
+        "name": "Collared Plover"
+      },
+      {
+        "lang": "pt",
+        "name": "Batuíra-de-coleira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius bicinctus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulík dvoupruhý"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius australis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Charadrius asiaticus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Asiatiese strandkiewiet"
+      },
+      {
+        "lang": "ar",
+        "name": "زقزاق قزويني، الدحروج، حميرة صدور، بوزهيرة",
+        "synonyms": [
+          "الزقزاق القزويني"
+        ]
+      },
+      {
+        "lang": "az",
+        "name": "Xəzər çovdarçısı"
+      },
+      {
+        "lang": "bg",
+        "name": "Каспийски дъждосвирец"
+      },
+      {
+        "lang": "br",
+        "name": "Nouelig Kaspia"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol asiàtic"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík kaspický"
+      },
+      {
+        "lang": "da",
+        "name": "Kaspisk præstekrave"
+      },
+      {
+        "lang": "de",
+        "name": "Kaspischer Regenpfeifer",
+        "synonyms": [
+          "Wermutregenpfeifer"
+        ]
+      },
+      {
+        "lang": "el",
+        "name": "Αψινθοσφυριχτής",
+        "synonyms": [
+          "Στεποπλουμίδι",
+          "Στεποσφυριχτής"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Caspian Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlito asiático chico"
+      },
+      {
+        "lang": "et",
+        "name": "Pujutüll"
+      },
+      {
+        "lang": "eu",
+        "name": "Kaspiar txirritxo"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم سینه‌بلوطی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaspiantylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier asiatique",
+        "synonyms": [
+          "Gravelot asiatique"
+        ]
+      },
+      {
+        "lang": "he",
+        "name": "חופמי אסיה",
+        "synonyms": [
+          "חופמי אסיני"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Sztyeppi lile"
+      },
+      {
+        "lang": "hy",
+        "name": "Քարադր կասպիական"
+      },
+      {
+        "lang": "id",
+        "name": "Kèra-kèra"
+      },
+      {
+        "lang": "is",
+        "name": "Leirlóa"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere asiatico"
+      },
+      {
+        "lang": "ja",
+        "name": "ニシオオチドリ [nishioochidori",
+        "synonyms": [
+          "ou-chidori]"
+        ]
+      },
+      {
+        "lang": "kk",
+        "name": "Сарысағақ шүрілдегі",
+        "synonyms": [
+          "Шүрілдек",
+          "Шығыс шүрілдек торғай"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "큰물떼새"
+      },
+      {
+        "lang": "lt",
+        "name": "Kaspijinis kirlikas"
+      },
+      {
+        "lang": "mt",
+        "name": "Birwina ta' l-Asja"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaspische plevier"
+      },
+      {
+        "lang": "no",
+        "name": "Rødbrystlo"
+      },
+      {
+        "lang": "pl",
+        "name": "Sieweczka dlugonoga",
+        "synonyms": [
+          "Sieweczka długonoga",
+          "Siewka długonoga"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Borrelho asiatico",
+        "synonyms": [
+          "Borrelho do Cáspio",
+          "Borrelho-asiatico",
+          "Borrelho-asiático"
+        ]
+      },
+      {
+        "lang": "pnb",
+        "name": "کیسپین پلوور"
+      },
+      {
+        "lang": "ru",
+        "name": "Каспийский зуёк",
+        "synonyms": [
+          "Kaspiysky Zuyok",
+          "Зуек каспийский"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "Kulík palinový"
+      },
+      {
+        "lang": "sl",
+        "name": "Kaspijski deževnik"
+      },
+      {
+        "lang": "sv",
+        "name": "Kaspisk pipare"
+      },
+      {
+        "lang": "sw",
+        "name": "Kitwitwi Kidari-chekundu"
+      },
+      {
+        "lang": "th",
+        "name": "นกหัวโตขายาว"
+      },
+      {
+        "lang": "tr",
+        "name": "Doğu cılıbıtı",
+        "synonyms": [
+          "Asya Yağmurkuşu",
+          "Doğu Cılıbıt",
+          "Doğu cylybyty",
+          "Doşu Cılıbıtı"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Каспійський зуйок",
+        "synonyms": [
+          "Пісочник каспійський"
+        ]
+      },
+      {
+        "lang": "vi",
+        "name": "Choi choi á châu"
+      },
+      {
+        "lang": "zh",
+        "name": "红胸鸻"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius alticola",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "زقزاق الأعالي"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík andský"
+      },
+      {
+        "lang": "en",
+        "name": "Puna Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo andino"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم پونا"
+      },
+      {
+        "lang": "fi",
+        "name": "Punantylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier de la puna"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere della Puna"
+      },
+      {
+        "lang": "nl",
+        "name": "Punaplevier"
+      },
+      {
+        "lang": "sv",
+        "name": "Punastrandpipare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Charadrius alexandrinus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "قطقاط اسكندراني"
+      },
+      {
+        "lang": "bg",
+        "name": "Морски дъждосвирец"
+      },
+      {
+        "lang": "br",
+        "name": "Nouelig pikous"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol camanegre"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulík mořský"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidbrystet præstekrave"
+      },
+      {
+        "lang": "de",
+        "name": "Seeregenpfeifer"
+      },
+      {
+        "lang": "el",
+        "name": "Θαλασσοσφυριχτής"
+      },
+      {
+        "lang": "en",
+        "name": "Kentish Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo patinegro"
+      },
+      {
+        "lang": "eo",
+        "name": "Marborda pluvio"
+      },
+      {
+        "lang": "eu",
+        "name": "Txirritxo hankabeltz"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم کوچک"
+      },
+      {
+        "lang": "fo",
+        "name": "Hvíthálsa"
+      },
+      {
+        "lang": "fr",
+        "name": "Gravelot à collier interrompu",
+        "synonyms": [
+          "Pluvier à collier interrompu"
+        ]
+      },
+      {
+        "lang": "fy",
+        "name": "Dûkelmantsje"
+      },
+      {
+        "lang": "gl",
+        "name": "Píllara papuda"
+      },
+      {
+        "lang": "hy",
+        "name": "Քարադր ծովային"
+      },
+      {
+        "lang": "it",
+        "name": "Fratino"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodakojis kirlikas"
+      },
+      {
+        "lang": "hu",
+        "name": "Széki lile"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Rapang Pantai"
+      },
+      {
+        "lang": "nl",
+        "name": "Strandplevier"
+      },
+      {
+        "lang": "ja",
+        "name": "シロチドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "흰물떼새"
+      },
+      {
+        "lang": "frr",
+        "name": "Mösk"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitbrystlo"
+      },
+      {
+        "lang": "pnb",
+        "name": "کینٹش پلوور"
+      },
+      {
+        "lang": "pl",
+        "name": "Sieweczka morska"
+      },
+      {
+        "lang": "pt",
+        "name": "Borrelho-de-coleira-interrompida"
+      },
+      {
+        "lang": "ru",
+        "name": "Морской зуёк"
+      },
+      {
+        "lang": "sl",
+        "name": "Beločeli deževnik"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustajalkatylli"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartbent strandpipare"
+      },
+      {
+        "lang": "tr",
+        "name": "Akça cılıbıt"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісочник морський"
+      },
+      {
+        "lang": "zh",
+        "name": "环颈鸻"
+      }
+    ]
+  }
+]

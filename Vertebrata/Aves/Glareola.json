@@ -1,0 +1,540 @@
+[
+  {
+    "scientific_name": "Glareola pratincola",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooivlerksprinkaanvoël"
+      },
+      {
+        "lang": "ar",
+        "name": "أبو اليسر"
+      },
+      {
+        "lang": "az",
+        "name": "Haçaquyruq cüllüt"
+      },
+      {
+        "lang": "bg",
+        "name": "Кафявокрил огърличник"
+      },
+      {
+        "lang": "br",
+        "name": "Glareell daneskell ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Perdiu de mar"
+      },
+      {
+        "lang": "cs",
+        "name": "Ouhorlík stepní"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiadwennol dorchog"
+      },
+      {
+        "lang": "da",
+        "name": "Rødvinget Braksvale"
+      },
+      {
+        "lang": "de",
+        "name": "Rotflügel-Brachschwalbe"
+      },
+      {
+        "lang": "el",
+        "name": "Νεροχελίδονο"
+      },
+      {
+        "lang": "en",
+        "name": "Collared Pratincole"
+      },
+      {
+        "lang": "eo",
+        "name": "Kolumglareolo"
+      },
+      {
+        "lang": "es",
+        "name": "Canastera"
+      },
+      {
+        "lang": "et",
+        "name": "Kõnnu-pääsujooksur"
+      },
+      {
+        "lang": "eu",
+        "name": "Pratinkola"
+      },
+      {
+        "lang": "fi",
+        "name": "Pääskykahlaaja"
+      },
+      {
+        "lang": "fo",
+        "name": "Vaðtritla"
+      },
+      {
+        "lang": "fr",
+        "name": "Glaréole à collier"
+      },
+      {
+        "lang": "ga",
+        "name": "Pratancól Muinceach"
+      },
+      {
+        "lang": "gl",
+        "name": "Perdiz do mar"
+      },
+      {
+        "lang": "he",
+        "name": "שדמית"
+      },
+      {
+        "lang": "hr",
+        "name": "Pješčarka"
+      },
+      {
+        "lang": "hu",
+        "name": "Székicsér"
+      },
+      {
+        "lang": "hy",
+        "name": "Ծիծառակտցար մարգագետնային"
+      },
+      {
+        "lang": "is",
+        "name": "Þernutrítill"
+      },
+      {
+        "lang": "it",
+        "name": "Pernice di mare comune"
+      },
+      {
+        "lang": "ja",
+        "name": "ニシツバメチドリ"
+      },
+      {
+        "lang": "ka",
+        "name": "მერცხალა"
+      },
+      {
+        "lang": "kk",
+        "name": "Шабындық қарақасы"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudasparnė dirvakregždė"
+      },
+      {
+        "lang": "lv",
+        "name": "Brūnspārnu bezdelīgtārtiņš"
+      },
+      {
+        "lang": "mk",
+        "name": "Блатна ластовица",
+        "synonyms": [
+          "Пешчарка"
+        ]
+      },
+      {
+        "lang": "mn",
+        "name": "Нугын хөгт"
+      },
+      {
+        "lang": "mt",
+        "name": "Perniċjotta"
+      },
+      {
+        "lang": "nl",
+        "name": "Vorkstaartplevier"
+      },
+      {
+        "lang": "no",
+        "name": "Brakksvale"
+      },
+      {
+        "lang": "pl",
+        "name": "Żwirowiec łąkowy"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Perdiz-do-mar"
+      },
+      {
+        "lang": "pt",
+        "name": "Perdiz-do-mar-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Glariel da l'ala cotschna"
+      },
+      {
+        "lang": "ro",
+        "name": "Ciovlică ruginie"
+      },
+      {
+        "lang": "ru",
+        "name": "Луговая тиркушка"
+      },
+      {
+        "lang": "sc",
+        "name": "Caitta"
+      },
+      {
+        "lang": "sk",
+        "name": "Prieložník stepný"
+      },
+      {
+        "lang": "sl",
+        "name": "Rjava komatna tekica"
+      },
+      {
+        "lang": "sq",
+        "name": "Dallëndyshe deti"
+      },
+      {
+        "lang": "sr",
+        "name": "Zijavac / Зиjaвац"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödvingad vadarsvala"
+      },
+      {
+        "lang": "sw",
+        "name": "Bwabwaja"
+      },
+      {
+        "lang": "ta",
+        "name": "Karuvalaya Tholkuruvi"
+      },
+      {
+        "lang": "tr",
+        "name": "Bataklık kırlangıcı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Шынаа тир-кужу"
+      },
+      {
+        "lang": "uk",
+        "name": "Дерихвіст лучний"
+      },
+      {
+        "lang": "zh",
+        "name": "领燕鸻"
+      },
+      {
+        "lang": "zu",
+        "name": "iWamba"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glareola ocularis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ouhorlík madagaskarský"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinpääskykahlaaja"
+      },
+      {
+        "lang": "sv",
+        "name": "Madagaskarvadarsvala"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glareola nuchalis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ouhorlík skalní"
+      },
+      {
+        "lang": "fi",
+        "name": "Kivikkopääskykahlaaja"
+      },
+      {
+        "lang": "sv",
+        "name": "Klippvadarsvala"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glareola nordmanni",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Swartvlerksprinkaanvoël"
+      },
+      {
+        "lang": "ar",
+        "name": "أبو اليسر أسود الجناح"
+      },
+      {
+        "lang": "az",
+        "name": "Çöl haçaquyruq cüllüt"
+      },
+      {
+        "lang": "be",
+        "name": "Стэпавая ціркушка"
+      },
+      {
+        "lang": "bg",
+        "name": "Чернокрил огърличник"
+      },
+      {
+        "lang": "br",
+        "name": "Glareell daneskell du"
+      },
+      {
+        "lang": "ca",
+        "name": "Guatlereta de mar alanegra"
+      },
+      {
+        "lang": "cs",
+        "name": "Ouhorlík černokřídlý"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiadwennol aden-ddu"
+      },
+      {
+        "lang": "da",
+        "name": "Sortvinget braksvale"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzflügel-Brachschwalbe"
+      },
+      {
+        "lang": "el",
+        "name": "Μαυρόφτερο Νεροχελίδονο"
+      },
+      {
+        "lang": "en",
+        "name": "Black-winged pratincole"
+      },
+      {
+        "lang": "eo",
+        "name": "stepglareolo"
+      },
+      {
+        "lang": "es",
+        "name": "Canastera Alinegra"
+      },
+      {
+        "lang": "et",
+        "name": "stepi-pääsujooksur"
+      },
+      {
+        "lang": "eu",
+        "name": "Perdiu de mar d'ala negra"
+      },
+      {
+        "lang": "fi",
+        "name": "Aropääskykahlaaja"
+      },
+      {
+        "lang": "fo",
+        "name": "Vongsvart vaðtritla"
+      },
+      {
+        "lang": "fr",
+        "name": "Glaréole à ailes noires"
+      },
+      {
+        "lang": "ga",
+        "name": "Pratancól Dubheiteach"
+      },
+      {
+        "lang": "gl",
+        "name": "Perdiu de mar d'ala negra"
+      },
+      {
+        "lang": "he",
+        "name": "שדמית שחורת כנף"
+      },
+      {
+        "lang": "hr",
+        "name": "Crnokrila Pješcarka"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketeszárnyú székicsér"
+      },
+      {
+        "lang": "hy",
+        "name": "Ծիծառակտցար տափաստանային"
+      },
+      {
+        "lang": "is",
+        "name": "Stepputrítill"
+      },
+      {
+        "lang": "it",
+        "name": "Pernice di mare orientale"
+      },
+      {
+        "lang": "ja",
+        "name": "ハグロツバメチドリ"
+      },
+      {
+        "lang": "ka",
+        "name": "ველის მერცხალა"
+      },
+      {
+        "lang": "kk",
+        "name": "Дала қарақасы"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodasparnė dirvakregždė"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnspārnu bezdelīgtārtiņš"
+      },
+      {
+        "lang": "mk",
+        "name": "Пешчарка"
+      },
+      {
+        "lang": "nl",
+        "name": "Steppevorkstaartplevier"
+      },
+      {
+        "lang": "no",
+        "name": "Steppebrakksvale"
+      },
+      {
+        "lang": "pl",
+        "name": "Żwirowiec stepowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Perdiz-do-mar-d'asa-preta"
+      },
+      {
+        "lang": "rm",
+        "name": "Glariel da l'ala naira"
+      },
+      {
+        "lang": "ro",
+        "name": "Ciovlică negrie"
+      },
+      {
+        "lang": "ru",
+        "name": "Степная тиркушка"
+      },
+      {
+        "lang": "sk",
+        "name": "Prieložník čiernokrídly"
+      },
+      {
+        "lang": "sl",
+        "name": "črna komatna tekica"
+      },
+      {
+        "lang": "st",
+        "name": "Lehlakangoato"
+      },
+      {
+        "lang": "sr",
+        "name": "Crnokrili zijavac / Црнокрили зијавац"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartvingad vadarsvala"
+      },
+      {
+        "lang": "sw",
+        "name": "Bwabwaja Bawa-jeusi"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara kanatlı bataklık kırlangıcı"
+      },
+      {
+        "lang": "uk",
+        "name": "Дерихвіст степовий"
+      },
+      {
+        "lang": "zh",
+        "name": "黑翅燕鸻"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glareola maldivarum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ouhorlík indomalajský"
+      },
+      {
+        "lang": "en",
+        "name": "Oriental Pratincole"
+      },
+      {
+        "lang": "hu",
+        "name": "Keleti székicsér"
+      },
+      {
+        "lang": "ja",
+        "name": "ツバメチドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "제비물떼새"
+      },
+      {
+        "lang": "fi",
+        "name": "Aasianpääskykahlaaja"
+      },
+      {
+        "lang": "sv",
+        "name": "Orientvadarsvala"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glareola lactea",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ouhorlík malý"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkupääskykahlaaja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glareola cinerea",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Ouhorlík bělolící"
+      },
+      {
+        "lang": "es",
+        "name": "Canastera gris"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaapääskykahlaaja"
+      },
+      {
+        "lang": "sv",
+        "name": "Grå vadarsvala"
+      }
+    ]
+  }
+]

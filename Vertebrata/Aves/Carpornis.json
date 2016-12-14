@@ -1,0 +1,39 @@
+[
+  {
+    "scientific_name": "Carpornis melanocephala",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-headed Berryeater"
+      },
+      {
+        "lang": "es",
+        "name": "Cotinga cabecinegro"
+      },
+      {
+        "lang": "pt",
+        "name": "Cocnhó",
+        "synonyms": [
+          "sabiá-pimenta"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpornis cucullata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hooded berryeater"
+      },
+      {
+        "lang": "es",
+        "name": "Cotinga encapuchado"
+      },
+      {
+        "lang": "pt",
+        "name": "Corocochó"
+      }
+    ]
+  }
+]

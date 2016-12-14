@@ -1,0 +1,461 @@
+[
+  {
+    "scientific_name": "Recurvirostra novaehollandiae",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tenkozobec hnědohlavý"
+      },
+      {
+        "lang": "el",
+        "name": "Αβοκέτα της Αυστραλίας"
+      },
+      {
+        "lang": "en",
+        "name": "Red-necked Avocet"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝkapa avoceto"
+      },
+      {
+        "lang": "fr",
+        "name": "Avocette d'Australie"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk skärfläcka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Recurvirostra avosetta",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bontelsie"
+      },
+      {
+        "lang": "ar",
+        "name": "النكات",
+        "synonyms": [
+          "النكات رهيز"
+        ]
+      },
+      {
+        "lang": "ast",
+        "name": "Avoceta"
+      },
+      {
+        "lang": "az",
+        "name": "Bizdimdik"
+      },
+      {
+        "lang": "ba",
+        "name": "Беҙ суҡыш"
+      },
+      {
+        "lang": "bar",
+        "name": "Saawéschnowler"
+      },
+      {
+        "lang": "be",
+        "name": "Шыладзюб"
+      },
+      {
+        "lang": "bg",
+        "name": "Саблеклюн"
+      },
+      {
+        "lang": "br",
+        "name": "Avosetenn vistr"
+      },
+      {
+        "lang": "ca",
+        "name": "Bec d'alena"
+      },
+      {
+        "lang": "cs",
+        "name": "Tenkozobec opačný"
+      },
+      {
+        "lang": "cw",
+        "name": "Gelvyn menowes"
+      },
+      {
+        "lang": "cy",
+        "name": "Cambig"
+      },
+      {
+        "lang": "da",
+        "name": "Klyde"
+      },
+      {
+        "lang": "de",
+        "name": "Säbelschnäbler"
+      },
+      {
+        "lang": "el",
+        "name": "Αβοκέτα"
+      },
+      {
+        "lang": "eml",
+        "name": "Gambitulon"
+      },
+      {
+        "lang": "en",
+        "name": "Pied Avocet"
+      },
+      {
+        "lang": "eo",
+        "name": "Avoceto"
+      },
+      {
+        "lang": "es",
+        "name": "Avoceta"
+      },
+      {
+        "lang": "et",
+        "name": "Naaskelnokk"
+      },
+      {
+        "lang": "eu",
+        "name": "Abozeta"
+      },
+      {
+        "lang": "fi",
+        "name": "Avosetti"
+      },
+      {
+        "lang": "fo",
+        "name": "Nevfatti"
+      },
+      {
+        "lang": "fr",
+        "name": "Avocette élégante"
+      },
+      {
+        "lang": "frr",
+        "name": "Sütjer"
+      },
+      {
+        "lang": "fy",
+        "name": "Klút"
+      },
+      {
+        "lang": "ga",
+        "name": "Abhóiséad"
+      },
+      {
+        "lang": "gd",
+        "name": "Gob cearr"
+      },
+      {
+        "lang": "gl",
+        "name": "Avoceta"
+      },
+      {
+        "lang": "gv",
+        "name": "Gob kiare"
+      },
+      {
+        "lang": "he",
+        "name": "סייפן עקוד"
+      },
+      {
+        "lang": "hr",
+        "name": "Modronoga sabljarka"
+      },
+      {
+        "lang": "hu",
+        "name": "Gulipán"
+      },
+      {
+        "lang": "hy",
+        "name": "Բզակտուց"
+      },
+      {
+        "lang": "is",
+        "name": "Bjúgnefja"
+      },
+      {
+        "lang": "it",
+        "name": "Avocetta"
+      },
+      {
+        "lang": "ja",
+        "name": "ソリハシセイタカシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "სადგისნისკარტა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Псыкъуакъо"
+      },
+      {
+        "lang": "kk",
+        "name": "Бізтұмсық"
+      },
+      {
+        "lang": "ko",
+        "name": "뒷부리장다리물떼새"
+      },
+      {
+        "lang": "kw",
+        "name": "Gelvyn menowes"
+      },
+      {
+        "lang": "lt",
+        "name": "Avocetė"
+      },
+      {
+        "lang": "lb",
+        "name": "Säwelschniewel"
+      },
+      {
+        "lang": "lv",
+        "name": "Avozeta"
+      },
+      {
+        "lang": "mk",
+        "name": "Сабјарка"
+      },
+      {
+        "lang": "mn",
+        "name": "Ээтэн / ᠠᠯᠠᠭ ᠡᠭᠡᠲᠡᠨ"
+      },
+      {
+        "lang": "mt",
+        "name": "Xifa"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Klut"
+      },
+      {
+        "lang": "nl",
+        "name": "Kluut"
+      },
+      {
+        "lang": "nn",
+        "name": "Avosett"
+      },
+      {
+        "lang": "no",
+        "name": "Avosett"
+      },
+      {
+        "lang": "pcd",
+        "name": "Clépe"
+      },
+      {
+        "lang": "pl",
+        "name": "Szablodziób"
+      },
+      {
+        "lang": "pnb",
+        "name": "پائڈ ایوسٹ"
+      },
+      {
+        "lang": "pt",
+        "name": "Alfaiate"
+      },
+      {
+        "lang": "rm",
+        "name": "Gambun grond"
+      },
+      {
+        "lang": "ro",
+        "name": "Cioc întors"
+      },
+      {
+        "lang": "ru",
+        "name": "Шилоклювка"
+      },
+      {
+        "lang": "rue",
+        "name": "Шилоклювка"
+      },
+      {
+        "lang": "sc",
+        "name": "Filippa"
+      },
+      {
+        "lang": "sh",
+        "name": "Modronoga sabljarka"
+      },
+      {
+        "lang": "sk",
+        "name": "Šabliarka modronohá"
+      },
+      {
+        "lang": "sl",
+        "name": "Sabljarka"
+      },
+      {
+        "lang": "sq",
+        "name": "Sqepbiza"
+      },
+      {
+        "lang": "sr",
+        "name": "sabljarka / Сабљарка"
+      },
+      {
+        "lang": "sv",
+        "name": "Skärfläcka"
+      },
+      {
+        "lang": "sw",
+        "name": "Msese domojuu"
+      },
+      {
+        "lang": "ta",
+        "name": "Pavazha kaal ullan"
+      },
+      {
+        "lang": "th",
+        "name": "นกปากงอน"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı kılıçgaga"
+      },
+      {
+        "lang": "tyv",
+        "name": "Шивегей-думчук куш"
+      },
+      {
+        "lang": "uk",
+        "name": "Чоботар"
+      },
+      {
+        "lang": "vi",
+        "name": "Cà kheo mỏ cong"
+      },
+      {
+        "lang": "zea",
+        "name": "Kluut"
+      },
+      {
+        "lang": "zh",
+        "name": "反嘴鴴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Recurvirostra andina",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tenkozobec andský"
+      },
+      {
+        "lang": "el",
+        "name": "Αβοκέτα των Άνδεων"
+      },
+      {
+        "lang": "en",
+        "name": "Andean Avocet"
+      },
+      {
+        "lang": "fr",
+        "name": "Avocette des Andes"
+      },
+      {
+        "lang": "fi",
+        "name": "Andienavosetti"
+      },
+      {
+        "lang": "sv",
+        "name": "Andinsk skärfläcka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Recurvirostra americana",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Amerika bizdimdiyi"
+      },
+      {
+        "lang": "br",
+        "name": "Avosetenn Amerika"
+      },
+      {
+        "lang": "cs",
+        "name": "Tenkozobec americký"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Klyde"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanischer Säbelschnäbler"
+      },
+      {
+        "lang": "en",
+        "name": "American Avocet"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika avoceto"
+      },
+      {
+        "lang": "es",
+        "name": "Avoceta americana"
+      },
+      {
+        "lang": "fi",
+        "name": "Preeria-avosetti"
+      },
+      {
+        "lang": "fr",
+        "name": "Avocette d'Amérique"
+      },
+      {
+        "lang": "it",
+        "name": "Avocetta americana"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカソリハシセイタカシギ"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse kluut"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikaavosett"
+      },
+      {
+        "lang": "pl",
+        "name": "Szablodziób amerykański"
+      },
+      {
+        "lang": "pt",
+        "name": "Alfaiate-de-pescoço-pardo"
+      },
+      {
+        "lang": "ru",
+        "name": "Американская шилоютювка"
+      },
+      {
+        "lang": "sk",
+        "name": "Šabliarka žltokrká"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk skärfläcka"
+      },
+      {
+        "lang": "zh",
+        "name": "褐胸反嘴鹬"
+      }
+    ]
+  }
+]

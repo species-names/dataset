@@ -1,0 +1,3181 @@
+[
+  {
+    "scientific_name": "Calidris tenuirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jespák velký"
+      },
+      {
+        "lang": "ja",
+        "name": "オバシギ"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은어깨도요"
+      },
+      {
+        "lang": "sv",
+        "name": "Kolymasnäppa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris temminckii",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Temminckse Strandloper"
+      },
+      {
+        "lang": "ar",
+        "name": "الطيطوى الصغيرة الرمادية"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazaricu de Temminck"
+      },
+      {
+        "lang": "az",
+        "name": "Ağquyruq qumluq cüllütü"
+      },
+      {
+        "lang": "be",
+        "name": "Белахвосты пясочнік"
+      },
+      {
+        "lang": "bg",
+        "name": "Сив брегобегач"
+      },
+      {
+        "lang": "bn",
+        "name": "টেমিঙ্কের চাপাখি"
+      },
+      {
+        "lang": "br",
+        "name": "Ar sourouc'han-Temminck"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol de Temminck"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák šedý"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd Temminck"
+      },
+      {
+        "lang": "da",
+        "name": "Temmincksryle"
+      },
+      {
+        "lang": "de",
+        "name": "Temminckstrandläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Στρουθονεραλλίδι"
+      },
+      {
+        "lang": "en",
+        "name": "Temminck's Stint"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankvosta kalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos de Temminck"
+      },
+      {
+        "lang": "et",
+        "name": "Värbrisla"
+      },
+      {
+        "lang": "eu",
+        "name": "Temminck txirria"
+      },
+      {
+        "lang": "fi",
+        "name": "Lapinsirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Fjallgrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau de Temminck"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadáinín Temminck"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro de Temminck"
+      },
+      {
+        "lang": "he",
+        "name": "חופית טימיניק"
+      },
+      {
+        "lang": "hr",
+        "name": "Sijedi Žalar"
+      },
+      {
+        "lang": "hu",
+        "name": "Temminck partfutó"
+      },
+      {
+        "lang": "hy",
+        "name": "Ավազակտցար սպիտակապոչ"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Kedidi Temminck"
+      },
+      {
+        "lang": "is",
+        "name": "Bakkatíta"
+      },
+      {
+        "lang": "it",
+        "name": "Gambecchio nano"
+      },
+      {
+        "lang": "ja",
+        "name": "オジロトウネン"
+      },
+      {
+        "lang": "ka",
+        "name": "თეთრკუდა მექვიშია"
+      },
+      {
+        "lang": "kk",
+        "name": "Аққұйрық құмдауық"
+      },
+      {
+        "lang": "ko",
+        "name": "흰꼬리좀도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Temmincksandleefer"
+      },
+      {
+        "lang": "lt",
+        "name": "Teminko begikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Pelēkais šņibītis"
+      },
+      {
+        "lang": "mk",
+        "name": "Пепелав песочен (Белоопашест) свиркач"
+      },
+      {
+        "lang": "mn",
+        "name": "Темминский элсэг / ᠲᠧᠮᠢᠨᠰᠺᠢ ᠡᠯᠰᠡᠭ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Temminck"
+      },
+      {
+        "lang": "mt",
+        "name": "Tertuxa Griża"
+      },
+      {
+        "lang": "nl",
+        "name": "Temmincks Strandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Temmincksnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus mały"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito de Temminck"
+      },
+      {
+        "lang": "rm",
+        "name": "Rivarel pitschen"
+      },
+      {
+        "lang": "ro",
+        "name": "Fugaci pitic"
+      },
+      {
+        "lang": "ru",
+        "name": "Белохвостый песочник"
+      },
+      {
+        "lang": "se",
+        "name": "Guolbbacovzoš"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník sivý"
+      },
+      {
+        "lang": "sl",
+        "name": "Temminckov prodnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjelaci xhuxh"
+      },
+      {
+        "lang": "sr",
+        "name": "Teminckov žalar / Теминцков жалар"
+      },
+      {
+        "lang": "sv",
+        "name": "Mosnäppa"
+      },
+      {
+        "lang": "sw",
+        "name": "Chokowe Mkia-mweupe"
+      },
+      {
+        "lang": "ta",
+        "name": "Pachai Kaal Kosu Ullan"
+      },
+      {
+        "lang": "th",
+        "name": "นกสติ๊นท์อกเทา"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarı Bacaklı Kumkuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Ак кудуруктуг элезинчи"
+      },
+      {
+        "lang": "uk",
+        "name": "Білохвостий побережник"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Rẽ lưng đen"
+      },
+      {
+        "lang": "zh",
+        "name": "青脚滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris subminuta",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jespák dlouhoprstý"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒバリシギ"
+      },
+      {
+        "lang": "ko",
+        "name": "종달도요"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-de-dedos-compridos"
+      },
+      {
+        "lang": "sv",
+        "name": "Långtåsnäppa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris ruficollis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooinekstrandloper"
+      },
+      {
+        "lang": "bn",
+        "name": "লালঘাড় চাপাখি"
+      },
+      {
+        "lang": "ca",
+        "name": "Territ de gola roja"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák rudokrký"
+      },
+      {
+        "lang": "da",
+        "name": "Rødhalset ryle"
+      },
+      {
+        "lang": "de",
+        "name": "Rotkehl-Strandläufer"
+      },
+      {
+        "lang": "eml",
+        "name": "Giurgiòl"
+      },
+      {
+        "lang": "en",
+        "name": "Red-necked Stint"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos Cuellirrojo"
+      },
+      {
+        "lang": "et",
+        "name": "Punakael-rüdi"
+      },
+      {
+        "lang": "fi",
+        "name": "Rusokaulasirri"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau à col roux"
+      },
+      {
+        "lang": "he",
+        "name": "חופית אדומת צוואר"
+      },
+      {
+        "lang": "hu",
+        "name": "Rozsdástorkú partfutó"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Kedidi Leher-merah"
+      },
+      {
+        "lang": "is",
+        "name": "Roðatíta"
+      },
+      {
+        "lang": "it",
+        "name": "Gambecchio collorosso"
+      },
+      {
+        "lang": "ja",
+        "name": "トウネン、当年"
+      },
+      {
+        "lang": "kk",
+        "name": "Қызылмойын құмдауық"
+      },
+      {
+        "lang": "ko",
+        "name": "좀도요"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudakaklis bėgikas"
+      },
+      {
+        "lang": "mn",
+        "name": "Шар түрүүт элсэг / ᠰᠢᠷ᠎ᠠ ᠭᠦᠷᠦᠭᠦᠲᠦ ᠡᠯᠰᠡᠭ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Leher Merah"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkeelstrandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Rødstrupesnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus rdzawoszyi"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-de-pescoço-ruivo"
+      },
+      {
+        "lang": "ru",
+        "name": "Малый песочник"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník červenokrký"
+      },
+      {
+        "lang": "sl",
+        "name": "Rdečevrati prodnik"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödhalsad snäppa"
+      },
+      {
+        "lang": "th",
+        "name": "นกสติ๊นท์คอแดง"
+      },
+      {
+        "lang": "tr",
+        "name": "kızıl boyunlu kumkuşu"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Rẽ cổ hung"
+      },
+      {
+        "lang": "zh",
+        "name": "红颈滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris pusilla",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Sourouc'han dambalvezek"
+      },
+      {
+        "lang": "ca",
+        "name": "Territ semipalmat"
+      },
+      {
+        "lang": "cs",
+        "name": "jespák srostloprstý"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd llwyd"
+      },
+      {
+        "lang": "da",
+        "name": "Tyknæbbet Dværgryle"
+      },
+      {
+        "lang": "de",
+        "name": "Sandstrandläufer"
+      },
+      {
+        "lang": "en",
+        "name": "Semipalmated Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Pigmea kalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos Semipalmeado"
+      },
+      {
+        "lang": "et",
+        "name": "hallrisla"
+      },
+      {
+        "lang": "eu",
+        "name": "Territ semipalmat"
+      },
+      {
+        "lang": "fi",
+        "name": "kanadansirri"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau semipalmé"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadáinín Mionbhosach"
+      },
+      {
+        "lang": "gcf",
+        "name": "Alouette",
+        "synonyms": [
+          "Maringouin"
+        ]
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro semipalmado"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu'i"
+      },
+      {
+        "lang": "he",
+        "name": "חופית קרומת־רגל"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti Bekasin janm nwa"
+      },
+      {
+        "lang": "hu",
+        "name": "Kis partfutó"
+      },
+      {
+        "lang": "is",
+        "name": "Fitjatíta"
+      },
+      {
+        "lang": "it",
+        "name": "Piro-piro semipalmato"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒレアシトウネン",
+        "synonyms": [
+          "hireashitounen"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Mažasis smiltinukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze strandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Sandsnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "biegus tundrowy"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-rasteirinho"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-semipalmado"
+      },
+      {
+        "lang": "ru",
+        "name": "Берингийский песочник"
+      },
+      {
+        "lang": "sk",
+        "name": "pobrežník piesočný"
+      },
+      {
+        "lang": "sl",
+        "name": "krpljasti prodnik"
+      },
+      {
+        "lang": "sv",
+        "name": "Sandsnäppa"
+      },
+      {
+        "lang": "tr",
+        "name": "Perdeli Kumkuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Довгопалий побережник"
+      },
+      {
+        "lang": "zh",
+        "name": "半蹼滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris ptilocnemis",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Sourouc'han-karreg"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák pobřežní"
+      },
+      {
+        "lang": "de",
+        "name": "Beringstrandläufer"
+      },
+      {
+        "lang": "en",
+        "name": "Rock Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Rokkalidro"
+      },
+      {
+        "lang": "fi",
+        "name": "Beringinsirri"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau des Aléoutiennes"
+      },
+      {
+        "lang": "hu",
+        "name": "Bering-tengeri partfutó"
+      },
+      {
+        "lang": "ja",
+        "name": "チシマシギ"
+      },
+      {
+        "lang": "nn",
+        "name": "Klippesnipe"
+      },
+      {
+        "lang": "ru",
+        "name": "Берингийский песочник"
+      },
+      {
+        "lang": "sv",
+        "name": "Klippsnäppa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris minutilla",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Sourouc'han bitik"
+      },
+      {
+        "lang": "ca",
+        "name": "Territ menut canadenc"
+      },
+      {
+        "lang": "cs",
+        "name": "jespák drobný"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd lleiaf"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Dværgryle"
+      },
+      {
+        "lang": "de",
+        "name": "Wiesenstrandläufer"
+      },
+      {
+        "lang": "en",
+        "name": "Least Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika malgranda kalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos Menudillo"
+      },
+      {
+        "lang": "et",
+        "name": "pisirisla"
+      },
+      {
+        "lang": "eu",
+        "name": "Territ menut canadenc"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikansirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Vætturgrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau minuscule"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadáinín Bídeach"
+      },
+      {
+        "lang": "gcf",
+        "name": "Ricuit"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro minúsculo"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu'i"
+      },
+      {
+        "lang": "he",
+        "name": "חופית זעירה"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti bekasin piti"
+      },
+      {
+        "lang": "hu",
+        "name": "Törpepartfutó"
+      },
+      {
+        "lang": "is",
+        "name": "Mærutíta"
+      },
+      {
+        "lang": "it",
+        "name": "Piro-piro americano"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカヒバリシギ",
+        "synonyms": [
+          "amerikahibarishigi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Nykštukinis bėgikas"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleinste Strandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Pygmésnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "biegus karłowaty"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçariquinho"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-anão"
+      },
+      {
+        "lang": "ru",
+        "name": "Песочник-крошка"
+      },
+      {
+        "lang": "sk",
+        "name": "pobrežník najmenší"
+      },
+      {
+        "lang": "sl",
+        "name": "pritlikavi prodnik"
+      },
+      {
+        "lang": "sv",
+        "name": "Dvärgsnäppa"
+      },
+      {
+        "lang": "tr",
+        "name": "Cüce Kumkuşu"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲小滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris minuta",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kleinstrandloper"
+      },
+      {
+        "lang": "ar",
+        "name": "الطيطوى الصغيرة"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazaricu Nanu"
+      },
+      {
+        "lang": "az",
+        "name": "Sərçəvari qumluq cüllütü"
+      },
+      {
+        "lang": "be",
+        "name": "Малы кіркун"
+      },
+      {
+        "lang": "bg",
+        "name": "Малък брегобегач"
+      },
+      {
+        "lang": "bn",
+        "name": "ছোট চাপাখি"
+      },
+      {
+        "lang": "br",
+        "name": "Ar sourouc'han bihan"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol menut"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák malý"
+      },
+      {
+        "lang": "cw",
+        "name": "Stynt munys"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd bach"
+      },
+      {
+        "lang": "da",
+        "name": "Dværgryle"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergstrandläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Νανονεραλλίδι"
+      },
+      {
+        "lang": "eml",
+        "name": "Premavera"
+      },
+      {
+        "lang": "en",
+        "name": "Little Stint"
+      },
+      {
+        "lang": "eo",
+        "name": "Malgranda kalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos Menudo"
+      },
+      {
+        "lang": "et",
+        "name": "Väikerisla"
+      },
+      {
+        "lang": "eu",
+        "name": "Territ menut"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkusirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Dvørggrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau minute"
+      },
+      {
+        "lang": "frr",
+        "name": "Kleipraker"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadáinín Beag"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilriño patimouro"
+      },
+      {
+        "lang": "gv",
+        "name": "Looyran beg"
+      },
+      {
+        "lang": "he",
+        "name": "חופית קטנה"
+      },
+      {
+        "lang": "hr",
+        "name": "Mali Žalar"
+      },
+      {
+        "lang": "hu",
+        "name": "Apró partfutó"
+      },
+      {
+        "lang": "hy",
+        "name": "Կտցար ճնճղուկ"
+      },
+      {
+        "lang": "is",
+        "name": "Veimiltíta"
+      },
+      {
+        "lang": "it",
+        "name": "Gambecchio comune"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパトウネン"
+      },
+      {
+        "lang": "ka",
+        "name": "კოკორინა-ბეღურა"
+      },
+      {
+        "lang": "kk",
+        "name": "Құмғақша"
+      },
+      {
+        "lang": "ko",
+        "name": "작은도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Zwergsandleefer"
+      },
+      {
+        "lang": "lt",
+        "name": "Mažasis begikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Trulītis"
+      },
+      {
+        "lang": "mk",
+        "name": "Мал песочен (Мал) свиркач"
+      },
+      {
+        "lang": "mn",
+        "name": "Одой элсэг - ᠣᠳᠣᠢ ᠡᠯᠰᠡᠭ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Kerdil"
+      },
+      {
+        "lang": "mt",
+        "name": "Tertuxa"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine Strandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Dvergsnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus malutki"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-pequeno"
+      },
+      {
+        "lang": "rm",
+        "name": "Rivarel nanin"
+      },
+      {
+        "lang": "ro",
+        "name": "Fugaci mic"
+      },
+      {
+        "lang": "ru",
+        "name": "Кулик-воробей"
+      },
+      {
+        "lang": "sah",
+        "name": "Кырбас-бараах"
+      },
+      {
+        "lang": "se",
+        "name": "Uhcacovzoš"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník malý"
+      },
+      {
+        "lang": "sl",
+        "name": "Mali prodnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjelaci i vogël"
+      },
+      {
+        "lang": "sr",
+        "name": "Blatarić patuljak - Блатарић патулјак"
+      },
+      {
+        "lang": "st",
+        "name": "Tsititsiti-nyenyane"
+      },
+      {
+        "lang": "sv",
+        "name": "Småsnäppa"
+      },
+      {
+        "lang": "sw",
+        "name": "Chokowe Mdogo"
+      },
+      {
+        "lang": "ta",
+        "name": "Kosu Ullan"
+      },
+      {
+        "lang": "th",
+        "name": "นกสติ๊นท์เล็ก"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük kumkuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Эрик бора хөкнежи"
+      },
+      {
+        "lang": "uk",
+        "name": "Кулик-горобець"
+      },
+      {
+        "lang": "vec",
+        "name": "Becanèla",
+        "synonyms": [
+          "Biseghin"
+        ]
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Rẽ nhỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "小滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris melanotos",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Geelpootstrandloper"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazaricu Americanu"
+      },
+      {
+        "lang": "bg",
+        "name": "Цветногръд брегобегач"
+      },
+      {
+        "lang": "br",
+        "name": "Sourouc'han petralek"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol pectoral"
+      },
+      {
+        "lang": "cs",
+        "name": "jespák skvrnitý"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd cain"
+      },
+      {
+        "lang": "da",
+        "name": "Stribet ryle"
+      },
+      {
+        "lang": "de",
+        "name": "Graubrust-Strandläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Πατσαλονεραλλίδι"
+      },
+      {
+        "lang": "en",
+        "name": "Pectoral Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "striokalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos Pectoral"
+      },
+      {
+        "lang": "et",
+        "name": "kiripugu-rüdi"
+      },
+      {
+        "lang": "eu",
+        "name": "Territ pectoral"
+      },
+      {
+        "lang": "fi",
+        "name": "palsasirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Sjógrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau à poitrine cendrée"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadán Uchtach"
+      },
+      {
+        "lang": "gcf",
+        "name": "Dos rouge"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro peitoral"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu'i"
+      },
+      {
+        "lang": "gv",
+        "name": "Looyran brollagh"
+      },
+      {
+        "lang": "he",
+        "name": "חופית כהת חזה"
+      },
+      {
+        "lang": "ht",
+        "name": "Bekasin fal nwa"
+      },
+      {
+        "lang": "hu",
+        "name": "Vándorpartfutó"
+      },
+      {
+        "lang": "is",
+        "name": "Rákatíta"
+      },
+      {
+        "lang": "it",
+        "name": "Piro-piro pettorale"
+      },
+      {
+        "lang": "iu",
+        "name": "Shigeriakjuk",
+        "synonyms": [
+          "Tweetwee-nyuak"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカウズラシギ",
+        "synonyms": [
+          "amerikauzurashigi"
+        ]
+      },
+      {
+        "lang": "kl",
+        "name": "Shigeriakjuk",
+        "synonyms": [
+          "Tweetwee-nyuak"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "아메리카메추라기도요"
+      },
+      {
+        "lang": "lt",
+        "name": "Raibakrūtis bėgikas"
+      },
+      {
+        "lang": "nl",
+        "name": "Gestreepte strandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Alaskasnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "biegus arktyczny"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-de-colete"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-peitoral"
+      },
+      {
+        "lang": "rm",
+        "name": "rivarel puppen grisch"
+      },
+      {
+        "lang": "ru",
+        "name": "Дутыш"
+      },
+      {
+        "lang": "sk",
+        "name": "pobrežník škvrnitý"
+      },
+      {
+        "lang": "sl",
+        "name": "prekmorski prodnik",
+        "synonyms": [
+          "prekomorski prodnik"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Tuvsnäppa"
+      },
+      {
+        "lang": "tr",
+        "name": "Çizgili kum kuşu"
+      },
+      {
+        "lang": "zh",
+        "name": "斑胸滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris mauri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Jespák aljašský"
+      },
+      {
+        "lang": "fi",
+        "name": "Tundrasirri"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau d'Alaska"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメハマシギ"
+      },
+      {
+        "lang": "sv",
+        "name": "Tundrasnäppa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris maritima",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Mazaricu de Pedreu"
+      },
+      {
+        "lang": "be",
+        "name": "Марскі пясочнік"
+      },
+      {
+        "lang": "br",
+        "name": "Sourouc'han du"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol fosc"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák mořský"
+      },
+      {
+        "lang": "cw",
+        "name": "Pyber ruthlas"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd Du"
+      },
+      {
+        "lang": "da",
+        "name": "Sortgrå ryle"
+      },
+      {
+        "lang": "de",
+        "name": "Meerstrandläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Βραχοσκαλίδρα"
+      },
+      {
+        "lang": "en",
+        "name": "Purple Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Markalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos Oscuro"
+      },
+      {
+        "lang": "et",
+        "name": "Merirüdi"
+      },
+      {
+        "lang": "eu",
+        "name": "Territ fosc"
+      },
+      {
+        "lang": "fi",
+        "name": "Merisirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Grælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau violet"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadáinín cosbhuí"
+      },
+      {
+        "lang": "gd",
+        "name": "Luatharan rioghail"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro cinsento"
+      },
+      {
+        "lang": "gv",
+        "name": "Looyran gorrym"
+      },
+      {
+        "lang": "he",
+        "name": "חופית ימית"
+      },
+      {
+        "lang": "hr",
+        "name": "Morski žalar"
+      },
+      {
+        "lang": "hu",
+        "name": "Tengeri partfutó"
+      },
+      {
+        "lang": "is",
+        "name": "Sendlingur"
+      },
+      {
+        "lang": "it",
+        "name": "Piovanello violetto"
+      },
+      {
+        "lang": "iu",
+        "name": "Saarfaarsuk"
+      },
+      {
+        "lang": "ja",
+        "name": "ムラサキハマシギ"
+      },
+      {
+        "lang": "kk",
+        "name": "Тењіз құмдауық"
+      },
+      {
+        "lang": "lt",
+        "name": "Jūrinis bėgikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Jūras šņibītis"
+      },
+      {
+        "lang": "mn",
+        "name": "Тэнгисийн элсэг"
+      },
+      {
+        "lang": "mt",
+        "name": "Beggazzina tan-Nord"
+      },
+      {
+        "lang": "nl",
+        "name": "Paarse strandloper"
+      },
+      {
+        "lang": "nn",
+        "name": "Fjøreplytt"
+      },
+      {
+        "lang": "no",
+        "name": "Fjæreplytt"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus morski"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-escuro"
+      },
+      {
+        "lang": "rm",
+        "name": "Rivarel violet"
+      },
+      {
+        "lang": "ru",
+        "name": "Морской песочник"
+      },
+      {
+        "lang": "se",
+        "name": "Gáddeviroš"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník morský"
+      },
+      {
+        "lang": "sl",
+        "name": "Morski prodnik"
+      },
+      {
+        "lang": "sr",
+        "name": "Морски жалар"
+      },
+      {
+        "lang": "sv",
+        "name": "Skärsnäppa"
+      },
+      {
+        "lang": "tr",
+        "name": "Mor Kumkuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Далай кудуруктуг элезинчи"
+      },
+      {
+        "lang": "uk",
+        "name": "Морський побережник"
+      },
+      {
+        "lang": "zh",
+        "name": "紫滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris himantopus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Corriol camallarg"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák dlouhonohý"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd hirgoes"
+      },
+      {
+        "lang": "da",
+        "name": "Klireryle"
+      },
+      {
+        "lang": "de",
+        "name": "Bindenstrandläufer"
+      },
+      {
+        "lang": "en",
+        "name": "Stilt Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Himantopa kalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos Zancolín"
+      },
+      {
+        "lang": "et",
+        "name": "Pikkjalg-risla"
+      },
+      {
+        "lang": "eu",
+        "name": "Territ camallarg"
+      },
+      {
+        "lang": "fi",
+        "name": "Pitkäkoipisirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Stelkagrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau à échasses"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadán Scodalach"
+      },
+      {
+        "lang": "gcf",
+        "name": "Chevalier Pied-vert"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro patilongo"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu'i"
+      },
+      {
+        "lang": "he",
+        "name": "בצנית תמירונית"
+      },
+      {
+        "lang": "ht",
+        "name": "Bekasin janm long"
+      },
+      {
+        "lang": "hu",
+        "name": "Töcspartfutó"
+      },
+      {
+        "lang": "is",
+        "name": "Vaðfæla"
+      },
+      {
+        "lang": "it",
+        "name": "Piro-piro zampelunghe"
+      },
+      {
+        "lang": "ja",
+        "name": "アシナガシギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Ilgakojis bėgikas"
+      },
+      {
+        "lang": "nl",
+        "name": "Steltstrandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Styltesnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus brodźcowaty"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-pernilongo"
+      },
+      {
+        "lang": "pt",
+        "name": "Maçarico-pernilongo"
+      },
+      {
+        "lang": "ru",
+        "name": "Ходулочниковый песочник"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník dlhonohý"
+      },
+      {
+        "lang": "sl",
+        "name": "Dulnik"
+      },
+      {
+        "lang": "sv",
+        "name": "Styltsnäppa"
+      },
+      {
+        "lang": "tr",
+        "name": "Uzun bacaklı kumkuşu"
+      },
+      {
+        "lang": "zh",
+        "name": "高跷鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris fuscicollis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witrugstrandloper"
+      },
+      {
+        "lang": "br",
+        "name": "Sourouc'han belost gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol coablanc"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák tundrový"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd tinwen"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidrygget ryle"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbürzel-Strandläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Λευκόπυγη Σκαλίδρα"
+      },
+      {
+        "lang": "en",
+        "name": "White-rumped Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankpuga kalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos Culiblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Valgepära-risla"
+      },
+      {
+        "lang": "eu",
+        "name": "Bonaparte txirri"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkoperäsirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Nevstuttur grælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau à croupion blanc"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadán Bánphrompach"
+      },
+      {
+        "lang": "gd",
+        "name": "Luatharan Ban"
+      },
+      {
+        "lang": "gl",
+        "name": "pirlo de Bonaparte"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu'i"
+      },
+      {
+        "lang": "he",
+        "name": "חופית לבנת־שת"
+      },
+      {
+        "lang": "ht",
+        "name": "Bekasin ke blanch"
+      },
+      {
+        "lang": "hu",
+        "name": "Bonaparte-partfutó"
+      },
+      {
+        "lang": "is",
+        "name": "Vaðlatíta"
+      },
+      {
+        "lang": "it",
+        "name": "Piro-piro dorsobianco"
+      },
+      {
+        "lang": "iu",
+        "name": "Levelivela"
+      },
+      {
+        "lang": "ja",
+        "name": "コシジロウズラシギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltnugaris bėgikas"
+      },
+      {
+        "lang": "nl",
+        "name": "Bonapartes Strandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Bonapartesnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus białorzytny"
+      },
+      {
+        "lang": "pt",
+        "name": "Macarico de rabadilha branca"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-de-sobre-branco"
+      },
+      {
+        "lang": "rm",
+        "name": "Rivarel dal tgil alv"
+      },
+      {
+        "lang": "ru",
+        "name": "Бонапартов песочник"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník tmavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Belotrtični prodnik"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitgumpsnäppa"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak sokumlu kum kuşu"
+      },
+      {
+        "lang": "zh",
+        "name": "白腰滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris ferruginea",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Krombekstrandloper"
+      },
+      {
+        "lang": "ar",
+        "name": "كروان الماء"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazaricu Ferruñosu"
+      },
+      {
+        "lang": "az",
+        "name": "Qırmızıdöş qumluq cüllütü"
+      },
+      {
+        "lang": "be",
+        "name": "Чырвонаваллёвік"
+      },
+      {
+        "lang": "bg",
+        "name": "Кривоклюн брегобегач"
+      },
+      {
+        "lang": "bn",
+        "name": "গুলিন্দা বাটান"
+      },
+      {
+        "lang": "br",
+        "name": "Sourouc'han beg kromm"
+      },
+      {
+        "lang": "ca",
+        "name": "Corriol becllarg"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák křivozobý"
+      },
+      {
+        "lang": "cw",
+        "name": "Pyber Gelvynak"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd cambig"
+      },
+      {
+        "lang": "da",
+        "name": "Krumnæbbet ryle"
+      },
+      {
+        "lang": "de",
+        "name": "Sichelstrandläufer"
+      },
+      {
+        "lang": "dv",
+        "name": "Bondana Ilolhi"
+      },
+      {
+        "lang": "el",
+        "name": "Κοτσινονεραλλίδι"
+      },
+      {
+        "lang": "en",
+        "name": "Curlew Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Rustokalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos zarapatín"
+      },
+      {
+        "lang": "et",
+        "name": "Kõvernokk-risla"
+      },
+      {
+        "lang": "eu",
+        "name": "Territ becllarg"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuovisirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Reyðgrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau cocorli"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadáinín crotaigh"
+      },
+      {
+        "lang": "gd",
+        "name": "Luatharan crom"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro ferruxento"
+      },
+      {
+        "lang": "gv",
+        "name": "Looyran crottagh"
+      },
+      {
+        "lang": "he",
+        "name": "חופית מגלית"
+      },
+      {
+        "lang": "hr",
+        "name": "Krivokljuni Žalar"
+      },
+      {
+        "lang": "hu",
+        "name": "Sarlós partfutó"
+      },
+      {
+        "lang": "hy",
+        "name": "Ավազակտցար կարմրախածի"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Kedidi Golgol"
+      },
+      {
+        "lang": "is",
+        "name": "Spóatíta"
+      },
+      {
+        "lang": "it",
+        "name": "Piovanello comune"
+      },
+      {
+        "lang": "ja",
+        "name": "サルハマシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "წითელჩიჩახვა მექვიშია"
+      },
+      {
+        "lang": "kk",
+        "name": "Қызылтєс құмдауық"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은갯도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Séchelsandleefer"
+      },
+      {
+        "lang": "lt",
+        "name": "Lenktasnapis bėgikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Līkšņibītis"
+      },
+      {
+        "lang": "mk",
+        "name": "Кривоклун песочен свиркач"
+      },
+      {
+        "lang": "mn",
+        "name": "Хадуур элсэг - ᠰᠡᠭᠦᠯ ᠡᠯᠰᠡᠭ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Pasir Kendi"
+      },
+      {
+        "lang": "mt",
+        "name": "Beggazzina îamra"
+      },
+      {
+        "lang": "nl",
+        "name": "Krombekstrandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Tundrasnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus krzywodzioby"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-de-bico-comprido"
+      },
+      {
+        "lang": "rm",
+        "name": "Rivarel dal bec tort"
+      },
+      {
+        "lang": "ro",
+        "name": "Fugaci roşcat"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснозобик"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník krivozobý"
+      },
+      {
+        "lang": "sl",
+        "name": "Srpokljuni prodnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjelëza gushëkuqe"
+      },
+      {
+        "lang": "sr",
+        "name": "Krivokljuni blataric - Кривоклјуни блатарић"
+      },
+      {
+        "lang": "sv",
+        "name": "Spovsnäppa"
+      },
+      {
+        "lang": "sw",
+        "name": "Chokowe Domo-sululu"
+      },
+      {
+        "lang": "ta",
+        "name": "Curlew Ullan"
+      },
+      {
+        "lang": "th",
+        "name": "นกชายเลนปากโค้ง"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl kum kuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кызыл-боостаа"
+      },
+      {
+        "lang": "uk",
+        "name": "Побережник червоногрудий"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Rẽ bụng nâu"
+      },
+      {
+        "lang": "zh",
+        "name": "弯嘴滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris canutus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Knoet"
+      },
+      {
+        "lang": "ar",
+        "name": "دريجة الشمال"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazaricu Fartón"
+      },
+      {
+        "lang": "az",
+        "name": "Islandiya qumluq cüllütü"
+      },
+      {
+        "lang": "be",
+        "name": "Ісландскі пясочнік"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям брегобегач"
+      },
+      {
+        "lang": "br",
+        "name": "Sourouc'han morlerek"
+      },
+      {
+        "lang": "ca",
+        "name": "Territ gros"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák rezavý"
+      },
+      {
+        "lang": "cw",
+        "name": "Knut"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd yr Aber"
+      },
+      {
+        "lang": "da",
+        "name": "Islandsk ryle"
+      },
+      {
+        "lang": "de",
+        "name": "Knutt"
+      },
+      {
+        "lang": "el",
+        "name": "Διπλονεραλλίδι"
+      },
+      {
+        "lang": "en",
+        "name": "Red Knot"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda kalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos gordo"
+      },
+      {
+        "lang": "et",
+        "name": "Suurrisla"
+      },
+      {
+        "lang": "eu",
+        "name": "Txirri lodi"
+      },
+      {
+        "lang": "fi",
+        "name": "Isosirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Íslandsgrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau maubèche"
+      },
+      {
+        "lang": "frr",
+        "name": "Kanuut"
+      },
+      {
+        "lang": "ga",
+        "name": "Cnota"
+      },
+      {
+        "lang": "gcf",
+        "name": "Dos rouge"
+      },
+      {
+        "lang": "gd",
+        "name": "Luatharan gainmhich"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro gordo"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu'i"
+      },
+      {
+        "lang": "gv",
+        "name": "Coar ny traieyn"
+      },
+      {
+        "lang": "he",
+        "name": "חופית להקנית"
+      },
+      {
+        "lang": "hr",
+        "name": "Rdasti Žalar"
+      },
+      {
+        "lang": "ht",
+        "name": "Mòbèch"
+      },
+      {
+        "lang": "hu",
+        "name": "Sarki partfutó"
+      },
+      {
+        "lang": "id",
+        "name": "Kedidi Merah"
+      },
+      {
+        "lang": "is",
+        "name": "Rauðbrystingur"
+      },
+      {
+        "lang": "it",
+        "name": "Piovanello maggiore"
+      },
+      {
+        "lang": "iu",
+        "name": "Qajorlak"
+      },
+      {
+        "lang": "ja",
+        "name": "コオバシギ"
+      },
+      {
+        "lang": "kk",
+        "name": "Исландия құмдауғы"
+      },
+      {
+        "lang": "kl",
+        "name": "Qajorlak"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은가슴도요"
+      },
+      {
+        "lang": "lt",
+        "name": "Islandinis bėgikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Lielais šņibītis"
+      },
+      {
+        "lang": "mi",
+        "name": "Huahou"
+      },
+      {
+        "lang": "mn",
+        "name": "Шармаг элсэг"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Dian Kecil"
+      },
+      {
+        "lang": "mt",
+        "name": "Girwiel Saqajh Qosra"
+      },
+      {
+        "lang": "nl",
+        "name": "Kanoet"
+      },
+      {
+        "lang": "nn",
+        "name": "Polarsnipe"
+      },
+      {
+        "lang": "no",
+        "name": "Polarsnipe"
+      },
+      {
+        "lang": "pcd",
+        "name": "Rousléte"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus rdzawy"
+      },
+      {
+        "lang": "pnb",
+        "name": "رتا ناٹ"
+      },
+      {
+        "lang": "pt",
+        "name": "Seixoeira"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-de-papo-vermelho"
+      },
+      {
+        "lang": "rm",
+        "name": "Rivarel grisch"
+      },
+      {
+        "lang": "ru",
+        "name": "Исландский песочник"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník hrdzavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Veliki prodnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjelëza e madhe"
+      },
+      {
+        "lang": "sr",
+        "name": "Prudnik"
+      },
+      {
+        "lang": "sv",
+        "name": "Kustsnäppa"
+      },
+      {
+        "lang": "sw",
+        "name": "Chokowe Mwekundu"
+      },
+      {
+        "lang": "th",
+        "name": "นกน็อตเล็ก"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük kum kuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Чүгүрүк элезинчи"
+      },
+      {
+        "lang": "uk",
+        "name": "Побережник ісландський"
+      },
+      {
+        "lang": "vi",
+        "name": "Dẽ lưng nâu"
+      },
+      {
+        "lang": "zh",
+        "name": "红腹滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris bairdii",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bairdse Strandloper"
+      },
+      {
+        "lang": "br",
+        "name": "Sourouc'han-Baird"
+      },
+      {
+        "lang": "ca",
+        "name": "Territ de Baird"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák dlouhokřídlý"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd Baird"
+      },
+      {
+        "lang": "da",
+        "name": "Bairdsryle"
+      },
+      {
+        "lang": "de",
+        "name": "Bairdstrandläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Λιβαδοσκαλίδρα"
+      },
+      {
+        "lang": "en",
+        "name": "Baird's Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Flavbrusta kalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos de Baird"
+      },
+      {
+        "lang": "et",
+        "name": "Eskimo rüdi"
+      },
+      {
+        "lang": "eu",
+        "name": "Territ de Baird"
+      },
+      {
+        "lang": "fi",
+        "name": "Eskimosirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Slankugrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau de Baird"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadáinín Baird"
+      },
+      {
+        "lang": "gd",
+        "name": "Trìlleachan Glas"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro de Baird"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu'i"
+      },
+      {
+        "lang": "he",
+        "name": "חופית בירד"
+      },
+      {
+        "lang": "ht",
+        "name": "Bekasin zèl long"
+      },
+      {
+        "lang": "hu",
+        "name": "Baird-partfutó"
+      },
+      {
+        "lang": "is",
+        "name": "Leirutíta"
+      },
+      {
+        "lang": "it",
+        "name": "Gambecchio di Baird"
+      },
+      {
+        "lang": "iu",
+        "name": "Tweetwee"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメウズラシギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Ilgasparnis bėgikas"
+      },
+      {
+        "lang": "nl",
+        "name": "Bairds strandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Gulbrystsnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus długoskrzydły"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito de Baird"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-de-bico-fino"
+      },
+      {
+        "lang": "ru",
+        "name": "Бэрдов песочник"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník plavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Vrtorepi prodnik"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulbröstad snäppa"
+      },
+      {
+        "lang": "tr",
+        "name": "Uzun kanatlı kumkuşu"
+      },
+      {
+        "lang": "zh",
+        "name": "白腹滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris alpina",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bontstrandloper"
+      },
+      {
+        "lang": "ar",
+        "name": "دريجة رهيز"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazaricu"
+      },
+      {
+        "lang": "az",
+        "name": "Qaradöş qumluq cüllütü"
+      },
+      {
+        "lang": "be",
+        "name": "Вялікі кіркун"
+      },
+      {
+        "lang": "bg",
+        "name": "Тъмногръд брегобегач"
+      },
+      {
+        "lang": "br",
+        "name": "Sourouc'han boutin"
+      },
+      {
+        "lang": "ca",
+        "name": "Territ variant"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák obecný"
+      },
+      {
+        "lang": "csb",
+        "name": "Biegôcz"
+      },
+      {
+        "lang": "cw",
+        "name": "Kyogh mor"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd y Mawn"
+      },
+      {
+        "lang": "da",
+        "name": "Almindelig ryle"
+      },
+      {
+        "lang": "de",
+        "name": "Alpenstrandläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Λασπονεραλλίδι"
+      },
+      {
+        "lang": "eml",
+        "name": "Giurgiol"
+      },
+      {
+        "lang": "en",
+        "name": "Dunlin"
+      },
+      {
+        "lang": "eo",
+        "name": "Bunta kalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos común"
+      },
+      {
+        "lang": "et",
+        "name": "Soorüdi"
+      },
+      {
+        "lang": "eu",
+        "name": "Txirri arrunt"
+      },
+      {
+        "lang": "fi",
+        "name": "Suosirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Fjallmurra"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau variable"
+      },
+      {
+        "lang": "frr",
+        "name": "Stönerk"
+      },
+      {
+        "lang": "fy",
+        "name": "Bûnte Gril"
+      },
+      {
+        "lang": "ga",
+        "name": "Breacóg"
+      },
+      {
+        "lang": "gd",
+        "name": "Graillig"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro común"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu'i"
+      },
+      {
+        "lang": "gv",
+        "name": "Breck ny Traie"
+      },
+      {
+        "lang": "he",
+        "name": "חופית אלפינית"
+      },
+      {
+        "lang": "hr",
+        "name": "Žalar Cirikavac"
+      },
+      {
+        "lang": "ht",
+        "name": "Bekasin vant nwa"
+      },
+      {
+        "lang": "hu",
+        "name": "Havasi partfutó"
+      },
+      {
+        "lang": "hy",
+        "name": "Կտցար սևախածիկ"
+      },
+      {
+        "lang": "is",
+        "name": "Lóuþræll"
+      },
+      {
+        "lang": "it",
+        "name": "Piovanello pancianera"
+      },
+      {
+        "lang": "iu",
+        "name": "Aiviukak"
+      },
+      {
+        "lang": "ja",
+        "name": "ハマシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "შავჩიჩახვა მექვიშია"
+      },
+      {
+        "lang": "kk",
+        "name": "Қаратєс құмдаыық"
+      },
+      {
+        "lang": "ko",
+        "name": "민물도요"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodkrūtis bėgikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Parastais šņibītis"
+      },
+      {
+        "lang": "mk",
+        "name": "Северен песочен свиркач"
+      },
+      {
+        "lang": "mn",
+        "name": "Хар элсэг"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Dunlin"
+      },
+      {
+        "lang": "mt",
+        "name": "Beggazzina tat-tiżż"
+      },
+      {
+        "lang": "nl",
+        "name": "Bonte strandloper"
+      },
+      {
+        "lang": "nn",
+        "name": "Myrsnipe"
+      },
+      {
+        "lang": "no",
+        "name": "Myrsnipe"
+      },
+      {
+        "lang": "pcd",
+        "name": "Aloehéte éd mér"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus zmienny"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈنلن"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Rivarel alpin"
+      },
+      {
+        "lang": "ru",
+        "name": "Чернозобик"
+      },
+      {
+        "lang": "rue",
+        "name": "Алпскый писочник"
+      },
+      {
+        "lang": "se",
+        "name": "Jeaggecovzoš"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník čiernozobý"
+      },
+      {
+        "lang": "sl",
+        "name": "Spremenljivi prodnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjelëza gushëzezë"
+      },
+      {
+        "lang": "sr",
+        "name": "Obicni blataric"
+      },
+      {
+        "lang": "sv",
+        "name": "Kärrsnäppa"
+      },
+      {
+        "lang": "th",
+        "name": "นกชายเลนท้องดำ"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara karınlı kum kuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кара-боостаа"
+      },
+      {
+        "lang": "uk",
+        "name": "Побережник чорногрудий"
+      },
+      {
+        "lang": "vi",
+        "name": "Dẽ trán trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "黑腹滨鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris alba",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Drietoonstrandloper"
+      },
+      {
+        "lang": "ar",
+        "name": "المدروان"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazaricu Analayeru"
+      },
+      {
+        "lang": "az",
+        "name": "Adi qumluq cüllütü"
+      },
+      {
+        "lang": "be",
+        "name": "Пясчанка"
+      },
+      {
+        "lang": "bg",
+        "name": "Трипръст брегобегач"
+      },
+      {
+        "lang": "br",
+        "name": "Sourouc'han gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Territ de tres dits"
+      },
+      {
+        "lang": "cs",
+        "name": "jespák písečný"
+      },
+      {
+        "lang": "cw",
+        "name": "Pyber treth"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd y Tywod"
+      },
+      {
+        "lang": "da",
+        "name": "Sandløber"
+      },
+      {
+        "lang": "de",
+        "name": "Sanderling"
+      },
+      {
+        "lang": "el",
+        "name": "Ασπρονεραλλίδι"
+      },
+      {
+        "lang": "en",
+        "name": "Sanderling"
+      },
+      {
+        "lang": "eo",
+        "name": "Sablokalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos Tridáctilo"
+      },
+      {
+        "lang": "et",
+        "name": "Leeterisla"
+      },
+      {
+        "lang": "eu",
+        "name": "Txirri zuri"
+      },
+      {
+        "lang": "fi",
+        "name": "Pulmussirri"
+      },
+      {
+        "lang": "fo",
+        "name": "Sandgrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau sanderling"
+      },
+      {
+        "lang": "ga",
+        "name": "Luathrán"
+      },
+      {
+        "lang": "gcf",
+        "name": "Gros Maringouin blanc"
+      },
+      {
+        "lang": "gd",
+        "name": "Luatharan glas"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro bulebule"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu'i"
+      },
+      {
+        "lang": "gv",
+        "name": "Coar gheinnee"
+      },
+      {
+        "lang": "haw",
+        "name": "Hunakai"
+      },
+      {
+        "lang": "he",
+        "name": "חופית לבנה"
+      },
+      {
+        "lang": "hr",
+        "name": "Bijeli Žalar"
+      },
+      {
+        "lang": "ht",
+        "name": "Bécassine Blanche"
+      },
+      {
+        "lang": "hu",
+        "name": "Fenyérfutó"
+      },
+      {
+        "lang": "hy",
+        "name": "Ճերմակ Ավազակտցար"
+      },
+      {
+        "lang": "id",
+        "name": "Kedidi Putih"
+      },
+      {
+        "lang": "is",
+        "name": "Sanderla"
+      },
+      {
+        "lang": "it",
+        "name": "Piovanello tridattilo"
+      },
+      {
+        "lang": "iu",
+        "name": "Siorarsiooq"
+      },
+      {
+        "lang": "ja",
+        "name": "ミユビシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "მექვიშია-კოკორინა"
+      },
+      {
+        "lang": "kk",
+        "name": "Құмқұс"
+      },
+      {
+        "lang": "kl",
+        "name": "Siorarsiooq"
+      },
+      {
+        "lang": "ko",
+        "name": "세가락도요"
+      },
+      {
+        "lang": "lt",
+        "name": "Smiltinukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Gaišais šņibītis"
+      },
+      {
+        "lang": "mk",
+        "name": "Бел свиркач"
+      },
+      {
+        "lang": "mn",
+        "name": "Гурвалж элсэг"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Kapak"
+      },
+      {
+        "lang": "mt",
+        "name": "Pispisella Bajda"
+      },
+      {
+        "lang": "nl",
+        "name": "Drieteenstrandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Sandløper"
+      },
+      {
+        "lang": "pcd",
+        "name": "Dmirousléte"
+      },
+      {
+        "lang": "pl",
+        "name": "Piaskowiec"
+      },
+      {
+        "lang": "pnb",
+        "name": "سینڈرلنگ"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-branco"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-sanderlingo"
+      },
+      {
+        "lang": "rm",
+        "name": "Rivarel sabluner"
+      },
+      {
+        "lang": "ru",
+        "name": "Песчанка"
+      },
+      {
+        "lang": "sk",
+        "name": "Pobrežník belavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Beli prodnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjelëza me tri gishta"
+      },
+      {
+        "lang": "sr",
+        "name": "Beli prudnik"
+      },
+      {
+        "lang": "sv",
+        "name": "Sandlöpare"
+      },
+      {
+        "lang": "sw",
+        "name": "Chokowe Tumbo-jeupe"
+      },
+      {
+        "lang": "th",
+        "name": "นกคอสั้นตีนไว"
+      },
+      {
+        "lang": "to",
+        "name": "Kiu vave"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak Kumkuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Элезинчи"
+      },
+      {
+        "lang": "uk",
+        "name": "Побережник білий"
+      },
+      {
+        "lang": "vi",
+        "name": "Dẽ cổ xám"
+      },
+      {
+        "lang": "zh",
+        "name": "三趾鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Calidris acuminata",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Sourouc'han lost begek"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák klínoocasý"
+      },
+      {
+        "lang": "en",
+        "name": "Sharp-tailed Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Pintvosta kalidro"
+      },
+      {
+        "lang": "fi",
+        "name": "Suippopyrstösirri"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau à queue pointue"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyesfarkú partfutó"
+      },
+      {
+        "lang": "ja",
+        "name": "ウズラシギ"
+      },
+      {
+        "lang": "ko",
+        "name": "메추라기도요"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Ekor Tajam"
+      },
+      {
+        "lang": "no",
+        "name": "Spisshalesnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus ostrosterny"
+      },
+      {
+        "lang": "sv",
+        "name": "Spetsstjärtad snäppa"
+      },
+      {
+        "lang": "zh",
+        "name": "尖尾滨鹬"
+      }
+    ]
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "scientific_name": "Limicola falcinellus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Breebekstrandloper"
+      },
+      {
+        "lang": "ar",
+        "name": "الطيطوى عريضة المنقار"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazaricu Paticortu"
+      },
+      {
+        "lang": "az",
+        "name": "Lil cüllütü"
+      },
+      {
+        "lang": "be",
+        "name": "Кулік-гразевік"
+      },
+      {
+        "lang": "bg",
+        "name": "Блатобегач"
+      },
+      {
+        "lang": "bn",
+        "name": "মোটাঠুঁটো বাটান"
+      },
+      {
+        "lang": "br",
+        "name": "Ar sourouc'han beg ledan"
+      },
+      {
+        "lang": "ca",
+        "name": "Territ becadell"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespáček ploskozobý"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd llydanbig"
+      },
+      {
+        "lang": "da",
+        "name": "Kærløber"
+      },
+      {
+        "lang": "de",
+        "name": "Sumpfläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Πικατσονεραλλίδι"
+      },
+      {
+        "lang": "en",
+        "name": "Broad-billed Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Larĝbeka kalidro"
+      },
+      {
+        "lang": "es",
+        "name": "Correlimos falcinelo"
+      },
+      {
+        "lang": "et",
+        "name": "Plütt"
+      },
+      {
+        "lang": "eu",
+        "name": "Territ becadell"
+      },
+      {
+        "lang": "fi",
+        "name": "Jänkäsirriäinen"
+      },
+      {
+        "lang": "fo",
+        "name": "Mórugrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasseau falcinelle"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadán Gobleathan"
+      },
+      {
+        "lang": "gcf",
+        "name": "Gros Maringouin blanc"
+      },
+      {
+        "lang": "gl",
+        "name": "Pilro falcinelo"
+      },
+      {
+        "lang": "he",
+        "name": "חרמשית"
+      },
+      {
+        "lang": "hr",
+        "name": "Plosnatokljuni Žalar"
+      },
+      {
+        "lang": "hu",
+        "name": "Sárjáró"
+      },
+      {
+        "lang": "hy",
+        "name": "Տիղմակտցար"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Kedidi Paruh-lebar"
+      },
+      {
+        "lang": "is",
+        "name": "Efjutíta"
+      },
+      {
+        "lang": "it",
+        "name": "Gambecchio frullino"
+      },
+      {
+        "lang": "ja",
+        "name": "キリアイ"
+      },
+      {
+        "lang": "ka",
+        "name": "მელაფე"
+      },
+      {
+        "lang": "kk",
+        "name": "Тұнбашы"
+      },
+      {
+        "lang": "ko",
+        "name": "송곳부리도요"
+      },
+      {
+        "lang": "la",
+        "name": "Calidris falcinellus"
+      },
+      {
+        "lang": "lt",
+        "name": "Plokšciasnapis begikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Dūņšņibis"
+      },
+      {
+        "lang": "mk",
+        "name": "Свиркач"
+      },
+      {
+        "lang": "mn",
+        "name": "Сянби шалчиг - ᠰᠢᠶᠠᠨᠪᠢ ᠱᠠᠯᠴᠢᠭ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Paruh Lebar"
+      },
+      {
+        "lang": "mt",
+        "name": "Beggazzina ta' Munqarha"
+      },
+      {
+        "lang": "nl",
+        "name": "Breedbekstrandloper"
+      },
+      {
+        "lang": "no",
+        "name": "Fjellmyrløper"
+      },
+      {
+        "lang": "pl",
+        "name": "Biegus płaskodzioby"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Macarico-branco"
+      },
+      {
+        "lang": "pt",
+        "name": "Pilrito-de-bico-grosso"
+      },
+      {
+        "lang": "rm",
+        "name": "Rivarel dal bec lad"
+      },
+      {
+        "lang": "ro",
+        "name": "Prundaş de nămol"
+      },
+      {
+        "lang": "ru",
+        "name": "Грязовик"
+      },
+      {
+        "lang": "se",
+        "name": "Suotnjocovzoš"
+      },
+      {
+        "lang": "sk",
+        "name": "Brehárik ploskozobý"
+      },
+      {
+        "lang": "sl",
+        "name": "Ploskokljunec"
+      },
+      {
+        "lang": "sq",
+        "name": "Vrapuesi sqepshtypur"
+      },
+      {
+        "lang": "sr",
+        "name": "Pljosnokljuni žalar - Плјосноклјуни жалар"
+      },
+      {
+        "lang": "sv",
+        "name": "Myrsnäppa"
+      },
+      {
+        "lang": "sw",
+        "name": "Chokowe Domo-pana"
+      },
+      {
+        "lang": "ta",
+        "name": "Agandra Alagu Ullan"
+      },
+      {
+        "lang": "th",
+        "name": "นกชายเลนปากกว้าง"
+      },
+      {
+        "lang": "tr",
+        "name": "Geniş-gagalı Balçık Kuşu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Малгаш-элезинчи"
+      },
+      {
+        "lang": "uk",
+        "name": "Болотяний побережник"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Rẽ mỏ rộng"
+      },
+      {
+        "lang": "zh",
+        "name": "阔嘴鹬"
+      }
+    ]
+  }
+]

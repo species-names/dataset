@@ -1,12 +1,19 @@
 # Species names dataset
 
+v0.0.0
+
 A json format dataset for scientific and common species names.
 
 Data is harvested mainly from https://species.wikimedia.org
 
+Species names are stored in json format in one file per genera.
+
 ## Current State
 Work in progess!  
 Absolutly beta state, note that format still can change currently.  
+
+## Todo
+- json-schema
 
 ## Contribute
 You can provide Pull Request to add or correct translations and species.  

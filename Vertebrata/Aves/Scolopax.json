@@ -1,0 +1,477 @@
+[
+  {
+    "scientific_name": "Scolopax brachycarpa",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Scolopax saturata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sluka tmavá"
+      },
+      {
+        "lang": "en",
+        "name": "Dusky Woodcock"
+      },
+      {
+        "lang": "sv",
+        "name": "Javamorkulla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Scolopax rusticola",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "ديك الغاب"
+      },
+      {
+        "lang": "ast",
+        "name": "Arcea"
+      },
+      {
+        "lang": "az",
+        "name": "Meşə cüllütü"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡурпысыҡ"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Слонка"
+      },
+      {
+        "lang": "be",
+        "name": "Слонка"
+      },
+      {
+        "lang": "bg",
+        "name": "Горски бекас"
+      },
+      {
+        "lang": "bn",
+        "name": "ইউরেশীয় মুরগিচ্যাগা"
+      },
+      {
+        "lang": "br",
+        "name": "Kefeleg-koad Eurazia"
+      },
+      {
+        "lang": "ca",
+        "name": "Becada"
+      },
+      {
+        "lang": "cs",
+        "name": "Sluka lesní"
+      },
+      {
+        "lang": "csb",
+        "name": "Nosôcz"
+      },
+      {
+        "lang": "cv",
+        "name": "Карăпчак"
+      },
+      {
+        "lang": "cw",
+        "name": "Kevelek"
+      },
+      {
+        "lang": "cy",
+        "name": "Cyffylog"
+      },
+      {
+        "lang": "da",
+        "name": "Skovsneppe"
+      },
+      {
+        "lang": "de",
+        "name": "Waldschnepfe"
+      },
+      {
+        "lang": "el",
+        "name": "μπεκάτσα"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Woodcock",
+        "synonyms": [
+          "Woodcock"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Eŭrazia skolopo"
+      },
+      {
+        "lang": "es",
+        "name": "Becada",
+        "synonyms": [
+          "Chocha perdiz"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Metskurvits"
+      },
+      {
+        "lang": "eu",
+        "name": "Oilagor"
+      },
+      {
+        "lang": "fi",
+        "name": "Lehtokurppa"
+      },
+      {
+        "lang": "fo",
+        "name": "Vendisnípa"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasse des bois"
+      },
+      {
+        "lang": "frr",
+        "name": "Holtsnep"
+      },
+      {
+        "lang": "fy",
+        "name": "Houtsnip"
+      },
+      {
+        "lang": "ga",
+        "name": "Creabhar"
+      },
+      {
+        "lang": "gd",
+        "name": "Coileach-coille"
+      },
+      {
+        "lang": "gl",
+        "name": "Arcea"
+      },
+      {
+        "lang": "gv",
+        "name": "Kiark-rhennee"
+      },
+      {
+        "lang": "he",
+        "name": "חרטומן"
+      },
+      {
+        "lang": "hr",
+        "name": "Šljuka bena"
+      },
+      {
+        "lang": "hu",
+        "name": "Erdei szalonka"
+      },
+      {
+        "lang": "hy",
+        "name": "Անտառակտցար"
+      },
+      {
+        "lang": "is",
+        "name": "Skógarsnípa"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤマシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "ტყის ქათამი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Хорымчых"
+      },
+      {
+        "lang": "kk",
+        "name": "Жылқышы"
+      },
+      {
+        "lang": "ko",
+        "name": "멧도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Bëschschnepp"
+      },
+      {
+        "lang": "lt",
+        "name": "Slanka"
+      },
+      {
+        "lang": "lv",
+        "name": "Sloka"
+      },
+      {
+        "lang": "mk",
+        "name": "Шумска шлука"
+      },
+      {
+        "lang": "mn",
+        "name": "Буурал хомноот / ᠪᠣᠭᠣᠷᠣᠯ ᠬᠣᠮᠨᠣᠭᠠᠲᠣ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Berkek Besar"
+      },
+      {
+        "lang": "mt",
+        "name": "Gallina"
+      },
+      {
+        "lang": "nl",
+        "name": "Houtsnip"
+      },
+      {
+        "lang": "nn",
+        "name": "Rugde"
+      },
+      {
+        "lang": "no",
+        "name": "Rugde"
+      },
+      {
+        "lang": "pcd",
+        "name": "Bécache"
+      },
+      {
+        "lang": "pl",
+        "name": "Słonka zwyczajna"
+      },
+      {
+        "lang": "pnb",
+        "name": "یوریشیائی وڈکاک"
+      },
+      {
+        "lang": "pt",
+        "name": "Galinhola"
+      },
+      {
+        "lang": "rm",
+        "name": "Becassa"
+      },
+      {
+        "lang": "ro",
+        "name": "Sitar"
+      },
+      {
+        "lang": "ru",
+        "name": "Вальдшнеп"
+      },
+      {
+        "lang": "rue",
+        "name": "Слуква"
+      },
+      {
+        "lang": "sah",
+        "name": "Обот үгүрүө"
+      },
+      {
+        "lang": "sc",
+        "name": "Pizzulongu"
+      },
+      {
+        "lang": "se",
+        "name": "Rohtocoavzzu"
+      },
+      {
+        "lang": "sk",
+        "name": "Sluka hôrna",
+        "synonyms": [
+          "Sluka lesná"
+        ]
+      },
+      {
+        "lang": "sl",
+        "name": "Sloka"
+      },
+      {
+        "lang": "sq",
+        "name": "Shapka"
+      },
+      {
+        "lang": "sr",
+        "name": "Šumska šljuka / Шумска шлјука"
+      },
+      {
+        "lang": "sv",
+        "name": "Morkulla"
+      },
+      {
+        "lang": "ta",
+        "name": "Malai Mookkan"
+      },
+      {
+        "lang": "th",
+        "name": "นกปากซ่อมดง",
+        "synonyms": [
+          "นกปากส้อมดง"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Avrasya çulluğu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Аърганың улуг дылбыйы"
+      },
+      {
+        "lang": "uk",
+        "name": "Слуква"
+      },
+      {
+        "lang": "vec",
+        "name": "Galinazza"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Nhát bà"
+      },
+      {
+        "lang": "xmf",
+        "name": "კვათარა"
+      },
+      {
+        "lang": "zh",
+        "name": "丘鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Scolopax rosenbergii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Scolopax rochussenii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sluka molucká"
+      },
+      {
+        "lang": "en",
+        "name": "Moluccan Woodcock"
+      },
+      {
+        "lang": "es",
+        "name": "Chocha moluqueña"
+      },
+      {
+        "lang": "sv",
+        "name": "Moluckmorkulla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Scolopax mira",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sluka japonská"
+      },
+      {
+        "lang": "en",
+        "name": "Amami Woodcock"
+      },
+      {
+        "lang": "es",
+        "name": "Chocha de Amami"
+      },
+      {
+        "lang": "ja",
+        "name": "アマミヤマシギ"
+      },
+      {
+        "lang": "sv",
+        "name": "Amamimorkulla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Scolopax minor",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sluka americká"
+      },
+      {
+        "lang": "en",
+        "name": "American Woodcock"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse houtsnip"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk morkulla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Scolopax glottis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Scolopax celebensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sluka celebeská"
+      },
+      {
+        "lang": "en",
+        "name": "Sulawesi Woodcock"
+      },
+      {
+        "lang": "eo",
+        "name": "Celebesa skolopo"
+      },
+      {
+        "lang": "es",
+        "name": "Chocha de Célebes"
+      },
+      {
+        "lang": "sv",
+        "name": "Sulawesimorkulla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Scolopax bukidnonensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sluka filipínská"
+      },
+      {
+        "lang": "en",
+        "name": "Bukidnon Woodcock"
+      },
+      {
+        "lang": "eo",
+        "name": "Filipina skolopo"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasse de Bukidnon"
+      },
+      {
+        "lang": "sv",
+        "name": "Filippinsk morkulla"
+      }
+    ]
+  }
+]

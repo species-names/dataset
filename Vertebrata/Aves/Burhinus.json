@@ -1,0 +1,612 @@
+[
+  {
+    "scientific_name": "Burhinus vermiculatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Dytík tmavý"
+      },
+      {
+        "lang": "en",
+        "name": "Water Thick-knee"
+      },
+      {
+        "lang": "fi",
+        "name": "Rantapaksujalka"
+      },
+      {
+        "lang": "sv",
+        "name": "Vattentjockfot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Burhinus superciliaris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Dytík bledý"
+      },
+      {
+        "lang": "en",
+        "name": "Peruvian Thick-knee"
+      },
+      {
+        "lang": "fi",
+        "name": "Perunpaksujalka"
+      },
+      {
+        "lang": "sv",
+        "name": "Perutjockfot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Burhinus senegalensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Dytík africký"
+      },
+      {
+        "lang": "en",
+        "name": "Senegal Thick-knee"
+      },
+      {
+        "lang": "eo",
+        "name": "Senegala trielo"
+      },
+      {
+        "lang": "sv",
+        "name": "Senegaltjockfot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Burhinus oedicnemus",
+    "common_names": [
+      {
+        "lang": "an",
+        "name": "Algaraván"
+      },
+      {
+        "lang": "ar",
+        "name": "كروان صحراوي"
+      },
+      {
+        "lang": "az",
+        "name": "Adi pərttəgöz"
+      },
+      {
+        "lang": "ba",
+        "name": "Төн сәпсәүе"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Аўдотка"
+      },
+      {
+        "lang": "be",
+        "name": "Аўдотка"
+      },
+      {
+        "lang": "bg",
+        "name": "Турилик"
+      },
+      {
+        "lang": "br",
+        "name": "Bourlagad kirie"
+      },
+      {
+        "lang": "ca",
+        "name": "Torlit"
+      },
+      {
+        "lang": "ce",
+        "name": "Moqa hin olhazar"
+      },
+      {
+        "lang": "cs",
+        "name": "Dytík úhorní"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhedwr y Moelydd"
+      },
+      {
+        "lang": "da",
+        "name": "Triel"
+      },
+      {
+        "lang": "de",
+        "name": "Triel"
+      },
+      {
+        "lang": "el",
+        "name": "Πετροτουρλίδα"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Stone-curlew",
+        "synonyms": [
+          "Eurasian Thick-knee",
+          "Stone-curlew"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Trielo"
+      },
+      {
+        "lang": "es",
+        "name": "Alcaraván Común"
+      },
+      {
+        "lang": "et",
+        "name": "Jämejalg"
+      },
+      {
+        "lang": "eu",
+        "name": "Atalar"
+      },
+      {
+        "lang": "fi",
+        "name": "Paksujalka"
+      },
+      {
+        "lang": "fo",
+        "name": "læmingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Œdicnème criard"
+      },
+      {
+        "lang": "fy",
+        "name": "Tsjokpoat"
+      },
+      {
+        "lang": "gl",
+        "name": "Pernileiro"
+      },
+      {
+        "lang": "gv",
+        "name": "Crottag ny glagh"
+      },
+      {
+        "lang": "he",
+        "name": "כרוון מצוי"
+      },
+      {
+        "lang": "hi",
+        "name": "बरसिरी"
+      },
+      {
+        "lang": "hr",
+        "name": "Ćukavica"
+      },
+      {
+        "lang": "hu",
+        "name": "Ugartyúk"
+      },
+      {
+        "lang": "is",
+        "name": "Tríll"
+      },
+      {
+        "lang": "it",
+        "name": "Occhione"
+      },
+      {
+        "lang": "ja",
+        "name": "イシチドリ"
+      },
+      {
+        "lang": "ka",
+        "name": "თვალჭყეტია"
+      },
+      {
+        "lang": "kbd",
+        "name": "Джэдкусэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Тырду"
+      },
+      {
+        "lang": "ku",
+        "name": "Birakedîk"
+      },
+      {
+        "lang": "lb",
+        "name": "Dril"
+      },
+      {
+        "lang": "lt",
+        "name": "Storkulnis"
+      },
+      {
+        "lang": "mk",
+        "name": "Чурулин"
+      },
+      {
+        "lang": "ml",
+        "name": "വയൽക്കണ്ണൻ"
+      },
+      {
+        "lang": "mn",
+        "name": "Эгэл шарандан / ᠡᠭᠡᠯ ᠰᠢᠷᠠᠩᠳᠠᠩ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Pasir Padang"
+      },
+      {
+        "lang": "nl",
+        "name": "Griel"
+      },
+      {
+        "lang": "nn",
+        "name": "Triel"
+      },
+      {
+        "lang": "no",
+        "name": "Triel"
+      },
+      {
+        "lang": "pcd",
+        "name": "Érméricq"
+      },
+      {
+        "lang": "pl",
+        "name": "Kulon"
+      },
+      {
+        "lang": "pnb",
+        "name": "یوریشیائی پتھر کرلیو"
+      },
+      {
+        "lang": "pt",
+        "name": "Alcaravão"
+      },
+      {
+        "lang": "ro",
+        "name": "Pasărea ogorului"
+      },
+      {
+        "lang": "ru",
+        "name": "Авдотка"
+      },
+      {
+        "lang": "rue",
+        "name": "Авдотка"
+      },
+      {
+        "lang": "sk",
+        "name": "Ležiak úhorový"
+      },
+      {
+        "lang": "sl",
+        "name": "Prlivka"
+      },
+      {
+        "lang": "sv",
+        "name": "Tjockfot"
+      },
+      {
+        "lang": "sw",
+        "name": "Chekehukwa wa Ulaya"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระแตผีเล็ก"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı kocagöz"
+      },
+      {
+        "lang": "uk",
+        "name": "Лежень"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Burin"
+      },
+      {
+        "lang": "zh",
+        "name": "石鸻"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Burhinus indicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indian Stone-curlew"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Burhinus grallarius",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Dytík velký"
+      },
+      {
+        "lang": "en",
+        "name": "Bush Thick-knee"
+      },
+      {
+        "lang": "eo",
+        "name": "Aŭstralia trielo"
+      },
+      {
+        "lang": "es",
+        "name": "Alcaraván colilargo"
+      },
+      {
+        "lang": "fi",
+        "name": "Australianpaksujalka"
+      },
+      {
+        "lang": "fr",
+        "name": "Œdicnème bridé"
+      },
+      {
+        "lang": "it",
+        "name": "Occhione Willaroo"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische griel"
+      },
+      {
+        "lang": "ru",
+        "name": "Австралийская авдотка"
+      },
+      {
+        "lang": "sv",
+        "name": "Stylttjockfot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Burhinus capensis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gewone dikkop"
+      },
+      {
+        "lang": "cs",
+        "name": "dytík skvrnitý"
+      },
+      {
+        "lang": "da",
+        "name": "Plettet Triel"
+      },
+      {
+        "lang": "de",
+        "name": "Kaptriel"
+      },
+      {
+        "lang": "en",
+        "name": "Spotted Thick-knee",
+        "synonyms": [
+          "Cape Thick-knee",
+          "Spotted Dikkop"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Kaba trielo"
+      },
+      {
+        "lang": "es",
+        "name": "Alcaraván de El Cabo"
+      },
+      {
+        "lang": "et",
+        "name": "täpik-jämejalg"
+      },
+      {
+        "lang": "fi",
+        "name": "suomupaksujalka"
+      },
+      {
+        "lang": "fr",
+        "name": "Oedicnème tachard"
+      },
+      {
+        "lang": "hu",
+        "name": "fokföldi ugartyúk"
+      },
+      {
+        "lang": "it",
+        "name": "Occhione del Capo"
+      },
+      {
+        "lang": "ja",
+        "name": "ケアプイシチドリ",
+        "synonyms": [
+          "ke-puishichidori"
+        ]
+      },
+      {
+        "lang": "kwn",
+        "name": "Eswaita"
+      },
+      {
+        "lang": "lt",
+        "name": "Dėmėtasis storkulnis"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapse Griel"
+      },
+      {
+        "lang": "no",
+        "name": "Flekktriel"
+      },
+      {
+        "lang": "pl",
+        "name": "kulon plamisty"
+      },
+      {
+        "lang": "pt",
+        "name": "Alcaravão do Cabo"
+      },
+      {
+        "lang": "ru",
+        "name": "Капская авдотка"
+      },
+      {
+        "lang": "sk",
+        "name": "ležiak škvrnitý"
+      },
+      {
+        "lang": "sn",
+        "name": "Gwarimutondo"
+      },
+      {
+        "lang": "ss",
+        "name": "Umunkonkoni"
+      },
+      {
+        "lang": "st",
+        "name": "Khoho-ea-lira"
+      },
+      {
+        "lang": "sv",
+        "name": "Fläcktjockfot"
+      },
+      {
+        "lang": "sw",
+        "name": "Chekehukwa"
+      },
+      {
+        "lang": "tn",
+        "name": "Kgoadirê"
+      },
+      {
+        "lang": "tr",
+        "name": "Benekli kocagöz"
+      },
+      {
+        "lang": "ts",
+        "name": "Mtshikuyana"
+      },
+      {
+        "lang": "xh",
+        "name": "Ingqangqolo"
+      },
+      {
+        "lang": "zh",
+        "name": "斑石鸻"
+      },
+      {
+        "lang": "zu",
+        "name": "umBangaqhwa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Burhinus bistriatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "dytík dvoupruhý"
+      },
+      {
+        "lang": "da",
+        "name": "Tostribet Triel"
+      },
+      {
+        "lang": "de",
+        "name": "Dominikanertriel"
+      },
+      {
+        "lang": "en",
+        "name": "Double-striped Thick-knee"
+      },
+      {
+        "lang": "eo",
+        "name": "Dustria trielo"
+      },
+      {
+        "lang": "es",
+        "name": "Alcaraván Venezolano"
+      },
+      {
+        "lang": "et",
+        "name": "rohtla-jämejalg"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanpaksujalka"
+      },
+      {
+        "lang": "fr",
+        "name": "Œdicnème bistrié"
+      },
+      {
+        "lang": "ht",
+        "name": "Kòk Savann"
+      },
+      {
+        "lang": "hu",
+        "name": "koronás ugartyúk"
+      },
+      {
+        "lang": "it",
+        "name": "Occhione bistriato"
+      },
+      {
+        "lang": "ja",
+        "name": "マミジロイシチドリ",
+        "synonyms": [
+          "mamijiroishichidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Caribische Griel"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikatriel"
+      },
+      {
+        "lang": "pl",
+        "name": "kulon amerykański"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Téu-téu-da-savana"
+      },
+      {
+        "lang": "pt",
+        "name": "Téu-téu-da-savana"
+      },
+      {
+        "lang": "ru",
+        "name": "Доминиканская авдотка"
+      },
+      {
+        "lang": "sk",
+        "name": "ležiak dvojpásy"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk tjockfot"
+      },
+      {
+        "lang": "zh",
+        "name": "双纹石鸻"
+      }
+    ]
+  }
+]

@@ -1,0 +1,621 @@
+[
+  {
+    "scientific_name": "Thalasseus sandvicensis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Grootseeswael"
+      },
+      {
+        "lang": "ar",
+        "name": "خرشنة الساندويش"
+      },
+      {
+        "lang": "ast",
+        "name": "Chirri"
+      },
+      {
+        "lang": "az",
+        "name": "Alaburun sterna"
+      },
+      {
+        "lang": "bg",
+        "name": "Гривеста рибарка"
+      },
+      {
+        "lang": "bn",
+        "name": "স্যান্ডউইচ পানচিল"
+      },
+      {
+        "lang": "br",
+        "name": "Skrav kuchenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac becllarg"
+      },
+      {
+        "lang": "cs",
+        "name": "Rybák severní"
+      },
+      {
+        "lang": "cw",
+        "name": "Morwennol penvagas"
+      },
+      {
+        "lang": "cy",
+        "name": "Morwennol bigddu"
+      },
+      {
+        "lang": "da",
+        "name": "Splitterne"
+      },
+      {
+        "lang": "de",
+        "name": "Brandseeschwalbe-sandvicensis"
+      },
+      {
+        "lang": "el",
+        "name": "Χειμωνογλάρονο"
+      },
+      {
+        "lang": "en",
+        "name": "Sandwich Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Sandviĉa ŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviotín Pico Amarillo",
+        "synonyms": [
+          "Gaviotín Brasilero"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Tutt-tiir"
+      },
+      {
+        "lang": "eu",
+        "name": "Txenada hankabeltza"
+      },
+      {
+        "lang": "fi",
+        "name": "Riuttatiira"
+      },
+      {
+        "lang": "fo",
+        "name": "Faksaterna"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne caugek"
+      },
+      {
+        "lang": "frr",
+        "name": "Stianbaker"
+      },
+      {
+        "lang": "ga",
+        "name": "Geabhróg Scothdhubh"
+      },
+      {
+        "lang": "gd",
+        "name": "Steàrnag Mhòr"
+      },
+      {
+        "lang": "gl",
+        "name": "Carrán cristado"
+      },
+      {
+        "lang": "he",
+        "name": "שחפית סנדוויץ'"
+      },
+      {
+        "lang": "hr",
+        "name": "Dugokljuna Čigra"
+      },
+      {
+        "lang": "ht",
+        "name": "Mòv kojèk"
+      },
+      {
+        "lang": "hu",
+        "name": "kenti csér"
+      },
+      {
+        "lang": "is",
+        "name": "Þaraþerna"
+      },
+      {
+        "lang": "it",
+        "name": "Beccapesci"
+      },
+      {
+        "lang": "ja",
+        "name": "サンドイッチアジサシ"
+      },
+      {
+        "lang": "ka",
+        "name": "ჭრელნისკარტა თევზიყლაპია"
+      },
+      {
+        "lang": "kk",
+        "name": "Айдарлы қарқылдақ"
+      },
+      {
+        "lang": "lb",
+        "name": "Mierséischmuewel"
+      },
+      {
+        "lang": "lt",
+        "name": "Margasparnė žuvėdra"
+      },
+      {
+        "lang": "lv",
+        "name": "Cekulzīriņš"
+      },
+      {
+        "lang": "mk",
+        "name": "Вртимушка"
+      },
+      {
+        "lang": "mt",
+        "name": "Ċirlewwa tax-Xitwa"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote stern"
+      },
+      {
+        "lang": "no",
+        "name": "Splitterne"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa czubata"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Trinta-réis-de-bando"
+      },
+      {
+        "lang": "pt",
+        "name": "Trinta-réis-de-bando"
+      },
+      {
+        "lang": "rm",
+        "name": "Pestgarel piclapeschs"
+      },
+      {
+        "lang": "ro",
+        "name": "Chiră de mare"
+      },
+      {
+        "lang": "ru",
+        "name": "Пестроносая крачка"
+      },
+      {
+        "lang": "sk",
+        "name": "Rybár sivý"
+      },
+      {
+        "lang": "sl",
+        "name": "Kricava cigra"
+      },
+      {
+        "lang": "sq",
+        "name": "Sterni dimërak"
+      },
+      {
+        "lang": "sr",
+        "name": "Dugokljuna čigra"
+      },
+      {
+        "lang": "sv",
+        "name": "Kentsk tärna"
+      },
+      {
+        "lang": "sw",
+        "name": "Shakwe Domo-rangimbili"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara gagalı sumru"
+      },
+      {
+        "lang": "uk",
+        "name": "Крячок рябодзьобий"
+      },
+      {
+        "lang": "zh",
+        "name": "白嘴端凤头燕鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalasseus maximus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Koningseeswael"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac reial"
+      },
+      {
+        "lang": "cs",
+        "name": "rybák královský"
+      },
+      {
+        "lang": "cy",
+        "name": "Morwennol fawr"
+      },
+      {
+        "lang": "da",
+        "name": "Kongeterne"
+      },
+      {
+        "lang": "de",
+        "name": "Königsseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Royal Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Pleja krestoŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Charrán real"
+      },
+      {
+        "lang": "et",
+        "name": "kuningtiir"
+      },
+      {
+        "lang": "eu",
+        "name": "Txenada handia",
+        "synonyms": [
+          "Xatrac reial"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "kuningastiira"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne royale"
+      },
+      {
+        "lang": "gcf",
+        "name": "Foquette",
+        "synonyms": [
+          "Mauve"
+        ]
+      },
+      {
+        "lang": "gl",
+        "name": "Carrán real"
+      },
+      {
+        "lang": "gn",
+        "name": "Atî"
+      },
+      {
+        "lang": "he",
+        "name": "שחפית גדולה"
+      },
+      {
+        "lang": "ht",
+        "name": "Mòv wayal"
+      },
+      {
+        "lang": "hu",
+        "name": "királycsér"
+      },
+      {
+        "lang": "is",
+        "name": "Rosaþerna"
+      },
+      {
+        "lang": "it",
+        "name": "Sterna reale"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカオオアジサシ",
+        "synonyms": [
+          "amerikaooajisashi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Karališkoji žuvėdra"
+      },
+      {
+        "lang": "nl",
+        "name": "Koningsstern"
+      },
+      {
+        "lang": "no",
+        "name": "Kongeterne"
+      },
+      {
+        "lang": "pl",
+        "name": "rybitwa królewska"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Trinta-réis-real"
+      },
+      {
+        "lang": "pt",
+        "name": "Garajau-real"
+      },
+      {
+        "lang": "ru",
+        "name": "Королевская крачка"
+      },
+      {
+        "lang": "sk",
+        "name": "rybár veľký"
+      },
+      {
+        "lang": "sl",
+        "name": "kraljeva čigra"
+      },
+      {
+        "lang": "sv",
+        "name": "Kungstärna"
+      },
+      {
+        "lang": "tr",
+        "name": "Kral Sumru"
+      },
+      {
+        "lang": "zh",
+        "name": "橙嘴凤头燕鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalasseus elegans",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rybák západní"
+      },
+      {
+        "lang": "de",
+        "name": "Schmuckseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Elegant Tern"
+      },
+      {
+        "lang": "es",
+        "name": "Charrán Elegante"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne élégante"
+      },
+      {
+        "lang": "hu",
+        "name": "Pompás csér"
+      },
+      {
+        "lang": "ja",
+        "name": "ユウガアジサシ"
+      },
+      {
+        "lang": "nl",
+        "name": "Californische kuifstern"
+      },
+      {
+        "lang": "uk",
+        "name": "Елегантний крячок"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalasseus bernsteini",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rybák čínský"
+      },
+      {
+        "lang": "de",
+        "name": "Bernsteinseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Chinese Crested Tern"
+      },
+      {
+        "lang": "es",
+        "name": "Charrán Chino"
+      },
+      {
+        "lang": "fi",
+        "name": "Filippiinientiira"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne d'Orient"
+      },
+      {
+        "lang": "hu",
+        "name": "Kínai üstököscsér"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Camar Cina Berjambul"
+      },
+      {
+        "lang": "zh",
+        "name": "黑嘴端鳳頭燕鷗"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalasseus bergii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rybák chocholatý"
+      },
+      {
+        "lang": "da",
+        "name": "Bergiusterne"
+      },
+      {
+        "lang": "de",
+        "name": "Eilseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Greater Crested Tern"
+      },
+      {
+        "lang": "es",
+        "name": "Charrán Piquigualdo"
+      },
+      {
+        "lang": "fi",
+        "name": "Töyhtötiira"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne huppée"
+      },
+      {
+        "lang": "he",
+        "name": "שחפית צהובת מקור"
+      },
+      {
+        "lang": "hu",
+        "name": "Üstökös csér"
+      },
+      {
+        "lang": "it",
+        "name": "Beccapesci veloce"
+      },
+      {
+        "lang": "ja",
+        "name": "オオアジサシ"
+      },
+      {
+        "lang": "ko",
+        "name": "큰제비갈매기"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Camar Berjambul Besar"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelsnavelstern"
+      },
+      {
+        "lang": "ru",
+        "name": "Большая хохлатая крачка"
+      },
+      {
+        "lang": "th",
+        "name": "นกนางนวลแกลบหงอนใหญ่"
+      },
+      {
+        "lang": "to",
+        "name": "Tala lalahi"
+      },
+      {
+        "lang": "zh",
+        "name": "大鳳頭燕鷗"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalasseus bengalensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rüppellseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Crested Tern"
+      },
+      {
+        "lang": "es",
+        "name": "Charrán Bengali"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkutöyhtötiira"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne voyageuse"
+      },
+      {
+        "lang": "ja",
+        "name": "ベンガルアジサシ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Camar Berjambul Kecil"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa bengalska"
+      },
+      {
+        "lang": "pnb",
+        "name": "نکا تاج آلا ٹرن"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivina-de-bico-laranja"
+      },
+      {
+        "lang": "ru",
+        "name": "Бенгальская крачка"
+      },
+      {
+        "lang": "tr",
+        "name": "Tepeli sumru"
+      },
+      {
+        "lang": "zh",
+        "name": "小凤头燕鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalasseus acuflavidus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cabot's Tern"
+      },
+      {
+        "lang": "es",
+        "name": "Charrán de Cabot"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne de Cabot"
+      }
+    ]
+  }
+]

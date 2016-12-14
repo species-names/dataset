@@ -1,0 +1,2538 @@
+[
+  {
+    "scientific_name": "Tringa totanus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooipootruiter"
+      },
+      {
+        "lang": "ar",
+        "name": "طيطوي أحمر الساق"
+      },
+      {
+        "lang": "ast",
+        "name": "Chibibí"
+      },
+      {
+        "lang": "az",
+        "name": "Otluq cüllütü"
+      },
+      {
+        "lang": "ba",
+        "name": "Тәтелдәүес"
+      },
+      {
+        "lang": "be",
+        "name": "Траўнік"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Траўнік"
+      },
+      {
+        "lang": "bg",
+        "name": "Малък червенокрак водобегач"
+      },
+      {
+        "lang": "bn",
+        "name": "লালপা পি-উ"
+      },
+      {
+        "lang": "br",
+        "name": "Strelleg pavioù ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Gamba roja vulgar"
+      },
+      {
+        "lang": "ce",
+        "name": "ЦӀиэкогашберг"
+      },
+      {
+        "lang": "cs",
+        "name": "Vodouš rudonohý"
+      },
+      {
+        "lang": "csb",
+        "name": "Torfnik"
+      },
+      {
+        "lang": "cw",
+        "name": "Gar ruth"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd Coesgoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rødben"
+      },
+      {
+        "lang": "de",
+        "name": "Rotschenkel"
+      },
+      {
+        "lang": "el",
+        "name": "Κοκκινοσκέλης"
+      },
+      {
+        "lang": "en",
+        "name": "Common Redshank"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝkrura tringo"
+      },
+      {
+        "lang": "es",
+        "name": "Archibebe Común"
+      },
+      {
+        "lang": "et",
+        "name": "Punajalg-tilder"
+      },
+      {
+        "lang": "eu",
+        "name": "Bernagorri arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "آبچلیک معمولی"
+      },
+      {
+        "lang": "fi",
+        "name": "Punajalkaviklo"
+      },
+      {
+        "lang": "fo",
+        "name": "Stelkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier gambette"
+      },
+      {
+        "lang": "frr",
+        "name": "Kleer"
+      },
+      {
+        "lang": "fy",
+        "name": "Tjirk"
+      },
+      {
+        "lang": "ga",
+        "name": "Cosdeargán"
+      },
+      {
+        "lang": "gd",
+        "name": "Cam ghlas"
+      },
+      {
+        "lang": "gl",
+        "name": "Bilurico patirrubio"
+      },
+      {
+        "lang": "gv",
+        "name": "Goblan Marrey"
+      },
+      {
+        "lang": "he",
+        "name": "ביצנית לבנת כנף"
+      },
+      {
+        "lang": "hi",
+        "name": "Kottan"
+      },
+      {
+        "lang": "hr",
+        "name": "Crvenonoga Prutka"
+      },
+      {
+        "lang": "hu",
+        "name": "Piroslábú cankó"
+      },
+      {
+        "lang": "hy",
+        "name": "Կտցար կարմրաոտիկ"
+      },
+      {
+        "lang": "id",
+        "name": "Trinil kaki-merah"
+      },
+      {
+        "lang": "is",
+        "name": "Stelkur"
+      },
+      {
+        "lang": "it",
+        "name": "Pettegola"
+      },
+      {
+        "lang": "ja",
+        "name": "アカアシシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "მსევანი"
+      },
+      {
+        "lang": "kk",
+        "name": "Шєпілдек"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은발도요"
+      },
+      {
+        "lang": "ku",
+        "name": "Çîqsor"
+      },
+      {
+        "lang": "lb",
+        "name": "Routpatt"
+      },
+      {
+        "lang": "lt",
+        "name": "Raudonkojis tulikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Pļavu tilbīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Црвенонога тринга"
+      },
+      {
+        "lang": "ml",
+        "name": "ചോരക്കാലി"
+      },
+      {
+        "lang": "mn",
+        "name": "Улаан хөлт хөгчүү - ᠣᠯᠠᠭᠠᠨ ᠬᠦᠯᠲᠦ ᠬᠦᠭᠡᠴᠦ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Kaki Merah"
+      },
+      {
+        "lang": "mt",
+        "name": "Pluverott"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Tuterink"
+      },
+      {
+        "lang": "ne",
+        "name": "लालखुट्टे टिमटिमा"
+      },
+      {
+        "lang": "nl",
+        "name": "Tureluur"
+      },
+      {
+        "lang": "nn",
+        "name": "Raudstilk"
+      },
+      {
+        "lang": "no",
+        "name": "Rødstilk"
+      },
+      {
+        "lang": "pcd",
+        "name": "Boulhàr"
+      },
+      {
+        "lang": "pl",
+        "name": "Krwawodziób"
+      },
+      {
+        "lang": "pnb",
+        "name": "لال چہا"
+      },
+      {
+        "lang": "pt",
+        "name": "Cacongo"
+      },
+      {
+        "lang": "rm",
+        "name": "Trintga cotschna"
+      },
+      {
+        "lang": "ro",
+        "name": "Fluierar cu picioare roşii"
+      },
+      {
+        "lang": "ru",
+        "name": "Травник"
+      },
+      {
+        "lang": "rue",
+        "name": "Улїт рудоногый"
+      },
+      {
+        "lang": "se",
+        "name": "Ruksesjuolcoavzzu"
+      },
+      {
+        "lang": "sk",
+        "name": "Kalužiak červenonohý"
+      },
+      {
+        "lang": "sl",
+        "name": "Rdečenogi martinec"
+      },
+      {
+        "lang": "sq",
+        "name": "Qyrylyku këmbëqirizë"
+      },
+      {
+        "lang": "sr",
+        "name": "Crvenonogi prudnik / Црвеноноги прудник"
+      },
+      {
+        "lang": "stq",
+        "name": "Tüüdik"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödbena"
+      },
+      {
+        "lang": "sw",
+        "name": "Chamchanga Miguu-hina"
+      },
+      {
+        "lang": "ta",
+        "name": "பவளக்காலி"
+      },
+      {
+        "lang": "th",
+        "name": "นกทะเลขาแดง"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızılbacak"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кызыл-даванныг"
+      },
+      {
+        "lang": "uk",
+        "name": "Коловодник звичайний"
+      },
+      {
+        "lang": "vec",
+        "name": "Pipì"
+      },
+      {
+        "lang": "vi",
+        "name": "Choắt nâu"
+      },
+      {
+        "lang": "zh",
+        "name": "红脚鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa stagnatilis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Moerasruiter"
+      },
+      {
+        "lang": "ar",
+        "name": "طيطوى البطاح"
+      },
+      {
+        "lang": "ast",
+        "name": "Chibibí Finu"
+      },
+      {
+        "lang": "az",
+        "name": "Çay cüllütü"
+      },
+      {
+        "lang": "be",
+        "name": "Кулік-паручайнік"
+      },
+      {
+        "lang": "bg",
+        "name": "Малък зеленокрак водобегач"
+      },
+      {
+        "lang": "bn",
+        "name": "বিল বাটান"
+      },
+      {
+        "lang": "br",
+        "name": "Ar strelleg-stank"
+      },
+      {
+        "lang": "ca",
+        "name": "Camaverda menuda"
+      },
+      {
+        "lang": "cs",
+        "name": "Vodouš štíhlý"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd y gors"
+      },
+      {
+        "lang": "da",
+        "name": "Damklire"
+      },
+      {
+        "lang": "de",
+        "name": "Teichwasserläufer"
+      },
+      {
+        "lang": "dv",
+        "name": "Furedhdhe Ilolhi"
+      },
+      {
+        "lang": "el",
+        "name": "Βαλτονεραλλίδα"
+      },
+      {
+        "lang": "en",
+        "name": "Marsh Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Marĉotringo"
+      },
+      {
+        "lang": "es",
+        "name": "Archibebe Fino"
+      },
+      {
+        "lang": "et",
+        "name": "Lammitilder"
+      },
+      {
+        "lang": "eu",
+        "name": "Siseta"
+      },
+      {
+        "lang": "fi",
+        "name": "Lampiviklo"
+      },
+      {
+        "lang": "fo",
+        "name": "Vatnastelkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier stagnatile"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadán Corraigh"
+      },
+      {
+        "lang": "gl",
+        "name": "Bilurico fino"
+      },
+      {
+        "lang": "he",
+        "name": "ביצנית עדינה"
+      },
+      {
+        "lang": "hi",
+        "name": "Kottan"
+      },
+      {
+        "lang": "hr",
+        "name": "Dugonoga prutka"
+      },
+      {
+        "lang": "hu",
+        "name": "Tavi cankó"
+      },
+      {
+        "lang": "hy",
+        "name": "Առափնյա կտցար"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Trinil Rawa"
+      },
+      {
+        "lang": "is",
+        "name": "Vatnastelkur"
+      },
+      {
+        "lang": "it",
+        "name": "Albastrello"
+      },
+      {
+        "lang": "ja",
+        "name": "コアオアシシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "მერუე"
+      },
+      {
+        "lang": "kk",
+        "name": "Бұлақшы"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠청다리도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Kleng Gréngpatt"
+      },
+      {
+        "lang": "lt",
+        "name": "Kūdrinis tilvikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Dīķu tilbīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Мала зеленонога"
+      },
+      {
+        "lang": "mn",
+        "name": "Бүрдний хөгчүү - ᠪᠦᠷᠢᠳᠦᠨ ᠦ ᠬᠦᠭᠡᠴᠦ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Paya"
+      },
+      {
+        "lang": "mt",
+        "name": "Ċewċewwa Żgħira"
+      },
+      {
+        "lang": "nl",
+        "name": "Poelruiter"
+      },
+      {
+        "lang": "no",
+        "name": "Damsnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Brodziec pławny"
+      },
+      {
+        "lang": "pt",
+        "name": "Perna-verde-fino"
+      },
+      {
+        "lang": "rm",
+        "name": "Trintga da puz"
+      },
+      {
+        "lang": "ro",
+        "name": "Fluierar de lac"
+      },
+      {
+        "lang": "ru",
+        "name": "Поручейник"
+      },
+      {
+        "lang": "sk",
+        "name": "Kalužiak štíhly"
+      },
+      {
+        "lang": "sl",
+        "name": "Jezerski martinec"
+      },
+      {
+        "lang": "sq",
+        "name": "Qyrylyk sqephollë"
+      },
+      {
+        "lang": "sr",
+        "name": "Dugonogi prudnik - Дугоноги прудник"
+      },
+      {
+        "lang": "sv",
+        "name": "Dammsnäppa"
+      },
+      {
+        "lang": "sw",
+        "name": "Chamchanga-wangwa"
+      },
+      {
+        "lang": "ta",
+        "name": "Chinna Pachai Kaali"
+      },
+      {
+        "lang": "th",
+        "name": "นกชายเลนบึง"
+      },
+      {
+        "lang": "tr",
+        "name": "Bataklık düdükçünü"
+      },
+      {
+        "lang": "tyv",
+        "name": "Дамыракчи"
+      },
+      {
+        "lang": "uk",
+        "name": "Коловодник ставковий"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Choắt đốm đen"
+      },
+      {
+        "lang": "zh",
+        "name": "泽鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa solitaria",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Andarríu Solitariu"
+      },
+      {
+        "lang": "br",
+        "name": "Strelleg digenvez"
+      },
+      {
+        "lang": "cs",
+        "name": "vodouš samotářský"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd unig"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Svaleklire"
+      },
+      {
+        "lang": "de",
+        "name": "Einsamer Wasserläufer"
+      },
+      {
+        "lang": "en",
+        "name": "Solitary Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Solema tringo"
+      },
+      {
+        "lang": "es",
+        "name": "Andarríos Solitario"
+      },
+      {
+        "lang": "et",
+        "name": "ameerika metstilder"
+      },
+      {
+        "lang": "fa",
+        "name": "آبچلیک تک‌زی"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanmetsäviklo"
+      },
+      {
+        "lang": "fo",
+        "name": "Mintdimmur stelkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier solitaire"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadán Aonarach"
+      },
+      {
+        "lang": "gcf",
+        "name": "Aile noire",
+        "synonyms": [
+          "Grande aile"
+        ]
+      },
+      {
+        "lang": "gn",
+        "name": "Mbatui ño"
+      },
+      {
+        "lang": "he",
+        "name": "בצנית בודדת"
+      },
+      {
+        "lang": "ht",
+        "name": "Bekasin dlo dous"
+      },
+      {
+        "lang": "hu",
+        "name": "remetecankó"
+      },
+      {
+        "lang": "is",
+        "name": "Svölustelkur"
+      },
+      {
+        "lang": "it",
+        "name": "Piro-piro solitario"
+      },
+      {
+        "lang": "ja",
+        "name": "コシグロクサシギ",
+        "synonyms": [
+          "koshigurokusashigi"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Tulikas atsiskyrėlis"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse bosruiter"
+      },
+      {
+        "lang": "no",
+        "name": "Eremittsnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "brodziec ciemnorzytny"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-solitário"
+      },
+      {
+        "lang": "pt",
+        "name": "Maçarico-solitário"
+      },
+      {
+        "lang": "ru",
+        "name": "Улит-отшельник"
+      },
+      {
+        "lang": "sk",
+        "name": "kalužiak samotársky"
+      },
+      {
+        "lang": "sl",
+        "name": "ameriški pikasti martinec"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk skogssnäppa"
+      },
+      {
+        "lang": "tr",
+        "name": "Esmer Düdükçün"
+      },
+      {
+        "lang": "zh",
+        "name": "褐腰草鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa semipalmata",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Strelleg dambalvezek"
+      },
+      {
+        "lang": "ca",
+        "name": "Gamba alanegra"
+      },
+      {
+        "lang": "cs",
+        "name": "Vodouš břehoušovitý"
+      },
+      {
+        "lang": "da",
+        "name": "Willet"
+      },
+      {
+        "lang": "de",
+        "name": "Schlammtreter"
+      },
+      {
+        "lang": "en",
+        "name": "Willet"
+      },
+      {
+        "lang": "eo",
+        "name": "Striflugila tringo"
+      },
+      {
+        "lang": "es",
+        "name": "Playero aliblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Suurtilder"
+      },
+      {
+        "lang": "fa",
+        "name": "آبچلیک فربه"
+      },
+      {
+        "lang": "fi",
+        "name": "Preeriaviklo"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier semipalmé"
+      },
+      {
+        "lang": "gcf",
+        "name": "Aile blanche"
+      },
+      {
+        "lang": "gn",
+        "name": "Chululu"
+      },
+      {
+        "lang": "he",
+        "name": "בבואן"
+      },
+      {
+        "lang": "ht",
+        "name": "Bekasin zèl blanch"
+      },
+      {
+        "lang": "hu",
+        "name": "Lármás cankó"
+      },
+      {
+        "lang": "is",
+        "name": "Fjörustelkur"
+      },
+      {
+        "lang": "it",
+        "name": "Totano semipalmato"
+      },
+      {
+        "lang": "ja",
+        "name": "ハジロオオシギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis tilvikas"
+      },
+      {
+        "lang": "mk",
+        "name": "Американска тринга"
+      },
+      {
+        "lang": "nl",
+        "name": "Willet"
+      },
+      {
+        "lang": "nn",
+        "name": "Willetsnipe"
+      },
+      {
+        "lang": "no",
+        "name": "Willetsnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Błotowiec"
+      },
+      {
+        "lang": "pt",
+        "name": "Maçarico-de-asa-branca"
+      },
+      {
+        "lang": "ru",
+        "name": "Перепончатопалый улит"
+      },
+      {
+        "lang": "sk",
+        "name": "Kalužiak bahenný"
+      },
+      {
+        "lang": "sl",
+        "name": "Vilet"
+      },
+      {
+        "lang": "sv",
+        "name": "Willet"
+      },
+      {
+        "lang": "tr",
+        "name": "Boz Düdükçün"
+      },
+      {
+        "lang": "zh",
+        "name": "北美鷸"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa ochropus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witgatruiter"
+      },
+      {
+        "lang": "ar",
+        "name": "طيطوي أخضر"
+      },
+      {
+        "lang": "ast",
+        "name": "Andarríu Prietu"
+      },
+      {
+        "lang": "az",
+        "name": "Qara trinqa"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡара сәпсәү"
+      },
+      {
+        "lang": "be",
+        "name": "Кулік-чарняк"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям горски водобегач"
+      },
+      {
+        "lang": "bn",
+        "name": "সবুজ বাটান"
+      },
+      {
+        "lang": "br",
+        "name": "Strelleg pastellek"
+      },
+      {
+        "lang": "ca",
+        "name": "Xivita"
+      },
+      {
+        "lang": "cs",
+        "name": "Vodouš kropenatý"
+      },
+      {
+        "lang": "csb",
+        "name": "Szlapnik"
+      },
+      {
+        "lang": "cw",
+        "name": "Pyber Gwer"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd Gwyrdd"
+      },
+      {
+        "lang": "da",
+        "name": "Svaleklire"
+      },
+      {
+        "lang": "de",
+        "name": "Waldwasserläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Πρασινονεραλλίδα"
+      },
+      {
+        "lang": "en",
+        "name": "Green Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankpuga tringo"
+      },
+      {
+        "lang": "es",
+        "name": "Andarríos Grande"
+      },
+      {
+        "lang": "et",
+        "name": "Metstilder"
+      },
+      {
+        "lang": "eu",
+        "name": "Kuliska ilun"
+      },
+      {
+        "lang": "fi",
+        "name": "Metsäviklo"
+      },
+      {
+        "lang": "fo",
+        "name": "Flykrustelkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier cul-blanc"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadán Glas"
+      },
+      {
+        "lang": "gd",
+        "name": "Luatharan uaine"
+      },
+      {
+        "lang": "gl",
+        "name": "Bilurico alinegro"
+      },
+      {
+        "lang": "gv",
+        "name": "Looyran mooar"
+      },
+      {
+        "lang": "he",
+        "name": "ביצנית שחורת כנף"
+      },
+      {
+        "lang": "hr",
+        "name": "Crnokrila Prutka"
+      },
+      {
+        "lang": "hu",
+        "name": "Erdei cankó"
+      },
+      {
+        "lang": "hy",
+        "name": "Կտցար սևուկ"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Trinil Hijau"
+      },
+      {
+        "lang": "is",
+        "name": "Trjástelkur"
+      },
+      {
+        "lang": "it",
+        "name": "Piro-piro culbianco"
+      },
+      {
+        "lang": "ja",
+        "name": "クサシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "შავულა"
+      },
+      {
+        "lang": "kbd",
+        "name": "ЛӀыуитӀ"
+      },
+      {
+        "lang": "kk",
+        "name": "Бұлыњғыр балшықшы"
+      },
+      {
+        "lang": "ko",
+        "name": "삑삑도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Bëschwaasserleefer"
+      },
+      {
+        "lang": "lt",
+        "name": "Brastinis tilvikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Meža tilbīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Шарена тринга"
+      },
+      {
+        "lang": "ml",
+        "name": "കരിമ്പന്‍  കാടക്കൊക്ക്"
+      },
+      {
+        "lang": "mn",
+        "name": "Сүүл цагаан хөгчүү - ᠰᠡᠭᠦᠯ ᠴᠠᠭᠠᠨ ᠬᠦᠭᠡᠴᠦ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Hijau"
+      },
+      {
+        "lang": "mt",
+        "name": "Swejda"
+      },
+      {
+        "lang": "nl",
+        "name": "Witgat"
+      },
+      {
+        "lang": "nn",
+        "name": "Skogsnipe"
+      },
+      {
+        "lang": "no",
+        "name": "Skogsnipe"
+      },
+      {
+        "lang": "pcd",
+        "name": "Qhublan"
+      },
+      {
+        "lang": "pl",
+        "name": "Samotnik"
+      },
+      {
+        "lang": "pnb",
+        "name": "ھرا ریتپائیپر"
+      },
+      {
+        "lang": "pt",
+        "name": "Pássaro-bique-bique"
+      },
+      {
+        "lang": "rm",
+        "name": "Trintga da guaud"
+      },
+      {
+        "lang": "ro",
+        "name": "Fluierar de zăvoi"
+      },
+      {
+        "lang": "ru",
+        "name": "Черныш"
+      },
+      {
+        "lang": "rue",
+        "name": "Улїт лїсовый"
+      },
+      {
+        "lang": "sk",
+        "name": "Kalužiak perlavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Pikasti martinec"
+      },
+      {
+        "lang": "sq",
+        "name": "Qyrylyku këmbëpërhimë"
+      },
+      {
+        "lang": "sr",
+        "name": "Prudnik pijukavac - Прудник пијукавац"
+      },
+      {
+        "lang": "sv",
+        "name": "Skogssnäppa"
+      },
+      {
+        "lang": "sw",
+        "name": "Chamchanga Kijani"
+      },
+      {
+        "lang": "ta",
+        "name": "Aatru Ullan"
+      },
+      {
+        "lang": "th",
+        "name": "นกชายเลนเขียว"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeşil düdükçün"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кара ак-кудурук"
+      },
+      {
+        "lang": "uk",
+        "name": "Коловодник лісовий"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Choắt bụng trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "白腰草鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa nebularia",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Groenpootruiter"
+      },
+      {
+        "lang": "ar",
+        "name": "الطيطوى خضراء الساق"
+      },
+      {
+        "lang": "ast",
+        "name": "Chibibí Claru"
+      },
+      {
+        "lang": "az",
+        "name": "Iri trinqa"
+      },
+      {
+        "lang": "be",
+        "name": "Кулік-селянец"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям зеленокрак водобегач"
+      },
+      {
+        "lang": "bn",
+        "name": "পাতি সবুজপা"
+      },
+      {
+        "lang": "br",
+        "name": "Ar strelleg pavioù gwer"
+      },
+      {
+        "lang": "ca",
+        "name": "Camaverda"
+      },
+      {
+        "lang": "cs",
+        "name": "Vodouš šedý"
+      },
+      {
+        "lang": "cw",
+        "name": "Gar wervelen"
+      },
+      {
+        "lang": "cy",
+        "name": "Coeswerdd"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidklire"
+      },
+      {
+        "lang": "de",
+        "name": "Grünschenkel"
+      },
+      {
+        "lang": "dv",
+        "name": "Chon Chon Ilolhi"
+      },
+      {
+        "lang": "el",
+        "name": "Στακτονεραλλίδα"
+      },
+      {
+        "lang": "en",
+        "name": "Common Greenshank"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza tringo"
+      },
+      {
+        "lang": "es",
+        "name": "Archibebe Claro"
+      },
+      {
+        "lang": "et",
+        "name": "Heletilder"
+      },
+      {
+        "lang": "eu",
+        "name": "Gamba verda"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkoviklo"
+      },
+      {
+        "lang": "fo",
+        "name": "Hvítstelkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier aboyeur"
+      },
+      {
+        "lang": "ga",
+        "name": "Laidhrín Glas"
+      },
+      {
+        "lang": "gd",
+        "name": "Deoch bhuidhe"
+      },
+      {
+        "lang": "gl",
+        "name": "Bilurico claro"
+      },
+      {
+        "lang": "gv",
+        "name": "Gollan marrey glass"
+      },
+      {
+        "lang": "he",
+        "name": "ביצנית ירוקת רגל"
+      },
+      {
+        "lang": "hr",
+        "name": "Krivokljuna Prutka"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürke cankó"
+      },
+      {
+        "lang": "hy",
+        "name": "Կտցար ծխագույն"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Trinil Kaki-hijau"
+      },
+      {
+        "lang": "is",
+        "name": "Lyngstelkur"
+      },
+      {
+        "lang": "it",
+        "name": "Pantana"
+      },
+      {
+        "lang": "ja",
+        "name": "アオアシシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "დიდი ჭოვილო"
+      },
+      {
+        "lang": "kk",
+        "name": "Үлкен балшықшы"
+      },
+      {
+        "lang": "ko",
+        "name": "청다리도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Gréngpatt"
+      },
+      {
+        "lang": "lt",
+        "name": "Žaliakojis tilvikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Lielā tilbīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Водна трчкалица"
+      },
+      {
+        "lang": "ml",
+        "name": "പച്ചക്കാലി"
+      },
+      {
+        "lang": "mn",
+        "name": "Ухэр хөгчүү - ᠦᠬᠡᠷ ᠬᠦᠭᠡᠴᠦ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Kaki Hijau"
+      },
+      {
+        "lang": "mt",
+        "name": "Ċewċewwa"
+      },
+      {
+        "lang": "nl",
+        "name": "Groenpootruiter"
+      },
+      {
+        "lang": "no",
+        "name": "Gluttsnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Kwokacz"
+      },
+      {
+        "lang": "pt",
+        "name": "Perna-verde-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Trintga verda"
+      },
+      {
+        "lang": "ro",
+        "name": "Fluierar cu picioare verzi"
+      },
+      {
+        "lang": "ru",
+        "name": "Большой улит"
+      },
+      {
+        "lang": "se",
+        "name": "Vilgescoavzzu"
+      },
+      {
+        "lang": "sk",
+        "name": "Kalužiak sivý"
+      },
+      {
+        "lang": "sl",
+        "name": "Zelenonogi martinec"
+      },
+      {
+        "lang": "st",
+        "name": "Koe-koe-lemao"
+      },
+      {
+        "lang": "sq",
+        "name": "Qyrylyku i madh"
+      },
+      {
+        "lang": "sr",
+        "name": "Zelenonogi prudnik - Зеленоноги прудник"
+      },
+      {
+        "lang": "sv",
+        "name": "Gluttsnäppa"
+      },
+      {
+        "lang": "sw",
+        "name": "Chamchanga Miguu-kijani"
+      },
+      {
+        "lang": "th",
+        "name": "นกทะเลขาเขียว"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeşilbacak"
+      },
+      {
+        "lang": "ts",
+        "name": "N'wantshekutsheku"
+      },
+      {
+        "lang": "tyv",
+        "name": "Улуг ногаан тулаажы"
+      },
+      {
+        "lang": "uk",
+        "name": "Великий коловодник"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Choắt lớn"
+      },
+      {
+        "lang": "xh",
+        "name": "Uphendu"
+      },
+      {
+        "lang": "zh",
+        "name": "青脚鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa melanoleuca",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Grootgeelpootruiter"
+      },
+      {
+        "lang": "br",
+        "name": "Strelleg pavioù melen"
+      },
+      {
+        "lang": "ca",
+        "name": "Camagroga grossa"
+      },
+      {
+        "lang": "cs",
+        "name": "Codouš velký"
+      },
+      {
+        "lang": "cy",
+        "name": "Melyngoes mawr"
+      },
+      {
+        "lang": "da",
+        "name": "Stor Gulben"
+      },
+      {
+        "lang": "de",
+        "name": "Großer Gelbschenkel"
+      },
+      {
+        "lang": "en",
+        "name": "Greater Yellowlegs"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda flavkrura tringo"
+      },
+      {
+        "lang": "es",
+        "name": "Archibebe Patigualdo Grande"
+      },
+      {
+        "lang": "et",
+        "name": "Ameerika heletilder"
+      },
+      {
+        "lang": "eu",
+        "name": "Gamba groga grossa"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikanviklo"
+      },
+      {
+        "lang": "fo",
+        "name": "Stórur gulstelkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand Chevalier"
+      },
+      {
+        "lang": "ga",
+        "name": "Ladhrán Buí"
+      },
+      {
+        "lang": "gcf",
+        "name": "Clin"
+      },
+      {
+        "lang": "gl",
+        "name": "Bilurico patiamarelo grande"
+      },
+      {
+        "lang": "gn",
+        "name": "Mbatui guasu"
+      },
+      {
+        "lang": "he",
+        "name": "בצנית עקודה"
+      },
+      {
+        "lang": "ht",
+        "name": "Gwo Bekasin janm jòn"
+      },
+      {
+        "lang": "hu",
+        "name": "Mocsári cankó"
+      },
+      {
+        "lang": "is",
+        "name": "Mosastelkur"
+      },
+      {
+        "lang": "it",
+        "name": "Totano zampegialle maggiore"
+      },
+      {
+        "lang": "ja",
+        "name": "オオキアシシギ"
+      },
+      {
+        "lang": "ko",
+        "name": "큰노랑발도요"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodmargis tulikas"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote geelpootruiter"
+      },
+      {
+        "lang": "no",
+        "name": "Plystresnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Brodziec piegowaty"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-grande-de-perna-amarela"
+      },
+      {
+        "lang": "pt",
+        "name": "Perna-amarela-grande"
+      },
+      {
+        "lang": "ru",
+        "name": "Пёстрый улит"
+      },
+      {
+        "lang": "sk",
+        "name": "Kalužiak jarabý"
+      },
+      {
+        "lang": "sl",
+        "name": "Veliki rumenonogi martinec"
+      },
+      {
+        "lang": "sv",
+        "name": "Större gulbena"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük sarıbacak"
+      },
+      {
+        "lang": "zh",
+        "name": "大黄脚鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa incana",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Strelleg kantreat"
+      },
+      {
+        "lang": "ca",
+        "name": "Xivita erràtica"
+      },
+      {
+        "lang": "de",
+        "name": "Wanderwasserläufer"
+      },
+      {
+        "lang": "en",
+        "name": "Wandering Tattler"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza flavkrura tringo"
+      },
+      {
+        "lang": "es",
+        "name": "Playero de Alaska"
+      },
+      {
+        "lang": "fa",
+        "name": "تاتلر سرگردان"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaaviklo"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier errant"
+      },
+      {
+        "lang": "ik",
+        "name": "Siḷiḷisuqtuq"
+      },
+      {
+        "lang": "mn",
+        "name": "Цэлдэн хөгчүүхэй"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse grijze ruiter"
+      },
+      {
+        "lang": "ru",
+        "name": "Американский пепельный улит"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk gråsnäppa"
+      },
+      {
+        "lang": "to",
+        "name": "Kiu tea"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲黄足鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa guttifer",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vodouš ochotský"
+      },
+      {
+        "lang": "en",
+        "name": "Spotted Greenshank"
+      },
+      {
+        "lang": "ja",
+        "name": "カラフトアオアシシギ"
+      },
+      {
+        "lang": "ko",
+        "name": "청다리도요사촌"
+      },
+      {
+        "lang": "ru",
+        "name": "Охотский улит"
+      },
+      {
+        "lang": "sv",
+        "name": "Fläckgluttsnäppa"
+      },
+      {
+        "lang": "zh",
+        "name": "小青腳鷸"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa glareola",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bosruiter"
+      },
+      {
+        "lang": "ar",
+        "name": "طيطوي الغياط"
+      },
+      {
+        "lang": "ast",
+        "name": "Andarríu Pintu"
+      },
+      {
+        "lang": "az",
+        "name": "Boz trinqa",
+        "synonyms": [
+          "Fifi"
+        ]
+      },
+      {
+        "lang": "ba",
+        "name": "Божор сәпсәү"
+      },
+      {
+        "lang": "be",
+        "name": "Кулік-цякун"
+      },
+      {
+        "lang": "bg",
+        "name": "Малък горски водобегач"
+      },
+      {
+        "lang": "bn",
+        "name": "বন বাটান"
+      },
+      {
+        "lang": "br",
+        "name": "Strelleg-geun"
+      },
+      {
+        "lang": "ca",
+        "name": "Valona"
+      },
+      {
+        "lang": "cs",
+        "name": "Vodouš bahenní"
+      },
+      {
+        "lang": "cw",
+        "name": "Pyber cos"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd y graean"
+      },
+      {
+        "lang": "da",
+        "name": "Tinksmed"
+      },
+      {
+        "lang": "de",
+        "name": "Bruchwasserläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Δασονεραλλίδα"
+      },
+      {
+        "lang": "en",
+        "name": "Wood Sandpiper"
+      },
+      {
+        "lang": "eo",
+        "name": "Brovtringo"
+      },
+      {
+        "lang": "es",
+        "name": "Andarríos Bastardo"
+      },
+      {
+        "lang": "et",
+        "name": "Mudatilder"
+      },
+      {
+        "lang": "eu",
+        "name": "Kuliska pikart"
+      },
+      {
+        "lang": "fi",
+        "name": "Liro"
+      },
+      {
+        "lang": "fo",
+        "name": "Vaðstelkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier sylvain"
+      },
+      {
+        "lang": "ga",
+        "name": "Gobadán Coille"
+      },
+      {
+        "lang": "gd",
+        "name": "Luatharan coille"
+      },
+      {
+        "lang": "gl",
+        "name": "Bilurico bastardo"
+      },
+      {
+        "lang": "gv",
+        "name": "Looyran ruy"
+      },
+      {
+        "lang": "he",
+        "name": "ביצנית מנומרת"
+      },
+      {
+        "lang": "hi",
+        "name": "Kottan"
+      },
+      {
+        "lang": "hr",
+        "name": "Prutka Migavica"
+      },
+      {
+        "lang": "hu",
+        "name": "Réti cankó"
+      },
+      {
+        "lang": "hy",
+        "name": "Ֆիֆի"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Trinil Semak"
+      },
+      {
+        "lang": "is",
+        "name": "Flóastelkur"
+      },
+      {
+        "lang": "it",
+        "name": "Piro piro boschereccio"
+      },
+      {
+        "lang": "ja",
+        "name": "タカブシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "ფიფი",
+        "synonyms": [
+          "ჭაობის ჭოვილო"
+        ]
+      },
+      {
+        "lang": "kk",
+        "name": "Бєрте балшықшы",
+        "synonyms": [
+          "Фифи"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "알락도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Mouerwaasserleefer"
+      },
+      {
+        "lang": "lt",
+        "name": "Tikutis"
+      },
+      {
+        "lang": "lv",
+        "name": "Mazā gaišā tilbīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Мала (Шумска) тринга"
+      },
+      {
+        "lang": "ml",
+        "name": "പുള്ളിക്കാടക്കൊക്ക്"
+      },
+      {
+        "lang": "mn",
+        "name": "Шугуйн хөгчүү / ᠰᠢᠭᠣᠢ ᠵᠢᠨ ᠬᠦᠭᠡᠴᠦ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Sawah"
+      },
+      {
+        "lang": "mt",
+        "name": "Pespus tal-Baħar"
+      },
+      {
+        "lang": "nl",
+        "name": "Bosruiter"
+      },
+      {
+        "lang": "nn",
+        "name": "Grønstilk"
+      },
+      {
+        "lang": "no",
+        "name": "Grønnstilk"
+      },
+      {
+        "lang": "pcd",
+        "name": "Rititi"
+      },
+      {
+        "lang": "pl",
+        "name": "Łęczak"
+      },
+      {
+        "lang": "pnb",
+        "name": "لکڑی آلا ریتپائیپر"
+      },
+      {
+        "lang": "pt",
+        "name": "Maçarico-bastardo"
+      },
+      {
+        "lang": "rm",
+        "name": "trintga da pali"
+      },
+      {
+        "lang": "ro",
+        "name": "Fluierar de mlaştină"
+      },
+      {
+        "lang": "ru",
+        "name": "Фифи"
+      },
+      {
+        "lang": "rue",
+        "name": "Улїт луговый"
+      },
+      {
+        "lang": "sah",
+        "name": "Куллуруут"
+      },
+      {
+        "lang": "se",
+        "name": "Ruonájuolcoavzzu"
+      },
+      {
+        "lang": "sk",
+        "name": "Kalužiak močiarny"
+      },
+      {
+        "lang": "sl",
+        "name": "Močvirski martinec"
+      },
+      {
+        "lang": "sq",
+        "name": "Qyrylyku i zallit"
+      },
+      {
+        "lang": "sr",
+        "name": "prudnik migavac / Прудник мигавац"
+      },
+      {
+        "lang": "st",
+        "name": "Koe-koe-lemao"
+      },
+      {
+        "lang": "sv",
+        "name": "Grönbena"
+      },
+      {
+        "lang": "sw",
+        "name": "Chamchanga-mtoni"
+      },
+      {
+        "lang": "ta",
+        "name": "Pori Ullan"
+      },
+      {
+        "lang": "th",
+        "name": "นกชายเลนน้ำจืด"
+      },
+      {
+        "lang": "tr",
+        "name": "Orman düdükçünü"
+      },
+      {
+        "lang": "ts",
+        "name": "N'wantshekutsheku"
+      },
+      {
+        "lang": "tyv",
+        "name": "Алгырар тулаажы"
+      },
+      {
+        "lang": "uk",
+        "name": "Болотяний коловодник"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Choắt bụng xám"
+      },
+      {
+        "lang": "xh",
+        "name": "Uthuthula"
+      },
+      {
+        "lang": "zea",
+        "name": "Bosruter"
+      },
+      {
+        "lang": "zh",
+        "name": "林鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa flavipes",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kleingeelpootruiter"
+      },
+      {
+        "lang": "br",
+        "name": "Strelleg bihan pavioù melen"
+      },
+      {
+        "lang": "ca",
+        "name": "Camagroga"
+      },
+      {
+        "lang": "cs",
+        "name": "Vodouš žlutonohý"
+      },
+      {
+        "lang": "cy",
+        "name": "Melyngoes bach"
+      },
+      {
+        "lang": "da",
+        "name": "Gulben"
+      },
+      {
+        "lang": "de",
+        "name": "Kleiner Gelbschenkel"
+      },
+      {
+        "lang": "el",
+        "name": "Κιτρινοσκέλης"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Yellowlegs"
+      },
+      {
+        "lang": "eo",
+        "name": "Flavkrura tringo"
+      },
+      {
+        "lang": "es",
+        "name": "Archibebe Patigualdo Chico"
+      },
+      {
+        "lang": "et",
+        "name": "Kollajalg-tilder"
+      },
+      {
+        "lang": "eu",
+        "name": "Gamba groga petita"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltajalkaviklo"
+      },
+      {
+        "lang": "fo",
+        "name": "Lítil gulstelkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier à pattes jaunes"
+      },
+      {
+        "lang": "ga",
+        "name": "Mionladhrán Buí"
+      },
+      {
+        "lang": "gcf",
+        "name": "Patte jaune"
+      },
+      {
+        "lang": "gl",
+        "name": "Bilurico patiamarelo pequeno"
+      },
+      {
+        "lang": "gn",
+        "name": "Mbatuitui"
+      },
+      {
+        "lang": "he",
+        "name": "ביצנית צהובת רגל"
+      },
+      {
+        "lang": "ht",
+        "name": "Bekasin janm jòn"
+      },
+      {
+        "lang": "hu",
+        "name": "Sárgalábú cankó"
+      },
+      {
+        "lang": "id",
+        "name": "Trinil Kaki-kuning"
+      },
+      {
+        "lang": "is",
+        "name": "Hrísastelkur"
+      },
+      {
+        "lang": "it",
+        "name": "Totano zampegialle minore"
+      },
+      {
+        "lang": "ja",
+        "name": "コキアシシギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Geltonkojis tulikas"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine Geelpootruiter"
+      },
+      {
+        "lang": "no",
+        "name": "Gulbeinsnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Brodziec żółtonogi"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-de-perna-amarela"
+      },
+      {
+        "lang": "pt",
+        "name": "Perna-amarela-pequeno"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтоногий улит"
+      },
+      {
+        "lang": "sk",
+        "name": "Kalužiak žltonohý"
+      },
+      {
+        "lang": "sl",
+        "name": "Mali rumenonogi martinec"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre gulbena"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük sarıbacak"
+      },
+      {
+        "lang": "uk",
+        "name": "Жовтоногий коловодник"
+      },
+      {
+        "lang": "wa",
+        "name": "Waharomu"
+      },
+      {
+        "lang": "zh",
+        "name": "小黄脚鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa erythropus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gevlekte Rooipootruiter"
+      },
+      {
+        "lang": "ar",
+        "name": "الطيطوى حمراء الساق الرقطاء"
+      },
+      {
+        "lang": "ast",
+        "name": "Chibibí Pintu"
+      },
+      {
+        "lang": "az",
+        "name": "Şepol"
+      },
+      {
+        "lang": "be",
+        "name": "Кулік-шчогаль"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям червенокрак водобегач"
+      },
+      {
+        "lang": "bn",
+        "name": "তিলা লালপা"
+      },
+      {
+        "lang": "br",
+        "name": "Ar strelleg du"
+      },
+      {
+        "lang": "ca",
+        "name": "Cama-roja pintada"
+      },
+      {
+        "lang": "cs",
+        "name": "Vodouš tmavý"
+      },
+      {
+        "lang": "cw",
+        "name": "Gar vryth"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd coesgoch mannog"
+      },
+      {
+        "lang": "da",
+        "name": "Sortklire"
+      },
+      {
+        "lang": "de",
+        "name": "Dunkler Wasserläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Μαυρονεραλλίδα"
+      },
+      {
+        "lang": "en",
+        "name": "Spotted Redshank"
+      },
+      {
+        "lang": "eo",
+        "name": "Malhela tringo"
+      },
+      {
+        "lang": "es",
+        "name": "Archibebe Oscuro"
+      },
+      {
+        "lang": "et",
+        "name": "Tumetilder"
+      },
+      {
+        "lang": "eu",
+        "name": "Bernagorri ilun"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustaviklo"
+      },
+      {
+        "lang": "fo",
+        "name": "Svartstelkur"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier arlequin"
+      },
+      {
+        "lang": "ga",
+        "name": "Cosdeargán Breac"
+      },
+      {
+        "lang": "gd",
+        "name": "Gearradh bhreac"
+      },
+      {
+        "lang": "gl",
+        "name": "Bilurico escuro"
+      },
+      {
+        "lang": "gv",
+        "name": "Gollan marrey breck"
+      },
+      {
+        "lang": "he",
+        "name": "ביצנית אדומת רגל"
+      },
+      {
+        "lang": "hr",
+        "name": "Crna Prutka"
+      },
+      {
+        "lang": "hu",
+        "name": "Füstös cankó"
+      },
+      {
+        "lang": "hy",
+        "name": "Կտցար պտավոր"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Trinil Tutul"
+      },
+      {
+        "lang": "is",
+        "name": "Sótstelkur"
+      },
+      {
+        "lang": "it",
+        "name": "Totano moro"
+      },
+      {
+        "lang": "ja",
+        "name": "ツルシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "პრანჭა-ჭოვილო"
+      },
+      {
+        "lang": "kk",
+        "name": "Тәкілдек балшықшы"
+      },
+      {
+        "lang": "ko",
+        "name": "학도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Donkele Waasserleefer"
+      },
+      {
+        "lang": "lmo",
+        "name": "Petònega"
+      },
+      {
+        "lang": "lt",
+        "name": "Tamsusis tilvikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Tumšā tilbīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Тринга"
+      },
+      {
+        "lang": "mn",
+        "name": "Нугасч начин / ᠡᠭᠡᠯ ᠱᠣᠩᠬᠣᠷ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Berbintik"
+      },
+      {
+        "lang": "mt",
+        "name": "Ċuvett"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte Ruiter"
+      },
+      {
+        "lang": "no",
+        "name": "Sotsnipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Brodziec śniady"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Macarico-de-perna-vermelha"
+      },
+      {
+        "lang": "pt",
+        "name": "Perna-vermelha-escuro"
+      },
+      {
+        "lang": "rm",
+        "name": "Trintga naira"
+      },
+      {
+        "lang": "ro",
+        "name": "Fluierar negru"
+      },
+      {
+        "lang": "ru",
+        "name": "Щеголь"
+      },
+      {
+        "lang": "se",
+        "name": "Cáhppescoavzzu"
+      },
+      {
+        "lang": "sk",
+        "name": "Kalužiak tmavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Črni martinec"
+      },
+      {
+        "lang": "sq",
+        "name": "Qyrylyku i murrmë"
+      },
+      {
+        "lang": "sr",
+        "name": "Mrki prudnik / Мрки прудник"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartsnäppa"
+      },
+      {
+        "lang": "sw",
+        "name": "Chamchanga Madoa"
+      },
+      {
+        "lang": "th",
+        "name": "นกทะเลขาแดงลายจุด"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara kızılbacak"
+      },
+      {
+        "lang": "tyv",
+        "name": "Тулааның каас кужу"
+      },
+      {
+        "lang": "uk",
+        "name": "Коловодник чорний"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Choắt chân đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "鹤鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tringa brevipes",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-tailed Tattler"
+      },
+      {
+        "lang": "eo",
+        "name": "Mallongkrura tringo"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevalier de Sibérie"
+      },
+      {
+        "lang": "ja",
+        "name": "キアシシギ"
+      },
+      {
+        "lang": "ko",
+        "name": "노랑발도요"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Ekor Kelabu"
+      },
+      {
+        "lang": "sv",
+        "name": "Sibirisk gråsnäppa"
+      },
+      {
+        "lang": "zh",
+        "name": "灰尾漂鹬"
+      }
+    ]
+  }
+]

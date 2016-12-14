@@ -1,0 +1,319 @@
+[
+  {
+    "scientific_name": "Philomachus pugnax",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kemphaan"
+      },
+      {
+        "lang": "ar",
+        "name": "حجوالة"
+      },
+      {
+        "lang": "ast",
+        "name": "Engardiente"
+      },
+      {
+        "lang": "az",
+        "name": "Döyüşkən cüllüt"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡорохтан"
+      },
+      {
+        "lang": "be",
+        "name": "Баталён"
+      },
+      {
+        "lang": "bg",
+        "name": "Бойник"
+      },
+      {
+        "lang": "bn",
+        "name": "গেওয়ালা বাটান"
+      },
+      {
+        "lang": "br",
+        "name": "Frezenneg riotus"
+      },
+      {
+        "lang": "ca",
+        "name": "Batallaire"
+      },
+      {
+        "lang": "cs",
+        "name": "Jespák bojovný"
+      },
+      {
+        "lang": "cw",
+        "name": "Gudhygen"
+      },
+      {
+        "lang": "cy",
+        "name": "Pibydd Torchog"
+      },
+      {
+        "lang": "da",
+        "name": "Brushane"
+      },
+      {
+        "lang": "de",
+        "name": "Kampfläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Μαχητής"
+      },
+      {
+        "lang": "en",
+        "name": "Ruff"
+      },
+      {
+        "lang": "eo",
+        "name": "Duelbirdo"
+      },
+      {
+        "lang": "es",
+        "name": "Combatiente"
+      },
+      {
+        "lang": "et",
+        "name": "Tutkas"
+      },
+      {
+        "lang": "eu",
+        "name": "Borrokalari"
+      },
+      {
+        "lang": "fi",
+        "name": "Suokukko"
+      },
+      {
+        "lang": "fo",
+        "name": "Kápugrælingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Combattant varié"
+      },
+      {
+        "lang": "frr",
+        "name": "Brüüshöön"
+      },
+      {
+        "lang": "fy",
+        "name": "Hoants"
+      },
+      {
+        "lang": "ga",
+        "name": "Rufachán"
+      },
+      {
+        "lang": "gd",
+        "name": "Gibeagan"
+      },
+      {
+        "lang": "gl",
+        "name": "Combatente"
+      },
+      {
+        "lang": "gv",
+        "name": "Ushag y roo"
+      },
+      {
+        "lang": "he",
+        "name": "לוחם"
+      },
+      {
+        "lang": "hr",
+        "name": "Pršljivac"
+      },
+      {
+        "lang": "hu",
+        "name": "Pajzsoscankó"
+      },
+      {
+        "lang": "hy",
+        "name": "Կռվակտցար"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Trinil Rumbai"
+      },
+      {
+        "lang": "is",
+        "name": "Rúkragi"
+      },
+      {
+        "lang": "it",
+        "name": "Combattente"
+      },
+      {
+        "lang": "ja",
+        "name": "エリマキシギ"
+      },
+      {
+        "lang": "ka",
+        "name": "მაჩხუბარა კოკორინა"
+      },
+      {
+        "lang": "kjn",
+        "name": "Тарбахай"
+      },
+      {
+        "lang": "kk",
+        "name": "Күжіркей"
+      },
+      {
+        "lang": "ko",
+        "name": "목도리도요"
+      },
+      {
+        "lang": "lb",
+        "name": "Ambaraskréimer"
+      },
+      {
+        "lang": "lt",
+        "name": "Gaidukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Gugatnis"
+      },
+      {
+        "lang": "mk",
+        "name": "Бојник"
+      },
+      {
+        "lang": "mn",
+        "name": "Нооголдой - ᠨᠣᠴᠣᠭ᠎ᠠ ᠨᠣᠯᠣᠯᠳᠠᠢ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Ropol"
+      },
+      {
+        "lang": "mt",
+        "name": "Girwiel"
+      },
+      {
+        "lang": "nl",
+        "name": "Kemphaan"
+      },
+      {
+        "lang": "nn",
+        "name": "Brushane"
+      },
+      {
+        "lang": "no",
+        "name": "Brushane"
+      },
+      {
+        "lang": "pcd",
+        "name": "Conbatant"
+      },
+      {
+        "lang": "pl",
+        "name": "Batalion"
+      },
+      {
+        "lang": "pnb",
+        "name": "رف"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Combatente"
+      },
+      {
+        "lang": "pt",
+        "name": "Combatente"
+      },
+      {
+        "lang": "rm",
+        "name": "Rivarel lutgader"
+      },
+      {
+        "lang": "ro",
+        "name": "Bătăuș"
+      },
+      {
+        "lang": "ru",
+        "name": "Турухтан"
+      },
+      {
+        "lang": "rue",
+        "name": "Турухтан"
+      },
+      {
+        "lang": "sah",
+        "name": "Бараах"
+      },
+      {
+        "lang": "se",
+        "name": "Rávggoš"
+      },
+      {
+        "lang": "sk",
+        "name": "Bojovník bahenný"
+      },
+      {
+        "lang": "sl",
+        "name": "Togotnik"
+      },
+      {
+        "lang": "sq",
+        "name": "Luftëtari"
+      },
+      {
+        "lang": "sr",
+        "name": "Prudnik ubojica - Прудник убојица"
+      },
+      {
+        "lang": "st",
+        "name": "Koe-koe-lemao"
+      },
+      {
+        "lang": "sv",
+        "name": "Brushane"
+      },
+      {
+        "lang": "sw",
+        "name": "Chokowe Mjasiri"
+      },
+      {
+        "lang": "ta",
+        "name": "பேதை உள்ளான்"
+      },
+      {
+        "lang": "th",
+        "name": "นกรัฟ"
+      },
+      {
+        "lang": "tr",
+        "name": "Dövüşken kuş"
+      },
+      {
+        "lang": "tyv",
+        "name": "Содаачы"
+      },
+      {
+        "lang": "uk",
+        "name": "Турухтан"
+      },
+      {
+        "lang": "vec",
+        "name": "Ganbeton"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Rẽ lớn"
+      },
+      {
+        "lang": "zh",
+        "name": "流苏鹬"
+      }
+    ]
+  }
+]
