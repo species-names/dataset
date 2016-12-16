@@ -14,11 +14,18 @@ Absolutly beta state, note that format still can change currently.
 
 ## Todo
 - json-schema
-- test with json-schema -> travis
+- test with json-schema
+- test for duplicates
+- travis
 
 ## Contribute
 You can provide Pull Request to add or correct translations and species.  
 Pls add some sort of reference.  
+
+## Tests
+
+    yarn install
+    yarn test
 
 ### License
 

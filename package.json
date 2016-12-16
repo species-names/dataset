@@ -1,0 +1,25 @@
+{
+  "name": "species-names-dataset",
+  "version": "0.0.0",
+  "description": "Species names dataset",
+  "scripts": {
+    "test": "mocha -R spec ./tests/*"
+  },
+  "author": "Ivo Bathke <ivo.bathke@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/species-names/dataset.git"
+  },
+  "keywords": [
+    "species",
+    "names",
+    "zoology"
+  ],
+  "homepage": "https://github.com/species-names/dataset",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-json-schema": "^1.4.0",
+    "mocha": "^3.2.0"
+  }
+}

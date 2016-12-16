@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "scientific_name": {
+        "type": "string"
+      },
+      "common_names": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "lang": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "synonyms": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "lang",
+            "name"
+          ]
+        }
+      }
+    },
+    "required": [
+      "scientific_name",
+      "common_names"
+    ]
+  }
+}
