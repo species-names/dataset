@@ -20,6 +20,9 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-json-schema": "^1.4.0",
-    "mocha": "^3.2.0"
-  }
+    "json-schema-remote": "^1.1.2",
+    "mocha": "^3.2.0",
+    "walk": "^2.3.9"
+  },
+  "dependencies": {}
 }

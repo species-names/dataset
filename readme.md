@@ -1,4 +1,4 @@
-# Species names dataset
+# Species names dataset [![Build Status][travis-image]][travis-url]
 
 v0.0.0
 
@@ -13,10 +13,7 @@ Work in progess!
 Absolutly beta state, note that format still can change currently.  
 
 ## Todo
-- json-schema
-- test with json-schema
 - test for duplicates
-- travis
 
 ## Contribute
 You can provide Pull Request to add or correct translations and species.  
@@ -29,5 +26,8 @@ Pls add some sort of reference.
 
 ### License
 
-Creative Commons Attribution-ShareAlike License[https://creativecommons.org/licenses/by-sa/4.0/]
+[Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/)  
 http://choosealicense.com/licenses/cc-by-sa-4.0/
+
+[travis-image]: https://travis-ci.org/species-names/dataset.svg?branch=master
+[travis-url]: https://travis-ci.org/species-names/dataset
