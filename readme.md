@@ -1,6 +1,6 @@
 # Species names dataset [![Build Status][travis-image]][travis-url]
 
-v0.0.0
+v0.0.1
 
 A json format dataset for scientific and common species names.
 
@@ -9,8 +9,7 @@ Data is harvested mainly from https://species.wikimedia.org
 Species names are stored in json format in one file per genera.
 
 ## Current State
-Work in progess!  
-Absolutly beta state, note that format still can change currently.  
+Currently only birds are done.  
 
 ## Contribute
 You can provide Pull Request to add or correct translations and species.  

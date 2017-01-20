@@ -1,6 +1,6 @@
 {
   "name": "species-names-dataset",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Species names dataset",
   "scripts": {
     "test": "mocha -R spec ./tests/*"
