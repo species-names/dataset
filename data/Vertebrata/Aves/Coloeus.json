@@ -1,0 +1,462 @@
+[
+  {
+    "scientific_name": "Coloeus monedula",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kouw"
+      },
+      {
+        "lang": "als",
+        "name": "Tule"
+      },
+      {
+        "lang": "an",
+        "name": "Gralleta"
+      },
+      {
+        "lang": "ar",
+        "name": "غراب الزرع"
+      },
+      {
+        "lang": "ast",
+        "name": "Capiella"
+      },
+      {
+        "lang": "az",
+        "name": "Dolaşa"
+      },
+      {
+        "lang": "ba",
+        "name": "Сәүкә"
+      },
+      {
+        "lang": "bar",
+        "name": "Dóin"
+      },
+      {
+        "lang": "be",
+        "name": "Каўкаa"
+      },
+      {
+        "lang": "bg",
+        "name": "Чавка"
+      },
+      {
+        "lang": "br",
+        "name": "Kavan-tour"
+      },
+      {
+        "lang": "ca",
+        "name": "Gralla"
+      },
+      {
+        "lang": "ce",
+        "name": "Çovka"
+      },
+      {
+        "lang": "cs",
+        "name": "Kavka obecná"
+      },
+      {
+        "lang": "csb",
+        "name": "Mòrës"
+      },
+      {
+        "lang": "cv",
+        "name": "Чавка",
+        "synonyms": [
+          "Чана"
+        ]
+      },
+      {
+        "lang": "cy",
+        "name": "Jac-y-do"
+      },
+      {
+        "lang": "da",
+        "name": "Allike"
+      },
+      {
+        "lang": "de",
+        "name": "Dohle"
+      },
+      {
+        "lang": "dsb",
+        "name": "Kawka"
+      },
+      {
+        "lang": "el",
+        "name": "Κάργια"
+      },
+      {
+        "lang": "en",
+        "name": "Western jackdaw"
+      },
+      {
+        "lang": "eo",
+        "name": "Monedo"
+      },
+      {
+        "lang": "es",
+        "name": "Grajilla occidental"
+      },
+      {
+        "lang": "et",
+        "name": "Kaelushakk"
+      },
+      {
+        "lang": "eu",
+        "name": "Beletxiki"
+      },
+      {
+        "lang": "fi",
+        "name": "Naakka"
+      },
+      {
+        "lang": "fo",
+        "name": "Rókur"
+      },
+      {
+        "lang": "fr",
+        "name": "Choucas des tours"
+      },
+      {
+        "lang": "frr",
+        "name": "Likfögel"
+      },
+      {
+        "lang": "fur",
+        "name": "Çore cenerine"
+      },
+      {
+        "lang": "fy",
+        "name": "Toerka"
+      },
+      {
+        "lang": "ga",
+        "name": "Cág"
+      },
+      {
+        "lang": "gd",
+        "name": "Cathag"
+      },
+      {
+        "lang": "gl",
+        "name": "Gralla cereixeira"
+      },
+      {
+        "lang": "gv",
+        "name": "Caaig"
+      },
+      {
+        "lang": "he",
+        "name": "קאק"
+      },
+      {
+        "lang": "hr",
+        "name": "Čavka zlogodnjača"
+      },
+      {
+        "lang": "hsb",
+        "name": "Kawka"
+      },
+      {
+        "lang": "hu",
+        "name": "Csóka"
+      },
+      {
+        "lang": "hy",
+        "name": "Սովորական Ճայ"
+      },
+      {
+        "lang": "io",
+        "name": "Chuvo"
+      },
+      {
+        "lang": "is",
+        "name": "Dvergkráka"
+      },
+      {
+        "lang": "it",
+        "name": "Taccola"
+      },
+      {
+        "lang": "ja",
+        "name": "ニシコクマルガラス"
+      },
+      {
+        "lang": "ka",
+        "name": "ჩვეულებრივი ჭკა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къуалэ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Таан"
+      },
+      {
+        "lang": "kk",
+        "name": "Шауқарға"
+      },
+      {
+        "lang": "ko",
+        "name": "갈가마귀"
+      },
+      {
+        "lang": "ku",
+        "name": "Qirereşka biçûk"
+      },
+      {
+        "lang": "kw",
+        "name": "Chogha"
+      },
+      {
+        "lang": "lb",
+        "name": "Steekueb"
+      },
+      {
+        "lang": "li",
+        "name": "Däölke"
+      },
+      {
+        "lang": "lld",
+        "name": "Cornacia"
+      },
+      {
+        "lang": "lt",
+        "name": "Kuosa"
+      },
+      {
+        "lang": "ltg",
+        "name": "Čāguons"
+      },
+      {
+        "lang": "lv",
+        "name": "Kovārnis"
+      },
+      {
+        "lang": "mdf",
+        "name": "Чавка"
+      },
+      {
+        "lang": "mk",
+        "name": "Чавка"
+      },
+      {
+        "lang": "mn",
+        "name": "Хар алагтуу"
+      },
+      {
+        "lang": "mrj",
+        "name": "Цӓнгӓ"
+      },
+      {
+        "lang": "mt",
+        "name": "Ċawla"
+      },
+      {
+        "lang": "myv",
+        "name": "Чавка"
+      },
+      {
+        "lang": "nds",
+        "name": "Taalk"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Kaauw"
+      },
+      {
+        "lang": "nl",
+        "name": "Kauw"
+      },
+      {
+        "lang": "nn",
+        "name": "Kaie"
+      },
+      {
+        "lang": "no",
+        "name": "Kaie"
+      },
+      {
+        "lang": "nrm",
+        "name": "Caûvette dé cliochi"
+      },
+      {
+        "lang": "oc",
+        "name": "Gralhon"
+      },
+      {
+        "lang": "pcd",
+        "name": "Cornalhe éd cloqhé"
+      },
+      {
+        "lang": "pl",
+        "name": "Kawka"
+      },
+      {
+        "lang": "pms",
+        "name": "Croass"
+      },
+      {
+        "lang": "pt",
+        "name": "Gralha-de-nuca-cinzenta"
+      },
+      {
+        "lang": "rm",
+        "name": "Tulaun",
+        "synonyms": [
+          "Curnagl grisch"
+        ]
+      },
+      {
+        "lang": "ro",
+        "name": "Stăncuță"
+      },
+      {
+        "lang": "ru",
+        "name": "Галка"
+      },
+      {
+        "lang": "rue",
+        "name": "Кавка"
+      },
+      {
+        "lang": "sc",
+        "name": "Tŕccula"
+      },
+      {
+        "lang": "scn",
+        "name": "Ciaula cinnirina"
+      },
+      {
+        "lang": "sco",
+        "name": "Kae"
+      },
+      {
+        "lang": "se",
+        "name": "Toardnagájon"
+      },
+      {
+        "lang": "sh",
+        "name": "Čavka"
+      },
+      {
+        "lang": "sk",
+        "name": "Kavka tmavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Kavka"
+      },
+      {
+        "lang": "sq",
+        "name": "Gala"
+      },
+      {
+        "lang": "sr",
+        "name": "чавка / čavka"
+      },
+      {
+        "lang": "sv",
+        "name": "Kaja"
+      },
+      {
+        "lang": "tk",
+        "name": "Küçük karga"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük karga"
+      },
+      {
+        "lang": "tt",
+        "name": "Чәүкә"
+      },
+      {
+        "lang": "tyv",
+        "name": "Таан"
+      },
+      {
+        "lang": "udm",
+        "name": "Ӵана"
+      },
+      {
+        "lang": "uk",
+        "name": "Галка"
+      },
+      {
+        "lang": "vls",
+        "name": "Kauwe"
+      },
+      {
+        "lang": "wa",
+        "name": "Tchawe"
+      },
+      {
+        "lang": "zea",
+        "name": "Kauw"
+      },
+      {
+        "lang": "zh",
+        "name": "寒鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coloeus dauuricus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Elsterdohle"
+      },
+      {
+        "lang": "en",
+        "name": "Daurian Jackdaw"
+      },
+      {
+        "lang": "fi",
+        "name": "Idännaakka"
+      },
+      {
+        "lang": "fr",
+        "name": "Choucas de Daourie"
+      },
+      {
+        "lang": "hu",
+        "name": "Örvös csóka"
+      },
+      {
+        "lang": "ja",
+        "name": "コクマルガラス"
+      },
+      {
+        "lang": "ko",
+        "name": "갈까마귀"
+      },
+      {
+        "lang": "no",
+        "name": "Mongolkaie"
+      },
+      {
+        "lang": "ru",
+        "name": "Даурская галка"
+      },
+      {
+        "lang": "sah",
+        "name": "Кыра өрт турааҕа"
+      },
+      {
+        "lang": "sv",
+        "name": "Klippkaja"
+      },
+      {
+        "lang": "zh",
+        "name": "达乌里寒鸦"
+      }
+    ]
+  }
+]

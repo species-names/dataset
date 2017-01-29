@@ -1,0 +1,2769 @@
+[
+  {
+    "scientific_name": "Corvus woodfordi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-billed Crow"
+      },
+      {
+        "lang": "fr",
+        "name": "Corneille à bec blanc"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus validus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-billed Crow"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus unicolor",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Corvus typicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Piping Crow"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus tristis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey Crow"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus torquatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Collared Crow"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyakörves varjú"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus tasmanicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Corvus splendens",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Huiskraai"
+      },
+      {
+        "lang": "cs",
+        "name": "vrána domácí"
+      },
+      {
+        "lang": "da",
+        "name": "Huskrage"
+      },
+      {
+        "lang": "de",
+        "name": "Glanzkrähe"
+      },
+      {
+        "lang": "en",
+        "name": "House Crow"
+      },
+      {
+        "lang": "eo",
+        "name": "Blanknuka korvo"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo Indio"
+      },
+      {
+        "lang": "fi",
+        "name": "intianvaris"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau familier"
+      },
+      {
+        "lang": "gu",
+        "name": "દેશી કાગડો"
+      },
+      {
+        "lang": "he",
+        "name": "עורב הודי"
+      },
+      {
+        "lang": "hi",
+        "name": "कौआ"
+      },
+      {
+        "lang": "hu",
+        "name": "Indiai varjú"
+      },
+      {
+        "lang": "is",
+        "name": "Bæjakráka"
+      },
+      {
+        "lang": "it",
+        "name": "Cornacchia grigia indiana"
+      },
+      {
+        "lang": "ja",
+        "name": "イエガラス",
+        "synonyms": [
+          "iegarasu"
+        ]
+      },
+      {
+        "lang": "ml",
+        "name": "പേനക്കാക്ക"
+      },
+      {
+        "lang": "mr",
+        "name": "कावळा"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Gagak Rumah"
+      },
+      {
+        "lang": "nl",
+        "name": "Huiskraai"
+      },
+      {
+        "lang": "no",
+        "name": "Huskråke"
+      },
+      {
+        "lang": "pl",
+        "name": "wrona orientalna"
+      },
+      {
+        "lang": "pt",
+        "name": "Gralha-indiana"
+      },
+      {
+        "lang": "ru",
+        "name": "Блестящий ворон",
+        "synonyms": [
+          "Домовая ворона"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "vrana lesklá"
+      },
+      {
+        "lang": "sv",
+        "name": "Huskråka"
+      },
+      {
+        "lang": "ta",
+        "name": "வீட்டுக் காகம்"
+      },
+      {
+        "lang": "th",
+        "name": "อีแก"
+      },
+      {
+        "lang": "tr",
+        "name": "Ev kargası"
+      },
+      {
+        "lang": "zh",
+        "name": "家鴉",
+        "synonyms": [
+          "家鸦"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus sinaloae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sinaloa Crow"
+      },
+      {
+        "lang": "fr",
+        "name": "Corneille du Sinaloa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus ruficollis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غراب البين"
+      },
+      {
+        "lang": "bg",
+        "name": "Кафявоврат гарван"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb del desert"
+      },
+      {
+        "lang": "de",
+        "name": "Wüstenrabe"
+      },
+      {
+        "lang": "en",
+        "name": "Brown-necked Raven"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo desertícola"
+      },
+      {
+        "lang": "eu",
+        "name": "Basamortuko erroi"
+      },
+      {
+        "lang": "fa",
+        "name": "غراب گردن‌قهوه‌ای"
+      },
+      {
+        "lang": "fi",
+        "name": "Arokorppi"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau brun"
+      },
+      {
+        "lang": "he",
+        "name": "עורב חום עורף"
+      },
+      {
+        "lang": "hu",
+        "name": "Barnanyakú holló"
+      },
+      {
+        "lang": "id",
+        "name": "Gagak leher cokelat"
+      },
+      {
+        "lang": "it",
+        "name": "Corvo collorosso"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinnekraaf"
+      },
+      {
+        "lang": "pl",
+        "name": "Kruk pustynny"
+      },
+      {
+        "lang": "pnb",
+        "name": "کاروس روفیکولس"
+      },
+      {
+        "lang": "ru",
+        "name": "Пустынный буроголовый ворон"
+      },
+      {
+        "lang": "sv",
+        "name": "Ökenkorp"
+      },
+      {
+        "lang": "tr",
+        "name": "Çöl kuzgunu"
+      },
+      {
+        "lang": "zh",
+        "name": "褐颈渡鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus rhipidurus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غراب مروحي الذنب"
+      },
+      {
+        "lang": "bg",
+        "name": "Късоопашат гарван"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb cuacurt"
+      },
+      {
+        "lang": "de",
+        "name": "Borstenrabe"
+      },
+      {
+        "lang": "en",
+        "name": "Fan-tailed raven"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo colicorto"
+      },
+      {
+        "lang": "eu",
+        "name": "Erroi buztanlabur"
+      },
+      {
+        "lang": "fa",
+        "name": "کلاغ دم‌بادبزنی"
+      },
+      {
+        "lang": "fi",
+        "name": "Lyhytpyrstökorppi"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau à queue courte"
+      },
+      {
+        "lang": "he",
+        "name": "עורב קצר זנב"
+      },
+      {
+        "lang": "nl",
+        "name": "Waaierstaartraaf"
+      },
+      {
+        "lang": "pnb",
+        "name": "کاروس رپیڈورس"
+      },
+      {
+        "lang": "ru",
+        "name": "Щетинистая ворона"
+      },
+      {
+        "lang": "sv",
+        "name": "Kortstjärtad korp"
+      },
+      {
+        "lang": "zh",
+        "name": "扇尾渡鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus palmarum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hispaniolan Palm-Crow"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus ossifragus",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "ウオガラス"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus orru",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Torresian Crow"
+      },
+      {
+        "lang": "pt",
+        "name": "Corvo-australiano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus nasicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Corvus moriorum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chatham Islands Raven"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus moneduloides",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Geradschnabelkrähe"
+      },
+      {
+        "lang": "en",
+        "name": "New Caledonian Crow"
+      },
+      {
+        "lang": "eo",
+        "name": "Novkaledonia korvo"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo de Nueva Caledonia"
+      },
+      {
+        "lang": "fi",
+        "name": "Uudenkaledonianvaris"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau calédonien"
+      },
+      {
+        "lang": "gl",
+        "name": "Corvo de Nova Caledonia"
+      },
+      {
+        "lang": "hu",
+        "name": "Új-kaledón varjú"
+      },
+      {
+        "lang": "io",
+        "name": "Korvo di Nova-Kaledonia"
+      },
+      {
+        "lang": "ja",
+        "name": "カレドニアガラス"
+      },
+      {
+        "lang": "lv",
+        "name": "Jaunkaledonijas vārna"
+      },
+      {
+        "lang": "pl",
+        "name": "Wrona brodata"
+      },
+      {
+        "lang": "pt",
+        "name": "Corvo-da-nova-caledónia"
+      },
+      {
+        "lang": "ru",
+        "name": "Новокаледо́нская воро́на"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeni Kaledonya kargası"
+      },
+      {
+        "lang": "zh",
+        "name": "新喀鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus minutus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cuban Palm-Crow"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus mellori",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Cuervo de Mellor"
+      },
+      {
+        "lang": "en",
+        "name": "Little raven"
+      },
+      {
+        "lang": "fa",
+        "name": "غراب کوچک"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkukorppi"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit Corbeau"
+      },
+      {
+        "lang": "it",
+        "name": "Corvo piccolo australiano"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine raaf"
+      },
+      {
+        "lang": "pl",
+        "name": "Kruk mały"
+      },
+      {
+        "lang": "pnb",
+        "name": "کاروس ملوری"
+      },
+      {
+        "lang": "ru",
+        "name": "Южноавстралийская ворона"
+      },
+      {
+        "lang": "sv",
+        "name": "Småkorp"
+      },
+      {
+        "lang": "zh",
+        "name": "小渡鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus meeki",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Cuervo de la Bougainville"
+      },
+      {
+        "lang": "en",
+        "name": "Bougainville crow"
+      },
+      {
+        "lang": "fa",
+        "name": "کلاغ بوگن‌ویل"
+      },
+      {
+        "lang": "nl",
+        "name": "Bougainvillekraai"
+      },
+      {
+        "lang": "pnb",
+        "name": "بوگنولیا کاں"
+      },
+      {
+        "lang": "sv",
+        "name": "Bougainvillekråka"
+      },
+      {
+        "lang": "zh",
+        "name": "布岛乌鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus macrorhynchos",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Dickschnabelkrähe"
+      },
+      {
+        "lang": "en",
+        "name": "Large-billed Crow"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo Picudo"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau à gros bec"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシブトガラス"
+      },
+      {
+        "lang": "mr",
+        "name": "डोमकावळा"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Gagak Paruh Besar"
+      },
+      {
+        "lang": "pl",
+        "name": "Wrona wielkodzioba"
+      },
+      {
+        "lang": "ru",
+        "name": "Большеклювая ворона"
+      },
+      {
+        "lang": "th",
+        "name": "อีกา"
+      },
+      {
+        "lang": "zh",
+        "name": "巨嘴鴉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus levaillantii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern Jungle Crow"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau de Levaillant"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus leucognaphalus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Corvus kubaryi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Guamkrähe"
+      },
+      {
+        "lang": "en",
+        "name": "Mariana crow"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo de las Marianas"
+      },
+      {
+        "lang": "fi",
+        "name": "Mariaanienvaris"
+      },
+      {
+        "lang": "fr",
+        "name": "Corneille de Guam"
+      },
+      {
+        "lang": "ko",
+        "name": "마리아나까마귀"
+      },
+      {
+        "lang": "nl",
+        "name": "Marianenkraai"
+      },
+      {
+        "lang": "pl",
+        "name": "Wrona mariańska"
+      },
+      {
+        "lang": "ru",
+        "name": "Гуамский ворон"
+      },
+      {
+        "lang": "sv",
+        "name": "Marianerkråka"
+      },
+      {
+        "lang": "zh",
+        "name": "关岛乌鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus jamaicensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Jamaican Crow"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo jamaicano"
+      },
+      {
+        "lang": "fa",
+        "name": "کلاغ جامائیکا"
+      },
+      {
+        "lang": "fi",
+        "name": "Jamaikanvaris"
+      },
+      {
+        "lang": "nl",
+        "name": "Jamaicaanse kraai"
+      },
+      {
+        "lang": "pl",
+        "name": "Wrona jamajska"
+      },
+      {
+        "lang": "pnb",
+        "name": "جمیکی کاں"
+      },
+      {
+        "lang": "ru",
+        "name": "Ямайский ворон"
+      },
+      {
+        "lang": "sv",
+        "name": "Jamaikakråka"
+      },
+      {
+        "lang": "zh",
+        "name": "牙买加乌鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus imparatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tamaulipas Crow"
+      },
+      {
+        "lang": "fr",
+        "name": "Corneille du Sinaloa"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo de Tamaulipas"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus hawaiiensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Hawaiikrähe"
+      },
+      {
+        "lang": "en",
+        "name": "'Alala",
+        "synonyms": [
+          "Hawaiian Crow"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Havai vares"
+      },
+      {
+        "lang": "fr",
+        "name": "Corneille d'H"
+      },
+      {
+        "lang": "hu",
+        "name": "Hawaii holló"
+      },
+      {
+        "lang": "ja",
+        "name": "ハワイガラス"
+      },
+      {
+        "lang": "zh",
+        "name": "夏威夷烏鴉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus fuscicapillus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown-headed Crow"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo cabecipardo"
+      },
+      {
+        "lang": "fa",
+        "name": "کلاغ سرقهوه‌ای"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskopäävaris"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinkopkraai"
+      },
+      {
+        "lang": "pl",
+        "name": "Wrona brązowogłowa"
+      },
+      {
+        "lang": "pnb",
+        "name": "پورے سروالا کاں"
+      },
+      {
+        "lang": "ru",
+        "name": "Гигантский ворон"
+      },
+      {
+        "lang": "sv",
+        "name": "Brunhuvad kråka"
+      },
+      {
+        "lang": "zh",
+        "name": "棕头乌鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus frugilegus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Roek"
+      },
+      {
+        "lang": "als",
+        "name": "Grap"
+      },
+      {
+        "lang": "an",
+        "name": "Gralla"
+      },
+      {
+        "lang": "ang",
+        "name": "Hrōc"
+      },
+      {
+        "lang": "ar",
+        "name": "غراب القيظ"
+      },
+      {
+        "lang": "av",
+        "name": "ЦӀумагъеду"
+      },
+      {
+        "lang": "az",
+        "name": "Zağca"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Kuovs"
+      },
+      {
+        "lang": "be",
+        "name": "Грак"
+      },
+      {
+        "lang": "bg",
+        "name": "Посевна врана"
+      },
+      {
+        "lang": "br",
+        "name": "Frav du"
+      },
+      {
+        "lang": "ca",
+        "name": "Graula"
+      },
+      {
+        "lang": "ce",
+        "name": "Q́ig"
+      },
+      {
+        "lang": "cs",
+        "name": "Havran polní"
+      },
+      {
+        "lang": "csb",
+        "name": "Krëczk"
+      },
+      {
+        "lang": "cv",
+        "name": "Курак"
+      },
+      {
+        "lang": "cy",
+        "name": "Ydfran"
+      },
+      {
+        "lang": "da",
+        "name": "Råge"
+      },
+      {
+        "lang": "de",
+        "name": "Saatkrähe"
+      },
+      {
+        "lang": "dsb",
+        "name": "Kawka"
+      },
+      {
+        "lang": "el",
+        "name": "Χαβαρόνι"
+      },
+      {
+        "lang": "eml",
+        "name": "Gratùsa"
+      },
+      {
+        "lang": "en",
+        "name": "Rook"
+      },
+      {
+        "lang": "eo",
+        "name": "Frugilego"
+      },
+      {
+        "lang": "es",
+        "name": "Graja"
+      },
+      {
+        "lang": "et",
+        "name": "Künnivares"
+      },
+      {
+        "lang": "eu",
+        "name": "Ipar-bele"
+      },
+      {
+        "lang": "fa",
+        "name": "کلاغ سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustavaris"
+      },
+      {
+        "lang": "fo",
+        "name": "Hjaltakráka"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau freux"
+      },
+      {
+        "lang": "frr",
+        "name": "Ruk"
+      },
+      {
+        "lang": "fur",
+        "name": "Cornete"
+      },
+      {
+        "lang": "fy",
+        "name": "Roek"
+      },
+      {
+        "lang": "ga",
+        "name": "Préachán"
+      },
+      {
+        "lang": "gd",
+        "name": "Creumhach"
+      },
+      {
+        "lang": "gl",
+        "name": "Gralla grande"
+      },
+      {
+        "lang": "gv",
+        "name": "Trogh"
+      },
+      {
+        "lang": "he",
+        "name": "עורב מזרע"
+      },
+      {
+        "lang": "hr",
+        "name": "Gačac"
+      },
+      {
+        "lang": "hsb",
+        "name": "Kawka"
+      },
+      {
+        "lang": "hu",
+        "name": "Vetési varjú"
+      },
+      {
+        "lang": "hy",
+        "name": "Սերմնաքաղ"
+      },
+      {
+        "lang": "io",
+        "name": "Frugilego"
+      },
+      {
+        "lang": "is",
+        "name": "Bláhrafn"
+      },
+      {
+        "lang": "it",
+        "name": "Corvo"
+      },
+      {
+        "lang": "ja",
+        "name": "ミヤマガラス"
+      },
+      {
+        "lang": "ka",
+        "name": "ჭილყვავი"
+      },
+      {
+        "lang": "kbd",
+        "name": "КъуанщӀэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Таған"
+      },
+      {
+        "lang": "ko",
+        "name": "떼까마귀"
+      },
+      {
+        "lang": "krc",
+        "name": "Чаука"
+      },
+      {
+        "lang": "krl",
+        "name": "Nuakku"
+      },
+      {
+        "lang": "ku",
+        "name": "Qirika reş"
+      },
+      {
+        "lang": "kw",
+        "name": "Bran-dre"
+      },
+      {
+        "lang": "lb",
+        "name": "Hierschtkueb"
+      },
+      {
+        "lang": "lt",
+        "name": "Kovas"
+      },
+      {
+        "lang": "ltg",
+        "name": "Tukšnesa krauklis"
+      },
+      {
+        "lang": "lv",
+        "name": "Kauka"
+      },
+      {
+        "lang": "mk",
+        "name": "Врана гагец"
+      },
+      {
+        "lang": "mn",
+        "name": "Турлиах"
+      },
+      {
+        "lang": "mt",
+        "name": "Korvu"
+      },
+      {
+        "lang": "myv",
+        "name": "Граць"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Rouk"
+      },
+      {
+        "lang": "nl",
+        "name": "Roek"
+      },
+      {
+        "lang": "nn",
+        "name": "Kornkråke"
+      },
+      {
+        "lang": "no",
+        "name": "Kornkråke"
+      },
+      {
+        "lang": "nrm",
+        "name": "Caûvette"
+      },
+      {
+        "lang": "pcd",
+        "name": "Corbioe"
+      },
+      {
+        "lang": "pl",
+        "name": "Gawron"
+      },
+      {
+        "lang": "pms",
+        "name": "Cornajass"
+      },
+      {
+        "lang": "pt",
+        "name": "Gralha-calva"
+      },
+      {
+        "lang": "rm",
+        "name": "Corv champester"
+      },
+      {
+        "lang": "ro",
+        "name": "Cioară de semănătură"
+      },
+      {
+        "lang": "ru",
+        "name": "Грач"
+      },
+      {
+        "lang": "sah",
+        "name": "Өрт турааҕа"
+      },
+      {
+        "lang": "scn",
+        "name": "Cruvacchiu"
+      },
+      {
+        "lang": "sco",
+        "name": "Reuk"
+      },
+      {
+        "lang": "se",
+        "name": "Bealdovuoraš"
+      },
+      {
+        "lang": "sk",
+        "name": "Havran čierny"
+      },
+      {
+        "lang": "sl",
+        "name": "Poljska vrana"
+      },
+      {
+        "lang": "sq",
+        "name": "Korbi sqepbardhë"
+      },
+      {
+        "lang": "sr",
+        "name": "Гачац / Gačac"
+      },
+      {
+        "lang": "sv",
+        "name": "Råka"
+      },
+      {
+        "lang": "tr",
+        "name": "Ekin kargası"
+      },
+      {
+        "lang": "tt",
+        "name": "Çavke"
+      },
+      {
+        "lang": "tyv",
+        "name": "Бөлүглежир каарган"
+      },
+      {
+        "lang": "uk",
+        "name": "Грак"
+      },
+      {
+        "lang": "vls",
+        "name": "Roek"
+      },
+      {
+        "lang": "wa",
+        "name": "Ptit coirbå"
+      },
+      {
+        "lang": "za",
+        "name": "禿鼻烏鴉"
+      },
+      {
+        "lang": "zh",
+        "name": "禿鼻烏鴉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus florensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Flores Crow"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus enca",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Slender-billed Crow"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus edithae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Somali Crow",
+        "synonyms": [
+          "Dwarf Raven"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus culminatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indian Jungle Crow"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau indien"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus cryptoleucus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chihuahuan Raven"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau à cou blanc"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérnyakú holló"
+      },
+      {
+        "lang": "it",
+        "name": "Corvo del Chihuahua"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus crassirostris",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Erzrabe"
+      },
+      {
+        "lang": "en",
+        "name": "Thick-billed raven"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo picogordo"
+      },
+      {
+        "lang": "fi",
+        "name": "Etiopiankorppi"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau corbivau"
+      },
+      {
+        "lang": "it",
+        "name": "Corvo abissino o corvo imperiale beccospesso"
+      },
+      {
+        "lang": "ja",
+        "name": "オオハシガラス"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus coronoides",
+    "common_names": [
+      {
+        "lang": "bar",
+        "name": "Neihóllaundkraah"
+      },
+      {
+        "lang": "de",
+        "name": "Neuhollandkrähe"
+      },
+      {
+        "lang": "en",
+        "name": "Australian Raven"
+      },
+      {
+        "lang": "fr",
+        "name": "corbeau d'Australie"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus corone",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Aaskraai"
+      },
+      {
+        "lang": "als",
+        "name": "Chraie"
+      },
+      {
+        "lang": "an",
+        "name": "Cornella"
+      },
+      {
+        "lang": "ang",
+        "name": "Crāwe"
+      },
+      {
+        "lang": "ar",
+        "name": "الغراب الرمادي"
+      },
+      {
+        "lang": "ast",
+        "name": "Cuerva"
+      },
+      {
+        "lang": "av",
+        "name": "ЧӀегӀераб гъеду"
+      },
+      {
+        "lang": "az",
+        "name": "Qara qarğa"
+      },
+      {
+        "lang": "be",
+        "name": "Варона"
+      },
+      {
+        "lang": "bg",
+        "name": "Черна врана"
+      },
+      {
+        "lang": "br",
+        "name": "Bran louet"
+      },
+      {
+        "lang": "bxr",
+        "name": "Турлааг"
+      },
+      {
+        "lang": "ca",
+        "name": "Cornella negra"
+      },
+      {
+        "lang": "cs",
+        "name": "Vrána obecná černá"
+      },
+      {
+        "lang": "cv",
+        "name": "Ула курак"
+      },
+      {
+        "lang": "cy",
+        "name": "Brân"
+      },
+      {
+        "lang": "da",
+        "name": "Sortkrage"
+      },
+      {
+        "lang": "de",
+        "name": "Rabenkrähe"
+      },
+      {
+        "lang": "dsb",
+        "name": "Karwona"
+      },
+      {
+        "lang": "el",
+        "name": "Κουρούνα"
+      },
+      {
+        "lang": "eml",
+        "name": "Curnacia"
+      },
+      {
+        "lang": "en",
+        "name": "Carrion Crow"
+      },
+      {
+        "lang": "eo",
+        "name": "Korniko"
+      },
+      {
+        "lang": "es",
+        "name": "Corneja Negra"
+      },
+      {
+        "lang": "et",
+        "name": "Mustvares"
+      },
+      {
+        "lang": "eu",
+        "name": "Belabeltz"
+      },
+      {
+        "lang": "fa",
+        "name": "کلاغ لاشه"
+      },
+      {
+        "lang": "fi",
+        "name": "Nokivaris"
+      },
+      {
+        "lang": "fo",
+        "name": "Kráka"
+      },
+      {
+        "lang": "fr",
+        "name": "Corneille noire"
+      },
+      {
+        "lang": "frr",
+        "name": "Kriak"
+      },
+      {
+        "lang": "fur",
+        "name": "Çore"
+      },
+      {
+        "lang": "fy",
+        "name": "Swarte Krie"
+      },
+      {
+        "lang": "ga",
+        "name": "Caróg dhubh"
+      },
+      {
+        "lang": "gd",
+        "name": "Starrag"
+      },
+      {
+        "lang": "gl",
+        "name": "Corvo pequeno"
+      },
+      {
+        "lang": "gv",
+        "name": "Fannag"
+      },
+      {
+        "lang": "he",
+        "name": "עורב אירופי"
+      },
+      {
+        "lang": "hi",
+        "name": "कैरियन क्रो"
+      },
+      {
+        "lang": "hr",
+        "name": "Crna vrana"
+      },
+      {
+        "lang": "hsb",
+        "name": "Čorna wróna"
+      },
+      {
+        "lang": "hu",
+        "name": "Kormos varjú"
+      },
+      {
+        "lang": "hy",
+        "name": "Մոխրագույն Ագռավ"
+      },
+      {
+        "lang": "is",
+        "name": "Kráka"
+      },
+      {
+        "lang": "it",
+        "name": "Cornacchia nero"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシボソガラス"
+      },
+      {
+        "lang": "ka",
+        "name": "შავი ყვავი"
+      },
+      {
+        "lang": "kjh",
+        "name": "Харга"
+      },
+      {
+        "lang": "kk",
+        "name": "Қара қарға"
+      },
+      {
+        "lang": "ko",
+        "name": "까마귀"
+      },
+      {
+        "lang": "ku",
+        "name": "Qarqarok"
+      },
+      {
+        "lang": "kw",
+        "name": "Bran"
+      },
+      {
+        "lang": "la",
+        "name": "Cornix"
+      },
+      {
+        "lang": "lb",
+        "name": "Bëschkueb"
+      },
+      {
+        "lang": "li",
+        "name": "Krèèj"
+      },
+      {
+        "lang": "lld",
+        "name": "Agacion"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodoji varna"
+      },
+      {
+        "lang": "ltg",
+        "name": "Malnuo vuorna"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnā vārna"
+      },
+      {
+        "lang": "mdf",
+        "name": "Варси"
+      },
+      {
+        "lang": "mk",
+        "name": "Cива врана"
+      },
+      {
+        "lang": "mn",
+        "name": "Хар хэрээ"
+      },
+      {
+        "lang": "mt",
+        "name": "Ċawlun"
+      },
+      {
+        "lang": "myv",
+        "name": "Варака"
+      },
+      {
+        "lang": "nds",
+        "name": "Kreihn"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Zwatte Kraaie"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte kraai"
+      },
+      {
+        "lang": "no",
+        "name": "Svartkråke"
+      },
+      {
+        "lang": "nrm",
+        "name": "Côneille"
+      },
+      {
+        "lang": "oc",
+        "name": "Gralha"
+      },
+      {
+        "lang": "pcd",
+        "name": "Cornalhe"
+      },
+      {
+        "lang": "pl",
+        "name": "Czarnowron"
+      },
+      {
+        "lang": "pms",
+        "name": "Cornajass"
+      },
+      {
+        "lang": "pt",
+        "name": "Gralha-preta"
+      },
+      {
+        "lang": "rm",
+        "name": "Corv nair"
+      },
+      {
+        "lang": "ro",
+        "name": "Cioară grivă"
+      },
+      {
+        "lang": "rom",
+        "name": "Korung"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрная ворона"
+      },
+      {
+        "lang": "sc",
+        "name": "Carroga"
+      },
+      {
+        "lang": "scn",
+        "name": "Ciaula"
+      },
+      {
+        "lang": "sco",
+        "name": "Craw"
+      },
+      {
+        "lang": "se",
+        "name": "Vuoražas"
+      },
+      {
+        "lang": "sk",
+        "name": "Vrana čierna"
+      },
+      {
+        "lang": "sl",
+        "name": "črna vrana"
+      },
+      {
+        "lang": "sq",
+        "name": "Sorra"
+      },
+      {
+        "lang": "sr",
+        "name": "Црна врана / Crna vrana"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartkråka"
+      },
+      {
+        "lang": "sw",
+        "name": "Kunguru mlamizoga"
+      },
+      {
+        "lang": "ta",
+        "name": "கரியன் காகம்"
+      },
+      {
+        "lang": "tk",
+        "name": "Leş kargası"
+      },
+      {
+        "lang": "tr",
+        "name": "Leş kargası"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кара каарган"
+      },
+      {
+        "lang": "udm",
+        "name": "Сьӧд куака"
+      },
+      {
+        "lang": "uk",
+        "name": "Чорна ворона"
+      },
+      {
+        "lang": "vec",
+        "name": "Cornàcia"
+      },
+      {
+        "lang": "vep",
+        "name": "Must variš"
+      },
+      {
+        "lang": "vi",
+        "name": "Quạ đen"
+      },
+      {
+        "lang": "vls",
+        "name": "Zworte kroaie"
+      },
+      {
+        "lang": "wa",
+        "name": "Coirnaye"
+      },
+      {
+        "lang": "za",
+        "name": "小嘴烏鴉"
+      },
+      {
+        "lang": "zh",
+        "name": "小嘴乌鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus cornix",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Nebelchraie"
+      },
+      {
+        "lang": "an",
+        "name": "Cuerva cenisosa"
+      },
+      {
+        "lang": "ar",
+        "name": "الغراب الابقع"
+      },
+      {
+        "lang": "av",
+        "name": "Гъеду"
+      },
+      {
+        "lang": "az",
+        "name": "Boz qarğa"
+      },
+      {
+        "lang": "ba",
+        "name": "Ала ҡарға"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Varna"
+      },
+      {
+        "lang": "be",
+        "name": "Сiвая варона"
+      },
+      {
+        "lang": "bg",
+        "name": "Сива врана"
+      },
+      {
+        "lang": "ca",
+        "name": "Cornella emmantellada"
+      },
+      {
+        "lang": "ce",
+        "name": "Qallaq́"
+      },
+      {
+        "lang": "cs",
+        "name": "Vrána šedá"
+      },
+      {
+        "lang": "cv",
+        "name": "Ула курак"
+      },
+      {
+        "lang": "cy",
+        "name": "Brân Lwyd"
+      },
+      {
+        "lang": "da",
+        "name": "Gråkrage"
+      },
+      {
+        "lang": "de",
+        "name": "Nebelkrähe"
+      },
+      {
+        "lang": "dsb",
+        "name": "Šera karwona"
+      },
+      {
+        "lang": "el",
+        "name": "Κουρούνα"
+      },
+      {
+        "lang": "en",
+        "name": "Hooded Crow"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza korniko"
+      },
+      {
+        "lang": "es",
+        "name": "Corneja cenicienta"
+      },
+      {
+        "lang": "et",
+        "name": "Hallvares"
+      },
+      {
+        "lang": "fa",
+        "name": "کلاغ ابلق"
+      },
+      {
+        "lang": "fi",
+        "name": "Varis"
+      },
+      {
+        "lang": "fr",
+        "name": "Corneille mantelée"
+      },
+      {
+        "lang": "frr",
+        "name": "Grä kriak"
+      },
+      {
+        "lang": "fy",
+        "name": "Skierroek"
+      },
+      {
+        "lang": "ga",
+        "name": "Caróg Liath"
+      },
+      {
+        "lang": "gd",
+        "name": "Feannag"
+      },
+      {
+        "lang": "gv",
+        "name": "Fannag Ghlass"
+      },
+      {
+        "lang": "he",
+        "name": "עורב אפור"
+      },
+      {
+        "lang": "hr",
+        "name": "Siva vrana"
+      },
+      {
+        "lang": "hsb",
+        "name": "Šěra wróna"
+      },
+      {
+        "lang": "hu",
+        "name": "Dolmányos varjú"
+      },
+      {
+        "lang": "is",
+        "name": "Grákráka"
+      },
+      {
+        "lang": "it",
+        "name": "Cornacchia grigia"
+      },
+      {
+        "lang": "ja",
+        "name": "ズキンガラス"
+      },
+      {
+        "lang": "ka",
+        "name": "რუხი ყვავი"
+      },
+      {
+        "lang": "kjh",
+        "name": "Ала харга"
+      },
+      {
+        "lang": "kk",
+        "name": "Aқтұмысық"
+      },
+      {
+        "lang": "krc",
+        "name": "Чаука"
+      },
+      {
+        "lang": "krl",
+        "name": "Gronoi"
+      },
+      {
+        "lang": "ku",
+        "name": "Qirik"
+      },
+      {
+        "lang": "kw",
+        "name": "Bran Marghas Yow"
+      },
+      {
+        "lang": "lb",
+        "name": "Groe Kueb"
+      },
+      {
+        "lang": "li",
+        "name": "Grieskroa"
+      },
+      {
+        "lang": "lt",
+        "name": "Varna"
+      },
+      {
+        "lang": "lv",
+        "name": "Pelēkā vārna"
+      },
+      {
+        "lang": "mdf",
+        "name": "Варси"
+      },
+      {
+        "lang": "mk",
+        "name": "Гарга"
+      },
+      {
+        "lang": "mn",
+        "name": "Саарал хэрээ"
+      },
+      {
+        "lang": "myv",
+        "name": "Варака"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Graauwe Kraai"
+      },
+      {
+        "lang": "nl",
+        "name": "Bonte kraai"
+      },
+      {
+        "lang": "nn",
+        "name": "Gråkråke"
+      },
+      {
+        "lang": "no",
+        "name": "Gråkråke"
+      },
+      {
+        "lang": "os",
+        "name": "Халон"
+      },
+      {
+        "lang": "pcd",
+        "name": "Cornalhe à-mantlé"
+      },
+      {
+        "lang": "pl",
+        "name": "Wrona siwa"
+      },
+      {
+        "lang": "pms",
+        "name": "Cornajass"
+      },
+      {
+        "lang": "pt",
+        "name": "Gralha-cinzenta"
+      },
+      {
+        "lang": "rm",
+        "name": "Corv grisch"
+      },
+      {
+        "lang": "ro",
+        "name": "Cioară grivă"
+      },
+      {
+        "lang": "ru",
+        "name": "Серая ворона"
+      },
+      {
+        "lang": "sah",
+        "name": "Ала тураах"
+      },
+      {
+        "lang": "sc",
+        "name": "Corroga"
+      },
+      {
+        "lang": "se",
+        "name": "Vuoražas"
+      },
+      {
+        "lang": "sk",
+        "name": "Vrana popolavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Siva vrana"
+      },
+      {
+        "lang": "sq",
+        "name": "Sorra"
+      },
+      {
+        "lang": "sr",
+        "name": "Сива врана"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråkråka"
+      },
+      {
+        "lang": "tg",
+        "name": "Зоғи Ало"
+      },
+      {
+        "lang": "tr",
+        "name": "Leş kargası"
+      },
+      {
+        "lang": "tt",
+        "name": "Qara qarğa"
+      },
+      {
+        "lang": "tyv",
+        "name": "Бора каарган"
+      },
+      {
+        "lang": "udm",
+        "name": "Куака"
+      },
+      {
+        "lang": "uk",
+        "name": "Ворона сіра"
+      },
+      {
+        "lang": "vep",
+        "name": "Variš"
+      },
+      {
+        "lang": "wa",
+        "name": "Gris mantea"
+      },
+      {
+        "lang": "zh",
+        "name": "冠小嘴乌鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus corax",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Raaf"
+      },
+      {
+        "lang": "als",
+        "name": "Rapp"
+      },
+      {
+        "lang": "an",
+        "name": "Cuervo"
+      },
+      {
+        "lang": "ang",
+        "name": "Hræfn"
+      },
+      {
+        "lang": "ar",
+        "name": "غراب أسحم"
+      },
+      {
+        "lang": "ast",
+        "name": "Cuergu"
+      },
+      {
+        "lang": "az",
+        "name": "Qara qarğa"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡоҙғон"
+      },
+      {
+        "lang": "be",
+        "name": "Крумкач"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Крумкач"
+      },
+      {
+        "lang": "bg",
+        "name": "Гарван гробар"
+      },
+      {
+        "lang": "bn",
+        "name": "সাধারণ দাঁড় কাক"
+      },
+      {
+        "lang": "bo",
+        "name": "ཕོ་རོག"
+      },
+      {
+        "lang": "br",
+        "name": "Marc'hvran"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb"
+      },
+      {
+        "lang": "ce",
+        "name": "H́arǵa"
+      },
+      {
+        "lang": "cjs",
+        "name": "Қарға"
+      },
+      {
+        "lang": "co",
+        "name": "Corbu"
+      },
+      {
+        "lang": "cs",
+        "name": "Krkavec velký"
+      },
+      {
+        "lang": "csb",
+        "name": "Krëk"
+      },
+      {
+        "lang": "cv",
+        "name": "Çăхан"
+      },
+      {
+        "lang": "cy",
+        "name": "Cigfran"
+      },
+      {
+        "lang": "da",
+        "name": "Ravn"
+      },
+      {
+        "lang": "de",
+        "name": "Kolkrabe"
+      },
+      {
+        "lang": "dsb",
+        "name": "Garona"
+      },
+      {
+        "lang": "el",
+        "name": "Κόρακας"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Raven"
+      },
+      {
+        "lang": "eo",
+        "name": "Korako"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo"
+      },
+      {
+        "lang": "et",
+        "name": "Ronk"
+      },
+      {
+        "lang": "eu",
+        "name": "Erroi"
+      },
+      {
+        "lang": "fa",
+        "name": "غراب معمولی"
+      },
+      {
+        "lang": "fi",
+        "name": "Korppi"
+      },
+      {
+        "lang": "fo",
+        "name": "Ravnur"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand Corbeau"
+      },
+      {
+        "lang": "frr",
+        "name": "Raawen"
+      },
+      {
+        "lang": "fur",
+        "name": "Corvat"
+      },
+      {
+        "lang": "fy",
+        "name": "Raven"
+      },
+      {
+        "lang": "ga",
+        "name": "Fiach dubh"
+      },
+      {
+        "lang": "gd",
+        "name": "Fitheach"
+      },
+      {
+        "lang": "gl",
+        "name": "Corvo grande"
+      },
+      {
+        "lang": "gv",
+        "name": "Feeagh Vooar"
+      },
+      {
+        "lang": "he",
+        "name": "עורב שחור"
+      },
+      {
+        "lang": "hi",
+        "name": "और काला कौआ"
+      },
+      {
+        "lang": "hr",
+        "name": "Gavran"
+      },
+      {
+        "lang": "hsb",
+        "name": "Rapak"
+      },
+      {
+        "lang": "hu",
+        "name": "Holló"
+      },
+      {
+        "lang": "hy",
+        "name": "Սև Ագռավ"
+      },
+      {
+        "lang": "io",
+        "name": "Korniko"
+      },
+      {
+        "lang": "is",
+        "name": "Hrafn"
+      },
+      {
+        "lang": "it",
+        "name": "Corvo imperiale"
+      },
+      {
+        "lang": "iu",
+        "name": "Tulugaq"
+      },
+      {
+        "lang": "ja",
+        "name": "ワタリガラス"
+      },
+      {
+        "lang": "ka",
+        "name": "ყორანი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Вынд"
+      },
+      {
+        "lang": "kjh",
+        "name": "Хусхун"
+      },
+      {
+        "lang": "kk",
+        "name": "Құзғын"
+      },
+      {
+        "lang": "kl",
+        "name": "Tulugaq"
+      },
+      {
+        "lang": "ko",
+        "name": "큰까마귀"
+      },
+      {
+        "lang": "koi",
+        "name": "Кырныш"
+      },
+      {
+        "lang": "krc",
+        "name": "Kъаргъа / Qarğa"
+      },
+      {
+        "lang": "krl",
+        "name": "Varoi"
+      },
+      {
+        "lang": "ku",
+        "name": "Qelareşk"
+      },
+      {
+        "lang": "kv",
+        "name": "Кырныш"
+      },
+      {
+        "lang": "kw",
+        "name": "Bran vras"
+      },
+      {
+        "lang": "la",
+        "name": "Corvus"
+      },
+      {
+        "lang": "lb",
+        "name": "Ramm"
+      },
+      {
+        "lang": "li",
+        "name": "Raof"
+      },
+      {
+        "lang": "lld",
+        "name": "Corf"
+      },
+      {
+        "lang": "lt",
+        "name": "Kranklys"
+      },
+      {
+        "lang": "ltg",
+        "name": "Krauklis"
+      },
+      {
+        "lang": "lv",
+        "name": "Krauklis"
+      },
+      {
+        "lang": "mk",
+        "name": "Гавран"
+      },
+      {
+        "lang": "mn",
+        "name": "Хон хэрээ"
+      },
+      {
+        "lang": "mt",
+        "name": "Gharab"
+      },
+      {
+        "lang": "nds",
+        "name": "Raav"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Roave"
+      },
+      {
+        "lang": "nl",
+        "name": "Raaf"
+      },
+      {
+        "lang": "nn",
+        "name": "Ravn"
+      },
+      {
+        "lang": "no",
+        "name": "Ravn"
+      },
+      {
+        "lang": "nrm",
+        "name": "Corbîn"
+      },
+      {
+        "lang": "nv",
+        "name": "Zhį́ʼii"
+      },
+      {
+        "lang": "oc",
+        "name": "Còrb"
+      },
+      {
+        "lang": "oj",
+        "name": "ᑲᑲᑭ"
+      },
+      {
+        "lang": "os",
+        "name": "Сынт"
+      },
+      {
+        "lang": "pcd",
+        "name": "Grand corbieu"
+      },
+      {
+        "lang": "pl",
+        "name": "Kruk"
+      },
+      {
+        "lang": "pms",
+        "name": "Croass"
+      },
+      {
+        "lang": "pt",
+        "name": "Corvo-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Corv grond"
+      },
+      {
+        "lang": "ro",
+        "name": "Corb"
+      },
+      {
+        "lang": "rom",
+        "name": "Kakarachi"
+      },
+      {
+        "lang": "ru",
+        "name": "Ворон"
+      },
+      {
+        "lang": "rue",
+        "name": "Ворон"
+      },
+      {
+        "lang": "sah",
+        "name": "Суор"
+      },
+      {
+        "lang": "sc",
+        "name": "Tivani"
+      },
+      {
+        "lang": "scn",
+        "name": "Cuorvu"
+      },
+      {
+        "lang": "sco",
+        "name": "Corbie"
+      },
+      {
+        "lang": "se",
+        "name": "Gáranas"
+      },
+      {
+        "lang": "sh",
+        "name": "Obični gavran"
+      },
+      {
+        "lang": "sk",
+        "name": "Krkavec"
+      },
+      {
+        "lang": "sl",
+        "name": "Krokar"
+      },
+      {
+        "lang": "sq",
+        "name": "Korbi"
+      },
+      {
+        "lang": "sr",
+        "name": "Гавран / Gavran"
+      },
+      {
+        "lang": "sv",
+        "name": "Korp"
+      },
+      {
+        "lang": "sw",
+        "name": "Aswadi kunguru"
+      },
+      {
+        "lang": "th",
+        "name": "เรเวน"
+      },
+      {
+        "lang": "tk",
+        "name": "Gara garga"
+      },
+      {
+        "lang": "tr",
+        "name": "Kuzgun"
+      },
+      {
+        "lang": "tt",
+        "name": "Qara qarğa"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кускун"
+      },
+      {
+        "lang": "uk",
+        "name": "Крук",
+        "synonyms": [
+          "Ворон"
+        ]
+      },
+      {
+        "lang": "vep",
+        "name": "Kroikoi"
+      },
+      {
+        "lang": "vi",
+        "name": "Quạ thường"
+      },
+      {
+        "lang": "wa",
+        "name": "Grand coirbå"
+      },
+      {
+        "lang": "za",
+        "name": "渡鸦"
+      },
+      {
+        "lang": "zh",
+        "name": "渡鴉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus caurinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northwestern Crow"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo de Alaska"
+      },
+      {
+        "lang": "fr",
+        "name": "Corneille d'Alaska"
+      },
+      {
+        "lang": "zh",
+        "name": "西北鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus capensis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Swartkraai"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Crow"
+      },
+      {
+        "lang": "eo",
+        "name": "Kabokorvo"
+      },
+      {
+        "lang": "fr",
+        "name": "Corneille du Cap"
+      },
+      {
+        "lang": "pt",
+        "name": "Corvo-do-cabo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus brachyrhynchos",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Американска врана"
+      },
+      {
+        "lang": "cs",
+        "name": "vrána americká"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Krage"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanerkrähe"
+      },
+      {
+        "lang": "en",
+        "name": "American Crow"
+      },
+      {
+        "lang": "eo",
+        "name": "Larĝbeka korvo"
+      },
+      {
+        "lang": "es",
+        "name": "Cuervo Americano"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanvaris"
+      },
+      {
+        "lang": "fr",
+        "name": "Corneille d'Amérique"
+      },
+      {
+        "lang": "it",
+        "name": "Cornacchia americana"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカガラス",
+        "synonyms": [
+          "amerikagarasu"
+        ]
+      },
+      {
+        "lang": "lkt",
+        "name": "Kȟaŋǧí"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse Kraai"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikakråke"
+      },
+      {
+        "lang": "pl",
+        "name": "Wrona amerykańska"
+      },
+      {
+        "lang": "pt",
+        "name": "Corvo-americano"
+      },
+      {
+        "lang": "ru",
+        "name": "Американская ворона",
+        "synonyms": [
+          "Американский ворон"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "vrana krátkozobá"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk kråka"
+      },
+      {
+        "lang": "zh",
+        "name": "短嘴鸦"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus boreus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Relict Raven"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus bennetti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Little Crow"
+      },
+      {
+        "lang": "fr",
+        "name": "corbeau du désert"
+      },
+      {
+        "lang": " ta",
+        "name": "காகம்"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus antipodum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "New Zealand Raven"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus albus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witborskraai"
+      },
+      {
+        "lang": "de",
+        "name": "Schildrabe"
+      },
+      {
+        "lang": "pt",
+        "name": "Gralha-seminarista"
+      },
+      {
+        "lang": "en",
+        "name": "Pied Crow"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau pie"
+      },
+      {
+        "lang": "it",
+        "name": "Corvo bianco e nero"
+      },
+      {
+        "lang": "ja",
+        "name": "ムナジロガラス"
+      },
+      {
+        "lang": "nl",
+        "name": "Witborstraaf"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Corvus albicollis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Withalskraai"
+      },
+      {
+        "lang": "de",
+        "name": "Geierrabe"
+      },
+      {
+        "lang": "en",
+        "name": "White-necked Raven"
+      },
+      {
+        "lang": "fr",
+        "name": "Corbeau à nuque blanche"
+      }
+    ]
+  }
+]

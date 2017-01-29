@@ -1,0 +1,579 @@
+[
+  {
+    "scientific_name": "Pica pica",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Ekster"
+      },
+      {
+        "lang": "als",
+        "name": "Ägerst"
+      },
+      {
+        "lang": "an",
+        "name": "Garza"
+      },
+      {
+        "lang": "ar",
+        "name": "عقعق"
+      },
+      {
+        "lang": "ast",
+        "name": "Pega"
+      },
+      {
+        "lang": "az",
+        "name": "Sağsağan"
+      },
+      {
+        "lang": "ba",
+        "name": "Һайыҫҡан"
+      },
+      {
+        "lang": "bar",
+        "name": "Öster"
+      },
+      {
+        "lang": "be",
+        "name": "Cарока"
+      },
+      {
+        "lang": "bg",
+        "name": "Сврака"
+      },
+      {
+        "lang": "br",
+        "name": "Pig"
+      },
+      {
+        "lang": "bxr",
+        "name": "Шаазгай"
+      },
+      {
+        "lang": "ca",
+        "name": "Garsa"
+      },
+      {
+        "lang": "ce",
+        "name": "Q́orzaq́ig"
+      },
+      {
+        "lang": "cs",
+        "name": "Straka obecná"
+      },
+      {
+        "lang": "csb",
+        "name": "Sroka"
+      },
+      {
+        "lang": "cv",
+        "name": "Чакак"
+      },
+      {
+        "lang": "cw",
+        "name": "Kegin"
+      },
+      {
+        "lang": "cy",
+        "name": "Pioden"
+      },
+      {
+        "lang": "da",
+        "name": "Husskade"
+      },
+      {
+        "lang": "de",
+        "name": "Elster"
+      },
+      {
+        "lang": "dsb",
+        "name": "Kabeja"
+      },
+      {
+        "lang": "el",
+        "name": "Καρακάξα"
+      },
+      {
+        "lang": "eml",
+        "name": "Gaśa"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Magpie"
+      },
+      {
+        "lang": "eo",
+        "name": "Pigo"
+      },
+      {
+        "lang": "es",
+        "name": "Urraca"
+      },
+      {
+        "lang": "et",
+        "name": "Harakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Mika"
+      },
+      {
+        "lang": "fa",
+        "name": "زاغی",
+        "synonyms": [
+          "زاغ كبود"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Harakka"
+      },
+      {
+        "lang": "fo",
+        "name": "Skjóra"
+      },
+      {
+        "lang": "fr",
+        "name": "Pie bavarde"
+      },
+      {
+        "lang": "frr",
+        "name": "Heister"
+      },
+      {
+        "lang": "fur",
+        "name": "Cheche"
+      },
+      {
+        "lang": "fy",
+        "name": "Ekster"
+      },
+      {
+        "lang": "ga",
+        "name": "Cabaire breac"
+      },
+      {
+        "lang": "gd",
+        "name": "Pioghaid"
+      },
+      {
+        "lang": "gl",
+        "name": "Pega"
+      },
+      {
+        "lang": "gv",
+        "name": "Pieanat"
+      },
+      {
+        "lang": "he",
+        "name": "עקעק",
+        "synonyms": [
+          "עקעק זנבתן"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Svraka"
+      },
+      {
+        "lang": "hsb",
+        "name": "Škrěkawa"
+      },
+      {
+        "lang": "hu",
+        "name": "szarka"
+      },
+      {
+        "lang": "hy",
+        "name": "Սովորական կաչաղակ"
+      },
+      {
+        "lang": "io",
+        "name": "Pigo"
+      },
+      {
+        "lang": "is",
+        "name": "skjór"
+      },
+      {
+        "lang": "it",
+        "name": "Gazza"
+      },
+      {
+        "lang": "ja",
+        "name": "カササギ"
+      },
+      {
+        "lang": "ka",
+        "name": "კაჭკაჭი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къанжэ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Саасхан"
+      },
+      {
+        "lang": "kjn",
+        "name": "Саасхан"
+      },
+      {
+        "lang": "kk",
+        "name": "Сауысқан"
+      },
+      {
+        "lang": "ko",
+        "name": "까치"
+      },
+      {
+        "lang": "ku",
+        "name": "Zaq"
+      },
+      {
+        "lang": "kw",
+        "name": "Kegin"
+      },
+      {
+        "lang": "ky",
+        "name": "Сагызган"
+      },
+      {
+        "lang": "la",
+        "name": "Pica"
+      },
+      {
+        "lang": "lb",
+        "name": "Kréi"
+      },
+      {
+        "lang": "lez",
+        "name": "Керекул"
+      },
+      {
+        "lang": "li",
+        "name": "Aekster"
+      },
+      {
+        "lang": "lld",
+        "name": "Gacia"
+      },
+      {
+        "lang": "lt",
+        "name": "Šarka"
+      },
+      {
+        "lang": "lv",
+        "name": "Žagata"
+      },
+      {
+        "lang": "mk",
+        "name": "Cтрачка"
+      },
+      {
+        "lang": "mn",
+        "name": "Шаазгай / ᠠᠯᠠᠭ ᠱᠠᠭᠠᠵᠠᠭᠠᠢ"
+      },
+      {
+        "lang": "mt",
+        "name": "Kakarachi"
+      },
+      {
+        "lang": "mwl",
+        "name": "Pega-rabuda"
+      },
+      {
+        "lang": "my",
+        "name": "ငှက်ကျား"
+      },
+      {
+        "lang": "myv",
+        "name": "Сезьган"
+      },
+      {
+        "lang": "nap",
+        "name": "Ciavula"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Ikster"
+      },
+      {
+        "lang": "nds",
+        "name": "Heister"
+      },
+      {
+        "lang": "nl",
+        "name": "Ekster"
+      },
+      {
+        "lang": "nn",
+        "name": "Skjor"
+      },
+      {
+        "lang": "no",
+        "name": "Skjære"
+      },
+      {
+        "lang": "nrm",
+        "name": "Pie"
+      },
+      {
+        "lang": "oc",
+        "name": "Agaça"
+      },
+      {
+        "lang": "os",
+        "name": "Дзæгъындзæг"
+      },
+      {
+        "lang": "pcd",
+        "name": "Agache jacteusse"
+      },
+      {
+        "lang": "pl",
+        "name": "Sroka"
+      },
+      {
+        "lang": "pms",
+        "name": "Berta"
+      },
+      {
+        "lang": "pt",
+        "name": "Pega-rabuda"
+      },
+      {
+        "lang": "rm",
+        "name": "Giazla"
+      },
+      {
+        "lang": "rmy",
+        "name": "Kakarachi"
+      },
+      {
+        "lang": "ro",
+        "name": "Coțofană"
+      },
+      {
+        "lang": "ru",
+        "name": "Сорока"
+      },
+      {
+        "lang": "rue",
+        "name": "Сорока"
+      },
+      {
+        "lang": "sc",
+        "name": "Malabiga"
+      },
+      {
+        "lang": "scn",
+        "name": "Carcarazza"
+      },
+      {
+        "lang": "sco",
+        "name": "Pyot"
+      },
+      {
+        "lang": "se",
+        "name": "Skire"
+      },
+      {
+        "lang": "sh",
+        "name": "Svraka"
+      },
+      {
+        "lang": "sk",
+        "name": "Straka"
+      },
+      {
+        "lang": "sl",
+        "name": "Sraka"
+      },
+      {
+        "lang": "sq",
+        "name": "Grizhël"
+      },
+      {
+        "lang": "sr",
+        "name": "Svraka / Cврака"
+      },
+      {
+        "lang": "stq",
+        "name": "Akster"
+      },
+      {
+        "lang": "sv",
+        "name": "Skata"
+      },
+      {
+        "lang": "sw",
+        "name": "Kinubi Rangi-mbili"
+      },
+      {
+        "lang": "th",
+        "name": "นกสาลิกาปากดำ"
+      },
+      {
+        "lang": "tk",
+        "name": "Saksağan"
+      },
+      {
+        "lang": "tr",
+        "name": "Avrupa saksağanı"
+      },
+      {
+        "lang": "tt",
+        "name": "Саескан"
+      },
+      {
+        "lang": "tyv",
+        "name": "Сааскан"
+      },
+      {
+        "lang": "udm",
+        "name": "Коӵо"
+      },
+      {
+        "lang": "uk",
+        "name": "Сорока"
+      },
+      {
+        "lang": "vi",
+        "name": "Ác là"
+      },
+      {
+        "lang": "vls",
+        "name": "Ekster"
+      },
+      {
+        "lang": "wa",
+        "name": "Agaesse"
+      },
+      {
+        "lang": "zea",
+        "name": "Ekster"
+      },
+      {
+        "lang": "zh",
+        "name": "喜鹊"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pica nuttalli",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Gelbschnabelelster"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-billed Magpie"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalifornianharakka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pie à bec jaune"
+      },
+      {
+        "lang": "ja",
+        "name": "キバシカササギ"
+      },
+      {
+        "lang": "zh",
+        "name": "黃嘴喜鵲"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pica hudsonia",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "straka americká"
+      },
+      {
+        "lang": "da",
+        "name": "Hudsonskade"
+      },
+      {
+        "lang": "de",
+        "name": "Hudsonelster",
+        "synonyms": [
+          "Schwarzschnabelelster"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Black-billed Magpie",
+        "synonyms": [
+          "American Magpie"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrabeka pigo"
+      },
+      {
+        "lang": "es",
+        "name": "Urraca de Hudson"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanharakka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pie à bec noir d'Amérique",
+        "synonyms": [
+          "Pie d'Amérique"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Gazza americana"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Murai Hitam"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse Ekster"
+      },
+      {
+        "lang": "no",
+        "name": "Svartnebbskjære"
+      },
+      {
+        "lang": "pcd",
+        "name": "Agache à noèr biéc d'Anmérike"
+      },
+      {
+        "lang": "pl",
+        "name": "Sroka amerykańska",
+        "synonyms": [
+          "sroka czarnodzioba"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Американская сорока"
+      },
+      {
+        "lang": "sk",
+        "name": "straka americká"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk skata"
+      }
+    ]
+  }
+]
