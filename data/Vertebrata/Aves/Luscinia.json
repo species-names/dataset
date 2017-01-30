@@ -1,0 +1,705 @@
+[
+  {
+    "scientific_name": "Luscinia svecica",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Синьогушка"
+      },
+      {
+        "lang": "br",
+        "name": "Bronnlaz"
+      },
+      {
+        "lang": "ca",
+        "name": "Cotxa blava"
+      },
+      {
+        "lang": "cs",
+        "name": "Slavík modráček"
+      },
+      {
+        "lang": "cv",
+        "name": "Кăвак пĕсехе"
+      },
+      {
+        "lang": "da",
+        "name": "Blåhals"
+      },
+      {
+        "lang": "de",
+        "name": "Blaukehlchen"
+      },
+      {
+        "lang": "en",
+        "name": "Bluethroat"
+      },
+      {
+        "lang": "eo",
+        "name": "Blugorĝulo"
+      },
+      {
+        "lang": "es",
+        "name": "Pechiazul"
+      },
+      {
+        "lang": "eu",
+        "name": "Paparrurdina"
+      },
+      {
+        "lang": "fa",
+        "name": "گلوآبی"
+      },
+      {
+        "lang": "fi",
+        "name": "Sinirinta"
+      },
+      {
+        "lang": "fr",
+        "name": "Gorge-bleue à miroir"
+      },
+      {
+        "lang": "frr",
+        "name": "Bläbük"
+      },
+      {
+        "lang": "fy",
+        "name": "Blauboarstke"
+      },
+      {
+        "lang": "gl",
+        "name": "Papoazul"
+      },
+      {
+        "lang": "he",
+        "name": "כחול החזה"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékbegy"
+      },
+      {
+        "lang": "hy",
+        "name": "Սոխակ կապտափող"
+      },
+      {
+        "lang": "it",
+        "name": "Pettazzurro"
+      },
+      {
+        "lang": "ja",
+        "name": "オガワコマドリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Mėlyngurklė"
+      },
+      {
+        "lang": "nl",
+        "name": "blauwborst"
+      },
+      {
+        "lang": "nn",
+        "name": "Blåstrupe"
+      },
+      {
+        "lang": "no",
+        "name": "Blåstrupe"
+      },
+      {
+        "lang": "pl",
+        "name": "Podróżniczek"
+      },
+      {
+        "lang": "pt",
+        "name": "Pisco-de-peito-azul"
+      },
+      {
+        "lang": "ru",
+        "name": "Варакушка"
+      },
+      {
+        "lang": "sk",
+        "name": "Slávik modrák"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåhake"
+      },
+      {
+        "lang": "tr",
+        "name": "Gökgerdan"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝点颏"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Luscinia phoenicuroides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Redstart"
+      },
+      {
+        "lang": "es",
+        "name": "Colirrojo ventriblanco"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌سرخ شکم‌سفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Bradybate à queue rouge"
+      },
+      {
+        "lang": "hu",
+        "name": "Rövidszárnyú rozsdafarkú"
+      },
+      {
+        "lang": "lt",
+        "name": "Hodžsonija"
+      },
+      {
+        "lang": "zh",
+        "name": "白腹短翅鸲"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Luscinia megarhynchos",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Nachdìgal"
+      },
+      {
+        "lang": "ar",
+        "name": "عندليب"
+      },
+      {
+        "lang": "ast",
+        "name": "Reiseñor"
+      },
+      {
+        "lang": "az",
+        "name": "Cənub bülbülü"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Lakštėngala"
+      },
+      {
+        "lang": "be",
+        "name": "Cалавей"
+      },
+      {
+        "lang": "bg",
+        "name": "Южен славей"
+      },
+      {
+        "lang": "br",
+        "name": "Eostig"
+      },
+      {
+        "lang": "ca",
+        "name": "Rossinyol"
+      },
+      {
+        "lang": "cs",
+        "name": "Slavík obecný"
+      },
+      {
+        "lang": "cv",
+        "name": "Шăпчăк"
+      },
+      {
+        "lang": "cy",
+        "name": "Eos"
+      },
+      {
+        "lang": "da",
+        "name": "Sydlig Nattergal"
+      },
+      {
+        "lang": "de",
+        "name": "Nachtigall"
+      },
+      {
+        "lang": "dsb",
+        "name": "Syłoj"
+      },
+      {
+        "lang": "el",
+        "name": "Αηδόνι"
+      },
+      {
+        "lang": "en",
+        "name": "Common Nightingale"
+      },
+      {
+        "lang": "eo",
+        "name": "Suda najtingalo"
+      },
+      {
+        "lang": "es",
+        "name": "Ruiseñor Común"
+      },
+      {
+        "lang": "et",
+        "name": "Lõunaööbik"
+      },
+      {
+        "lang": "eu",
+        "name": "Urretxindor"
+      },
+      {
+        "lang": "fa",
+        "name": "بلبل"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelänsatakieli"
+      },
+      {
+        "lang": "fo",
+        "name": "Suðurnáttargali"
+      },
+      {
+        "lang": "fr",
+        "name": "Rossignol philomèle"
+      },
+      {
+        "lang": "frr",
+        "name": "Naachtigal"
+      },
+      {
+        "lang": "fur",
+        "name": "Rusignűl"
+      },
+      {
+        "lang": "fy",
+        "name": "Geal"
+      },
+      {
+        "lang": "ga",
+        "name": "Filiméala"
+      },
+      {
+        "lang": "gd",
+        "name": "Spideag"
+      },
+      {
+        "lang": "gl",
+        "name": "Rousinol"
+      },
+      {
+        "lang": "gn",
+        "name": "Masakaragua'i"
+      },
+      {
+        "lang": "gv",
+        "name": "Spittag oie"
+      },
+      {
+        "lang": "he",
+        "name": "זמיר",
+        "synonyms": [
+          "זמיר הירדן",
+          "זמיר רונן"
+        ]
+      },
+      {
+        "lang": "hi",
+        "name": "शाह बुलबुल"
+      },
+      {
+        "lang": "hr",
+        "name": "Slavuj"
+      },
+      {
+        "lang": "hsb",
+        "name": "Sołobik"
+      },
+      {
+        "lang": "ht",
+        "name": "Rosinyòl"
+      },
+      {
+        "lang": "hu",
+        "name": "Fülemüle"
+      },
+      {
+        "lang": "hy",
+        "name": "Հարավային Սոխակ"
+      },
+      {
+        "lang": "id",
+        "name": "Burung Bulbul"
+      },
+      {
+        "lang": "io",
+        "name": "Naktigalo"
+      },
+      {
+        "lang": "is",
+        "name": "Næturgali"
+      },
+      {
+        "lang": "it",
+        "name": "Usignolo"
+      },
+      {
+        "lang": "ja",
+        "name": "サヨナキドリ"
+      },
+      {
+        "lang": "ka",
+        "name": "სამხრეთული ბულბული"
+      },
+      {
+        "lang": "kk",
+        "name": "Оњтүстік бұлбұлы"
+      },
+      {
+        "lang": "ko",
+        "name": "나이팅게일"
+      },
+      {
+        "lang": "ku",
+        "name": "Bilbil"
+      },
+      {
+        "lang": "kw",
+        "name": "Eos"
+      },
+      {
+        "lang": "la",
+        "name": "Luscinius"
+      },
+      {
+        "lang": "lad",
+        "name": "Bilbilikos"
+      },
+      {
+        "lang": "lb",
+        "name": "Nuechtigailchen"
+      },
+      {
+        "lang": "li",
+        "name": "Nachtegoal"
+      },
+      {
+        "lang": "lld",
+        "name": "Roscignol"
+      },
+      {
+        "lang": "lmo",
+        "name": "Rossignoeu"
+      },
+      {
+        "lang": "lt",
+        "name": "Vakarinė lakštingala"
+      },
+      {
+        "lang": "lv",
+        "name": "Rietumu lakstīgala"
+      },
+      {
+        "lang": "mk",
+        "name": "Славејче"
+      },
+      {
+        "lang": "mt",
+        "name": "Rożinjol"
+      },
+      {
+        "lang": "myv",
+        "name": "Цёков"
+      },
+      {
+        "lang": "nap",
+        "name": "Russignuolo"
+      },
+      {
+        "lang": "nds",
+        "name": "Nachtigall"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Nachtegale"
+      },
+      {
+        "lang": "nl",
+        "name": "Nachtegaal"
+      },
+      {
+        "lang": "no",
+        "name": "Sørnattergal"
+      },
+      {
+        "lang": "nrm",
+        "name": "Rossîngno"
+      },
+      {
+        "lang": "oc",
+        "name": "Rossinhòl"
+      },
+      {
+        "lang": "pcd",
+        "name": "Orsigno filomèle"
+      },
+      {
+        "lang": "pl",
+        "name": "Słowik rdzawy"
+      },
+      {
+        "lang": "pms",
+        "name": "Arsigneul"
+      },
+      {
+        "lang": "pt",
+        "name": "Rouxinol-comum"
+      },
+      {
+        "lang": "qu",
+        "name": "Ruysiñur"
+      },
+      {
+        "lang": "rm",
+        "name": "Luschaina"
+      },
+      {
+        "lang": "rmy",
+        "name": "Chirikli-ratiaki"
+      },
+      {
+        "lang": "ro",
+        "name": "Privighetoare"
+      },
+      {
+        "lang": "ru",
+        "name": "Южный соловей"
+      },
+      {
+        "lang": "rue",
+        "name": "Западный соловей"
+      },
+      {
+        "lang": "sah",
+        "name": "Түүҥҥү чыычаах"
+      },
+      {
+        "lang": "sc",
+        "name": "Arrassanajolu"
+      },
+      {
+        "lang": "scn",
+        "name": "Rusignolu"
+      },
+      {
+        "lang": "se",
+        "name": "Lulličuohtegielaš"
+      },
+      {
+        "lang": "sh",
+        "name": "Slavuj",
+        "synonyms": [
+          "Mali slavuj"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "Slávik krovinový"
+      },
+      {
+        "lang": "sl",
+        "name": "Mali slavec"
+      },
+      {
+        "lang": "sq",
+        "name": "Bilbili"
+      },
+      {
+        "lang": "sr",
+        "name": "Slavuj/Славуј"
+      },
+      {
+        "lang": "stq",
+        "name": "Noachtegoal"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydnäktergal"
+      },
+      {
+        "lang": "sw",
+        "name": "Kurumbiza wa Ulaya"
+      },
+      {
+        "lang": "ta",
+        "name": "இராப்பாடி"
+      },
+      {
+        "lang": "tg",
+        "name": "Булбул"
+      },
+      {
+        "lang": "tk",
+        "name": "Bülbül"
+      },
+      {
+        "lang": "tl",
+        "name": "Ruwisenyor"
+      },
+      {
+        "lang": "tr",
+        "name": "Bülbül"
+      },
+      {
+        "lang": "uk",
+        "name": "Cоловей"
+      },
+      {
+        "lang": "zh",
+        "name": "夜鶯"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Luscinia luscinia",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Северен славей"
+      },
+      {
+        "lang": "br",
+        "name": "Eostig-Rusia"
+      },
+      {
+        "lang": "ca",
+        "name": "Rossinyol rus"
+      },
+      {
+        "lang": "cs",
+        "name": "Slavík tmavý"
+      },
+      {
+        "lang": "da",
+        "name": "Nattergal"
+      },
+      {
+        "lang": "de",
+        "name": "Sprosser"
+      },
+      {
+        "lang": "et",
+        "name": "Ööbik"
+      },
+      {
+        "lang": "en",
+        "name": "Thrush Nightingale"
+      },
+      {
+        "lang": "es",
+        "name": "Ruiseñor ruso"
+      },
+      {
+        "lang": "eo",
+        "name": "Norda najtingalo"
+      },
+      {
+        "lang": "fo",
+        "name": "Náttargali"
+      },
+      {
+        "lang": "fr",
+        "name": "Rossignol progné"
+      },
+      {
+        "lang": "it",
+        "name": "Usignolo maggiore"
+      },
+      {
+        "lang": "he",
+        "name": "זמיר מנומר"
+      },
+      {
+        "lang": "hy",
+        "name": "Սոխակ սովորական"
+      },
+      {
+        "lang": "lv",
+        "name": "Lakstīgala"
+      },
+      {
+        "lang": "lt",
+        "name": "Lakštingala"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy fülemüle"
+      },
+      {
+        "lang": "nl",
+        "name": "Noordse nachtegaal"
+      },
+      {
+        "lang": "no",
+        "name": "Nattergal"
+      },
+      {
+        "lang": "nn",
+        "name": "Nattergal"
+      },
+      {
+        "lang": "pcd",
+        "name": "Orsigno progné"
+      },
+      {
+        "lang": "pl",
+        "name": "Słowik szary"
+      },
+      {
+        "lang": "ro",
+        "name": "Filomelă"
+      },
+      {
+        "lang": "rue",
+        "name": "Выходный соловей"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенный соловей"
+      },
+      {
+        "lang": "sk",
+        "name": "Slávik veľký"
+      },
+      {
+        "lang": "fi",
+        "name": "Satakieli"
+      },
+      {
+        "lang": "sv",
+        "name": "Näktergal"
+      },
+      {
+        "lang": "tr",
+        "name": "Ardıç bülbülü"
+      },
+      {
+        "lang": "uk",
+        "name": "Соловейко східний"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Lakštotė"
+      }
+    ]
+  }
+]
