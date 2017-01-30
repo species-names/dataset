@@ -1,0 +1,449 @@
+[
+  {
+    "scientific_name": "Garrulus lidthi",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "ルリカケス"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Garrulus lanceolatus",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "インドカケス"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Garrulus glandarius",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Herevogel"
+      },
+      {
+        "lang": "an",
+        "name": "Gai europeu"
+      },
+      {
+        "lang": "ang",
+        "name": "Bleohcrāwe"
+      },
+      {
+        "lang": "ar",
+        "name": "قيق أوراسي"
+      },
+      {
+        "lang": "ast",
+        "name": "Glayu"
+      },
+      {
+        "lang": "az",
+        "name": "Adi zığ-zığ"
+      },
+      {
+        "lang": "ba",
+        "name": "Бараба"
+      },
+      {
+        "lang": "bar",
+        "name": "Oachéhéer"
+      },
+      {
+        "lang": "be",
+        "name": "Cойка"
+      },
+      {
+        "lang": "bg",
+        "name": "Сойка"
+      },
+      {
+        "lang": "br",
+        "name": "Kegin"
+      },
+      {
+        "lang": "bs",
+        "name": "Sojka"
+      },
+      {
+        "lang": "ca",
+        "name": "Gaig"
+      },
+      {
+        "lang": "ce",
+        "name": "Súylin çjeǵag"
+      },
+      {
+        "lang": "co",
+        "name": "Ghjandaghja"
+      },
+      {
+        "lang": "cs",
+        "name": "Sojka obecná"
+      },
+      {
+        "lang": "csb",
+        "name": "Łupk"
+      },
+      {
+        "lang": "cv",
+        "name": "Сульха"
+      },
+      {
+        "lang": "cw",
+        "name": "Kegyn"
+      },
+      {
+        "lang": "cy",
+        "name": "Sgrech y coed"
+      },
+      {
+        "lang": "da",
+        "name": "Skovskade"
+      },
+      {
+        "lang": "de",
+        "name": "Eichelhäher"
+      },
+      {
+        "lang": "dsb",
+        "name": "Kabeja"
+      },
+      {
+        "lang": "el",
+        "name": "Κίσσα"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Jay"
+      },
+      {
+        "lang": "eo",
+        "name": "Eŭropazia garolo"
+      },
+      {
+        "lang": "es",
+        "name": "Arrendajo Euroasiático"
+      },
+      {
+        "lang": "et",
+        "name": "Pasknäär"
+      },
+      {
+        "lang": "eu",
+        "name": "Eskinoso"
+      },
+      {
+        "lang": "fa",
+        "name": "جیجاق"
+      },
+      {
+        "lang": "fi",
+        "name": "Närhi"
+      },
+      {
+        "lang": "fo",
+        "name": "Gnelliskjóra"
+      },
+      {
+        "lang": "fr",
+        "name": "Geai des chênes"
+      },
+      {
+        "lang": "frr",
+        "name": "Heeger"
+      },
+      {
+        "lang": "fur",
+        "name": "Gjaie"
+      },
+      {
+        "lang": "fy",
+        "name": "houtekster"
+      },
+      {
+        "lang": "ga",
+        "name": "Scréachóg"
+      },
+      {
+        "lang": "gd",
+        "name": "Sgraicheag"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaio"
+      },
+      {
+        "lang": "gv",
+        "name": "Screeaghag cheylley"
+      },
+      {
+        "lang": "he",
+        "name": "עורבני שחור כיפה"
+      },
+      {
+        "lang": "hr",
+        "name": "Šojka kreštalica"
+      },
+      {
+        "lang": "hsb",
+        "name": "Škrěkawa"
+      },
+      {
+        "lang": "hu",
+        "name": "Szajkó"
+      },
+      {
+        "lang": "hy",
+        "name": "Անտառային Կաչաղակ"
+      },
+      {
+        "lang": "is",
+        "name": "Skrækskaði"
+      },
+      {
+        "lang": "it",
+        "name": "Ghiandaia"
+      },
+      {
+        "lang": "ja",
+        "name": "カケス"
+      },
+      {
+        "lang": "ka",
+        "name": "ჩხიკვი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Мэзкъанжэ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Кöйiк саасхан"
+      },
+      {
+        "lang": "kjn",
+        "name": "Кöйiк саасхан"
+      },
+      {
+        "lang": "kk",
+        "name": "Жорғаторғай"
+      },
+      {
+        "lang": "ko",
+        "name": "어치"
+      },
+      {
+        "lang": "ku",
+        "name": "Bûrek"
+      },
+      {
+        "lang": "kv",
+        "name": "Кеня"
+      },
+      {
+        "lang": "kw",
+        "name": "Kegin"
+      },
+      {
+        "lang": "lb",
+        "name": "Maarkollef"
+      },
+      {
+        "lang": "li",
+        "name": "Gei"
+      },
+      {
+        "lang": "lld",
+        "name": "Gacia"
+      },
+      {
+        "lang": "lt",
+        "name": "Kėkštas"
+      },
+      {
+        "lang": "lv",
+        "name": "Sīlis"
+      },
+      {
+        "lang": "mk",
+        "name": "Сојка"
+      },
+      {
+        "lang": "mn",
+        "name": "Цагчаа ятгашаазгай / ᠶᠠᠲᠣᠭ᠎ᠠ ᠱᠠᠭᠠᠵᠠᠭᠠᠢ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Алагек"
+      },
+      {
+        "lang": "mt",
+        "name": "Sultan iċ-ċawl"
+      },
+      {
+        "lang": "nds",
+        "name": "Häger"
+      },
+      {
+        "lang": "nl",
+        "name": "Vlaamse Gaai"
+      },
+      {
+        "lang": "nn",
+        "name": "Nøtteskrikje"
+      },
+      {
+        "lang": "no",
+        "name": "Nøtteskrike"
+      },
+      {
+        "lang": "nrm",
+        "name": "Geai"
+      },
+      {
+        "lang": "nv",
+        "name": "Tʼádootłʼizhii"
+      },
+      {
+        "lang": "oc",
+        "name": "Gag"
+      },
+      {
+        "lang": "os",
+        "name": "Хиуа"
+      },
+      {
+        "lang": "pcd",
+        "name": "Gai"
+      },
+      {
+        "lang": "pl",
+        "name": "Sójka zwyczajna"
+      },
+      {
+        "lang": "pms",
+        "name": "Gaj"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaio-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Sgragia"
+      },
+      {
+        "lang": "ro",
+        "name": "Gaiță"
+      },
+      {
+        "lang": "ru",
+        "name": "Сойка"
+      },
+      {
+        "lang": "rue",
+        "name": "Сойка"
+      },
+      {
+        "lang": "sah",
+        "name": "Ньокоокуй"
+      },
+      {
+        "lang": "sc",
+        "name": "Pica"
+      },
+      {
+        "lang": "scn",
+        "name": "Giaiu"
+      },
+      {
+        "lang": "sco",
+        "name": "Jay-pyot"
+      },
+      {
+        "lang": "se",
+        "name": "Látteguovssat"
+      },
+      {
+        "lang": "sh",
+        "name": "Šojka kreštalica"
+      },
+      {
+        "lang": "sk",
+        "name": "Sojka škriekavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Šoja"
+      },
+      {
+        "lang": "sq",
+        "name": "Ggrifsha"
+      },
+      {
+        "lang": "sr",
+        "name": "Креја / Kreja"
+      },
+      {
+        "lang": "sv",
+        "name": "Nötskrika"
+      },
+      {
+        "lang": "sw",
+        "name": "Kunguru rangirangi"
+      },
+      {
+        "lang": "th",
+        "name": "นกปีกลายสก็อต"
+      },
+      {
+        "lang": "tk",
+        "name": "Al sar"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı alakarga"
+      },
+      {
+        "lang": "tyv",
+        "name": "Айлаң-сааскан"
+      },
+      {
+        "lang": "udm",
+        "name": "Ӝакы"
+      },
+      {
+        "lang": "uk",
+        "name": "Сойка"
+      },
+      {
+        "lang": "vec",
+        "name": "Gaza zucona"
+      },
+      {
+        "lang": "vi",
+        "name": "Quạ thông"
+      },
+      {
+        "lang": "vls",
+        "name": "Vlamsche goai"
+      },
+      {
+        "lang": "wa",
+        "name": "Ritchåd"
+      },
+      {
+        "lang": "zea",
+        "name": "Gaiken"
+      },
+      {
+        "lang": "zh",
+        "name": "松鴉"
+      }
+    ]
+  }
+]
