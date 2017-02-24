@@ -1,6 +1,6 @@
 # Species names dataset [![Build Status][travis-image]][travis-url]
 
-v0.0.1
+v0.0.2
 
 A json format dataset for scientific and common species names.
 
