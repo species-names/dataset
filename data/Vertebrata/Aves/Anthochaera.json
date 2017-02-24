@@ -1,0 +1,96 @@
+[
+  {
+    "scientific_name": "Anthochaera paradoxa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow Wattlebird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anthochaera lunulata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Wattlebird",
+        "synonyms": [
+          "Western race of Little Wattlebird"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ギンホオミツスイ（銀頬蜜吸）"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anthochaera chrysoptera",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Little Wattlebird",
+        "synonyms": [
+          "Brush Wattlebird"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "méliphage à gouttelettes"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuhelttamesikko"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイガシラミツスイ（灰頭蜜吸）"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anthochaera carunculata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red Wattlebird"
+      },
+      {
+        "lang": "es",
+        "name": "Mielero alirrufo"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ پوپی سرخ"
+      },
+      {
+        "lang": "fr",
+        "name": "méliphage barbe-rouge"
+      },
+      {
+        "lang": "hu",
+        "name": "Piroscsüngős lebenyesmadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodlelhoningeter"
+      },
+      {
+        "lang": "no",
+        "name": "Rødflikhonningeter"
+      },
+      {
+        "lang": "pl",
+        "name": "Koralicowiec czerwony"
+      },
+      {
+        "lang": "sv",
+        "name": "Röd kråsfågel"
+      },
+      {
+        "lang": "zh",
+        "name": "紅垂蜜鳥"
+      }
+    ]
+  }
+]

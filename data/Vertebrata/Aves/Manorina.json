@@ -1,0 +1,48 @@
+[
+  {
+    "scientific_name": "Manorina melanotis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Manorina melanophrys",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bell Miner"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Manorina melanocephala",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Noisy Miner",
+        "synonyms": [
+          "Native miner (sometimes spelled myna)"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Manorina flavigula",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Medosavka australská"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbstirn-Schwatzvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-throated Miner"
+      },
+      {
+        "lang": "no",
+        "name": "Aboriginhonningeter"
+      }
+    ]
+  }
+]

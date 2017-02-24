@@ -1,0 +1,449 @@
+[
+  {
+    "scientific_name": "Cyanistes teneriffae",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Mallerenga africana"
+      },
+      {
+        "lang": "en",
+        "name": "African Blue Tit"
+      },
+      {
+        "lang": "es",
+        "name": "Herrerillo canario"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikansinitiainen"
+      },
+      {
+        "lang": "sv",
+        "name": "Koboltmes"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanistes cyanus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Белоглав синигер"
+      },
+      {
+        "lang": "cs",
+        "name": "Sýkora azurová"
+      },
+      {
+        "lang": "da",
+        "name": "Azurmejse"
+      },
+      {
+        "lang": "de",
+        "name": "Lasurmeise"
+      },
+      {
+        "lang": "el",
+        "name": "Λαζoυρoπαπαδίτσα"
+      },
+      {
+        "lang": "en",
+        "name": "Azure Tit"
+      },
+      {
+        "lang": "es",
+        "name": "Herrerillo ciáneo"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkopäätiainen"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange azurée"
+      },
+      {
+        "lang": "hr",
+        "name": "Bijela sjenica"
+      },
+      {
+        "lang": "hu",
+        "name": "Lazúrcinege"
+      },
+      {
+        "lang": "is",
+        "name": "Hvítmeisa"
+      },
+      {
+        "lang": "it",
+        "name": "Cinciarella azzurra"
+      },
+      {
+        "lang": "ja",
+        "name": "ルリガラ"
+      },
+      {
+        "lang": "lt",
+        "name": "Žydroji zylė"
+      },
+      {
+        "lang": "lv",
+        "name": "Gaišzilā zīlīte"
+      },
+      {
+        "lang": "nl",
+        "name": "Azuurmees"
+      },
+      {
+        "lang": "no",
+        "name": "Asurmeis"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora lazurowa"
+      },
+      {
+        "lang": "ro",
+        "name": "Piţigoi azuriu"
+      },
+      {
+        "lang": "ru",
+        "name": "Белая лазоверка"
+      },
+      {
+        "lang": "sk",
+        "name": "Sýkorka lazúrová"
+      },
+      {
+        "lang": "sl",
+        "name": "Sinja sinica"
+      },
+      {
+        "lang": "sv",
+        "name": "Azurmes"
+      },
+      {
+        "lang": "tr",
+        "name": "Gök mavisi baştankara"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanistes caeruleus",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Blaumeise"
+      },
+      {
+        "lang": "ar",
+        "name": "قرقف أزرق"
+      },
+      {
+        "lang": "ast",
+        "name": "Ferreirín"
+      },
+      {
+        "lang": "az",
+        "name": "Adi arıquşu"
+      },
+      {
+        "lang": "ba",
+        "name": "Күкбаш турғай"
+      },
+      {
+        "lang": "bar",
+        "name": "Blaumoasn"
+      },
+      {
+        "lang": "be",
+        "name": "Сіняя сініца"
+      },
+      {
+        "lang": "bg",
+        "name": "Син синигер"
+      },
+      {
+        "lang": "br",
+        "name": "Kalvennig c'hlas"
+      },
+      {
+        "lang": "ca",
+        "name": "Mallerenga blava"
+      },
+      {
+        "lang": "co",
+        "name": "Capellina"
+      },
+      {
+        "lang": "cs",
+        "name": "Sýkora modřinka"
+      },
+      {
+        "lang": "csb",
+        "name": "Mòdrô sykórka"
+      },
+      {
+        "lang": "cv",
+        "name": "Кăвак кăсăя"
+      },
+      {
+        "lang": "cw",
+        "name": "Pen-paly"
+      },
+      {
+        "lang": "cy",
+        "name": "Titw Tomos Las"
+      },
+      {
+        "lang": "da",
+        "name": "Blåmejse"
+      },
+      {
+        "lang": "de",
+        "name": "Blaumeise"
+      },
+      {
+        "lang": "dsb",
+        "name": "Módra sykorka"
+      },
+      {
+        "lang": "el",
+        "name": "Γαλαζοπαπαδίτσα"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Blue Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Blua paruo"
+      },
+      {
+        "lang": "es",
+        "name": "Herrerillo común"
+      },
+      {
+        "lang": "et",
+        "name": "Sinitihane"
+      },
+      {
+        "lang": "eu",
+        "name": "Amilotx urdin"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسک سر آبی"
+      },
+      {
+        "lang": "fi",
+        "name": "Sinitiainen"
+      },
+      {
+        "lang": "fo",
+        "name": "Blátíta"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange bleue"
+      },
+      {
+        "lang": "frr",
+        "name": "Müürfink"
+      },
+      {
+        "lang": "fy",
+        "name": "Blaumies"
+      },
+      {
+        "lang": "ga",
+        "name": "Meantán Gorm"
+      },
+      {
+        "lang": "gd",
+        "name": "Cailleachag a' Chinn Ghuirm"
+      },
+      {
+        "lang": "gl",
+        "name": "Ferreiriño bacachís"
+      },
+      {
+        "lang": "gv",
+        "name": "Drean Gorrym"
+      },
+      {
+        "lang": "he",
+        "name": "ירגזי כחול"
+      },
+      {
+        "lang": "hr",
+        "name": "Plavetna Sjenica"
+      },
+      {
+        "lang": "hsb",
+        "name": "Módra sykorka"
+      },
+      {
+        "lang": "hu",
+        "name": "Kék cinege"
+      },
+      {
+        "lang": "hy",
+        "name": "Երաշտահավ երկնագույն"
+      },
+      {
+        "lang": "id",
+        "name": "Burung gelatik biru"
+      },
+      {
+        "lang": "is",
+        "name": "Blámeisa"
+      },
+      {
+        "lang": "it",
+        "name": "Cinciarella"
+      },
+      {
+        "lang": "ja",
+        "name": "アオガラ"
+      },
+      {
+        "lang": "ka",
+        "name": "ლურჯდავა წიწკანა"
+      },
+      {
+        "lang": "kk",
+        "name": "Кєкшіл шымшық"
+      },
+      {
+        "lang": "lb",
+        "name": "Blomees"
+      },
+      {
+        "lang": "li",
+        "name": "Blauwmeis"
+      },
+      {
+        "lang": "lt",
+        "name": "Mėlynoji zylė"
+      },
+      {
+        "lang": "lv",
+        "name": "Zilzīlīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Синоголава сипка"
+      },
+      {
+        "lang": "mt",
+        "name": "Primavera"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Blauw paapjen"
+      },
+      {
+        "lang": "nl",
+        "name": "Pimpelmees"
+      },
+      {
+        "lang": "nn",
+        "name": "Blåmeis"
+      },
+      {
+        "lang": "no",
+        "name": "Blåmeis"
+      },
+      {
+        "lang": "os",
+        "name": "Дзывылдар"
+      },
+      {
+        "lang": "pcd",
+        "name": "Imbezingue bleuse"
+      },
+      {
+        "lang": "pl",
+        "name": "Modraszka zwyczajna"
+      },
+      {
+        "lang": "pt",
+        "name": "Chapim-azul"
+      },
+      {
+        "lang": "rm",
+        "name": "Maset blau"
+      },
+      {
+        "lang": "ro",
+        "name": "Pițigoi albastru"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенная лазоревка"
+      },
+      {
+        "lang": "rue",
+        "name": "Лазурівка"
+      },
+      {
+        "lang": "se",
+        "name": "Alitoai'gaccet"
+      },
+      {
+        "lang": "sk",
+        "name": "Sýkorka belasá"
+      },
+      {
+        "lang": "sl",
+        "name": "Plavček"
+      },
+      {
+        "lang": "sq",
+        "name": "Trishtili i kaltër"
+      },
+      {
+        "lang": "sr",
+        "name": "Плава сеница - Plava sjenica"
+      },
+      {
+        "lang": "stq",
+        "name": "Blaumeeske"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåmes"
+      },
+      {
+        "lang": "th",
+        "name": "นกติ๊ดสีน้ำเงิน"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi baştankara"
+      },
+      {
+        "lang": "uk",
+        "name": "Синиця блакитна"
+      },
+      {
+        "lang": "vec",
+        "name": "Speronzolin"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ ngô xanh"
+      },
+      {
+        "lang": "vls",
+        "name": "Pimpelmêze"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝山雀"
+      }
+    ]
+  }
+]

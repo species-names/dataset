@@ -1,0 +1,867 @@
+[
+  {
+    "scientific_name": "Icterus wagleri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus spurius",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "trupiál zahradní"
+      },
+      {
+        "lang": "da",
+        "name": "Rusttrupial"
+      },
+      {
+        "lang": "de",
+        "name": "Gartentrupial"
+      },
+      {
+        "lang": "en",
+        "name": "Orchard Oriole"
+      },
+      {
+        "lang": "eo",
+        "name": "Hortiktero"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial Castaño",
+        "synonyms": [
+          "Calandria café"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "tarhaturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Oriole des vergers"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti Mèl"
+      },
+      {
+        "lang": "hu",
+        "name": "kerti trupiál"
+      },
+      {
+        "lang": "it",
+        "name": "Oriolo degli orti"
+      },
+      {
+        "lang": "ja",
+        "name": "アカクロムクドリモドキ",
+        "synonyms": [
+          "akakuromukudorimodoki"
+        ]
+      },
+      {
+        "lang": "lkt",
+        "name": "Škelúta číkʼala"
+      },
+      {
+        "lang": "nl",
+        "name": "Tuintroepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Hagetrupial"
+      },
+      {
+        "lang": "pl",
+        "name": "kacyk kasztanowaty"
+      },
+      {
+        "lang": "ru",
+        "name": "Садовый трупиал"
+      },
+      {
+        "lang": "sk",
+        "name": "trupiál sadový"
+      },
+      {
+        "lang": "sv",
+        "name": "Trädgårdstrupial"
+      },
+      {
+        "lang": "zh",
+        "name": "圃拟鹂"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus pyrrhopterus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Variable Oriole"
+      },
+      {
+        "lang": "pt",
+        "name": "Inhapim"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus pustulatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus prosthemelas",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus portoricensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Puerto Rican Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial Puertorriqueño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus pectoralis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus parisorum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scott's Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial de Scott"
+      },
+      {
+        "lang": "fa",
+        "name": "پری‌شاهرخ اسکات"
+      },
+      {
+        "lang": "fr",
+        "name": "Oriole jaune-verdâtre"
+      },
+      {
+        "lang": "nl",
+        "name": "Scotts troepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Yuccatrupial"
+      },
+      {
+        "lang": "sv",
+        "name": "Scotts trupial"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus oberi",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Turpial de Montserrat"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus northropi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bahama Oriole"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus nigrogularis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus mesomelas",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Trupiál žlutopruhý"
+      },
+      {
+        "lang": "da",
+        "name": "Gulhalet Trupial"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbschwanztrupial"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-tailed Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial de Cola Amarilla"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltapyrstöturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Oriole à queue jaune"
+      },
+      {
+        "lang": "it",
+        "name": "Oriolo codagialla"
+      },
+      {
+        "lang": "ja",
+        "name": "キガタムクドリモドキ"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelstaarttroepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Gulhaletrupial"
+      },
+      {
+        "lang": "pl",
+        "name": "Kacyk zóltosterny"
+      },
+      {
+        "lang": "sk",
+        "name": "Trupiál žltochvostý"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulstjärtad trupial"
+      },
+      {
+        "lang": "zh",
+        "name": "黄尾拟鹂"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus melanopsis",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Cubatrupial"
+      },
+      {
+        "lang": "de",
+        "name": "Kubatrupial"
+      },
+      {
+        "lang": "en",
+        "name": "Cuban Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial Cubano"
+      },
+      {
+        "lang": "fr",
+        "name": "Oriole de Cuba"
+      },
+      {
+        "lang": "nl",
+        "name": "Cubaanse Troepiaal"
+      },
+      {
+        "lang": "pl",
+        "name": "kacyk kubański"
+      },
+      {
+        "lang": "sk",
+        "name": "trupiál kubánsky"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus maculialatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus leucopteryx",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Jamaican Oriole"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus laudabilis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus jamacaii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Campo Troupial"
+      },
+      {
+        "lang": "eo",
+        "name": "Kampiktero"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial brasileño"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ‌انجیر کامپو"
+      },
+      {
+        "lang": "fr",
+        "name": "Oriole des campos"
+      },
+      {
+        "lang": "hu",
+        "name": "Tűztrupiál"
+      },
+      {
+        "lang": "nl",
+        "name": "Oranjevleugeltroepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Campostrupial"
+      },
+      {
+        "lang": "pt",
+        "name": "Corrupião"
+      },
+      {
+        "lang": "sv",
+        "name": "Campostrupial"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus icterus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus gularis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "trupiál altamirský"
+      },
+      {
+        "lang": "da",
+        "name": "Altamiratrupial"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkehltrupial"
+      },
+      {
+        "lang": "en",
+        "name": "Altamira Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial de Altamira"
+      },
+      {
+        "lang": "fi",
+        "name": "kuningasturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Oriole à gros bec"
+      },
+      {
+        "lang": "it",
+        "name": "Oriolo di Altamira"
+      },
+      {
+        "lang": "ja",
+        "name": "オレンジムクドリモドキ",
+        "synonyms": [
+          "orenjimukudorimodoki"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Altamiratroepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Eldoradotrupial"
+      },
+      {
+        "lang": "pl",
+        "name": "kacyk duży"
+      },
+      {
+        "lang": "ru",
+        "name": "Черногорлый цветной трупиал"
+      },
+      {
+        "lang": "sk",
+        "name": "trupiál čiernohrdlý"
+      },
+      {
+        "lang": "sv",
+        "name": "Altamiratrupial"
+      },
+      {
+        "lang": "zh",
+        "name": "橙头拟鹂"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus graduacauda",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus graceannae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus galbula",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "trupiál baltimorský"
+      },
+      {
+        "lang": "cy",
+        "name": "Euryn Baltimore"
+      },
+      {
+        "lang": "da",
+        "name": "Baltimoretrupial"
+      },
+      {
+        "lang": "de",
+        "name": "Baltimoretrupial"
+      },
+      {
+        "lang": "en",
+        "name": "Baltimore Oriole"
+      },
+      {
+        "lang": "eo",
+        "name": "Baltimora iktero"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial de Baltimore",
+        "synonyms": [
+          "Oropéndola de Baltimore"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "jalakaturpial"
+      },
+      {
+        "lang": "fa",
+        "name": "پری شاهرخ شمالی"
+      },
+      {
+        "lang": "fi",
+        "name": "idänlehtoturpiaali"
+      },
+      {
+        "lang": "fo",
+        "name": "Reyðbrystingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Oriole de Baltimore"
+      },
+      {
+        "lang": "he",
+        "name": "פזאי"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti Mèl ameriken"
+      },
+      {
+        "lang": "hu",
+        "name": "narancstrupiál"
+      },
+      {
+        "lang": "io",
+        "name": "Pirolo"
+      },
+      {
+        "lang": "is",
+        "name": "Álmkraki"
+      },
+      {
+        "lang": "it",
+        "name": "Oriolo di Baltimora"
+      },
+      {
+        "lang": "ja",
+        "name": "ボルチモアムクドリモドキ",
+        "synonyms": [
+          "boruchimoamukudorimodoki"
+        ]
+      },
+      {
+        "lang": "lkt",
+        "name": "Škelúta tȟáŋka"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltimorinis trupialas"
+      },
+      {
+        "lang": "nl",
+        "name": "Baltimoretroepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Lundtrupial"
+      },
+      {
+        "lang": "pl",
+        "name": "Kacyk północny"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Corrupião-de-baltimore"
+      },
+      {
+        "lang": "pt",
+        "name": "Corrupião-de-baltimore"
+      },
+      {
+        "lang": "ru",
+        "name": "Балтиморская иволга"
+      },
+      {
+        "lang": "sk",
+        "name": "trupiál vlhovitý"
+      },
+      {
+        "lang": "sl",
+        "name": "trupial"
+      },
+      {
+        "lang": "sv",
+        "name": "Baltimoretrupial"
+      },
+      {
+        "lang": "tr",
+        "name": "Baltimor Sarıasması"
+      },
+      {
+        "lang": "zh",
+        "name": "橙腹拟鹂"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus fuertesi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fuertes's Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial de Fuertes"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus dominicensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hispaniolan Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial de la Española"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus cucullatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "trupiál oranžovokápý"
+      },
+      {
+        "lang": "da",
+        "name": "Tobåndet Trupial"
+      },
+      {
+        "lang": "de",
+        "name": "Maskentrupial"
+      },
+      {
+        "lang": "en",
+        "name": "Hooded Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial Enmascarado"
+      },
+      {
+        "lang": "fi",
+        "name": "kapokkiturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Oriole masqué"
+      },
+      {
+        "lang": "it",
+        "name": "Oriolo dal cappuccio"
+      },
+      {
+        "lang": "ja",
+        "name": "ムナグロムクドリモドキ",
+        "synonyms": [
+          "munaguromukudorimodoki"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Maskertroepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Palmetrupial"
+      },
+      {
+        "lang": "pl",
+        "name": "kacyk maskowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Масковый цветной трупиал"
+      },
+      {
+        "lang": "sk",
+        "name": "trupiál maskový"
+      },
+      {
+        "lang": "sv",
+        "name": "Palmtrupial"
+      },
+      {
+        "lang": "zh",
+        "name": "巾冠拟鹂"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus croconotus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-backed Oriole"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus chrysater",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "trupiál žlutočerný"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzflügeltrupial"
+      },
+      {
+        "lang": "da",
+        "name": "Gulrygget Trupial"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-backed Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial Dorsidorado"
+      },
+      {
+        "lang": "fi",
+        "name": "kultaturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Oriole noir et or"
+      },
+      {
+        "lang": "it",
+        "name": "Oriolo dorsogiallo"
+      },
+      {
+        "lang": "ja",
+        "name": "ハグロムクドリモドキ"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelrugtroepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Gulryggtrupial"
+      },
+      {
+        "lang": "pl",
+        "name": "kacyk czarnoskrzydły"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтоспинный цветной трупиал"
+      },
+      {
+        "lang": "sk",
+        "name": "trupiál čiernokrídly"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulryggad trupial"
+      },
+      {
+        "lang": "zh",
+        "name": "黄背拟鹂"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus cayanensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Epaulet Oriole"
+      },
+      {
+        "lang": "pt",
+        "name": "Inhapim"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus bullockii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "trupiál oranžovobrvý"
+      },
+      {
+        "lang": "da",
+        "name": "Orangebrynet Trupial"
+      },
+      {
+        "lang": "de",
+        "name": "Bullocktrupial"
+      },
+      {
+        "lang": "en",
+        "name": "Bullock's Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial de Bullock"
+      },
+      {
+        "lang": "fi",
+        "name": "lännenlehtoturpiaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Oriole de Bullock"
+      },
+      {
+        "lang": "hu",
+        "name": "Bullock-trupiál"
+      },
+      {
+        "lang": "it",
+        "name": "Oriolo di Bullock"
+      },
+      {
+        "lang": "ja",
+        "name": "ボルチモアムクドリモドキ",
+        "synonyms": [
+          "boruchimoamukudorimodoki"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Bullocks Troepiaal"
+      },
+      {
+        "lang": "no",
+        "name": "Gullbryntrupial"
+      },
+      {
+        "lang": "pl",
+        "name": "kacyk złotobrewy"
+      },
+      {
+        "lang": "pt",
+        "name": "Corrupião-de-bullock"
+      },
+      {
+        "lang": "ru",
+        "name": "Цветной трупиал Баллока"
+      },
+      {
+        "lang": "sk",
+        "name": "trupiál bielokrídly"
+      },
+      {
+        "lang": "sv",
+        "name": "Bullocks trupial"
+      },
+      {
+        "lang": "zh",
+        "name": "布氏拟鹂"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus bonana",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus auricapillus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Icterus auratus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange Oriole"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Icterus abeillei",
+    "common_names": []
+  }
+]

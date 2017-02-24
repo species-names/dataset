@@ -1,0 +1,67 @@
+[
+  {
+    "scientific_name": "Loxigilla barbadensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Loxigilla violacea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Greater Antillean Bullfinch"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero prieto",
+        "synonyms": [
+          "gallito prieto"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile petit-coq"
+      },
+      {
+        "lang": "sv",
+        "name": "Större antillfink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Loxigilla portoricensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Puerto Rican bullfinch"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero puertorriqueño",
+        "synonyms": [
+          "comeñame"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Pèrenoir de Porto Rico"
+      },
+      {
+        "lang": "sv",
+        "name": "Puertoricofink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Loxigilla noctis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lesser Antillean Bullfinch"
+      },
+      {
+        "lang": "fi",
+        "name": "Pientenantilliensirkku"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1193 @@
+[
+  {
+    "scientific_name": "Poecile weigoldicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sichuan Tit"
+      },
+      {
+        "lang": "sv",
+        "name": "Sichuanmes"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile superciliosus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýkora bělobrvá"
+      },
+      {
+        "lang": "en",
+        "name": "White-browed Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankbrova paruo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero cejiblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange à sourcils blancs"
+      },
+      {
+        "lang": "hu",
+        "name": "Tibeti cinege"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbrauwmees"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbrynad mes"
+      },
+      {
+        "lang": "zh",
+        "name": "白眉山雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile sclateri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýkora mexická"
+      },
+      {
+        "lang": "en",
+        "name": "Mexican Chickadee"
+      },
+      {
+        "lang": "eo",
+        "name": "Meksika paruo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero Mexicano"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسوی مکزیکی"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange grise"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürkevállú cinege"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijsflankmees"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora meksykańska"
+      },
+      {
+        "lang": "sv",
+        "name": "Mexikansk tita"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile rufescens",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýkora hnědohřbetá"
+      },
+      {
+        "lang": "da",
+        "name": "Kastanjerygget Mejse"
+      },
+      {
+        "lang": "de",
+        "name": "Rotrückenmeise"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut-backed Chickadee"
+      },
+      {
+        "lang": "eo",
+        "name": "Brundorsa paruo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero dorsicastaño"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسوی پشت‌بلوطی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kastanjatiainen"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange à dos marron"
+      },
+      {
+        "lang": "hu",
+        "name": "Vöröshátú cinege"
+      },
+      {
+        "lang": "it",
+        "name": "Cincia dorsocastano"
+      },
+      {
+        "lang": "ja",
+        "name": "クロイロコガラ"
+      },
+      {
+        "lang": "nl",
+        "name": "Kastanjerugmees"
+      },
+      {
+        "lang": "no",
+        "name": "Kastanjemeis"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora brunatna"
+      },
+      {
+        "lang": "ru",
+        "name": "Каштановоспинная гаичка"
+      },
+      {
+        "lang": "sk",
+        "name": "Sýkorka hrdzavochrbtá"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostmes"
+      },
+      {
+        "lang": "zh",
+        "name": "栗背山雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile palustris",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Sumpfmeise"
+      },
+      {
+        "lang": "ar",
+        "name": "قرقف المستنقعات"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡарабаш тебейек"
+      },
+      {
+        "lang": "bg",
+        "name": "Лъскавоглав синигер"
+      },
+      {
+        "lang": "br",
+        "name": "Pennduig-ar-wern"
+      },
+      {
+        "lang": "ca",
+        "name": "Mallerenga d'aigua"
+      },
+      {
+        "lang": "csb",
+        "name": "Błotnô sykórka"
+      },
+      {
+        "lang": "cs",
+        "name": "Sýkora babka"
+      },
+      {
+        "lang": "cy",
+        "name": "Titw'r Wern"
+      },
+      {
+        "lang": "da",
+        "name": "Sumpmejse"
+      },
+      {
+        "lang": "de",
+        "name": "Sumpfmeise"
+      },
+      {
+        "lang": "en",
+        "name": "Marsh Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Marĉoparuo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero palustre"
+      },
+      {
+        "lang": "et",
+        "name": "Salutihane"
+      },
+      {
+        "lang": "eu",
+        "name": "Kaskabeltz txiki"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسک مردابی"
+      },
+      {
+        "lang": "fi",
+        "name": "Viitatiainen"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange nonnette"
+      },
+      {
+        "lang": "gl",
+        "name": "Ferreiriño palustre"
+      },
+      {
+        "lang": "hu",
+        "name": "Barátcinege"
+      },
+      {
+        "lang": "it",
+        "name": "Cincia bigia"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシブトガラ"
+      },
+      {
+        "lang": "kbd",
+        "name": "ЦӀыжьдадэщхьэфӀыцӀэ"
+      },
+      {
+        "lang": "lt",
+        "name": "Paprastoji pilkoji zylė"
+      },
+      {
+        "lang": "mk",
+        "name": "Мала црноглава сипка"
+      },
+      {
+        "lang": "nl",
+        "name": "Glanskop"
+      },
+      {
+        "lang": "nn",
+        "name": "Lauvmeis"
+      },
+      {
+        "lang": "no",
+        "name": "Løvmeis"
+      },
+      {
+        "lang": "oc",
+        "name": "Mongeta"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora uboga"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноголовая гаичка"
+      },
+      {
+        "lang": "rue",
+        "name": "Болотна синиця"
+      },
+      {
+        "lang": "sk",
+        "name": "Sýkorka hôrna"
+      },
+      {
+        "lang": "sl",
+        "name": "Močvirska sinica"
+      },
+      {
+        "lang": "sv",
+        "name": "Entita"
+      },
+      {
+        "lang": "tr",
+        "name": "Bataklık baştankarası"
+      },
+      {
+        "lang": "uk",
+        "name": "Гаїчка болотяна"
+      },
+      {
+        "lang": "zh",
+        "name": "沼泽山雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile montanus",
+    "common_names": [
+      {
+        "lang": "an",
+        "name": "Chinchipera boreyal"
+      },
+      {
+        "lang": "ar",
+        "name": "قرف الصفصاف"
+      },
+      {
+        "lang": "ast",
+        "name": "Carboneru montiegu"
+      },
+      {
+        "lang": "ba",
+        "name": "Тебейек"
+      },
+      {
+        "lang": "be",
+        "name": "Бурагаловая сініца"
+      },
+      {
+        "lang": "bg",
+        "name": "Матовоглав синигер"
+      },
+      {
+        "lang": "br",
+        "name": "Pennduig-haleg"
+      },
+      {
+        "lang": "ca",
+        "name": "Teixidor"
+      },
+      {
+        "lang": "cs",
+        "name": "Sýkora lužní"
+      },
+      {
+        "lang": "cy",
+        "name": "Titw'r helyg"
+      },
+      {
+        "lang": "da",
+        "name": "Fyrremejse"
+      },
+      {
+        "lang": "de",
+        "name": "Weidenmeise"
+      },
+      {
+        "lang": "el",
+        "name": "Βουνοπαπαδίτσα"
+      },
+      {
+        "lang": "en",
+        "name": "Willow Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Salikparuo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero montano"
+      },
+      {
+        "lang": "et",
+        "name": "Põhjatihane"
+      },
+      {
+        "lang": "fi",
+        "name": "Hömötiainen"
+      },
+      {
+        "lang": "fo",
+        "name": "Skógtíta"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange boréale"
+      },
+      {
+        "lang": "fy",
+        "name": "Reidmies"
+      },
+      {
+        "lang": "ga",
+        "name": "Meantán léana"
+      },
+      {
+        "lang": "gd",
+        "name": "Currac ghiuthais"
+      },
+      {
+        "lang": "gv",
+        "name": "Drean shellee"
+      },
+      {
+        "lang": "he",
+        "name": "ירגז-י הרים"
+      },
+      {
+        "lang": "hr",
+        "name": "Planinska sjenica"
+      },
+      {
+        "lang": "hu",
+        "name": "Kormosfejű cinege"
+      },
+      {
+        "lang": "is",
+        "name": "Votmeisa"
+      },
+      {
+        "lang": "it",
+        "name": "Cincia bigia alpestre"
+      },
+      {
+        "lang": "ja",
+        "name": "コガラ"
+      },
+      {
+        "lang": "kk",
+        "name": "Күрењбас шєже"
+      },
+      {
+        "lang": "ko",
+        "name": "북방 쇠박새"
+      },
+      {
+        "lang": "kw",
+        "name": "Penglow helyk"
+      },
+      {
+        "lang": "lb",
+        "name": "Weidemäs"
+      },
+      {
+        "lang": "lt",
+        "name": "Šiaurinė pilkoji zylė"
+      },
+      {
+        "lang": "lv",
+        "name": "Pelēkā zīlīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Планинска (Врбова) сипка"
+      },
+      {
+        "lang": "mn",
+        "name": "Хүрэн толгойт хөх бух"
+      },
+      {
+        "lang": "nl",
+        "name": "Matkop"
+      },
+      {
+        "lang": "nn",
+        "name": "Granmeis"
+      },
+      {
+        "lang": "no",
+        "name": "Granmeis"
+      },
+      {
+        "lang": "pl",
+        "name": "Czarnogłówka zwyczajna"
+      },
+      {
+        "lang": "pt",
+        "name": "Chapim-sibilino"
+      },
+      {
+        "lang": "rm",
+        "name": "Maset da muntogna"
+      },
+      {
+        "lang": "ru",
+        "name": "Буроголовая гаичка"
+      },
+      {
+        "lang": "sah",
+        "name": "Чычып-чаап"
+      },
+      {
+        "lang": "se",
+        "name": "Vuovdegaccet"
+      },
+      {
+        "lang": "sh",
+        "name": "Planinska sjenica"
+      },
+      {
+        "lang": "sk",
+        "name": "Sýkorka čiernohlavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Gorska sinica"
+      },
+      {
+        "lang": "sr",
+        "name": "Planinska senica - Планинска сеница"
+      },
+      {
+        "lang": "sv",
+        "name": "Talltita"
+      },
+      {
+        "lang": "tr",
+        "name": "Dağ baştankarası"
+      },
+      {
+        "lang": "tyv",
+        "name": "Хүрен баштыг көк-хөкпеш"
+      },
+      {
+        "lang": "uk",
+        "name": "Гаїчка-пухляк"
+      },
+      {
+        "lang": "zh",
+        "name": "褐头山雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile lugubris",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Pennglaou teñval"
+      },
+      {
+        "lang": "cs",
+        "name": "Sýkora temná"
+      },
+      {
+        "lang": "da",
+        "name": "Sørgemejse"
+      },
+      {
+        "lang": "de",
+        "name": "Trauermeise"
+      },
+      {
+        "lang": "en",
+        "name": "Sombre Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Funebra paruo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero Lúgubre"
+      },
+      {
+        "lang": "fi",
+        "name": "Balkanintiainen"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange lugubre"
+      },
+      {
+        "lang": "he",
+        "name": "ירגזי חרמון"
+      },
+      {
+        "lang": "hu",
+        "name": "Füstös cinege"
+      },
+      {
+        "lang": "hy",
+        "name": "Երաշտահավ միջերկրածովյան"
+      },
+      {
+        "lang": "it",
+        "name": "Cincia dalmatina"
+      },
+      {
+        "lang": "ja",
+        "name": "バルカンコガラ"
+      },
+      {
+        "lang": "nl",
+        "name": "Rouwmees"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora żałobna"
+      },
+      {
+        "lang": "pt",
+        "name": "Chapim-lúgubre"
+      },
+      {
+        "lang": "ru",
+        "name": "Средиземноморская гаичка"
+      },
+      {
+        "lang": "sv",
+        "name": "Balkanmes"
+      },
+      {
+        "lang": "tr",
+        "name": "Dağ baştankarası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile hyrcanus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýkora íránská"
+      },
+      {
+        "lang": "en",
+        "name": "Caspian Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Kaspia paruo"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسک خزری"
+      },
+      {
+        "lang": "nl",
+        "name": "Iraanse rouwmees"
+      },
+      {
+        "lang": "sv",
+        "name": "Hyrkanmes"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile hypermelaenus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-bibbed Tit"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange à bavette"
+      },
+      {
+        "lang": "nl",
+        "name": "Chinese glanskop"
+      },
+      {
+        "lang": "sv",
+        "name": "Sikangtita"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile hudsonicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýkora severní"
+      },
+      {
+        "lang": "da",
+        "name": "Canadamejse"
+      },
+      {
+        "lang": "de",
+        "name": "Hudsonmeise"
+      },
+      {
+        "lang": "en",
+        "name": "Boreal Chickadee"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero Boreal"
+      },
+      {
+        "lang": "et",
+        "name": "Kanada tihane"
+      },
+      {
+        "lang": "fi",
+        "name": "Kanadantiainen"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange à tête brune"
+      },
+      {
+        "lang": "hu",
+        "name": "Hudson-cinege"
+      },
+      {
+        "lang": "it",
+        "name": "Cincia boreale"
+      },
+      {
+        "lang": "ja",
+        "name": "カナダコガラ"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudagalvė zylė"
+      },
+      {
+        "lang": "nl",
+        "name": "Hudsonmees"
+      },
+      {
+        "lang": "no",
+        "name": "Kanadameis"
+      },
+      {
+        "lang": "oj",
+        "name": "ᑭᒋᑲᓀᔑᔚ"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora kanadyjska"
+      },
+      {
+        "lang": "ru",
+        "name": "Лесная гаичка"
+      },
+      {
+        "lang": "sk",
+        "name": "Sýkorka severská"
+      },
+      {
+        "lang": "sv",
+        "name": "Kanadames"
+      },
+      {
+        "lang": "zh",
+        "name": "北山雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile gambeli",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýkora horská"
+      },
+      {
+        "lang": "da",
+        "name": "Bjergmejse"
+      },
+      {
+        "lang": "de",
+        "name": "Gambelmeise"
+      },
+      {
+        "lang": "en",
+        "name": "Mountain Chickadee"
+      },
+      {
+        "lang": "eo",
+        "name": "Montoparuo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero Montañes"
+      },
+      {
+        "lang": "et",
+        "name": "Mägitihane"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuoritiainen"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange de Gambel"
+      },
+      {
+        "lang": "hu",
+        "name": "Gambel-cinege"
+      },
+      {
+        "lang": "it",
+        "name": "Cincia delle Montagne Rocciose"
+      },
+      {
+        "lang": "ja",
+        "name": "マミジロコガラ"
+      },
+      {
+        "lang": "nl",
+        "name": "Gambels Mees"
+      },
+      {
+        "lang": "no",
+        "name": "Bergmeis"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora górska"
+      },
+      {
+        "lang": "ru",
+        "name": "Горная гаичка"
+      },
+      {
+        "lang": "sk",
+        "name": "Sýkorka Gambelova"
+      },
+      {
+        "lang": "sv",
+        "name": "Bergtita"
+      },
+      {
+        "lang": "uk",
+        "name": "Гаїчка гірська"
+      },
+      {
+        "lang": "zh",
+        "name": "北美白眉山雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile davidi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Père David's Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Davida paruo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero de David"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange de David"
+      },
+      {
+        "lang": "nl",
+        "name": "Pater Davids mees"
+      },
+      {
+        "lang": "sv",
+        "name": "Davidmes"
+      },
+      {
+        "lang": "zh",
+        "name": "红腹山雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile cinctus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Сибирски синигер"
+      },
+      {
+        "lang": "br",
+        "name": "Pennglaou an taiga"
+      },
+      {
+        "lang": "ca",
+        "name": "Mallerenga de Lapònia"
+      },
+      {
+        "lang": "cs",
+        "name": "Sýkora laponská"
+      },
+      {
+        "lang": "da",
+        "name": "Lapmejse"
+      },
+      {
+        "lang": "de",
+        "name": "Lapplandmeise"
+      },
+      {
+        "lang": "en",
+        "name": "Siberian Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Lapona paruo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero lapón"
+      },
+      {
+        "lang": "et",
+        "name": "Taigatihane"
+      },
+      {
+        "lang": "eu",
+        "name": "Laponiako kaskabeltz"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسوی سرخاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "Lapintiainen"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange lapone"
+      },
+      {
+        "lang": "hu",
+        "name": "Lappföldi cinege"
+      },
+      {
+        "lang": "ja",
+        "name": "シベリアコガラ"
+      },
+      {
+        "lang": "mn",
+        "name": "Сибирийн хөх бух"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinkopmees"
+      },
+      {
+        "lang": "nn",
+        "name": "Lappmeis"
+      },
+      {
+        "lang": "no",
+        "name": "Lappmeis"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora północna"
+      },
+      {
+        "lang": "ru",
+        "name": "Сероголовая гаичка"
+      },
+      {
+        "lang": "sah",
+        "name": "Тииҥ саҥыйахтаах чычып-чаап"
+      },
+      {
+        "lang": "sv",
+        "name": "Lappmes"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile carolinensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýkora karolinská"
+      },
+      {
+        "lang": "da",
+        "name": "Carolinamejse"
+      },
+      {
+        "lang": "de",
+        "name": "Carolinameise"
+      },
+      {
+        "lang": "en",
+        "name": "Carolina Chickadee"
+      },
+      {
+        "lang": "eo",
+        "name": "Karolina paruo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero de Carolina"
+      },
+      {
+        "lang": "et",
+        "name": "Ojatihane"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسو"
+      },
+      {
+        "lang": "fi",
+        "name": "Tammitiainen"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange de Caroline"
+      },
+      {
+        "lang": "hi",
+        "name": "कैरोलिना चिकैडी"
+      },
+      {
+        "lang": "hu",
+        "name": "Karolinai cinege"
+      },
+      {
+        "lang": "it",
+        "name": "Cincia della Carolina"
+      },
+      {
+        "lang": "ja",
+        "name": "カロライナコガラ"
+      },
+      {
+        "lang": "nl",
+        "name": "Carolinamees"
+      },
+      {
+        "lang": "no",
+        "name": "Karolinameis"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora karolińska"
+      },
+      {
+        "lang": "ru",
+        "name": "Каролинская гаичка"
+      },
+      {
+        "lang": "sk",
+        "name": "Sýkorka karolínska"
+      },
+      {
+        "lang": "sr",
+        "name": "Каролина Цхицкадее"
+      },
+      {
+        "lang": "sv",
+        "name": "Karolinatita"
+      },
+      {
+        "lang": "zh",
+        "name": "卡罗山雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Poecile atricapillus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýkora černohlavá"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Fyrremejse"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkopfmeise"
+      },
+      {
+        "lang": "en",
+        "name": "Black-capped Chickadee"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrakrona paruo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero cabecinegro"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسوی سرسیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikanhömötiainen"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange à tête noire"
+      },
+      {
+        "lang": "hu",
+        "name": "Kanadai cinege"
+      },
+      {
+        "lang": "it",
+        "name": "Cincia bigia americana"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカコガラ"
+      },
+      {
+        "lang": "ml",
+        "name": "ടിറ്റ്മൗസ്"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse matkop"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikameis"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora jasnoskrzydła"
+      },
+      {
+        "lang": "ru",
+        "name": "Черношапочная гаичка"
+      },
+      {
+        "lang": "sk",
+        "name": "Sýkorka čiapočkatá"
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk talltita"
+      },
+      {
+        "lang": "vi",
+        "name": "Bạc má mũ đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑顶山雀"
+      }
+    ]
+  }
+]

@@ -1,0 +1,439 @@
+[
+  {
+    "scientific_name": "Zonotrichia querula",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Pardal de Harris"
+      },
+      {
+        "lang": "de",
+        "name": "Harris-Ammer"
+      },
+      {
+        "lang": "en",
+        "name": "Harris's Sparrow"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigravizaĝa emberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Chingolo de Harris"
+      },
+      {
+        "lang": "fi",
+        "name": "Eskimosirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à face noire"
+      },
+      {
+        "lang": "ja",
+        "name": "カオグロシトド"
+      },
+      {
+        "lang": "hu",
+        "name": "Harris-verébsármány"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkruingors"
+      },
+      {
+        "lang": "sv",
+        "name": "Kanadasparv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zonotrichia leucophrys",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Brean kabell brizh"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnadec bělokorunkatý"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidkronet Spurv"
+      },
+      {
+        "lang": "de",
+        "name": "Dachsammer"
+      },
+      {
+        "lang": "en",
+        "name": "White-crowned Sparrow"
+      },
+      {
+        "lang": "es",
+        "name": "Chingolo Coroniblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Valgekiird-sidrik"
+      },
+      {
+        "lang": "fi",
+        "name": "Juovapääsirkku"
+      },
+      {
+        "lang": "fo",
+        "name": "Krúnuhvítur spurvur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à couronne blanche"
+      },
+      {
+        "lang": "hu",
+        "name": "Koronás verébsármány"
+      },
+      {
+        "lang": "is",
+        "name": "Kúftittlingur"
+      },
+      {
+        "lang": "it",
+        "name": "Passero corona bianca"
+      },
+      {
+        "lang": "ja",
+        "name": "ミヤマシトド"
+      },
+      {
+        "lang": "ko",
+        "name": "흰정수리북미참새"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltakaktė zonotrichija"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkruingors"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitkronespurv"
+      },
+      {
+        "lang": "pl",
+        "name": "Pasówka białobrewa"
+      },
+      {
+        "lang": "pt",
+        "name": "Escrevedeira-de-testa-branca"
+      },
+      {
+        "lang": "ru",
+        "name": "Белобровая овсянка"
+      },
+      {
+        "lang": "sk",
+        "name": "Strnádlik jazvečí"
+      },
+      {
+        "lang": "sl",
+        "name": "Vrabonad"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitkronad sparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Porsuk çintesi"
+      },
+      {
+        "lang": "uk",
+        "name": "Білокоронний горобець"
+      },
+      {
+        "lang": "zh",
+        "name": "白冠带鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zonotrichia capensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Strnadec ranní"
+      },
+      {
+        "lang": "da",
+        "name": "Morgenværling"
+      },
+      {
+        "lang": "de",
+        "name": "Morgenammer"
+      },
+      {
+        "lang": "en",
+        "name": "Rufous-collared Sparrow"
+      },
+      {
+        "lang": "es",
+        "name": "Chingolo común"
+      },
+      {
+        "lang": "fi",
+        "name": "Eteläamerikansirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant chingolo"
+      },
+      {
+        "lang": "gn",
+        "name": "Chesyhasy"
+      },
+      {
+        "lang": "ht",
+        "name": "Zwazo-kann chingolo"
+      },
+      {
+        "lang": "hu",
+        "name": "Morgan-verébsármány"
+      },
+      {
+        "lang": "it",
+        "name": "Passero dal collare rossiccio"
+      },
+      {
+        "lang": "ja",
+        "name": "アカエリシトド"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkraaggors"
+      },
+      {
+        "lang": "no",
+        "name": "Rustkragespurv"
+      },
+      {
+        "lang": "pl",
+        "name": "Pasówka obrożna"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Tico-tico"
+      },
+      {
+        "lang": "pt",
+        "name": "Tico-tico"
+      },
+      {
+        "lang": "ru",
+        "name": "Рыжеошейниковая овсянка"
+      },
+      {
+        "lang": "sk",
+        "name": "Strnádlik golierikatý"
+      },
+      {
+        "lang": "sv",
+        "name": "Morgonsparv"
+      },
+      {
+        "lang": "zh",
+        "name": "红领带鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zonotrichia atricapilla",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Pardal de coroneta daurada"
+      },
+      {
+        "lang": "de",
+        "name": "Kronenammer"
+      },
+      {
+        "lang": "en",
+        "name": "Golden-crowned Sparrow"
+      },
+      {
+        "lang": "eo",
+        "name": "Orkrona emberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Gorrión gorridorado"
+      },
+      {
+        "lang": "fa",
+        "name": "گنجشک کاکل‌زری"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à couronne dorée"
+      },
+      {
+        "lang": "ja",
+        "name": "キガシラシトド"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudkruingors"
+      },
+      {
+        "lang": "ru",
+        "name": "Чернобровая зонотрихия"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulkronad sparv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zonotrichia albicollis",
+    "common_names": [
+      {
+        "lang": "bar",
+        "name": "Weisskejåmmer"
+      },
+      {
+        "lang": "br",
+        "name": "Brean jave gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Pardal gorjablanc"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnadec bělohrdlý"
+      },
+      {
+        "lang": "cy",
+        "name": "Llwyd gyddfwyn"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidstrubet Spurv"
+      },
+      {
+        "lang": "de",
+        "name": "Weißkehlammer"
+      },
+      {
+        "lang": "en",
+        "name": "White-throated Sparrow"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankgorĝa emberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Chingolo Gorjiblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Valgekurk-sidrik"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkokurkkusirkku"
+      },
+      {
+        "lang": "fo",
+        "name": "Øshvítur spurvur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à gorge blanche"
+      },
+      {
+        "lang": "ga",
+        "name": "Gealbhan Píbgheal"
+      },
+      {
+        "lang": "he",
+        "name": "גבתונית לבנת־גרון"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehértorkú verébsármány"
+      },
+      {
+        "lang": "is",
+        "name": "Hörputittlingur"
+      },
+      {
+        "lang": "it",
+        "name": "Passero golabianca"
+      },
+      {
+        "lang": "ja",
+        "name": "ノドジロシトド"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltagurklė zonotrichija"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkeelgors"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitstrupespurv"
+      },
+      {
+        "lang": "oj",
+        "name": "ᑲᑭᐊ.ᔑᑭᑭᔑᑭ"
+      },
+      {
+        "lang": "pl",
+        "name": "Pasówka białogardła"
+      },
+      {
+        "lang": "pt",
+        "name": "Escrevedeira-de-garganta-branca"
+      },
+      {
+        "lang": "ru",
+        "name": "Белошейная зонотрихия"
+      },
+      {
+        "lang": "sk",
+        "name": "Strnádlik bielohrdlý"
+      },
+      {
+        "lang": "sl",
+        "name": "Belogrli vrabonad"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitstrupig sparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak boğazlı çinte"
+      },
+      {
+        "lang": "uk",
+        "name": "Білогорлий горобець"
+      },
+      {
+        "lang": "zh",
+        "name": "白喉带鹀"
+      }
+    ]
+  }
+]

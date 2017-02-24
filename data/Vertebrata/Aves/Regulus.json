@@ -1,0 +1,573 @@
+[
+  {
+    "scientific_name": "Regulus satrapa",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Dreolan kabell melen"
+      },
+      {
+        "lang": "cs",
+        "name": "králíček zlatohlavý"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Fuglekonge"
+      },
+      {
+        "lang": "de",
+        "name": "Indianergoldhähnchen"
+      },
+      {
+        "lang": "en",
+        "name": "Golden-crowned Kinglet"
+      },
+      {
+        "lang": "eo",
+        "name": "Orkrona regolo"
+      },
+      {
+        "lang": "es",
+        "name": "Reyezuelo Sátrapa",
+        "synonyms": [
+          "Reyezuelo Corona-dorada"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "tsuuga-pöialpoiss"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanhippiäinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Roitelet à couronne dorée"
+      },
+      {
+        "lang": "hu",
+        "name": "kanadai királyka"
+      },
+      {
+        "lang": "is",
+        "name": "Sólkollur"
+      },
+      {
+        "lang": "it",
+        "name": "Fiorrancino americano"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカキクイタダキ",
+        "synonyms": [
+          "amerikakikuitadaki"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Amerikinis nykštukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse Goudhaan"
+      },
+      {
+        "lang": "no",
+        "name": "Ildkronefuglekonge"
+      },
+      {
+        "lang": "pl",
+        "name": "Mysikrólik złotogłowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Estrelinha-de-coroa-dourada"
+      },
+      {
+        "lang": "ru",
+        "name": "Золотоголовый королёк"
+      },
+      {
+        "lang": "sk",
+        "name": "králik satrapa"
+      },
+      {
+        "lang": "sv",
+        "name": "Guldkronad kungsfågel"
+      },
+      {
+        "lang": "zh",
+        "name": "金冠戴菊"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Regulus regulus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "صعو أصفر العرف"
+      },
+      {
+        "lang": "ba",
+        "name": "Кәрлә турғай"
+      },
+      {
+        "lang": "be",
+        "name": "Жоўтагаловы каралёк"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълтоглаво кралче"
+      },
+      {
+        "lang": "br",
+        "name": "Dreolan kabell aour"
+      },
+      {
+        "lang": "ca",
+        "name": "Reietó"
+      },
+      {
+        "lang": "cs",
+        "name": "Králíček obecný"
+      },
+      {
+        "lang": "csb",
+        "name": "Zwëczajny mëszélc"
+      },
+      {
+        "lang": "cy",
+        "name": "Dryw Eurben"
+      },
+      {
+        "lang": "da",
+        "name": "Fuglekonge"
+      },
+      {
+        "lang": "de",
+        "name": "Wintergoldhähnchen"
+      },
+      {
+        "lang": "en",
+        "name": "Goldcrest"
+      },
+      {
+        "lang": "eo",
+        "name": "Orverta regolo"
+      },
+      {
+        "lang": "es",
+        "name": "Reyezuelo Sencillo"
+      },
+      {
+        "lang": "et",
+        "name": "Pöialpoiss"
+      },
+      {
+        "lang": "eu",
+        "name": "Mendi-erregetxo"
+      },
+      {
+        "lang": "fi",
+        "name": "Hippiäinen"
+      },
+      {
+        "lang": "fo",
+        "name": "Títlingskongur"
+      },
+      {
+        "lang": "fr",
+        "name": "Roitelet huppé"
+      },
+      {
+        "lang": "frr",
+        "name": "Wonterfögelkönang"
+      },
+      {
+        "lang": "fy",
+        "name": "Goudtûfke"
+      },
+      {
+        "lang": "ga",
+        "name": "Cíorbhuí"
+      },
+      {
+        "lang": "gl",
+        "name": "Estreliña do norte"
+      },
+      {
+        "lang": "hu",
+        "name": "Sárgafejű királyka"
+      },
+      {
+        "lang": "hy",
+        "name": "Արքայիկ դեղնագլուխ"
+      },
+      {
+        "lang": "is",
+        "name": "Glókollur"
+      },
+      {
+        "lang": "ja",
+        "name": "キクイタダキ"
+      },
+      {
+        "lang": "kbd",
+        "name": "Бзущхьэгъуэжь"
+      },
+      {
+        "lang": "lt",
+        "name": "Nykštukas"
+      },
+      {
+        "lang": "mrj",
+        "name": "Цуня"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudhaan"
+      },
+      {
+        "lang": "nn",
+        "name": "Fuglekonge"
+      },
+      {
+        "lang": "no",
+        "name": "Fuglekonge"
+      },
+      {
+        "lang": "pcd",
+        "name": "Rotelot"
+      },
+      {
+        "lang": "pl",
+        "name": "Mysikrólik zwyczajny"
+      },
+      {
+        "lang": "pt",
+        "name": "Estrelinha-de-poupa"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтоголовый королёк"
+      },
+      {
+        "lang": "rue",
+        "name": "Королик"
+      },
+      {
+        "lang": "se",
+        "name": "Loddegonagas"
+      },
+      {
+        "lang": "sk",
+        "name": "Králik zlatohlavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Kungsfågel"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı çalı kuşu"
+      },
+      {
+        "lang": "vec",
+        "name": "Stelin"
+      },
+      {
+        "lang": "uk",
+        "name": "Золотомушка жовточуба"
+      },
+      {
+        "lang": "zh",
+        "name": "戴菊"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Regulus madeirensis",
+    "common_names": [
+      {
+        "lang": "an",
+        "name": "Clabelet de Madeira"
+      },
+      {
+        "lang": "ca",
+        "name": "Bruel de Madeira"
+      },
+      {
+        "lang": "de",
+        "name": "Madeiragoldhähnchen"
+      },
+      {
+        "lang": "en",
+        "name": "Madeira Firecrest"
+      },
+      {
+        "lang": "es",
+        "name": "Reyezuelo de Madeira"
+      },
+      {
+        "lang": "eo",
+        "name": "Madejra regolo"
+      },
+      {
+        "lang": "fi",
+        "name": "Madeiranhippiäinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Roitelet de Madère"
+      },
+      {
+        "lang": "nl",
+        "name": "Madeiragoudhaan"
+      },
+      {
+        "lang": "pt",
+        "name": "Bis-bis"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадейрский королёк"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Regulus ignicapilla",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Червеноглаво кралче"
+      },
+      {
+        "lang": "br",
+        "name": "Dreolan kabell flamm"
+      },
+      {
+        "lang": "ca",
+        "name": "Bruel"
+      },
+      {
+        "lang": "cs",
+        "name": "Králíček ohnivý"
+      },
+      {
+        "lang": "da",
+        "name": "Rødtoppet Fuglekonge"
+      },
+      {
+        "lang": "de",
+        "name": "Sommergoldhähnchen"
+      },
+      {
+        "lang": "el",
+        "name": "πυροβασιλίσκος"
+      },
+      {
+        "lang": "en",
+        "name": "Common Firecrest"
+      },
+      {
+        "lang": "es",
+        "name": "Reyezuelo listado"
+      },
+      {
+        "lang": "fi",
+        "name": "Tulipäähippiäinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Roitelet triple-bandeau"
+      },
+      {
+        "lang": "frr",
+        "name": "Somerfögelkönang"
+      },
+      {
+        "lang": "fy",
+        "name": "Fjoertûfke"
+      },
+      {
+        "lang": "gl",
+        "name": "Estreliña riscada"
+      },
+      {
+        "lang": "hu",
+        "name": "Tüzesfejű királyka"
+      },
+      {
+        "lang": "is",
+        "name": "Glókollur"
+      },
+      {
+        "lang": "it",
+        "name": "Fiorrancino"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltabruvis nykštukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Vuurgoudhaantje"
+      },
+      {
+        "lang": "no",
+        "name": "Rødtoppfuglekonge"
+      },
+      {
+        "lang": "pl",
+        "name": "Zniczek"
+      },
+      {
+        "lang": "pt",
+        "name": "Estrelinha-de-cabeça-listada"
+      },
+      {
+        "lang": "sk",
+        "name": "Králik ohnivohlavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Brandkronad Kungsfågel"
+      },
+      {
+        "lang": "tr",
+        "name": "Sürmeli çalı kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Regulus goodfellowi",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Taiwaninhippiäinen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Regulus calendula",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Dreolan kabell ruz"
+      },
+      {
+        "lang": "cs",
+        "name": "králíček americký"
+      },
+      {
+        "lang": "da",
+        "name": "Rubinfuglekonge"
+      },
+      {
+        "lang": "de",
+        "name": "Rubingoldhähnchen"
+      },
+      {
+        "lang": "en",
+        "name": "Ruby-crowned Kinglet"
+      },
+      {
+        "lang": "eo",
+        "name": "Rubenkrona regolo"
+      },
+      {
+        "lang": "es",
+        "name": "Reyezuelo Rubí"
+      },
+      {
+        "lang": "et",
+        "name": "rubiin-pöialpoiss"
+      },
+      {
+        "lang": "fi",
+        "name": "rubiinihippiäinen"
+      },
+      {
+        "lang": "fo",
+        "name": "Krúnureyður títlingskongur"
+      },
+      {
+        "lang": "fr",
+        "name": "Roitelet à couronne rubis"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti Kouwòn wouj"
+      },
+      {
+        "lang": "hu",
+        "name": "Alaszkai királyka"
+      },
+      {
+        "lang": "is",
+        "name": "Rauðkollur"
+      },
+      {
+        "lang": "it",
+        "name": "Regolo americano"
+      },
+      {
+        "lang": "ja",
+        "name": "ルビアキクイタダキ",
+        "synonyms": [
+          "rubi-kikuitadaki"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Raudongalvis nykštukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkroonhaan"
+      },
+      {
+        "lang": "no",
+        "name": "Rubinfuglekonge"
+      },
+      {
+        "lang": "pl",
+        "name": "ogniczek"
+      },
+      {
+        "lang": "pt",
+        "name": "Estrelinha-de-fogo"
+      },
+      {
+        "lang": "ru",
+        "name": "Рубиновоголовый королёк"
+      },
+      {
+        "lang": "sk",
+        "name": "králik rubínovohlavý"
+      },
+      {
+        "lang": "sl",
+        "name": "rubinastoglavi kraljiček"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödkronad kungsfågel"
+      },
+      {
+        "lang": "tr",
+        "name": "Yakut tepeli çalı kuşu"
+      },
+      {
+        "lang": "zh",
+        "name": "红冠戴菊"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Regulus bulgaricus",
+    "common_names": []
+  }
+]

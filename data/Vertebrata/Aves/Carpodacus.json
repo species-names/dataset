@@ -1,0 +1,636 @@
+[
+  {
+    "scientific_name": "Carpodacus waltoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pink-rumped Rosefinch"
+      },
+      {
+        "lang": "ja",
+        "name": "バラゴシマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus vinaceus",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "タカサゴマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus verreauxii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sharpe's Rosefinch"
+      },
+      {
+        "lang": "es",
+        "name": "Camachuelo de Verreaux"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin de Verreaux"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus trifasciatus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bindengimpel"
+      },
+      {
+        "lang": "en",
+        "name": "Three-banded rosefinch"
+      },
+      {
+        "lang": "es",
+        "name": "Camachuelo tribarrado"
+      },
+      {
+        "lang": "fi",
+        "name": "Kirjopunavarpunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin à trois bandes"
+      },
+      {
+        "lang": "hu",
+        "name": "Örvös pirók"
+      },
+      {
+        "lang": "ja",
+        "name": "ミスジマシコ"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbukig rosenfink"
+      },
+      {
+        "lang": "zn",
+        "name": "斑翅朱雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus thura",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Thuragimpel"
+      },
+      {
+        "lang": "en",
+        "name": "Himalayan white-browed rosefinch"
+      },
+      {
+        "lang": "es",
+        "name": "Camachuelo de Thura"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin de Thura"
+      },
+      {
+        "lang": "hu",
+        "name": "Barnásfehér pirók"
+      },
+      {
+        "lang": "ja",
+        "name": "マミジロマシコ"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbrynad rosenfink"
+      },
+      {
+        "lang": "zh",
+        "name": "白眉朱雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus synoicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pale Rosefinch"
+      },
+      {
+        "lang": "ja",
+        "name": "サバクマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus subhimachalus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rhododendrongimpel"
+      },
+      {
+        "lang": "en",
+        "name": "Crimson-browed Finch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus stoliczkae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pale Rosefinch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus sipahi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scarlet Finch"
+      },
+      {
+        "lang": "ja",
+        "name": "シュイロマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus sibiricus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Beran lostek"
+      },
+      {
+        "lang": "de",
+        "name": "Meisengimpel"
+      },
+      {
+        "lang": "en",
+        "name": "Long-tailed Rosefinch"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin à longue queue"
+      },
+      {
+        "lang": "hu",
+        "name": "Hosszúfarkú pirók"
+      },
+      {
+        "lang": "ja",
+        "name": "ベニマシコ"
+      },
+      {
+        "lang": "no",
+        "name": "Langhalefink"
+      },
+      {
+        "lang": "sv",
+        "name": "Långstjärtad rosenfink"
+      },
+      {
+        "lang": "tr",
+        "name": "Uzun kuyruklu çütre"
+      },
+      {
+        "lang": "zh",
+        "name": "长尾雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus rubicilloides",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "セスジシロボシマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus rubicilla",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "シロボシマシコ"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük çütre"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus rubescens",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carpodacus roseus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Сибирска чинка"
+      },
+      {
+        "lang": "br",
+        "name": "Beran-Pallas"
+      },
+      {
+        "lang": "ca",
+        "name": "Pinsà rosat"
+      },
+      {
+        "lang": "de",
+        "name": "Rosengimpel"
+      },
+      {
+        "lang": "en",
+        "name": "Pallas's Rosefinch"
+      },
+      {
+        "lang": "es",
+        "name": "Camachuelo de Pallas"
+      },
+      {
+        "lang": "eo",
+        "name": "Roza karpodako"
+      },
+      {
+        "lang": "fi",
+        "name": "Taigapunavarpunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin rose"
+      },
+      {
+        "lang": "hu",
+        "name": "Rózsás pirók"
+      },
+      {
+        "lang": "ja",
+        "name": "オオマシコ"
+      },
+      {
+        "lang": "mn",
+        "name": "Ягаан бужмар"
+      },
+      {
+        "lang": "nl",
+        "name": "Pallas' roodmus"
+      },
+      {
+        "lang": "no",
+        "name": "Karminfink"
+      },
+      {
+        "lang": "ru",
+        "name": "Сибирская чечевица"
+      },
+      {
+        "lang": "sah",
+        "name": "Сибиир тыллаах чыычааҕа"
+      },
+      {
+        "lang": "sv",
+        "name": "Sibirisk rosenfink"
+      },
+      {
+        "lang": "uk",
+        "name": "Чечевиця сибірська"
+      },
+      {
+        "lang": "zh",
+        "name": "北朱雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus rodopeplus",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "フタスジマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus rodochroa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pink-browed Rosefinch"
+      },
+      {
+        "lang": "ja",
+        "name": "バラマユマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus roborowskii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Roborowskigimpel"
+      },
+      {
+        "lang": "en",
+        "name": "Tibetan Rosefinch"
+      },
+      {
+        "lang": "es",
+        "name": "Camachuelo de Roborowski"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin de Roborowski"
+      },
+      {
+        "lang": "ja",
+        "name": "ハネナガマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus rhodochlamys",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rosenmantelgimpel"
+      },
+      {
+        "lang": "en",
+        "name": "Red-mantled rosefinch"
+      },
+      {
+        "lang": "es",
+        "name": "Camachuelo dorsirrojo"
+      },
+      {
+        "lang": "fi",
+        "name": "Pensaspunavarpunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin à dos rouge"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒゴロモマシコ"
+      },
+      {
+        "lang": "kk",
+        "name": "Арашашыл құралай"
+      },
+      {
+        "lang": "mn",
+        "name": "Арцны бужмар"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosaryggig rosenfink"
+      },
+      {
+        "lang": "zh",
+        "name": "红腰朱雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus purpureus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carpodacus puniceus",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "ムネアカマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus pulcherrimus",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "コウザンマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus nipalensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carpodacus mexicanus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carpodacus grandis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blyth's Rosefinch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus formosanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Taiwan Rosefinch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus ferreorostris",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bonin-Kernbeißer"
+      },
+      {
+        "lang": "en",
+        "name": "Bonin Grosbeak"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin des Bonin"
+      },
+      {
+        "lang": "hu",
+        "name": "Bonin-szigeteki meggyvágó"
+      },
+      {
+        "lang": "ja",
+        "name": "オガサワラマシコ"
+      },
+      {
+        "lang": "pl",
+        "name": "Łuskówka"
+      },
+      {
+        "lang": "zh",
+        "name": "笠原臘嘴雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus erythrinus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Червена чинка"
+      },
+      {
+        "lang": "br",
+        "name": "Beran skarlek"
+      },
+      {
+        "lang": "cs",
+        "name": "Hýl rudý"
+      },
+      {
+        "lang": "da",
+        "name": "Karmindompap"
+      },
+      {
+        "lang": "de",
+        "name": "Karmingimpel"
+      },
+      {
+        "lang": "en",
+        "name": "Common Rosefinch"
+      },
+      {
+        "lang": "es",
+        "name": "Camachuelo Carminoso"
+      },
+      {
+        "lang": "et",
+        "name": "Karmiinleevike"
+      },
+      {
+        "lang": "fi",
+        "name": "Punavarpunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin cramoisi"
+      },
+      {
+        "lang": "hu",
+        "name": "Karmazsinpirók"
+      },
+      {
+        "lang": "hy",
+        "name": "Ոսպնուկ սովորական"
+      },
+      {
+        "lang": "it",
+        "name": "Ciuffolotto scarlatto"
+      },
+      {
+        "lang": "ja",
+        "name": "アカマシコ"
+      },
+      {
+        "lang": "lt",
+        "name": "Raudongalvė sniegena"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodmus"
+      },
+      {
+        "lang": "nn",
+        "name": "Rosenfink"
+      },
+      {
+        "lang": "no",
+        "name": "Rosenfink"
+      },
+      {
+        "lang": "pl",
+        "name": "Dziwonia"
+      },
+      {
+        "lang": "pt",
+        "name": "Pintarroxo-vermelho"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенная чечевица"
+      },
+      {
+        "lang": "sah",
+        "name": "Тыллаах чыычаах"
+      },
+      {
+        "lang": "sk",
+        "name": "Hýľ karmínový"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosenfink"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı çütre"
+      },
+      {
+        "lang": "uk",
+        "name": "Турок звичайний"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus edwardsii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dark-rumped Rosefinch"
+      },
+      {
+        "lang": "ja",
+        "name": "チャゴシマシコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus dubius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chinese White-browed Rosefinch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus davidianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chinese Beautiful Rosefinch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carpodacus cassinii",
+    "common_names": []
+  }
+]

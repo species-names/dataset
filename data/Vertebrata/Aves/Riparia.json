@@ -1,0 +1,409 @@
+[
+  {
+    "scientific_name": "Riparia riparia",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Europese oewerswael"
+      },
+      {
+        "lang": "ar",
+        "name": "سنونو الرمل"
+      },
+      {
+        "lang": "ast",
+        "name": "Andarina de Ríu"
+      },
+      {
+        "lang": "az",
+        "name": "Adi sahil qaranquşu"
+      },
+      {
+        "lang": "ba",
+        "name": "Яр ҡарлуғасы"
+      },
+      {
+        "lang": "be",
+        "name": "Берагоўая ластаўка"
+      },
+      {
+        "lang": "bg",
+        "name": "Брегова лястовица"
+      },
+      {
+        "lang": "bn",
+        "name": "বালু নাকুটি"
+      },
+      {
+        "lang": "br",
+        "name": "Gwennili-vriell"
+      },
+      {
+        "lang": "ca",
+        "name": "Oreneta de ribera"
+      },
+      {
+        "lang": "cs",
+        "name": "Břehule říční"
+      },
+      {
+        "lang": "csb",
+        "name": "Wierzgùlëca"
+      },
+      {
+        "lang": "cw",
+        "name": "Gwennol tewas"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol y Glennydd"
+      },
+      {
+        "lang": "da",
+        "name": "Digesvale"
+      },
+      {
+        "lang": "de",
+        "name": "Uferschwalbe"
+      },
+      {
+        "lang": "dsb",
+        "name": "Mały šnapac"
+      },
+      {
+        "lang": "el",
+        "name": "Βαλτοχελίδονο"
+      },
+      {
+        "lang": "en",
+        "name": "Sand Martin"
+      },
+      {
+        "lang": "en-us",
+        "name": "Bank Swallow"
+      },
+      {
+        "lang": "eo",
+        "name": "Bordhirundo"
+      },
+      {
+        "lang": "es",
+        "name": "Avión zapador"
+      },
+      {
+        "lang": "et",
+        "name": "Kaldapääsuke"
+      },
+      {
+        "lang": "eu",
+        "name": "Uhalde-enara"
+      },
+      {
+        "lang": "fi",
+        "name": "Törmäpääsky"
+      },
+      {
+        "lang": "fo",
+        "name": "Áarsvala"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle de rivage"
+      },
+      {
+        "lang": "frr",
+        "name": "Sunswaalk"
+      },
+      {
+        "lang": "fur",
+        "name": "Pic piçul"
+      },
+      {
+        "lang": "fy",
+        "name": "Ierdswel"
+      },
+      {
+        "lang": "ga",
+        "name": "Bruachalán"
+      },
+      {
+        "lang": "gd",
+        "name": "Gobhlan gainbhich"
+      },
+      {
+        "lang": "gl",
+        "name": "Andoriña das barreiras"
+      },
+      {
+        "lang": "gn",
+        "name": "Mbyju'i"
+      },
+      {
+        "lang": "gv",
+        "name": "Gollan Geinnee"
+      },
+      {
+        "lang": "he",
+        "name": "כוכית גדות"
+      },
+      {
+        "lang": "hr",
+        "name": "Bregunica"
+      },
+      {
+        "lang": "ht",
+        "name": "Irondèl kolye senp"
+      },
+      {
+        "lang": "hu",
+        "name": "Partifecske"
+      },
+      {
+        "lang": "hy",
+        "name": "Առափնյա ծիծեռնակ"
+      },
+      {
+        "lang": "id",
+        "name": "Layanglayang Pasir"
+      },
+      {
+        "lang": "is",
+        "name": "Bakkasvala"
+      },
+      {
+        "lang": "it",
+        "name": "Topino"
+      },
+      {
+        "lang": "ja",
+        "name": "ショウドウツバメ"
+      },
+      {
+        "lang": "ka",
+        "name": "მენაპირე მერცხალი"
+      },
+      {
+        "lang": "kbd",
+        "name": "ПсыхъуэпцӀащхъуэ"
+      },
+      {
+        "lang": "kjn",
+        "name": "Харлыгас"
+      },
+      {
+        "lang": "kk",
+        "name": "Жар қарлығашы"
+      },
+      {
+        "lang": "ko",
+        "name": "갈색제비"
+      },
+      {
+        "lang": "ku",
+        "name": "Sîvanok"
+      },
+      {
+        "lang": "kwn",
+        "name": "Sisampamema"
+      },
+      {
+        "lang": "lld",
+        "name": "Becalen pice"
+      },
+      {
+        "lang": "lt",
+        "name": "Urvinė kregždė"
+      },
+      {
+        "lang": "lv",
+        "name": "Krastu čurkste"
+      },
+      {
+        "lang": "mk",
+        "name": "Песочна ластовица"
+      },
+      {
+        "lang": "mn",
+        "name": "Элсэн хараацай"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ляркӓ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Layang-layang Awan"
+      },
+      {
+        "lang": "mt",
+        "name": "îawwiefa tax-Xtut"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Zaandzwelver"
+      },
+      {
+        "lang": "nl",
+        "name": "Oeverzwaluw"
+      },
+      {
+        "lang": "nn",
+        "name": "Sandsvale"
+      },
+      {
+        "lang": "no",
+        "name": "Sandsvale"
+      },
+      {
+        "lang": "oc",
+        "name": "Pic pichòt"
+      },
+      {
+        "lang": "pcd",
+        "name": "Tarou"
+      },
+      {
+        "lang": "pl",
+        "name": "Jaskółka brzegówka"
+      },
+      {
+        "lang": "pt",
+        "name": "Andorinha-das-barreiras"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Andorinha-do-barranco"
+      },
+      {
+        "lang": "rm",
+        "name": "Pitgalain pitschen"
+      },
+      {
+        "lang": "ro",
+        "name": "Lăstun"
+      },
+      {
+        "lang": "ru",
+        "name": "Береговушка"
+      },
+      {
+        "lang": "rue",
+        "name": "Ластівка берегівка"
+      },
+      {
+        "lang": "se",
+        "name": "Derpmoš"
+      },
+      {
+        "lang": "sk",
+        "name": "Brehuľa hnedá"
+      },
+      {
+        "lang": "sl",
+        "name": "Breguljka"
+      },
+      {
+        "lang": "sn",
+        "name": "Nyenganyenga"
+      },
+      {
+        "lang": "sq",
+        "name": "Dallëndyshe e lummit"
+      },
+      {
+        "lang": "sr",
+        "name": "Lasta bregunica - Ласта брегуница"
+      },
+      {
+        "lang": "sv",
+        "name": "Backsvala"
+      },
+      {
+        "lang": "sw",
+        "name": "Kinegwa wa Kizungu"
+      },
+      {
+        "lang": "th",
+        "name": "นกนางแอ่นทรายสร้อยคอดำ"
+      },
+      {
+        "lang": "tr",
+        "name": "Kum kırlangıcı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Эрик хараачыгайы"
+      },
+      {
+        "lang": "uk",
+        "name": "Ластівка берегова"
+      },
+      {
+        "lang": "vep",
+        "name": "Malind"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhạn nâu xám"
+      },
+      {
+        "lang": "zh",
+        "name": "崖沙燕"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "灰沙燕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Riparia paludicola",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Afrikaanse oewerswael"
+      },
+      {
+        "lang": "en",
+        "name": "Brown-throated Sand Martin",
+        "synonyms": [
+          "Plain Martin"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle paludicole"
+      },
+      {
+        "lang": "ja",
+        "name": "タイワンショウドウツバメ"
+      },
+      {
+        "lang": "nl",
+        "name": "Vale oeverzwaluw"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Riparia diluta",
+    "common_names": [
+      {
+        "lang": "sk",
+        "name": "Brehuľa hnedá"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Riparia congica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Riparia cincta",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Banded Martin"
+      }
+    ]
+  }
+]

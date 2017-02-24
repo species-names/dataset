@@ -1,0 +1,444 @@
+[
+  {
+    "scientific_name": "Loxia scotica",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Skotske Korsnæb"
+      },
+      {
+        "lang": "en",
+        "name": "Scottish Crossbill"
+      },
+      {
+        "lang": "fi",
+        "name": "Skotlanninkäpylintu"
+      },
+      {
+        "lang": "ja",
+        "name": "スコットランドイスカ"
+      },
+      {
+        "lang": "pl",
+        "name": "Krzyżodziób szkocki"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Loxia pytyopsittacus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Beg-kroaz peroked"
+      },
+      {
+        "lang": "cs",
+        "name": "Křivka velká"
+      },
+      {
+        "lang": "da",
+        "name": "Stor Korsnæb"
+      },
+      {
+        "lang": "de",
+        "name": "Kiefernkreuzschnabel"
+      },
+      {
+        "lang": "en",
+        "name": "Parrot Crossbill"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda krucbekulo"
+      },
+      {
+        "lang": "et",
+        "name": "Männi-käbilind"
+      },
+      {
+        "lang": "fi",
+        "name": "Isokäpylintu"
+      },
+      {
+        "lang": "fo",
+        "name": "Stórt krossnev"
+      },
+      {
+        "lang": "fr",
+        "name": "Bec-croisé perroquet"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy keresztcsőrű"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシブトイスカ"
+      },
+      {
+        "lang": "lt",
+        "name": "Pušinis kryžiasnapis"
+      },
+      {
+        "lang": "lv",
+        "name": "Priežu krustknābis"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote kruisbek"
+      },
+      {
+        "lang": "nn",
+        "name": "Furukrossnebb"
+      },
+      {
+        "lang": "no",
+        "name": "Furukorsnebb"
+      },
+      {
+        "lang": "pl",
+        "name": "Krzyżodziób sosnowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Клёст-сосновик"
+      },
+      {
+        "lang": "rue",
+        "name": "Сосновик"
+      },
+      {
+        "lang": "sv",
+        "name": "Större korsnäbb"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Loxia megaplaga",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Loxia leucoptera",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Белокрила кръсточовка"
+      },
+      {
+        "lang": "br",
+        "name": "Beg-kroaz divrezenn"
+      },
+      {
+        "lang": "cs",
+        "name": "křivka bělokřídlá"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidvinget korsnæb"
+      },
+      {
+        "lang": "de",
+        "name": "Bindenkreuzschnabel"
+      },
+      {
+        "lang": "en",
+        "name": "Two-barred Crossbill",
+        "synonyms": [
+          "White-winged Crossbill"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Rubanda krucbekulo"
+      },
+      {
+        "lang": "es",
+        "name": "Piquituerto aliblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Vööt-käbilind"
+      },
+      {
+        "lang": "fi",
+        "name": "kirjosiipikäpylintu"
+      },
+      {
+        "lang": "fo",
+        "name": "Vongblikut krossnev"
+      },
+      {
+        "lang": "fr",
+        "name": "Bec-croisé bifascié"
+      },
+      {
+        "lang": "hu",
+        "name": "Szalagos keresztcsőrű"
+      },
+      {
+        "lang": "ik",
+        "name": "Siyyuum kipifaruq"
+      },
+      {
+        "lang": "is",
+        "name": "Víxlnefur"
+      },
+      {
+        "lang": "it",
+        "name": "Crociere fasciato"
+      },
+      {
+        "lang": "ja",
+        "name": "ナキイスカ",
+        "synonyms": [
+          "Nakiisuka"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Margasparnis kryžiasnapis"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltsvītru krustknābis"
+      },
+      {
+        "lang": "mn",
+        "name": "Тольт солбинхушуут"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbandkruisbek"
+      },
+      {
+        "lang": "no",
+        "name": "Båndkorsnebb"
+      },
+      {
+        "lang": "pl",
+        "name": "krzyżodziób modrzewiowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Cruza-bico-franjado"
+      },
+      {
+        "lang": "ru",
+        "name": "Белокрылый клёст"
+      },
+      {
+        "lang": "sah",
+        "name": "Тиит ымыыта"
+      },
+      {
+        "lang": "sk",
+        "name": "krivonos bielokrídly"
+      },
+      {
+        "lang": "sv",
+        "name": "Bändelkorsnäbb"
+      },
+      {
+        "lang": "udm",
+        "name": "Тӧдьы бурдо кайсы"
+      },
+      {
+        "lang": "zh",
+        "name": "白翅交嘴雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Loxia curvirostra",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "طائر الهزار"
+      },
+      {
+        "lang": "ba",
+        "name": "Шыршы турғайы"
+      },
+      {
+        "lang": "bg",
+        "name": "Обикновена кръсточовка"
+      },
+      {
+        "lang": "br",
+        "name": "Beg-kroaz-sapr"
+      },
+      {
+        "lang": "ca",
+        "name": "Trencapinyes"
+      },
+      {
+        "lang": "cs",
+        "name": "Křivka obecná"
+      },
+      {
+        "lang": "cv",
+        "name": "Чăрăш кукăрсăмси"
+      },
+      {
+        "lang": "cy",
+        "name": "Gylfin Groes"
+      },
+      {
+        "lang": "da",
+        "name": "Lille Korsnæb"
+      },
+      {
+        "lang": "de",
+        "name": "Fichtenkreuzschnabel"
+      },
+      {
+        "lang": "en",
+        "name": "Red Crossbill"
+      },
+      {
+        "lang": "eo",
+        "name": "Malgranda krucbekulo"
+      },
+      {
+        "lang": "es",
+        "name": "Piquitureto Común"
+      },
+      {
+        "lang": "et",
+        "name": "Kuuse-käbilind"
+      },
+      {
+        "lang": "eu",
+        "name": "Mokoker"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkukäpylintu"
+      },
+      {
+        "lang": "fo",
+        "name": "Krossnev"
+      },
+      {
+        "lang": "fr",
+        "name": "Bec-croisé des sapins"
+      },
+      {
+        "lang": "frr",
+        "name": "Borfink"
+      },
+      {
+        "lang": "gd",
+        "name": "Cam-ghob"
+      },
+      {
+        "lang": "gl",
+        "name": "Bicotorto común"
+      },
+      {
+        "lang": "hu",
+        "name": "Keresztcsőrű"
+      },
+      {
+        "lang": "hy",
+        "name": "Խաչկտուց եղևնու"
+      },
+      {
+        "lang": "is",
+        "name": "Krossnefur"
+      },
+      {
+        "lang": "it",
+        "name": "Crociere"
+      },
+      {
+        "lang": "ja",
+        "name": "イスカ"
+      },
+      {
+        "lang": "ka",
+        "name": "ნისკარტმარწუხა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Пэкъыу"
+      },
+      {
+        "lang": "kk",
+        "name": "Шыршашыл қайшыауыз"
+      },
+      {
+        "lang": "ko",
+        "name": "솔잣새"
+      },
+      {
+        "lang": "lt",
+        "name": "Eglinis kryžiasnapis"
+      },
+      {
+        "lang": "lv",
+        "name": "Egļu krustknābis"
+      },
+      {
+        "lang": "mrj",
+        "name": "Важыкнер"
+      },
+      {
+        "lang": "nap",
+        "name": "Pizzestuorto"
+      },
+      {
+        "lang": "nl",
+        "name": "Kruisbek"
+      },
+      {
+        "lang": "nn",
+        "name": "Grankrossnebb"
+      },
+      {
+        "lang": "no",
+        "name": "Grankorsnebb"
+      },
+      {
+        "lang": "pl",
+        "name": "Krzyżodziób świerkowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Cruza-bico"
+      },
+      {
+        "lang": "ru",
+        "name": "Клёст-еловик"
+      },
+      {
+        "lang": "rue",
+        "name": "Кривоніс"
+      },
+      {
+        "lang": "sk",
+        "name": "Krivonos smrekový"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre korsnäbb"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı çaprazgaga"
+      },
+      {
+        "lang": "uk",
+        "name": "Ялиновий шишкар"
+      },
+      {
+        "lang": "vec",
+        "name": "Crossnobel"
+      },
+      {
+        "lang": "zh",
+        "name": "紅交嘴雀"
+      }
+    ]
+  }
+]

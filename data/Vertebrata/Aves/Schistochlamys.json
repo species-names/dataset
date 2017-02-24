@@ -1,0 +1,31 @@
+[
+  {
+    "scientific_name": "Schistochlamys ruficapillus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Bico-de-veludo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Schistochlamys melanopis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-faced Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Bico-de-veludo",
+        "synonyms": [
+          "Tiê-cinza"
+        ]
+      }
+    ]
+  }
+]

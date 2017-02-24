@@ -1,0 +1,771 @@
+[
+  {
+    "scientific_name": "Fringilla teydea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tenerife Blue Chaffinch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón azul del Teide"
+      },
+      {
+        "lang": "fr",
+        "name": "Pinson bleu de Tenerife"
+      },
+      {
+        "lang": "it",
+        "name": "Fringuello azzurro de Tenerife"
+      },
+      {
+        "lang": "ja",
+        "name": "カナリーアオアトリ"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåfink"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi ispinoz"
+      },
+      {
+        "lang": "pl",
+        "name": "Zięba modra"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fringilla polatzeki",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Gran Canaria Fink"
+      },
+      {
+        "lang": "en",
+        "name": "Gran Canaria Blue Chaffinch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón azul de Gran Canaria"
+      },
+      {
+        "lang": "fr",
+        "name": "Pinson bleu de Grande Canarie"
+      },
+      {
+        "lang": "it",
+        "name": "Fringuello azzurro della Gran Canaria"
+      },
+      {
+        "lang": "ja",
+        "name": "グラン・カナリア島 カナリーアオアトリ"
+      },
+      {
+        "lang": "sv",
+        "name": "Gran Canaria blåfink"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi ispinoz"
+      },
+      {
+        "lang": "pl",
+        "name": "Zięba modra"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fringilla montifringilla",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الشرشور",
+        "synonyms": [
+          "شرشور جبلي"
+        ]
+      },
+      {
+        "lang": "ast",
+        "name": "Pimpím Rial"
+      },
+      {
+        "lang": "aze",
+        "name": "Monqol sərçə"
+      },
+      {
+        "lang": "ba",
+        "name": "Аҡбауыр турғай"
+      },
+      {
+        "lang": "be",
+        "name": "Звычайны юрок"
+      },
+      {
+        "lang": "bg",
+        "name": "Планинска чинка"
+      },
+      {
+        "lang": "br",
+        "name": "Pint an hanternoz"
+      },
+      {
+        "lang": "ca",
+        "name": "Pinsà mè"
+      },
+      {
+        "lang": "cs",
+        "name": "Pěnkava jikavec"
+      },
+      {
+        "lang": "cy",
+        "name": "Pinc y Mynydd"
+      },
+      {
+        "lang": "da",
+        "name": "Kvækerfinke"
+      },
+      {
+        "lang": "de",
+        "name": "Bergfink"
+      },
+      {
+        "lang": "el",
+        "name": "Χειμωνόσπιννος"
+      },
+      {
+        "lang": "en",
+        "name": "Brambling"
+      },
+      {
+        "lang": "eo",
+        "name": "Montofringo"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón Real"
+      },
+      {
+        "lang": "et",
+        "name": "Põhjavint"
+      },
+      {
+        "lang": "eu",
+        "name": "Negu-txonta"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره دمگاه‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Järripeippo"
+      },
+      {
+        "lang": "fo",
+        "name": "Fjallígða"
+      },
+      {
+        "lang": "fr",
+        "name": "Pinson du Nord"
+      },
+      {
+        "lang": "fy",
+        "name": "Kwekfink"
+      },
+      {
+        "lang": "ga",
+        "name": "Breacán"
+      },
+      {
+        "lang": "gd",
+        "name": "Bricein Caorainn"
+      },
+      {
+        "lang": "gl",
+        "name": "Pimpín real"
+      },
+      {
+        "lang": "gv",
+        "name": "Corkan drine"
+      },
+      {
+        "lang": "he",
+        "name": "פרוש הרים"
+      },
+      {
+        "lang": "hr",
+        "name": "Sjeverna Zeba"
+      },
+      {
+        "lang": "hu",
+        "name": "Fenyőpinty"
+      },
+      {
+        "lang": "hy",
+        "name": "Սովորական սերինոս (Sovorakan serinos)"
+      },
+      {
+        "lang": "is",
+        "name": "Fjallafinka"
+      },
+      {
+        "lang": "it",
+        "name": "Peppola"
+      },
+      {
+        "lang": "ja",
+        "name": "アトリ (Atori)"
+      },
+      {
+        "lang": "ka",
+        "name": "მთიულა"
+      },
+      {
+        "lang": "kbd",
+        "name": "КъущхьэбзущӀэращӀэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Құнақ",
+        "synonyms": [
+          "Монғол торғай"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "되새"
+      },
+      {
+        "lang": "kv",
+        "name": "Пинькай"
+      },
+      {
+        "lang": "kw",
+        "name": "Tynk meneth"
+      },
+      {
+        "lang": "la",
+        "name": "Montifringilla"
+      },
+      {
+        "lang": "lb",
+        "name": "Éislécker Poufank"
+      },
+      {
+        "lang": "li",
+        "name": "Keep"
+      },
+      {
+        "lang": "lt",
+        "name": "Šiaurinis kikilis"
+      },
+      {
+        "lang": "lv",
+        "name": "Ziemas žubīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Планинска звингалка"
+      },
+      {
+        "lang": "mn",
+        "name": "Алаг бужирга"
+      },
+      {
+        "lang": "mrj",
+        "name": "Алавирӹк"
+      },
+      {
+        "lang": "mt",
+        "name": "Sponsun Selvaġġ"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Kweevink"
+      },
+      {
+        "lang": "nl",
+        "name": "Keep"
+      },
+      {
+        "lang": "nn",
+        "name": "Bjørkefink"
+      },
+      {
+        "lang": "no",
+        "name": "Bjørkefink"
+      },
+      {
+        "lang": "nrm",
+        "name": "Pînchon d'France"
+      },
+      {
+        "lang": "pl",
+        "name": "Jer"
+      },
+      {
+        "lang": "pt",
+        "name": "Tentilhão-montês"
+      },
+      {
+        "lang": "rm",
+        "name": "Fringhel dal nord"
+      },
+      {
+        "lang": "ro",
+        "name": "Cinteză de iarna"
+      },
+      {
+        "lang": "ru",
+        "name": "Вьюрок"
+      },
+      {
+        "lang": "rue",
+        "name": "Вюрок"
+      },
+      {
+        "lang": "sah",
+        "name": "Харыйа чыычааҕа"
+      },
+      {
+        "lang": "sco",
+        "name": "Cock o the north"
+      },
+      {
+        "lang": "se",
+        "name": "Vintán"
+      },
+      {
+        "lang": "sk",
+        "name": "Pinka ikavec"
+      },
+      {
+        "lang": "sl",
+        "name": "Pinoža"
+      },
+      {
+        "lang": "sq",
+        "name": "Zboraksi i malit"
+      },
+      {
+        "lang": "sr",
+        "name": "Планинска зеба"
+      },
+      {
+        "lang": "sv",
+        "name": "Bergfink"
+      },
+      {
+        "lang": "th",
+        "name": "นกจาบปีกอ่อนอกส้ม",
+        "synonyms": [
+          "นกจาบปีกอ่อนอกสีส้ม"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Dağ ispinozu"
+      },
+      {
+        "lang": "tyv",
+        "name": "Аърга ала бора-хөкпежи"
+      },
+      {
+        "lang": "uk",
+        "name": "В'юрок"
+      },
+      {
+        "lang": "vec",
+        "name": "Montan"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ dồng đầu đen"
+      },
+      {
+        "lang": "vls",
+        "name": "Nôordvienke"
+      },
+      {
+        "lang": "wa",
+        "name": "Fagnåd"
+      },
+      {
+        "lang": "zea",
+        "name": "Keepvinke"
+      },
+      {
+        "lang": "zh",
+        "name": "燕雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Fringilla coelebs",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gryskoppie"
+      },
+      {
+        "lang": "als",
+        "name": "Buchfink"
+      },
+      {
+        "lang": "an",
+        "name": "Pinzán"
+      },
+      {
+        "lang": "ar",
+        "name": "حسون الظالم"
+      },
+      {
+        "lang": "ast",
+        "name": "Pimpím"
+      },
+      {
+        "lang": "aze",
+        "name": "Garlı alacəhrə quşu"
+      },
+      {
+        "lang": "ba",
+        "name": "Алағанат турғай"
+      },
+      {
+        "lang": "be",
+        "name": "Берасцянка"
+      },
+      {
+        "lang": "bg",
+        "name": "Обикновена чинка"
+      },
+      {
+        "lang": "br",
+        "name": "Pint"
+      },
+      {
+        "lang": "ca",
+        "name": "Pinsà comú"
+      },
+      {
+        "lang": "co",
+        "name": "Pincionu"
+      },
+      {
+        "lang": "cs",
+        "name": "Pěnkava obecná"
+      },
+      {
+        "lang": "csb",
+        "name": "Wiszónk"
+      },
+      {
+        "lang": "cv",
+        "name": "Пимпĕ"
+      },
+      {
+        "lang": "cy",
+        "name": "Ji-binc"
+      },
+      {
+        "lang": "da",
+        "name": "Bogfinke"
+      },
+      {
+        "lang": "de",
+        "name": "Buchfink"
+      },
+      {
+        "lang": "el",
+        "name": "Φρυγίλλος ο άγαμος"
+      },
+      {
+        "lang": "en",
+        "name": "Common Chaffinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Fringo"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón vulgar"
+      },
+      {
+        "lang": "et",
+        "name": "Metsvint"
+      },
+      {
+        "lang": "eu",
+        "name": "Txonta arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره جنگلی"
+      },
+      {
+        "lang": "fi",
+        "name": "Peippo"
+      },
+      {
+        "lang": "fo",
+        "name": "Bókfinka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pinson des arbres"
+      },
+      {
+        "lang": "frr",
+        "name": "Bokfink"
+      },
+      {
+        "lang": "fy",
+        "name": "Skelfink"
+      },
+      {
+        "lang": "ga",
+        "name": "Rí Rua"
+      },
+      {
+        "lang": "gd",
+        "name": "Breacan-beithe"
+      },
+      {
+        "lang": "gl",
+        "name": "Pimpín"
+      },
+      {
+        "lang": "gv",
+        "name": "Ushag Veg Vreck"
+      },
+      {
+        "lang": "he",
+        "name": "פרוש מצוי"
+      },
+      {
+        "lang": "hr",
+        "name": "Zeba"
+      },
+      {
+        "lang": "hu",
+        "name": "Erdei pinty"
+      },
+      {
+        "lang": "hy",
+        "name": "Ամուրիկ (Amurik)"
+      },
+      {
+        "lang": "is",
+        "name": "Bókfinka"
+      },
+      {
+        "lang": "it",
+        "name": "Fringuello"
+      },
+      {
+        "lang": "ja",
+        "name": "ズアオアトリ"
+      },
+      {
+        "lang": "ka",
+        "name": "ნიბლია"
+      },
+      {
+        "lang": "kbd",
+        "name": "Румат"
+      },
+      {
+        "lang": "kk",
+        "name": "Жаурауық"
+      },
+      {
+        "lang": "ko",
+        "name": "푸른머리되새"
+      },
+      {
+        "lang": "ku",
+        "name": "Befrîk"
+      },
+      {
+        "lang": "kw",
+        "name": "Tynk"
+      },
+      {
+        "lang": "lb",
+        "name": "Poufank"
+      },
+      {
+        "lang": "li",
+        "name": "Bookvink"
+      },
+      {
+        "lang": "lt",
+        "name": "Kikilis"
+      },
+      {
+        "lang": "lv",
+        "name": "Žube"
+      },
+      {
+        "lang": "mk",
+        "name": "Зеба"
+      },
+      {
+        "lang": "mn",
+        "name": "Дуулгаат ээрүүл бялзуухай"
+      },
+      {
+        "lang": "mrj",
+        "name": "Пимба"
+      },
+      {
+        "lang": "mt",
+        "name": "Sponsun"
+      },
+      {
+        "lang": "nds",
+        "name": "Baukfink"
+      },
+      {
+        "lang": "nl",
+        "name": "Vink"
+      },
+      {
+        "lang": "nn",
+        "name": "Bokfink"
+      },
+      {
+        "lang": "no",
+        "name": "Bokfink"
+      },
+      {
+        "lang": "nrm",
+        "name": "Pînchon"
+      },
+      {
+        "lang": "oc",
+        "name": "Pinçon"
+      },
+      {
+        "lang": "pcd",
+        "name": "Pinchon"
+      },
+      {
+        "lang": "pl",
+        "name": "Zięba"
+      },
+      {
+        "lang": "pms",
+        "name": "Frangoj"
+      },
+      {
+        "lang": "pt",
+        "name": "Tentilhão"
+      },
+      {
+        "lang": "rm",
+        "name": "Fringhel"
+      },
+      {
+        "lang": "ro",
+        "name": "Cinteză"
+      },
+      {
+        "lang": "ru",
+        "name": "Зяблик"
+      },
+      {
+        "lang": "rue",
+        "name": "Зяблик"
+      },
+      {
+        "lang": "sah",
+        "name": "Эриэн кынат"
+      },
+      {
+        "lang": "sc",
+        "name": "Lineddu"
+      },
+      {
+        "lang": "scn",
+        "name": "Pinzuni"
+      },
+      {
+        "lang": "sco",
+        "name": "Shilfie"
+      },
+      {
+        "lang": "se",
+        "name": "Beibboš"
+      },
+      {
+        "lang": "sk",
+        "name": "Pinka lesná"
+      },
+      {
+        "lang": "sl",
+        "name": "Ščinkavec"
+      },
+      {
+        "lang": "sq",
+        "name": "Borës"
+      },
+      {
+        "lang": "sr",
+        "name": "Зеба"
+      },
+      {
+        "lang": "sv",
+        "name": "Bofink"
+      },
+      {
+        "lang": "th",
+        "name": "นกจาบปีกอ่อนหัวเทาอกชมพู"
+      },
+      {
+        "lang": "tl",
+        "name": "Pinson"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı ispinoz"
+      },
+      {
+        "lang": "tyv",
+        "name": "Агаар медээчизи"
+      },
+      {
+        "lang": "uk",
+        "name": "Зяблик"
+      },
+      {
+        "lang": "vec",
+        "name": "Finco"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ khướu"
+      },
+      {
+        "lang": "vls",
+        "name": "Vienke"
+      },
+      {
+        "lang": "wa",
+        "name": "Pénson do payis"
+      },
+      {
+        "lang": "zea",
+        "name": "Vienk"
+      },
+      {
+        "lang": "zh",
+        "name": "苍头燕雀"
+      }
+    ]
+  }
+]

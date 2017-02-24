@@ -1,0 +1,32 @@
+[
+  {
+    "scientific_name": "Certhidea olivacea",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Kerttusirkku"
+      },
+      {
+        "lang": "en",
+        "name": "Green warbler-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzon de Darwin oliváceo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Certhidea fusca",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey warbler-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzon de Darwin gris"
+      }
+    ]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "scientific_name": "Parus monticolus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sýkora zelenohřbetá"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Parus minor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Japanese Tit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Parus major",
+    "common_names": [
+      {
+        "lang": "ang",
+        "name": "Spicmāse"
+      },
+      {
+        "lang": "ar",
+        "name": "الغراب الزيتوني"
+      },
+      {
+        "lang": "az",
+        "name": "İri arıquş"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡарабаш турғай",
+        "synonyms": [
+          "Mайсыл турғай"
+        ]
+      },
+      {
+        "lang": "bar",
+        "name": "Soogschneider"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Dėdliuojė zīlė"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям синигер"
+      },
+      {
+        "lang": "br",
+        "name": "Pennglaou"
+      },
+      {
+        "lang": "ca",
+        "name": "Mallerenga carbonera"
+      },
+      {
+        "lang": "co",
+        "name": "Ciattola capiniella"
+      },
+      {
+        "lang": "cs",
+        "name": "Sýkora koňadra"
+      },
+      {
+        "lang": "csb",
+        "name": "Czibaba"
+      },
+      {
+        "lang": "cv",
+        "name": "Пысăк кăсăя"
+      },
+      {
+        "lang": "cy",
+        "name": "Titw Mawr"
+      },
+      {
+        "lang": "da",
+        "name": "Musvit"
+      },
+      {
+        "lang": "de",
+        "name": "Kohlmeise"
+      },
+      {
+        "lang": "el",
+        "name": "Καλόγερος",
+        "synonyms": [
+          "Παπαδίτσα"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Great Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda paruo"
+      },
+      {
+        "lang": "es",
+        "name": "Carbonero común"
+      },
+      {
+        "lang": "et",
+        "name": "Rasvatihane"
+      },
+      {
+        "lang": "eu",
+        "name": "Kaskabeltz handia"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخریسک بزرگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Talitiainen"
+      },
+      {
+        "lang": "fo",
+        "name": "Stórtíta"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange charbonnière"
+      },
+      {
+        "lang": "frr",
+        "name": "Tualagbitjer"
+      },
+      {
+        "lang": "fy",
+        "name": "Blokmies"
+      },
+      {
+        "lang": "ga",
+        "name": "Meantán mór"
+      },
+      {
+        "lang": "gl",
+        "name": "Ferreiriño abelleiro"
+      },
+      {
+        "lang": "he",
+        "name": "ירגזי מצוי"
+      },
+      {
+        "lang": "hi",
+        "name": "रामगंगरा",
+        "synonyms": [
+          "Ramgangara"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Velika sjenica"
+      },
+      {
+        "lang": "hu",
+        "name": "Széncinege"
+      },
+      {
+        "lang": "hy",
+        "name": "Երաշտահավ մեծ"
+      },
+      {
+        "lang": "id",
+        "name": "Gelatik batu"
+      },
+      {
+        "lang": "is",
+        "name": "Flotmeisa"
+      },
+      {
+        "lang": "it",
+        "name": "Cinciallegra"
+      },
+      {
+        "lang": "ja",
+        "name": "シジュウカラ科"
+      },
+      {
+        "lang": "kk",
+        "name": "Сарыбауыр шымшық"
+      },
+      {
+        "lang": "ko",
+        "name": "박새"
+      },
+      {
+        "lang": "lb",
+        "name": "Schielmees"
+      },
+      {
+        "lang": "li",
+        "name": "Biejemeis"
+      },
+      {
+        "lang": "lt",
+        "name": "Didžioji zylė"
+      },
+      {
+        "lang": "ltg",
+        "name": "Leluo zeile"
+      },
+      {
+        "lang": "mr",
+        "name": "राखी बल्गुली"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹсиӓ"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Biejevreter"
+      },
+      {
+        "lang": "nl",
+        "name": "Koolmees"
+      },
+      {
+        "lang": "nn",
+        "name": "Kjøtmeis"
+      },
+      {
+        "lang": "no",
+        "name": "Kjøttmeis"
+      },
+      {
+        "lang": "oc",
+        "name": "Sarralhièr"
+      },
+      {
+        "lang": "pcd",
+        "name": "Mbezingue"
+      },
+      {
+        "lang": "pl",
+        "name": "Sikora bogatka"
+      },
+      {
+        "lang": "pms",
+        "name": "Balarin-a"
+      },
+      {
+        "lang": "pt",
+        "name": "Chapim-real"
+      },
+      {
+        "lang": "ro",
+        "name": "Piţigoi mare"
+      },
+      {
+        "lang": "ru",
+        "name": "Большая синица"
+      },
+      {
+        "lang": "sah",
+        "name": "Улахан чычып-чаап"
+      },
+      {
+        "lang": "se",
+        "name": "Fiskesgaccet"
+      },
+      {
+        "lang": "sk",
+        "name": "Sýkorka veľká"
+      },
+      {
+        "lang": "sl",
+        "name": "Velika sinica"
+      },
+      {
+        "lang": "sr",
+        "name": "Велика сеница"
+      },
+      {
+        "lang": "sv",
+        "name": "Talgoxe"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük baştankara"
+      },
+      {
+        "lang": "udm",
+        "name": "Бадӟым пислэг"
+      },
+      {
+        "lang": "uk",
+        "name": "Велика синиця"
+      },
+      {
+        "lang": "vec",
+        "name": "Sperónzola"
+      },
+      {
+        "lang": "vi",
+        "name": "Bạc má"
+      },
+      {
+        "lang": "vls",
+        "name": "Koolmêze"
+      },
+      {
+        "lang": "wa",
+        "name": "Sissideu"
+      },
+      {
+        "lang": "zh",
+        "name": "大山雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Parus cinereus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinereous Tit"
+      }
+    ]
+  }
+]

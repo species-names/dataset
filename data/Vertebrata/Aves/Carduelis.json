@@ -1,0 +1,589 @@
+[
+  {
+    "scientific_name": "Carduelis yemenensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis yarrellii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis xanthogastra",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis uropygialis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis tristis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis spinus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis spinescens",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis siemiradzkii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis psaltria",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis pinus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis olivacea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis notata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis magellanica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis lawrencei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis johannis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis hornemanni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis flavirostris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis flammea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis dominicensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis cucullata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis crassirostris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis corsicana",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Llucareta corsa"
+      },
+      {
+        "lang": "de",
+        "name": "Korsikazeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Corsican Finch"
+      },
+      {
+        "lang": "eo",
+        "name": "Korsika kardelo"
+      },
+      {
+        "lang": "es",
+        "name": "Verderón Corso"
+      },
+      {
+        "lang": "eu",
+        "name": "Korsikar txirriskila"
+      },
+      {
+        "lang": "fi",
+        "name": "Korsikanhemppo"
+      },
+      {
+        "lang": "fr",
+        "name": "Venturon corse"
+      },
+      {
+        "lang": "it",
+        "name": "Venturone corso"
+      },
+      {
+        "lang": "nl",
+        "name": "Corsicaanse citroensijs"
+      },
+      {
+        "lang": "pl",
+        "name": "Osetnik korsykański"
+      },
+      {
+        "lang": "pt",
+        "name": "Verdilhão-corso"
+      },
+      {
+        "lang": "sv",
+        "name": "Korsikansk siska"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carduelis citrinella",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Seran-menez"
+      },
+      {
+        "lang": "ca",
+        "name": "Llucareta"
+      },
+      {
+        "lang": "cs",
+        "name": "Zvonohlík citrónový"
+      },
+      {
+        "lang": "de",
+        "name": "Zitronenzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Citril Finch"
+      },
+      {
+        "lang": "eo",
+        "name": "Citronkardelo"
+      },
+      {
+        "lang": "es",
+        "name": "Verderón serrano"
+      },
+      {
+        "lang": "eu",
+        "name": "Mendi txirriskila"
+      },
+      {
+        "lang": "fi",
+        "name": "Sitruunahemppo"
+      },
+      {
+        "lang": "fr",
+        "name": "Venturon montagnard"
+      },
+      {
+        "lang": "hu",
+        "name": "Citromcsíz"
+      },
+      {
+        "lang": "it",
+        "name": "Venturone"
+      },
+      {
+        "lang": "ja",
+        "name": "シトロンヒワ"
+      },
+      {
+        "lang": "pl",
+        "name": "Osetnik"
+      },
+      {
+        "lang": "pt",
+        "name": "Verdilhão-serrano"
+      },
+      {
+        "lang": "tr",
+        "name": "Alp isketesi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carduelis carduelis",
+    "common_names": [
+      {
+        "lang": "ab",
+        "name": "Ашьхарҵыс"
+      },
+      {
+        "lang": "als",
+        "name": "Tisteli"
+      },
+      {
+        "lang": "an",
+        "name": "Cardelina"
+      },
+      {
+        "lang": "ar",
+        "name": "الحَسُّونُ الأُورَاسِيّ"
+      },
+      {
+        "lang": "ast",
+        "name": "Xilgueru"
+      },
+      {
+        "lang": "aze",
+        "name": "Payız bülbülü"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡупшы турғай"
+      },
+      {
+        "lang": "be",
+        "name": "Чорнагаловы шчыгел"
+      },
+      {
+        "lang": "bg",
+        "name": "Кадънка"
+      },
+      {
+        "lang": "br",
+        "name": "Pabor kanaber"
+      },
+      {
+        "lang": "ca",
+        "name": "Cadernera"
+      },
+      {
+        "lang": "co",
+        "name": "Cardalina"
+      },
+      {
+        "lang": "cs",
+        "name": "Stehlík obecný"
+      },
+      {
+        "lang": "csb",
+        "name": "Sztiglëca"
+      },
+      {
+        "lang": "cv",
+        "name": "Шăкăлчи"
+      },
+      {
+        "lang": "cy",
+        "name": "Nico"
+      },
+      {
+        "lang": "da",
+        "name": "Stillits"
+      },
+      {
+        "lang": "de",
+        "name": "Stieglitz"
+      },
+      {
+        "lang": "el",
+        "name": "Καρδερίνα"
+      },
+      {
+        "lang": "emi",
+        "name": "Muntana"
+      },
+      {
+        "lang": "en",
+        "name": "European Goldfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Kardelo"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero"
+      },
+      {
+        "lang": "et",
+        "name": "Ohakalind"
+      },
+      {
+        "lang": "eu",
+        "name": "Karnaba"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره معمولی"
+      },
+      {
+        "lang": "fi",
+        "name": "Tikli"
+      },
+      {
+        "lang": "fo",
+        "name": "Fagurígða"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret élégant"
+      },
+      {
+        "lang": "frr",
+        "name": "Peder"
+      },
+      {
+        "lang": "fy",
+        "name": "Putter"
+      },
+      {
+        "lang": "ga",
+        "name": "Lasair choille"
+      },
+      {
+        "lang": "gd",
+        "name": "Deargan-fraoich"
+      },
+      {
+        "lang": "gl",
+        "name": "Xílgaro"
+      },
+      {
+        "lang": "gv",
+        "name": "Lossey ny keylley"
+      },
+      {
+        "lang": "he",
+        "name": "חוחית"
+      },
+      {
+        "lang": "hr",
+        "name": "Češljugar"
+      },
+      {
+        "lang": "hu",
+        "name": "Tengelic"
+      },
+      {
+        "lang": "hy",
+        "name": "Կարմրակատար"
+      },
+      {
+        "lang": "io",
+        "name": "Kardelo"
+      },
+      {
+        "lang": "is",
+        "name": "Þistilfinka"
+      },
+      {
+        "lang": "it",
+        "name": "Cardellino"
+      },
+      {
+        "lang": "ja",
+        "name": "ゴシキヒワ"
+      },
+      {
+        "lang": "kbd",
+        "name": "БзущӀэращӀэ"
+      },
+      {
+        "lang": "kjh",
+        "name": "Чÿгеннiг хус"
+      },
+      {
+        "lang": "kk",
+        "name": "Кәдімгі пайыз"
+      },
+      {
+        "lang": "ku",
+        "name": "Zengilok"
+      },
+      {
+        "lang": "kw",
+        "name": "Owrdynk"
+      },
+      {
+        "lang": "lb",
+        "name": "Dëschtelvillchen"
+      },
+      {
+        "lang": "li",
+        "name": "Distelvink"
+      },
+      {
+        "lang": "lmo",
+        "name": "Montà"
+      },
+      {
+        "lang": "lt",
+        "name": "Dagilis"
+      },
+      {
+        "lang": "lv",
+        "name": "Dadzītis"
+      },
+      {
+        "lang": "mk",
+        "name": "Билбилче"
+      },
+      {
+        "lang": "mn",
+        "name": "Алгар шувуу"
+      },
+      {
+        "lang": "mrj",
+        "name": "Цӓцӓля"
+      },
+      {
+        "lang": "mt",
+        "name": "Gardell"
+      },
+      {
+        "lang": "mwl",
+        "name": "Pintassilbo"
+      },
+      {
+        "lang": "nap",
+        "name": "Cardillo"
+      },
+      {
+        "lang": "nds",
+        "name": "Diesselfink"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Disselveenk"
+      },
+      {
+        "lang": "nl",
+        "name": "Putter"
+      },
+      {
+        "lang": "nn",
+        "name": "Stillits"
+      },
+      {
+        "lang": "no",
+        "name": "Stillits"
+      },
+      {
+        "lang": "nrm",
+        "name": "Cardrinnette"
+      },
+      {
+        "lang": "pcd",
+        "name": "Càrdon·né"
+      },
+      {
+        "lang": "pdc",
+        "name": "Dischdelfink"
+      },
+      {
+        "lang": "pl",
+        "name": "Szczygieł"
+      },
+      {
+        "lang": "pms",
+        "name": "Cardlin"
+      },
+      {
+        "lang": "pt",
+        "name": "Pintassilgo"
+      },
+      {
+        "lang": "rm",
+        "name": "Chardelin"
+      },
+      {
+        "lang": "ro",
+        "name": "Sticlete"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноголовый щегол"
+      },
+      {
+        "lang": "rue",
+        "name": "Щіглик"
+      },
+      {
+        "lang": "sc",
+        "name": "Cardoglinu"
+      },
+      {
+        "lang": "scn",
+        "name": "Cardiddu"
+      },
+      {
+        "lang": "sco",
+        "name": "Gowdspink"
+      },
+      {
+        "lang": "sh",
+        "name": "Češljugar"
+      },
+      {
+        "lang": "sk",
+        "name": "Stehlík obyčajný"
+      },
+      {
+        "lang": "sl",
+        "name": "Lišček"
+      },
+      {
+        "lang": "sq",
+        "name": "Gardalina"
+      },
+      {
+        "lang": "sr",
+        "name": "Чешљугар"
+      },
+      {
+        "lang": "sv",
+        "name": "Steglits"
+      },
+      {
+        "lang": "tr",
+        "name": "Saka kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Щиглик"
+      },
+      {
+        "lang": "vec",
+        "name": "Gardelin"
+      },
+      {
+        "lang": "vls",
+        "name": "Distelvienke"
+      },
+      {
+        "lang": "wa",
+        "name": "Tcherdonî"
+      },
+      {
+        "lang": "zh",
+        "name": "红额金翅雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Carduelis cannabina",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis barbata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis atriceps",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis atrata",
+    "common_names": []
+  }
+]

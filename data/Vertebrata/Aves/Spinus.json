@@ -1,0 +1,1188 @@
+[
+  {
+    "scientific_name": "Spinus yarrellii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Yarrellzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-faced Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Cariamarillo"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret de Yarrell"
+      },
+      {
+        "lang": "ja",
+        "name": "キガオヒワ"
+      },
+      {
+        "lang": "pt",
+        "name": "Pintassilgo-baiano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus xanthogastra",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Gelbbauchzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-bellied Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Ventriamarillo"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret à ventre jaune"
+      },
+      {
+        "lang": "ja",
+        "name": "キバラクロヒワ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus uropygialis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kordillerenzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-rumped Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Cordillerano"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret à croupion jaune"
+      },
+      {
+        "lang": "ja",
+        "name": "キゴシクロヒワ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus tristis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حسون أمريكي"
+      },
+      {
+        "lang": "bar",
+        "name": "Góidzoasig"
+      },
+      {
+        "lang": "ca",
+        "name": "Cadernera americana"
+      },
+      {
+        "lang": "cs",
+        "name": "čížek žlutý"
+      },
+      {
+        "lang": "da",
+        "name": "Guldsisken"
+      },
+      {
+        "lang": "de",
+        "name": "Goldzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "American Goldfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika kardelo"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Yanquí"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره طلایی آمریکایی"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikantikli"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret jaune"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranycsíz"
+      },
+      {
+        "lang": "it",
+        "name": "Lucherino americano"
+      },
+      {
+        "lang": "ja",
+        "name": "オウゴンヒワ",
+        "synonyms": [
+          "ougonhiwa"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Goudsijs"
+      },
+      {
+        "lang": "no",
+        "name": "Gulstillits"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídiiłtsooí bitʼaʼ łizhinígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Czyż złotawy"
+      },
+      {
+        "lang": "pt",
+        "name": "Pintassilgo-americano"
+      },
+      {
+        "lang": "ru",
+        "name": "Американский чиж"
+      },
+      {
+        "lang": "sk",
+        "name": "stehlík zlatý"
+      },
+      {
+        "lang": "sv",
+        "name": "Guldsiska"
+      },
+      {
+        "lang": "tr",
+        "name": "Amerika sakası"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ thông vàng châu Mỹ"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲金翅雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus thibetanus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Himalayazeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Tibetan Siskin"
+      },
+      {
+        "lang": "eo",
+        "name": "Tibeta serino"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Tibetano"
+      },
+      {
+        "lang": "fi",
+        "name": "Tiibetinhemppo"
+      },
+      {
+        "lang": "fr",
+        "name": "Tarin du Tibet"
+      },
+      {
+        "lang": "ja",
+        "name": "チベットヒワ"
+      },
+      {
+        "lang": "ne",
+        "name": "भोट सिस्कीन"
+      },
+      {
+        "lang": "nl",
+        "name": "Tibetaanse kanarie"
+      },
+      {
+        "lang": "sv",
+        "name": "Himalayasiska"
+      },
+      {
+        "lang": "zh",
+        "name": "藏黄雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus spinus",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Ziisli"
+      },
+      {
+        "lang": "ar",
+        "name": "لحسون الشوكي"
+      },
+      {
+        "lang": "ast",
+        "name": "Úbanu"
+      },
+      {
+        "lang": "aze",
+        "name": "Yalançı bülbül"
+      },
+      {
+        "lang": "ba",
+        "name": "Һары турғай"
+      },
+      {
+        "lang": "be",
+        "name": "Чыж"
+      },
+      {
+        "lang": "bg",
+        "name": "Елшова скатия"
+      },
+      {
+        "lang": "br",
+        "name": "Tarin ar Wern"
+      },
+      {
+        "lang": "ca",
+        "name": "Lluer"
+      },
+      {
+        "lang": "cs",
+        "name": "Čížek lesní"
+      },
+      {
+        "lang": "cv",
+        "name": "Çирĕктăрри"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila gwyrdd"
+      },
+      {
+        "lang": "da",
+        "name": "Grønsisken"
+      },
+      {
+        "lang": "de",
+        "name": "Erlenzeisig"
+      },
+      {
+        "lang": "el",
+        "name": "Λούγαρο"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Siskin"
+      },
+      {
+        "lang": "eo",
+        "name": "Verda kardelo"
+      },
+      {
+        "lang": "es",
+        "name": "Lúgano"
+      },
+      {
+        "lang": "et",
+        "name": "Siisike"
+      },
+      {
+        "lang": "eu",
+        "name": "Tarin"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره زرد"
+      },
+      {
+        "lang": "fi",
+        "name": "Vihervarpunen"
+      },
+      {
+        "lang": "fo",
+        "name": "Barrígða"
+      },
+      {
+        "lang": "fr",
+        "name": "Tarin des aulnes"
+      },
+      {
+        "lang": "fy",
+        "name": "Syske"
+      },
+      {
+        "lang": "ga",
+        "name": "Gealún fearnóige"
+      },
+      {
+        "lang": "gd",
+        "name": "Gealag bhuidhe"
+      },
+      {
+        "lang": "gl",
+        "name": "Úbalo"
+      },
+      {
+        "lang": "gv",
+        "name": "Corkan airhey"
+      },
+      {
+        "lang": "he",
+        "name": "חורפי"
+      },
+      {
+        "lang": "hr",
+        "name": "Čižak"
+      },
+      {
+        "lang": "hu",
+        "name": "Csíz"
+      },
+      {
+        "lang": "hy",
+        "name": "Ազնվասարեկ"
+      },
+      {
+        "lang": "io",
+        "name": "Tarino"
+      },
+      {
+        "lang": "is",
+        "name": "Barrfinka"
+      },
+      {
+        "lang": "it",
+        "name": "Lucherino eurasiatico"
+      },
+      {
+        "lang": "ja",
+        "name": "マヒワ"
+      },
+      {
+        "lang": "ka",
+        "name": "სკვინჩა"
+      },
+      {
+        "lang": "kk",
+        "name": "Шымшық"
+      },
+      {
+        "lang": "krl",
+        "name": "Peiboi"
+      },
+      {
+        "lang": "ku",
+        "name": "Serstrîkê zer"
+      },
+      {
+        "lang": "kw",
+        "name": "Dreynek"
+      },
+      {
+        "lang": "lb",
+        "name": "Gréngen Zeisel"
+      },
+      {
+        "lang": "li",
+        "name": "Sieske"
+      },
+      {
+        "lang": "lmo",
+        "name": "Franguen"
+      },
+      {
+        "lang": "lt",
+        "name": "Alksninukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Ķivulis"
+      },
+      {
+        "lang": "mk",
+        "name": "Елова чинка"
+      },
+      {
+        "lang": "mn",
+        "name": "Эгэл ногоолзой"
+      },
+      {
+        "lang": "mt",
+        "name": "Erku"
+      },
+      {
+        "lang": "nap",
+        "name": "Froncillo"
+      },
+      {
+        "lang": "nds",
+        "name": "Zieske"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Siesken"
+      },
+      {
+        "lang": "nl",
+        "name": "Sijs"
+      },
+      {
+        "lang": "nn",
+        "name": "Grønsisik"
+      },
+      {
+        "lang": "no",
+        "name": "Grønnsisik"
+      },
+      {
+        "lang": "nrm",
+        "name": "Metierabas"
+      },
+      {
+        "lang": "oc",
+        "name": "Tarin"
+      },
+      {
+        "lang": "os",
+        "name": "Дзылы"
+      },
+      {
+        "lang": "pcd",
+        "name": "Tairin"
+      },
+      {
+        "lang": "pl",
+        "name": "Czyż zwyczajny"
+      },
+      {
+        "lang": "pt",
+        "name": "Lugre"
+      },
+      {
+        "lang": "rm",
+        "name": "Zaisch d'ogna"
+      },
+      {
+        "lang": "ro",
+        "name": "Scatiu"
+      },
+      {
+        "lang": "ru",
+        "name": "Чиж"
+      },
+      {
+        "lang": "rue",
+        "name": "Чіжык"
+      },
+      {
+        "lang": "sah",
+        "name": "От күөҕэ чыычаах"
+      },
+      {
+        "lang": "scn",
+        "name": "Zuinu ri passu"
+      },
+      {
+        "lang": "se",
+        "name": "Ruonácizáš"
+      },
+      {
+        "lang": "sh",
+        "name": "Čižak"
+      },
+      {
+        "lang": "sk",
+        "name": "Stehlík čížik"
+      },
+      {
+        "lang": "sl",
+        "name": "Čižek"
+      },
+      {
+        "lang": "sq",
+        "name": "Cerla dimërake"
+      },
+      {
+        "lang": "sr",
+        "name": "Чижак"
+      },
+      {
+        "lang": "sv",
+        "name": "Grönsiska"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara başlı iskete"
+      },
+      {
+        "lang": "tyv",
+        "name": "Шиижек"
+      },
+      {
+        "lang": "udm",
+        "name": "Ӟузьы"
+      },
+      {
+        "lang": "uk",
+        "name": "Чиж"
+      },
+      {
+        "lang": "vec",
+        "name": "Lugarin"
+      },
+      {
+        "lang": "vls",
+        "name": "Trientje"
+      },
+      {
+        "lang": "wa",
+        "name": "Sizet"
+      },
+      {
+        "lang": "zea",
+        "name": "Sees"
+      },
+      {
+        "lang": "zh",
+        "name": "黄雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus spinescens",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Andenzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Andean Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Andino"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret des Andes"
+      },
+      {
+        "lang": "ja",
+        "name": "アンデスヒワ"
+      },
+      {
+        "lang": "tr",
+        "name": "And isketesi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus siemiradzkii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Safranzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Saffron Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Azafranado"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret safran"
+      },
+      {
+        "lang": "ja",
+        "name": "サフランヒワ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus psaltria",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "الحسُّون الأصغر",
+        "synonyms": [
+          "حسون أصغ"
+        ]
+      },
+      {
+        "lang": "cs",
+        "name": "čížek mexický"
+      },
+      {
+        "lang": "da",
+        "name": "Mexicosisken"
+      },
+      {
+        "lang": "de",
+        "name": "Mexikozeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Goldfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Malgranda kardelo"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Menor"
+      },
+      {
+        "lang": "fi",
+        "name": "pikkutikli"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret mineur"
+      },
+      {
+        "lang": "it",
+        "name": "Lucherino minore americano"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメキンヒワ"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbandsijs"
+      },
+      {
+        "lang": "no",
+        "name": "Småstillits"
+      },
+      {
+        "lang": "pl",
+        "name": "Czyż mały"
+      },
+      {
+        "lang": "pt",
+        "name": "Pintassilgo-pequeno"
+      },
+      {
+        "lang": "ru",
+        "name": "Малый чиж"
+      },
+      {
+        "lang": "sk",
+        "name": "stehlík spevavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Småsiska"
+      },
+      {
+        "lang": "tr",
+        "name": "Koyu sırtlı saka"
+      },
+      {
+        "lang": "zh",
+        "name": "暗背金翅雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus pinus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "čížek severoamerický"
+      },
+      {
+        "lang": "da",
+        "name": "Fyrresisken"
+      },
+      {
+        "lang": "de",
+        "name": "Fichtenzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Pine Siskin"
+      },
+      {
+        "lang": "eo",
+        "name": "Pinkardelo"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero de los Pinos"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanvihervarpunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Tarin des pins"
+      },
+      {
+        "lang": "is",
+        "name": "Furufinka"
+      },
+      {
+        "lang": "it",
+        "name": "Lucherino dei pini"
+      },
+      {
+        "lang": "ja",
+        "name": "マツノキヒワ",
+        "synonyms": [
+          "matsunokihiwa"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Dennensijs"
+      },
+      {
+        "lang": "no",
+        "name": "Stripesisik"
+      },
+      {
+        "lang": "pl",
+        "name": "Czyż sosnowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Lugre-dos-pinheiros",
+        "synonyms": [
+          "Pintassilgo-pinheiro"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Сосновый чиж",
+        "synonyms": [
+          "Сосновый щегол"
+        ]
+      },
+      {
+        "lang": "sk",
+        "name": "stehlík borovicový"
+      },
+      {
+        "lang": "sv",
+        "name": "Tallsiska"
+      },
+      {
+        "lang": "tr",
+        "name": "Çam isketesi"
+      },
+      {
+        "lang": "zh",
+        "name": "松金翅雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus olivacea",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Olivzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Olivaceous Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Oliváceo"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret olivâtre"
+      },
+      {
+        "lang": "ja",
+        "name": "オリーブヒワ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus notata",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Schwarzbrustzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Black-headed Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Cabecinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret à tête noire"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロキバラヒワ"
+      },
+      {
+        "lang": "tr",
+        "name": "Siyah başlı iskete"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus magellanica",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Magellanzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Hooded Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Encapuchado"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret de Magellan"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロヒワ"
+      },
+      {
+        "lang": "pt",
+        "name": "Pintassilgo"
+      },
+      {
+        "lang": "qu",
+        "name": "Ch'ayña"
+      },
+      {
+        "lang": "tr",
+        "name": "Kukuletalı iskete"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus lawrencei",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حسُّون لورنس"
+      },
+      {
+        "lang": "cs",
+        "name": "čížek kalifornský"
+      },
+      {
+        "lang": "da",
+        "name": "Pragtsisken"
+      },
+      {
+        "lang": "de",
+        "name": "Maskenzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Lawrence's Goldfinch"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero de Lawrence"
+      },
+      {
+        "lang": "et",
+        "name": "hõbesiisike"
+      },
+      {
+        "lang": "fi",
+        "name": "kaliforniantikli"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret gris"
+      },
+      {
+        "lang": "hu",
+        "name": "álarcos csíz"
+      },
+      {
+        "lang": "it",
+        "name": "Cardellino di Lawrence"
+      },
+      {
+        "lang": "ja",
+        "name": "カオグロキンヒワ",
+        "synonyms": [
+          "segurokinhiwa"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Maskergeelvink"
+      },
+      {
+        "lang": "no",
+        "name": "Gråstillits"
+      },
+      {
+        "lang": "pl",
+        "name": "czyż wspaniały"
+      },
+      {
+        "lang": "pt",
+        "name": "Pintassilgo-mascarado"
+      },
+      {
+        "lang": "ru",
+        "name": "Чиж Лавренция"
+      },
+      {
+        "lang": "sk",
+        "name": "stehlík dubový"
+      },
+      {
+        "lang": "sv",
+        "name": "Kaliforniensiska"
+      },
+      {
+        "lang": "tr",
+        "name": "Lawrence sakası"
+      },
+      {
+        "lang": "zh",
+        "name": "加州金翅雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus dominicensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Haitizeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Antillean Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Antillano"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret des Antilles"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒスパニオラズグロヒワ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus cucullata",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kapuzenzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Red Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Rojo"
+      },
+      {
+        "lang": "fi",
+        "name": "Tulitikli"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret rouge"
+      },
+      {
+        "lang": "ja",
+        "name": "ショウジョウヒワ"
+      },
+      {
+        "lang": "nl",
+        "name": "Kapoetsensijs"
+      },
+      {
+        "lang": "ru",
+        "name": "Огненный чиж"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapucinersiska"
+      },
+      {
+        "lang": "tr",
+        "name": "Kırmızı iskete"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus crassirostris",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Dickschnabelzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Thick-billed Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Piquigrueso"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret à bec épais"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシブトヒワ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus barbata",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bartzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Black-chinned Siskin"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigramentona kardelo"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Golinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret à menton noir"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤッコヒワ"
+      },
+      {
+        "lang": "pt",
+        "name": "Pintassilgo-de-gravata"
+      },
+      {
+        "lang": "ru",
+        "name": "Бородатый чиж"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus atriceps",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Guatemalazeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Black-capped Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Capirotado"
+      },
+      {
+        "lang": "fr",
+        "name": "Tarin sombre"
+      },
+      {
+        "lang": "ja",
+        "name": "クロズキンヒワ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Spinus atrata",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Schwarzzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Black Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Negro"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret noir"
+      },
+      {
+        "lang": "ja",
+        "name": "クロヒワ"
+      },
+      {
+        "lang": "tr",
+        "name": "Siyah iskete"
+      }
+    ]
+  }
+]

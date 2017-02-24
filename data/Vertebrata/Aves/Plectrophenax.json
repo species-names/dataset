@@ -104,7 +104,10 @@
       },
       {
         "lang": "ja",
-        "name": "ユキホオジロ, yukihoojiro"
+        "name": "ユキホオジロ",
+        "synonyms": [
+          "yukihoojiro"
+        ]
       },
       {
         "lang": "kbd",
@@ -165,6 +168,13 @@
       {
         "lang": "sk",
         "name": "snehuľka severská"
+      },
+      {
+        "lang": "sr",
+        "name": "Снежна стрнадица",
+        "synonyms": [
+          "Snežna strnadica"
+        ]
       },
       {
         "lang": "sv",

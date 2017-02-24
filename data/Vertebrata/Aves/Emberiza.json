@@ -1,0 +1,1925 @@
+[
+  {
+    "scientific_name": "Emberiza yessoensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ochre-rumped Bunting"
+      },
+      {
+        "lang": "ja",
+        "name": "コジュリン"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza vincenti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Vincent's Bunting"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza variabilis",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Ohotansirkku"
+      },
+      {
+        "lang": "ja",
+        "name": "クロジ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza tristrami",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "シロハラホオジロ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza townsendi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Townsend's Bunting",
+        "synonyms": [
+          "Townsend's Finch"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza tahapisi",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Klipstreepkoppie"
+      },
+      {
+        "lang": "ar",
+        "name": "درسة الصخر إفريقية"
+      },
+      {
+        "lang": "en",
+        "name": "Cinnamon-breasted Bunting"
+      },
+      {
+        "lang": "eo",
+        "name": "Cinamobrusta emberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano canelo"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikankastanjasirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant cannelle",
+        "synonyms": [
+          "Bruant de roche"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyi sármány"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk klippsparv"
+      },
+      {
+        "lang": "xsm",
+        "name": "Naŋʋlaŋwɩa",
+        "synonyms": [
+          "Navɩlaŋwɩa"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza sulphurata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano japonés"
+      },
+      {
+        "lang": "fa",
+        "name": "زردپره زرد"
+      },
+      {
+        "lang": "fi",
+        "name": "Japaninkeltasirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant du Japon"
+      },
+      {
+        "lang": "ja",
+        "name": "ノジコ"
+      },
+      {
+        "lang": "ru",
+        "name": "Японская овсянка"
+      },
+      {
+        "lang": "sv",
+        "name": "Svavelsparv"
+      },
+      {
+        "lang": "zh",
+        "name": "硫黄鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza striolata",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "درسة مخططة"
+      },
+      {
+        "lang": "en",
+        "name": "Striolated Bunting"
+      },
+      {
+        "lang": "fa",
+        "name": "زردپره راه‌راه"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalliosirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant striolé"
+      },
+      {
+        "lang": "ja",
+        "name": "イエホオジロ"
+      },
+      {
+        "lang": "nl",
+        "name": "Gestreepte gors"
+      },
+      {
+        "lang": "sv",
+        "name": "Bergsparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Gri başlı kiraz kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza stewarti",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Mustakurkkusirkku"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza spodocephala",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-faced Bunting"
+      },
+      {
+        "lang": "ja",
+        "name": "アオジ"
+      },
+      {
+        "lang": "zh",
+        "name": "灰頭鵐"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza socotrana",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Sokotransirkku"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza siemsseni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Emberiza schoeniclus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "درسة الغاب"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡамыш турғайы"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Стрынатка-чаротаўка"
+      },
+      {
+        "lang": "bg",
+        "name": "Тръстикова овесарка"
+      },
+      {
+        "lang": "br",
+        "name": "Brean-korz"
+      },
+      {
+        "lang": "ca",
+        "name": "Repicatalons"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnad rákosní"
+      },
+      {
+        "lang": "cy",
+        "name": "Bras y Cyrs"
+      },
+      {
+        "lang": "da",
+        "name": "Rørspurv"
+      },
+      {
+        "lang": "de",
+        "name": "Rohrammer"
+      },
+      {
+        "lang": "en",
+        "name": "Common Reed Bunting"
+      },
+      {
+        "lang": "eo",
+        "name": "Kanemberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano palustre"
+      },
+      {
+        "lang": "et",
+        "name": "Rootsiitsitaja"
+      },
+      {
+        "lang": "eu",
+        "name": "Zingira-berdantza"
+      },
+      {
+        "lang": "fi",
+        "name": "Pajusirkku"
+      },
+      {
+        "lang": "fo",
+        "name": "Sevspurvur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant des roseaux"
+      },
+      {
+        "lang": "frr",
+        "name": "Raidsparag"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta das canaveiras"
+      },
+      {
+        "lang": "hr",
+        "name": "Močvarna strnadica"
+      },
+      {
+        "lang": "hu",
+        "name": "Nádi sármány"
+      },
+      {
+        "lang": "hy",
+        "name": "Դրախտապան եղեգնուտի"
+      },
+      {
+        "lang": "it",
+        "name": "Migliarino di palude"
+      },
+      {
+        "lang": "ja",
+        "name": "オオジュリン"
+      },
+      {
+        "lang": "kbd",
+        "name": "КъамылкӀырыкъ"
+      },
+      {
+        "lang": "lt",
+        "name": "Nendrinė starta"
+      },
+      {
+        "lang": "mn",
+        "name": "Цагаанхүзүүт хөмрөг"
+      },
+      {
+        "lang": "nl",
+        "name": "Rietgors"
+      },
+      {
+        "lang": "no",
+        "name": "Sivspurv"
+      },
+      {
+        "lang": "nn",
+        "name": "Sivsporv"
+      },
+      {
+        "lang": "pcd",
+        "name": "Mòn·nhioe`d rozhioe"
+      },
+      {
+        "lang": "pl",
+        "name": "Potrzos zwyczajny"
+      },
+      {
+        "lang": "pt",
+        "name": "Escrevedeira-dos-caniços"
+      },
+      {
+        "lang": "ru",
+        "name": "Тростниковая овсянка"
+      },
+      {
+        "lang": "rue",
+        "name": "Тростинкова жовтурка"
+      },
+      {
+        "lang": "sv",
+        "name": "Sävsparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Bataklık kiraz kuşu"
+      },
+      {
+        "lang": "vec",
+        "name": "Pionza"
+      },
+      {
+        "lang": "zh",
+        "name": "芦鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza sahari",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "House Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano sahariano"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant du Sahara"
+      },
+      {
+        "lang": "nl",
+        "name": "Huisgors"
+      },
+      {
+        "lang": "fi",
+        "name": "Kyläsirkku"
+      },
+      {
+        "lang": "tr",
+        "name": "Ev kiraz kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza rutila",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit rogenc"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano herrumbroso"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza gorritza"
+      },
+      {
+        "lang": "ja",
+        "name": "シマノジコ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza rustica",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Белогуша овесарка"
+      },
+      {
+        "lang": "ca",
+        "name": "Repicatalons rústic"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnad rolní"
+      },
+      {
+        "lang": "de",
+        "name": "Waldammer"
+      },
+      {
+        "lang": "en",
+        "name": "Rustic Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano rústico"
+      },
+      {
+        "lang": "eu",
+        "name": "Baso-berdantza"
+      },
+      {
+        "lang": "fi",
+        "name": "Pohjansirkku"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta rústica"
+      },
+      {
+        "lang": "ja",
+        "name": "カシラダカ"
+      },
+      {
+        "lang": "sv",
+        "name": "Videsparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak kaşlı kiraz kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza pusilla",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Малка овесарка"
+      },
+      {
+        "lang": "br",
+        "name": "Brean korr"
+      },
+      {
+        "lang": "ca",
+        "name": "Repicatalons petit"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnad malinký"
+      },
+      {
+        "lang": "da",
+        "name": "Dværgværling"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergammer"
+      },
+      {
+        "lang": "en",
+        "name": "Little Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano pigmeo"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza txiki"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkusirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant nain"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta pigmea"
+      },
+      {
+        "lang": "hu",
+        "name": "Törpesármány"
+      },
+      {
+        "lang": "it",
+        "name": "Zigolo minore"
+      },
+      {
+        "lang": "ja",
+        "name": "コホオアカ"
+      },
+      {
+        "lang": "lt",
+        "name": "Mažoji starta"
+      },
+      {
+        "lang": "nl",
+        "name": "Dwerggors"
+      },
+      {
+        "lang": "nn",
+        "name": "Dvergsporv"
+      },
+      {
+        "lang": "no",
+        "name": "Dvergspurv"
+      },
+      {
+        "lang": "pl",
+        "name": "Trznadelek"
+      },
+      {
+        "lang": "pt",
+        "name": "Escrevedeira-pigmeia"
+      },
+      {
+        "lang": "ru",
+        "name": "Овсянка-крошка"
+      },
+      {
+        "lang": "sah",
+        "name": "Ыарҕа татыйыга"
+      },
+      {
+        "lang": "sv",
+        "name": "Dvärgsparv"
+      },
+      {
+        "lang": "sr",
+        "name": "Mala strnadica"
+      },
+      {
+        "lang": "zh",
+        "name": "小鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza psittacea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Emberiza poliopleura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Somali bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano somalí"
+      },
+      {
+        "lang": "fa",
+        "name": "زردپره سومالی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaunosirkku"
+      },
+      {
+        "lang": "sv",
+        "name": "Somaliasparv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza pallasi",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit de Pallas"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano de Pallas"
+      },
+      {
+        "lang": "eu",
+        "name": "Pallas berdantza"
+      },
+      {
+        "lang": "ja",
+        "name": "シベリアジュリン"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza melanocephala",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit capnegre"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano cabecinegro"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza burubeltz"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant mélanocéphale"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta cabecinegra"
+      },
+      {
+        "lang": "hy",
+        "name": "Դրախտապան սևագլուխ"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロチャキンチョウ（頭黒茶金鳥）"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara başlı kiraz kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza leucocephalos",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Белоглава овесарка"
+      },
+      {
+        "lang": "ca",
+        "name": "Sit capblanc"
+      },
+      {
+        "lang": "en",
+        "name": "Pine Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano de Gmelin"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza kas-kasuri"
+      },
+      {
+        "lang": "fi",
+        "name": "Mäntysirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à calotte blanche"
+      },
+      {
+        "lang": "hy",
+        "name": "Դրախտապան սպիտակաթասակ"
+      },
+      {
+        "lang": "ja",
+        "name": "シラガホオジロ"
+      },
+      {
+        "lang": "no",
+        "name": "Hvithodespurv"
+      },
+      {
+        "lang": "sv",
+        "name": "Tallsparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak başlı çinte - Ak başlı kiraz kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza lathami",
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "ঝুঁটিয়াল চটক"
+      },
+      {
+        "lang": "en",
+        "name": "Crested Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano crestado"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant huppé"
+      },
+      {
+        "lang": "hu",
+        "name": "Sisakos sármány"
+      },
+      {
+        "lang": "ja",
+        "name": "レンジャクノジコ"
+      },
+      {
+        "lang": "ne",
+        "name": "जुरे बगेडी"
+      },
+      {
+        "lang": "nl",
+        "name": "Kuifgors"
+      },
+      {
+        "lang": "ru",
+        "name": "Хохлатый мелофус"
+      },
+      {
+        "lang": "sv",
+        "name": "Tofssparv"
+      },
+      {
+        "lang": "zh",
+        "name": "凤头鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza koslowi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tibetan bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano tibetano"
+      },
+      {
+        "lang": "fi",
+        "name": "Tiibetinsirkku"
+      },
+      {
+        "lang": "zh",
+        "name": "藏鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza jankowskii",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Mäkisirkku"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza impetuani",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Emberiza hortulana",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "درسة الشعير"
+      },
+      {
+        "lang": "ba",
+        "name": "Һарытамаҡ турғай"
+      },
+      {
+        "lang": "bg",
+        "name": "Градинска овесарка"
+      },
+      {
+        "lang": "br",
+        "name": "Brean ortolan"
+      },
+      {
+        "lang": "ca",
+        "name": "Hortolà"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnad zahradní"
+      },
+      {
+        "lang": "da",
+        "name": "Hortulan"
+      },
+      {
+        "lang": "de",
+        "name": "Ortolan"
+      },
+      {
+        "lang": "en",
+        "name": "Ortolan Bunting"
+      },
+      {
+        "lang": "eo",
+        "name": "Hortulano"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano hortelano"
+      },
+      {
+        "lang": "et",
+        "name": "Põldtsiitsitaja"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza miarritz"
+      },
+      {
+        "lang": "fi",
+        "name": "Peltosirkku"
+      },
+      {
+        "lang": "fo",
+        "name": "Øsgulur riðispurvur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant ortolan"
+      },
+      {
+        "lang": "fy",
+        "name": "Nôtfink"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta hortelá"
+      },
+      {
+        "lang": "hy",
+        "name": "Դրախտապան այգու"
+      },
+      {
+        "lang": "io",
+        "name": "Ortolano"
+      },
+      {
+        "lang": "it",
+        "name": "Ortolano"
+      },
+      {
+        "lang": "he",
+        "name": "גבתון גנים"
+      },
+      {
+        "lang": "lt",
+        "name": "Sodinė starta"
+      },
+      {
+        "lang": "hu",
+        "name": "Kerti sármány"
+      },
+      {
+        "lang": "mn",
+        "name": "Алаг хөмрөг"
+      },
+      {
+        "lang": "nl",
+        "name": "Ortolaan"
+      },
+      {
+        "lang": "ja",
+        "name": "ズアオホオジロ"
+      },
+      {
+        "lang": "no",
+        "name": "Hortulan"
+      },
+      {
+        "lang": "nn",
+        "name": "Hortulan"
+      },
+      {
+        "lang": "pl",
+        "name": "Ortolan"
+      },
+      {
+        "lang": "pt",
+        "name": "Sombria",
+        "synonyms": [
+          "hortulana"
+        ]
+      },
+      {
+        "lang": "rue",
+        "name": "Ортолан"
+      },
+      {
+        "lang": "ru",
+        "name": "Садовая овсянка"
+      },
+      {
+        "lang": "sv",
+        "name": "Ortolansparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı kiraz kuşu"
+      },
+      {
+        "lang": "zh",
+        "name": "圃鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza godlewskii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Godlewski's bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano de Godlewski"
+      },
+      {
+        "lang": "fi",
+        "name": "Kiinanvuorisirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant de Godlewski"
+      },
+      {
+        "lang": "mn",
+        "name": "Годлевскийн хөмрөг"
+      },
+      {
+        "lang": "sv",
+        "name": "Mongolsparv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza fucata",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Кафявоуха овесарка"
+      },
+      {
+        "lang": "ca",
+        "name": "Sit castany"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut-eared Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano orejudo",
+        "synonyms": [
+          "Escribano de capucha gris"
+        ]
+      },
+      {
+        "lang": "fa",
+        "name": "زردپره گوش‌بلوطی"
+      },
+      {
+        "lang": "fi",
+        "name": "Vyösirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à oreillons"
+      },
+      {
+        "lang": "ja",
+        "name": "ホオアカ"
+      },
+      {
+        "lang": "ne",
+        "name": "कानकैले बगेडी"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijskopgors"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödkindad sparv"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ đồng đầu xám"
+      },
+      {
+        "lang": "zh",
+        "name": "赤胸鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza flaviventris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Emberiza flaveola",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Emberiza familiaris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Emberiza elegans",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-throated Bunting"
+      },
+      {
+        "lang": "ja",
+        "name": "ミヤマホオジロ"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultatöyhtösirkku"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza citrinella",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Goldammer"
+      },
+      {
+        "lang": "ar",
+        "name": "درسة صفراء"
+      },
+      {
+        "lang": "ba",
+        "name": "Һоло турғайы"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълта овесарка"
+      },
+      {
+        "lang": "br",
+        "name": "Brean melen"
+      },
+      {
+        "lang": "ca",
+        "name": "Verderola"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnad obecný"
+      },
+      {
+        "lang": "cy",
+        "name": "Bras Melyn"
+      },
+      {
+        "lang": "da",
+        "name": "Gulspurv"
+      },
+      {
+        "lang": "de",
+        "name": "Goldammer"
+      },
+      {
+        "lang": "en",
+        "name": "Yellowhammer"
+      },
+      {
+        "lang": "eo",
+        "name": "Flava emberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano cerillo"
+      },
+      {
+        "lang": "et",
+        "name": "Talvike"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza hori"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره اروپایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltasirkku"
+      },
+      {
+        "lang": "fo",
+        "name": "Gulspurvur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant jaune"
+      },
+      {
+        "lang": "frr",
+        "name": "Gulsparag"
+      },
+      {
+        "lang": "ga",
+        "name": "Buíóg"
+      },
+      {
+        "lang": "gd",
+        "name": "Buidheag-bhealaidh"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta amarela"
+      },
+      {
+        "lang": "hu",
+        "name": "Citromsármány"
+      },
+      {
+        "lang": "hy",
+        "name": "Դրախտապան սովորական"
+      },
+      {
+        "lang": "it",
+        "name": "Zigolo giallo"
+      },
+      {
+        "lang": "ja",
+        "name": "キアオジ"
+      },
+      {
+        "lang": "kbd",
+        "name": "КӀырыкъ"
+      },
+      {
+        "lang": "lb",
+        "name": "Gielemännchen"
+      },
+      {
+        "lang": "lt",
+        "name": "Geltonoji starta"
+      },
+      {
+        "lang": "mn",
+        "name": "Алтан хөмрөг"
+      },
+      {
+        "lang": "mrj",
+        "name": "Алык орави"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Gele gis"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelgors"
+      },
+      {
+        "lang": "no",
+        "name": "Gulspurv"
+      },
+      {
+        "lang": "nn",
+        "name": "Gulsporv"
+      },
+      {
+        "lang": "pcd",
+        "name": "Vérdhiére"
+      },
+      {
+        "lang": "pl",
+        "name": "Trznadel zwyczajny"
+      },
+      {
+        "lang": "pt",
+        "name": "Escrevedeira-amarela"
+      },
+      {
+        "lang": "rue",
+        "name": "Жовтурка"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенная овсянка"
+      },
+      {
+        "lang": "sco",
+        "name": "Yorlin"
+      },
+      {
+        "lang": "sl",
+        "name": "Rumeni strnad"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulsparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarı kiraz kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Звичайна вівсянка"
+      },
+      {
+        "lang": "zh",
+        "name": "黄鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza cirlus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Зеленогуша овесарка"
+      },
+      {
+        "lang": "ca",
+        "name": "Gratapalles"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnad cvrčivý"
+      },
+      {
+        "lang": "de",
+        "name": "Zaunammer"
+      },
+      {
+        "lang": "en",
+        "name": "Cirl Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Esribano soteño"
+      },
+      {
+        "lang": "eu",
+        "name": "Hesi-berdantza"
+      },
+      {
+        "lang": "fi",
+        "name": "Pensassirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant zizi"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta común"
+      },
+      {
+        "lang": "it",
+        "name": "Zigolo nero"
+      },
+      {
+        "lang": "ja",
+        "name": "ノドグロアオジ"
+      },
+      {
+        "lang": "nl",
+        "name": "Cirlgors"
+      },
+      {
+        "lang": "tr",
+        "name": "Bahçe kiraz kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza cioides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Meadow Bunting"
+      },
+      {
+        "lang": "fi",
+        "name": "Niittysirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à longue queue"
+      },
+      {
+        "lang": "ja",
+        "name": "[[:ja:ホオジロ"
+      },
+      {
+        "lang": "ko",
+        "name": "멧새"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza cineracea",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit cendrós"
+      },
+      {
+        "lang": "de",
+        "name": "Türkenammer"
+      },
+      {
+        "lang": "en",
+        "name": "Cinereous Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano cinéreo"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza turkiar"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza cia",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit negre"
+      },
+      {
+        "lang": "de",
+        "name": "Zippammer"
+      },
+      {
+        "lang": "en",
+        "name": "Rock Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano montesino"
+      },
+      {
+        "lang": "eu",
+        "name": "Mendi-berdantza"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuorisirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant fou"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta riscada"
+      },
+      {
+        "lang": "hy",
+        "name": "Դրախտապան լեռնային"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒゲホオジロ"
+      },
+      {
+        "lang": "sv",
+        "name": "Klippsparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Kaya kiraz kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza chrysophrys",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit cellagroc"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano cejigualdo"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza bekainhori"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à sourcil jaune"
+      },
+      {
+        "lang": "ja",
+        "name": "キマユホオジロ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza capensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cape Bunting"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskosiipisirkku"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza calandra",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "درسة القمح"
+      },
+      {
+        "lang": "be",
+        "name": "Прасянка"
+      },
+      {
+        "lang": "bg",
+        "name": "Сива овесарка"
+      },
+      {
+        "lang": "br",
+        "name": "Brean kilheri"
+      },
+      {
+        "lang": "ca",
+        "name": "Cruixidell"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnad luční"
+      },
+      {
+        "lang": "da",
+        "name": "Bomlærke"
+      },
+      {
+        "lang": "de",
+        "name": "Grauammer"
+      },
+      {
+        "lang": "el",
+        "name": "Τσιφτάς"
+      },
+      {
+        "lang": "en",
+        "name": "Corn Bunting"
+      },
+      {
+        "lang": "eo",
+        "name": "Grenemberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Triguero"
+      },
+      {
+        "lang": "et",
+        "name": "Halltsiitsitaja"
+      },
+      {
+        "lang": "eu",
+        "name": "Gari-berdantza"
+      },
+      {
+        "lang": "fa",
+        "name": "زردپره مزرعه"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaasirkku"
+      },
+      {
+        "lang": "fo",
+        "name": "Kornspurvur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant proyer"
+      },
+      {
+        "lang": "frr",
+        "name": "Kurnsparag"
+      },
+      {
+        "lang": "ga",
+        "name": "Gealóg bhuachair"
+      },
+      {
+        "lang": "gl",
+        "name": "Trigueirón"
+      },
+      {
+        "lang": "he",
+        "name": "גבתון עפרוני"
+      },
+      {
+        "lang": "hu",
+        "name": "Sordély"
+      },
+      {
+        "lang": "hy",
+        "name": "Կորեկնուկ"
+      },
+      {
+        "lang": "it",
+        "name": "Strillozzo"
+      },
+      {
+        "lang": "ka",
+        "name": "მეფეტვია"
+      },
+      {
+        "lang": "kbd",
+        "name": "ЦыпӀий"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkoji starta"
+      },
+      {
+        "lang": "mk",
+        "name": "Голема стрнарка"
+      },
+      {
+        "lang": "nl",
+        "name": "Grauwe gors"
+      },
+      {
+        "lang": "nn",
+        "name": "Kornsporv"
+      },
+      {
+        "lang": "no",
+        "name": "Kornspurv"
+      },
+      {
+        "lang": "pl",
+        "name": "Potrzeszcz"
+      },
+      {
+        "lang": "pt",
+        "name": "Trigueirão"
+      },
+      {
+        "lang": "ro",
+        "name": "Presură sură"
+      },
+      {
+        "lang": "ru",
+        "name": "Просянка"
+      },
+      {
+        "lang": "rue",
+        "name": "Просянка"
+      },
+      {
+        "lang": "sv",
+        "name": "Kornsparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Tarla kiraz kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Просянка"
+      },
+      {
+        "lang": "zh",
+        "name": "黍鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza caesia",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Hortolà cendrós"
+      },
+      {
+        "lang": "de",
+        "name": "Grauortolan"
+      },
+      {
+        "lang": "en",
+        "name": "Cretzschmar's Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano ceniciento"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza hauskara"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta cincenta"
+      },
+      {
+        "lang": "hy",
+        "name": "Վարսակուկ կարմրակտուց"
+      },
+      {
+        "lang": "ja",
+        "name": "ノドアカホオジロ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza cabanisi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cabanis's Bunting"
+      },
+      {
+        "lang": "fi",
+        "name": "Miombosirkku"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza buchanani",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit de Buchanan"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-necked Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano cabecigrís"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à cou gris"
+      },
+      {
+        "lang": "hy",
+        "name": "Դրախտապան ժայռային",
+        "synonyms": [
+          "վարսակուկ ժայռային"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "イワバホオジロ"
+      },
+      {
+        "lang": "tr",
+        "name": "Doğu kiraz kuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza bruniceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-headed Bunting"
+      },
+      {
+        "lang": "eo",
+        "name": "Brunkapa emberizo"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant à tête rousse"
+      },
+      {
+        "lang": "no",
+        "name": "Brunhodespurv"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskopääsirkku"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl başlı kiraz kuşu"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano carirrojo"
+      },
+      {
+        "lang": "ca",
+        "name": "Sit cara-roig"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza musugorri"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta carivermella"
+      },
+      {
+        "lang": "sv",
+        "name": "Stäppsparv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza aureola",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Brean-haleg"
+      },
+      {
+        "lang": "ca",
+        "name": "Sit caranegre"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnad obojkový"
+      },
+      {
+        "lang": "de",
+        "name": "Weidenammer"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-breasted Bunting"
+      },
+      {
+        "lang": "eo",
+        "name": "Brunrubanda emberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano aureolado"
+      },
+      {
+        "lang": "et",
+        "name": "Kuldtsiitsitaja"
+      },
+      {
+        "lang": "eu",
+        "name": "Berdantza papohori"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultasirkku"
+      },
+      {
+        "lang": "fo",
+        "name": "Bringugulur spurvur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant auréole"
+      },
+      {
+        "lang": "gl",
+        "name": "Escribenta aureolada"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranyos sármány"
+      },
+      {
+        "lang": "ja",
+        "name": "シマアオジ"
+      },
+      {
+        "lang": "mn",
+        "name": "Шарэлэгт хөмрөг"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Pipit Dada Kuning"
+      },
+      {
+        "lang": "nl",
+        "name": "Wilgengors"
+      },
+      {
+        "lang": "no",
+        "name": "Sibirspurv"
+      },
+      {
+        "lang": "pl",
+        "name": "Trznadel złotawy"
+      },
+      {
+        "lang": "pt",
+        "name": "Escrevedeira-aureolada"
+      },
+      {
+        "lang": "ru",
+        "name": "Дубровник"
+      },
+      {
+        "lang": "sah",
+        "name": "Талах чыычааҕа"
+      },
+      {
+        "lang": "sv",
+        "name": "Gyllensparv"
+      },
+      {
+        "lang": "tr",
+        "name": "Kuşaklı kiraz kuşu"
+      },
+      {
+        "lang": "zh",
+        "name": "黄胸鹀"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "金鵐"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Emberiza atrata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Emberiza affinis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown-rumped Bunting"
+      }
+    ]
+  }
+]

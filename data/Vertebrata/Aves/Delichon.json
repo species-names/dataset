@@ -1,0 +1,371 @@
+[
+  {
+    "scientific_name": "Delichon urbicum",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Huisswael"
+      },
+      {
+        "lang": "ar",
+        "name": "سنونو أبيض البطن"
+      },
+      {
+        "lang": "ast",
+        "name": "Andarina Culu Cande"
+      },
+      {
+        "lang": "az",
+        "name": "Şəhər qaranquşu"
+      },
+      {
+        "lang": "be",
+        "name": "Гарадская ластаўка"
+      },
+      {
+        "lang": "bg",
+        "name": "Градска лястовица"
+      },
+      {
+        "lang": "br",
+        "name": "Gwennili-vein-do"
+      },
+      {
+        "lang": "ca",
+        "name": "Oreneta cuablanca"
+      },
+      {
+        "lang": "cs",
+        "name": "Jiřička obecná"
+      },
+      {
+        "lang": "cv",
+        "name": "Хула чĕкеçĕ"
+      },
+      {
+        "lang": "cw",
+        "name": "Chycok"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol y Bondo"
+      },
+      {
+        "lang": "da",
+        "name": "Bysvale"
+      },
+      {
+        "lang": "de",
+        "name": "Mehlschwalbe"
+      },
+      {
+        "lang": "dv",
+        "name": "Rahmathee forike"
+      },
+      {
+        "lang": "el",
+        "name": "Ασπροχελίδονο"
+      },
+      {
+        "lang": "en",
+        "name": "Common House Martin"
+      },
+      {
+        "lang": "eo",
+        "name": "Murhirundo"
+      },
+      {
+        "lang": "es",
+        "name": "Avión Común"
+      },
+      {
+        "lang": "et",
+        "name": "Räästapääsuke"
+      },
+      {
+        "lang": "eu",
+        "name": "Enara azpizuri"
+      },
+      {
+        "lang": "fa",
+        "name": "چلچله دمگاه سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Räystäspääsky"
+      },
+      {
+        "lang": "fo",
+        "name": "Lonasvala"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle de fenêtre"
+      },
+      {
+        "lang": "frr",
+        "name": "Sarkswaalk"
+      },
+      {
+        "lang": "fy",
+        "name": "Wytgatswel"
+      },
+      {
+        "lang": "ga",
+        "name": "Gabhlán binne"
+      },
+      {
+        "lang": "gd",
+        "name": "Gobhlan taighe"
+      },
+      {
+        "lang": "gl",
+        "name": "Andoriña de cu branco"
+      },
+      {
+        "lang": "gv",
+        "name": "Gollan Thie"
+      },
+      {
+        "lang": "he",
+        "name": "טסית"
+      },
+      {
+        "lang": "hr",
+        "name": "Piljak"
+      },
+      {
+        "lang": "hu",
+        "name": "Molnárfecske"
+      },
+      {
+        "lang": "hy",
+        "name": "Քաղաքային ծիծեռնակ"
+      },
+      {
+        "lang": "id",
+        "name": "Layang-layang rumah"
+      },
+      {
+        "lang": "is",
+        "name": "Bæjasvala"
+      },
+      {
+        "lang": "it",
+        "name": "Balestruccio"
+      },
+      {
+        "lang": "ja",
+        "name": "イワツバメ"
+      },
+      {
+        "lang": "ka",
+        "name": "ქალაქის მერცხალი"
+      },
+      {
+        "lang": "kjn",
+        "name": "Хайа харачхайы"
+      },
+      {
+        "lang": "kk",
+        "name": "Қала қарлығашы"
+      },
+      {
+        "lang": "ko",
+        "name": "흰턱제비",
+        "synonyms": [
+          "흰털발제비"
+        ]
+      },
+      {
+        "lang": "ku",
+        "name": "Hechecikê malan"
+      },
+      {
+        "lang": "kwn",
+        "name": "Sisampamema"
+      },
+      {
+        "lang": "lb",
+        "name": "Fënsterschmuewel"
+      },
+      {
+        "lang": "lt",
+        "name": "Langinė kregždė"
+      },
+      {
+        "lang": "lv",
+        "name": "Mājas čurkste"
+      },
+      {
+        "lang": "mk",
+        "name": "Градска (Куќна) ластовица"
+      },
+      {
+        "lang": "mn",
+        "name": "Хүрээний хараацай"
+      },
+      {
+        "lang": "mrj",
+        "name": "Льыртык"
+      },
+      {
+        "lang": "mt",
+        "name": "îawwiefa"
+      },
+      {
+        "lang": "nl",
+        "name": "Huiszwaluw"
+      },
+      {
+        "lang": "nn",
+        "name": "Taksvale"
+      },
+      {
+        "lang": "no",
+        "name": "Taksvale"
+      },
+      {
+        "lang": "oc",
+        "name": "Ironda de fenèstra"
+      },
+      {
+        "lang": "pl",
+        "name": "Oknówka zwyczajna"
+      },
+      {
+        "lang": "pt",
+        "name": "Andorinha-dos-beirais"
+      },
+      {
+        "lang": "rm",
+        "name": "Randulina clera"
+      },
+      {
+        "lang": "ro",
+        "name": "Lăstun de casă"
+      },
+      {
+        "lang": "ru",
+        "name": "Городская ласточка"
+      },
+      {
+        "lang": "rue",
+        "name": "Ластівка городьска"
+      },
+      {
+        "lang": "sc",
+        "name": "Arrùndili"
+      },
+      {
+        "lang": "se",
+        "name": "Beskkoš"
+      },
+      {
+        "lang": "sk",
+        "name": "Belorítka obyčajná"
+      },
+      {
+        "lang": "sl",
+        "name": "Mestna lastovka"
+      },
+      {
+        "lang": "sq",
+        "name": "Babil"
+      },
+      {
+        "lang": "sr",
+        "name": "Градска ласта",
+        "synonyms": [
+          "Gradska lasta"
+        ]
+      },
+      {
+        "lang": "st",
+        "name": "Lekabelane"
+      },
+      {
+        "lang": "sv",
+        "name": "Hussvala"
+      },
+      {
+        "lang": "sw",
+        "name": "Mbayuwayu-kaya"
+      },
+      {
+        "lang": "th",
+        "name": "นกนางแอ่นมาตินพันธุ์ไซบีเรีย"
+      },
+      {
+        "lang": "tr",
+        "name": "Ev kırlangıcı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Хоорай хараачыгайы"
+      },
+      {
+        "lang": "uk",
+        "name": "Ластівка міська"
+      },
+      {
+        "lang": "vec",
+        "name": "Róndene bianca"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Nhạn hông trắng Xibêri"
+      },
+      {
+        "lang": "vls",
+        "name": "Huuszwoaluwe"
+      },
+      {
+        "lang": "wa",
+        "name": "Oronde des ståves"
+      },
+      {
+        "lang": "zh",
+        "name": "白腹毛脚燕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Delichon nipalense",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Nepal House Martin"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Delichon dasypus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Asiatische Mehlschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Asian House Martin"
+      },
+      {
+        "lang": "es",
+        "name": "Avión Asiático"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle de Bonaparte"
+      },
+      {
+        "lang": "ja",
+        "name": "イワツバメ"
+      },
+      {
+        "lang": "pt",
+        "name": "Andorinha-de-bando"
+      }
+    ]
+  }
+]
