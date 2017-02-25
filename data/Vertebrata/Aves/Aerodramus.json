@@ -1,0 +1,625 @@
+[
+  {
+    "scientific_name": "Aerodramus whiteheadi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana filipínská"
+      },
+      {
+        "lang": "en",
+        "name": "Whitehead's Swiftlet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus vulcanorum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana jávská"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus vanikorensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana vanikorská"
+      },
+      {
+        "lang": "en",
+        "name": "Uniform Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana de Vanikoro"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane de Vanikoro"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze salangaan"
+      },
+      {
+        "lang": "sv",
+        "name": "Enfärgad salangan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus unicolor",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana indická"
+      },
+      {
+        "lang": "en",
+        "name": "Indian Swiftlet"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane de Malabar"
+      },
+      {
+        "lang": "nl",
+        "name": "Malabarsalangaan"
+      },
+      {
+        "lang": "sv",
+        "name": "Malabarsalangan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus terraereginae",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana australská"
+      },
+      {
+        "lang": "en",
+        "name": "Australian Swiftlet"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane d'Australie"
+      },
+      {
+        "lang": "hu",
+        "name": "Ausztrál szalangána"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische salangaan"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk salangan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus spodiopygius",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana melanéská"
+      },
+      {
+        "lang": "en",
+        "name": "White-rumped Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana culiblanca"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane à croupion blanc"
+      },
+      {
+        "lang": "nl",
+        "name": "Witstuitsalangaan"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitgumpssalangan"
+      },
+      {
+        "lang": "to",
+        "name": "Pekepekatea"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus sororum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sulawesi Swiftlet"
+      },
+      {
+        "lang": "nl",
+        "name": "Sulawesisalangaan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus sawtelli",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "salangana atiuská"
+      },
+      {
+        "lang": "da",
+        "name": "Atiusalangan"
+      },
+      {
+        "lang": "de",
+        "name": "Atiusalangane"
+      },
+      {
+        "lang": "en",
+        "name": "Atiu Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana de las Cook"
+      },
+      {
+        "lang": "et",
+        "name": "atiu salangaan"
+      },
+      {
+        "lang": "fi",
+        "name": "cookinsalangaani"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane de Cook"
+      },
+      {
+        "lang": "hu",
+        "name": "Atiu-szigeti szalangána"
+      },
+      {
+        "lang": "it",
+        "name": "Salangana delle Isole Cook"
+      },
+      {
+        "lang": "ja",
+        "name": "クックアナツバメ",
+        "synonyms": [
+          "kukkuanatsubame"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Atiusalangaan"
+      },
+      {
+        "lang": "no",
+        "name": "Atiusalangan"
+      },
+      {
+        "lang": "pl",
+        "name": "salangana towarzyska"
+      },
+      {
+        "lang": "ru",
+        "name": "Атиусская салангана"
+      },
+      {
+        "lang": "sk",
+        "name": "salangána papraďová"
+      },
+      {
+        "lang": "sv",
+        "name": "Atiusalangan"
+      },
+      {
+        "lang": "zh",
+        "name": "库岛金丝燕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus salangana",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana mechová"
+      },
+      {
+        "lang": "en",
+        "name": "Mossy-nest swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana de la Sonda"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane de la Sonde"
+      },
+      {
+        "lang": "sv",
+        "name": "Sammetssalangan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus pelewensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana palauská"
+      },
+      {
+        "lang": "en",
+        "name": "Palau Swiftlet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus papuensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana papuánská"
+      },
+      {
+        "lang": "en",
+        "name": "Papuan Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana papú"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus orientalis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana šalamounská"
+      },
+      {
+        "lang": "en",
+        "name": "Mayr's Swiftlet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus ocistus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Marquesan Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana de las Marquesas"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane des Marquises"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus nuditarsus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana novoguinejská"
+      },
+      {
+        "lang": "en",
+        "name": "Bare-legged Swiftlet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus mearnsi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Philippine Swiftlet"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane de Mearns"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinstuitsalangaan"
+      },
+      {
+        "lang": "sv",
+        "name": "Filippinsk salangan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus maximus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana černohnízdá"
+      },
+      {
+        "lang": "en",
+        "name": "Black-nest Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana nidonegro"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Layang-layang Padi"
+      },
+      {
+        "lang": "zh",
+        "name": "大金丝燕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus leucophaeus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana tahitská"
+      },
+      {
+        "lang": "en",
+        "name": "Tahiti Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana polinesia"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane de la Société"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus inquietus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Caroline Islands Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana de las Carolinas"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane des Carolines"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus infuscatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Halmahera Swiftlet"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane des Moluques"
+      },
+      {
+        "lang": "nl",
+        "name": "Halmaherasalangaan"
+      },
+      {
+        "lang": "sv",
+        "name": "Halmaherasalangan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus hirundinaceus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana horská"
+      },
+      {
+        "lang": "en",
+        "name": "Mountain Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana montana"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane de montagne"
+      },
+      {
+        "lang": "nl",
+        "name": "Bergsalangaan"
+      },
+      {
+        "lang": "sv",
+        "name": "Bergsalangan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus germani",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "German's Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana de German"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus fuciphagus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana ostrovní"
+      },
+      {
+        "lang": "en",
+        "name": "Edible-nest Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana nidoblanco"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Layang-layang Gua"
+      },
+      {
+        "lang": "zh",
+        "name": "爪哇金丝燕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus francicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana mauricijská"
+      },
+      {
+        "lang": "en",
+        "name": "Mascarene Swiftlet"
+      },
+      {
+        "lang": "es",
+        "name": "Salangana de las Mascareñas"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane des Mascareignes"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus elaphrus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Salangana de les Seychelles"
+      },
+      {
+        "lang": "cs",
+        "name": "Salangana seychelská"
+      },
+      {
+        "lang": "en",
+        "name": "Seychelles Swiftlet"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane des Seychelles"
+      },
+      {
+        "lang": "nl",
+        "name": "Seychellensalangaan"
+      },
+      {
+        "lang": "sv",
+        "name": "Seychellsalangan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus ceramensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Seram Swiftlet"
+      },
+      {
+        "lang": "nl",
+        "name": "Ceramsalangaan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus brevirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana himálajská"
+      },
+      {
+        "lang": "en",
+        "name": "Himalayan Swiftlet"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Layang-layang Himalaya"
+      },
+      {
+        "lang": "pl",
+        "name": "Salangana himalajska"
+      },
+      {
+        "lang": "sv",
+        "name": "Himalayasalangan"
+      },
+      {
+        "lang": "zh",
+        "name": "短嘴金丝燕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus bartschi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Salangana marianská"
+      },
+      {
+        "lang": "en",
+        "name": "Guam Swiftlet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aerodramus amelis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ameline Swiftlet"
+      },
+      {
+        "lang": "fr",
+        "name": "Salangane grise"
+      },
+      {
+        "lang": "nl",
+        "name": "Filipijnse salangaan"
+      }
+    ]
+  }
+]
