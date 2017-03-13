@@ -1,0 +1,738 @@
+[
+  {
+    "scientific_name": "Apus unicolor",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs jednobarvý"
+      },
+      {
+        "lang": "de",
+        "name": "Einfarbsegler"
+      },
+      {
+        "lang": "en",
+        "name": "Plain Swift"
+      },
+      {
+        "lang": "nl",
+        "name": "Madeiragierzwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "Enfärgad seglare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus pallidus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Блед бързолет"
+      },
+      {
+        "lang": "br",
+        "name": "Glaouer gell"
+      },
+      {
+        "lang": "ca",
+        "name": "Falciot pàl·lid"
+      },
+      {
+        "lang": "cs",
+        "name": "Rorýs šedohnědý"
+      },
+      {
+        "lang": "da",
+        "name": "Gråsejler"
+      },
+      {
+        "lang": "de",
+        "name": "Fahlsegler"
+      },
+      {
+        "lang": "en",
+        "name": "Pallid Swift"
+      },
+      {
+        "lang": "es",
+        "name": "Vencejo Pálido"
+      },
+      {
+        "lang": "fi",
+        "name": "Vaaleakiitäjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Martinet pâle"
+      },
+      {
+        "lang": "hu",
+        "name": "Halvány sarlósfecske"
+      },
+      {
+        "lang": "it",
+        "name": "Rondone pallido"
+      },
+      {
+        "lang": "nl",
+        "name": "Vale Gierzwaluw"
+      },
+      {
+        "lang": "no",
+        "name": "Gråseiler"
+      },
+      {
+        "lang": "pt",
+        "name": "Andorinhão-pálido"
+      },
+      {
+        "lang": "sv",
+        "name": "Blek tornseglare"
+      },
+      {
+        "lang": "tr",
+        "name": "Boz ebabil"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus pacificus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs východoasijský"
+      },
+      {
+        "lang": "de",
+        "name": "Pazifiksegler"
+      },
+      {
+        "lang": "en",
+        "name": "Pacific Swift"
+      },
+      {
+        "lang": "ja",
+        "name": "アマツバメ"
+      },
+      {
+        "lang": "nl",
+        "name": "Siberische Gierzwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "Orientseglare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus nipalensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs indočínský"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメアマツバメ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus niansae",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs somálský"
+      },
+      {
+        "lang": "en",
+        "name": "Nyanza Swift"
+      },
+      {
+        "lang": "es",
+        "name": "Vencejo de Nyanza"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus horus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs horus"
+      },
+      {
+        "lang": "de",
+        "name": "Horussegler"
+      },
+      {
+        "lang": "en",
+        "name": "Horus Swift"
+      },
+      {
+        "lang": "fr",
+        "name": "Martinet horus"
+      },
+      {
+        "lang": "ja",
+        "name": "ホーラスアマツバメ"
+      },
+      {
+        "lang": "sv",
+        "name": "Horusseglare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus caffer",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Witkruiswindswael"
+      },
+      {
+        "lang": "br",
+        "name": "Glaouer kafir"
+      },
+      {
+        "lang": "cs",
+        "name": "Rorýs bělokostřecový"
+      },
+      {
+        "lang": "en",
+        "name": "White-rumped Swift"
+      },
+      {
+        "lang": "es",
+        "name": "Vencejo cafre"
+      },
+      {
+        "lang": "fr",
+        "name": "Martinet cafre"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaffergierzwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "Kafferseglare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus bradfieldi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs damarský"
+      },
+      {
+        "lang": "en",
+        "name": "Bradfield's Swift"
+      },
+      {
+        "lang": "es",
+        "name": "Vencejo de Namibia"
+      },
+      {
+        "lang": "de",
+        "name": "Damarasegler"
+      },
+      {
+        "lang": "pt",
+        "name": "Andorinhão-de-bradfield"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus berliozi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs světlehrdlý"
+      },
+      {
+        "lang": "en",
+        "name": "Forbes-Watson's Swift"
+      },
+      {
+        "lang": "es",
+        "name": "Vencejo de Socotora"
+      },
+      {
+        "lang": "de",
+        "name": "Sokotrasegler"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus batesi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs tmavý"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus barbatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs kapský"
+      },
+      {
+        "lang": "en",
+        "name": "African Swift"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapse Gierzwaluw"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus balstoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Madagascar Swift"
+      },
+      {
+        "lang": "es",
+        "name": "Vencejo de Madagascar"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus apus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Europese Windswael"
+      },
+      {
+        "lang": "als",
+        "name": "Mauersegler"
+      },
+      {
+        "lang": "ar",
+        "name": "سمامة عادية"
+      },
+      {
+        "lang": "ast",
+        "name": "Andarón"
+      },
+      {
+        "lang": "az",
+        "name": "Qara uzunqanad"
+      },
+      {
+        "lang": "be",
+        "name": "Чорны свіргуль"
+      },
+      {
+        "lang": "bg",
+        "name": "Черен бързолет"
+      },
+      {
+        "lang": "br",
+        "name": "Glaouer du"
+      },
+      {
+        "lang": "ca",
+        "name": "Falciot negre"
+      },
+      {
+        "lang": "cs",
+        "name": "Rorýs obecný"
+      },
+      {
+        "lang": "csb",
+        "name": "Jaskùlc"
+      },
+      {
+        "lang": "cv",
+        "name": "Хура вĕршĕн"
+      },
+      {
+        "lang": "cw",
+        "name": "Gwennol dhu"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol Ddu"
+      },
+      {
+        "lang": "da",
+        "name": "Mursejler"
+      },
+      {
+        "lang": "de",
+        "name": "Mauersegler"
+      },
+      {
+        "lang": "el",
+        "name": "Μαυροσταχτάρα"
+      },
+      {
+        "lang": "en",
+        "name": "Common Swift"
+      },
+      {
+        "lang": "eo",
+        "name": "Ordinara apuso"
+      },
+      {
+        "lang": "es",
+        "name": "Vencejo común"
+      },
+      {
+        "lang": "et",
+        "name": "Piiritaja"
+      },
+      {
+        "lang": "eu",
+        "name": "Sorbeltz arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "پشه خوار"
+      },
+      {
+        "lang": "fi",
+        "name": "Tervapääsky"
+      },
+      {
+        "lang": "fo",
+        "name": "Feigdarsveimari"
+      },
+      {
+        "lang": "fr",
+        "name": "Martinet noir"
+      },
+      {
+        "lang": "frr",
+        "name": "Türnswaalk"
+      },
+      {
+        "lang": "fy",
+        "name": "Toerswel"
+      },
+      {
+        "lang": "ga",
+        "name": "Gabhlán gaoithe"
+      },
+      {
+        "lang": "gd",
+        "name": "Gobhlan Mòr"
+      },
+      {
+        "lang": "gl",
+        "name": "Cirrio común"
+      },
+      {
+        "lang": "gv",
+        "name": "Gollan mooar"
+      },
+      {
+        "lang": "he",
+        "name": "סיס החומות"
+      },
+      {
+        "lang": "hr",
+        "name": "Crna čiopa"
+      },
+      {
+        "lang": "hu",
+        "name": "Sarlósfecske"
+      },
+      {
+        "lang": "hy",
+        "name": "Մանգաղաթև սև"
+      },
+      {
+        "lang": "is",
+        "name": "Múrsvölungur"
+      },
+      {
+        "lang": "it",
+        "name": "Rondone"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパアマツバメ"
+      },
+      {
+        "lang": "ka",
+        "name": "ნამგალა"
+      },
+      {
+        "lang": "kjn",
+        "name": "Тигiр харачхайы"
+      },
+      {
+        "lang": "kk",
+        "name": "Ешкіемер",
+        "synonyms": [
+          "Қара сұрқарлығаш"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "서양칼새",
+        "synonyms": [
+          "검은등칼새"
+        ]
+      },
+      {
+        "lang": "ky",
+        "name": "Кара карлыгач"
+      },
+      {
+        "lang": "lb",
+        "name": "Leeëndecker"
+      },
+      {
+        "lang": "lt",
+        "name": "Čiurlys"
+      },
+      {
+        "lang": "lv",
+        "name": "Bezdelīga"
+      },
+      {
+        "lang": "mk",
+        "name": "Мала (Обична) пишталка"
+      },
+      {
+        "lang": "mn",
+        "name": "Хурын ураацай",
+        "synonyms": [
+          "ᠬᠣᠷ᠎ᠠ ᠣᠷᠠᠴᠠᠢ"
+        ]
+      },
+      {
+        "lang": "mrj",
+        "name": "Вӹрзи"
+      },
+      {
+        "lang": "mt",
+        "name": "Rundun"
+      },
+      {
+        "lang": "nl",
+        "name": "Gierzwaluw"
+      },
+      {
+        "lang": "nn",
+        "name": "Tårnseglar"
+      },
+      {
+        "lang": "no",
+        "name": "Tårnseiler"
+      },
+      {
+        "lang": "pl",
+        "name": "Jerzyk zwyczajny"
+      },
+      {
+        "lang": "pms",
+        "name": "Rondon"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Bacurau"
+      },
+      {
+        "lang": "pt",
+        "name": "Andorinhão-preto"
+      },
+      {
+        "lang": "rm",
+        "name": "Randurel pitschen"
+      },
+      {
+        "lang": "ro",
+        "name": "Drepnea neagră"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрный стриж"
+      },
+      {
+        "lang": "rue",
+        "name": "Серпик"
+      },
+      {
+        "lang": "sc",
+        "name": "Rundinone"
+      },
+      {
+        "lang": "scn",
+        "name": "Rinninuni"
+      },
+      {
+        "lang": "se",
+        "name": "Leahttospálfu"
+      },
+      {
+        "lang": "sh",
+        "name": "Crna Čiopa"
+      },
+      {
+        "lang": "sk",
+        "name": "Dážďovník obyčajný"
+      },
+      {
+        "lang": "sl",
+        "name": "Črni hudournik"
+      },
+      {
+        "lang": "sq",
+        "name": "Dejka"
+      },
+      {
+        "lang": "sr",
+        "name": "Crna ciopa",
+        "synonyms": [
+          "Црна чиопа"
+        ]
+      },
+      {
+        "lang": "st",
+        "name": "Lehaqasi"
+      },
+      {
+        "lang": "sv",
+        "name": "Tornseglare"
+      },
+      {
+        "lang": "sw",
+        "name": "Teleka wa Ulaya"
+      },
+      {
+        "lang": "ta",
+        "name": "தரையிலான் குருவி"
+      },
+      {
+        "lang": "tn",
+        "name": "Pêolwane"
+      },
+      {
+        "lang": "tr",
+        "name": "Ebabil"
+      },
+      {
+        "lang": "ts",
+        "name": "Nkonjana"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кара сыйтылаа"
+      },
+      {
+        "lang": "udm",
+        "name": "Сьӧд пӧськы"
+      },
+      {
+        "lang": "uk",
+        "name": "Серпокрилець чорний"
+      },
+      {
+        "lang": "vec",
+        "name": "Rondon"
+      },
+      {
+        "lang": "vi",
+        "name": "Yến thông thường"
+      },
+      {
+        "lang": "xh",
+        "name": "Ihlabankomo"
+      },
+      {
+        "lang": "zh",
+        "name": "普通楼燕"
+      },
+      {
+        "lang": "zu",
+        "name": "iJankomo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus alexandri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs Alexandrův"
+      },
+      {
+        "lang": "de",
+        "name": "Alexandersegler"
+      },
+      {
+        "lang": "en",
+        "name": "Alexander's Swift"
+      },
+      {
+        "lang": "fi",
+        "name": "Kapverdenkiitäjä"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapverdeseglare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus affinis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs domovní"
+      },
+      {
+        "lang": "en",
+        "name": "Little Swift"
+      },
+      {
+        "lang": "fr",
+        "name": "Martinet des maison"
+      },
+      {
+        "lang": "ja",
+        "name": "ニシヒメアマツバメ"
+      },
+      {
+        "lang": "nl",
+        "name": "Huisgierzwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "Stubbstjärtseglare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apus acuticauda",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Glanzrückensegler"
+      },
+      {
+        "lang": "en",
+        "name": "Dark-rumped Swift"
+      },
+      {
+        "lang": "es",
+        "name": "Vencejo de los Khasi"
+      }
+    ]
+  }
+]

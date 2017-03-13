@@ -1,0 +1,43 @@
+[
+  {
+    "scientific_name": "Neafrapus cassini",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs Cassinův"
+      },
+      {
+        "lang": "en",
+        "name": "Cassin's Spinetail"
+      },
+      {
+        "lang": "pt",
+        "name": "Rabo-espinhoso-de-cassin"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Neafrapus boehmi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Rorýs netopýří"
+      },
+      {
+        "lang": "en",
+        "name": "Böhm's Spinetail,",
+        "synonyms": [
+          "Bat-like Spinetail"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Martinet de Böhm"
+      },
+      {
+        "lang": "pt",
+        "name": "Rabo-espinhoso-de-böhm"
+      }
+    ]
+  }
+]
