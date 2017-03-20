@@ -1,6 +1,19 @@
 [
   {
     "scientific_name": "Neoctantes niger",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black bushbird"
+      },
+      {
+        "lang": "es",
+        "name": "Batará arbustero"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-preta"
+      }
+    ]
   }
 ]

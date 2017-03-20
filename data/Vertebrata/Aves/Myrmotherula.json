@@ -39,6 +39,14 @@
       {
         "lang": "en",
         "name": "Rio Suno Antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito del Suno"
+      },
+      {
+        "lang": "pt",
+        "name": "Choquinha-do-oeste"
       }
     ]
   },
@@ -57,7 +65,20 @@
   },
   {
     "scientific_name": "Myrmotherula sclateri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sclater's antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito de Sclater"
+      },
+      {
+        "lang": "pt",
+        "name": "Choquinha-de-garganta-amarela"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmotherula schisticolor",
@@ -65,11 +86,16 @@
   },
   {
     "scientific_name": "Myrmotherula pacifica",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Myrmotherula obscura",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pacific antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito del Pacífico"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmotherula multostriata",
@@ -98,6 +124,10 @@
       {
         "lang": "pt",
         "name": "Choquinha-de-garganta-cinza"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito gris"
       }
     ]
   },
@@ -111,12 +141,25 @@
       {
         "lang": "pt",
         "name": "Choquinha-de-asa-comprida"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito alilargo"
       }
     ]
   },
   {
     "scientific_name": "Myrmotherula longicauda",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stripe-chested antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito pechilistado"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmotherula klagesi",
@@ -154,16 +197,25 @@
       {
         "lang": "en",
         "name": "Colombian Antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito de Griscom"
       }
     ]
   },
   {
-    "scientific_name": "Myrmotherula gularis",
-    "common_names": []
-  },
-  {
     "scientific_name": "Myrmotherula grisea",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yungas antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito ceniciento"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmotherula fluminensis",
@@ -196,6 +248,14 @@
       {
         "lang": "es",
         "name": "Hormiguerito de Behn"
+      },
+      {
+        "lang": "en",
+        "name": "Plain-winged antwren"
+      },
+      {
+        "lang": "pt",
+        "name": "Choquinha-de-asa-lisa"
       }
     ]
   },
@@ -218,10 +278,36 @@
   },
   {
     "scientific_name": "Myrmotherula assimilis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Leaden antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito plomizo"
+      },
+      {
+        "lang": "pt",
+        "name": "Choquinha-da-varzea"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmotherula ambigua",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-throated antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito gorgiamarillo"
+      },
+      {
+        "lang": "pt",
+        "name": "Choquinha-de-coroa-listrada"
+      }
+    ]
   }
 ]

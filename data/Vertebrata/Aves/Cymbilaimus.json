@@ -1,7 +1,20 @@
 [
   {
     "scientific_name": "Cymbilaimus sanctaemariae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bamboo antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará de bambú"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-do-bambu"
+      }
+    ]
   },
   {
     "scientific_name": "Cymbilaimus lineatus",
@@ -13,6 +26,14 @@
       {
         "lang": "fi",
         "name": "Isonokkamuura"
+      },
+      {
+        "lang": "es",
+        "name": "Batará lineado"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-formiga-barrado"
       }
     ]
   }

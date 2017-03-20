@@ -1,0 +1,814 @@
+[
+  {
+    "scientific_name": "Glaucidium tucumanum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek tucumanský"
+      },
+      {
+        "lang": "en",
+        "name": "Tucuman Pygmy-Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo tucumano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium tephronotum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek rudoprsý"
+      },
+      {
+        "lang": "en",
+        "name": "Red-chested Owlet"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka rdzawopierśna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium sjostedti",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek Sjoestedtův"
+      },
+      {
+        "lang": "en",
+        "name": "Sjostedt's Owlet"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka białobroda"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium siju",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek kubánský"
+      },
+      {
+        "lang": "en",
+        "name": "Cuban Pygmy-Owl"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuubanvarpuspöllö"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka kubańska"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium sanchezi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek Sanchezův"
+      },
+      {
+        "lang": "en",
+        "name": "Tamaulipas Pygmy-Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium radiatum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek džunglový"
+      },
+      {
+        "lang": "en",
+        "name": "Jungle Owlet"
+      },
+      {
+        "lang": "fi",
+        "name": "Intianvarpuspöllö"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka prążkowana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium peruanum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek peruánský"
+      },
+      {
+        "lang": "en",
+        "name": "Peruvian Pygmy-owl"
+      },
+      {
+        "lang": "es",
+        "name": "paca-paca",
+        "synonyms": [
+          "chuncho del norte",
+          "mochuelo peruano"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Perunvarpuspöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium perlatum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek perlový"
+      },
+      {
+        "lang": "en",
+        "name": "Pearl-spotted Owlet"
+      },
+      {
+        "lang": "fi",
+        "name": "Savannivarpuspöllö"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka sawannowa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium passerinum",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Малка кукумявка"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulíšek nejmenší"
+      },
+      {
+        "lang": "da",
+        "name": "Spurveugle"
+      },
+      {
+        "lang": "de",
+        "name": "Sperlingskauz"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Pygmy-Owl"
+      },
+      {
+        "lang": "fi",
+        "name": "Varpuspöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêchette d'Europe"
+      },
+      {
+        "lang": "it",
+        "name": "Civetta nana"
+      },
+      {
+        "lang": "ja",
+        "name": "スズメフクロウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Žvirblinė pelėda"
+      },
+      {
+        "lang": "lv",
+        "name": "Apodziņš"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka zwyczajna"
+      },
+      {
+        "lang": "ru",
+        "name": "Воробьиный сыч"
+      },
+      {
+        "lang": "sah",
+        "name": "Лэкээрик мэкчиргэ"
+      },
+      {
+        "lang": "se",
+        "name": "Cihceskuolfi"
+      },
+      {
+        "lang": "sk",
+        "name": "Kuvik vrabčí"
+      },
+      {
+        "lang": "sv",
+        "name": "Sparvuggla"
+      },
+      {
+        "lang": "uk",
+        "name": "Сичик-горобець"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium parkeri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek subtropický"
+      },
+      {
+        "lang": "en",
+        "name": "Subtropical pygmy-owl"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka ciemna"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo de Parker"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium palmarum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek colimský"
+      },
+      {
+        "lang": "en",
+        "name": "Colima Pygmy-Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium nubicola",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek hnědoprsý"
+      },
+      {
+        "lang": "en",
+        "name": "Cloud-forest pygmy-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo ecuatoriano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium nanum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek patagonský"
+      },
+      {
+        "lang": "en",
+        "name": "Austral Pygmy-Owl"
+      },
+      {
+        "lang": "fi",
+        "name": "Pampavarpuspöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium mooreorum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pernambuco Pygmy-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo pernambucano"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêchette des Moore"
+      },
+      {
+        "lang": "pt",
+        "name": "Caburé de Pernambuco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium minutissimum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek zakrslý"
+      },
+      {
+        "lang": "en",
+        "name": "Least Pygmy-Owl"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuvarpuspöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium jardinii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek andský"
+      },
+      {
+        "lang": "en",
+        "name": "Andean Pygmy-Owl"
+      },
+      {
+        "lang": "fi",
+        "name": "Andienvarpuspöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium hoskinsii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek kalifornský"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Pygmy-Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium hardyi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek amazonský"
+      },
+      {
+        "lang": "en",
+        "name": "Amazonian Pygmy-Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo amazónico"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Caburé-da-amazônia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium griseiceps",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek šedohlavý"
+      },
+      {
+        "lang": "en",
+        "name": "Central American Pygmy-owl"
+      },
+      {
+        "lang": "fi",
+        "name": "Keskiamerikanvarpuspöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium gnoma",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Mochuelo chico"
+      },
+      {
+        "lang": "cs",
+        "name": "Kulíšek americký"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Pygmy-Owl",
+        "synonyms": [
+          "Mountain Pygmy-Owl"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Lännenvarpuspöllö"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka dwuplamista"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium cuculoides",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Кукувича малка кукумявка"
+      },
+      {
+        "lang": "cs",
+        "name": "kulíšek kukaččí"
+      },
+      {
+        "lang": "da",
+        "name": "Gøgeugle"
+      },
+      {
+        "lang": "de",
+        "name": "Kuckuckstrillerkauz"
+      },
+      {
+        "lang": "en",
+        "name": "Asian Barred Owlet"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo Cuco"
+      },
+      {
+        "lang": "et",
+        "name": "vööt-värbkakk"
+      },
+      {
+        "lang": "fi",
+        "name": "raitavarpuspöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêchette cuculoïde"
+      },
+      {
+        "lang": "hu",
+        "name": "kakukkhangú törpekuvik"
+      },
+      {
+        "lang": "id",
+        "name": "Belukwata"
+      },
+      {
+        "lang": "it",
+        "name": "Civetta nana barrata asiatica"
+      },
+      {
+        "lang": "ja",
+        "name": "オオスズメフクロウ",
+        "synonyms": [
+          "oosuzumefukurou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Koekoeksdwerguil"
+      },
+      {
+        "lang": "no",
+        "name": "Orientgjøkugle"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka falista"
+      },
+      {
+        "lang": "pt",
+        "name": "Mocho-pequeno"
+      },
+      {
+        "lang": "ru",
+        "name": "Кукушковый воробьиный сыч"
+      },
+      {
+        "lang": "sk",
+        "name": "kuvičok jarabý"
+      },
+      {
+        "lang": "sv",
+        "name": "Göksparvuggla"
+      },
+      {
+        "lang": "th",
+        "name": "นกเค้าโมง"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú vọ denhan"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "斑頭鵂鶹"
+      },
+      {
+        "lang": "zh",
+        "name": "斑头鸺鹠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium costaricanum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek kostarický"
+      },
+      {
+        "lang": "en",
+        "name": "Costa Rican Pygmy Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium cobanense",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek guatemalský"
+      },
+      {
+        "lang": "en",
+        "name": "Guatemalan Pygmy-Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium castanopterum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek hnědokřídlý"
+      },
+      {
+        "lang": "en",
+        "name": "Javan Owlet"
+      },
+      {
+        "lang": "fi",
+        "name": "Jaavanvarpuspöllö"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka jawajska"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium castanonotum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-backed Owlet"
+      },
+      {
+        "lang": "fi",
+        "name": "Srilankanvarpuspöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium castaneum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek iturský"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut Owlet"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo castaño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium capense",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek africký"
+      },
+      {
+        "lang": "de",
+        "name": "Kap-Sperlingskauz"
+      },
+      {
+        "lang": "en",
+        "name": "African Barred Owlet"
+      },
+      {
+        "lang": "fi",
+        "name": "Akaasiavarpuspöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium californicum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek západní"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Pygmy-Owl"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka kalifornijska"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium brodiei",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek límcový"
+      },
+      {
+        "lang": "en",
+        "name": "Collared Owlet"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Hantu Kerdil"
+      },
+      {
+        "lang": "th",
+        "name": "นกเค้าแคระ"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaulusvarpuspöllö"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka obrożna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium brasilianum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek brazilský",
+        "synonyms": [
+          "kulíšek patagonský"
+        ]
+      },
+      {
+        "lang": "da",
+        "name": "Rustfarvet Spurveugle"
+      },
+      {
+        "lang": "de",
+        "name": "Brasilsperlingskauz"
+      },
+      {
+        "lang": "en",
+        "name": "Ferruginous Pygmy-owl"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝeca strigeto"
+      },
+      {
+        "lang": "es",
+        "name": "Caburé"
+      },
+      {
+        "lang": "fi",
+        "name": "ruostevarpuspöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêchette brune"
+      },
+      {
+        "lang": "gn",
+        "name": "Kavure'i"
+      },
+      {
+        "lang": "hu",
+        "name": "Rozsdás törpekuvik"
+      },
+      {
+        "lang": "it",
+        "name": "Civettina tabaccata"
+      },
+      {
+        "lang": "ja",
+        "name": "アカスズメフクロウ",
+        "synonyms": [
+          "akasuzumefukurou"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Braziliaanse Dwerguil"
+      },
+      {
+        "lang": "no",
+        "name": "Øgleugle"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka kreskowana"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Caburé"
+      },
+      {
+        "lang": "pt",
+        "name": "Caburé",
+        "synonyms": [
+          "Caburé-ferrugem",
+          "Caburé-sol"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Рыжий воробьиный сыч"
+      },
+      {
+        "lang": "sk",
+        "name": "kuvicok hrdzavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostsparvuggla"
+      },
+      {
+        "lang": "zh",
+        "name": "棕鸺鹠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium bolivianum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek bolivijský"
+      },
+      {
+        "lang": "en",
+        "name": "Yungas Pygmy Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo boliviano"
+      },
+      {
+        "lang": "fi",
+        "name": "Bolivianvarpuspöllö"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium albertinum",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kulíšek skvrnitobřichý"
+      },
+      {
+        "lang": "pl",
+        "name": "sóweczka górska"
+      }
+    ]
+  }
+]

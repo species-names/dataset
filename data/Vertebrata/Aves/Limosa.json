@@ -192,7 +192,10 @@
       },
       {
         "lang": "mn",
-        "name": "Морин цууцал / ᠬᠠᠷ᠎ᠠ ᠰᠡᠭᠦᠯᠲᠦ ᠮᠣᠷᠢᠨ ᠵᠠᠷᠠᠭ"
+        "name": "Морин цууцал",
+        "synonyms": [
+          "ᠬᠠᠷ᠎ᠠ ᠰᠡᠭᠦᠯᠲᠦ ᠮᠣᠷᠢᠨ ᠵᠠᠷᠠᠭ"
+        ]
       },
       {
         "lang": "ms",
@@ -276,7 +279,10 @@
       },
       {
         "lang": "sr",
-        "name": "Muljaca / Мулјача"
+        "name": "Muljaca",
+        "synonyms": [
+          "Мулјача"
+        ]
       },
       {
         "lang": "sv",
@@ -337,7 +343,7 @@
       },
       {
         "lang": "be",
-        "name": "Малы грыцук"
+        "name": "Грыцук малы"
       },
       {
         "lang": "bg",
@@ -365,7 +371,7 @@
       },
       {
         "lang": "cy",
-        "name": "Cyffylog y mor"
+        "name": "Rhostog gynffonfraith"
       },
       {
         "lang": "da",
@@ -389,10 +395,7 @@
       },
       {
         "lang": "es",
-        "name": "Aguja colipinta",
-        "synonyms": [
-          "becasina de cola barrada"
-        ]
+        "name": "Aguja colipinta"
       },
       {
         "lang": "et",
@@ -401,6 +404,10 @@
       {
         "lang": "eu",
         "name": "Kuliska gorri"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌انبری دم‌نواری"
       },
       {
         "lang": "fi",
@@ -428,7 +435,7 @@
       },
       {
         "lang": "gl",
-        "name": "Agulla colipinta"
+        "name": "Mazarico rabipinto"
       },
       {
         "lang": "gv",
@@ -453,6 +460,10 @@
       {
         "lang": "id",
         "name": "Biru-laut ekor-blorok"
+      },
+      {
+        "lang": "ik",
+        "name": "Turraaturaq"
       },
       {
         "lang": "is",
@@ -491,8 +502,12 @@
         "name": "Kūaka"
       },
       {
+        "lang": "ml",
+        "name": "വരവാലൻ ഗോഡ്‌വിറ്റ്"
+      },
+      {
         "lang": "mn",
-        "name": "Хурган цууцал / ᠮᠣᠷᠢᠨ ᠴᠣᠣᠴᠠᠯᠢ"
+        "name": "Хурган цууцал - ᠮᠣᠷᠢᠨ ᠴᠣᠣᠴᠠᠯᠢ"
       },
       {
         "lang": "ms",
@@ -527,11 +542,11 @@
         "name": "بار دم آلا گاڈوٹ"
       },
       {
-        "lang": "pt-br",
+        "lang": "pt",
         "name": "Fuselo"
       },
       {
-        "lang": "pt",
+        "lang": "pt-br",
         "name": "Fuselo"
       },
       {
@@ -568,7 +583,7 @@
       },
       {
         "lang": "sr",
-        "name": "Mala muljaca / Мала муљача"
+        "name": "Mala muljaca - Мала муљача"
       },
       {
         "lang": "sv",
@@ -580,7 +595,7 @@
       },
       {
         "lang": "ta",
-        "name": "Pattaivaal Mookkaan"
+        "name": "பட்டைவால் மூக்கன்"
       },
       {
         "lang": "th",
@@ -600,7 +615,7 @@
       },
       {
         "lang": "uk",
-        "name": "Малий грицик"
+        "name": "Грицик малий"
       },
       {
         "lang": "vi",

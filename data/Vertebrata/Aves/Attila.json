@@ -22,7 +22,20 @@
   },
   {
     "scientific_name": "Attila rufus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-hooded attila"
+      },
+      {
+        "lang": "es",
+        "name": "Atila encapuchado"
+      },
+      {
+        "lang": "pt",
+        "name": "Capitão"
+      }
+    ]
   },
   {
     "scientific_name": "Attila phoenicurus",

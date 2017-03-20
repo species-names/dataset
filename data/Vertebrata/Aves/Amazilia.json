@@ -81,24 +81,66 @@
     ]
   },
   {
+    "scientific_name": "Amazilia wagneri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon-sided Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí flanquicanelo"
+      }
+    ]
+  },
+  {
     "scientific_name": "Amazilia viridigaster",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-bellied Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia viridifrons",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-fronted Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia viridicauda",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-and-white Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia blanquiverde"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia violiceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Violet-crowned Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia versicolor",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Versicoloured Emeraldes"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia tzacatl",
@@ -178,7 +220,16 @@
   },
   {
     "scientific_name": "Amazilia tobaci",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Copper-rumped Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia de Tobago"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia saucerrottei",
@@ -262,11 +313,12 @@
   },
   {
     "scientific_name": "Amazilia rosenbergi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Amazilia rondoniae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Purple-chested Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia luciae",
@@ -299,19 +351,55 @@
   },
   {
     "scientific_name": "Amazilia leucogaster",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Plain-bellied Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia ventriblanca"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-de-barriga-branca"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia lactea",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sapphire-spangled Emerald"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia franciae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Andean Emerald"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia fimbriata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Glittering-throated Emerald"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-de-garganta-verde"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia buchiblanca"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia edward",
@@ -394,27 +482,48 @@
   },
   {
     "scientific_name": "Amazilia decora",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Charming Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia cyanura",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-tailed Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia cyanocephala",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Azure-crowned Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia cyanifrons",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Amazilia cupreicauda",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indigo-capped Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia chionogaster",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia castaneiventris",
@@ -424,6 +533,10 @@
         "name": "Chestnut-bellied Hummingbird"
       },
       {
+        "lang": "es",
+        "name": "Amazilia ventricastaña"
+      },
+      {
         "lang": "fi",
         "name": "Kastanjatimanttikolibri"
       }
@@ -431,19 +544,39 @@
   },
   {
     "scientific_name": "Amazilia candida",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Emerald"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia brevirostris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-chested Emerald"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia boucardi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mangrove Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia beryllina",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Berylline Hummingbird"
+      }
+    ]
   },
   {
     "scientific_name": "Amazilia amazilia",
@@ -455,21 +588,16 @@
       {
         "lang": "en",
         "name": "Amazilia Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia costeña"
       }
     ]
   },
   {
     "scientific_name": "Amazilia amabilis",
     "common_names": []
-  },
-  {
-    "scientific_name": "Amazilia alticola",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Loja Hummingbird"
-      }
-    ]
   },
   {
     "scientific_name": "Amazilia alfaroana",

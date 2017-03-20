@@ -22,11 +22,37 @@
   },
   {
     "scientific_name": "Herpsilochmus sticturus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spot-tailed antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí colipunteado"
+      },
+      {
+        "lang": "pt",
+        "name": "Chorozinho-de-cauda-pintada"
+      }
+    ]
   },
   {
     "scientific_name": "Herpsilochmus stictocephalus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Todd's antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí de Todd"
+      },
+      {
+        "lang": "pt",
+        "name": "Chorozinho-de-cabeça-pintada"
+      }
+    ]
   },
   {
     "scientific_name": "Herpsilochmus sellowi",
@@ -64,7 +90,20 @@
   },
   {
     "scientific_name": "Herpsilochmus roraimae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Roraiman antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí del Roraima"
+      },
+      {
+        "lang": "pt",
+        "name": "Chorozinho-de-roraima"
+      }
+    ]
   },
   {
     "scientific_name": "Herpsilochmus praedictus",
@@ -115,12 +154,25 @@
       {
         "lang": "en",
         "name": "Ash-throated Antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí de Parker"
       }
     ]
   },
   {
     "scientific_name": "Herpsilochmus motacilloides",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Creamy-bellied antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí motaciloide"
+      }
+    ]
   },
   {
     "scientific_name": "Herpsilochmus longirostris",
@@ -158,7 +210,20 @@
   },
   {
     "scientific_name": "Herpsilochmus dorsimaculatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spot-backed antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí dorsimanchado"
+      },
+      {
+        "lang": "pt",
+        "name": "Chorozinho-de-costas-manchadas"
+      }
+    ]
   },
   {
     "scientific_name": "Herpsilochmus axillaris",
@@ -170,6 +235,10 @@
       {
         "lang": "fr",
         "name": "Grisin à poitrine jaune"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí pechiamarillo"
       }
     ]
   },

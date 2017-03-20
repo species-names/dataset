@@ -1,28 +1,32 @@
 [
   {
-    "scientific_name": "Garrulax treacheri",
+    "scientific_name": "Garrulax taewanus",
     "common_names": []
   },
   {
-    "scientific_name": "Garrulax bicolor",
+    "scientific_name": "Garrulax ferrarius",
     "common_names": []
   },
   {
-    "scientific_name": "Garrulax yersini",
-    "common_names": [
-      {
-        "lang": "es",
-        "name": "Charlatán de Yersin"
-      }
-    ]
+    "scientific_name": "Garrulax courtoisi",
+    "common_names": []
   },
   {
-    "scientific_name": "Garrulax virgatus",
+    "scientific_name": "Garrulax castanotis",
     "common_names": []
   },
   {
     "scientific_name": "Garrulax vassali",
     "common_names": []
+  },
+  {
+    "scientific_name": "Garrulax treacheri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-hooded Laughingthrush"
+      }
+    ]
   },
   {
     "scientific_name": "Garrulax sukatschewi",
@@ -42,15 +46,6 @@
       {
         "lang": "zh",
         "name": "白頸噪鶥"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Garrulax squamatus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Blue-winged Laughingthrush"
       }
     ]
   },
@@ -101,8 +96,22 @@
     "common_names": []
   },
   {
+    "scientific_name": "Garrulax ruficeps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-crowned Laughingthrush"
+      }
+    ]
+  },
+  {
     "scientific_name": "Garrulax poecilorhynchus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rusty Laughingthrush"
+      }
+    ]
   },
   {
     "scientific_name": "Garrulax perspicillatus",
@@ -148,18 +157,39 @@
   },
   {
     "scientific_name": "Garrulax ocellatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Chwarddwr mannog"
+      },
+      {
+        "lang": "en",
+        "name": "Spotted Laughingthrush"
+      },
+      {
+        "lang": "fr",
+        "name": "Garrulaxe ocellé"
+      },
+      {
+        "lang": "hu",
+        "name": "Pávaszemes álszajkó"
+      },
+      {
+        "lang": "nl",
+        "name": "Bonte lijstergaai"
+      },
+      {
+        "lang": "sv",
+        "name": "Pärlfnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "眼纹噪鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Garrulax nuchalis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Garrulax ngoclinhensis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Garrulax morrisonianus",
     "common_names": []
   },
   {
@@ -181,15 +211,6 @@
     ]
   },
   {
-    "scientific_name": "Garrulax milnei",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Red-tailed Laughingthrush"
-      }
-    ]
-  },
-  {
     "scientific_name": "Garrulax milleti",
     "common_names": [
       {
@@ -200,7 +221,12 @@
   },
   {
     "scientific_name": "Garrulax merulinus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spot-breasted Laughingthrush"
+      }
+    ]
   },
   {
     "scientific_name": "Garrulax maximus",
@@ -236,15 +262,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Garrulax lineatus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Streaked Laughingthrush"
-      }
-    ]
-  },
-  {
     "scientific_name": "Garrulax leucolophus",
     "common_names": [
       {
@@ -266,7 +283,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "sojkovec konkakinhský"
+        "name": "Sojkovec konkakinhský"
       },
       {
         "lang": "da",
@@ -286,7 +303,7 @@
       },
       {
         "lang": "fi",
-        "name": "konkakinhintimali"
+        "name": "Konkakinhintimali"
       },
       {
         "lang": "fr",
@@ -301,13 +318,6 @@
         "name": "チャミミガビチョウ"
       },
       {
-        "lang": "la",
-        "name": "Garrulax konkakinhensis",
-        "synonyms": [
-          "Ianthocincla konkakinhensis"
-        ]
-      },
-      {
         "lang": "nl",
         "name": "Kastanjeoorlijstergaai"
       },
@@ -317,11 +327,11 @@
       },
       {
         "lang": "pl",
-        "name": "sójkowiec wietnamski"
+        "name": "Sójkowiec wietnamski"
       },
       {
         "lang": "sk",
-        "name": "timáliovec hnedosluchý"
+        "name": "Timáliovec hnedosluchý"
       },
       {
         "lang": "sv",
@@ -334,31 +344,11 @@
     ]
   },
   {
-    "scientific_name": "Garrulax jerdoni",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Garrulax henrici",
-    "common_names": []
-  },
-  {
     "scientific_name": "Garrulax gularis",
     "common_names": []
   },
   {
     "scientific_name": "Garrulax galbanus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Garrulax formosus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Garrulax erythrocephalus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Garrulax elliotii",
     "common_names": []
   },
   {
@@ -473,15 +463,6 @@
     ]
   },
   {
-    "scientific_name": "Garrulax cachinnans",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Rufous-breasted Laughingthrush"
-      }
-    ]
-  },
-  {
     "scientific_name": "Garrulax bieti",
     "common_names": [
       {
@@ -491,16 +472,39 @@
     ]
   },
   {
-    "scientific_name": "Garrulax austeni",
+    "scientific_name": "Garrulax bicolor",
     "common_names": [
       {
         "lang": "en",
-        "name": "Brown-capped Laughingthrush"
+        "name": "Sumatran Laughingthrush"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Garrulax berthemyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buffy Laughingthrush"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Garrulax annamensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-breasted Laughingthrush"
       }
     ]
   },
   {
     "scientific_name": "Garrulax albogularis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Laughingthrush"
+      }
+    ]
   }
 ]

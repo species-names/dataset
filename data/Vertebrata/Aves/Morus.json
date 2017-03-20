@@ -1,0 +1,307 @@
+[
+  {
+    "scientific_name": "Morus serrator",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Mascarell australià"
+      },
+      {
+        "lang": "de",
+        "name": "Australischer Tölpel"
+      },
+      {
+        "lang": "en",
+        "name": "Australasian Gannet"
+      },
+      {
+        "lang": "fi",
+        "name": "Australiansuula"
+      },
+      {
+        "lang": "fr",
+        "name": "Fou austral"
+      },
+      {
+        "lang": "hu",
+        "name": "Ausztráliai szula"
+      },
+      {
+        "lang": "mi",
+        "name": "Tākapu"
+      },
+      {
+        "lang": "pl",
+        "name": "Głuptak australijski"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk sula"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Morus capensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kaptölpel"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Gannet"
+      },
+      {
+        "lang": "fi",
+        "name": "Kapinsuula"
+      },
+      {
+        "lang": "fr",
+        "name": "Fou du Cap"
+      },
+      {
+        "lang": "ja",
+        "name": "ケープシロカツオドリ"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapsula"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim điên Cape"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Morus bassanus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "أطيش شمالي"
+      },
+      {
+        "lang": "ast",
+        "name": "Mazcatu"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Олуша паўночная"
+      },
+      {
+        "lang": "be",
+        "name": "Олуша паўночная"
+      },
+      {
+        "lang": "bg",
+        "name": "Бял рибояд"
+      },
+      {
+        "lang": "br",
+        "name": "Morskoul boutin"
+      },
+      {
+        "lang": "ca",
+        "name": "Mascarell comú"
+      },
+      {
+        "lang": "cs",
+        "name": "terej bílý"
+      },
+      {
+        "lang": "cw",
+        "name": "Sethor"
+      },
+      {
+        "lang": "cy",
+        "name": "Hugan"
+      },
+      {
+        "lang": "da",
+        "name": "Sule"
+      },
+      {
+        "lang": "de",
+        "name": "Basstölpel"
+      },
+      {
+        "lang": "el",
+        "name": "Σούλα"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Gannet"
+      },
+      {
+        "lang": "eo",
+        "name": "Norda sulo"
+      },
+      {
+        "lang": "es",
+        "name": "Alcatraz",
+        "synonyms": [
+          "Alcatraz Atlántico"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Suula"
+      },
+      {
+        "lang": "eu",
+        "name": "Zanga"
+      },
+      {
+        "lang": "fi",
+        "name": "suula"
+      },
+      {
+        "lang": "fo",
+        "name": "Súla"
+      },
+      {
+        "lang": "fr",
+        "name": "Fou de Bassan"
+      },
+      {
+        "lang": "frr",
+        "name": "Jan faan Gent"
+      },
+      {
+        "lang": "ga",
+        "name": "Gainéad"
+      },
+      {
+        "lang": "gd",
+        "name": "Asau"
+      },
+      {
+        "lang": "gl",
+        "name": "Mascato común"
+      },
+      {
+        "lang": "gv",
+        "name": "Gant"
+      },
+      {
+        "lang": "he",
+        "name": "סולה צפונית"
+      },
+      {
+        "lang": "hr",
+        "name": "Bluna"
+      },
+      {
+        "lang": "hu",
+        "name": "Szula"
+      },
+      {
+        "lang": "is",
+        "name": "Súla"
+      },
+      {
+        "lang": "it",
+        "name": "sula bassana"
+      },
+      {
+        "lang": "ja",
+        "name": "シロカツオドリ",
+        "synonyms": [
+          "shirokatsuodori"
+        ]
+      },
+      {
+        "lang": "kk",
+        "name": "Ескекаяқты олуша"
+      },
+      {
+        "lang": "kw",
+        "name": "Sether"
+      },
+      {
+        "lang": "lt",
+        "name": "Šiaurinis padūkėlis"
+      },
+      {
+        "lang": "lv",
+        "name": "Ziemeļu sulla"
+      },
+      {
+        "lang": "mt",
+        "name": "Sula"
+      },
+      {
+        "lang": "nl",
+        "name": "Jan-van-gent"
+      },
+      {
+        "lang": "nn",
+        "name": "Havsule"
+      },
+      {
+        "lang": "no",
+        "name": "Havsule"
+      },
+      {
+        "lang": "pcd",
+        "name": "Margat"
+      },
+      {
+        "lang": "pl",
+        "name": "głuptak"
+      },
+      {
+        "lang": "pms",
+        "name": "Sula bassana"
+      },
+      {
+        "lang": "pt",
+        "name": "Ganso-patola"
+      },
+      {
+        "lang": "ru",
+        "name": "Северная олуша"
+      },
+      {
+        "lang": "se",
+        "name": "Suvla"
+      },
+      {
+        "lang": "sh",
+        "name": "Bluna"
+      },
+      {
+        "lang": "sk",
+        "name": "sula biela"
+      },
+      {
+        "lang": "sl",
+        "name": "navadni strmoglavec"
+      },
+      {
+        "lang": "sq",
+        "name": "Basani i çmendur"
+      },
+      {
+        "lang": "sv",
+        "name": "Havssula"
+      },
+      {
+        "lang": "tr",
+        "name": "Sümsük kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Північна олуша"
+      },
+      {
+        "lang": "vi",
+        "name": "Ó biển phương Bắc"
+      },
+      {
+        "lang": "zh",
+        "name": "北方塘鹅"
+      }
+    ]
+  }
+]

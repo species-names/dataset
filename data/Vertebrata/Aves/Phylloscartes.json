@@ -8,19 +8,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Phylloscartes venezuelanus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Venezuelan bristle-tyrant"
-      },
-      {
-        "lang": "es",
-        "name": "Orejerito venezolano"
-      }
-    ]
-  },
-  {
     "scientific_name": "Phylloscartes sylviolus",
     "common_names": [
       {
@@ -64,19 +51,6 @@
       {
         "lang": "es",
         "name": "Orejerito de Minas Gerais"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Phylloscartes poecilotis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Variegated Bristle-Tyrant"
-      },
-      {
-        "lang": "es",
-        "name": "Orejerito variegado"
       }
     ]
   },
@@ -136,32 +110,6 @@
     ]
   },
   {
-    "scientific_name": "Phylloscartes orbitalis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Spectacled bristle-tyrant"
-      },
-      {
-        "lang": "es",
-        "name": "Orejerito de anteojos"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Phylloscartes ophthalmicus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Marble-faced Bristle-tyrant"
-      },
-      {
-        "lang": "es",
-        "name": "Orejerito jaspeado"
-      }
-    ]
-  },
-  {
     "scientific_name": "Phylloscartes nigrifrons",
     "common_names": [
       {
@@ -175,19 +123,6 @@
       {
         "lang": "pt",
         "name": "Maria-de-testa-preta"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Phylloscartes lanyoni",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Antioquia Bristle-Tyrant"
-      },
-      {
-        "lang": "es",
-        "name": "Orejerito antioqueño"
       }
     ]
   },
@@ -239,31 +174,6 @@
     ]
   },
   {
-    "scientific_name": "Phylloscartes eximius",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Southern Bristle-tyrant"
-      },
-      {
-        "lang": "es",
-        "name": "Orejerito cejudo"
-      },
-      {
-        "lang": "nl",
-        "name": "Temmincks looftiran"
-      },
-      {
-        "lang": "sv",
-        "name": "Sydlig borsttyrann"
-      },
-      {
-        "lang": "pt",
-        "name": "Barbudinho"
-      }
-    ]
-  },
-  {
     "scientific_name": "Phylloscartes difficilis",
     "common_names": [
       {
@@ -277,23 +187,6 @@
       {
         "lang": "pt",
         "name": "Estalinho"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Phylloscartes chapmani",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Chapman's tyrannulet"
-      },
-      {
-        "lang": "es",
-        "name": "Orejerito de Chapman"
-      },
-      {
-        "lang": "pt",
-        "name": "Barbudinho-do-tepui"
       }
     ]
   },

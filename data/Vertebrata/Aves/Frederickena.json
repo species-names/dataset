@@ -1,10 +1,49 @@
 [
   {
     "scientific_name": "Frederickena viridis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-throated antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará gorginegro"
+      },
+      {
+        "lang": "pt",
+        "name": "Borralhara-do-norte"
+      }
+    ]
   },
   {
-    "scientific_name": "Frederickena unduligera",
-    "common_names": []
+    "scientific_name": "Frederickena unduliger",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Undulated antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará ondulado"
+      },
+      {
+        "lang": "pt",
+        "name": "Borralhara-ondulada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Frederickena fulva",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fulvous antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará leonado"
+      }
+    ]
   }
 ]

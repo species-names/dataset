@@ -1,0 +1,428 @@
+[
+  {
+    "scientific_name": "Chloris spinoides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-breasted Greenfinch"
+      },
+      {
+        "lang": "fr",
+        "name": "Verdier de l'Himalaya"
+      },
+      {
+        "lang": "ja",
+        "name": "キバラカワラヒワ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chloris sinica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Oriental Greenfinch"
+      },
+      {
+        "lang": "ja",
+        "name": "カワラヒワ (河原鶸",
+        "synonyms": [
+          "''Kawarahiwa'')"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "金翅雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chloris monguilloti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Vietnamese Greenfinch"
+      },
+      {
+        "lang": "fr",
+        "name": "Verdier du Viêt Nam"
+      },
+      {
+        "lang": "ja",
+        "name": "ベトナムカワラヒワ"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ thông họng vàng"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chloris chloris",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Grüelig",
+        "synonyms": [
+          "Grööfink"
+        ]
+      },
+      {
+        "lang": "ar",
+        "name": "حسون أخضر أوروبي",
+        "synonyms": [
+          "الخضيري"
+        ]
+      },
+      {
+        "lang": "ast",
+        "name": "Verderón"
+      },
+      {
+        "lang": "aze",
+        "name": "Meşə kanareykası"
+      },
+      {
+        "lang": "ba",
+        "name": "Йәшел турғай"
+      },
+      {
+        "lang": "be",
+        "name": "Звычайная зелянушка"
+      },
+      {
+        "lang": "bg",
+        "name": "Зеленика"
+      },
+      {
+        "lang": "br",
+        "name": "Meleneg"
+      },
+      {
+        "lang": "ca",
+        "name": "Verderol"
+      },
+      {
+        "lang": "co",
+        "name": "Virdulina"
+      },
+      {
+        "lang": "cs",
+        "name": "Zvonek zelený"
+      },
+      {
+        "lang": "cv",
+        "name": "Симĕс кайăк"
+      },
+      {
+        "lang": "cy",
+        "name": "Llinos werdd"
+      },
+      {
+        "lang": "da",
+        "name": "Grønirisk"
+      },
+      {
+        "lang": "de",
+        "name": "Grünfink"
+      },
+      {
+        "lang": "el",
+        "name": "Φλώρος"
+      },
+      {
+        "lang": "emi",
+        "name": "Verdòun"
+      },
+      {
+        "lang": "en",
+        "name": "European Greenfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Verda fringo"
+      },
+      {
+        "lang": "es",
+        "name": "Verderón"
+      },
+      {
+        "lang": "et",
+        "name": "Rohevint"
+      },
+      {
+        "lang": "eu",
+        "name": "Txorru arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره سبز"
+      },
+      {
+        "lang": "fi",
+        "name": "Viherpeippo"
+      },
+      {
+        "lang": "fo",
+        "name": "Grønígða"
+      },
+      {
+        "lang": "fr",
+        "name": "Verdier"
+      },
+      {
+        "lang": "frr",
+        "name": "Greenfink"
+      },
+      {
+        "lang": "fy",
+        "name": "Flaaksfink"
+      },
+      {
+        "lang": "ga",
+        "name": "Glasán darach"
+      },
+      {
+        "lang": "gd",
+        "name": "Glaisean-daraich"
+      },
+      {
+        "lang": "gl",
+        "name": "Verderolo"
+      },
+      {
+        "lang": "gv",
+        "name": "Ghlassan gharagh"
+      },
+      {
+        "lang": "he",
+        "name": "ירקון"
+      },
+      {
+        "lang": "hr",
+        "name": "Zelendur zelenac"
+      },
+      {
+        "lang": "hu",
+        "name": "Zöldike"
+      },
+      {
+        "lang": "hy",
+        "name": "Կանաչ Սերինոս"
+      },
+      {
+        "lang": "io",
+        "name": "Verdrono"
+      },
+      {
+        "lang": "is",
+        "name": "Grænfinka"
+      },
+      {
+        "lang": "it",
+        "name": "Verdone"
+      },
+      {
+        "lang": "ja",
+        "name": "アオカワラヒワ"
+      },
+      {
+        "lang": "ka",
+        "name": "კრუალა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Бзуудзыфэ"
+      },
+      {
+        "lang": "kk",
+        "name": "жасылтауылжық"
+      },
+      {
+        "lang": "ku",
+        "name": "Pêping"
+      },
+      {
+        "lang": "kw",
+        "name": "Melenek"
+      },
+      {
+        "lang": "lb",
+        "name": "Grénge Fluessfänkelchen"
+      },
+      {
+        "lang": "li",
+        "name": "Greunvink"
+      },
+      {
+        "lang": "lt",
+        "name": "Žaliukė"
+      },
+      {
+        "lang": "lv",
+        "name": "Zaļžubīte"
+      },
+      {
+        "lang": "mk",
+        "name": "Зеленушка"
+      },
+      {
+        "lang": "mt",
+        "name": "Verdun"
+      },
+      {
+        "lang": "nds",
+        "name": "Gröönfink"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Vlasvink"
+      },
+      {
+        "lang": "nl",
+        "name": "Groenling"
+      },
+      {
+        "lang": "nn",
+        "name": "Grønfink"
+      },
+      {
+        "lang": "no",
+        "name": "Grønnfink"
+      },
+      {
+        "lang": "nrm",
+        "name": "Verdgé"
+      },
+      {
+        "lang": "oc",
+        "name": "Verdier"
+      },
+      {
+        "lang": "pcd",
+        "name": "Vert-linette"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzwoniec"
+      },
+      {
+        "lang": "pms",
+        "name": "Vërdon"
+      },
+      {
+        "lang": "pt",
+        "name": "Verdilhão"
+      },
+      {
+        "lang": "rm",
+        "name": "Verdaun"
+      },
+      {
+        "lang": "ro",
+        "name": "Florinete"
+      },
+      {
+        "lang": "ru",
+        "name": "Зеленушка"
+      },
+      {
+        "lang": "rue",
+        "name": "Зеленушка"
+      },
+      {
+        "lang": "scn",
+        "name": "Virduni"
+      },
+      {
+        "lang": "sco",
+        "name": "Green lintie"
+      },
+      {
+        "lang": "se",
+        "name": "Ruonábeibboš"
+      },
+      {
+        "lang": "sh",
+        "name": "Zelendur zelenac"
+      },
+      {
+        "lang": "sk",
+        "name": "Zelienka obyčajná"
+      },
+      {
+        "lang": "sl",
+        "name": "Zelenec"
+      },
+      {
+        "lang": "sq",
+        "name": "Verduni"
+      },
+      {
+        "lang": "sr",
+        "name": "Зелентарка"
+      },
+      {
+        "lang": "sv",
+        "name": "Grönfink"
+      },
+      {
+        "lang": "tr",
+        "name": "Florya"
+      },
+      {
+        "lang": "uk",
+        "name": "Зеленяк"
+      },
+      {
+        "lang": "vls",
+        "name": "Vlasvienke"
+      },
+      {
+        "lang": "wa",
+        "name": "Verdire"
+      },
+      {
+        "lang": "zea",
+        "name": "Geelvienke"
+      },
+      {
+        "lang": "zh",
+        "name": "金翅"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chloris ambigua",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Zvonek černohlavý"
+      },
+      {
+        "lang": "da",
+        "name": "Sorthovedet Grønfinke"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkopfgrünling"
+      },
+      {
+        "lang": "en",
+        "name": "Black-headed Greenfinch"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロカワラヒワ"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzwoniec ubogi"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthuvad grönfink"
+      }
+    ]
+  }
+]

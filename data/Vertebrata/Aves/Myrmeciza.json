@@ -103,7 +103,16 @@
   },
   {
     "scientific_name": "Myrmeciza griseiceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-headed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero cabecigrís"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmeciza goeldii",

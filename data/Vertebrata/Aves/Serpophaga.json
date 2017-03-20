@@ -1,11 +1,37 @@
 [
   {
     "scientific_name": "Serpophaga subcristata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-crested tyrannulet"
+      },
+      {
+        "lang": "es",
+        "name": "Piojito tiquitiqui"
+      },
+      {
+        "lang": "pt",
+        "name": "Alegrinho"
+      }
+    ]
   },
   {
     "scientific_name": "Serpophaga nigricans",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sooty tyrannulet"
+      },
+      {
+        "lang": "es",
+        "name": "Piojito gris"
+      },
+      {
+        "lang": "pt",
+        "name": "João-pobre"
+      }
+    ]
   },
   {
     "scientific_name": "Serpophaga munda",

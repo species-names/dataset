@@ -1,6 +1,19 @@
 [
   {
     "scientific_name": "Megastictus margaritatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pearly antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará perlado"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-pintada"
+      }
+    ]
   }
 ]

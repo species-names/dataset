@@ -8,10 +8,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Otus siaoensis",
-    "common_names": []
-  },
-  {
     "scientific_name": "Otus pamelae",
     "common_names": []
   },
@@ -276,6 +272,47 @@
       {
         "lang": "es",
         "name": "Autillo de Wallace"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Otus siaoensis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Xot de Siau"
+      },
+      {
+        "lang": "de",
+        "name": "Siau-Zwergohreule"
+      },
+      {
+        "lang": "en",
+        "name": "Siau Scops Owl"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc de Siau"
+      },
+      {
+        "lang": "hu",
+        "name": "Siau füleskuvik"
+      },
+      {
+        "lang": "id",
+        "name": "Celepuk siau"
+      },
+      {
+        "lang": "nl",
+        "name": "Siaudwergooruil"
+      },
+      {
+        "lang": "sv",
+        "name": "Siaudvärguv"
+      },
+      {
+        "lang": "zh",
+        "name": "斯欧角鸮"
       }
     ]
   },
