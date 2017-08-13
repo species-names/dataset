@@ -1,24 +1,7 @@
 [
   {
     "scientific_name": "Dendrocopos temminckii",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Sulawesi Woodpecker"
-      },
-      {
-        "lang": "es",
-        "name": "Pico de Célebes"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic de Temminck"
-      },
-      {
-        "lang": "tr",
-        "name": "Sulawesi ağaçkakanı"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos syriacus",
@@ -40,6 +23,13 @@
         "name": "Pic syriaque"
       },
       {
+        "lang": "hu",
+        "name": "Balkáni fakopáncs",
+        "synonyms": [
+          "balkáni tarkaharkály"
+        ]
+      },
+      {
         "lang": "hy",
         "name": "Փայտփոր սիրիական"
       },
@@ -59,368 +49,56 @@
   },
   {
     "scientific_name": "Dendrocopos ramsayi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Dendrocopos noguchii",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Okinawa-Specht"
+      },
+      {
         "lang": "en",
-        "name": "Sulu Pygmy Woodpecker"
+        "name": "Okinawa Woodpecker"
       },
       {
-        "lang": "nl",
-        "name": "Suluspecht"
+        "lang": "es",
+        "name": "Pito de Okinawa"
       },
       {
-        "lang": "pnb",
-        "name": "سولو ٹھمنا چڑی ترکھان"
+        "lang": "fr",
+        "name": "Pic d'Okinawa"
       },
       {
-        "lang": "sv",
-        "name": "Suluspett"
+        "lang": "ja",
+        "name": "ノグチゲラ"
+      },
+      {
+        "lang": "fi",
+        "name": "Okinawantikka"
+      },
+      {
+        "lang": "ko",
+        "name": "오키나와딱다구리"
       }
     ]
   },
   {
     "scientific_name": "Dendrocopos nanus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Brown-capped Pygmy Woodpecker"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic à calotte brune"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos moluccensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Sunda Pygmy Woodpecker"
-      },
-      {
-        "lang": "es",
-        "name": "Pico crestipardo"
-      },
-      {
-        "lang": "fi",
-        "name": "Ruskolakkitikka"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic nain"
-      },
-      {
-        "lang": "id",
-        "name": "Caladi tilik"
-      },
-      {
-        "lang": "ms",
-        "name": "Burung Belatuk Belacan Kecil"
-      },
-      {
-        "lang": "nl",
-        "name": "Bruinkapspecht"
-      },
-      {
-        "lang": "pnb",
-        "name": "سنڈا ٹھمنا چڑی ترکھان"
-      },
-      {
-        "lang": "sv",
-        "name": "Sundaspett"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos minor",
-    "common_names": [
-      {
-        "lang": "kbd",
-        "name": "ЖыгыуӀуцӀыкӀу"
-      },
-      {
-        "lang": "ar",
-        "name": "نقار خشب مرقط صغير"
-      },
-      {
-        "lang": "az",
-        "name": "Kiçik ağacdələn"
-      },
-      {
-        "lang": "ba",
-        "name": "Ваҡ ала тумыртҡа"
-      },
-      {
-        "lang": "bg",
-        "name": "Малък пъстър кълвач"
-      },
-      {
-        "lang": "br",
-        "name": "Speg brizh bihan"
-      },
-      {
-        "lang": "ca",
-        "name": "Picot garser petit"
-      },
-      {
-        "lang": "cv",
-        "name": "Пĕчĕк улатакка"
-      },
-      {
-        "lang": "cs",
-        "name": "Strakapoud malý"
-      },
-      {
-        "lang": "co",
-        "name": "Pichjettu"
-      },
-      {
-        "lang": "cy",
-        "name": "Cnocell Fraith Leiaf"
-      },
-      {
-        "lang": "da",
-        "name": "Lille flagspætte"
-      },
-      {
-        "lang": "de",
-        "name": "Kleinspecht"
-      },
-      {
-        "lang": "en",
-        "name": "Lesser Spotted Woodpecker"
-      },
-      {
-        "lang": "es",
-        "name": "Pico menor"
-      },
-      {
-        "lang": "eo",
-        "name": "Malgranda buntpego"
-      },
-      {
-        "lang": "eu",
-        "name": "Okil txiki"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic épeichette"
-      },
-      {
-        "lang": "gag",
-        "name": "Küçük aaçkakan"
-      },
-      {
-        "lang": "gl",
-        "name": "Peto pequeno"
-      },
-      {
-        "lang": "hy",
-        "name": "Փայտփոր փոքր"
-      },
-      {
-        "lang": "it",
-        "name": "Picchio rosso minore"
-      },
-      {
-        "lang": "csb",
-        "name": "Dzëcółk"
-      },
-      {
-        "lang": "lt",
-        "name": "Mažasis margasis genys"
-      },
-      {
-        "lang": "hu",
-        "name": "Kis fakopáncs"
-      },
-      {
-        "lang": "nl",
-        "name": "Kleine bonte specht"
-      },
-      {
-        "lang": "ja",
-        "name": "コアカゲラ"
-      },
-      {
-        "lang": "no",
-        "name": "Dvergspett"
-      },
-      {
-        "lang": "nn",
-        "name": "Dvergspett"
-      },
-      {
-        "lang": "pl",
-        "name": "Dzięciołek"
-      },
-      {
-        "lang": "pt",
-        "name": "Pica-pau-malhado-pequeno"
-      },
-      {
-        "lang": "rue",
-        "name": "Малый довбач"
-      },
-      {
-        "lang": "ru",
-        "name": "Малый пёстрый дятел"
-      },
-      {
-        "lang": "sah",
-        "name": "Үөт тоҥсоҕойо"
-      },
-      {
-        "lang": "se",
-        "name": "Uhcačáihni"
-      },
-      {
-        "lang": "sk",
-        "name": "Ďateľ malý"
-      },
-      {
-        "lang": "fi",
-        "name": "Pikkutikka"
-      },
-      {
-        "lang": "sv",
-        "name": "Mindre hackspett"
-      },
-      {
-        "lang": "tr",
-        "name": "Küçük ağaçkakan"
-      },
-      {
-        "lang": "udm",
-        "name": "Горд йыро сизь"
-      },
-      {
-        "lang": "uk",
-        "name": "Дятел малий строкатий"
-      },
-      {
-        "lang": "zh",
-        "name": "小斑啄木鸟"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos medius",
-    "common_names": [
-      {
-        "lang": "ar",
-        "name": "نقار خشب مرقط أوسط"
-      },
-      {
-        "lang": "az",
-        "name": "Ortaboy ağacdələn"
-      },
-      {
-        "lang": "bg",
-        "name": "Среден пъстър кълвач"
-      },
-      {
-        "lang": "br",
-        "name": "Speg krenn"
-      },
-      {
-        "lang": "cs",
-        "name": "Strakapoud prostřední"
-      },
-      {
-        "lang": "da",
-        "name": "Mellemflagspætte"
-      },
-      {
-        "lang": "de",
-        "name": "Mittelspecht"
-      },
-      {
-        "lang": "en",
-        "name": "Middle Spotted Woodpecker"
-      },
-      {
-        "lang": "es",
-        "name": "Pico mediano"
-      },
-      {
-        "lang": "eo",
-        "name": "Mezgranda buntpego"
-      },
-      {
-        "lang": "eu",
-        "name": "Okil ertain"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic mar"
-      },
-      {
-        "lang": "gl",
-        "name": "Peto mediano"
-      },
-      {
-        "lang": "hy",
-        "name": "Փայտփոր միջին"
-      },
-      {
-        "lang": "it",
-        "name": "Picchio rosso mezzano"
-      },
-      {
-        "lang": "lv",
-        "name": "Vidējais dzenis"
-      },
-      {
-        "lang": "lt",
-        "name": "Vidutinis margasis genys"
-      },
-      {
-        "lang": "hu",
-        "name": "Közép fakopáncs"
-      },
-      {
-        "lang": "nl",
-        "name": "Middelste bonte specht"
-      },
-      {
-        "lang": "ja",
-        "name": "ヒメアカゲラ"
-      },
-      {
-        "lang": "no",
-        "name": "Mellomspett"
-      },
-      {
-        "lang": "pl",
-        "name": "Dzięcioł średni"
-      },
-      {
-        "lang": "rue",
-        "name": "Середнїй довбач"
-      },
-      {
-        "lang": "ru",
-        "name": "Средний пёстрый дятел"
-      },
-      {
-        "lang": "sk",
-        "name": "Ďateľ prostredný"
-      },
-      {
-        "lang": "fi",
-        "name": "Tammitikka"
-      },
-      {
-        "lang": "sv",
-        "name": "Mellanspett"
-      },
-      {
-        "lang": "tr",
-        "name": "Ortanca ağaçkakan"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos major",
@@ -528,7 +206,10 @@
       },
       {
         "lang": "hu",
-        "name": "Nagy fakopáncs"
+        "name": "Nagy fakopáncs",
+        "synonyms": [
+          "tarka harkály"
+        ]
       },
       {
         "lang": "hy",
@@ -626,45 +307,11 @@
   },
   {
     "scientific_name": "Dendrocopos mahrattensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Yellow-crowned Woodpecker"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos maculatus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Philippine Pygmy Woodpecker"
-      },
-      {
-        "lang": "fi",
-        "name": "Filippiinienpikkutikka"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic des Philippines"
-      },
-      {
-        "lang": "nl",
-        "name": "Filipijnse specht"
-      },
-      {
-        "lang": "pnb",
-        "name": "فلپائن ٹھمنا چڑی ترکھان"
-      },
-      {
-        "lang": "sv",
-        "name": "Filippinspett"
-      },
-      {
-        "lang": "tr",
-        "name": "Filipinler ağaçkakanı"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos macei",
@@ -743,6 +390,13 @@
         "name": "Pic à dos blanc"
       },
       {
+        "lang": "hu",
+        "name": "Fehérhátú fakopáncs",
+        "synonyms": [
+          "fehérhátú harkály"
+        ]
+      },
+      {
         "lang": "hy",
         "name": "Փայտփոր սպիտակամեջք"
       },
@@ -775,24 +429,7 @@
   },
   {
     "scientific_name": "Dendrocopos kizuki",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Pygmy Woodpecker"
-      },
-      {
-        "lang": "es",
-        "name": "Pico kizuki"
-      },
-      {
-        "lang": "ja",
-        "name": "コゲラ"
-      },
-      {
-        "lang": "ko",
-        "name": "쇠딱따구리"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos hyperythrus",
@@ -813,16 +450,7 @@
   },
   {
     "scientific_name": "Dendrocopos dorae",
-    "common_names": [
-      {
-        "lang": "de",
-        "name": "Araberspecht"
-      },
-      {
-        "lang": "en",
-        "name": "Arabian Woodpecker"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos darjellensis",
@@ -835,46 +463,15 @@
   },
   {
     "scientific_name": "Dendrocopos cathpharius",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Crimson-breasted Woodpecker"
-      },
-      {
-        "lang": "fi",
-        "name": "Punarintatikka"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos canicapillus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Grey-capped Woodpecker"
-      },
-      {
-        "lang": "th",
-        "name": "นกหัวขวานด่างแคระ"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos auriceps",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Brown-fronted Woodpecker"
-      },
-      {
-        "lang": "es",
-        "name": "Pico frentipardo"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic à tête jaune"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Dendrocopos atratus",

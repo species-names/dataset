@@ -70,12 +70,16 @@
         "name": "Giant Coot"
       },
       {
+        "lang": "fi",
+        "name": "Punannokikana"
+      },
+      {
         "lang": "fr",
         "name": "Foulque géante"
       },
       {
-        "lang": "fi",
-        "name": "Punannokikana"
+        "lang": "hu",
+        "name": "Óriásszárcsa"
       }
     ]
   },
@@ -182,24 +186,7 @@
   },
   {
     "scientific_name": "Fulica caribaea",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Caribbean Coot"
-      },
-      {
-        "lang": "eo",
-        "name": "Kariba fuliko"
-      },
-      {
-        "lang": "fi",
-        "name": "Karibiannokikana"
-      },
-      {
-        "lang": "fr",
-        "name": "Foulque à cachet blanc"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Fulica atra",
@@ -552,7 +539,10 @@
       },
       {
         "lang": "sr",
-        "name": "Liska / Лиска"
+        "name": "Liska",
+        "synonyms": [
+          "Лиска"
+        ]
       },
       {
         "lang": "stq",
@@ -625,15 +615,15 @@
       },
       {
         "lang": "pt",
-        "name": "carqueja",
-        "synonyms": [
-          "galinha-d'água",
-          "mergulhão"
-        ]
+        "name": "carqueja-de-bico-manchado"
       },
       {
         "lang": "sv",
         "name": "Rödgulpannad sothöna"
+      },
+      {
+        "lang": "es",
+        "name": "Focha de ligas"
       }
     ]
   },
@@ -655,7 +645,7 @@
       },
       {
         "lang": "cs",
-        "name": "lyska americká"
+        "name": "Lyska americká"
       },
       {
         "lang": "da",
@@ -679,7 +669,7 @@
       },
       {
         "lang": "fi",
-        "name": "amerikannokikana"
+        "name": "Amerikannokikana"
       },
       {
         "lang": "fr",
@@ -703,10 +693,7 @@
       },
       {
         "lang": "ja",
-        "name": "アメリカオオバン",
-        "synonyms": [
-          "amerikaooban"
-        ]
+        "name": "アメリカオオバン"
       },
       {
         "lang": "lkt",
@@ -738,7 +725,7 @@
       },
       {
         "lang": "sk",
-        "name": "lyska popolavá"
+        "name": "Lyska popolavá"
       },
       {
         "lang": "sv",

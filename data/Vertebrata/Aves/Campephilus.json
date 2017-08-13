@@ -85,7 +85,10 @@
       },
       {
         "lang": "hu",
-        "name": "Királyharkály"
+        "name": "Királyharkály",
+        "synonyms": [
+          "elefántcsontcsőrű harkály"
+        ]
       },
       {
         "lang": "ms",
@@ -169,6 +172,10 @@
       {
         "lang": "fi",
         "name": "Chilentulikärki"
+      },
+      {
+        "lang": "hu",
+        "name": "Magellán-harkály"
       }
     ]
   },
@@ -199,6 +206,10 @@
       {
         "lang": "fr",
         "name": "Pic impérial"
+      },
+      {
+        "lang": "hu",
+        "name": "Császárharkály"
       },
       {
         "lang": "id",
@@ -269,6 +280,10 @@
       {
         "lang": "fr",
         "name": "Pic à bec clair"
+      },
+      {
+        "lang": "hu",
+        "name": "Hercegharkály"
       },
       {
         "lang": "it",

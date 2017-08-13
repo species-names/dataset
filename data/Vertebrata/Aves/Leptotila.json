@@ -168,6 +168,14 @@
       {
         "lang": "cs",
         "name": "Holub okrový"
+      },
+      {
+        "lang": "en",
+        "name": "Ochre-bellied dove"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma montaraz ventriocre"
       }
     ]
   },
@@ -212,16 +220,7 @@
   },
   {
     "scientific_name": "Leptotila cassini",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub Cassinův"
-      },
-      {
-        "lang": "en",
-        "name": "Grey-chested Dove"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Leptotila battyi",

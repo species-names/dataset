@@ -12,8 +12,20 @@
     "scientific_name": "Pogoniulus simplex",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Schlichtbartvogel"
+      },
+      {
         "lang": "en",
-        "name": "African Green-Tinkerbird"
+        "name": "Eastern green-tinkerbird"
+      },
+      {
+        "lang": "es",
+        "name": "Barbudito sencillo"
+      },
+      {
+        "lang": "fr",
+        "name": "Barbion vert"
       }
     ]
   },
@@ -67,6 +79,10 @@
       {
         "lang": "en",
         "name": "Yellow-fronted Tinkerbird"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranyhomlokú bádogosmadár"
       }
     ]
   },

@@ -25,6 +25,123 @@
     ]
   },
   {
+    "scientific_name": "Anser rossii",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Gwaz Ross"
+      },
+      {
+        "lang": "cs",
+        "name": "Husa bělostná"
+      },
+      {
+        "lang": "da",
+        "name": "Dværgsnegås"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergschneegans"
+      },
+      {
+        "lang": "en",
+        "name": "Ross's Goose"
+      },
+      {
+        "lang": "es",
+        "name": "Ansar de Ross"
+      },
+      {
+        "lang": "et",
+        "name": "Väike-lumehani"
+      },
+      {
+        "lang": "fi",
+        "name": "Eskimohanhi"
+      },
+      {
+        "lang": "fo",
+        "name": "Lítil snjógás"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie de Ross"
+      },
+      {
+        "lang": "he",
+        "name": "אווז רוס"
+      },
+      {
+        "lang": "hu",
+        "name": "Hólúd"
+      },
+      {
+        "lang": "is",
+        "name": "Mjallgæs"
+      },
+      {
+        "lang": "it",
+        "name": "Oca di Ross"
+      },
+      {
+        "lang": "iu",
+        "name": "Kaaraq"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメハクガン"
+      },
+      {
+        "lang": "lt",
+        "name": "Šiaurinė žaćsis"
+      },
+      {
+        "lang": "nl",
+        "name": "Ross-gans"
+      },
+      {
+        "lang": "no",
+        "name": "Eskimogås"
+      },
+      {
+        "lang": "pl",
+        "name": "Śnieżyca mała"
+      },
+      {
+        "lang": "pt",
+        "name": "Ganso de Ross"
+      },
+      {
+        "lang": "ru",
+        "name": "Гусь Росса"
+      },
+      {
+        "lang": "sk",
+        "name": "Hus snežnička"
+      },
+      {
+        "lang": "sl",
+        "name": "Mala snežna gos"
+      },
+      {
+        "lang": "sv",
+        "name": "Dvärgsnögås"
+      },
+      {
+        "lang": "tr",
+        "name": "küçük kar kazı"
+      },
+      {
+        "lang": "zea",
+        "name": "Ross' hanze"
+      },
+      {
+        "lang": "zh",
+        "name": "细嘴雁"
+      }
+    ]
+  },
+  {
     "scientific_name": "Anser indicus",
     "common_names": [
       {
@@ -702,6 +819,192 @@
       {
         "lang": "zh-min-nan",
         "name": "Iá-gô"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anser canagicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Husa císařská"
+      },
+      {
+        "lang": "de",
+        "name": "Kaisergans"
+      },
+      {
+        "lang": "en",
+        "name": "Emperor Goose"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie empereur"
+      },
+      {
+        "lang": "fy",
+        "name": "Keizergoes"
+      },
+      {
+        "lang": "hu",
+        "name": "Császárlúd"
+      },
+      {
+        "lang": "ja",
+        "name": "ミカドガン"
+      },
+      {
+        "lang": "nl",
+        "name": "Keizergans"
+      },
+      {
+        "lang": "no",
+        "name": "Keisergås"
+      },
+      {
+        "lang": "pl",
+        "name": "Śnieżyca cesarska"
+      },
+      {
+        "lang": "ru",
+        "name": "Белошей"
+      },
+      {
+        "lang": "sv",
+        "name": "Kejsargås"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anser caerulescens",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Снежна гъска"
+      },
+      {
+        "lang": "br",
+        "name": "Gwaz-erc'hegi"
+      },
+      {
+        "lang": "cs",
+        "name": "Husa sněžní"
+      },
+      {
+        "lang": "da",
+        "name": "Snegås"
+      },
+      {
+        "lang": "de",
+        "name": "Schneegans"
+      },
+      {
+        "lang": "en",
+        "name": "Snow Goose"
+      },
+      {
+        "lang": "eo",
+        "name": "Neĝansero"
+      },
+      {
+        "lang": "es",
+        "name": "Ansar nival"
+      },
+      {
+        "lang": "fi",
+        "name": "Lumihanhi"
+      },
+      {
+        "lang": "fr",
+        "name": "Oie des neiges"
+      },
+      {
+        "lang": "frr",
+        "name": "Snägus"
+      },
+      {
+        "lang": "gl",
+        "name": "Ganso das neves"
+      },
+      {
+        "lang": "hu",
+        "name": "Sarki lúd"
+      },
+      {
+        "lang": "ik",
+        "name": "Kafuq"
+      },
+      {
+        "lang": "is",
+        "name": "Snjógæs"
+      },
+      {
+        "lang": "it",
+        "name": "Oca delle nevi"
+      },
+      {
+        "lang": "ja",
+        "name": "ハクガン"
+      },
+      {
+        "lang": "ko",
+        "name": "흰기러기"
+      },
+      {
+        "lang": "lt",
+        "name": "Snieginė žąsis"
+      },
+      {
+        "lang": "nl",
+        "name": "Sneeuwgans"
+      },
+      {
+        "lang": "no",
+        "name": "Snøgås"
+      },
+      {
+        "lang": "pl",
+        "name": "Śnieżyca większa"
+      },
+      {
+        "lang": "pt",
+        "name": "Ganso-das-neves"
+      },
+      {
+        "lang": "ru",
+        "name": "Белый гусь"
+      },
+      {
+        "lang": "sah",
+        "name": "Үрүҥ хаас"
+      },
+      {
+        "lang": "se",
+        "name": "Muohtačuonjá"
+      },
+      {
+        "lang": "sk",
+        "name": "Hus snežná"
+      },
+      {
+        "lang": "sl",
+        "name": "Snežna gos"
+      },
+      {
+        "lang": "sv",
+        "name": "Snögås"
+      },
+      {
+        "lang": "tr",
+        "name": "Kar kazı"
+      },
+      {
+        "lang": "zea",
+        "name": "Snieuwhanze"
+      },
+      {
+        "lang": "zh",
+        "name": "雪雁"
       }
     ]
   },

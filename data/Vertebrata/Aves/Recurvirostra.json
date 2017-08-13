@@ -224,7 +224,10 @@
       },
       {
         "lang": "mn",
-        "name": "Ээтэн / ᠠᠯᠠᠭ ᠡᠭᠡᠲᠡᠨ"
+        "name": "Ээтэн",
+        "synonyms": [
+          "ᠠᠯᠠᠭ ᠡᠭᠡᠲᠡᠨ"
+        ]
       },
       {
         "lang": "mt",
@@ -300,7 +303,10 @@
       },
       {
         "lang": "sr",
-        "name": "sabljarka / Сабљарка"
+        "name": "sabljarka",
+        "synonyms": [
+          "Сабљарка"
+        ]
       },
       {
         "lang": "sv",

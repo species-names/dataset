@@ -56,7 +56,7 @@
       },
       {
         "lang": "el",
-        "name": "Ασπρόγυπας"
+        "name": "Ασπροπάρης"
       },
       {
         "lang": "en",
@@ -220,7 +220,10 @@
       },
       {
         "lang": "sr",
-        "name": "Bela kanja / Бела канја"
+        "name": "Bela kanja",
+        "synonyms": [
+          "Бела канја"
+        ]
       },
       {
         "lang": "st",

@@ -11,6 +11,13 @@
         "name": "Toucan ariel"
       },
       {
+        "lang": "hu",
+        "name": "Feketecsőrű tukán",
+        "synonyms": [
+          "narancsmellű tukán"
+        ]
+      },
+      {
         "lang": "ja",
         "name": "ヒムネオオハシ"
       },
@@ -34,6 +41,13 @@
       {
         "lang": "fi",
         "name": "Karmiininokkatukaani"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehértorkú tukán",
+        "synonyms": [
+          "barnacsőrű tukán"
+        ]
       },
       {
         "lang": "ja",
@@ -63,6 +77,13 @@
       {
         "lang": "fi",
         "name": "Kuningastukaani"
+      },
+      {
+        "lang": "hu",
+        "name": "Óriástukán",
+        "synonyms": [
+          "tokótukán"
+        ]
       },
       {
         "lang": "ja",
@@ -158,7 +179,10 @@
       },
       {
         "lang": "hu",
-        "name": "szivárványcsőrű tukán"
+        "name": "Szivárványcsőrű tukán",
+        "synonyms": [
+          "Fischer tukán"
+        ]
       },
       {
         "lang": "it",
@@ -233,6 +257,10 @@
         "name": "Kultarintatukaani"
       },
       {
+        "lang": "hu",
+        "name": "Zöldcsőrű tukán"
+      },
+      {
         "lang": "ja",
         "name": "アオハシヒムネオオハシ"
       },
@@ -255,6 +283,10 @@
         "synonyms": [
           "Cuvier's Toucan"
         ]
+      },
+      {
+        "lang": "hu",
+        "name": "Cuvier-tukán"
       }
     ]
   },
@@ -286,6 +318,10 @@
       {
         "lang": "es",
         "name": "Tucán del Chocó"
+      },
+      {
+        "lang": "hu",
+        "name": "Parti tukán"
       }
     ]
   },
@@ -295,6 +331,10 @@
       {
         "lang": "en",
         "name": "Black-mandibled Toucan"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranytorkú tukán"
       }
     ]
   }

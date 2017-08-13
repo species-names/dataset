@@ -31,6 +31,19 @@
     ]
   },
   {
+    "scientific_name": "Campylopterus pampa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wedge-tailed Sabrewing"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí pampa"
+      }
+    ]
+  },
+  {
     "scientific_name": "Campylopterus largipennis",
     "common_names": [
       {
@@ -269,27 +282,23 @@
       {
         "lang": "es",
         "name": "Colibrí ruiseñor"
+      },
+      {
+        "lang": "en",
+        "name": "Curve-winged sabrewing"
       }
     ]
   },
   {
-    "scientific_name": "Campylopterus cirrochloris",
+    "scientific_name": "Campylopterus calcirupicola",
     "common_names": [
       {
-        "lang": "es",
-        "name": "Colibrí del Napo"
+        "lang": "en",
+        "name": "Dry-forest Sabrewing"
       },
       {
-        "lang": "fr",
-        "name": "Campyloptère du Napo"
-      },
-      {
-        "lang": "nl",
-        "name": "Napo-Sabelvleugelkolibrie"
-      },
-      {
-        "lang": "sv",
-        "name": "blåstjärtad sabelvingskolibri"
+        "lang": "pl",
+        "name": "Zapylak zaroślowy"
       }
     ]
   }

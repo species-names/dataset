@@ -150,7 +150,10 @@
       },
       {
         "lang": "sh",
-        "name": "Šarenokljuni gnjurac / шаренокљуни гњурац"
+        "name": "Šarenokljuni gnjurac",
+        "synonyms": [
+          "шаренокљуни гњурац"
+        ]
       },
       {
         "lang": "sk",
@@ -191,7 +194,71 @@
       },
       {
         "lang": "sv",
-        "name": "Atitlandopping"
+        "name": "atitlandopping"
+      },
+      {
+        "lang": "bg",
+        "name": "Атитлан"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabusset de l'Atitlan"
+      },
+      {
+        "lang": "cs",
+        "name": "Potápka obrovská"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwyach Atitlan"
+      },
+      {
+        "lang": "de",
+        "name": "Atitlántaucher"
+      },
+      {
+        "lang": "eo",
+        "name": "Atitlana grebo"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم آتیتلان"
+      },
+      {
+        "lang": "fi",
+        "name": "Atitlaninuikku"
+      },
+      {
+        "lang": "fr",
+        "name": "Grèbe de l'Atitlan"
+      },
+      {
+        "lang": "hu",
+        "name": "Óriásvöcsök"
+      },
+      {
+        "lang": "nl",
+        "name": "Atitlanfuut"
+      },
+      {
+        "lang": "pl",
+        "name": "Perkoz gwatemalski"
+      },
+      {
+        "lang": "pnb",
+        "name": "اٹیٹلان ڈبکنی"
+      },
+      {
+        "lang": "pt",
+        "name": "Mergulhão-de-atitlan"
+      },
+      {
+        "lang": "ru",
+        "name": "Атитланская поганка"
+      },
+      {
+        "lang": "zh",
+        "name": "巨鸊鷉"
       }
     ]
   }

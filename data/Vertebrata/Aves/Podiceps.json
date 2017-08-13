@@ -274,7 +274,10 @@
       },
       {
         "lang": "sh",
-        "name": "Veliki gnjurac / велики гњурац"
+        "name": "Veliki gnjurac",
+        "synonyms": [
+          "велики гњурац"
+        ]
       },
       {
         "lang": "sv",
@@ -564,7 +567,71 @@
       },
       {
         "lang": "sv",
-        "name": "Kamdopping"
+        "name": "kamdopping"
+      },
+      {
+        "lang": "ar",
+        "name": "غطاس مقلنس"
+      },
+      {
+        "lang": "bg",
+        "name": "Коронован гмурец"
+      },
+      {
+        "lang": "cs",
+        "name": "Potápka argentinská"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwyach gycyllog"
+      },
+      {
+        "lang": "de",
+        "name": "Goldscheiteltaucher"
+      },
+      {
+        "lang": "eo",
+        "name": "Kapuĉa grebo"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم کلاه‌دار"
+      },
+      {
+        "lang": "fi",
+        "name": "Huppu-uikku"
+      },
+      {
+        "lang": "fr",
+        "name": "Grèbe mitré"
+      },
+      {
+        "lang": "hu",
+        "name": "Csuklyás vöcsök"
+      },
+      {
+        "lang": "nl",
+        "name": "Patagonische fuut"
+      },
+      {
+        "lang": "no",
+        "name": "Tiaradykker"
+      },
+      {
+        "lang": "pl",
+        "name": "Perkoz argentyński"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹوپیوالی ڈبکنی"
+      },
+      {
+        "lang": "pt",
+        "name": "Mergulhão-de-touca"
+      },
+      {
+        "lang": "zh",
+        "name": "阿根廷鸊鷉"
       }
     ]
   },
@@ -1116,7 +1183,10 @@
       },
       {
         "lang": "sh",
-        "name": "Ušati gnjurac / ушати гњурац"
+        "name": "Ušati gnjurac",
+        "synonyms": [
+          "ушати гњурац"
+        ]
       },
       {
         "lang": "sk",

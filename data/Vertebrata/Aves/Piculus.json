@@ -9,16 +9,12 @@
       {
         "lang": "fr",
         "name": "Pic à ailes rousses"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörösszárnyú zöldfakopáncs"
       }
     ]
-  },
-  {
-    "scientific_name": "Piculus rubiginosus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Piculus rivolii",
-    "common_names": []
   },
   {
     "scientific_name": "Piculus litae",
@@ -39,6 +35,14 @@
       {
         "lang": "fr",
         "name": "Pic à gorge blanche"
+      },
+      {
+        "lang": "es",
+        "name": "Carpintero gorgiblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "Pica-pau-de-garganta-branca"
       }
     ]
   },
@@ -111,11 +115,27 @@
       {
         "lang": "pt",
         "name": "Pica-pau-dourado"
+      },
+      {
+        "lang": "ca",
+        "name": "Picot celladaurat"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell aelwen"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbrauwspecht"
+      },
+      {
+        "lang": "pnb",
+        "name": "پکولس ارولنٹوس"
+      },
+      {
+        "lang": "sv",
+        "name": "gulbrynad hackspett"
       }
     ]
-  },
-  {
-    "scientific_name": "Piculus auricularis",
-    "common_names": []
   }
 ]

@@ -191,7 +191,10 @@
       },
       {
         "lang": "sr",
-        "name": "plovka prevez / Пловка превез"
+        "name": "plovka prevez",
+        "synonyms": [
+          "Пловка превез"
+        ]
       },
       {
         "lang": "sv",
@@ -313,16 +316,16 @@
         ]
       },
       {
-        "lang": "fr",
-        "name": "Nette brune"
-      },
-      {
         "lang": "es",
         "name": "Pato Morado"
       },
       {
-        "lang": "nl",
-        "name": "Bruine Krooneend"
+        "lang": "fi",
+        "name": "Ruskonarsku"
+      },
+      {
+        "lang": "fr",
+        "name": "Nette brune"
       },
       {
         "lang": "it",
@@ -332,12 +335,12 @@
         ]
       },
       {
-        "lang": "no",
-        "name": "Fløyelsand"
+        "lang": "nl",
+        "name": "Bruine Krooneend"
       },
       {
-        "lang": "fi",
-        "name": "Ruskonarsku"
+        "lang": "no",
+        "name": "Fløyelsand"
       },
       {
         "lang": "sv",

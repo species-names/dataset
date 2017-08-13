@@ -5,6 +5,10 @@
       {
         "lang": "en",
         "name": "Black-billed Mountain-toucan"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketecsőrű hegyitukán"
       }
     ]
   },
@@ -17,7 +21,10 @@
       },
       {
         "lang": "hu",
-        "name": "Laposcsőrű hegyitukán"
+        "name": "Laposcsőrű hegyitukán",
+        "synonyms": [
+          "laposcsőrű kéktukán"
+        ]
       }
     ]
   },
@@ -27,6 +34,10 @@
       {
         "lang": "en",
         "name": "Grey-breasted Mountain-toucan"
+      },
+      {
+        "lang": "hu",
+        "name": "Tarkacsőrű hegyitukán"
       },
       {
         "lang": "tr",
@@ -40,6 +51,10 @@
       {
         "lang": "en",
         "name": "Hooded Mountain-Toucan"
+      },
+      {
+        "lang": "hu",
+        "name": "Csuklyás hegyitukán"
       }
     ]
   }

@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Puffinus boydi",
+    "common_names": []
+  },
+  {
     "scientific_name": "Puffinus yelkouan",
     "common_names": [
       {
@@ -19,6 +23,10 @@
         "name": "Pardela mediterránea"
       },
       {
+        "lang": "hu",
+        "name": "Bukdosó vészmadár"
+      },
+      {
         "lang": "tr",
         "name": "Yelkovan"
       }
@@ -30,6 +38,13 @@
       {
         "lang": "en",
         "name": "Short-tailed Shearwater"
+      },
+      {
+        "lang": "hu",
+        "name": "Vékonycsőrű vészmadár",
+        "synonyms": [
+          "rövidfarkú vészmadár"
+        ]
       },
       {
         "lang": "ja",
@@ -377,6 +392,10 @@
         "name": "Pardela escura"
       },
       {
+        "lang": "hu",
+        "name": "Szürke vészmadár"
+      },
+      {
         "lang": "is",
         "name": "Gráskrofa"
       },
@@ -431,6 +450,10 @@
       {
         "lang": "af",
         "name": "Grootpylstormvoël"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy vészmadár"
       }
     ]
   },
@@ -444,6 +467,10 @@
       {
         "lang": "en",
         "name": "Pink-footed Shearwater"
+      },
+      {
+        "lang": "hu",
+        "name": "Rózsaszínlábú vészmadár"
       }
     ]
   },

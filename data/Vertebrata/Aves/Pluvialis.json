@@ -36,7 +36,7 @@
       },
       {
         "lang": "cs",
-        "name": "kulík bledý"
+        "name": "Kulík bledý"
       },
       {
         "lang": "cw",
@@ -64,10 +64,11 @@
       },
       {
         "lang": "en",
-        "name": "Grey Plover",
-        "synonyms": [
-          "Black Bellied Plover"
-        ]
+        "name": "Grey Plover"
+      },
+      {
+        "lang": "en-us",
+        "name": "Black-bellied Plover"
       },
       {
         "lang": "eo",
@@ -91,7 +92,7 @@
       },
       {
         "lang": "fi",
-        "name": "tundrakurmitsa"
+        "name": "Tundrakurmitsa"
       },
       {
         "lang": "fo",
@@ -111,10 +112,7 @@
       },
       {
         "lang": "gcf",
-        "name": "Pluvier gris",
-        "synonyms": [
-          "Pluvier grosse tête"
-        ]
+        "name": "Pluvier gris"
       },
       {
         "lang": "gd",
@@ -166,24 +164,15 @@
       },
       {
         "lang": "iu",
-        "name": "Anngilik",
-        "synonyms": [
-          "Tudliakdjuk"
-        ]
+        "name": "Anngilik"
       },
       {
         "lang": "ja",
-        "name": "ダイゼン",
-        "synonyms": [
-          "daisen"
-        ]
+        "name": "ダイゼン"
       },
       {
         "lang": "ka",
-        "name": "კვათარი",
-        "synonyms": [
-          "ტულესი"
-        ]
+        "name": "კვათარი"
       },
       {
         "lang": "kk",
@@ -211,10 +200,7 @@
       },
       {
         "lang": "mk",
-        "name": "Сребрен дождосвирец",
-        "synonyms": [
-          "Сребрен златар"
-        ]
+        "name": "Сребрен дождосвирец"
       },
       {
         "lang": "mn",
@@ -246,7 +232,7 @@
       },
       {
         "lang": "pl",
-        "name": "siewnica"
+        "name": "Siewnica"
       },
       {
         "lang": "pnb",
@@ -270,14 +256,11 @@
       },
       {
         "lang": "sk",
-        "name": "kulík bledý"
+        "name": "Kulík bledý"
       },
       {
         "lang": "sl",
-        "name": "crna prosenka",
-        "synonyms": [
-          "črna prosenka"
-        ]
+        "name": "Črna prosenka"
       },
       {
         "lang": "sq",
@@ -285,10 +268,7 @@
       },
       {
         "lang": "sr",
-        "name": "Zlatar pijukavac",
-        "synonyms": [
-          "Златар пијукавац"
-        ]
+        "name": "Zlatar pijukavac - Златар пијукавац"
       },
       {
         "lang": "sv",
@@ -332,6 +312,22 @@
     "scientific_name": "Pluvialis fulva",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Asiatiese Goue Strandkiewiet"
+      },
+      {
+        "lang": "ar",
+        "name": "زقزاق الباسيفيك رهيز"
+      },
+      {
+        "lang": "br",
+        "name": "Morlivid rous"
+      },
+      {
+        "lang": "ca",
+        "name": "Daurada petita del Pacífic"
+      },
+      {
         "lang": "cs",
         "name": "Kulík pacifický"
       },
@@ -340,12 +336,28 @@
         "name": "Sibirisk tundrahjejle"
       },
       {
+        "lang": "de",
+        "name": "Pazifischer Goldregenpfeifer"
+      },
+      {
         "lang": "en",
         "name": "Pacific Golden Plover"
       },
       {
         "lang": "eo",
         "name": "Siberia orpluvio"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlito Dorado Siberiano"
+      },
+      {
+        "lang": "et",
+        "name": "Tundrarüüt"
+      },
+      {
+        "lang": "eu",
+        "name": "Daurada petita del Pacífic"
       },
       {
         "lang": "fi",
@@ -360,20 +372,52 @@
         "name": "Kolea"
       },
       {
+        "lang": "he",
+        "name": "חופזי"
+      },
+      {
         "lang": "hu",
         "name": "Ázsiai pettyeslile"
       },
       {
+        "lang": "id",
+        "name": "Cerek kernyut"
+      },
+      {
+        "lang": "is",
+        "name": "Glitlóa"
+      },
+      {
+        "lang": "it",
+        "name": "Piviere dorato del Pacifico"
+      },
+      {
         "lang": "ja",
-        "name": "ムナグロ、胸黒"
+        "name": "アジアムナグロ"
+      },
+      {
+        "lang": "kk",
+        "name": "Қошқылқанат татрењ"
       },
       {
         "lang": "ko",
         "name": "검은가슴물떼새"
       },
       {
+        "lang": "lt",
+        "name": "Tundrinis sėjikas"
+      },
+      {
+        "lang": "mn",
+        "name": "Азийн шаргал сүвээ цагаан"
+      },
+      {
+        "lang": "ms",
+        "name": "Rapang Kerinyut"
+      },
+      {
         "lang": "nl",
-        "name": "Aziatische goudplevier"
+        "name": "Aziatische Goudplevier"
       },
       {
         "lang": "no",
@@ -388,12 +432,48 @@
         "name": "Tarambola-dourada-siberiana"
       },
       {
+        "lang": "ru",
+        "name": "Азиатская бурокрылая"
+      },
+      {
+        "lang": "sk",
+        "name": "Kulík brnavokrídly"
+      },
+      {
+        "lang": "sl",
+        "name": "Sibirska prosenka"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjelaci siberian ngjyrëarte"
+      },
+      {
+        "lang": "sv",
+        "name": "Sibirisk tundrapipare"
+      },
+      {
+        "lang": "th",
+        "name": "นกหัวโตหลังจุดสีทอง"
+      },
+      {
         "lang": "to",
         "name": "Kiu koula"
       },
       {
         "lang": "tr",
         "name": "Küçük altın yağmurcun"
+      },
+      {
+        "lang": "uk",
+        "name": "Бурокрила сивка"
+      },
+      {
+        "lang": "vi",
+        "name": "Choi choi vàng"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "金斑鴴"
       }
     ]
   },
@@ -410,7 +490,7 @@
       },
       {
         "lang": "cs",
-        "name": "kulík hnědokřídlý"
+        "name": "Kulík hnedokrídlý"
       },
       {
         "lang": "cy",
@@ -418,7 +498,7 @@
       },
       {
         "lang": "da",
-        "name": "Amerikansk hjejle"
+        "name": "Amerikansk Hjejle"
       },
       {
         "lang": "de",
@@ -430,7 +510,7 @@
       },
       {
         "lang": "eo",
-        "name": "siberia pluvio"
+        "name": "Amerika orpluvio"
       },
       {
         "lang": "es",
@@ -438,10 +518,7 @@
       },
       {
         "lang": "et",
-        "name": "ameerika rüüt",
-        "synonyms": [
-          "tundrarüüt"
-        ]
+        "name": "Ameerika rüüt"
       },
       {
         "lang": "eu",
@@ -449,7 +526,7 @@
       },
       {
         "lang": "fi",
-        "name": "amerikankurmitsa"
+        "name": "Amerikankurmitsa"
       },
       {
         "lang": "fo",
@@ -469,10 +546,7 @@
       },
       {
         "lang": "gl",
-        "name": "píldora dourada americana",
-        "synonyms": [
-          "píllara dourada americana"
-        ]
+        "name": "Píldora dourada americana"
       },
       {
         "lang": "gn",
@@ -504,17 +578,11 @@
       },
       {
         "lang": "iu",
-        "name": "Toodliq",
-        "synonyms": [
-          "Ungalitte"
-        ]
+        "name": "Toodliq"
       },
       {
         "lang": "ja",
-        "name": "アメリカムナグロ",
-        "synonyms": [
-          "munaguro"
-        ]
+        "name": "アメリカムナグロ"
       },
       {
         "lang": "kk",
@@ -522,10 +590,7 @@
       },
       {
         "lang": "ko",
-        "name": "검은가슴물떼새",
-        "synonyms": [
-          "미국검은가슴물떼새"
-        ]
+        "name": "검은가슴물떼새"
       },
       {
         "lang": "lt",
@@ -553,15 +618,15 @@
       },
       {
         "lang": "pl",
-        "name": "siewka szara"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Batuiruçu"
+        "name": "Siewka szara"
       },
       {
         "lang": "pt",
         "name": "Tarambola-dourada-pequena"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Batuiruçu"
       },
       {
         "lang": "ru",
@@ -569,11 +634,11 @@
       },
       {
         "lang": "sk",
-        "name": "kulík hnedokrídly"
+        "name": "Kulík brnavokrídly"
       },
       {
         "lang": "sl",
-        "name": "ameriška prosenka"
+        "name": "Ameriška prosenka"
       },
       {
         "lang": "sq",
@@ -613,8 +678,40 @@
     "scientific_name": "Pluvialis apricaria",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "قطقاط ذهبي أوروبي"
+      },
+      {
+        "lang": "be",
+        "name": "Залацісты сявец"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Залацісты сявец"
+      },
+      {
+        "lang": "bg",
+        "name": "Златиста булка"
+      },
+      {
+        "lang": "br",
+        "name": "Morlivid-lann"
+      },
+      {
+        "lang": "ca",
+        "name": "Daurada grossa"
+      },
+      {
         "lang": "cs",
         "name": "Kulík zlatý"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiad aur"
+      },
+      {
+        "lang": "da",
+        "name": "Hjejle"
       },
       {
         "lang": "de",
@@ -622,15 +719,39 @@
       },
       {
         "lang": "en",
-        "name": "Golden Plover"
+        "name": "European Golden Plover"
+      },
+      {
+        "lang": "eo",
+        "name": "Orpluvio"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlito dorado común"
       },
       {
         "lang": "et",
-        "name": "rüüt"
+        "name": "Rüüt"
+      },
+      {
+        "lang": "eu",
+        "name": "Urre-txirri arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم طلایی اروپایی"
       },
       {
         "lang": "fi",
-        "name": "kapustarinta"
+        "name": "Kapustarinta"
+      },
+      {
+        "lang": "fo",
+        "name": "Lógv"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier doré"
       },
       {
         "lang": "frr",
@@ -642,27 +763,83 @@
       },
       {
         "lang": "gl",
-        "name": "Píllara dourada grande"
+        "name": "Píllara dourada"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranylile"
       },
       {
         "lang": "is",
         "name": "Heiðlóa"
       },
       {
+        "lang": "it",
+        "name": "Piviere dorato"
+      },
+      {
         "lang": "ja",
         "name": "ヨーロッパムナグロ"
       },
       {
+        "lang": "kk",
+        "name": "Алтынжон татрең"
+      },
+      {
+        "lang": "lt",
+        "name": "Dirvinis sėjikas"
+      },
+      {
+        "lang": "lv",
+        "name": "Dzeltenais tārtiņš"
+      },
+      {
+        "lang": "mk",
+        "name": "Златно блатарче"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudplevier"
+      },
+      {
+        "lang": "nn",
+        "name": "Heilo"
+      },
+      {
+        "lang": "no",
+        "name": "Heilo"
+      },
+      {
         "lang": "pl",
-        "name": "siewka złota"
+        "name": "Siewka złota"
+      },
+      {
+        "lang": "pnb",
+        "name": "یورپی سنہری پلوور"
+      },
+      {
+        "lang": "pt",
+        "name": "Tarambola-dourada"
       },
       {
         "lang": "ru",
-        "name": "золотистая ржанка"
+        "name": "Золотистая ржанка"
       },
       {
         "lang": "sk",
-        "name": "kulík zlatý"
+        "name": "Kulík zlatý"
+      },
+      {
+        "lang": "sv",
+        "name": "Ljungpipare"
+      },
+      {
+        "lang": "tr",
+        "name": "Altın yağmurcun"
+      },
+      {
+        "lang": "uk",
+        "name": "Сивка звичайна"
       },
       {
         "lang": "vec",

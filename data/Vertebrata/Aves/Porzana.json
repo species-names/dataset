@@ -325,7 +325,10 @@
       },
       {
         "lang": "sr",
-        "name": "Patuljasti barski petlic / Птаулjaсти барски петлич"
+        "name": "Patuljasti barski petlic",
+        "synonyms": [
+          "Птаулjaсти барски петлич"
+        ]
       },
       {
         "lang": "sv",
@@ -596,7 +599,10 @@
       },
       {
         "lang": "sr",
-        "name": "barski petlić / Барски петлич"
+        "name": "barski petlić",
+        "synonyms": [
+          "Барски петлич"
+        ]
       },
       {
         "lang": "sv",
@@ -1010,6 +1016,18 @@
       {
         "lang": "fi",
         "name": "Keltarintahuitti"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-breasted crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela pálida"
+      },
+      {
+        "lang": "pt",
+        "name": "Sanã-amarela"
       }
     ]
   },
@@ -1184,6 +1202,10 @@
   {
     "scientific_name": "Porzana atra",
     "common_names": [
+      {
+        "lang": "es",
+        "name": "Polluela de la Henderson"
+      },
       {
         "lang": "fi",
         "name": "Nokihuitti"

@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Rostratula semicollaris",
-    "common_names": []
-  },
-  {
     "scientific_name": "Rostratula benghalensis",
     "common_names": [
       {
@@ -101,6 +97,15 @@
       {
         "lang": "zh-yue",
         "name": "彩鷸"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rostratula australis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Australian painted-snipe"
       }
     ]
   }

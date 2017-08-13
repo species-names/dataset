@@ -57,7 +57,10 @@
     "common_names": [
       {
         "lang": "af",
-        "name": "Grootmalmok/Grootalbatros"
+        "name": "Grootmalmok",
+        "synonyms": [
+          "Grootalbatros"
+        ]
       },
       {
         "lang": "ar",
@@ -455,6 +458,10 @@
   {
     "scientific_name": "Diomedea amsterdamensis",
     "common_names": [
+      {
+        "lang": "nl",
+        "name": "Amsterdamalbatros"
+      },
       {
         "lang": "br",
         "name": "Albatroz Amsterdam"

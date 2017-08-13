@@ -3,6 +3,10 @@
     "scientific_name": "Eudyptes sclateri",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Sclaterpinguin"
+      },
+      {
         "lang": "en",
         "name": "Erect-crested Penguin"
       },
@@ -181,6 +185,10 @@
         "name": "Tučňák novozélandský"
       },
       {
+        "lang": "de",
+        "name": "Dickschnabelpinguin"
+      },
+      {
         "lang": "en",
         "name": "Fiordland Penguin"
       },
@@ -221,6 +229,10 @@
         "name": "Tučňák skalní"
       },
       {
+        "lang": "de",
+        "name": "Nordfelsenpinguin"
+      },
+      {
         "lang": "en",
         "name": "Northern Rockhopper Penguin"
       },
@@ -233,6 +245,10 @@
   {
     "scientific_name": "Eudyptes chrysolophus",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Goldschopfpinguin"
+      },
       {
         "lang": "en",
         "name": "Macaroni Penguin"
@@ -288,6 +304,10 @@
       {
         "lang": "cs",
         "name": "Tučňák skalní"
+      },
+      {
+        "lang": "de",
+        "name": "Felsenpinguin"
       },
       {
         "lang": "en",

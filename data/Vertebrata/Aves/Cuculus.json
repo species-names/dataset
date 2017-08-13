@@ -126,6 +126,10 @@
     "scientific_name": "Cuculus gularis",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Afrikaanse koekoek"
+      },
+      {
         "lang": "cs",
         "name": "Kukačka africká"
       },
@@ -602,7 +606,10 @@
       },
       {
         "lang": "sr",
-        "name": "Kukavica/кукавица"
+        "name": "Kukavica",
+        "synonyms": [
+          "кукавица"
+        ]
       },
       {
         "lang": "stq",

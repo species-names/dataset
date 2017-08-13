@@ -224,7 +224,10 @@
       },
       {
         "lang": "mn",
-        "name": "Умардын хавтгаалж / ᠣᠮᠠᠷᠠᠲᠣ ᠶᠢᠨ ᠬᠠᠪᠲᠠᠭᠠᠯᠵᠢ"
+        "name": "Умардын хавтгаалж",
+        "synonyms": [
+          "ᠣᠮᠠᠷᠠᠲᠣ ᠶᠢᠨ ᠬᠠᠪᠲᠠᠭᠠᠯᠵᠢ"
+        ]
       },
       {
         "lang": "mrj",
@@ -332,7 +335,10 @@
       },
       {
         "lang": "sr",
-        "name": "Vivak / Вивак"
+        "name": "Vivak",
+        "synonyms": [
+          "Вивак"
+        ]
       },
       {
         "lang": "stq",
@@ -1399,23 +1405,6 @@
       {
         "lang": "zh",
         "name": "凤头距翅麦鸡"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Vanellus cayanus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Čejka kulíkovitá"
-      },
-      {
-        "lang": "en",
-        "name": "Pied Lapwing"
-      },
-      {
-        "lang": "pt",
-        "name": "Maçarico-de-esporão"
       }
     ]
   },

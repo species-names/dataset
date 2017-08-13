@@ -65,7 +65,7 @@
       },
       {
         "lang": "nl",
-        "name": "Galápagos-albatros"
+        "name": "Galápagosalbatros"
       },
       {
         "lang": "ja",
@@ -94,7 +94,10 @@
     "common_names": [
       {
         "lang": "af",
-        "name": "Laysanse Malmok/Swartwangalbatros"
+        "name": "Laysanse Malmok",
+        "synonyms": [
+          "Swartwangalbatros"
+        ]
       },
       {
         "lang": "br",
@@ -164,7 +167,7 @@
       },
       {
         "lang": "nl",
-        "name": "Laysan-albatros"
+        "name": "Laysanalbatros"
       },
       {
         "lang": "no",
@@ -236,6 +239,10 @@
         "name": "Rövidfarkú albatrosz"
       },
       {
+        "lang": "nl",
+        "name": "Stellers albatros"
+      },
+      {
         "lang": "pt",
         "name": "Albatroz-de-cauda-curta"
       },
@@ -245,7 +252,7 @@
       },
       {
         "lang": "sv",
-        "name": "Gulnackad albatross"
+        "name": "gulnackad albatross"
       },
       {
         "lang": "uk",

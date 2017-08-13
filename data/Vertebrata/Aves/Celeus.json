@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Celeus ochraceus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Celeus undatus",
     "common_names": [
       {
@@ -11,12 +7,16 @@
         "name": "Waved Woodpecker"
       },
       {
-        "lang": "pt",
-        "name": "Pica-pau-pinima"
+        "lang": "pt-br",
+        "name": "Pica-pau-barrado"
       },
       {
         "lang": "fi",
         "name": "Raitatöyhtötikka"
+      },
+      {
+        "lang": "es",
+        "name": "Carpintero ondoso"
       }
     ]
   },
@@ -34,6 +34,10 @@
       {
         "lang": "fi",
         "name": "Mustarintatikka"
+      },
+      {
+        "lang": "es",
+        "name": "Carpintero pechinegro"
       }
     ]
   },
@@ -51,6 +55,23 @@
     ]
   },
   {
+    "scientific_name": "Celeus ochraceus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ochre-backed woodpecker"
+      },
+      {
+        "lang": "pt",
+        "name": "Pica-pau-ocráceo"
+      },
+      {
+        "lang": "es",
+        "name": "Carpintero ocráceo"
+      }
+    ]
+  },
+  {
     "scientific_name": "Celeus obrieni",
     "common_names": [
       {
@@ -60,6 +81,10 @@
           "Caatinga Woodpecker",
           "Piaui Woodpecker"
         ]
+      },
+      {
+        "lang": "pt",
+        "name": "Pica-pau-do-parnaíba"
       }
     ]
   },
@@ -86,6 +111,10 @@
       {
         "lang": "fi",
         "name": "Suomutöyhtötikka"
+      },
+      {
+        "lang": "hu",
+        "name": "Fahéjszínű harkály"
       }
     ]
   },
@@ -135,7 +164,7 @@
       },
       {
         "lang": "pt",
-        "name": "Pica-pau-de-cara-amarela"
+        "name": "Pica-pau-de-cara-canela"
       },
       {
         "lang": "sv",
@@ -157,6 +186,10 @@
       {
         "lang": "fi",
         "name": "Keltatikka"
+      },
+      {
+        "lang": "hu",
+        "name": "Sáfrányharkály"
       }
     ]
   },
@@ -170,6 +203,14 @@
       {
         "lang": "fi",
         "name": "Kultatöyhtötikka"
+      },
+      {
+        "lang": "pt",
+        "name": "Pica-pau-de-cabeça-amarela"
+      },
+      {
+        "lang": "es",
+        "name": "Carpintero amarillento"
       }
     ]
   },
@@ -204,6 +245,10 @@
       {
         "lang": "fi",
         "name": "Meksikontöyhtötikka"
+      },
+      {
+        "lang": "hu",
+        "name": "Gesztenyeszínű harkály"
       }
     ]
   }

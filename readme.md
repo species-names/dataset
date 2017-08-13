@@ -11,6 +11,17 @@ Species names are stored in json format in one file per genera.
 ## Current State
 Currently only birds are done.  
 
+## Todo
+/data/Vertebrata/Aves/Chendytes.json komischer Link in fr name
+data/Vertebrata/Aves/Clangula.json small tag in fr , Harelde boréale, Harelde de Miquelon<small>
+data/Vertebrata/Aves/Columba.json Kongotaube; Kongo-Waldtaube (new delimiter)
+Fulica caribaea synonym for Fulica americana todo scientific synonym, protonym. In zoology, the first name used for a taxon
+Neohierax insignis synonym for Polihierax insignis
+Nystalus torridus synonym for Nystalus striolatus torridus
+Picoides scientific synonym
+Zlatar pijukavac - Златар пијукавац delimiter problems
+Tyto furcata alle namen weg
+
 ## Contribute
 You can provide Pull Request to add or correct translations and species.  
 Pls add some sort of reference.  

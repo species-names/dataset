@@ -3,6 +3,10 @@
     "scientific_name": "Chionis minor",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Kleinpeddie"
+      },
+      {
         "lang": "ca",
         "name": "Colom antàrtic de bec negre"
       },
@@ -16,10 +20,7 @@
       },
       {
         "lang": "es",
-        "name": "Picovaina de las Kerguelen",
-        "synonyms": [
-          "Paloma antártica de cara negra"
-        ]
+        "name": "Picovaina de las Kerguelen"
       },
       {
         "lang": "fi",
@@ -31,7 +32,7 @@
       },
       {
         "lang": "it",
-        "name": ""
+        "name": "Chione minore"
       },
       {
         "lang": "nl",
@@ -40,31 +41,55 @@
       {
         "lang": "sv",
         "name": "Svartnäbbad slidnäbb"
-      },
-      {
-        "lang": "af",
-        "name": "Kleinpeddie"
       }
     ]
   },
   {
-    "scientific_name": "Chionis alba",
+    "scientific_name": "Chionis albus",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Snowy Sheathbill"
+        "lang": "af",
+        "name": "Grootskedebek"
       },
       {
-        "lang": "fr",
-        "name": "Chionis blanc"
+        "lang": "az",
+        "name": "Ağ çovdarçı"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom antàrtic de bec groc"
+      },
+      {
+        "lang": "cs",
+        "name": "Štítonos světlezobý"
+      },
+      {
+        "lang": "cy",
+        "name": "Gweinbig gwyn"
       },
       {
         "lang": "de",
         "name": "Weißgesicht-Scheidenschnabel"
       },
       {
+        "lang": "en",
+        "name": "Snowy Sheathbill"
+      },
+      {
+        "lang": "eo",
+        "name": "Blanka ĥionido"
+      },
+      {
         "lang": "es",
-        "name": "Vaina nival"
+        "name": "Picovaina nival"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltatuppinokka"
+      },
+      {
+        "lang": "fr",
+        "name": "Chionis blanc"
       },
       {
         "lang": "he",
@@ -72,7 +97,11 @@
       },
       {
         "lang": "hu",
-        "name": "Falklandi tokoscsőrű madár"
+        "name": "Falklandi tokoscsőrű"
+      },
+      {
+        "lang": "it",
+        "name": "Chione bianco"
       },
       {
         "lang": "ja",
@@ -87,12 +116,32 @@
         "name": "Zuidpoolkip"
       },
       {
-        "lang": "pt",
-        "name": "pomba-antártica"
+        "lang": "no",
+        "name": "Antarktisslirenebb"
       },
       {
         "lang": "pl",
-        "name": "Pochwodziób żóółtodzioby"
+        "name": "Pochwodziób żółtodzioby"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-antártica"
+      },
+      {
+        "lang": "ru",
+        "name": "Белая ржанка"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulnäbbad slidnäbb"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük kıngaga"
+      },
+      {
+        "lang": "zh",
+        "name": "白鞘嘴鸥"
       }
     ]
   }

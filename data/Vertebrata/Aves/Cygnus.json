@@ -596,7 +596,10 @@
       },
       {
         "lang": "sh",
-        "name": "Žutokljuni labud / жутокљуни лабуд"
+        "name": "Žutokljuni labud",
+        "synonyms": [
+          "жутокљуни лабуд"
+        ]
       },
       {
         "lang": "sk",
@@ -974,6 +977,10 @@
       {
         "lang": "cs",
         "name": "Labuť černá"
+      },
+      {
+        "lang": "da",
+        "name": "Sortsvane"
       },
       {
         "lang": "de",

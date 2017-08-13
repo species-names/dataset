@@ -325,6 +325,14 @@
       {
         "lang": "cs",
         "name": "Kulík třípásý"
+      },
+      {
+        "lang": "en",
+        "name": "Three-banded plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo tricollar"
       }
     ]
   },
@@ -910,7 +918,10 @@
       },
       {
         "lang": "mn",
-        "name": "Урианхай сүвээ цагаан / ᠣᠷᠢᠶᠠᠩᠬᠠᠢ ᠶᠢᠨ ᠴᠠᠭᠠᠨ ᠬᠢᠵᠠᠲᠣ"
+        "name": "Урианхай сүвээ цагаан",
+        "synonyms": [
+          "ᠣᠷᠢᠶᠠᠩᠬᠠᠢ ᠶᠢᠨ ᠴᠠᠭᠠᠨ ᠬᠢᠵᠠᠲᠣ"
+        ]
       },
       {
         "lang": "mt",
@@ -970,7 +981,10 @@
       },
       {
         "lang": "sr",
-        "name": "Planinski zujavac / Планински зуjaвац"
+        "name": "Planinski zujavac",
+        "synonyms": [
+          "Планински зуjaвац"
+        ]
       },
       {
         "lang": "sv",
@@ -1883,7 +1897,10 @@
       },
       {
         "lang": "sr",
-        "name": "Mali zujavac / Мали зујавац"
+        "name": "Mali zujavac",
+        "synonyms": [
+          "Мали зујавац"
+        ]
       },
       {
         "lang": "sv",
@@ -1941,6 +1958,10 @@
       {
         "lang": "pt",
         "name": "Batuíra-de-coleira"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo de Azara"
       }
     ]
   },
@@ -1952,10 +1973,6 @@
         "name": "Kulík dvoupruhý"
       }
     ]
-  },
-  {
-    "scientific_name": "Charadrius australis",
-    "common_names": []
   },
   {
     "scientific_name": "Charadrius asiaticus",

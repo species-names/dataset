@@ -48,6 +48,10 @@
         "name": "Pato de Hawai"
       },
       {
+        "lang": "fi",
+        "name": "Havaijinsorsa"
+      },
+      {
         "lang": "fr",
         "name": "Canard d'Hawaii"
       },
@@ -1060,7 +1064,10 @@
       },
       {
         "lang": "sr",
-        "name": "Krdža / Крджа"
+        "name": "Krdža",
+        "synonyms": [
+          "Крджа"
+        ]
       },
       {
         "lang": "sv",
@@ -1596,7 +1603,10 @@
       },
       {
         "lang": "sh",
-        "name": "Divlja patka / Дивља патка"
+        "name": "Divlja patka",
+        "synonyms": [
+          "Дивља патка"
+        ]
       },
       {
         "lang": "sk",
@@ -2085,6 +2095,10 @@
         "name": "Kachna laysanská"
       },
       {
+        "lang": "da",
+        "name": "Laysanand"
+      },
+      {
         "lang": "de",
         "name": "Laysanente"
       },
@@ -2127,6 +2141,10 @@
       {
         "lang": "cs",
         "name": "Čírka hottentotská"
+      },
+      {
+        "lang": "da",
+        "name": "Hottentotand"
       },
       {
         "lang": "de",
@@ -2242,6 +2260,10 @@
       {
         "lang": "sv",
         "name": "Gulnäbbad stjärtand"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Marreca-parda"
       }
     ]
   },
@@ -2337,6 +2359,10 @@
       {
         "lang": "cs",
         "name": "Čírka sibiřská"
+      },
+      {
+        "lang": "da",
+        "name": "Sibirisk krikand"
       },
       {
         "lang": "de",
@@ -2456,6 +2482,10 @@
         "name": "Čírka srpoperá"
       },
       {
+        "lang": "da",
+        "name": "Segland"
+      },
+      {
         "lang": "de",
         "name": "Sichelente"
       },
@@ -2539,6 +2569,10 @@
       {
         "lang": "cs",
         "name": "Ostralka rudozobá"
+      },
+      {
+        "lang": "da",
+        "name": "Rødnæbbet and"
       },
       {
         "lang": "de",
@@ -3104,7 +3138,10 @@
       },
       {
         "lang": "sr",
-        "name": "Krkavac / Кркавац"
+        "name": "Krkavac",
+        "synonyms": [
+          "Кркавац"
+        ]
       },
       {
         "lang": "sv",
@@ -3499,7 +3536,10 @@
       },
       {
         "lang": "sr",
-        "name": "Plovka kašikara / Пловка кашикара"
+        "name": "Plovka kašikara",
+        "synonyms": [
+          "Пловка кашикара"
+        ]
       },
       {
         "lang": "sv",
@@ -3561,6 +3601,10 @@
       {
         "lang": "cs",
         "name": "Čírka kaštanová"
+      },
+      {
+        "lang": "da",
+        "name": "Kastanjeand"
       },
       {
         "lang": "de",
@@ -3733,6 +3777,10 @@
         "name": "Čírka popelavá"
       },
       {
+        "lang": "da",
+        "name": "Kapand"
+      },
+      {
         "lang": "en",
         "name": "Cape Teal"
       },
@@ -3768,6 +3816,10 @@
       {
         "lang": "cs",
         "name": "Čírka černoskvrnná"
+      },
+      {
+        "lang": "da",
+        "name": "Madagaskarkrikand"
       },
       {
         "lang": "de",
@@ -3810,6 +3862,10 @@
   {
     "scientific_name": "Anas bahamensis",
     "common_names": [
+      {
+        "lang": "da",
+        "name": "Hvidkindet spidsand"
+      },
       {
         "lang": "de",
         "name": "Bahamaente"

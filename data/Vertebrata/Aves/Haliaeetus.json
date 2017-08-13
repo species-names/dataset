@@ -460,6 +460,10 @@
         "name": "Pygargue à tête blanche"
       },
       {
+        "lang": "frr",
+        "name": "Witjhoodet iarn"
+      },
+      {
         "lang": "ga",
         "name": "Iolar maol"
       },
@@ -900,7 +904,10 @@
       },
       {
         "lang": "sh",
-        "name": "Orao bjelorepan / орао бјелорепан"
+        "name": "Orao bjelorepan",
+        "synonyms": [
+          "орао бјелорепан"
+        ]
       },
       {
         "lang": "sk",
@@ -916,7 +923,10 @@
       },
       {
         "lang": "sr",
-        "name": "Orao belorepan / Орао белорепан"
+        "name": "Orao belorepan",
+        "synonyms": [
+          "Орао белорепан"
+        ]
       },
       {
         "lang": "sv",

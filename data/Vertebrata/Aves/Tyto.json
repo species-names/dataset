@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Tyto cravesae",
-    "common_names": []
-  },
-  {
     "scientific_name": "Tyto tenebricosa",
     "common_names": [
       {
@@ -217,6 +213,10 @@
     ]
   },
   {
+    "scientific_name": "Tyto multipunctata",
+    "common_names": []
+  },
+  {
     "scientific_name": "Tyto manusi",
     "common_names": [
       {
@@ -299,6 +299,15 @@
     ]
   },
   {
+    "scientific_name": "Tyto javanica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern Barn Owl"
+      }
+    ]
+  },
+  {
     "scientific_name": "Tyto inexspectata",
     "common_names": [
       {
@@ -354,27 +363,7 @@
   },
   {
     "scientific_name": "Tyto furcata",
-    "common_names": [
-      {
-        "lang": "de",
-        "name": "Amerika-Schleiereule"
-      },
-      {
-        "lang": "es",
-        "name": "Lechuza de los campanarios americana",
-        "synonyms": [
-          "Lechuza común americana"
-        ]
-      },
-      {
-        "lang": "en",
-        "name": "American owl"
-      },
-      {
-        "lang": "ru ",
-        "name": "AМЕpикАнкaя сипyxa"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Tyto deroepstorffi",
@@ -382,15 +371,6 @@
       {
         "lang": "en",
         "name": "Andaman Masked Owl"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Tyto delicatula",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Eastern Barn Owl"
       }
     ]
   },
@@ -496,13 +476,7 @@
       },
       {
         "lang": "en",
-        "name": "Golden Masked-owl",
-        "synonyms": [
-          "New Britain Barn-owl",
-          "New Britain Masked-owl",
-          "Bismarck Owl",
-          "Bismarck Masked-owl"
-        ]
+        "name": "Golden Masked Owl"
       },
       {
         "lang": "es",
@@ -639,10 +613,7 @@
       },
       {
         "lang": "eu",
-        "name": "Hontz zuri",
-        "synonyms": [
-          "ontza"
-        ]
+        "name": "Hontz zuri"
       },
       {
         "lang": "fa",
@@ -1081,7 +1052,10 @@
       },
       {
         "lang": "wen",
-        "name": "Wokata/Pisana sowa"
+        "name": "Wokata",
+        "synonyms": [
+          "Pisana sowa"
+        ]
       },
       {
         "lang": "xh",

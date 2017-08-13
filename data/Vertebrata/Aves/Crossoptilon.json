@@ -15,6 +15,10 @@
         "name": "Faisán orejudo pardo"
       },
       {
+        "lang": "fi",
+        "name": "Ruskokorvafasaani"
+      },
+      {
         "lang": "fr",
         "name": "Hokki brun"
       },
@@ -29,10 +33,6 @@
       {
         "lang": "pt",
         "name": "Faisão-orelhudo-pardo"
-      },
-      {
-        "lang": "fi",
-        "name": "Ruskokorvafasaani"
       },
       {
         "lang": "zh",
@@ -56,12 +56,12 @@
         "name": "Fagiano orecchiuto del Tibet"
       },
       {
-        "lang": "pt",
-        "name": "Faisão-orelhudo-tibetano"
-      },
-      {
         "lang": "lt",
         "name": "Tibetinis ausuotasis fazanas"
+      },
+      {
+        "lang": "pt",
+        "name": "Faisão-orelhudo-tibetano"
       },
       {
         "lang": "zh",
@@ -72,6 +72,10 @@
   {
     "scientific_name": "Crossoptilon crossoptilon",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Weißer Ohrfasan"
+      },
       {
         "lang": "en",
         "name": "White-eared Pheasant"
@@ -85,6 +89,10 @@
         "name": "Faisán orejudo blanco"
       },
       {
+        "lang": "fi",
+        "name": "Valkokorvafasaani"
+      },
+      {
         "lang": "it",
         "name": "Fagiano orecchiuto bianco"
       },
@@ -95,10 +103,6 @@
       {
         "lang": "lt",
         "name": "Baltasis ausuotasis fazanas"
-      },
-      {
-        "lang": "fi",
-        "name": "Valkokorvafasaani"
       },
       {
         "lang": "zh",
@@ -122,6 +126,10 @@
         "name": "Faisán orejudo azul"
       },
       {
+        "lang": "fi",
+        "name": "Sinikorvafasaani"
+      },
+      {
         "lang": "it",
         "name": "Fagiano orecchiuto azzurro"
       },
@@ -132,10 +140,6 @@
       {
         "lang": "lt",
         "name": "Mėlynasis ausuotasis fazanas"
-      },
-      {
-        "lang": "fi",
-        "name": "Sinikorvafasaani"
       },
       {
         "lang": "zh",

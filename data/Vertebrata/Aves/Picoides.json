@@ -1,92 +1,7 @@
 [
   {
     "scientific_name": "Picoides villosus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Strakapoud americký"
-      },
-      {
-        "lang": "da",
-        "name": "Amerikansk flagspætte"
-      },
-      {
-        "lang": "de",
-        "name": "Haarspecht"
-      },
-      {
-        "lang": "en",
-        "name": "Hairy Woodpecker"
-      },
-      {
-        "lang": "eo",
-        "name": "Hararpego"
-      },
-      {
-        "lang": "es",
-        "name": "Pico Velloso"
-      },
-      {
-        "lang": "fi",
-        "name": "Amerikankäpytikka"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic chevelu"
-      },
-      {
-        "lang": "hu",
-        "name": "Szőrös hőcsik"
-      },
-      {
-        "lang": "it",
-        "name": "Picchio villoso"
-      },
-      {
-        "lang": "ja",
-        "name": "セジロアカゲラ"
-      },
-      {
-        "lang": "kn",
-        "name": "ಕೇಶೀ-ಮರಕುಟಗ"
-      },
-      {
-        "lang": "nah",
-        "name": "Ācxoyātōtōtl"
-      },
-      {
-        "lang": "nl",
-        "name": "Haarspecht"
-      },
-      {
-        "lang": "no",
-        "name": "Indianerspett"
-      },
-      {
-        "lang": "pl",
-        "name": "Dzięcioł włochaty"
-      },
-      {
-        "lang": "pnb",
-        "name": "پکوایڈس ولوسس"
-      },
-      {
-        "lang": "ru",
-        "name": "Волосатый дятел"
-      },
-      {
-        "lang": "sk",
-        "name": "Ďateľ vlasatý"
-      },
-      {
-        "lang": "sv",
-        "name": "Hårspett"
-      },
-      {
-        "lang": "zh",
-        "name": "长嘴啄木鸟"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Picoides tridactylus",
@@ -149,7 +64,10 @@
       },
       {
         "lang": "hu",
-        "name": "Háromujjú hőcsik"
+        "name": "Háromujjú hőcsik",
+        "synonyms": [
+          "háromujjú harkály"
+        ]
       },
       {
         "lang": "nl",
@@ -207,215 +125,23 @@
   },
   {
     "scientific_name": "Picoides stricklandi",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Strickland's Woodpecker"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic de Strickland"
-      },
-      {
-        "lang": "fi",
-        "name": "Mäntytikka"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Picoides scalaris",
-    "common_names": [
-      {
-        "lang": "de",
-        "name": "Texasspecht"
-      },
-      {
-        "lang": "en",
-        "name": "Ladder-backed Woodpecker"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic arlequin"
-      },
-      {
-        "lang": "ja",
-        "name": "シマアカゲラ"
-      },
-      {
-        "lang": "fi",
-        "name": "Meksikonkirjotikka"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Picoides pubescens",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Strakapoud osikový"
-      },
-      {
-        "lang": "da",
-        "name": "Dværgflagspætte"
-      },
-      {
-        "lang": "de",
-        "name": "Dunenspecht"
-      },
-      {
-        "lang": "en",
-        "name": "Downy Woodpecker"
-      },
-      {
-        "lang": "eo",
-        "name": "Strivizaĝa buntpego"
-      },
-      {
-        "lang": "es",
-        "name": "Pico Pubescente"
-      },
-      {
-        "lang": "fi",
-        "name": "Keijutikka"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic mineur"
-      },
-      {
-        "lang": "it",
-        "name": "Picchio vellutato"
-      },
-      {
-        "lang": "ja",
-        "name": "セジロコゲラ"
-      },
-      {
-        "lang": "ml",
-        "name": "ഡൗണി മരംകൊത്തി"
-      },
-      {
-        "lang": "nl",
-        "name": "Donsspecht"
-      },
-      {
-        "lang": "no",
-        "name": "Dunspett"
-      },
-      {
-        "lang": "pl",
-        "name": "Dzięcioł kosmaty"
-      },
-      {
-        "lang": "ru",
-        "name": "Пушистый дятел"
-      },
-      {
-        "lang": "sk",
-        "name": "Ďateľ ozdobný"
-      },
-      {
-        "lang": "sv",
-        "name": "Dunspett"
-      },
-      {
-        "lang": "zh",
-        "name": "绒啄木鸟"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Picoides nuttallii",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "strakapoud kalifornský"
-      },
-      {
-        "lang": "da",
-        "name": "Californisk Flagspætte"
-      },
-      {
-        "lang": "de",
-        "name": "Nuttallspecht"
-      },
-      {
-        "lang": "en",
-        "name": "Nuttall's Woodpecker"
-      },
-      {
-        "lang": "es",
-        "name": "Pico de Nuttall"
-      },
-      {
-        "lang": "fi",
-        "name": "Kaliforniantikka"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic de Nuttall"
-      },
-      {
-        "lang": "it",
-        "name": "Picchio di Nuttall"
-      },
-      {
-        "lang": "ja",
-        "name": "シロハラシマアカゲラ",
-        "synonyms": [
-          "shiroharashimaakagera"
-        ]
-      },
-      {
-        "lang": "nl",
-        "name": "Nuttalls Specht"
-      },
-      {
-        "lang": "no",
-        "name": "Kaliforniaspett"
-      },
-      {
-        "lang": "pl",
-        "name": "dzięcioł kalifornijski"
-      },
-      {
-        "lang": "ru",
-        "name": "Нуталлов дятел"
-      },
-      {
-        "lang": "sk",
-        "name": "ďateľ Nuttallov"
-      },
-      {
-        "lang": "sv",
-        "name": "Chaparralspett"
-      },
-      {
-        "lang": "zh",
-        "name": "加州啄木鸟"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Picoides fumigatus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Smoky-brown Woodpecker"
-      },
-      {
-        "lang": "es",
-        "name": "Carpintero Ahumado"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic enfumé"
-      },
-      {
-        "lang": "fi",
-        "name": "Savutikka"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Picoides dorsalis",
@@ -452,41 +178,11 @@
   },
   {
     "scientific_name": "Picoides borealis",
-    "common_names": [
-      {
-        "lang": "de",
-        "name": "Kokardenspecht"
-      },
-      {
-        "lang": "en",
-        "name": "Red-cockaded Woodpecker"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic à face blanche"
-      },
-      {
-        "lang": "fi",
-        "name": "Pihkatikka"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Picoides arizonae",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Arizona Woodpecker"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic d'Arizona"
-      },
-      {
-        "lang": "fi",
-        "name": "Sierramadrentikka"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Picoides arcticus",
@@ -577,78 +273,6 @@
   },
   {
     "scientific_name": "Picoides albolarvatus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "strakapoud mniší"
-      },
-      {
-        "lang": "da",
-        "name": "Hvidhovedet Flagspætte"
-      },
-      {
-        "lang": "de",
-        "name": "Weißkopfspecht"
-      },
-      {
-        "lang": "en",
-        "name": "White-headed Woodpecker"
-      },
-      {
-        "lang": "eo",
-        "name": "Blankkapa buntpego"
-      },
-      {
-        "lang": "es",
-        "name": "Pico Cabeciblanco"
-      },
-      {
-        "lang": "fi",
-        "name": "valkopäätikka"
-      },
-      {
-        "lang": "fr",
-        "name": "Pic à tête blanche"
-      },
-      {
-        "lang": "it",
-        "name": "Picchio testabianca"
-      },
-      {
-        "lang": "ja",
-        "name": "シロガシラキツツキ",
-        "synonyms": [
-          "shirogashirakitsutsuki"
-        ]
-      },
-      {
-        "lang": "nl",
-        "name": "Witkopspecht"
-      },
-      {
-        "lang": "no",
-        "name": "Hvithodespett"
-      },
-      {
-        "lang": "pl",
-        "name": "dzięcioł białogłowy"
-      },
-      {
-        "lang": "ru",
-        "name": "Белоголовый дятел"
-      },
-      {
-        "lang": "sk",
-        "name": "ďateľ bielohlavý"
-      },
-      {
-        "lang": "sv",
-        "name": "Vithuvad hackspett"
-      },
-      {
-        "lang": "zh",
-        "name": "白头啄木鸟"
-      }
-    ]
+    "common_names": []
   }
 ]

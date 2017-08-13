@@ -239,7 +239,10 @@
       },
       {
         "lang": "sh",
-        "name": "Crvena čaplja / црвена чапља"
+        "name": "Crvena čaplja",
+        "synonyms": [
+          "црвена чапља"
+        ]
       },
       {
         "lang": "sk",
@@ -788,7 +791,7 @@
       },
       {
         "lang": "et",
-        "name": "hallhaigur"
+        "name": "Hallhaigur"
       },
       {
         "lang": "eu",
@@ -800,7 +803,7 @@
       },
       {
         "lang": "fi",
-        "name": "harmaahaikara"
+        "name": "Harmaahaikara"
       },
       {
         "lang": "fo",
@@ -820,7 +823,7 @@
       },
       {
         "lang": "fy",
-        "name": "ielreager"
+        "name": "Ielreager"
       },
       {
         "lang": "ga",
@@ -864,7 +867,7 @@
       },
       {
         "lang": "hu",
-        "name": "szürke gém"
+        "name": "Szürke gém"
       },
       {
         "lang": "hy",
@@ -876,7 +879,7 @@
       },
       {
         "lang": "is",
-        "name": "gráhegri"
+        "name": "Gráhegri"
       },
       {
         "lang": "it",
@@ -884,10 +887,7 @@
       },
       {
         "lang": "ja",
-        "name": "アオサギ",
-        "synonyms": [
-          "aosagi"
-        ]
+        "name": "アオサギ"
       },
       {
         "lang": "ka",
@@ -995,10 +995,7 @@
       },
       {
         "lang": "nap",
-        "name": "Airóne",
-        "synonyms": [
-          "Aurana"
-        ]
+        "name": "Airóne"
       },
       {
         "lang": "nds-nl",
@@ -1018,7 +1015,7 @@
       },
       {
         "lang": "no",
-        "name": "gråhegre"
+        "name": "Gråhegre"
       },
       {
         "lang": "nrm",
@@ -1038,7 +1035,7 @@
       },
       {
         "lang": "pl",
-        "name": "czapla siwa"
+        "name": "Czapla siwa"
       },
       {
         "lang": "pms",
@@ -1049,12 +1046,12 @@
         "name": "گرے ہیرون"
       },
       {
-        "lang": "pt-br",
-        "name": "garça-real-européia"
-      },
-      {
         "lang": "pt",
         "name": "Garça-real"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Garça-real-européia"
       },
       {
         "lang": "qu",
@@ -1062,7 +1059,7 @@
       },
       {
         "lang": "rm",
-        "name": "irun grisch"
+        "name": "Irun grisch"
       },
       {
         "lang": "rmy",
@@ -1106,7 +1103,7 @@
       },
       {
         "lang": "sk",
-        "name": "volavka popolavá"
+        "name": "Volavka popolavá"
       },
       {
         "lang": "sl",
@@ -1118,7 +1115,7 @@
       },
       {
         "lang": "sr",
-        "name": "Siva čaplja / Сива чапља"
+        "name": "Siva čaplja - Сива чапља"
       },
       {
         "lang": "st",
@@ -1146,7 +1143,7 @@
       },
       {
         "lang": "tk",
-        "name": "külrengi balıkçıl"
+        "name": "Külrengi balıkçıl"
       },
       {
         "lang": "tn",
@@ -1194,22 +1191,19 @@
       },
       {
         "lang": "zea",
-        "name": "Reiher",
-        "synonyms": [
-          "Reigaort"
-        ]
+        "name": "Reiher"
       },
       {
         "lang": "zh-min-nan",
         "name": "Hái-khiā-á"
       },
       {
-        "lang": "zh-yue",
-        "name": "蒼鷺"
-      },
-      {
         "lang": "zh",
         "name": "苍鹭"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "蒼鷺"
       },
       {
         "lang": "zu",

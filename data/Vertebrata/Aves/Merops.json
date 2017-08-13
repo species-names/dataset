@@ -156,6 +156,10 @@
       {
         "lang": "fr",
         "name": "Guêpier de Revoil"
+      },
+      {
+        "lang": "hu",
+        "name": "Szomáli gyurgyalag"
       }
     ]
   },
@@ -173,6 +177,10 @@
       {
         "lang": "fr",
         "name": "Guêpier nain"
+      },
+      {
+        "lang": "hu",
+        "name": "Törpegyurgyalag"
       }
     ]
   },
@@ -351,7 +359,10 @@
       },
       {
         "lang": "hu",
-        "name": "Feketefarkú gyurgyalag"
+        "name": "Feketefarkú gyurgyalag",
+        "synonyms": [
+          "szivárványgyurgyalag"
+        ]
       },
       {
         "lang": "ja",
@@ -392,7 +403,10 @@
       },
       {
         "lang": "hu",
-        "name": "Smaragd gyurgyalag"
+        "name": "Smaragdgyurgyalag",
+        "synonyms": [
+          "keleti gyurgyalag"
+        ]
       },
       {
         "lang": "ja",
@@ -446,7 +460,10 @@
       },
       {
         "lang": "hu",
-        "name": "Kármin gyurgyalag"
+        "name": "Kármin gyurgyalag",
+        "synonyms": [
+          "piros gyurgyalag"
+        ]
       },
       {
         "lang": "ja",
@@ -476,6 +493,10 @@
       {
         "lang": "es",
         "name": "Abejaruco carmesí sureño"
+      },
+      {
+        "lang": "hu",
+        "name": "Kármintorkú gyurgyalag"
       }
     ]
   },
@@ -496,7 +517,10 @@
       },
       {
         "lang": "hu",
-        "name": "Zafírgyurgyalag"
+        "name": "Zafírgyurgyalag",
+        "synonyms": [
+          "bíborhátú gyurgyalag"
+        ]
       },
       {
         "lang": "nl",
@@ -535,6 +559,10 @@
       {
         "lang": "fr",
         "name": "Guêpier gris-rose"
+      },
+      {
+        "lang": "hu",
+        "name": "Rózsáshasú gyurgyalag"
       },
       {
         "lang": "pt",
@@ -642,6 +670,13 @@
       {
         "lang": "es",
         "name": "Abejaruco negro"
+      },
+      {
+        "lang": "hu",
+        "name": "Bársonyos gyurgyalag",
+        "synonyms": [
+          "fekete gyurgyalag"
+        ]
       }
     ]
   },
@@ -655,6 +690,13 @@
       {
         "lang": "en",
         "name": "Red-throated Bee-eater"
+      },
+      {
+        "lang": "hu",
+        "name": "Vöröstorkú gyurgyalag",
+        "synonyms": [
+          "pirostorkú gyurgyalag"
+        ]
       }
     ]
   },
@@ -703,7 +745,10 @@
       },
       {
         "lang": "hu",
-        "name": "Fehérfejű gyurgyalag"
+        "name": "Fehérfejű gyurgyalag",
+        "synonyms": [
+          "fehérhomlokú gyurgyalag"
+        ]
       },
       {
         "lang": "it",
@@ -847,6 +892,14 @@
       {
         "lang": "gl",
         "name": "Abelleiro"
+      },
+      {
+        "lang": "hu",
+        "name": "Gyurgyalag",
+        "synonyms": [
+          "méhészmadár",
+          "piripió"
+        ]
       },
       {
         "lang": "hy",

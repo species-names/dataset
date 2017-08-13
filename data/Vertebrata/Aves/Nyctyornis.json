@@ -20,7 +20,10 @@
       },
       {
         "lang": "hu",
-        "name": "Indiai remetegyurgyalag"
+        "name": "Indiai remetegyurgyalag",
+        "synonyms": [
+          "kékszakállú gyurgyalag"
+        ]
       },
       {
         "lang": "ml",
@@ -50,6 +53,10 @@
       {
         "lang": "fr",
         "name": "Guêpier à fraise"
+      },
+      {
+        "lang": "hu",
+        "name": "Remetegyurgyalag"
       },
       {
         "lang": "ms",

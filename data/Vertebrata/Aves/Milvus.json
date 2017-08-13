@@ -91,6 +91,10 @@
         "name": "Milan royal"
       },
       {
+        "lang": "frr",
+        "name": "Ruad miilaan"
+      },
+      {
         "lang": "fy",
         "name": "Reade Glee"
       },
@@ -457,7 +461,10 @@
       },
       {
         "lang": "sr",
-        "name": "mrka lunja / Мрка лунја"
+        "name": "mrka lunja",
+        "synonyms": [
+          "Мрка лунја"
+        ]
       },
       {
         "lang": "sv",

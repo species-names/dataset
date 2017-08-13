@@ -912,7 +912,10 @@
       },
       {
         "lang": "sr",
-        "name": "Ždral / Ждрал"
+        "name": "Ždral",
+        "synonyms": [
+          "Ждрал"
+        ]
       },
       {
         "lang": "sv",
@@ -1305,24 +1308,24 @@
         "name": "Schreikranich"
       },
       {
-        "lang": "nv",
-        "name": "Tóniłhę́ęshii"
-      },
-      {
         "lang": "en",
         "name": "Whooping Crane"
-      },
-      {
-        "lang": "es",
-        "name": "Grulla trompetera"
       },
       {
         "lang": "eo",
         "name": "Amerika gruo"
       },
       {
+        "lang": "es",
+        "name": "Grulla trompetera"
+      },
+      {
         "lang": "eu",
         "name": "Amerikar kurrilo"
+      },
+      {
+        "lang": "fi",
+        "name": "Trumpettikurki"
       },
       {
         "lang": "fr",
@@ -1333,16 +1336,20 @@
         "name": "Trompetkraan"
       },
       {
-        "lang": "ko",
-        "name": "미국흰두루미"
+        "lang": "he",
+        "name": "עגור אמריקאי"
       },
       {
         "lang": "it",
         "name": "Gru americana"
       },
       {
-        "lang": "he",
-        "name": "עגור אמריקאי"
+        "lang": "ja",
+        "name": "アメリカシロヅル"
+      },
+      {
+        "lang": "ko",
+        "name": "미국흰두루미"
       },
       {
         "lang": "lt",
@@ -1361,8 +1368,8 @@
         "name": "Trompetkraanvogel"
       },
       {
-        "lang": "ja",
-        "name": "アメリカシロヅル"
+        "lang": "nv",
+        "name": "Tóniłhę́ęshii"
       },
       {
         "lang": "pl",
@@ -1375,10 +1382,6 @@
       {
         "lang": "ru",
         "name": "Американский журавль"
-      },
-      {
-        "lang": "fi",
-        "name": "Trumpettikurki"
       },
       {
         "lang": "sv",

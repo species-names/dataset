@@ -237,7 +237,10 @@
       },
       {
         "lang": "sh",
-        "name": "crni ibis / црни ибис"
+        "name": "crni ibis",
+        "synonyms": [
+          "црни ибис"
+        ]
       },
       {
         "lang": "sk",
@@ -314,11 +317,7 @@
       },
       {
         "lang": "es",
-        "name": "Morito Cariblanco",
-        "synonyms": [
-          "Ibis de cara blanca",
-          "Cuervillo de Cañada (ARG)"
-        ]
+        "name": "Morito cariblanco"
       },
       {
         "lang": "fi",

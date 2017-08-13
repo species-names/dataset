@@ -35,6 +35,10 @@
         "name": "Pic des saguaros"
       },
       {
+        "lang": "hu",
+        "name": "Gilaszalagos küllő"
+      },
+      {
         "lang": "it",
         "name": "Picchio di Gila"
       },
@@ -98,6 +102,15 @@
       {
         "lang": "fr",
         "name": "Pic d'Hispaniola"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Melanerpes santacruzi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Velazquez's woodpecker"
       }
     ]
   },
@@ -293,6 +306,10 @@
       {
         "lang": "en",
         "name": "Black-cheeked Woodpecker"
+      },
+      {
+        "lang": "hu",
+        "name": "Álarcos küllő"
       }
     ]
   },
@@ -323,6 +340,10 @@
       {
         "lang": "fr",
         "name": "pic de Lewis"
+      },
+      {
+        "lang": "hu",
+        "name": "Lewis-küllő"
       },
       {
         "lang": "ja",
@@ -532,6 +553,13 @@
       {
         "lang": "en",
         "name": "Yellow-fronted Woodpecker"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérhátú küllő",
+        "synonyms": [
+          "sárgahomlokú küllő"
+        ]
       }
     ]
   },
@@ -675,6 +703,10 @@
       {
         "lang": "fr",
         "name": "Pic masqué"
+      },
+      {
+        "lang": "hu",
+        "name": "Costa Rica-i küllő"
       }
     ]
   },
@@ -827,6 +859,10 @@
       {
         "lang": "fr",
         "name": "Pic à front doré"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranyhomlokú küllő"
       },
       {
         "lang": "tr",

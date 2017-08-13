@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Phaethon demersus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Phaethon rubricauda",
     "common_names": [
       {
@@ -43,6 +39,51 @@
         "name": "tavaketoto"
       }
     ]
+  },
+  {
+    "scientific_name": "Phaethon lepturus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Weissschwanz-Tropikvogel"
+      },
+      {
+        "lang": "en",
+        "name": "White-tailed Tropicbird"
+      },
+      {
+        "lang": "es",
+        "name": "Rabijunco Menor"
+      },
+      {
+        "lang": "fr",
+        "name": "Phaéton à bec jaune"
+      },
+      {
+        "lang": "nl",
+        "name": "Witstaartkeerkringvogel"
+      },
+      {
+        "lang": "pt",
+        "name": "Rabo-de-palha-de-bico-laranja"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitstjärtad tropikfågel"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak kuyruklu tropik kuşu"
+      },
+      {
+        "lang": "to",
+        "name": "tavake"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethon demersus",
+    "common_names": []
   },
   {
     "scientific_name": "Phaethon aethereus",
@@ -126,47 +167,6 @@
       {
         "lang": "zh",
         "name": "红嘴热带鸟"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Phaethon lepturus",
-    "common_names": [
-      {
-        "lang": "de",
-        "name": "Weissschwanz-Tropikvogel"
-      },
-      {
-        "lang": "en",
-        "name": "White-tailed Tropicbird"
-      },
-      {
-        "lang": "es",
-        "name": "Rabijunco Menor"
-      },
-      {
-        "lang": "fr",
-        "name": "Phaéton à bec jaune"
-      },
-      {
-        "lang": "nl",
-        "name": "Witstaartkeerkringvogel"
-      },
-      {
-        "lang": "pt",
-        "name": "Rabo-de-palha-de-bico-laranja"
-      },
-      {
-        "lang": "sv",
-        "name": "Vitstjärtad tropikfågel"
-      },
-      {
-        "lang": "tr",
-        "name": "Ak kuyruklu tropik kuşu"
-      },
-      {
-        "lang": "to",
-        "name": "tavake"
       }
     ]
   }

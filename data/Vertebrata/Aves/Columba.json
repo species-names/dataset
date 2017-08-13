@@ -105,6 +105,10 @@
         "name": "Holub vínoprsý"
       },
       {
+        "lang": "de",
+        "name": "Kongotaube; Kongo-Waldtaube"
+      },
+      {
         "lang": "en",
         "name": "Afep Pigeon"
       },
@@ -900,7 +904,10 @@
       },
       {
         "lang": "bn",
-        "name": "জালালি কবুতর"
+        "name": "জালালি কবুতর",
+        "synonyms": [
+          "পায়রা"
+        ]
       },
       {
         "lang": "br",
@@ -2013,6 +2020,54 @@
       {
         "lang": "cs",
         "name": "Holub bělotemenný"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom de clatell blanc"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen warwen"
+      },
+      {
+        "lang": "de",
+        "name": "Weißgenicktaube"
+      },
+      {
+        "lang": "en",
+        "name": "White-naped pigeon"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkoniskakyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Pigeon à nuque blanche"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérmellű galamb"
+      },
+      {
+        "lang": "nl",
+        "name": "Witnekduif"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitnakkedue"
+      },
+      {
+        "lang": "pl",
+        "name": "Gołąb pstrogłowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "کولمبا البینوچا"
+      },
+      {
+        "lang": "sv",
+        "name": "vitnackad duva"
       }
     ]
   }
