@@ -5,7 +5,7 @@ const walk = require('walk')
 const path = require('path')
 
 describe('Duplicates', function () {
-  this.timeout(15000)
+  this.timeout(17000)
   it('should not have duplicates', function (done) {
       let scientific_names = [];
       let duplicates = []

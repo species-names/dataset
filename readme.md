@@ -20,7 +20,7 @@ Neohierax insignis synonym for Polihierax insignis
 Nystalus torridus synonym for Nystalus striolatus torridus
 Picoides scientific synonym
 Zlatar pijukavac - Златар пијукавац delimiter problems
-Tyto furcata alle namen weg
+Tyto furcata scientific synonym
 
 ## Contribute
 You can provide Pull Request to add or correct translations and species.  

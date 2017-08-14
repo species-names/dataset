@@ -9,9 +9,9 @@ const path = require('path')
 const schema = require('../json-schema.json')
 
 describe('Valid json', function () {
-  this.timeout(15000)
+  this.timeout(17000)
   it('should have valid json-schema', function (done) {
-    validator.validate(schema, 'http://json-schema.org/schema')
+    validator.validate(schema, 'http://json-schema.org/draft-04/schema')
     .then(() => {
       done()
     })
