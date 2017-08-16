@@ -16,7 +16,7 @@
       },
       {
         "lang": "en",
-        "name": "Vermilion Flycatcher"
+        "name": "Scarlet Flycatcher"
       },
       {
         "lang": "es",
@@ -93,6 +93,33 @@
       {
         "lang": "zh",
         "name": "朱红霸鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pyrocephalus obscurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Vermillion flycatcher"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pyrocephalus nanus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Darwin's flycatcher"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pyrocephalus dubius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "San Cristobal flycatcher"
       }
     ]
   }

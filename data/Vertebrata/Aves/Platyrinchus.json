@@ -48,6 +48,26 @@
       {
         "lang": "es",
         "name": "Picochato chico"
+      },
+      {
+        "lang": "cy",
+        "name": "Llydanbig adeingoch"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌بیلچه‌ای بال‌خرمایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Platyrhynque à ailes rousses"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodvleugelbreedbektiran"
+      },
+      {
+        "lang": "sv",
+        "name": "brunvingad spadnäbb"
       }
     ]
   },
@@ -66,10 +86,32 @@
   },
   {
     "scientific_name": "Platyrinchus coronatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-crowned spadebill"
+      },
+      {
+        "lang": "es",
+        "name": "Picoplano coronado"
+      },
+      {
+        "lang": "pt",
+        "name": "Patinho-de-coroa-dourada"
+      }
+    ]
   },
   {
     "scientific_name": "Platyrinchus cancrominus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stub-tailed spadebill"
+      },
+      {
+        "lang": "es",
+        "name": "Picoplano rabón"
+      }
+    ]
   }
 ]

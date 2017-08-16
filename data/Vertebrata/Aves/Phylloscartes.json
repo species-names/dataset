@@ -21,6 +21,18 @@
       {
         "lang": "pt-br",
         "name": "Maria-pequena"
+      },
+      {
+        "lang": "cy",
+        "name": "Teyrn bach wynebwinau"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinringlooftiran"
+      },
+      {
+        "lang": "sv",
+        "name": "brunringad dvärgtyrann"
       }
     ]
   },
@@ -51,6 +63,30 @@
       {
         "lang": "es",
         "name": "Orejerito de Minas Gerais"
+      },
+      {
+        "lang": "cy",
+        "name": "Teyrn bach Minas Gerais"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbbürzel-Laubtyrann"
+      },
+      {
+        "lang": "fi",
+        "name": "Minasgeraisinnapsija"
+      },
+      {
+        "lang": "hu",
+        "name": "Minasi füziketirannusz"
+      },
+      {
+        "lang": "nl",
+        "name": "Minas Geraislooftiran"
+      },
+      {
+        "lang": "sv",
+        "name": "minasgeraisdvärgtyrann"
       }
     ]
   },
@@ -58,15 +94,27 @@
     "scientific_name": "Phylloscartes paulista",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Teyrn bach Saõ Paulo"
+      },
+      {
+        "lang": "en",
+        "name": "São Paulo tyrannulet"
+      },
+      {
+        "lang": "nl",
+        "name": "São Paulolooftiran"
+      },
+      {
+        "lang": "sv",
+        "name": "sãopaulodvärgtyrann"
+      },
+      {
         "lang": "es",
         "name": "Mosqueta oreja negra"
       },
       {
-        "lang": "en",
-        "name": "Sao Paulo Tyrannulet"
-      },
-      {
-        "lang": "pt-br",
+        "lang": "pt",
         "name": "Não-pode-parar"
       }
     ]
@@ -140,6 +188,22 @@
       {
         "lang": "es",
         "name": "Orejerito de restinga"
+      },
+      {
+        "lang": "cy",
+        "name": "Teyrn bach Restinga"
+      },
+      {
+        "lang": "nl",
+        "name": "Restingalooftiran"
+      },
+      {
+        "lang": "pl",
+        "name": "Tyrańczyk żółtolicy"
+      },
+      {
+        "lang": "sv",
+        "name": "restingadvärgtyrann"
       }
     ]
   },
@@ -187,6 +251,22 @@
       {
         "lang": "pt",
         "name": "Estalinho"
+      },
+      {
+        "lang": "cy",
+        "name": "Teyrn bach Ihering"
+      },
+      {
+        "lang": "fr",
+        "name": "Tyranneau des Ihering"
+      },
+      {
+        "lang": "nl",
+        "name": "Witooglooftiran"
+      },
+      {
+        "lang": "sv",
+        "name": "serradomardvärgtyrann"
       }
     ]
   },
@@ -204,6 +284,18 @@
       {
         "lang": "pt",
         "name": "Cara-pintada"
+      },
+      {
+        "lang": "hu",
+        "name": "Alaogasi füziketirannusz"
+      },
+      {
+        "lang": "nl",
+        "name": "Langstaartlooftiran"
+      },
+      {
+        "lang": "sv",
+        "name": "alagoasdvärgtyrann"
       }
     ]
   },
@@ -215,12 +307,28 @@
         "name": "Bahia Tyrannulet"
       },
       {
-        "lang": "pt",
-        "name": "Borboletinha-baiano"
-      },
-      {
         "lang": "es",
         "name": "Orejerito de Bahía"
+      },
+      {
+        "lang": "hu",
+        "name": "Bahiai füziketirannusz"
+      },
+      {
+        "lang": "nl",
+        "name": "Bahialooftiran"
+      },
+      {
+        "lang": "pl",
+        "name": "Tyrańczyk brazylijski"
+      },
+      {
+        "lang": "pt",
+        "name": "Borboletinha-baiana"
+      },
+      {
+        "lang": "sv",
+        "name": "bahiadvärgtyrann"
       }
     ]
   }

@@ -103,7 +103,16 @@
   },
   {
     "scientific_name": "Contopus pertinax",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Greater pewee"
+      },
+      {
+        "lang": "es",
+        "name": "Pibí tengofrío"
+      }
+    ]
   },
   {
     "scientific_name": "Contopus pallidus",
