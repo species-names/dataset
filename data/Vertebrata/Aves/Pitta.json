@@ -85,7 +85,7 @@
       },
       {
         "lang": "sv",
-        "name": "Sumatrapitta"
+        "name": "sumatrapitta"
       },
       {
         "lang": "vi",
@@ -94,6 +94,22 @@
       {
         "lang": "zh",
         "name": "黑冠八色鸫"
+      },
+      {
+        "lang": "ar",
+        "name": "بيتا رشيق"
+      },
+      {
+        "lang": "cy",
+        "name": "Pita penddu"
+      },
+      {
+        "lang": "fa",
+        "name": "پیتای زیبا"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuorikorupitta"
       }
     ]
   },
@@ -108,7 +124,60 @@
   },
   {
     "scientific_name": "Pitta superba",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بيتا رائع"
+      },
+      {
+        "lang": "ca",
+        "name": "Pita superb"
+      },
+      {
+        "lang": "cy",
+        "name": "Pita gwych"
+      },
+      {
+        "lang": "en",
+        "name": "Superb pitta"
+      },
+      {
+        "lang": "es",
+        "name": "Pita soberbia"
+      },
+      {
+        "lang": "fi",
+        "name": "Manusinpitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève superbe"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketehátú pitta"
+      },
+      {
+        "lang": "nl",
+        "name": "Prachtpitta"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹا سپربا"
+      },
+      {
+        "lang": "sv",
+        "name": "manusjuveltrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt to"
+      },
+      {
+        "lang": "zh",
+        "name": "美丽八色鸫"
+      }
+    ]
   },
   {
     "scientific_name": "Pitta steerii",
@@ -139,7 +208,7 @@
       },
       {
         "lang": "sv",
-        "name": "Azurpitta"
+        "name": "azurpitta"
       },
       {
         "lang": "vi",
@@ -148,6 +217,26 @@
       {
         "lang": "zh",
         "name": "蓝胸八色鸫"
+      },
+      {
+        "lang": "bg",
+        "name": "Синьогърда пита"
+      },
+      {
+        "lang": "cy",
+        "name": "Pita cefnwyrdd"
+      },
+      {
+        "lang": "fa",
+        "name": "پیتای سینه‌زمردی"
+      },
+      {
+        "lang": "fi",
+        "name": "Filippiinienpitta"
+      },
+      {
+        "lang": "mrj",
+        "name": "Симсӹ мӹшкӹрӓн питта"
       }
     ]
   },
@@ -198,6 +287,58 @@
       {
         "lang": "es",
         "name": "Pita de Schneider"
+      },
+      {
+        "lang": "ar",
+        "name": "بيتا شنايدري"
+      },
+      {
+        "lang": "ca",
+        "name": "Pita de Schneider"
+      },
+      {
+        "lang": "cy",
+        "name": "Pita Schneider"
+      },
+      {
+        "lang": "de",
+        "name": "Schneiderpitta"
+      },
+      {
+        "lang": "en",
+        "name": "Schneider's pitta"
+      },
+      {
+        "lang": "fi",
+        "name": "Sumatranpitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève de Schneider"
+      },
+      {
+        "lang": "hu",
+        "name": "Schneider-pitta"
+      },
+      {
+        "lang": "nl",
+        "name": "Schneiders pitta"
+      },
+      {
+        "lang": "pnb",
+        "name": "شنائیدر نورنگا"
+      },
+      {
+        "lang": "sv",
+        "name": "blåryggig juveltrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt Schneider"
+      },
+      {
+        "lang": "zh",
+        "name": "施氏八色鸫"
       }
     ]
   },
@@ -247,8 +388,80 @@
     "scientific_name": "Pitta nympha",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بيتا خرافي"
+      },
+      {
+        "lang": "bg",
+        "name": "Пита нимфа"
+      },
+      {
+        "lang": "cy",
+        "name": "Pita aeliog"
+      },
+      {
+        "lang": "de",
+        "name": "Nymphenpitta"
+      },
+      {
+        "lang": "en",
+        "name": "Fairy pitta"
+      },
+      {
         "lang": "fi",
         "name": "Keijupitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève migratrice"
+      },
+      {
+        "lang": "hu",
+        "name": "Tündérpitta"
+      },
+      {
+        "lang": "id",
+        "name": "Paok bidadari"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤイロチョウ"
+      },
+      {
+        "lang": "ko",
+        "name": "팔색조"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Pacat"
+      },
+      {
+        "lang": "nl",
+        "name": "Chinese pitta"
+      },
+      {
+        "lang": "pl",
+        "name": "Kurtaczek blady"
+      },
+      {
+        "lang": "pnb",
+        "name": "شنگھاریا نورنگا"
+      },
+      {
+        "lang": "ru",
+        "name": "Питта-нимфа"
+      },
+      {
+        "lang": "sv",
+        "name": "Kinesisk juveltrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt bụng đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "仙八色鸫"
       }
     ]
   },
@@ -288,6 +501,70 @@
       {
         "lang": "th",
         "name": "นกแต้วแร้วป่าโกงกาง"
+      },
+      {
+        "lang": "ar",
+        "name": "بيتا كبير المنقار"
+      },
+      {
+        "lang": "bg",
+        "name": "Мангрова пита"
+      },
+      {
+        "lang": "bn",
+        "name": "প্যারা শুমচা"
+      },
+      {
+        "lang": "ca",
+        "name": "Pita dels manglars"
+      },
+      {
+        "lang": "de",
+        "name": "Große Blauflügelpitta"
+      },
+      {
+        "lang": "fi",
+        "name": "Mangrovepitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève des palétuviers"
+      },
+      {
+        "lang": "hu",
+        "name": "Mangrovepitta"
+      },
+      {
+        "lang": "id",
+        "name": "Paok bakau"
+      },
+      {
+        "lang": "nl",
+        "name": "Mangrovepitta"
+      },
+      {
+        "lang": "pl",
+        "name": "Kurtaczek namorzynowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "مینگروو نورنگا"
+      },
+      {
+        "lang": "ru",
+        "name": "Мангровая питта"
+      },
+      {
+        "lang": "sv",
+        "name": "mangrovejuveltrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt rừng đước"
+      },
+      {
+        "lang": "zh",
+        "name": "红树八色鸫"
       }
     ]
   },
@@ -346,6 +623,54 @@
       {
         "lang": "en",
         "name": "Whiskered Pitta"
+      },
+      {
+        "lang": "ar",
+        "name": "بيتا مشورب"
+      },
+      {
+        "lang": "cy",
+        "name": "Pita Koch"
+      },
+      {
+        "lang": "fi",
+        "name": "Tammipitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève de Koch"
+      },
+      {
+        "lang": "hu",
+        "name": "Bajszos pitta"
+      },
+      {
+        "lang": "mrj",
+        "name": "Лусон питта"
+      },
+      {
+        "lang": "nl",
+        "name": "Kochs pitta"
+      },
+      {
+        "lang": "pl",
+        "name": "Kurtaczek wąsaty"
+      },
+      {
+        "lang": "pnb",
+        "name": "مچھانوالا نورنگا"
+      },
+      {
+        "lang": "sv",
+        "name": "luzonjuveltrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt ria"
+      },
+      {
+        "lang": "zh",
+        "name": "呂宋八色鶇"
       }
     ]
   },
@@ -374,8 +699,68 @@
         "name": "Sziámi pitta"
       },
       {
+        "lang": "ar",
+        "name": "بيتا غورني"
+      },
+      {
+        "lang": "ca",
+        "name": "Pita de Gurney"
+      },
+      {
+        "lang": "cs",
+        "name": "Pita Gurneyova"
+      },
+      {
+        "lang": "cy",
+        "name": "Pita Gurney"
+      },
+      {
+        "lang": "de",
+        "name": "Goldkehlpitta"
+      },
+      {
+        "lang": "fa",
+        "name": "پیتای گارنی"
+      },
+      {
+        "lang": "fi",
+        "name": "Malakanpitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève de Gurney"
+      },
+      {
+        "lang": "nl",
+        "name": "Gurneys pitta"
+      },
+      {
+        "lang": "pl",
+        "name": "Kurtaczek czarnobrzuchy"
+      },
+      {
+        "lang": "pnb",
+        "name": "گرنی نورنگا"
+      },
+      {
+        "lang": "ru",
+        "name": "Питта Гёрни"
+      },
+      {
+        "lang": "sv",
+        "name": "blåkronad juveltrast"
+      },
+      {
         "lang": "th",
         "name": "นกแต้วแร้วท้องดำ"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt Gurney"
+      },
+      {
+        "lang": "zh",
+        "name": "泰國八色鶇"
       }
     ]
   },
@@ -398,6 +783,54 @@
       {
         "lang": "en",
         "name": "Garnet Pitta"
+      },
+      {
+        "lang": "ar",
+        "name": "بيتا عقيقي"
+      },
+      {
+        "lang": "cy",
+        "name": "Pita coch"
+      },
+      {
+        "lang": "fa",
+        "name": "پیتای گارنت"
+      },
+      {
+        "lang": "fi",
+        "name": "Korupitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève grenadine"
+      },
+      {
+        "lang": "hu",
+        "name": "Gránátpitta"
+      },
+      {
+        "lang": "nl",
+        "name": "Granaatpitta"
+      },
+      {
+        "lang": "pnb",
+        "name": "لعل نورنگا"
+      },
+      {
+        "lang": "ru",
+        "name": "Гранатовая питта"
+      },
+      {
+        "lang": "sv",
+        "name": "granatjuveltrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt hồng lựu"
+      },
+      {
+        "lang": "zh",
+        "name": "榴红八色鸫"
       }
     ]
   },
@@ -425,7 +858,48 @@
   },
   {
     "scientific_name": "Pitta dohertyi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "pita de Sula"
+      },
+      {
+        "lang": "ar",
+        "name": "بيتا سولا"
+      },
+      {
+        "lang": "br",
+        "name": "Erythropitta dohertyi"
+      },
+      {
+        "lang": "en",
+        "name": "Sula pitta"
+      },
+      {
+        "lang": "hu",
+        "name": "Sula-szigeteki pitta"
+      },
+      {
+        "lang": "nl",
+        "name": "Sulapitta"
+      },
+      {
+        "lang": "pnb",
+        "name": "سولا نورنگا"
+      },
+      {
+        "lang": "sv",
+        "name": "sulajuveltrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt Sula"
+      },
+      {
+        "lang": "zh",
+        "name": "苏拉八色鸫"
+      }
+    ]
   },
   {
     "scientific_name": "Pitta cyanea",
@@ -442,7 +916,68 @@
   },
   {
     "scientific_name": "Pitta caerulea",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بيتا عملاق"
+      },
+      {
+        "lang": "ca",
+        "name": "Pita gegant"
+      },
+      {
+        "lang": "cy",
+        "name": "Pita cawraidd"
+      },
+      {
+        "lang": "de",
+        "name": "Riesenpitta"
+      },
+      {
+        "lang": "en",
+        "name": "Giant pitta"
+      },
+      {
+        "lang": "fa",
+        "name": "پیتای غول‌پیکر"
+      },
+      {
+        "lang": "fi",
+        "name": "Sulttaanipitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève géante"
+      },
+      {
+        "lang": "hu",
+        "name": "Óriáspitta"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кого питта"
+      },
+      {
+        "lang": "nl",
+        "name": "Reuzenpitta"
+      },
+      {
+        "lang": "pnb",
+        "name": "وڈا نورنگا"
+      },
+      {
+        "lang": "sv",
+        "name": "jättejuveltrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt lớn"
+      },
+      {
+        "lang": "zh",
+        "name": "大蓝八色鸫"
+      }
+    ]
   },
   {
     "scientific_name": "Pitta brachyura",
@@ -494,7 +1029,7 @@
       },
       {
         "lang": "sv",
-        "name": "Blåhuvad pitta"
+        "name": "blåhuvad pitta"
       },
       {
         "lang": "vi",
@@ -533,6 +1068,51 @@
   },
   {
     "scientific_name": "Pitta anerythra",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بيتا أسود الوجه"
+      },
+      {
+        "lang": "cy",
+        "name": "Pita wynebddu"
+      },
+      {
+        "lang": "en",
+        "name": "Black-faced pitta"
+      },
+      {
+        "lang": "fi",
+        "name": "Salomoninpitta"
+      },
+      {
+        "lang": "fr",
+        "name": "Brève masquée"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketearcú pitta"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartmaskerpitta"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالے مونہوالا نورنگا"
+      },
+      {
+        "lang": "sv",
+        "name": "svartmaskad juveltrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Đuôi cụt mặt đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑脸八色鸫"
+      }
+    ]
   }
 ]

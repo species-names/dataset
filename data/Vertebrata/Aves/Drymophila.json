@@ -1,5 +1,18 @@
 [
   {
+    "scientific_name": "Drymophila striaticeps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Streak-headed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero cabeciestriado"
+      }
+    ]
+  },
+  {
     "scientific_name": "Drymophila squamata",
     "common_names": [
       {
@@ -13,20 +26,89 @@
       {
         "lang": "pt",
         "name": "Pintadinho"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí escamoso"
       }
     ]
   },
   {
     "scientific_name": "Drymophila rubricollis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bertoni's antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí colorado"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Trovoada-de-bertoni"
+      }
+    ]
   },
   {
     "scientific_name": "Drymophila ochropyga",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ochre-rumped antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí culipardo"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Choquinha-de-dorso-vermelho"
+      }
+    ]
   },
   {
     "scientific_name": "Drymophila malura",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dusky-tailed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí estríado oriental"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Choquinha-carijó"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Drymophila klagesi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Klages's antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Klages"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Drymophila hellmayri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Santa Marta antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Santa Marta"
+      }
+    ]
   },
   {
     "scientific_name": "Drymophila genei",
@@ -63,15 +145,41 @@
       {
         "lang": "pt",
         "name": "Formigueiro-trovoada"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Trovoada"
       }
     ]
   },
   {
     "scientific_name": "Drymophila devillei",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Striated antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí estriado occidental"
+      },
+      {
+        "lang": "pt",
+        "name": "Trovoada-listrada"
+      }
+    ]
   },
   {
     "scientific_name": "Drymophila caudata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-tailed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Tiluchí colilargo"
+      }
+    ]
   }
 ]

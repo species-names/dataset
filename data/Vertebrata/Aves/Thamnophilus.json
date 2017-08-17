@@ -14,7 +14,16 @@
   },
   {
     "scientific_name": "Thamnophilus unicolor",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Uniform antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará unicolor"
+      }
+    ]
   },
   {
     "scientific_name": "Thamnophilus torquatus",
@@ -72,7 +81,7 @@
     "common_names": [
       {
         "lang": "es",
-        "name": "Batará apizarrado"
+        "name": "Batará alillano"
       },
       {
         "lang": "en",
@@ -94,6 +103,14 @@
       {
         "lang": "en",
         "name": "Northern Slaty-Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará pizarroso punteado"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-bate-cabo"
       }
     ]
   },
@@ -150,6 +167,14 @@
       {
         "lang": "en",
         "name": "Blackish-grey Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará ceniciento"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-preta-e-cinza"
       }
     ]
   },
@@ -172,6 +197,14 @@
       {
         "lang": "en",
         "name": "Mouse-colored Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará murino"
+      },
+      {
+        "lang": "pt",
+        "name": "Choca-murina"
       }
     ]
   },
@@ -181,6 +214,10 @@
       {
         "lang": "en",
         "name": "Bar-crested Antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará crestibarrado"
       }
     ]
   },
@@ -341,7 +378,16 @@
   },
   {
     "scientific_name": "Thamnophilus bridgesi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-hooded antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará negruzco"
+      }
+    ]
   },
   {
     "scientific_name": "Thamnophilus bernardi",
@@ -358,7 +404,16 @@
   },
   {
     "scientific_name": "Thamnophilus atrinucha",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-crowned antshrike"
+      },
+      {
+        "lang": "es",
+        "name": "Batará pizarroso occidental"
+      }
+    ]
   },
   {
     "scientific_name": "Thamnophilus aroyae",
@@ -396,6 +451,10 @@
       {
         "lang": "pt",
         "name": "Choca-canela"
+      },
+      {
+        "lang": "es",
+        "name": "Batará amazónico"
       }
     ]
   },

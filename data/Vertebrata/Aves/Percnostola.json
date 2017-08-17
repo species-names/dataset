@@ -17,20 +17,19 @@
     ]
   },
   {
-    "scientific_name": "Percnostola minor",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Amazonas Antbird"
-      }
-    ]
-  },
-  {
     "scientific_name": "Percnostola lophotes",
     "common_names": [
       {
         "lang": "en",
         "name": "Rufous-crested Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormigreo crestado"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-do-bambu"
       }
     ]
   },
@@ -44,6 +43,10 @@
       {
         "lang": "es",
         "name": "Hormiguero de Allpahuayo"
+      },
+      {
+        "lang": "nl",
+        "name": "Allpahuayomiervogel''"
       }
     ]
   }

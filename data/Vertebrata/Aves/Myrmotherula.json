@@ -14,7 +14,16 @@
   },
   {
     "scientific_name": "Myrmotherula unicolor",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Unicolored antwren"
+      },
+      {
+        "lang": "pt",
+        "name": "Choquinha-cinzenta"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmotherula surinamensis",
@@ -82,7 +91,16 @@
   },
   {
     "scientific_name": "Myrmotherula schisticolor",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Slaty antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito pizarroso"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmotherula pacifica",
@@ -99,7 +117,20 @@
   },
   {
     "scientific_name": "Myrmotherula multostriata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Amazonian streaked-antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito amazonico"
+      },
+      {
+        "lang": "pt",
+        "name": "Choquinha-estriada-da-amazonia"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmotherula minor",
@@ -128,6 +159,19 @@
       {
         "lang": "es",
         "name": "Hormiguerito gris"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Myrmotherula luctuosa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Silvery-flanked antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito flanquiargentino"
       }
     ]
   },
@@ -171,6 +215,10 @@
       {
         "lang": "pt",
         "name": "Choquinha-do-Tapajós"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguerito de Klages"
       }
     ]
   },
@@ -219,11 +267,33 @@
   },
   {
     "scientific_name": "Myrmotherula fluminensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rio de Janeiro antwren"
+      },
+      {
+        "lang": "pt",
+        "name": "Choquinha-fluminense"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmotherula cherriei",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cherrie's antwren"
+      },
+      {
+        "lang": "es",
+        "name": "Homiguerito de Cherrie"
+      },
+      {
+        "lang": "pt",
+        "name": "Choquinha-de-peito-riscado"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmotherula brachyura",
@@ -289,7 +359,7 @@
       },
       {
         "lang": "pt",
-        "name": "Choquinha-da-varzea"
+        "name": "Choquinha-da-várzea"
       }
     ]
   },

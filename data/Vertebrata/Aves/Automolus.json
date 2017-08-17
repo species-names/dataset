@@ -49,7 +49,20 @@
   },
   {
     "scientific_name": "Automolus melanopezus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown-rumped foliage-gleaner"
+      },
+      {
+        "lang": "es",
+        "name": "Ticotico pardo"
+      },
+      {
+        "lang": "pt",
+        "name": "Barranqueiro-escuro"
+      }
+    ]
   },
   {
     "scientific_name": "Automolus leucophthalmus",

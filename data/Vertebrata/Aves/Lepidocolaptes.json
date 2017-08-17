@@ -157,7 +157,20 @@
   },
   {
     "scientific_name": "Lepidocolaptes falcinellus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scalloped woodcreeper"
+      },
+      {
+        "lang": "es",
+        "name": "Trepatroncos festoneado"
+      },
+      {
+        "lang": "pt",
+        "name": "Arapaçu-escamado-do-sul"
+      }
+    ]
   },
   {
     "scientific_name": "Lepidocolaptes duidae",

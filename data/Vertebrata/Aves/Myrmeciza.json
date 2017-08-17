@@ -1,7 +1,25 @@
 [
   {
+    "scientific_name": "Myrmeciza zeledoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Zeledon's antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Zeledón"
+      }
+    ]
+  },
+  {
     "scientific_name": "Myrmeciza squamosa",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Hormiguero escamoso"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmeciza ruficauda",
@@ -11,6 +29,10 @@
         "name": "Scalloped Antbird"
       },
       {
+        "lang": "es",
+        "name": "Hormiguero festoneado"
+      },
+      {
         "lang": "pt",
         "name": "Formigueiro-de-cauda-ruiva"
       }
@@ -18,7 +40,25 @@
   },
   {
     "scientific_name": "Myrmeciza pelzelni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Hormiguero ventrigrís"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Myrmeciza palliata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Magdalena Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Magdalena"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmeciza nigricauda",
@@ -43,7 +83,20 @@
   },
   {
     "scientific_name": "Myrmeciza loricata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bibbed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero enmascarado"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-assobiador"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmeciza longipes",
@@ -76,6 +129,10 @@
       {
         "lang": "en",
         "name": "Dull-mantled Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero guardarribera"
       }
     ]
   },
@@ -84,13 +141,22 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Immaculate Antbird"
+        "name": "Blue-lored antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero inmaculado"
       }
     ]
   },
   {
     "scientific_name": "Myrmeciza hyperythra",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Hormiguero plomizo"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmeciza hemimelaena",
@@ -98,6 +164,10 @@
       {
         "lang": "en",
         "name": "Southern Chestnut-tailed Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero colicastaño sureño"
       }
     ]
   },
@@ -137,6 +207,10 @@
       {
         "lang": "en",
         "name": "Chestnut-backed Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero dorsicastaño"
       }
     ]
   },
@@ -146,7 +220,16 @@
   },
   {
     "scientific_name": "Myrmeciza castanea",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern chestnut-tailed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero colicastaño norteño"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmeciza berlepschi",

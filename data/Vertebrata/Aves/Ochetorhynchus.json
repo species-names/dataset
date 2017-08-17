@@ -1,18 +1,54 @@
 [
   {
+    "scientific_name": "Ochetorhynchus ruficaudus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Straight-billed earthcreeper"
+      },
+      {
+        "lang": "es",
+        "name": "Bandurrita piquirrecta"
+      }
+    ]
+  },
+  {
     "scientific_name": "Ochetorhynchus phoenicurus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Band-tailed Earthcreeper"
+      },
+      {
+        "lang": "es",
+        "name": "Bandurrita patagónica"
+      }
+    ]
   },
   {
     "scientific_name": "Ochetorhynchus melanurus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ochetorhynchus ruficaudus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crag Chilia"
+      },
+      {
+        "lang": "es",
+        "name": "Chiricoca"
+      }
+    ]
   },
   {
     "scientific_name": "Ochetorhynchus andaecola",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rock earthcreeper"
+      },
+      {
+        "lang": "es",
+        "name": "Bandurrita roquera"
+      }
+    ]
   }
 ]
