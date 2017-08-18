@@ -1,0 +1,473 @@
+[
+  {
+    "scientific_name": "Symposiachrus vidua",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-collared Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca acollarado"
+      },
+      {
+        "lang": "fi",
+        "name": "Sancristóbalinmonarkki"
+      },
+      {
+        "lang": "nl",
+        "name": "Geschubde monarch"
+      },
+      {
+        "lang": "sv",
+        "name": "Makiramonark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus verticalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-tailed Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca de las Bismarck"
+      },
+      {
+        "lang": "fi",
+        "name": "Bismarckinmonarkki"
+      },
+      {
+        "lang": "nl",
+        "name": "Kuifmonarch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus trivirgatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spectacled Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca de anteojos"
+      },
+      {
+        "lang": "fi",
+        "name": "Punaposkimonarkki"
+      },
+      {
+        "lang": "hu",
+        "name": "Álarcos császárlégykapó"
+      },
+      {
+        "lang": "nl",
+        "name": "Brilmonarch"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartmaskad monark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus sacerdotum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Flores Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca de Flores"
+      },
+      {
+        "lang": "fi",
+        "name": "Floresinmonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque de Florès"
+      },
+      {
+        "lang": "nl",
+        "name": "Mees' monarch"
+      },
+      {
+        "lang": "sv",
+        "name": "Floresmonark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus mundus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-bibbed Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca barbinegro"
+      },
+      {
+        "lang": "fi",
+        "name": "Tanimbarinmonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque à menton noir"
+      },
+      {
+        "lang": "nl",
+        "name": "Tanimbarmonarch"
+      },
+      {
+        "lang": "sv",
+        "name": "Sundamonark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus menckei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mussau Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca de San Matías"
+      },
+      {
+        "lang": "fi",
+        "name": "Saintmatthiasinmonarkki"
+      },
+      {
+        "lang": "nl",
+        "name": "Witrugmonarch"
+      },
+      {
+        "lang": "sv",
+        "name": "Mussaumonark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus manadensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hooded Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca encapuchado"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustavalkomonarkki"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartwitte monarch"
+      },
+      {
+        "lang": "pt",
+        "name": "Monarcha manadensis"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus loricatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-tipped Monarch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus leucurus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Weißschwanz-Monarch"
+      },
+      {
+        "lang": "en",
+        "name": "White-tailed Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca coliblanco"
+      },
+      {
+        "lang": "fi",
+        "name": "Kainmonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque des Kaï"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaimonarch"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitstjärtad monark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus julianae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Kofiau Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca de Kofiau"
+      },
+      {
+        "lang": "fi",
+        "name": "Kafiaunmonarkki"
+      },
+      {
+        "lang": "nl",
+        "name": "Koningin-Julianamonarch"
+      },
+      {
+        "lang": "sv",
+        "name": "Kofiaumonark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus infelix",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Manus Monarch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus guttula",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Perlenflügelmonarch"
+      },
+      {
+        "lang": "en",
+        "name": "Spot-winged Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca alimoteado"
+      },
+      {
+        "lang": "fi",
+        "name": "Täpläsiipimonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque à ailes tachetées"
+      },
+      {
+        "lang": "nl",
+        "name": "Vlekvleugelmonarch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus everetti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-tipped Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca de Everett"
+      },
+      {
+        "lang": "fi",
+        "name": "Djampeanmonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque d'Everett"
+      },
+      {
+        "lang": "nl",
+        "name": "Djampeamonarch"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitgumpad monark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus browni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Kolombangara Monarch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus brehmii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Biak Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca de Brehm"
+      },
+      {
+        "lang": "fi",
+        "name": "Biakinmonarkki"
+      },
+      {
+        "lang": "nl",
+        "name": "Schlegels monarch"
+      },
+      {
+        "lang": "sv",
+        "name": "Biakmonark"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus boanensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Boano-Monarch"
+      },
+      {
+        "lang": "en",
+        "name": "Black-chinned Monarch"
+      },
+      {
+        "lang": "fi",
+        "name": "Boanonmonarkki"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus bimaculatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Moluccan Monarch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus barbatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Muchálek šalamounský"
+      },
+      {
+        "lang": "da",
+        "name": "Broget Monark"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbartmonarch"
+      },
+      {
+        "lang": "en",
+        "name": "Solomons Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca blanquinegro"
+      },
+      {
+        "lang": "fi",
+        "name": "Santaisabelinmonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque pie"
+      },
+      {
+        "lang": "it",
+        "name": "Monarca gazza"
+      },
+      {
+        "lang": "ja",
+        "name": "マダラカササギビタキ"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbaardmonarch"
+      },
+      {
+        "lang": "no",
+        "name": "Salomonmonark"
+      },
+      {
+        "lang": "pl",
+        "name": "Monarka białobroda"
+      },
+      {
+        "lang": "ru",
+        "name": "Белобородый монарх"
+      },
+      {
+        "lang": "sk",
+        "name": "Monarch bradatý"
+      },
+      {
+        "lang": "sv",
+        "name": "Brokmonark"
+      },
+      {
+        "lang": "zh",
+        "name": "斑王鹟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Symposiachrus axillaris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black Monarch"
+      },
+      {
+        "lang": "es",
+        "name": "Monarca negro"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustamonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque noir"
+      },
+      {
+        "lang": "nl",
+        "name": "Wigstaartmonarch"
+      }
+    ]
+  }
+]

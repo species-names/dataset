@@ -1,0 +1,776 @@
+[
+  {
+    "scientific_name": "Dicrurus waldenii",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Drongo de la Mayotte"
+      },
+      {
+        "lang": "en",
+        "name": "Mayotte drongo"
+      },
+      {
+        "lang": "fi",
+        "name": "Mayottendrongo"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای مایوت"
+      },
+      {
+        "lang": "nl",
+        "name": "Mayottedrongo"
+      },
+      {
+        "lang": "pl",
+        "name": "Dziwogon komorski"
+      },
+      {
+        "lang": "sv",
+        "name": "Mayottedrongo"
+      },
+      {
+        "lang": "ru",
+        "name": "Майоттский дронго"
+      },
+      {
+        "lang": "zh",
+        "name": "马约特岛卷尾"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus sumatranus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Drongo de Sumatra"
+      },
+      {
+        "lang": "en",
+        "name": "Sumatran drongo"
+      },
+      {
+        "lang": "br",
+        "name": "Drongo Sumatra"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای سوماترا"
+      },
+      {
+        "lang": "nl",
+        "name": "Sumatraanse drongo"
+      },
+      {
+        "lang": "sv",
+        "name": "Sumatradrongo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus remifer",
+    "common_names": [
+      {
+        "lang": "fa",
+        "name": "بوجانگای دم‌پارویی کوچک"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser racket-tailed drongo"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuviiridrongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo de raquetas chico"
+      },
+      {
+        "lang": "nl",
+        "name": "Spateldrongo"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre vimpeldrongo"
+      },
+      {
+        "lang": "th",
+        "name": "นกแซงแซวหางบ่วงเล็ก"
+      },
+      {
+        "lang": "zh",
+        "name": "小盘尾"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo à rames"
+      },
+      {
+        "lang": "vi",
+        "name": "Chèo bẻo cờ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus paradiseus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Flaggendrongo"
+      },
+      {
+        "lang": "en",
+        "name": "Greater Racket-tailed Drongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo de raquetas grande"
+      },
+      {
+        "lang": "as",
+        "name": "ভীমৰাজ"
+      },
+      {
+        "lang": "bn",
+        "name": "ভীমরাজ"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای دم‌پارویی بزرگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Viiridrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo à raquettes"
+      },
+      {
+        "lang": "hi",
+        "name": "ग्रेटर रैकेट-पूंछ ड्रोंगो"
+      },
+      {
+        "lang": "hu",
+        "name": "Paradicsomdrongó"
+      },
+      {
+        "lang": "kn",
+        "name": "ದೊಡ್ಡ ರ್ರ್ಯಾಕೆಟ್‌-ಬಾಲದ ಡ್ರೊಂಗೋ ಪಕ್ಷಿ"
+      },
+      {
+        "lang": "ml",
+        "name": "കാടുമുഴക്കി"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Cecawi Anting-anting"
+      },
+      {
+        "lang": "my",
+        "name": "လင်းမြီးဆွဲငှက်"
+      },
+      {
+        "lang": "nl",
+        "name": "Vlaggendrongo"
+      },
+      {
+        "lang": "ru",
+        "name": "Райский дронго"
+      },
+      {
+        "lang": "sv",
+        "name": "Större vimpeldrongo"
+      },
+      {
+        "lang": "th",
+        "name": "นกแซงแซวหางบ่วงใหญ่"
+      },
+      {
+        "lang": "vi",
+        "name": "Chèo bẻo đuôi cờ chẻ"
+      },
+      {
+        "lang": "zh",
+        "name": "大盘尾"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus montanus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Drongo Sulawesi"
+      },
+      {
+        "lang": "en",
+        "name": "Sulawesi Drongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo de Célebes"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای سوآلزی"
+      },
+      {
+        "lang": "fi",
+        "name": "Celebesindrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo des Célèbes"
+      },
+      {
+        "lang": "nl",
+        "name": "Sulawesidrongo"
+      },
+      {
+        "lang": "sv",
+        "name": "Sulawesidrongo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus modestus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Drongo modesto"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus megarhynchus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Drongo de Nueva Irlanda"
+      },
+      {
+        "lang": "en",
+        "name": "Paradise drongo"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای بهشت"
+      },
+      {
+        "lang": "fi",
+        "name": "Uudenirlannindrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo de Nouvelle-Irlande"
+      },
+      {
+        "lang": "nl",
+        "name": "Bismarckdrongo"
+      },
+      {
+        "lang": "sv",
+        "name": "Serpentindrongo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus macrocercus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black drongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo royal"
+      },
+      {
+        "lang": "ja",
+        "name": "オウチュウ"
+      },
+      {
+        "lang": "ml",
+        "name": "ആനറാഞ്ചി പക്ഷി"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung cecawi hitam"
+      },
+      {
+        "lang": "zh",
+        "name": "黑卷尾"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus ludwigii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Square-tailed Drongo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus leucophaeus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ashy Drongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo cenizo"
+      },
+      {
+        "lang": "br",
+        "name": "Drongo louet"
+      },
+      {
+        "lang": "de",
+        "name": "Graudrongo"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای خاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "Tuhkadrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo cendré"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürke drongó"
+      },
+      {
+        "lang": "id",
+        "name": "Srigunting kelabu"
+      },
+      {
+        "lang": "ml",
+        "name": "കാക്കത്തമ്പുരാൻ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Cecawi Rantau"
+      },
+      {
+        "lang": "my",
+        "name": "လုံးမြီးဆွဲ"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze drongo"
+      },
+      {
+        "lang": "ru",
+        "name": "Серый дронго"
+      },
+      {
+        "lang": "sv",
+        "name": "Grå drongo"
+      },
+      {
+        "lang": "ta",
+        "name": "கரிச்சான்"
+      },
+      {
+        "lang": "th",
+        "name": "นกแซงแซวสีเทา"
+      },
+      {
+        "lang": "vi",
+        "name": "Chèo bẻo xám"
+      },
+      {
+        "lang": "zh",
+        "name": "灰卷尾"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus hottentottus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hair-crested Drongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo crestudo"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای سینه‌مودار"
+      },
+      {
+        "lang": "fi",
+        "name": "Peräsindrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo à crinière"
+      },
+      {
+        "lang": "nl",
+        "name": "Haarkuifdrongo"
+      },
+      {
+        "lang": "sv",
+        "name": "Lyrdrongo"
+      },
+      {
+        "lang": "vi",
+        "name": "Dicrurus menagei"
+      },
+      {
+        "lang": "zh",
+        "name": "发冠卷尾"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus fuscipennis",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Drongo Komorez"
+      },
+      {
+        "lang": "en",
+        "name": "Grand Comoro Drongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo de la Gran Comora"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای بزرگ قمر"
+      },
+      {
+        "lang": "fi",
+        "name": "Komoriendrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo de Grande Comore"
+      },
+      {
+        "lang": "hu",
+        "name": "Barnaszárnyú drongó"
+      },
+      {
+        "lang": "nl",
+        "name": "Comorendrongo"
+      },
+      {
+        "lang": "sv",
+        "name": "Komordrongo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus forficatus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Drongo Malgache"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus densus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Drongo de Wallacea"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus caerulescens",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Drongo kof gwenn"
+      },
+      {
+        "lang": "en",
+        "name": "White-bellied Drongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo ventriblanco"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای شکم‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkovatsadrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo à ventre blanc"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürkebegyű drongó"
+      },
+      {
+        "lang": "ne",
+        "name": "ध्वाँसे चिबे"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbuikdrongo"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbukad drongo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus bracteatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spangled Drongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo escamoso"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo pailleté"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus balicassius",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Drongo balicassio"
+      },
+      {
+        "lang": "en",
+        "name": "Balicassiao"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای فیلیپینی"
+      },
+      {
+        "lang": "fi",
+        "name": "Filippiiniendrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo balicassio"
+      },
+      {
+        "lang": "hu",
+        "name": "Fülöp-szigeteki drongó"
+      },
+      {
+        "lang": "nl",
+        "name": "Filipijnse drongo"
+      },
+      {
+        "lang": "sv",
+        "name": "Filippinsk drongo"
+      },
+      {
+        "lang": "zh",
+        "name": "白肋卷尾"
+      },
+      {
+        "lang": "tl",
+        "name": "Balikasyaw"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus atripennis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Dicrurus annectans",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crow-billed drongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo pico gordo"
+      },
+      {
+        "lang": "nl",
+        "name": "Kraaiebekdrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo à gros bec"
+      },
+      {
+        "lang": "sv",
+        "name": "Kråknäbbad drongo"
+      },
+      {
+        "lang": "vi",
+        "name": "Chèo bẻo mỏ quạ"
+      },
+      {
+        "lang": "fi",
+        "name": "Varisdrongo"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای منقارکلاغی"
+      },
+      {
+        "lang": "zh",
+        "name": "鸦嘴卷尾"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus andamanensis",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Drongo de Andamán"
+      },
+      {
+        "lang": "nl ",
+        "name": "Andamanendrongo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus aldabranus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Drongo de Aldabra"
+      },
+      {
+        "lang": "en",
+        "name": "Aldabra drongo"
+      },
+      {
+        "lang": "br",
+        "name": "Drongo Aldabra"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای آلدابرا"
+      },
+      {
+        "lang": "fi",
+        "name": "Aldabrandrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo d'Aldabra"
+      },
+      {
+        "lang": "nl",
+        "name": "Aldabradrongo"
+      },
+      {
+        "lang": "sv",
+        "name": "Aldabradrongo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus aeneus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bronzed Drongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo bronceado"
+      },
+      {
+        "lang": "nl",
+        "name": "Bronsdrongo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dicrurus adsimilis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Mikstertbyvanger"
+      },
+      {
+        "lang": "de",
+        "name": "Trauerdrongo"
+      },
+      {
+        "lang": "en",
+        "name": "Fork-tailed Drongo"
+      },
+      {
+        "lang": "es",
+        "name": "Drongo ahorquillado"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگای دم دوشاخه‌ای"
+      },
+      {
+        "lang": "fi",
+        "name": "Sieppodrongo"
+      },
+      {
+        "lang": "fr",
+        "name": "Drongo brillant"
+      },
+      {
+        "lang": "hu",
+        "name": "Szuaheli drongó"
+      },
+      {
+        "lang": "ja",
+        "name": "クロオウチュウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Treurdrongo"
+      },
+      {
+        "lang": "no",
+        "name": "Savannedrongo"
+      },
+      {
+        "lang": "ru",
+        "name": "Траурный дронго"
+      },
+      {
+        "lang": "sv",
+        "name": "Klykstjärtad drongo"
+      }
+    ]
+  }
+]

@@ -1,0 +1,918 @@
+[
+  {
+    "scientific_name": "Rhipidura threnothorax",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sooty Thicket-Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico del matorral"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی دوده‌ای بیشه"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure fuligineux"
+      },
+      {
+        "lang": "nl",
+        "name": "Roetwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "رہیپیڈورا تھرینوتھوریکس"
+      },
+      {
+        "lang": "sv",
+        "name": "Sotsolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura teysmanni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rusty-bellied Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico de Célebes"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی شکم‌زنگاری"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure des Célèbes"
+      },
+      {
+        "lang": "id",
+        "name": "Kipasan sulawesi"
+      },
+      {
+        "lang": "nl",
+        "name": "Sulawesiwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "زنگی ٹڈوالی پکھی پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostbukad solfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura tenebrosa",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Rhipidura superflua",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tawny-backed Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico de Buru"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی پشت‌برنزه"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure de Buru"
+      },
+      {
+        "lang": "nl",
+        "name": "Buruwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "رہیپیڈورا سپرفلوا"
+      },
+      {
+        "lang": "sv",
+        "name": "Molucksolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura superciliaris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mindanao blue fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico azul"
+      },
+      {
+        "lang": "nl",
+        "name": "Mindanao-blauwe waaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "مینڈاناؤ پکھی پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "Blå solfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura spilodera",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Streaked Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico moteado"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی راه‌راه"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure tacheté"
+      },
+      {
+        "lang": "nl",
+        "name": "Gevlekte waaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "دھاریاںوالی پکھی پوچھل"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura semirubra",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Manus Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico de la Manus"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی مانوس"
+      },
+      {
+        "lang": "nl",
+        "name": "Manuswaaierstaart"
+      },
+      {
+        "lang": "sv",
+        "name": "Manussolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura rufiventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico norteño"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی شمالی"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure à ventre chamois"
+      },
+      {
+        "lang": "nl",
+        "name": "Streepborstwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "اتلی پکھی پوجھل"
+      },
+      {
+        "lang": "sv",
+        "name": "Nordlig solfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura rufifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous Fantail"
+      },
+      {
+        "lang": "de",
+        "name": "Fuchsfächerschwanz"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico Rojizo"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure roux"
+      },
+      {
+        "lang": "it",
+        "name": "Coda a ventaglio castano"
+      },
+      {
+        "lang": "nl",
+        "name": "Ponape-waaierstaart"
+      },
+      {
+        "lang": "ja",
+        "name": "オウギビタキ"
+      },
+      {
+        "lang": "po",
+        "name": "Wachlarzówka rudoczoła"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснолобая веерохвостка"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura rufidorsa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-backed Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico dorsirrufo"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی پشت‌حنایی"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijsborstwaaierstaart"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråbröstad solfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura rennelliana",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Rhipidura phoenicura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-tailed Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico colirrojo"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی دم‌حنایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure rougequeue"
+      },
+      {
+        "lang": "id",
+        "name": "Kipasan ekor-merah"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodstuitwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "رہیپیڈورا فونیکورا"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödstjärtad solfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura phasiana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mangrove Grey Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico de manglar"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی حرا"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure des mangroves"
+      },
+      {
+        "lang": "nl",
+        "name": "Mangrovewaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "مینگروو پکھی پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "Mangrovesolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura personata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Kadavu fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico de Kadavu"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی کاداوو"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure de Kadavu"
+      },
+      {
+        "lang": "nl",
+        "name": "Kadavuwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "کاڈاوو پکھی پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "Kadavusolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura perlata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Rhipidura opistherythra",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Abanico de Tanimbar"
+      },
+      {
+        "lang": "en",
+        "name": "Long-tailed fantail"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure des Tanimbar"
+      },
+      {
+        "lang": "pnb",
+        "name": "لمی پوجھلوالی پکھی پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "Tanimbarsolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura nigrocinnamomea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-and-cinnamon Fantail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura nebulosa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Samoan Fantail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura matthiae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Matthias Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico de San Matías"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی موسائو"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure des Saint-Matthias"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartborstwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "مساؤ پکھی پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "Mussausolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura malaitae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Malaita Fantail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura maculipectus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Rhipidura leucothorax",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Thicket-Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico pechiblanco"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی شکم‌سفید بیشه"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure à poitrine blanche"
+      },
+      {
+        "lang": "nl",
+        "name": "Witborstwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "رہیپیڈورا لیوکوتھوریکس"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbukad solfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura leucophrys",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "طائر الذعرة"
+      },
+      {
+        "lang": "de",
+        "name": "Gartenfächerschwanz"
+      },
+      {
+        "lang": "en",
+        "name": "Willie Wagtail"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure hochequeue"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura lepida",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Rhipidura kubaryi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pohnpei Fantail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura javanica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Rhipidura hyperythra",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Rhipidura fuscorufa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon-tailed Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico colicanela"
+      },
+      {
+        "lang": "nl",
+        "name": "Tanimbarwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "دارچینی پکھی پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "Roststjärtadsolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura fuliginosa",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Graufächerschwanz"
+      },
+      {
+        "lang": "en",
+        "name": "Grey Fantail"
+      },
+      {
+        "lang": "mi",
+        "name": "Pīwakawaka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura euryura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico ventriblanco"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی شکم‌سفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure à ventre blanc"
+      },
+      {
+        "lang": "id",
+        "name": "Kipasan bukit"
+      },
+      {
+        "lang": "nl",
+        "name": "Kortpootwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹے ٹڈوالی پکھی پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "Javasolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura dryas",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Arafura Fantail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura drownei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico pardo"
+      },
+      {
+        "lang": "nl",
+        "name": "Bergwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "رہیپیڈورا ڈراؤنی"
+      },
+      {
+        "lang": "sv",
+        "name": "Salomonsolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura diluta",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown-capped Fantail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura dedemi",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Abanico de Seram"
+      },
+      {
+        "lang": "cy",
+        "name": "Cynffondaenwr Seram"
+      },
+      {
+        "lang": "en",
+        "name": "Streak-breasted fantail"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی سینه‌راه‌راه"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure de Céram"
+      },
+      {
+        "lang": "nl",
+        "name": "Van Dedems waaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "رہیپیڈورا سیسیمی"
+      },
+      {
+        "lang": "sv",
+        "name": "ceramsolfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura dahli",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bismarck Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico de Bismarck"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijskeelwaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "رہیپیڈورا روفیڈورسا"
+      },
+      {
+        "lang": "sv",
+        "name": "Mörkstrupig solfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura cyaniceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-headed Fantail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura cockerelli",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Abanico de la Cockerell"
+      },
+      {
+        "lang": "en",
+        "name": "Cockerell's fantail"
+      },
+      {
+        "lang": "ca",
+        "name": "Cua de ventall de Cockerell"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure de Cockerell"
+      },
+      {
+        "lang": "pnb",
+        "name": "کوکرل پکھی پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitvingad solfjäderstjärt"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura brachyrhyncha",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Rhipidura aureola",
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "সাদা-ভ্রূ লেজনাচানি"
+      },
+      {
+        "lang": "en",
+        "name": "White-browed Fantail"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico cejiblanco"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی ابروسفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure à grands sourcils"
+      },
+      {
+        "lang": "kn",
+        "name": "ರಾಜ ಹಕ್ಕಿ"
+      },
+      {
+        "lang": "ml",
+        "name": "ആട്ടക്കാരൻ പക്ഷി"
+      },
+      {
+        "lang": "my",
+        "name": "အောင်စာငှက်"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische waaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "رہیپیڈورا اورولا"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbrynad solfjäderstjärt"
+      },
+      {
+        "lang": "zh",
+        "name": "白眉扇尾鶲"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura atra",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black Fantail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura albolimbata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Friendly Fantail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura albogularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Fantail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura albiscapa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey Fantail"
+      },
+      {
+        "lang": "ru",
+        "name": "Ошейниковая серая веерохвостка"
+      },
+      {
+        "lang": "de",
+        "name": "Graufächerschwanz"
+      },
+      {
+        "lang": "es",
+        "name": "Abanico Maorí"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure à collie"
+      },
+      {
+        "lang": "it",
+        "name": "Codaventaglio delle mangrovie"
+      },
+      {
+        "lang": "jp",
+        "name": "ハイイロオウギビタキ"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze Waaierstaart"
+      },
+      {
+        "lang": "po",
+        "name": "Wachlarzówka posępna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhipidura albicollis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Fantail"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "scientific_name": "Campephaga quiscalina",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Purple-throated Cuckoo-shrike"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campephaga phoenicea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-shouldered Cuckoo-shrike"
+      },
+      {
+        "lang": "es",
+        "name": "Oruguero hombrorrojo"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikanmustakäpinkäinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Échenilleur à épaulettes rouges"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodschouderrupsvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödskuldrad nålfågel"
+      },
+      {
+        "lang": "zh",
+        "name": "红肩鹃鵙"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campephaga petiti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Petit's Cuckoo-shrike"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campephaga oriolina",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern Wattled Cuckoo-shrike",
+        "synonyms": [
+          "Oriole Cuckoo-shrike"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "oruguero oriolino"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campephaga lobata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Wattled Cuckoo-shrike",
+        "synonyms": [
+          "Ghana Cuckoo-shrike"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Oruguero carunculado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Campephaga flava",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black Cuckoo-shrike"
+      },
+      {
+        "lang": "es",
+        "name": "Oruguero hombroamarillo"
+      },
+      {
+        "lang": "pt",
+        "name": "Lagarteiro-preto"
+      }
+    ]
+  }
+]
