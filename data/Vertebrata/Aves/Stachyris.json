@@ -5,6 +5,26 @@
       {
         "lang": "en",
         "name": "White-bibbed Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí cuelliblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Timalie à col blanc"
+      },
+      {
+        "lang": "sv",
+        "name": "Vithalsad timalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Khướu bụi yếm trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "白领穗鹛"
       }
     ]
   },
@@ -14,6 +34,18 @@
       {
         "lang": "en",
         "name": "Spot-necked Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí gorjipinto"
+      },
+      {
+        "lang": "sv",
+        "name": "Fläckhalstimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "斑颈穗鹛"
       }
     ]
   },
@@ -40,7 +72,28 @@
   },
   {
     "scientific_name": "Stachyris ruficeps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-capped babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí coronirrojo"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödhättad timalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Khướu bụi đầu đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "红头穗鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Stachyris rodolphei",
@@ -57,11 +110,53 @@
   },
   {
     "scientific_name": "Stachyris pyrrhops",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-chinned babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí barbinegro"
+      },
+      {
+        "lang": "ne",
+        "name": "कालोचिउँडे वनभ्याकुर"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthaketimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "红嘴穗鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Stachyris poliocephala",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-headed babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí cabecigrís"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråhuvad timalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Khướu bụi đầu xám"
+      },
+      {
+        "lang": "zh",
+        "name": "灰头穗鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Stachyris plateni",
@@ -75,8 +170,24 @@
     "scientific_name": "Stachyris nonggangensis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Nonggang-Timalie"
+      },
+      {
         "lang": "en",
         "name": "Nonggang Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí de Nonggang"
+      },
+      {
+        "lang": "fr",
+        "name": "Timalie de Nonggang"
+      },
+      {
+        "lang": "pt",
+        "name": "Zaragateiro de Nonggang"
       },
       {
         "lang": "zh",
@@ -111,24 +222,128 @@
       {
         "lang": "en",
         "name": "Black-throated Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "timalí gorjinegro"
+      },
+      {
+        "lang": "id",
+        "name": "Tepus kaban"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Rimba Bertam"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartstrupig timalia"
+      },
+      {
+        "lang": "zh",
+        "name": "黑喉穗鹛"
       }
     ]
   },
   {
     "scientific_name": "Stachyris nigriceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-throated babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí gorjigrís"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråstrupig timalia"
+      },
+      {
+        "lang": "zh",
+        "name": "黑头穗鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Stachyris melanothorax",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crescent-chested babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí perlado"
+      },
+      {
+        "lang": "id",
+        "name": "Tepus pipi-perak"
+      },
+      {
+        "lang": "sv",
+        "name": "Månbröstad timalia"
+      },
+      {
+        "lang": "zh",
+        "name": "珠颊穗鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Stachyris maculata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-rumped babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí maculado"
+      },
+      {
+        "lang": "id",
+        "name": "Tepus tunggir-merah"
+      },
+      {
+        "lang": "sv",
+        "name": "Fjällbröstad timalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Khướu bụi phao câu hung"
+      },
+      {
+        "lang": "zh",
+        "name": "红腰穗鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Stachyris leucotis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-necked babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí orejudo"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kelicap Bunga Kantan"
+      },
+      {
+        "lang": "sv",
+        "name": "Pärlhalstimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "白耳穗鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Stachyris herberti",
@@ -141,7 +356,28 @@
   },
   {
     "scientific_name": "Stachyris grammiceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-breasted babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí pechiblanco"
+      },
+      {
+        "lang": "id",
+        "name": "Tepus dada-putih"
+      },
+      {
+        "lang": "sv",
+        "name": "Javatimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "白胸穗鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Stachyris erythroptera",
@@ -178,6 +414,30 @@
       {
         "lang": "en",
         "name": "Golden Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí dorado"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kelicap Mas"
+      },
+      {
+        "lang": "ne",
+        "name": "निगाले वनभ्याकुर"
+      },
+      {
+        "lang": "sv",
+        "name": "Gyllentimalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Khướu bụi vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "金头穗鹛"
       }
     ]
   },
@@ -200,6 +460,18 @@
       {
         "lang": "en",
         "name": "Buff-chested Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí de Harington"
+      },
+      {
+        "lang": "sv",
+        "name": "Ockrabröstad timalia"
+      },
+      {
+        "lang": "zh",
+        "name": "黄喉穗鹛"
       }
     ]
   }

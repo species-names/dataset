@@ -46,8 +46,24 @@
     "scientific_name": "Pseudalethe choloensis",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Alethe Thyolo"
+      },
+      {
         "lang": "en",
-        "name": "Thyolo Alethe"
+        "name": "Thyolo alethe"
+      },
+      {
+        "lang": "fi",
+        "name": "Zombankertturastas"
+      },
+      {
+        "lang": "nl",
+        "name": "Cholobergalethe"
+      },
+      {
+        "lang": "sv",
+        "name": "thyolosnårskvätta"
       }
     ]
   }

@@ -1,10 +1,51 @@
 [
   {
-    "scientific_name": "Eremalauda starki",
-    "common_names": []
-  },
-  {
     "scientific_name": "Eremalauda dunni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "قنبرة دن"
+      },
+      {
+        "lang": "bg",
+        "name": "Арабска чучулига"
+      },
+      {
+        "lang": "ca",
+        "name": "Alosa de Dunn"
+      },
+      {
+        "lang": "en",
+        "name": "Dunn's Lark"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک‌های صحرا"
+      },
+      {
+        "lang": "fi",
+        "name": "Arabianaavikkokiuru"
+      },
+      {
+        "lang": "nl",
+        "name": "Dunns leeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Nomadelerke"
+      },
+      {
+        "lang": "sv",
+        "name": "Streckig ökenlärka"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca Dunn"
+      },
+      {
+        "lang": "zh",
+        "name": "图氏沙百灵"
+      }
+    ]
   }
 ]

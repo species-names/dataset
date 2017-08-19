@@ -1,21 +1,5 @@
 [
   {
-    "scientific_name": "Garrulax taewanus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Garrulax ferrarius",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Garrulax courtoisi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Garrulax castanotis",
-    "common_names": []
-  },
-  {
     "scientific_name": "Garrulax vassali",
     "common_names": []
   },
@@ -25,6 +9,15 @@
       {
         "lang": "en",
         "name": "Chestnut-hooded Laughingthrush"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Garrulax taewanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Taiwan Hwamei"
       }
     ]
   },
@@ -60,7 +53,36 @@
   },
   {
     "scientific_name": "Garrulax rufogularis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-chinned laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán golirrufo"
+      },
+      {
+        "lang": "fr",
+        "name": "Garrulaxe à gorge rousse"
+      },
+      {
+        "lang": "ne",
+        "name": "कैलोकण्ठे तोरीगाँडा"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkinlijstergaai"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosthakad fnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "棕颏噪鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Garrulax rufifrons",
@@ -216,6 +238,22 @@
       {
         "lang": "en",
         "name": "Black-hooded Laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán de Millet"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthuvad fnittertrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Khướu đầu đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑冠噪鹛"
       }
     ]
   },
@@ -251,7 +289,12 @@
   },
   {
     "scientific_name": "Garrulax maesi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey Laughingthrush"
+      }
+    ]
   },
   {
     "scientific_name": "Garrulax lunulatus",
@@ -299,7 +342,7 @@
       },
       {
         "lang": "es",
-        "name": "Charlatán Orejicastaño"
+        "name": "Charlatán orejicastaño"
       },
       {
         "lang": "fi",
@@ -349,7 +392,33 @@
   },
   {
     "scientific_name": "Garrulax galbanus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-throated Laughingthrush"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Garrulax ferrarius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cambodian Laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán de Camboya"
+      },
+      {
+        "lang": "sv",
+        "name": "Kambodjafnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "柬埔寨噪鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Garrulax delesserti",
@@ -361,6 +430,15 @@
       {
         "lang": "en",
         "name": "Plain Laughingthrush"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Garrulax courtoisi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-crowned Laughingthrush"
       }
     ]
   },
@@ -403,6 +481,18 @@
       {
         "lang": "en",
         "name": "Moustached Laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán ceniciento"
+      },
+      {
+        "lang": "sv",
+        "name": "Mustaschfnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "灰翅噪鹛"
       }
     ]
   },
@@ -412,6 +502,27 @@
       {
         "lang": "en",
         "name": "Black-throated Laughingthrush"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Garrulax castanotis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-cheeked Laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán carirrufo"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostkindad fnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "栗颊噪鹛"
       }
     ]
   },

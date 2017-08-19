@@ -3,8 +3,24 @@
     "scientific_name": "Eremomela usticollis",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Bruinkeelbossanger"
+      },
+      {
         "lang": "en",
         "name": "Burnt-neck Eremomela"
+      },
+      {
+        "lang": "es",
+        "name": "Eremomela cuellirrufa"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskokauluskerttu"
+      },
+      {
+        "lang": "sv",
+        "name": "Brunkindad eremomela"
       }
     ]
   },
@@ -60,6 +76,10 @@
       {
         "lang": "en",
         "name": "Black-necked Eremomela"
+      },
+      {
+        "lang": "es",
+        "name": "Eremomela cuellinegra"
       }
     ]
   }

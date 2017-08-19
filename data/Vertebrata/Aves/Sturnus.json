@@ -1,0 +1,493 @@
+[
+  {
+    "scientific_name": "Sturnus vulgaris",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Europese Spreeu"
+      },
+      {
+        "lang": "als",
+        "name": "Store"
+      },
+      {
+        "lang": "an",
+        "name": "Estornel"
+      },
+      {
+        "lang": "ar",
+        "name": "زرزور شائع",
+        "synonyms": [
+          "الزرزور",
+          "الزرزور سمن سلو",
+          "سمن سلو"
+        ]
+      },
+      {
+        "lang": "ast",
+        "name": "Estornín"
+      },
+      {
+        "lang": "az",
+        "name": "Adi sığırçın"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Špuoks"
+      },
+      {
+        "lang": "be",
+        "name": "Шпак (звычайны)"
+      },
+      {
+        "lang": "bg",
+        "name": "Обикновен скорец"
+      },
+      {
+        "lang": "br",
+        "name": "Dred"
+      },
+      {
+        "lang": "ca",
+        "name": "Estornell vulgar"
+      },
+      {
+        "lang": "cs",
+        "name": "Špaček obecný"
+      },
+      {
+        "lang": "csb",
+        "name": "Skórc"
+      },
+      {
+        "lang": "cv",
+        "name": "Шăнкăрч"
+      },
+      {
+        "lang": "cy",
+        "name": "Drudwy"
+      },
+      {
+        "lang": "da",
+        "name": "Stær"
+      },
+      {
+        "lang": "de",
+        "name": "Star"
+      },
+      {
+        "lang": "dsb",
+        "name": "Škórc"
+      },
+      {
+        "lang": "el",
+        "name": "Ψαρόνι"
+      },
+      {
+        "lang": "eml",
+        "name": "Arghebul"
+      },
+      {
+        "lang": "en",
+        "name": "Common Starling"
+      },
+      {
+        "lang": "eo",
+        "name": "Sturno"
+      },
+      {
+        "lang": "es",
+        "name": "Estornino Pinto"
+      },
+      {
+        "lang": "et",
+        "name": "Kuldnokk"
+      },
+      {
+        "lang": "eu",
+        "name": "Arabazozo pikart"
+      },
+      {
+        "lang": "fa",
+        "name": "پرى شاهرخ طلايی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kottarainen"
+      },
+      {
+        "lang": "fo",
+        "name": "Stari"
+      },
+      {
+        "lang": "fr",
+        "name": "Étourneau sansonnet"
+      },
+      {
+        "lang": "frr",
+        "name": "Sprian"
+      },
+      {
+        "lang": "fur",
+        "name": "Sturnel"
+      },
+      {
+        "lang": "fy",
+        "name": "Protter"
+      },
+      {
+        "lang": "ga",
+        "name": "Druid"
+      },
+      {
+        "lang": "gd",
+        "name": "Druid"
+      },
+      {
+        "lang": "gl",
+        "name": "Estornell vulgar"
+      },
+      {
+        "lang": "gn",
+        "name": "Guyrajuhũ"
+      },
+      {
+        "lang": "gv",
+        "name": "Trutlag"
+      },
+      {
+        "lang": "he",
+        "name": "זרזיר",
+        "synonyms": [
+          "זרז-יר",
+          "זרזיר מצוי",
+          "זרז-יר מצוי"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Šareni čvorak"
+      },
+      {
+        "lang": "hsb",
+        "name": "Škórc"
+      },
+      {
+        "lang": "hu",
+        "name": "Seregély"
+      },
+      {
+        "lang": "hy",
+        "name": "Սովորական Սարյակ"
+      },
+      {
+        "lang": "io",
+        "name": "Sturno"
+      },
+      {
+        "lang": "is",
+        "name": "Stari"
+      },
+      {
+        "lang": "it",
+        "name": "Storno"
+      },
+      {
+        "lang": "ja",
+        "name": "ホシムクドリ"
+      },
+      {
+        "lang": "ka",
+        "name": "მოლაღური"
+      },
+      {
+        "lang": "kbd",
+        "name": "Бжэндэхъу"
+      },
+      {
+        "lang": "kjh",
+        "name": "Парчых"
+      },
+      {
+        "lang": "kk",
+        "name": "Қараторғай"
+      },
+      {
+        "lang": "ko",
+        "name": "흰점찌르레기"
+      },
+      {
+        "lang": "ks",
+        "name": "Posh Nool"
+      },
+      {
+        "lang": "ku",
+        "name": "Cîq"
+      },
+      {
+        "lang": "kw",
+        "name": "Tros"
+      },
+      {
+        "lang": "lb",
+        "name": "Spréif"
+      },
+      {
+        "lang": "li",
+        "name": "Sjprièw"
+      },
+      {
+        "lang": "lld",
+        "name": "Storno"
+      },
+      {
+        "lang": "lt",
+        "name": "Varnėnas"
+      },
+      {
+        "lang": "lv",
+        "name": "Mājas strazds"
+      },
+      {
+        "lang": "mk",
+        "name": "Обичен сколовранец"
+      },
+      {
+        "lang": "mn",
+        "name": "Европ тодол"
+      },
+      {
+        "lang": "mt",
+        "name": "Sturnell"
+      },
+      {
+        "lang": "nds",
+        "name": "Spree"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Spra"
+      },
+      {
+        "lang": "nl",
+        "name": "Spreeuw"
+      },
+      {
+        "lang": "nn",
+        "name": "Stare"
+      },
+      {
+        "lang": "no",
+        "name": "Stær"
+      },
+      {
+        "lang": "nrm",
+        "name": "Êtourné"
+      },
+      {
+        "lang": "oc",
+        "name": "Estornèl"
+      },
+      {
+        "lang": "os",
+        "name": "Сауцъиу"
+      },
+      {
+        "lang": "pcd",
+        "name": "Etornieu"
+      },
+      {
+        "lang": "pl",
+        "name": "Szpak zwyczajny"
+      },
+      {
+        "lang": "pms",
+        "name": "Stornel"
+      },
+      {
+        "lang": "pt",
+        "name": "Estorninho-malhado"
+      },
+      {
+        "lang": "rm",
+        "name": "Sturnel"
+      },
+      {
+        "lang": "ro",
+        "name": "Graur"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенный Скворец"
+      },
+      {
+        "lang": "rue",
+        "name": "Шпак"
+      },
+      {
+        "lang": "sc",
+        "name": "Sturru"
+      },
+      {
+        "lang": "sco",
+        "name": "Stirlin"
+      },
+      {
+        "lang": "se",
+        "name": "Stárra"
+      },
+      {
+        "lang": "sh",
+        "name": "Šareni čvorak"
+      },
+      {
+        "lang": "sk",
+        "name": "Škorec obyčajný"
+      },
+      {
+        "lang": "sl",
+        "name": "Navadni škorec"
+      },
+      {
+        "lang": "sq",
+        "name": "Cerloi i zi pikalosh"
+      },
+      {
+        "lang": "sr",
+        "name": "Obični čvorak",
+        "synonyms": [
+          "Обични чворак"
+        ]
+      },
+      {
+        "lang": "st",
+        "name": "Leholi"
+      },
+      {
+        "lang": "stq",
+        "name": "Spräie"
+      },
+      {
+        "lang": "sv",
+        "name": "Stare"
+      },
+      {
+        "lang": "sw",
+        "name": "Kwenzi wa Ulaya"
+      },
+      {
+        "lang": "ta",
+        "name": "Manja kili"
+      },
+      {
+        "lang": "th",
+        "name": "นกกิ้งโครงพันธุ์ยุโรป"
+      },
+      {
+        "lang": "ti",
+        "name": "ስታርሊንግ"
+      },
+      {
+        "lang": "tk",
+        "name": "Sığyrcık"
+      },
+      {
+        "lang": "to",
+        "name": "Misi pālangi"
+      },
+      {
+        "lang": "tr",
+        "name": "Sığırcık"
+      },
+      {
+        "lang": "tyv",
+        "name": "Кара-баарзык"
+      },
+      {
+        "lang": "udm",
+        "name": "Юбер"
+      },
+      {
+        "lang": "uk",
+        "name": "Шпак (звичайний)"
+      },
+      {
+        "lang": "vec",
+        "name": "Storlo"
+      },
+      {
+        "lang": "vi",
+        "name": "Sáo đá"
+      },
+      {
+        "lang": "wa",
+        "name": "Sprewe"
+      },
+      {
+        "lang": "zh",
+        "name": "欧椋鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sturnus unicolor",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Черен скорец"
+      },
+      {
+        "lang": "br",
+        "name": "Dred du"
+      },
+      {
+        "lang": "ca",
+        "name": "Estornell negre"
+      },
+      {
+        "lang": "de",
+        "name": "Einfarbstar"
+      },
+      {
+        "lang": "en",
+        "name": "Spotless Starling"
+      },
+      {
+        "lang": "es",
+        "name": "Estornino negro"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustakottarainen"
+      },
+      {
+        "lang": "hu",
+        "name": "Egyszínű seregély"
+      },
+      {
+        "lang": "it",
+        "name": "Storno nero"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte spreeuw"
+      },
+      {
+        "lang": "pl",
+        "name": "Szpak jednobarwny"
+      },
+      {
+        "lang": "pt",
+        "name": "Estorninho-preto"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрный скворец"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sturnus luteolus",
+    "common_names": []
+  }
+]

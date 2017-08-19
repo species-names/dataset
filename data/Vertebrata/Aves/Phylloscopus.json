@@ -27,7 +27,40 @@
   },
   {
     "scientific_name": "Phylloscopus tytleri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Telor Tytler"
+      },
+      {
+        "lang": "en",
+        "name": "Tytler's leaf warbler"
+      },
+      {
+        "lang": "fi",
+        "name": "Mäntyuunilintu"
+      },
+      {
+        "lang": "fr",
+        "name": "Pouillot de Tytler"
+      },
+      {
+        "lang": "ml",
+        "name": "സൂചിമുഖി ഇലക്കുരുവി"
+      },
+      {
+        "lang": "ne",
+        "name": "मसिनोठुँडे फिस्टो"
+      },
+      {
+        "lang": "nl",
+        "name": "Dunsnavelfitis"
+      },
+      {
+        "lang": "sv",
+        "name": "kashmirsångare"
+      }
+    ]
   },
   {
     "scientific_name": "Phylloscopus trochilus",
@@ -436,6 +469,30 @@
       {
         "lang": "fi",
         "name": "Afganistaninuunilintu"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor Brooks"
+      },
+      {
+        "lang": "de",
+        "name": "Brookslaubsänger"
+      },
+      {
+        "lang": "en",
+        "name": "Brooks's leaf warbler"
+      },
+      {
+        "lang": "hu",
+        "name": "Kasmíri füzike"
+      },
+      {
+        "lang": "nl",
+        "name": "Brooks' bladkoning"
+      },
+      {
+        "lang": "sv",
+        "name": "afghansångare"
       }
     ]
   },
@@ -467,6 +524,10 @@
   {
     "scientific_name": "Phylloscopus sibilatrix",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Waldlaubsänger"
+      },
       {
         "lang": "en",
         "name": "Wood Warbler"
@@ -815,6 +876,26 @@
       {
         "lang": "ja",
         "name": "イイジマムシクイ"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor Ijima"
+      },
+      {
+        "lang": "fr",
+        "name": "Pouillot d'Ijima"
+      },
+      {
+        "lang": "nl",
+        "name": "Izuboszanger"
+      },
+      {
+        "lang": "sv",
+        "name": "izusångare"
+      },
+      {
+        "lang": "zh",
+        "name": "飯島柳鶯"
       }
     ]
   },
@@ -1073,6 +1154,30 @@
       {
         "lang": "fi",
         "name": "Hainaninuunilintu"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor dail Hainan"
+      },
+      {
+        "lang": "en",
+        "name": "Hainan leaf warbler"
+      },
+      {
+        "lang": "nl",
+        "name": "Hainanboszanger"
+      },
+      {
+        "lang": "pl",
+        "name": "Świstunka hainańska"
+      },
+      {
+        "lang": "sv",
+        "name": "hainansångare"
+      },
+      {
+        "lang": "vi",
+        "name": "Chích lá Hải Nam"
       }
     ]
   },
@@ -1390,7 +1495,32 @@
   },
   {
     "scientific_name": "Phylloscopus amoenus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Telor dail Kulambangra"
+      },
+      {
+        "lang": "en",
+        "name": "Kolombangara leaf warbler"
+      },
+      {
+        "lang": "fi",
+        "name": "Kolombangaranuunilintu"
+      },
+      {
+        "lang": "fr",
+        "name": "Pouillot de Kulambangra"
+      },
+      {
+        "lang": "nl",
+        "name": "Kolombangaraboszanger"
+      },
+      {
+        "lang": "sv",
+        "name": "kolombangarasångare"
+      }
+    ]
   },
   {
     "scientific_name": "Phylloscopus affinis",

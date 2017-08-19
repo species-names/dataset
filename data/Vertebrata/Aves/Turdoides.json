@@ -167,7 +167,28 @@
   },
   {
     "scientific_name": "Turdoides nipalensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Spiny babbler"
+      },
+      {
+        "lang": "fr",
+        "name": "Cratérope du Népal"
+      },
+      {
+        "lang": "pl",
+        "name": "Nepalotymal"
+      },
+      {
+        "lang": "sv",
+        "name": "Nepalskriktrast"
+      },
+      {
+        "lang": "zh",
+        "name": "刺鸫鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Turdoides melanops",
@@ -245,7 +266,12 @@
   },
   {
     "scientific_name": "Turdoides longirostris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Slender-billed Babbler"
+      }
+    ]
   },
   {
     "scientific_name": "Turdoides leucopygia",
@@ -353,7 +379,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Fulvoa Chatterer"
+        "name": "Fulvous Babbler"
       },
       {
         "lang": "fr",

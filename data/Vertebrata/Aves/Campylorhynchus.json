@@ -1,5 +1,13 @@
 [
   {
+    "scientific_name": "Campylorhynchus humilis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Campylorhynchus capistratus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Campylorhynchus zonatus",
     "common_names": []
   },
@@ -95,7 +103,16 @@
   },
   {
     "scientific_name": "Campylorhynchus nuchalis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stripe-backed wren"
+      },
+      {
+        "lang": "es",
+        "name": "Cucarachero chocorocoy"
+      }
+    ]
   },
   {
     "scientific_name": "Campylorhynchus megalopterus",

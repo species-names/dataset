@@ -10,7 +10,48 @@
   },
   {
     "scientific_name": "Poephila cincta",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Pila gwellt gyddfddu"
+      },
+      {
+        "lang": "de",
+        "name": "Gürtelgrasfink"
+      },
+      {
+        "lang": "en",
+        "name": "Black-throated finch"
+      },
+      {
+        "lang": "fi",
+        "name": "Nyökyttäjäpeippo"
+      },
+      {
+        "lang": "fr",
+        "name": "Diamant à bavette"
+      },
+      {
+        "lang": "hu",
+        "name": "Szakállas amandina"
+      },
+      {
+        "lang": "nl",
+        "name": "Gordelamadine"
+      },
+      {
+        "lang": "no",
+        "name": "Belteastrild"
+      },
+      {
+        "lang": "pl",
+        "name": "Amadynka czarnogardła"
+      },
+      {
+        "lang": "sv",
+        "name": "bältesastrild"
+      }
+    ]
   },
   {
     "scientific_name": "Poephila acuticauda",

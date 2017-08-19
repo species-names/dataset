@@ -435,7 +435,10 @@
       },
       {
         "lang": "sr",
-        "name": "Пољски врабац / Poljski vrabac"
+        "name": "Пољски врабац",
+        "synonyms": [
+          "Poljski vrabac"
+        ]
       },
       {
         "lang": "cs",
@@ -1854,6 +1857,10 @@
       {
         "lang": "zh-min-nan",
         "name": "Ka chhù-chiáu"
+      },
+      {
+        "lang": " nah",
+        "name": "Teōcaltōtōtl"
       }
     ]
   },

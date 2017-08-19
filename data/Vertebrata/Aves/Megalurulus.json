@@ -29,13 +29,38 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "New Caledonia Grassbird"
+        "name": "New Caledonian thicketbird"
+      },
+      {
+        "lang": "es",
+        "name": "Yerbera de Nueva Caledonia"
+      },
+      {
+        "lang": "fr",
+        "name": "Mégalure calédonienne"
+      },
+      {
+        "lang": "sv",
+        "name": "Nykaledonsk gräsfågel"
       }
     ]
   },
   {
     "scientific_name": "Megalurulus llaneae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bougainville thicketbird"
+      },
+      {
+        "lang": "es",
+        "name": "Yerbera de Bougainville"
+      },
+      {
+        "lang": "sv",
+        "name": "Bougainvillegräsfågel"
+      }
+    ]
   },
   {
     "scientific_name": "Megalurulus grosvenori",

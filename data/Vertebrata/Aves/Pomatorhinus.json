@@ -1,7 +1,28 @@
 [
   {
     "scientific_name": "Pomatorhinus schisticeps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-browed scimitar babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Cimitarra cejiblanca"
+      },
+      {
+        "lang": "hi",
+        "name": "खीहा"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråkronad sabeltimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "灰头钩嘴鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Pomatorhinus ruficollis",
@@ -9,15 +30,78 @@
   },
   {
     "scientific_name": "Pomatorhinus ochraceiceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-billed scimitar babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Cimitarra piquirroja"
+      },
+      {
+        "lang": "fr",
+        "name": "Pomatorhin à bec rouge"
+      },
+      {
+        "lang": "sv",
+        "name": "Orangenäbbad sabeltimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "棕头钩嘴鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Pomatorhinus montanus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-backed scimitar babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Cimitarra dorsicastaña"
+      },
+      {
+        "lang": "id",
+        "name": "Cica-kopi melayu"
+      },
+      {
+        "lang": "sv",
+        "name": "Kastanjeryggig sabeltimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "栗背钩嘴鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Pomatorhinus hypoleucos",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Large scimitar babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Cimitarra grande"
+      },
+      {
+        "lang": "fr",
+        "name": "Pomatorhin à long bec"
+      },
+      {
+        "lang": "sv",
+        "name": "Större sabeltimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "长嘴钩嘴鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Pomatorhinus horsfieldii",
@@ -30,14 +114,77 @@
   },
   {
     "scientific_name": "Pomatorhinus ferruginosus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Coral-billed scimitar babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Cimitarra coralina"
+      },
+      {
+        "lang": "fr",
+        "name": "Pomatorhin à bec corail"
+      },
+      {
+        "lang": "sv",
+        "name": "Korallnäbbad sabeltimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "红嘴钩嘴鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Pomatorhinus erythrogenys",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rusty-cheeked scimitar babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Cimitarra carirrufa"
+      },
+      {
+        "lang": "fr",
+        "name": "Pomatorhin à joues rousses"
+      },
+      {
+        "lang": "mr",
+        "name": "रस्टी चीक्ड स्किमिटर बॅबलर"
+      },
+      {
+        "lang": "sv",
+        "name": "锈脸钩嘴鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Pomatorhinus erythrocnemis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-necklaced scimitar babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Cimitarra estriada"
+      },
+      {
+        "lang": "fr",
+        "name": "Pomatorhin tacheté"
+      },
+      {
+        "lang": "sv",
+        "name": "Fläckig sabeltimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "台湾斑胸钩嘴鹛"
+      }
+    ]
   }
 ]

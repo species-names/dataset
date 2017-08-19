@@ -26,7 +26,16 @@
   },
   {
     "scientific_name": "Ammomanes deserti",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Desert lark"
+      },
+      {
+        "lang": "es",
+        "name": "Terrera sahariana"
+      }
+    ]
   },
   {
     "scientific_name": "Ammomanes cincturus",

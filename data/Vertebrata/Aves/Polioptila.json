@@ -139,7 +139,32 @@
   },
   {
     "scientific_name": "Polioptila lactea",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Gwybed-ddaliwr torwyn"
+      },
+      {
+        "lang": "en",
+        "name": "Creamy-bellied gnatcatcher"
+      },
+      {
+        "lang": "fa",
+        "name": "پشه‌گیر شکم‌شیری"
+      },
+      {
+        "lang": "hu",
+        "name": "Krémsárga szúnyogkapó"
+      },
+      {
+        "lang": "nl",
+        "name": "Crèmebuikmuggenvanger"
+      },
+      {
+        "lang": "sv",
+        "name": "gräddbukig myggsnappare"
+      }
+    ]
   },
   {
     "scientific_name": "Polioptila guianensis",
@@ -177,6 +202,26 @@
       {
         "lang": "es",
         "name": "Perlita de Iquitos"
+      },
+      {
+        "lang": "de",
+        "name": "Iquitos-Mückenfänger"
+      },
+      {
+        "lang": "fa",
+        "name": "پشه‌گیر ایکیتوس"
+      },
+      {
+        "lang": "nl",
+        "name": "Iquitomuggenvanger"
+      },
+      {
+        "lang": "pl",
+        "name": "Siwuszka samotna"
+      },
+      {
+        "lang": "sv",
+        "name": "iquitosmyggsnappare"
       }
     ]
   },
@@ -354,6 +399,10 @@
       {
         "lang": "en",
         "name": "White-lored Gnatcatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Perlita cejiblanca"
       }
     ]
   }

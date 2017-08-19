@@ -37,78 +37,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Chlorospingus ophthalmicus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "tangara křovinná"
-      },
-      {
-        "lang": "da",
-        "name": "Krattangar"
-      },
-      {
-        "lang": "de",
-        "name": "Finkenbuschtangare"
-      },
-      {
-        "lang": "en",
-        "name": "Common Bush-Tanager"
-      },
-      {
-        "lang": "es",
-        "name": "Clorospingo Común"
-      },
-      {
-        "lang": "fi",
-        "name": "sammaltangara"
-      },
-      {
-        "lang": "fr",
-        "name": "Chlorospin des buissons"
-      },
-      {
-        "lang": "it",
-        "name": "Tangara olivacea comune"
-      },
-      {
-        "lang": "ja",
-        "name": "ヤブフウキンチョウ",
-        "synonyms": [
-          "yabufuukinchou"
-        ]
-      },
-      {
-        "lang": "nl",
-        "name": "Briltangare"
-      },
-      {
-        "lang": "no",
-        "name": "Busktanagar"
-      },
-      {
-        "lang": "pl",
-        "name": "zieleniec zmienny"
-      },
-      {
-        "lang": "ru",
-        "name": "Очковая кустарниковая танагра"
-      },
-      {
-        "lang": "sk",
-        "name": "olivec okuliarnatý"
-      },
-      {
-        "lang": "sv",
-        "name": "Busktangara"
-      },
-      {
-        "lang": "zh",
-        "name": "灌丛唐纳雀"
-      }
-    ]
-  },
-  {
     "scientific_name": "Chlorospingus inornatus",
     "common_names": []
   },
@@ -122,6 +50,19 @@
       {
         "lang": "es",
         "name": "Frutero verde y amarillo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorospingus flavopectus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Common bush-tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Clorospingo común"
       }
     ]
   },

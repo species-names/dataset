@@ -54,6 +54,34 @@
       {
         "lang": "en",
         "name": "Grey-headed Greenbul"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl penllwyd Affrica"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبر سرخاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "Lehväbulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul à ventre jaune"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranyhasú bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelbuikloofbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "gråhuvad grönbulbyl"
       }
     ]
   },
@@ -81,6 +109,30 @@
       {
         "lang": "en",
         "name": "Sassi's Greenbul"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl gwyrdd Sassi"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبر زیتونی ساسی"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustalakkibulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul de Lorenz"
+      },
+      {
+        "lang": "nl",
+        "name": "Sassi's loofbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "kongogrönbulbyl"
       }
     ]
   },
@@ -159,7 +211,44 @@
   },
   {
     "scientific_name": "Phyllastrephus debilis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kleinboskruiper"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl bychan"
+      },
+      {
+        "lang": "en",
+        "name": "Lowland tiny greenbul"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبر کوچک دشتی"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuviherbulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul minute"
+      },
+      {
+        "lang": "hu",
+        "name": "Karcsú bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Slanke loofbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "pygmégrönbulbyl"
+      }
+    ]
   },
   {
     "scientific_name": "Phyllastrephus cinereiceps",

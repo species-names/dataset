@@ -1,0 +1,528 @@
+[
+  {
+    "scientific_name": "Acridotheres tristis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Indiese maina"
+      },
+      {
+        "lang": "ar",
+        "name": "مينة"
+      },
+      {
+        "lang": "bn",
+        "name": "ভাতশালিক"
+      },
+      {
+        "lang": "ca",
+        "name": "Minà comú"
+      },
+      {
+        "lang": "cs",
+        "name": "Majna obecná"
+      },
+      {
+        "lang": "de",
+        "name": "Hirtenmaina"
+      },
+      {
+        "lang": "en",
+        "name": "Common Myna"
+      },
+      {
+        "lang": "eo",
+        "name": "Ordinara minao"
+      },
+      {
+        "lang": "es",
+        "name": "Miná común"
+      },
+      {
+        "lang": "fa",
+        "name": "مینای معمولی"
+      },
+      {
+        "lang": "fi",
+        "name": "Pihamaina"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin triste"
+      },
+      {
+        "lang": "gu",
+        "name": "કાબર"
+      },
+      {
+        "lang": "he",
+        "name": "מיינה מצויה"
+      },
+      {
+        "lang": "hi",
+        "name": "मैना"
+      },
+      {
+        "lang": "hif",
+        "name": "Maina"
+      },
+      {
+        "lang": "hu",
+        "name": "Pásztormejnó"
+      },
+      {
+        "lang": "kn",
+        "name": "ಮೈನಾ"
+      },
+      {
+        "lang": "kk",
+        "name": "Майна"
+      },
+      {
+        "lang": "ml",
+        "name": "മൈന"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Tiong Gembala Kerbau"
+      },
+      {
+        "lang": "my",
+        "name": "ဆက်ရက်"
+      },
+      {
+        "lang": "nl",
+        "name": "Treurmaina"
+      },
+      {
+        "lang": "pl",
+        "name": "Majna brunatna"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенная майна"
+      },
+      {
+        "lang": "ta",
+        "name": "சாதாரண மைனா"
+      },
+      {
+        "lang": "tg",
+        "name": "Майна"
+      },
+      {
+        "lang": "tr",
+        "name": "Çiğdeci"
+      },
+      {
+        "lang": "th",
+        "name": "นกเอี้ยงสาลิกา"
+      },
+      {
+        "lang": "uk",
+        "name": "Майна звичайна"
+      },
+      {
+        "lang": "vi",
+        "name": "Sáo nâu"
+      },
+      {
+        "lang": "zh",
+        "name": "家八哥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acridotheres melanopterus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-winged Starling"
+      },
+      {
+        "lang": "ru",
+        "name": "Чернокрылый скворец"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acridotheres javanicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Javan Myna"
+      },
+      {
+        "lang": "zh",
+        "name": "爪哇八哥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acridotheres grandis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "ca"
+      },
+      {
+        "lang": "en",
+        "name": "Great Myna"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda akridotero"
+      },
+      {
+        "lang": "fa",
+        "name": "مینای دمگاه‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Töyhtömaina"
+      },
+      {
+        "lang": "id",
+        "name": "Kerak besar"
+      },
+      {
+        "lang": "ms",
+        "name": "Tiong Jambul"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote maina"
+      },
+      {
+        "lang": "ru",
+        "name": "Большая майна"
+      },
+      {
+        "lang": "vi",
+        "name": "Sáo mỏ vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "林八哥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acridotheres ginginianus",
+    "common_names": [
+      {
+        "lang": "as",
+        "name": "গাং শালিকা"
+      },
+      {
+        "lang": "bh",
+        "name": "गंगा मैना"
+      },
+      {
+        "lang": "ca",
+        "name": "Minà fosc"
+      },
+      {
+        "lang": "de",
+        "name": "Ufermaina"
+      },
+      {
+        "lang": "en",
+        "name": "Bank Myna"
+      },
+      {
+        "lang": "es",
+        "name": "Miná ribereño"
+      },
+      {
+        "lang": "fa",
+        "name": "مینای بانک"
+      },
+      {
+        "lang": "fi",
+        "name": "Intianmaina"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin des berges"
+      },
+      {
+        "lang": "gu",
+        "name": "શિરાજી કાબર"
+      },
+      {
+        "lang": "hu",
+        "name": "Parti mejnó"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイイロハッカ"
+      },
+      {
+        "lang": "nl",
+        "name": "Oevermaina"
+      },
+      {
+        "lang": "pnb",
+        "name": "گنگا گٹار"
+      },
+      {
+        "lang": "ru",
+        "name": "Береговая майна"
+      },
+      {
+        "lang": "sv",
+        "name": "Brinkmajna"
+      },
+      {
+        "lang": "zh",
+        "name": "岸八哥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acridotheres fuscus",
+    "common_names": [
+      {
+        "lang": "as",
+        "name": "চুটীয়া শালিকা"
+      },
+      {
+        "lang": "bh",
+        "name": "जंगली मैना"
+      },
+      {
+        "lang": "bn",
+        "name": "ঝুঁটিশালিক"
+      },
+      {
+        "lang": "cs",
+        "name": "Majna hnědá"
+      },
+      {
+        "lang": "da",
+        "name": "Brun Maina"
+      },
+      {
+        "lang": "de",
+        "name": "Dschungelmaina"
+      },
+      {
+        "lang": "en",
+        "name": "Jungle Myna"
+      },
+      {
+        "lang": "eo",
+        "name": "Helventra akridotero"
+      },
+      {
+        "lang": "es",
+        "name": "Miná de la Jungla"
+      },
+      {
+        "lang": "fa",
+        "name": "مینای جنگلی"
+      },
+      {
+        "lang": "fi",
+        "name": "Viidakkomaina"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin forestier"
+      },
+      {
+        "lang": "gu",
+        "name": "વન કાબર"
+      },
+      {
+        "lang": "id",
+        "name": "Kerak india"
+      },
+      {
+        "lang": "it",
+        "name": "Maina della giungla indiana"
+      },
+      {
+        "lang": "ja",
+        "name": "モリハッカ"
+      },
+      {
+        "lang": "ml",
+        "name": "കിന്നരിമൈന"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Tiong Hutan"
+      },
+      {
+        "lang": "ne",
+        "name": "सारौं"
+      },
+      {
+        "lang": "nl",
+        "name": "Jungle-maina"
+      },
+      {
+        "lang": "no",
+        "name": "Krattstær"
+      },
+      {
+        "lang": "pl",
+        "name": "Majna szara"
+      },
+      {
+        "lang": "ru",
+        "name": "Бурая майна"
+      },
+      {
+        "lang": "sk",
+        "name": "Škorec džungľový"
+      },
+      {
+        "lang": "sv",
+        "name": "Jungelmajna"
+      },
+      {
+        "lang": "to",
+        "name": "Ngutuenga"
+      },
+      {
+        "lang": "zh",
+        "name": "丛林八哥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acridotheres cristatellus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Minà crestat"
+      },
+      {
+        "lang": "de",
+        "name": "Haubenmaina"
+      },
+      {
+        "lang": "en",
+        "name": "Crested Myna"
+      },
+      {
+        "lang": "eo",
+        "name": "Kresta akridotero"
+      },
+      {
+        "lang": "es",
+        "name": "Mainá china"
+      },
+      {
+        "lang": "fa",
+        "name": "مینای تاج‌دار"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin huppé"
+      },
+      {
+        "lang": "id",
+        "name": "Kerak Jambul"
+      },
+      {
+        "lang": "ja",
+        "name": "ハッカチョウ"
+      },
+      {
+        "lang": "mn",
+        "name": "Тольт хартотол"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Tiong Jambul Cina"
+      },
+      {
+        "lang": "nl",
+        "name": "Kuifmaina"
+      },
+      {
+        "lang": "pt",
+        "name": "Mainá-de-crista"
+      },
+      {
+        "lang": "ru",
+        "name": "Хохлатая майна"
+      },
+      {
+        "lang": "sv",
+        "name": "Större tofsmajna"
+      },
+      {
+        "lang": "zh",
+        "name": "八哥"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Ka-lēng"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acridotheres cinereus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pale-bellied Myna"
+      },
+      {
+        "lang": "fi",
+        "name": "Celebesinviidakkomaina"
+      },
+      {
+        "lang": "id",
+        "name": "Kerak sulawesi"
+      },
+      {
+        "lang": "nl",
+        "name": "Vaalbuikmaina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acridotheres burmannicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Vinous-breasted Starling"
+      },
+      {
+        "lang": "fi",
+        "name": "Naamiokottarainen"
+      },
+      {
+        "lang": "hy",
+        "name": "Կամբոջական սարյակ"
+      },
+      {
+        "lang": "ru",
+        "name": "Камбоджийский скворец"
+      },
+      {
+        "lang": "zh",
+        "name": "红嘴椋鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acridotheres albocinctus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Collared Myna"
+      },
+      {
+        "lang": " zh",
+        "name": "白领八哥"
+      }
+    ]
+  }
+]

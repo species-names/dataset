@@ -5,6 +5,22 @@
       {
         "lang": "en",
         "name": "Bar-winged Wren-Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Ratina alibarrada"
+      },
+      {
+        "lang": "fr",
+        "name": "Turdinule troglodyte"
+      },
+      {
+        "lang": "sv",
+        "name": "Bandvingad snårtimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "斑翅鹩鹛"
       }
     ]
   },
@@ -14,6 +30,14 @@
       {
         "lang": "en",
         "name": "Tawny-breasted Wren-Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Ratina colilarga"
+      },
+      {
+        "lang": "sv",
+        "name": "Ockrabröstad snårtimalia"
       }
     ]
   },
@@ -23,11 +47,56 @@
   },
   {
     "scientific_name": "Spelaeornis chocolatinus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Drywbreblyn Godwin-Austin"
+      },
+      {
+        "lang": "en",
+        "name": "Naga wren-babbler",
+        "synonyms": [
+          "long-tailed wren-babbler"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Ratina chocolate"
+      },
+      {
+        "lang": "nl",
+        "name": "Langstaartsluiptimalia"
+      },
+      {
+        "lang": "sv",
+        "name": "Nagasnårtimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "长尾鹩鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Spelaeornis caudatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-throated wren-babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Ratina golirrufa"
+      },
+      {
+        "lang": "fr",
+        "name": "Turdinule à gorge rousse"
+      },
+      {
+        "lang": "sv",
+        "name": "Roststrupig snårtimalia"
+      }
+    ]
   },
   {
     "scientific_name": "Spelaeornis badeigularis",

@@ -12,11 +12,11 @@
       },
       {
         "lang": "ca",
-        "name": "Passerel carpoblanc"
+        "name": "Passerell carpó-blanc"
       },
       {
         "lang": "cs",
-        "name": "čečetka bělavá"
+        "name": "Čečetka bělavá"
       },
       {
         "lang": "cy",
@@ -28,14 +28,15 @@
       },
       {
         "lang": "de",
-        "name": "Polarbirkenzeisig"
+        "name": "Polar-Birkenzeisig"
       },
       {
         "lang": "en",
-        "name": "Arctic Redpoll",
-        "synonyms": [
-          "Hoary Redpoll"
-        ]
+        "name": "Arctic Redpoll"
+      },
+      {
+        "lang": "en-us",
+        "name": "Hoary Redpoll"
       },
       {
         "lang": "eo",
@@ -50,8 +51,12 @@
         "name": "Hele-urvalind"
       },
       {
+        "lang": "fa",
+        "name": "زلف‌قرمزی قطبی"
+      },
+      {
         "lang": "fi",
-        "name": "tundraurpiainen"
+        "name": "Tundraurpiainen"
       },
       {
         "lang": "fo",
@@ -91,10 +96,7 @@
       },
       {
         "lang": "ja",
-        "name": "コベニヒワ",
-        "synonyms": [
-          "kobenihiwa"
-        ]
+        "name": "コベニヒワ"
       },
       {
         "lang": "kk",
@@ -134,18 +136,15 @@
       },
       {
         "lang": "pl",
-        "name": "czeczotka tundrowa"
+        "name": "Czeczotka tundrowa"
       },
       {
         "lang": "pt",
-        "name": "Pintarroxo de Hornemann"
+        "name": "Pintarroxo-de-hornemann"
       },
       {
         "lang": "ru",
-        "name": "Пепельная чечётка",
-        "synonyms": [
-          "Тундряная чечётка"
-        ]
+        "name": "Тундряная чечётка"
       },
       {
         "lang": "sah",
@@ -161,7 +160,7 @@
       },
       {
         "lang": "sk",
-        "name": "stehlík polárny"
+        "name": "Stehlík polárny"
       },
       {
         "lang": "sl",
@@ -182,6 +181,10 @@
       {
         "lang": "uk",
         "name": "Чечітка біла"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ xám Bắc cực"
       },
       {
         "lang": "zh",

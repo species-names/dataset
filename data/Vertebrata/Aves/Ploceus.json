@@ -110,7 +110,40 @@
   },
   {
     "scientific_name": "Ploceus subpersonatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك لونغو"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Loango"
+      },
+      {
+        "lang": "en",
+        "name": "Loango weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای لوآنگو"
+      },
+      {
+        "lang": "fi",
+        "name": "Gaboninkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin à bec grêle"
+      },
+      {
+        "lang": "nl",
+        "name": "Loangodunbekwever"
+      },
+      {
+        "lang": "sv",
+        "name": "loangovävare"
+      }
+    ]
   },
   {
     "scientific_name": "Ploceus subaureus",
@@ -131,7 +164,44 @@
   },
   {
     "scientific_name": "Ploceus spekeoides",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك فوكس"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd mygydog Fox"
+      },
+      {
+        "lang": "en",
+        "name": "Fox's weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای فاکس"
+      },
+      {
+        "lang": "fi",
+        "name": "Ugandankutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Fox"
+      },
+      {
+        "lang": "mrj",
+        "name": "Фокс кошыгек"
+      },
+      {
+        "lang": "nl",
+        "name": "Fox' wever"
+      },
+      {
+        "lang": "sv",
+        "name": "ugandavävare"
+      }
+    ]
   },
   {
     "scientific_name": "Ploceus spekei",
@@ -255,6 +325,38 @@
       {
         "lang": "fi",
         "name": "Oliiviselkäkutoja"
+      },
+      {
+        "lang": "af",
+        "name": "Olyfkopwewer"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك زيتوني الرأس"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd penfelynwyrdd"
+      },
+      {
+        "lang": "en",
+        "name": "Olive-headed weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای سرزیتونی"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin à tête olive"
+      },
+      {
+        "lang": "nl",
+        "name": "Olijfkopwever"
+      },
+      {
+        "lang": "sv",
+        "name": "olivhuvad vävare"
       }
     ]
   },
@@ -294,6 +396,38 @@
       {
         "lang": "en",
         "name": "Usambara Weaver"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك يوسمبارا"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Usambara"
+      },
+      {
+        "lang": "de",
+        "name": "Nicoll-Weber"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای اوسامبارا"
+      },
+      {
+        "lang": "fi",
+        "name": "Tansaniankutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin des Usambara"
+      },
+      {
+        "lang": "nl",
+        "name": "Usambarawever"
+      },
+      {
+        "lang": "sv",
+        "name": "usambaravävare"
       }
     ]
   },
@@ -377,6 +511,46 @@
       {
         "lang": "fr",
         "name": "Tisserin de Finn"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك فين"
+      },
+      {
+        "lang": "bh",
+        "name": "फिन्स वीवर"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd yr Himalaia"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای فین"
+      },
+      {
+        "lang": "fi",
+        "name": "Himalajankutoja"
+      },
+      {
+        "lang": "hi",
+        "name": "फ़िन की बया"
+      },
+      {
+        "lang": "mrj",
+        "name": "Финн кошыгек"
+      },
+      {
+        "lang": "ne",
+        "name": "सुनौलो तोपचरा"
+      },
+      {
+        "lang": "nl",
+        "name": "Finns bayawever"
+      },
+      {
+        "lang": "sv",
+        "name": "teraivävare"
       }
     ]
   },
@@ -480,6 +654,34 @@
         "synonyms": [
           "นกจาบทอง"
         ]
+      },
+      {
+        "lang": "ar",
+        "name": "حباك ذهبي آسيوي"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd euraid Asia"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای طلایی آسیایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Aasiankultakutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin doré"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelbuikbayawever"
+      },
+      {
+        "lang": "sv",
+        "name": "risvävare"
       }
     ]
   },
@@ -502,7 +704,44 @@
   },
   {
     "scientific_name": "Ploceus golandi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك كلارك"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Clarke"
+      },
+      {
+        "lang": "en",
+        "name": "Clarke's weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای کلارک"
+      },
+      {
+        "lang": "fi",
+        "name": "Sokokenkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Clarke"
+      },
+      {
+        "lang": "mrj",
+        "name": "Голанд кошыгек"
+      },
+      {
+        "lang": "nl",
+        "name": "Clarkes wever"
+      },
+      {
+        "lang": "sv",
+        "name": "sokokevävare"
+      }
+    ]
   },
   {
     "scientific_name": "Ploceus galbula",
@@ -669,7 +908,48 @@
   },
   {
     "scientific_name": "Ploceus burnieri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك بيرنييه"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Kilombero"
+      },
+      {
+        "lang": "en",
+        "name": "Kilombero weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای کیلومبرو"
+      },
+      {
+        "lang": "fi",
+        "name": "Kilomberonkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Burnier"
+      },
+      {
+        "lang": "mrj",
+        "name": "Киломберо кошыгек"
+      },
+      {
+        "lang": "nl",
+        "name": "Kilomberowever"
+      },
+      {
+        "lang": "pl",
+        "name": "Wikłacz rzeczny"
+      },
+      {
+        "lang": "sv",
+        "name": "kilomberovävare"
+      }
+    ]
   },
   {
     "scientific_name": "Ploceus bojeri",
@@ -706,7 +986,48 @@
   },
   {
     "scientific_name": "Ploceus batesi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك بيتس"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Bates"
+      },
+      {
+        "lang": "de",
+        "name": "Braunwangenweber"
+      },
+      {
+        "lang": "en",
+        "name": "Bates's weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای بیتس"
+      },
+      {
+        "lang": "fi",
+        "name": "Kameruninmetsäkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Bates"
+      },
+      {
+        "lang": "hu",
+        "name": "Kameruni szövőmadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinwangwever"
+      },
+      {
+        "lang": "sv",
+        "name": "batesvävare"
+      }
+    ]
   },
   {
     "scientific_name": "Ploceus bannermani",
@@ -718,6 +1039,42 @@
       {
         "lang": "en",
         "name": "Bannerman's Weaver"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك بانرمان"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd Bannerman"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای بنرمن"
+      },
+      {
+        "lang": "fi",
+        "name": "Kameruninvuorikutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Bannerman"
+      },
+      {
+        "lang": "hu",
+        "name": "Bannerman-szövőmadár"
+      },
+      {
+        "lang": "mrj",
+        "name": "Баннерман кошыгек"
+      },
+      {
+        "lang": "nl",
+        "name": "Bannermans wever"
+      },
+      {
+        "lang": "sv",
+        "name": "bannermanvävare"
       }
     ]
   },
@@ -735,6 +1092,38 @@
       {
         "lang": "es",
         "name": "Tejedor nuquigualdo"
+      },
+      {
+        "lang": "ar",
+        "name": "حباك ذهبي القفا"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwehydd eurwar"
+      },
+      {
+        "lang": "en",
+        "name": "Golden-naped weaver"
+      },
+      {
+        "lang": "fa",
+        "name": "جولای گردن‌طلایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultaniskakutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin à nuque d'or"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudnekwever"
+      },
+      {
+        "lang": "sv",
+        "name": "iturivävare"
       }
     ]
   },

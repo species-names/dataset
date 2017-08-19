@@ -1,5 +1,46 @@
 [
   {
+    "scientific_name": "Spizocorys starki",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Woestynlewerik"
+      },
+      {
+        "lang": "ca",
+        "name": "Alosa de Stark"
+      },
+      {
+        "lang": "en",
+        "name": "Stark's Lark"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک استارک"
+      },
+      {
+        "lang": "fi",
+        "name": "Namibianaavikkokiuru"
+      },
+      {
+        "lang": "nl",
+        "name": "Starks leeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Damaralerke"
+      },
+      {
+        "lang": "sv",
+        "name": "Damaralärka"
+      },
+      {
+        "lang": "zh",
+        "name": "斯氏沙百灵"
+      }
+    ]
+  },
+  {
     "scientific_name": "Spizocorys sclateri",
     "common_names": [
       {
@@ -64,8 +105,61 @@
     ]
   },
   {
+    "scientific_name": "Spizocorys fremantlii",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Kogenneg lost berr"
+      },
+      {
+        "lang": "en",
+        "name": "Short-tailed Lark"
+      },
+      {
+        "lang": "es",
+        "name": "Alondra colicorta"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک دم‌کوتاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Lyhytpyrstökiuru"
+      },
+      {
+        "lang": "fr",
+        "name": "Cochevis à queue courte"
+      },
+      {
+        "lang": "nl",
+        "name": "Kortstaartleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Korthalelerke"
+      },
+      {
+        "lang": "sv",
+        "name": "Kortstjärtad lärka"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca đuôi ngắn"
+      },
+      {
+        "lang": "zh",
+        "name": "短尾百灵"
+      }
+    ]
+  },
+  {
     "scientific_name": "Spizocorys conirostris",
     "common_names": [
+      {
+        "lang": "en",
+        "name": "Pink-billed Lark"
+      },
       {
         "lang": "fi",
         "name": "Punanokkakiuru"
