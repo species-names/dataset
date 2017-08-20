@@ -1,0 +1,452 @@
+[
+  {
+    "scientific_name": "Bombycilla japonica",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Brkoslav japonský"
+      },
+      {
+        "lang": "da",
+        "name": "Japansk Silkehale"
+      },
+      {
+        "lang": "de",
+        "name": "Blutseidenschwanz"
+      },
+      {
+        "lang": "en",
+        "name": "Japanese Waxwing"
+      },
+      {
+        "lang": "es",
+        "name": "Ampelis Japonés"
+      },
+      {
+        "lang": "fi",
+        "name": "Japanintilhi"
+      },
+      {
+        "lang": "fr",
+        "name": "Jaseur du Japon"
+      },
+      {
+        "lang": "hu",
+        "name": "Amuri csonttollú"
+      },
+      {
+        "lang": "it",
+        "name": "Beccofrusone giapponese"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒレンジャク"
+      },
+      {
+        "lang": "ko",
+        "name": "홍여새"
+      },
+      {
+        "lang": "nl",
+        "name": "Japanse Pestvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Amursidensvans"
+      },
+      {
+        "lang": "pl",
+        "name": "Jemioluszka japonska"
+      },
+      {
+        "lang": "ru",
+        "name": "Японский свиристель"
+      },
+      {
+        "lang": "sv",
+        "name": "Amursidensvans"
+      },
+      {
+        "lang": "tr",
+        "name": "Japon ipekkuyruğu"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "小太平鸟"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "朱連雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bombycilla garrulus",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Adi ardıcquşu",
+        "synonyms": [
+          "Boz qarğa"
+        ]
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Амялушка"
+      },
+      {
+        "lang": "be",
+        "name": "Амялушка"
+      },
+      {
+        "lang": "bg",
+        "name": "Копринарка"
+      },
+      {
+        "lang": "br",
+        "name": "Seizeg-sterenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Ocell sedós"
+      },
+      {
+        "lang": "cs",
+        "name": "Brkoslav severní"
+      },
+      {
+        "lang": "cw",
+        "name": "Askel gor"
+      },
+      {
+        "lang": "cy",
+        "name": "Adain gŵyr"
+      },
+      {
+        "lang": "da",
+        "name": "Silkehale"
+      },
+      {
+        "lang": "de",
+        "name": "Seidenschwanz"
+      },
+      {
+        "lang": "el",
+        "name": "Βομβυκίλλα"
+      },
+      {
+        "lang": "en",
+        "name": "Bohemian Waxwing"
+      },
+      {
+        "lang": "eo",
+        "name": "Bombicilo"
+      },
+      {
+        "lang": "es",
+        "name": "Ampelis Europeo"
+      },
+      {
+        "lang": "et",
+        "name": "Siidisaba"
+      },
+      {
+        "lang": "eu",
+        "name": "Buztanoria"
+      },
+      {
+        "lang": "fi",
+        "name": "Tilhi"
+      },
+      {
+        "lang": "fo",
+        "name": "Reyðstapi"
+      },
+      {
+        "lang": "fr",
+        "name": "Jaseur boréal"
+      },
+      {
+        "lang": "frr",
+        "name": "Siisenstört"
+      },
+      {
+        "lang": "ga",
+        "name": "Síodeiteach"
+      },
+      {
+        "lang": "gd",
+        "name": "Canarach dearg"
+      },
+      {
+        "lang": "gl",
+        "name": "Picoteiro"
+      },
+      {
+        "lang": "gv",
+        "name": "Skian chereagh"
+      },
+      {
+        "lang": "he",
+        "name": "ציצנית"
+      },
+      {
+        "lang": "hr",
+        "name": "Svilorepa kugara"
+      },
+      {
+        "lang": "hu",
+        "name": "Csonttollú"
+      },
+      {
+        "lang": "hy",
+        "name": "Սրնգահավ"
+      },
+      {
+        "lang": "is",
+        "name": "Silkitoppa"
+      },
+      {
+        "lang": "it",
+        "name": "Beccofrusone"
+      },
+      {
+        "lang": "ja",
+        "name": "キレンジャク"
+      },
+      {
+        "lang": "ka",
+        "name": "მედუდუკე"
+      },
+      {
+        "lang": "kjn",
+        "name": "Кичегей"
+      },
+      {
+        "lang": "kk",
+        "name": "Самыр"
+      },
+      {
+        "lang": "ko",
+        "name": "황여새"
+      },
+      {
+        "lang": "krc",
+        "name": "Боз къаргъа"
+      },
+      {
+        "lang": "lv",
+        "name": "Zīdaste"
+      },
+      {
+        "lang": "lt",
+        "name": "Svirbelis"
+      },
+      {
+        "lang": "mk",
+        "name": "Свиларка"
+      },
+      {
+        "lang": "mn",
+        "name": "Энхэт бялзуухай"
+      },
+      {
+        "lang": "mt",
+        "name": "Sultan l-Isponsuni"
+      },
+      {
+        "lang": "nl",
+        "name": "Pestvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Sidensvans"
+      },
+      {
+        "lang": "no",
+        "name": "Sidensvans"
+      },
+      {
+        "lang": "pl",
+        "name": "Jemiołuszka"
+      },
+      {
+        "lang": "pt",
+        "name": "Tagarela-europeu"
+      },
+      {
+        "lang": "rm",
+        "name": "Frisun"
+      },
+      {
+        "lang": "ru",
+        "name": "Свиристель обыкновенный"
+      },
+      {
+        "lang": "se",
+        "name": "Bealljerásttis"
+      },
+      {
+        "lang": "sk",
+        "name": "Chochľač severský"
+      },
+      {
+        "lang": "sl",
+        "name": "Pegam"
+      },
+      {
+        "lang": "sq",
+        "name": "Çafkëlore bishtverdhë"
+      },
+      {
+        "lang": "sr",
+        "name": "Свилорепа кугара"
+      },
+      {
+        "lang": "sv",
+        "name": "Sidensvans"
+      },
+      {
+        "lang": "sw",
+        "name": "Mvi kunguru"
+      },
+      {
+        "lang": "tk",
+        "name": "Ala garga"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı ipekkuyruk"
+      },
+      {
+        "lang": "tt",
+        "name": "Boz qarğa"
+      },
+      {
+        "lang": "tyv",
+        "name": "Эдиске"
+      },
+      {
+        "lang": "uk",
+        "name": "Звичайний омелюх"
+      },
+      {
+        "lang": "vi",
+        "name": "Cánh sáp"
+      },
+      {
+        "lang": "zh",
+        "name": "太平鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bombycilla cedrorum",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Amerika ardıcquşu"
+      },
+      {
+        "lang": "bg",
+        "name": "Кедрова копринарка"
+      },
+      {
+        "lang": "cs",
+        "name": "Brkoslav americký"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk silkehale"
+      },
+      {
+        "lang": "de",
+        "name": "Zedernseidenschwanz"
+      },
+      {
+        "lang": "en",
+        "name": "Cedar Waxwing"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika bombicilo"
+      },
+      {
+        "lang": "es",
+        "name": "Ampelis americano"
+      },
+      {
+        "lang": "fa",
+        "name": "بال‌لاکی سدری"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikantilhi"
+      },
+      {
+        "lang": "fr",
+        "name": "Jaseur d'Amérique"
+      },
+      {
+        "lang": "hu",
+        "name": "Cédruscsonttollú"
+      },
+      {
+        "lang": "is",
+        "name": "Sedrustoppa"
+      },
+      {
+        "lang": "it",
+        "name": "Beccofrusone dei cedri"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒメレンジャク"
+      },
+      {
+        "lang": "mrj",
+        "name": "Америка цӹлдӹр"
+      },
+      {
+        "lang": "nl",
+        "name": "Cederpestvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Einersidensvans"
+      },
+      {
+        "lang": "pl",
+        "name": "Jemiołuszka cedrowa"
+      },
+      {
+        "lang": "pt",
+        "name": "Picoteiro-americano"
+      },
+      {
+        "lang": "ru",
+        "name": "Американский свиристель"
+      },
+      {
+        "lang": "sk",
+        "name": "Chochláč americký"
+      },
+      {
+        "lang": "sv",
+        "name": "Indiansidensvans"
+      },
+      {
+        "lang": "tr",
+        "name": "Ardıç ipekkuyruğu"
+      },
+      {
+        "lang": "uk",
+        "name": "Кедровий омелюх"
+      },
+      {
+        "lang": "zh",
+        "name": "雪松太平鸟"
+      }
+    ]
+  }
+]
