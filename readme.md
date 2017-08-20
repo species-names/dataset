@@ -12,16 +12,14 @@ Species names are stored in json format in one file per genera.
 Currently only birds are done.  
 
 ## Todo
-Chendytes lawi invisible html comment behind name
-data/Vertebrata/Aves/Clangula.json <small> tag in fr , Harelde boréale, Harelde de Miquelon<small>
-data/Vertebrata/Aves/Columba.json Kongotaube; Kongo-Waldtaube (new delimiter)
-Fulica caribaea synonym for Fulica americana todo scientific synonym, protonym. In zoology, the first name used for a taxon
-Neohierax insignis synonym for Polihierax insignis
-Nystalus torridus synonym for Nystalus striolatus torridus
-Picoides scientific synonym
-Zlatar pijukavac - Златар пијукавац delimiter problems
-Tyto furcata scientific synonym
-https://species.wikimedia.org/wiki/Bombycillidae Genera not correct listed
+- Html in names: Chendytes lawi invisible html comment behind name
+  <small> tag in fr , Harelde boréale, Harelde de Miquelon<small>
+- Scientific names synonyms:
+  Fulica caribaea synonym for Fulica americana todo scientific synonym, protonym. In zoology, the first name used for a taxon
+  Neohierax insignis synonym for Polihierax insignis
+  Nystalus torridus synonym for Nystalus striolatus torridus
+  Picoides scientific synonym
+  Tyto furcata scientific synonym
 
 ## Contribute
 You can provide Pull Request to add or correct translations and species.  
