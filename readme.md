@@ -13,7 +13,7 @@ Currently only birds are done.
 
 ## Todo
 - Html in names: Chendytes lawi invisible html comment behind name
-  <small> tag in fr , Harelde boréale, Harelde de Miquelon<small>
+  ``<small>` tag in fr , `...Harelde boréale, Harelde de Miquelon<small>`
 - Scientific names synonyms:
   Fulica caribaea synonym for Fulica americana todo scientific synonym, protonym. In zoology, the first name used for a taxon
   Neohierax insignis synonym for Polihierax insignis
@@ -34,7 +34,9 @@ Pls add some sort of reference.
 The dataset is published on npm:  
 https://www.npmjs.com/package/species-names-dataset
 
-    npm publish --tag 0.0.6
+    git tag 0.0.6
+    git push --tags
+    npm publish
 
 ### License
 
