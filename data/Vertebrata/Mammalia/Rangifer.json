@@ -1,0 +1,316 @@
+[
+  {
+    "scientific_name": "Rangifer tarandus",
+    "common_names": [
+      {
+        "lang": "ang",
+        "name": "Hrán"
+      },
+      {
+        "lang": "ar",
+        "name": "رنة"
+      },
+      {
+        "lang": "az",
+        "name": "Şimal maralı"
+      },
+      {
+        "lang": "be",
+        "name": "Паўночны алень"
+      },
+      {
+        "lang": "bg",
+        "name": "Северен елен"
+      },
+      {
+        "lang": "bn",
+        "name": "বল্গা হরিণ"
+      },
+      {
+        "lang": "br",
+        "name": "Karv-erc'h"
+      },
+      {
+        "lang": "ca",
+        "name": "Ren"
+      },
+      {
+        "lang": "cr",
+        "name": "ᐊᑎᐦᒄ"
+      },
+      {
+        "lang": "cs",
+        "name": "Sob polární"
+      },
+      {
+        "lang": "cv",
+        "name": "Çурçĕр пăлан"
+      },
+      {
+        "lang": "da",
+        "name": "Rensdyr"
+      },
+      {
+        "lang": "de",
+        "name": "Ren",
+        "synonyms": [
+          "Rentier"
+        ]
+      },
+      {
+        "lang": "el",
+        "name": "Τάρανδος"
+      },
+      {
+        "lang": "en",
+        "name": "Reindeer",
+        "synonyms": [
+          "Caribou"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Boaco"
+      },
+      {
+        "lang": "es",
+        "name": "Reno",
+        "synonyms": [
+          "Caribú"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Põhjapõder"
+      },
+      {
+        "lang": "eu",
+        "name": "Elur-orein"
+      },
+      {
+        "lang": "fa",
+        "name": "گوزن شمالی"
+      },
+      {
+        "lang": "fi",
+        "name": "Peura",
+        "synonyms": [
+          "Karibu"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Renne"
+      },
+      {
+        "lang": "ga",
+        "name": "Réinfhia"
+      },
+      {
+        "lang": "gd",
+        "name": "Fast"
+      },
+      {
+        "lang": "gl",
+        "name": "Reno"
+      },
+      {
+        "lang": "he",
+        "name": "אייל הצפון"
+      },
+      {
+        "lang": "hi",
+        "name": "रेनडियर"
+      },
+      {
+        "lang": "hu",
+        "name": "Rénszarvas",
+        "synonyms": [
+          "tarándszarvas",
+          "iramszarvas",
+          "karibu"
+        ]
+      },
+      {
+        "lang": "ik",
+        "name": "Tuttu"
+      },
+      {
+        "lang": "io",
+        "name": "Rentiro"
+      },
+      {
+        "lang": "is",
+        "name": "Hreindýr"
+      },
+      {
+        "lang": "it",
+        "name": "Renna"
+      },
+      {
+        "lang": "iu",
+        "name": "ᑐᒃᑐ"
+      },
+      {
+        "lang": "ja",
+        "name": "トナカイ"
+      },
+      {
+        "lang": "kl",
+        "name": "Tuttu"
+      },
+      {
+        "lang": "ko",
+        "name": "순록"
+      },
+      {
+        "lang": "ku",
+        "name": "Şivira kedî"
+      },
+      {
+        "lang": "la",
+        "name": "Tarandrus"
+      },
+      {
+        "lang": "liv",
+        "name": "Pūojpõddõrz"
+      },
+      {
+        "lang": "lt",
+        "name": "Šiaurinis elnias"
+      },
+      {
+        "lang": "ltg",
+        "name": "Pūstumaļņs"
+      },
+      {
+        "lang": "lv",
+        "name": "Ziemeļbriedis"
+      },
+      {
+        "lang": "mk",
+        "name": "Ирвас"
+      },
+      {
+        "lang": "mn",
+        "name": "Цаа буга"
+      },
+      {
+        "lang": "mr",
+        "name": "रेनडियर"
+      },
+      {
+        "lang": "my",
+        "name": "ကဲရီဘူးသမင်"
+      },
+      {
+        "lang": "nl",
+        "name": "Rendier"
+      },
+      {
+        "lang": "nn",
+        "name": "Rein"
+      },
+      {
+        "lang": "no",
+        "name": "Rein"
+      },
+      {
+        "lang": "nrm",
+        "name": "Chèr du Nord"
+      },
+      {
+        "lang": "nv",
+        "name": "Hakʼaz bįįh"
+      },
+      {
+        "lang": "oc",
+        "name": "Rangièr"
+      },
+      {
+        "lang": "pl",
+        "name": "Renifer"
+      },
+      {
+        "lang": "pnb",
+        "name": "رینڈیئر"
+      },
+      {
+        "lang": "pt",
+        "name": "Rena"
+      },
+      {
+        "lang": "rm",
+        "name": "Ren"
+      },
+      {
+        "lang": "ro",
+        "name": "Ren"
+      },
+      {
+        "lang": "ru",
+        "name": "Северный олень"
+      },
+      {
+        "lang": "se",
+        "name": "Boazu"
+      },
+      {
+        "lang": "sk",
+        "name": "Sob"
+      },
+      {
+        "lang": "sr",
+        "name": "Ирвас"
+      },
+      {
+        "lang": "sv",
+        "name": "Ren"
+      },
+      {
+        "lang": "sw",
+        "name": "Kulungu Aktiki"
+      },
+      {
+        "lang": "te",
+        "name": "పలవల దుప్పి"
+      },
+      {
+        "lang": "th",
+        "name": "กวางเรนเดียร์"
+      },
+      {
+        "lang": "tl",
+        "name": "Karibu"
+      },
+      {
+        "lang": "tr",
+        "name": "Ren geyiği"
+      },
+      {
+        "lang": "ug",
+        "name": "شىمال بۇغىسى"
+      },
+      {
+        "lang": "uk",
+        "name": "Північний олень"
+      },
+      {
+        "lang": "ur",
+        "name": "رینڈیر"
+      },
+      {
+        "lang": "vi",
+        "name": "Tuần lộc"
+      },
+      {
+        "lang": "zh",
+        "name": "驯鹿"
+      },
+      {
+        "lang": "zu",
+        "name": "Inyamazane yase-Athiki"
+      }
+    ]
+  }
+]

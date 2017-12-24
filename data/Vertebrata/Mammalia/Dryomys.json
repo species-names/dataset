@@ -1,0 +1,63 @@
+[
+  {
+    "scientific_name": "Dryomys sichuanensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Dryomys nitedula",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Plch lesní"
+      },
+      {
+        "lang": "en",
+        "name": "Forest Dormouse"
+      },
+      {
+        "lang": "tr",
+        "name": "Orman yediuyuru"
+      },
+      {
+        "lang": "nl",
+        "name": "Bosslaapmuis"
+      },
+      {
+        "lang": "pl",
+        "name": "Koszatka"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dryomys niethammeri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Balochistan Forest Dormouse",
+        "synonyms": [
+          "Niethammer’s Forest Dormouse"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dryomys laniger",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Woolly Dormouse",
+        "synonyms": [
+          "Woolly Forest Dormouse"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Kaya yediuyuru"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dryomys apulus",
+    "common_names": []
+  }
+]

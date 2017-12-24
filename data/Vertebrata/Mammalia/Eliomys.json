@@ -1,0 +1,72 @@
+[
+  {
+    "scientific_name": "Eliomys quercinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Garden dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón careto"
+      },
+      {
+        "lang": "nl",
+        "name": "Eikelmuis"
+      },
+      {
+        "lang": "fi",
+        "name": "Tammihiiri"
+      },
+      {
+        "lang": "it",
+        "name": "Quercino"
+      },
+      {
+        "lang": "pl",
+        "name": "Żołędnica"
+      },
+      {
+        "lang": "ru",
+        "name": "Садовая соня"
+      },
+      {
+        "lang": "sv",
+        "name": "Trädgårdssovare"
+      },
+      {
+        "lang": "hu",
+        "name": "Kerti pele"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eliomys munbyanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Maghreb Garden Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón careto magrebí"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eliomys melanurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Asian Garden Dormouse",
+        "synonyms": [
+          "Large-eared Garden Dormouse"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Żołędnica pustynna"
+      }
+    ]
+  }
+]

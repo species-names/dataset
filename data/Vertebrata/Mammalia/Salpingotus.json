@@ -1,0 +1,53 @@
+[
+  {
+    "scientific_name": "Salpingotus thomasi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Thomas's Pygmy Jerboa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Salpingotus pallidus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pale Pygmy Jerboa",
+        "synonyms": [
+          "Pallid Pygmy Jerboa"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Salpingotus kozlovi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Kozlov's Pygmy Jerboa"
+      },
+      {
+        "lang": "pl",
+        "name": "Skoczek Kozłowa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Salpingotus heptneri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Salpingotus crassicauda",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Thick-tailed Pygmy Jerboa"
+      },
+      {
+        "lang": "pl",
+        "name": "Skoczek gruboogonowy"
+      }
+    ]
+  }
+]

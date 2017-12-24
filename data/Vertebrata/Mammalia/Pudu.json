@@ -1,0 +1,67 @@
+[
+  {
+    "scientific_name": "Pudu puda",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Southern Pudú"
+      },
+      {
+        "lang": "es",
+        "name": "Pudú del sur",
+        "synonyms": [
+          "pudú",
+          "venadito"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Pudu",
+        "synonyms": [
+          "chilenpudu"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Déli törpeszarvas"
+      },
+      {
+        "lang": "pl",
+        "name": "Pudu chilijski"
+      },
+      {
+        "lang": "pt",
+        "name": "Pudu",
+        "synonyms": [
+          "Pudu-do-sul",
+          "Pudu-do-Chile"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pudu mephistophiles",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Pudu"
+      },
+      {
+        "lang": "fi",
+        "name": "Paholaispudu"
+      },
+      {
+        "lang": "hu",
+        "name": "Északi törpeszarvas"
+      },
+      {
+        "lang": "pl",
+        "name": "Pudú ekwadorski"
+      },
+      {
+        "lang": "pt",
+        "name": "Pudu-do-norte"
+      }
+    ]
+  }
+]

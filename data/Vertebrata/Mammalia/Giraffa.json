@@ -1,0 +1,782 @@
+[
+  {
+    "scientific_name": "Giraffa stillei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Giraffa jumae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Giraffa gracilis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Giraffa tippelskirchi",
+    "common_names": [
+      {
+        "lang": "bar",
+        "name": "Massai-Giraaffm"
+      },
+      {
+        "lang": "de",
+        "name": "Massai-Giraffe"
+      },
+      {
+        "lang": "en",
+        "name": "Masai Giraffe",
+        "synonyms": [
+          "Kilimanjaro Giraffe"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Jirafa Masai"
+      },
+      {
+        "lang": "fr",
+        "name": "Girafe Masaï"
+      },
+      {
+        "lang": "it",
+        "name": "Giraffa Masai",
+        "synonyms": [
+          "Giraffa del Kilimangiaro"
+        ]
+      },
+      {
+        "lang": "th",
+        "name": "ยีราฟมาไซ"
+      },
+      {
+        "lang": "hu",
+        "name": "Maszáj zsiráf"
+      },
+      {
+        "lang": "fa",
+        "name": "زرافه کلیمانجارو"
+      },
+      {
+        "lang": "nl",
+        "name": "masaigiraffe of masaigiraf"
+      },
+      {
+        "lang": "ca",
+        "name": "Girafa massai"
+      },
+      {
+        "lang": "pt",
+        "name": "Girafa-masai"
+      },
+      {
+        "lang": "pl",
+        "name": "Żyrafa kenijska",
+        "synonyms": [
+          "żyrafą masajską"
+        ]
+      },
+      {
+        "lang": "sr",
+        "name": "Масајска жирафа"
+      },
+      {
+        "lang": "uk",
+        "name": "Масайська жирафа",
+        "synonyms": [
+          "Кіліманджарська жирафа"
+        ]
+      },
+      {
+        "lang": "he",
+        "name": "ג'ירף מסאי"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "馬賽長頸鹿"
+      },
+      {
+        "lang": "no",
+        "name": "Masaisjiraff eller kilimanjarosjiraff"
+      },
+      {
+        "lang": "lv",
+        "name": "Masaju žirafe",
+        "synonyms": [
+          "arī Kilimandžaro žirafe"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Giraffa reticulata",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Netzgiraffe"
+      },
+      {
+        "lang": "en",
+        "name": "Somali giraffe",
+        "synonyms": [
+          "Reticulated giraffe"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Jirafa reticulada o Somalí"
+      },
+      {
+        "lang": "fr",
+        "name": "girafe réticulée"
+      },
+      {
+        "lang": "th",
+        "name": "ยีราฟลายร่างแห หรือ ยีราฟโซมาลี"
+      },
+      {
+        "lang": "zh",
+        "name": "網紋長頸鹿"
+      },
+      {
+        "lang": "hu",
+        "name": "recés zsiráf"
+      },
+      {
+        "lang": "ca",
+        "name": "Girafa reticulada"
+      },
+      {
+        "lang": "cs",
+        "name": "Žirafa síťovaná"
+      },
+      {
+        "lang": "fa",
+        "name": "زرافه سومالی"
+      },
+      {
+        "lang": "it",
+        "name": "giraffa somala o giraffa reticolata"
+      },
+      {
+        "lang": "nl",
+        "name": "Somalische giraffe of netgiraffe"
+      },
+      {
+        "lang": "he",
+        "name": "ג'ירף מרושת"
+      },
+      {
+        "lang": "sk",
+        "name": "Žirafa štíhla sieťovaná alebo žirafa sieťovaná"
+      },
+      {
+        "lang": "lv",
+        "name": "Somālijas žirafe"
+      },
+      {
+        "lang": "no",
+        "name": "Somalisk sjiraff eller nettsjiraff"
+      },
+      {
+        "lang": "pl",
+        "name": "Żyrafa siatkowana"
+      },
+      {
+        "lang": "sr",
+        "name": "Мрежаста или сомалијска жирафа"
+      },
+      {
+        "lang": "uk",
+        "name": "Жира́фа сітча́ста",
+        "synonyms": [
+          "або жира́фа сомалі́йська"
+        ]
+      },
+      {
+        "lang": "zh-yue",
+        "name": "網紋長頸鹿，又叫索馬利長頸鹿"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Giraffa giraffa",
+    "common_names": [
+      {
+        "lang": "am",
+        "name": "የደቡብ ቀጭኔ"
+      },
+      {
+        "lang": "ar",
+        "name": "زرافة الجنوبية"
+      },
+      {
+        "lang": "af",
+        "name": "Suider kameelperd"
+      },
+      {
+        "lang": "bn",
+        "name": "দক্ষিন জিরাফ"
+      },
+      {
+        "lang": "bg",
+        "name": "Южен жираф"
+      },
+      {
+        "lang": "ca",
+        "name": "Girafa meridional"
+      },
+      {
+        "lang": "de",
+        "name": "Süd-Giraffe"
+      },
+      {
+        "lang": "en",
+        "name": "Southern giraffe"
+      },
+      {
+        "lang": "es",
+        "name": "Jirafa del sur"
+      },
+      {
+        "lang": "fa",
+        "name": "زرافه کلیمانجارو"
+      },
+      {
+        "lang": "fr",
+        "name": "Girafe du Sud"
+      },
+      {
+        "lang": "he",
+        "name": "ג'ירף דרומי"
+      },
+      {
+        "lang": "hi",
+        "name": "दक्षिणी जिराफ"
+      },
+      {
+        "lang": "hu",
+        "name": "Déli zsiráf"
+      },
+      {
+        "lang": "it",
+        "name": "Giraffa meridionale"
+      },
+      {
+        "lang": "ja",
+        "name": "南のキリン"
+      },
+      {
+        "lang": "ko",
+        "name": "남부 기린"
+      },
+      {
+        "lang": "lv",
+        "name": "Dienvidu žirafe"
+      },
+      {
+        "lang": "nl",
+        "name": "Zuidelijke giraffe"
+      },
+      {
+        "lang": "pl",
+        "name": "Południowej żyrafa"
+      },
+      {
+        "lang": "pt",
+        "name": "Girafa do sul"
+      },
+      {
+        "lang": "simple",
+        "name": "Southern giraffe"
+      },
+      {
+        "lang": "sr",
+        "name": "Масајска жирафа"
+      },
+      {
+        "lang": "uk",
+        "name": "південний жираф"
+      },
+      {
+        "lang": "zh",
+        "name": "南部的长颈鹿"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Giraffa camelopardalis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Noord kameelperd"
+      },
+      {
+        "lang": "ak",
+        "name": "Yoma"
+      },
+      {
+        "lang": "am",
+        "name": "ቀጭኔ"
+      },
+      {
+        "lang": "ar",
+        "name": "زرافة"
+      },
+      {
+        "lang": "ast",
+        "name": "Xirafa"
+      },
+      {
+        "lang": "az",
+        "name": "Zürafə"
+      },
+      {
+        "lang": "bm",
+        "name": "Ntilen"
+      },
+      {
+        "lang": "bn",
+        "name": "জিরাফ"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Tn̂g-ām-lo̍k"
+      },
+      {
+        "lang": "be",
+        "name": "Жырафа"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Жырафа"
+      },
+      {
+        "lang": "bg",
+        "name": "Жираф"
+      },
+      {
+        "lang": "bo",
+        "name": "ཤ་བ་སྐེ་རིང་།"
+      },
+      {
+        "lang": "bs",
+        "name": "Žirafa"
+      },
+      {
+        "lang": "br",
+        "name": "Jirafenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Girafa"
+      },
+      {
+        "lang": "ceb",
+        "name": "Hirapa"
+      },
+      {
+        "lang": "cs",
+        "name": "Žirafa"
+      },
+      {
+        "lang": "sn",
+        "name": "Twiza"
+      },
+      {
+        "lang": "da",
+        "name": "Giraf"
+      },
+      {
+        "lang": "de",
+        "name": "Nord-Giraffe"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsin yilátah ayání"
+      },
+      {
+        "lang": "en",
+        "name": "Northern giraffe"
+      },
+      {
+        "lang": "et",
+        "name": "Kaelkirjak"
+      },
+      {
+        "lang": "el",
+        "name": "Καμηλοπάρδαλη"
+      },
+      {
+        "lang": "es",
+        "name": "Jirafa del norte"
+      },
+      {
+        "lang": "eo",
+        "name": "Ĝirafo"
+      },
+      {
+        "lang": "eu",
+        "name": "Jirafa"
+      },
+      {
+        "lang": "fa",
+        "name": "زرافه"
+      },
+      {
+        "lang": "fo",
+        "name": "Giraffur"
+      },
+      {
+        "lang": "fr",
+        "name": "Girafe du Nord"
+      },
+      {
+        "lang": "ga",
+        "name": "Sioráf"
+      },
+      {
+        "lang": "gv",
+        "name": "Mwannalagh"
+      },
+      {
+        "lang": "gd",
+        "name": "Sioraf"
+      },
+      {
+        "lang": "gl",
+        "name": "Xirafa"
+      },
+      {
+        "lang": "gan",
+        "name": "長頸鹿"
+      },
+      {
+        "lang": "gu",
+        "name": "જિરાફ"
+      },
+      {
+        "lang": "hak",
+        "name": "Chhòng-kiáng-lu̍k"
+      },
+      {
+        "lang": "haw",
+        "name": "Kilape",
+        "synonyms": [
+          "Kamelopaki"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "기린"
+      },
+      {
+        "lang": "ha",
+        "name": "Raƙumin dawa"
+      },
+      {
+        "lang": "hi",
+        "name": "जिराफ़"
+      },
+      {
+        "lang": "hr",
+        "name": "Žirafa"
+      },
+      {
+        "lang": "io",
+        "name": "Jirafo"
+      },
+      {
+        "lang": "id",
+        "name": "Jerapah"
+      },
+      {
+        "lang": "zu",
+        "name": "Indlulamithi"
+      },
+      {
+        "lang": "is",
+        "name": "Gíraffi"
+      },
+      {
+        "lang": "it",
+        "name": "Giraffa settentrionale"
+      },
+      {
+        "lang": "he",
+        "name": "ג'ירף"
+      },
+      {
+        "lang": "jv",
+        "name": "Jerapah"
+      },
+      {
+        "lang": "kn",
+        "name": "ಜಿರಾಫೆ"
+      },
+      {
+        "lang": "krc",
+        "name": "Сурахай"
+      },
+      {
+        "lang": "kk",
+        "name": "Керік"
+      },
+      {
+        "lang": "sw",
+        "name": "Twiga"
+      },
+      {
+        "lang": "ht",
+        "name": "Jiraf"
+      },
+      {
+        "lang": "ku",
+        "name": "Canhêştir"
+      },
+      {
+        "lang": "lbe",
+        "name": "СсурухӀи"
+      },
+      {
+        "lang": "la",
+        "name": "Giraffa"
+      },
+      {
+        "lang": "lv",
+        "name": "Žirafe"
+      },
+      {
+        "lang": "lb",
+        "name": "Giraff"
+      },
+      {
+        "lang": "lt",
+        "name": "Žirafa"
+      },
+      {
+        "lang": "ln",
+        "name": "Dikálá"
+      },
+      {
+        "lang": "jbo",
+        "name": "djirafa"
+      },
+      {
+        "lang": "hu",
+        "name": "Északi zsiráf"
+      },
+      {
+        "lang": "mk",
+        "name": "Жирафа"
+      },
+      {
+        "lang": "ml",
+        "name": "ജിറാഫ്"
+      },
+      {
+        "lang": "mr",
+        "name": "जिराफ"
+      },
+      {
+        "lang": "arz",
+        "name": "زرافه"
+      },
+      {
+        "lang": "ms",
+        "name": "Zirafah"
+      },
+      {
+        "lang": "mn",
+        "name": "Анааш"
+      },
+      {
+        "lang": "my",
+        "name": "သစ်ကုလားအုပ်"
+      },
+      {
+        "lang": "nl",
+        "name": "Noordelijk giraffe"
+      },
+      {
+        "lang": "ne",
+        "name": "जिराफ"
+      },
+      {
+        "lang": "ja",
+        "name": "キリン"
+      },
+      {
+        "lang": "no",
+        "name": "Sjiraff"
+      },
+      {
+        "lang": "nn",
+        "name": "Sjiraff"
+      },
+      {
+        "lang": "nrm",
+        "name": "Girafe"
+      },
+      {
+        "lang": "mhr",
+        "name": "Жираф"
+      },
+      {
+        "lang": "pnb",
+        "name": "زرافہ"
+      },
+      {
+        "lang": "pcd",
+        "name": "Girafe"
+      },
+      {
+        "lang": "pl",
+        "name": "Żyrafa"
+      },
+      {
+        "lang": "pt",
+        "name": "Girafa do norte"
+      },
+      {
+        "lang": "ro",
+        "name": "Girafă"
+      },
+      {
+        "lang": "qu",
+        "name": "Hirapha"
+      },
+      {
+        "lang": "rue",
+        "name": "Жирафа"
+      },
+      {
+        "lang": "ru",
+        "name": "Жираф"
+      },
+      {
+        "lang": "sg",
+        "name": "Kôlo"
+      },
+      {
+        "lang": "nso",
+        "name": "Thutlwa"
+      },
+      {
+        "lang": "sq",
+        "name": "Gjirafa"
+      },
+      {
+        "lang": "scn",
+        "name": "Giraffa"
+      },
+      {
+        "lang": "si",
+        "name": "ජිරාෆ්"
+      },
+      {
+        "lang": "simple",
+        "name": "Northern giraffe"
+      },
+      {
+        "lang": "sk",
+        "name": "Žirafa štíhla"
+      },
+      {
+        "lang": "sl",
+        "name": "Žirafa"
+      },
+      {
+        "lang": "so",
+        "name": "Geri"
+      },
+      {
+        "lang": "ckb",
+        "name": "زەڕافە"
+      },
+      {
+        "lang": "sr",
+        "name": "Жирафа"
+      },
+      {
+        "lang": "su",
+        "name": "Jarapah"
+      },
+      {
+        "lang": "fi",
+        "name": "Kirahvi"
+      },
+      {
+        "lang": "sv",
+        "name": "Giraff"
+      },
+      {
+        "lang": "ta",
+        "name": "ஒட்டகச் சிவிங்கி"
+      },
+      {
+        "lang": "kab",
+        "name": "Amdeɣ"
+      },
+      {
+        "lang": "te",
+        "name": "జిరాఫీ"
+      },
+      {
+        "lang": "th",
+        "name": "ยีราฟ"
+      },
+      {
+        "lang": "tg",
+        "name": "Зарофа"
+      },
+      {
+        "lang": "chr",
+        "name": "ᏗᎦᎵᏍᏚᎩᏍᎩ"
+      },
+      {
+        "lang": "chy",
+        "name": "Tsêhe'êsenotováhe"
+      },
+      {
+        "lang": "tr",
+        "name": "Zürafa"
+      },
+      {
+        "lang": "udm",
+        "name": "Жираф"
+      },
+      {
+        "lang": "uk",
+        "name": "Жирафа"
+      },
+      {
+        "lang": "ur",
+        "name": "زرافہ"
+      },
+      {
+        "lang": "ug",
+        "name": "زىراپە"
+      },
+      {
+        "lang": "vi",
+        "name": "Hươu cao cổ"
+      },
+      {
+        "lang": "yi",
+        "name": "זשיראף"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "長頸鹿"
+      },
+      {
+        "lang": "diq",
+        "name": "Zırafa"
+      },
+      {
+        "lang": "zh",
+        "name": "长颈鹿"
+      }
+    ]
+  }
+]

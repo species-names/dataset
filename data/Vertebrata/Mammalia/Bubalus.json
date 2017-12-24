@@ -1,0 +1,440 @@
+[
+  {
+    "scientific_name": "Bubalus quarlesi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Berg-Anoa"
+      },
+      {
+        "lang": "en",
+        "name": "Mountain anoa"
+      },
+      {
+        "lang": "es",
+        "name": "Anoa de montaña"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤマアノア"
+      },
+      {
+        "lang": "nl",
+        "name": "Berganoa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bubalus mindorensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tamaraw"
+      },
+      {
+        "lang": "es",
+        "name": "Tamarao"
+      },
+      {
+        "lang": "hr",
+        "name": "Tamaru"
+      },
+      {
+        "lang": "ja",
+        "name": "ミンドロスイギュウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Tamaroe"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bubalus mephistopheles",
+    "common_names": [
+      {
+        "lang": "zh",
+        "name": "兕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bubalus depressicornis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Anoa",
+        "synonyms": [
+          "Lowland anoa"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Anoa de llanura"
+      },
+      {
+        "lang": "fi",
+        "name": "Anoa",
+        "synonyms": [
+          "kääpiöpuhveli"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "アノア"
+      },
+      {
+        "lang": "sv",
+        "name": "Låglandsanoa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bubalus cebuensis",
+    "common_names": [
+      {
+        "lang": "zh",
+        "name": "塞布水牛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bubalus bubalis",
+    "common_names": [
+      {
+        "lang": "ace",
+        "name": "Keubeuë"
+      },
+      {
+        "lang": "kbd",
+        "name": "Азиэ хыв"
+      },
+      {
+        "lang": "ab",
+        "name": "Акамбашь"
+      },
+      {
+        "lang": "ar",
+        "name": "جاموس الماء"
+      },
+      {
+        "lang": "av",
+        "name": "Гамущ"
+      },
+      {
+        "lang": "az",
+        "name": "Asiya camışı"
+      },
+      {
+        "lang": "bn",
+        "name": "মোষ"
+      },
+      {
+        "lang": "bjn",
+        "name": "Hadangan"
+      },
+      {
+        "lang": "bug",
+        "name": "ᨙᨈᨉᨚ"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Chúi-gû"
+      },
+      {
+        "lang": "bo",
+        "name": "མ་ཧེ།"
+      },
+      {
+        "lang": "br",
+        "name": "Bual Azia"
+      },
+      {
+        "lang": "ca",
+        "name": "Búfal aquàtic"
+      },
+      {
+        "lang": "cs",
+        "name": "Buvol domácí"
+      },
+      {
+        "lang": "cy",
+        "name": "Byfflo Dŵr"
+      },
+      {
+        "lang": "de",
+        "name": "Wasserbüffel"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąąh béégashii"
+      },
+      {
+        "lang": "en",
+        "name": "Water Buffalo"
+      },
+      {
+        "lang": "es",
+        "name": "Búbalo",
+        "synonyms": [
+          "búfalo de agua o arni"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Akvobubalo"
+      },
+      {
+        "lang": "eu",
+        "name": "Asiar bufalo"
+      },
+      {
+        "lang": "fa",
+        "name": "گاومیش"
+      },
+      {
+        "lang": "fr",
+        "name": "Buffle domestique",
+        "synonyms": [
+          "buffle d'Asie",
+          "buffle d'eau",
+          "kérabau",
+          "karbau"
+        ]
+      },
+      {
+        "lang": "gl",
+        "name": "Búfalo"
+      },
+      {
+        "lang": "gu",
+        "name": "ભેંસ"
+      },
+      {
+        "lang": "ko",
+        "name": "물소"
+      },
+      {
+        "lang": "hi",
+        "name": "जंगली भैसा"
+      },
+      {
+        "lang": "io",
+        "name": "Bufalo"
+      },
+      {
+        "lang": "id",
+        "name": "Kerbau"
+      },
+      {
+        "lang": "is",
+        "name": "Vatnabuffall"
+      },
+      {
+        "lang": "it",
+        "name": "Bufalo indiano",
+        "synonyms": [
+          "bufalo d'acqua"
+        ]
+      },
+      {
+        "lang": "he",
+        "name": "תאו מים"
+      },
+      {
+        "lang": "jv",
+        "name": "Kebo"
+      },
+      {
+        "lang": "kn",
+        "name": "ಎಮ್ಮೆ"
+      },
+      {
+        "lang": "lv",
+        "name": "Ūdens bifelis"
+      },
+      {
+        "lang": "lt",
+        "name": "Azijinis buivolas"
+      },
+      {
+        "lang": "hu",
+        "name": "Vízibivaly"
+      },
+      {
+        "lang": "ml",
+        "name": "പോത്ത്"
+      },
+      {
+        "lang": "mr",
+        "name": "म्हैस"
+      },
+      {
+        "lang": "ms",
+        "name": "Kerbau"
+      },
+      {
+        "lang": "my",
+        "name": "ကျွဲ"
+      },
+      {
+        "lang": "nl",
+        "name": "Waterbuffel",
+        "synonyms": [
+          "Karbouw"
+        ]
+      },
+      {
+        "lang": "ne",
+        "name": "भैँसी"
+      },
+      {
+        "lang": "ja",
+        "name": "スイギュウ"
+      },
+      {
+        "lang": "nap",
+        "name": "Vufero"
+      },
+      {
+        "lang": "no",
+        "name": "Vannbøffel"
+      },
+      {
+        "lang": "pnb",
+        "name": "مج"
+      },
+      {
+        "lang": "pl",
+        "name": "Bawół domowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Búfalo-asiático"
+      },
+      {
+        "lang": "ro",
+        "name": "Bivol indian",
+        "synonyms": [
+          "arni",
+          "bivol de apă"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Азиатский буйвол"
+      },
+      {
+        "lang": "simple",
+        "name": "Water buffalo"
+      },
+      {
+        "lang": "sk",
+        "name": "Byvol arni"
+      },
+      {
+        "lang": "sh",
+        "name": "Vodeni bivol"
+      },
+      {
+        "lang": "su",
+        "name": "Munding"
+      },
+      {
+        "lang": "fi",
+        "name": "Vesipuhveli"
+      },
+      {
+        "lang": "sv",
+        "name": "Vattenbuffel"
+      },
+      {
+        "lang": "te",
+        "name": "గేదె"
+      },
+      {
+        "lang": "th",
+        "name": "ควาย",
+        "synonyms": [
+          "กระบือ"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Asya mandası"
+      },
+      {
+        "lang": "uk",
+        "name": "Водяний буйвіл"
+      },
+      {
+        "lang": "ur",
+        "name": "بھینس"
+      },
+      {
+        "lang": "za",
+        "name": "Vaiz"
+      },
+      {
+        "lang": "vi",
+        "name": "Trâu"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "水牛"
+      },
+      {
+        "lang": "diq",
+        "name": "Camusê Asya"
+      },
+      {
+        "lang": "zh",
+        "name": "水牛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bubalus arnee",
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "বন্য মহিষ"
+      },
+      {
+        "lang": "en",
+        "name": "Wild Water Buffalo",
+        "synonyms": [
+          "Asian Wild Water Buffalo",
+          "Indian Wild Water Buffalo"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Bufalo Arni"
+      },
+      {
+        "lang": "fr",
+        "name": "Buffle D'Eau",
+        "synonyms": [
+          "Buffle De L'Inde"
+        ]
+      },
+      {
+        "lang": "hi",
+        "name": "वन भैंस"
+      },
+      {
+        "lang": "mr",
+        "name": "पाणम्हैस"
+      },
+      {
+        "lang": "th",
+        "name": "ควายป่า"
+      },
+      {
+        "lang": "vi",
+        "name": "Trâu rừng"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1580 @@
+[
+  {
+    "scientific_name": "Bos planifrons",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bos acutifrons",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bos taurus",
+    "common_names": [
+      {
+        "lang": "ak",
+        "name": "Nantwie"
+      },
+      {
+        "lang": "ace",
+        "name": "Leumo"
+      },
+      {
+        "lang": "af",
+        "name": "Bees"
+      },
+      {
+        "lang": "als",
+        "name": "Hausrind"
+      },
+      {
+        "lang": "am",
+        "name": "ላም"
+      },
+      {
+        "lang": "ar",
+        "name": "بقرة"
+      },
+      {
+        "lang": "av",
+        "name": "ГӀака"
+      },
+      {
+        "lang": "ay",
+        "name": "Waka"
+      },
+      {
+        "lang": "az",
+        "name": "İnək"
+      },
+      {
+        "lang": "bar",
+        "name": "Rindviech",
+        "synonyms": [
+          "Hausrind",
+          "Rind"
+        ]
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Galvėjē"
+      },
+      {
+        "lang": "be",
+        "name": "Карова"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Карова"
+      },
+      {
+        "lang": "bg",
+        "name": "Домашно говедо"
+      },
+      {
+        "lang": "bjn",
+        "name": "Sapi"
+      },
+      {
+        "lang": "bm",
+        "name": "Misi"
+      },
+      {
+        "lang": "bn",
+        "name": "গরু"
+      },
+      {
+        "lang": "bo",
+        "name": "གླང་གོག་"
+      },
+      {
+        "lang": "br",
+        "name": "Buoc'h"
+      },
+      {
+        "lang": "bs",
+        "name": "Domaće govedo"
+      },
+      {
+        "lang": "bxr",
+        "name": "Үнеэн"
+      },
+      {
+        "lang": "ca",
+        "name": "Bou"
+      },
+      {
+        "lang": "cdo",
+        "name": "Ngù"
+      },
+      {
+        "lang": "ce",
+        "name": "Beźan"
+      },
+      {
+        "lang": "chr",
+        "name": "ᏩᎧ"
+      },
+      {
+        "lang": "cr",
+        "name": "ᒥᔅᑐᔅ"
+      },
+      {
+        "lang": "cs",
+        "name": "Tur domácí"
+      },
+      {
+        "lang": "cv",
+        "name": "Ĕне"
+      },
+      {
+        "lang": "cy",
+        "name": "Buwch"
+      },
+      {
+        "lang": "da",
+        "name": "Tamkvæg"
+      },
+      {
+        "lang": "de",
+        "name": "Hausrind",
+        "synonyms": [
+          "Rind"
+        ]
+      },
+      {
+        "lang": "diq",
+        "name": "Ga"
+      },
+      {
+        "lang": "el",
+        "name": "Βους ο ταύρος",
+        "synonyms": [
+          "Αγελάδα"
+        ]
+      },
+      {
+        "lang": "eml",
+        "name": "Bà"
+      },
+      {
+        "lang": "en",
+        "name": "Cattle"
+      },
+      {
+        "lang": "eo",
+        "name": "Bovo"
+      },
+      {
+        "lang": "es",
+        "name": "ganado",
+        "synonyms": [
+          "vaca (hembra) o toro (macho)"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Veis"
+      },
+      {
+        "lang": "eu",
+        "name": "Behi"
+      },
+      {
+        "lang": "fa",
+        "name": "گاو"
+      },
+      {
+        "lang": "fi",
+        "name": "Nauta"
+      },
+      {
+        "lang": "fiu-vro",
+        "name": "Lehm"
+      },
+      {
+        "lang": "fr",
+        "name": "vache"
+      },
+      {
+        "lang": "frr",
+        "name": "Beest"
+      },
+      {
+        "lang": "ga",
+        "name": "Bó"
+      },
+      {
+        "lang": "gd",
+        "name": "Bò"
+      },
+      {
+        "lang": "gl",
+        "name": "Vaca"
+      },
+      {
+        "lang": "gn",
+        "name": "Vaka"
+      },
+      {
+        "lang": "gu",
+        "name": "ગાય"
+      },
+      {
+        "lang": "ha",
+        "name": "Saniya"
+      },
+      {
+        "lang": "hak",
+        "name": "Ngiù-è"
+      },
+      {
+        "lang": "he",
+        "name": "בקר הבית"
+      },
+      {
+        "lang": "hi",
+        "name": "गाय"
+      },
+      {
+        "lang": "hr",
+        "name": "Domaće govedo"
+      },
+      {
+        "lang": "hsb",
+        "name": "Howjado"
+      },
+      {
+        "lang": "ht",
+        "name": "Bèf"
+      },
+      {
+        "lang": "hu",
+        "name": "Szarvasmarha"
+      },
+      {
+        "lang": "id",
+        "name": "Sapi"
+      },
+      {
+        "lang": "is",
+        "name": "Nautgripur"
+      },
+      {
+        "lang": "it",
+        "name": "Mucca",
+        "synonyms": [
+          "toro",
+          "zebù"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ウシ"
+      },
+      {
+        "lang": "jbo",
+        "name": "bakni"
+      },
+      {
+        "lang": "ka",
+        "name": "მსხვილი რქოსანი საქონელი"
+      },
+      {
+        "lang": "kg",
+        "name": "Ngombe"
+      },
+      {
+        "lang": "kk",
+        "name": "Сиыр"
+      },
+      {
+        "lang": "ko",
+        "name": "소"
+      },
+      {
+        "lang": "koi",
+        "name": "Мӧс"
+      },
+      {
+        "lang": "kw",
+        "name": "Bugh"
+      },
+      {
+        "lang": "lad",
+        "name": "Vaka"
+      },
+      {
+        "lang": "lb",
+        "name": "Ranner"
+      },
+      {
+        "lang": "lbe",
+        "name": "Оьл"
+      },
+      {
+        "lang": "ln",
+        "name": "Ngɔ́mbɛ́"
+      },
+      {
+        "lang": "lt",
+        "name": "Naminis jautis"
+      },
+      {
+        "lang": "lv",
+        "name": "Liellops"
+      },
+      {
+        "lang": "mdf",
+        "name": "Тракс"
+      },
+      {
+        "lang": "mk",
+        "name": "Домашно говедо"
+      },
+      {
+        "lang": "ml",
+        "name": "പശു"
+      },
+      {
+        "lang": "mr",
+        "name": "गाय"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ышкал"
+      },
+      {
+        "lang": "ms",
+        "name": "Lembu"
+      },
+      {
+        "lang": "mt",
+        "name": "Baqra"
+      },
+      {
+        "lang": "mwl",
+        "name": "Baca"
+      },
+      {
+        "lang": "my",
+        "name": "နွား"
+      },
+      {
+        "lang": "mzn",
+        "name": "گو"
+      },
+      {
+        "lang": "nah",
+        "name": "Cuācuahueh"
+      },
+      {
+        "lang": "nds",
+        "name": "Rindveeh"
+      },
+      {
+        "lang": "ne",
+        "name": "गाई"
+      },
+      {
+        "lang": "nl",
+        "name": "Rund"
+      },
+      {
+        "lang": "nn",
+        "name": "Storfe"
+      },
+      {
+        "lang": "no",
+        "name": "Tamfe"
+      },
+      {
+        "lang": "nrm",
+        "name": "Vaque"
+      },
+      {
+        "lang": "nv",
+        "name": "Béégashii"
+      },
+      {
+        "lang": "os",
+        "name": "Хъуг"
+      },
+      {
+        "lang": "pam",
+        "name": "Baka"
+      },
+      {
+        "lang": "pdc",
+        "name": "Kuh"
+      },
+      {
+        "lang": "pl",
+        "name": "Krowa",
+        "synonyms": [
+          "Bydło domowe"
+        ]
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈنگر"
+      },
+      {
+        "lang": "pt",
+        "name": "Gado bovino",
+        "synonyms": [
+          "Boi"
+        ]
+      },
+      {
+        "lang": "qu",
+        "name": "Waka"
+      },
+      {
+        "lang": "ro",
+        "name": "Vacă"
+      },
+      {
+        "lang": "roa-tara",
+        "name": "Uéve"
+      },
+      {
+        "lang": "ru",
+        "name": "Корова"
+      },
+      {
+        "lang": "rue",
+        "name": "Корова"
+      },
+      {
+        "lang": "rw",
+        "name": "Inka"
+      },
+      {
+        "lang": "sah",
+        "name": "Ынах"
+      },
+      {
+        "lang": "sc",
+        "name": "Bàca (f.)",
+        "synonyms": [
+          "boi (m.)",
+          "malloru (j.)"
+        ]
+      },
+      {
+        "lang": "sh",
+        "name": "Domaće govedo"
+      },
+      {
+        "lang": "si",
+        "name": "ගවයා"
+      },
+      {
+        "lang": "simple",
+        "name": "Cattle"
+      },
+      {
+        "lang": "sk",
+        "name": "Tur domáci"
+      },
+      {
+        "lang": "sl",
+        "name": "Domače govedo"
+      },
+      {
+        "lang": "sn",
+        "name": "Mombe"
+      },
+      {
+        "lang": "so",
+        "name": "Lo"
+      },
+      {
+        "lang": "sq",
+        "name": "Lopa"
+      },
+      {
+        "lang": "sr",
+        "name": "Krava"
+      },
+      {
+        "lang": "srn",
+        "name": "Kawmeti"
+      },
+      {
+        "lang": "stq",
+        "name": "Ku"
+      },
+      {
+        "lang": "sv",
+        "name": "Nötkreatur"
+      },
+      {
+        "lang": "sw",
+        "name": "Ng'ombe"
+      },
+      {
+        "lang": "ta",
+        "name": "பசு"
+      },
+      {
+        "lang": "tg",
+        "name": "Гов"
+      },
+      {
+        "lang": "th",
+        "name": "วัว"
+      },
+      {
+        "lang": "tl",
+        "name": "Baka"
+      },
+      {
+        "lang": "tpi",
+        "name": "Bulmakau"
+      },
+      {
+        "lang": "tr",
+        "name": "Sığır"
+      },
+      {
+        "lang": "tum",
+        "name": "Ng’ombe"
+      },
+      {
+        "lang": "ug",
+        "name": "ئىنەك"
+      },
+      {
+        "lang": "uk",
+        "name": "Корова"
+      },
+      {
+        "lang": "ur",
+        "name": "گائے"
+      },
+      {
+        "lang": "vec",
+        "name": "Vaca"
+      },
+      {
+        "lang": "vi",
+        "name": "Bò nhà"
+      },
+      {
+        "lang": "wa",
+        "name": "Rodjès biesses"
+      },
+      {
+        "lang": "war",
+        "name": "Baka"
+      },
+      {
+        "lang": "wo",
+        "name": "Nag"
+      },
+      {
+        "lang": "xal",
+        "name": "Үкр"
+      },
+      {
+        "lang": "yi",
+        "name": "אקס"
+      },
+      {
+        "lang": "zh",
+        "name": "家牛"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Gû"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "牛"
+      },
+      {
+        "lang": "zu",
+        "name": "Inkomazi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bos sauveli",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Kouprey"
+      },
+      {
+        "lang": "es",
+        "name": "Kouprey"
+      },
+      {
+        "lang": "hu",
+        "name": "Kouprey"
+      },
+      {
+        "lang": "ja",
+        "name": "コープレイ"
+      },
+      {
+        "lang": "km",
+        "name": "គោ​ព្រៃ​"
+      },
+      {
+        "lang": "pl",
+        "name": "kuprej"
+      },
+      {
+        "lang": "pt",
+        "name": "Kouprey"
+      },
+      {
+        "lang": "tr",
+        "name": "Kupro"
+      },
+      {
+        "lang": "th",
+        "name": "กูปรี",
+        "synonyms": [
+          "โคไพร"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bos primigenius",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Auerochsen"
+      },
+      {
+        "lang": "ar",
+        "name": "أرخص"
+      },
+      {
+        "lang": "az",
+        "name": "İbtidai öküz"
+      },
+      {
+        "lang": "bar",
+        "name": "Aueróx"
+      },
+      {
+        "lang": "be",
+        "name": "Тур",
+        "synonyms": [
+          "жывёла"
+        ]
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Тур"
+      },
+      {
+        "lang": "bg",
+        "name": "Тур"
+      },
+      {
+        "lang": "br",
+        "name": "Gourejen"
+      },
+      {
+        "lang": "ca",
+        "name": "Ur"
+      },
+      {
+        "lang": "cs",
+        "name": "Pratur"
+      },
+      {
+        "lang": "da",
+        "name": "Urokse"
+      },
+      {
+        "lang": "en",
+        "name": "Aurochs"
+      },
+      {
+        "lang": "eo",
+        "name": "Uro"
+      },
+      {
+        "lang": "el",
+        "name": "Βους ο πρωταρχικός (Αουρόξ)"
+      },
+      {
+        "lang": "es",
+        "name": "uro"
+      },
+      {
+        "lang": "et",
+        "name": "Tarvas"
+      },
+      {
+        "lang": "eu",
+        "name": "Uro"
+      },
+      {
+        "lang": "fi",
+        "name": "Alkuhärkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Aurochs"
+      },
+      {
+        "lang": "fy",
+        "name": "Oerokse"
+      },
+      {
+        "lang": "gl",
+        "name": "Uro (animal)"
+      },
+      {
+        "lang": "he",
+        "name": "שור הבר"
+      },
+      {
+        "lang": "hi",
+        "name": "औरोक्स"
+      },
+      {
+        "lang": "hr",
+        "name": "Tur"
+      },
+      {
+        "lang": "hu",
+        "name": "Őstulok"
+      },
+      {
+        "lang": "ia",
+        "name": "Uro"
+      },
+      {
+        "lang": "io",
+        "name": "Uroxo"
+      },
+      {
+        "lang": "is",
+        "name": "Úruxi"
+      },
+      {
+        "lang": "it",
+        "name": "Uro"
+      },
+      {
+        "lang": "ja",
+        "name": "オーロックス"
+      },
+      {
+        "lang": "ka",
+        "name": "პირველყოფილი ძროხა"
+      },
+      {
+        "lang": "ko",
+        "name": "오록스"
+      },
+      {
+        "lang": "lt",
+        "name": "Tauras"
+      },
+      {
+        "lang": "lv",
+        "name": "Taurs"
+      },
+      {
+        "lang": "mwl",
+        "name": "Auroque"
+      },
+      {
+        "lang": "nl",
+        "name": "Oeros"
+      },
+      {
+        "lang": "no",
+        "name": "Urokse"
+      },
+      {
+        "lang": "oc",
+        "name": "Ur"
+      },
+      {
+        "lang": "pl",
+        "name": "Tur leśny"
+      },
+      {
+        "lang": "pt",
+        "name": "Auroque"
+      },
+      {
+        "lang": "ro",
+        "name": "Bour"
+      },
+      {
+        "lang": "ru",
+        "name": "Тур"
+      },
+      {
+        "lang": "sh",
+        "name": "Tur"
+      },
+      {
+        "lang": "simple",
+        "name": "Aurochs"
+      },
+      {
+        "lang": "sl",
+        "name": "Tur"
+      },
+      {
+        "lang": "sr",
+        "name": "Tur"
+      },
+      {
+        "lang": "sv",
+        "name": "Uroxe"
+      },
+      {
+        "lang": "uk",
+        "name": "Тур"
+      },
+      {
+        "lang": "vi",
+        "name": "Bò rừng châu Âu"
+      },
+      {
+        "lang": "zh",
+        "name": "原牛"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "原牛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bos mutus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bos javanicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Banteng"
+      },
+      {
+        "lang": "es",
+        "name": "Banteng"
+      },
+      {
+        "lang": "hu",
+        "name": "Banteng"
+      },
+      {
+        "lang": "it",
+        "name": "Banteng"
+      },
+      {
+        "lang": "ko",
+        "name": "반텡"
+      },
+      {
+        "lang": "th",
+        "name": "วัวแดง",
+        "synonyms": [
+          "วัวเพลาะ"
+        ]
+      },
+      {
+        "lang": "el",
+        "name": "Βους της Ιάβας"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bos indicus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Seboe"
+      },
+      {
+        "lang": "az",
+        "name": "Zebu"
+      },
+      {
+        "lang": "be",
+        "name": "Зебу"
+      },
+      {
+        "lang": "bg",
+        "name": "Зебу"
+      },
+      {
+        "lang": "br",
+        "name": "Zebu"
+      },
+      {
+        "lang": "ca",
+        "name": "Zebú"
+      },
+      {
+        "lang": "cs",
+        "name": "Zebu"
+      },
+      {
+        "lang": "da",
+        "name": "Zebu"
+      },
+      {
+        "lang": "de",
+        "name": "Zebu"
+      },
+      {
+        "lang": "el",
+        "name": "Ζεμπού"
+      },
+      {
+        "lang": "en",
+        "name": "Zebu"
+      },
+      {
+        "lang": "et",
+        "name": "Seebu"
+      },
+      {
+        "lang": "es",
+        "name": "Cebú"
+      },
+      {
+        "lang": "eo",
+        "name": "Zebuo"
+      },
+      {
+        "lang": "eu",
+        "name": "Zebu"
+      },
+      {
+        "lang": "fr",
+        "name": "Zébu"
+      },
+      {
+        "lang": "fy",
+        "name": "Sebû"
+      },
+      {
+        "lang": "io",
+        "name": "Zebuo"
+      },
+      {
+        "lang": "id",
+        "name": "Zebu"
+      },
+      {
+        "lang": "it",
+        "name": "Zebù"
+      },
+      {
+        "lang": "he",
+        "name": "זבו"
+      },
+      {
+        "lang": "ka",
+        "name": "ზებუ"
+      },
+      {
+        "lang": "kk",
+        "name": "Зебу"
+      },
+      {
+        "lang": "mg",
+        "name": "Omby"
+      },
+      {
+        "lang": "ms",
+        "name": "Sapi"
+      },
+      {
+        "lang": "nah",
+        "name": "Tepotzohcuacuahueh"
+      },
+      {
+        "lang": "nl",
+        "name": "Zeboe"
+      },
+      {
+        "lang": "ja",
+        "name": "コブウシ"
+      },
+      {
+        "lang": "no",
+        "name": "Zebu"
+      },
+      {
+        "lang": "nn",
+        "name": "Sebu"
+      },
+      {
+        "lang": "pl",
+        "name": "Zebu"
+      },
+      {
+        "lang": "pt",
+        "name": "Zebu"
+      },
+      {
+        "lang": "ru",
+        "name": "Зебу"
+      },
+      {
+        "lang": "simple",
+        "name": "Zebu"
+      },
+      {
+        "lang": "sh",
+        "name": "Zebu"
+      },
+      {
+        "lang": "fi",
+        "name": "Seebu"
+      },
+      {
+        "lang": "ta",
+        "name": "காங்கேயம் காளை"
+      },
+      {
+        "lang": "vi",
+        "name": "Bò Zebu"
+      },
+      {
+        "lang": "wa",
+        "name": "Zebu"
+      },
+      {
+        "lang": "zh",
+        "name": "瘤牛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bos grunniens",
+    "common_names": [
+      {
+        "lang": "ang",
+        "name": "Ȝeac"
+      },
+      {
+        "lang": "ar",
+        "name": "قطاس"
+      },
+      {
+        "lang": "av",
+        "name": "Як"
+      },
+      {
+        "lang": "az",
+        "name": "Yak"
+      },
+      {
+        "lang": "be",
+        "name": "Як"
+      },
+      {
+        "lang": "bg",
+        "name": "Як"
+      },
+      {
+        "lang": "bo",
+        "name": "གཡག"
+      },
+      {
+        "lang": "br",
+        "name": "Yak"
+      },
+      {
+        "lang": "ca",
+        "name": "Iac"
+      },
+      {
+        "lang": "cs",
+        "name": "Jak divoký"
+      },
+      {
+        "lang": "da",
+        "name": "Yakokse"
+      },
+      {
+        "lang": "de",
+        "name": "Yak"
+      },
+      {
+        "lang": "el",
+        "name": "Γιακ"
+      },
+      {
+        "lang": "en",
+        "name": "Yak"
+      },
+      {
+        "lang": "eo",
+        "name": "Gruntbovo"
+      },
+      {
+        "lang": "et",
+        "name": "Jakk"
+      },
+      {
+        "lang": "eu",
+        "name": "Jak"
+      },
+      {
+        "lang": "fa",
+        "name": "غژگاو"
+      },
+      {
+        "lang": "fi",
+        "name": "Jakki"
+      },
+      {
+        "lang": "fr",
+        "name": "Yak"
+      },
+      {
+        "lang": "ga",
+        "name": "Geac"
+      },
+      {
+        "lang": "gd",
+        "name": "Yak"
+      },
+      {
+        "lang": "gl",
+        "name": "Iac"
+      },
+      {
+        "lang": "gu",
+        "name": "યાક"
+      },
+      {
+        "lang": "he",
+        "name": "יאק"
+      },
+      {
+        "lang": "hu",
+        "name": "Jak"
+      },
+      {
+        "lang": "id",
+        "name": "Yak"
+      },
+      {
+        "lang": "io",
+        "name": "Yako"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤク"
+      },
+      {
+        "lang": "ka",
+        "name": "იაკი"
+      },
+      {
+        "lang": "kk",
+        "name": "Қодас"
+      },
+      {
+        "lang": "ko",
+        "name": "야크"
+      },
+      {
+        "lang": "lt",
+        "name": "Jakas"
+      },
+      {
+        "lang": "lv",
+        "name": "Jaks"
+      },
+      {
+        "lang": "mhr",
+        "name": "Як"
+      },
+      {
+        "lang": "mk",
+        "name": "Јак"
+      },
+      {
+        "lang": "mr",
+        "name": "याक"
+      },
+      {
+        "lang": "ms",
+        "name": "Yak"
+      },
+      {
+        "lang": "my",
+        "name": "စာမရီ"
+      },
+      {
+        "lang": "ne",
+        "name": "चौंरी गाई"
+      },
+      {
+        "lang": "nl",
+        "name": "Jak"
+      },
+      {
+        "lang": "nn",
+        "name": "Jak"
+      },
+      {
+        "lang": "no",
+        "name": "Jak"
+      },
+      {
+        "lang": "nv",
+        "name": "Béégashiiʼilí"
+      },
+      {
+        "lang": "oc",
+        "name": "Iac"
+      },
+      {
+        "lang": "pl",
+        "name": "Jak"
+      },
+      {
+        "lang": "pnb",
+        "name": "یاک"
+      },
+      {
+        "lang": "pt",
+        "name": "Iaque"
+      },
+      {
+        "lang": "ro",
+        "name": "Iac"
+      },
+      {
+        "lang": "ru",
+        "name": "Як"
+      },
+      {
+        "lang": "simple",
+        "name": "Yak"
+      },
+      {
+        "lang": "sk",
+        "name": "Jak divý"
+      },
+      {
+        "lang": "sl",
+        "name": "Jak"
+      },
+      {
+        "lang": "sr",
+        "name": "Јак"
+      },
+      {
+        "lang": "sv",
+        "name": "Jak"
+      },
+      {
+        "lang": "te",
+        "name": "చమరీ మృగం"
+      },
+      {
+        "lang": "th",
+        "name": "จามรี"
+      },
+      {
+        "lang": "tr",
+        "name": "Tibet sığırı"
+      },
+      {
+        "lang": "udm",
+        "name": "Як"
+      },
+      {
+        "lang": "ug",
+        "name": "قوتاز"
+      },
+      {
+        "lang": "uk",
+        "name": "Як"
+      },
+      {
+        "lang": "ur",
+        "name": "یاک"
+      },
+      {
+        "lang": "vi",
+        "name": "Bò Tây Tạng"
+      },
+      {
+        "lang": "zh",
+        "name": "牦牛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bos gaurus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "جاور"
+      },
+      {
+        "lang": "as",
+        "name": "মেঠোন"
+      },
+      {
+        "lang": "av",
+        "name": "Гаур"
+      },
+      {
+        "lang": "az",
+        "name": "Qaur"
+      },
+      {
+        "lang": "be",
+        "name": "Bibos gaurus"
+      },
+      {
+        "lang": "bg",
+        "name": "Гаур"
+      },
+      {
+        "lang": "br",
+        "name": "Gaur"
+      },
+      {
+        "lang": "ca",
+        "name": "Gaur"
+      },
+      {
+        "lang": "cs",
+        "name": "Gaur"
+      },
+      {
+        "lang": "de",
+        "name": "Gaur"
+      },
+      {
+        "lang": "el",
+        "name": "Βούς ο εμπρόσθιος (Γκαούρ)"
+      },
+      {
+        "lang": "en",
+        "name": "Gaur",
+        "synonyms": [
+          "Gayal"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Gayal"
+      },
+      {
+        "lang": "et",
+        "name": "Gaur"
+      },
+      {
+        "lang": "fa",
+        "name": "گااور"
+      },
+      {
+        "lang": "fi",
+        "name": "Gauri"
+      },
+      {
+        "lang": "fr",
+        "name": "Gayal"
+      },
+      {
+        "lang": "he",
+        "name": "גאור"
+      },
+      {
+        "lang": "hi",
+        "name": "गौर"
+      },
+      {
+        "lang": "hu",
+        "name": "Gaur"
+      },
+      {
+        "lang": "id",
+        "name": "Seladang"
+      },
+      {
+        "lang": "it",
+        "name": "Gaur"
+      },
+      {
+        "lang": "ja",
+        "name": "ガウル"
+      },
+      {
+        "lang": "ka",
+        "name": "გაური"
+      },
+      {
+        "lang": "kk",
+        "name": "Жабайы бұқа"
+      },
+      {
+        "lang": "kn",
+        "name": "ಕಾಡುಕೋಣ"
+      },
+      {
+        "lang": "ko",
+        "name": "가얄"
+      },
+      {
+        "lang": "lt",
+        "name": "Gaūras"
+      },
+      {
+        "lang": "lv",
+        "name": "Gaurs"
+      },
+      {
+        "lang": "mhr",
+        "name": "Гаур"
+      },
+      {
+        "lang": "ml",
+        "name": "മിഥുൻ"
+      },
+      {
+        "lang": "mr",
+        "name": "रानगवा"
+      },
+      {
+        "lang": "ms",
+        "name": "Seladang"
+      },
+      {
+        "lang": "ne",
+        "name": "गौरीगाई"
+      },
+      {
+        "lang": "new",
+        "name": "गौर"
+      },
+      {
+        "lang": "nl",
+        "name": "Gaur"
+      },
+      {
+        "lang": "no",
+        "name": "Gaur"
+      },
+      {
+        "lang": "nv",
+        "name": "Ayánítsoh bighą́ą́ʼaskʼidígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Gaur"
+      },
+      {
+        "lang": "pnb",
+        "name": "گور"
+      },
+      {
+        "lang": "pt",
+        "name": "Gauro"
+      },
+      {
+        "lang": "ro",
+        "name": "Gaur"
+      },
+      {
+        "lang": "ru",
+        "name": "Гаур"
+      },
+      {
+        "lang": "sco",
+        "name": "Gaur"
+      },
+      {
+        "lang": "sr",
+        "name": "Гаур"
+      },
+      {
+        "lang": "sv",
+        "name": "Gaur"
+      },
+      {
+        "lang": "ta",
+        "name": "கடமா"
+      },
+      {
+        "lang": "th",
+        "name": "กระทิง",
+        "synonyms": [
+          "เมย"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Gaur"
+      },
+      {
+        "lang": "udm",
+        "name": "Гаур"
+      },
+      {
+        "lang": "uk",
+        "name": "Бик гаур"
+      },
+      {
+        "lang": "vi",
+        "name": "Bò tót"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "印度野牛"
+      },
+      {
+        "lang": "zh",
+        "name": "印度野牛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bos frontalis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bos aegyptiacus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ancient Egyptian cattle"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bos (author)",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bos (Novibos)",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bos (Bos)",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bos (Bibos)",
+    "common_names": []
+  }
+]

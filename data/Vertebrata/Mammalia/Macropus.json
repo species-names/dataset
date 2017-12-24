@@ -1,0 +1,501 @@
+[
+  {
+    "scientific_name": "Macropus rufus",
+    "common_names": [
+      {
+        "lang": "pl",
+        "name": "Kangur rudy",
+        "synonyms": [
+          "czerwony kangur olbrzymi"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Canguru-vermelho"
+      },
+      {
+        "lang": "en",
+        "name": "Red Kangaroo"
+      },
+      {
+        "lang": "ja",
+        "name": "アカカンガルー"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus rufogriseus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Валаби на Бенет"
+      },
+      {
+        "lang": "ca",
+        "name": "Ualabi de coll vermell"
+      },
+      {
+        "lang": "cs",
+        "name": "Klokan rudokrký"
+      },
+      {
+        "lang": "de",
+        "name": "Rotnackenwallaby"
+      },
+      {
+        "lang": "en",
+        "name": "Red-necked Wallaby"
+      },
+      {
+        "lang": "fi",
+        "name": "Punakaulakenguru"
+      },
+      {
+        "lang": "fr",
+        "name": "Wallaby de Bennett"
+      },
+      {
+        "lang": "he",
+        "name": "וולבי אדום צוואר"
+      },
+      {
+        "lang": "hu",
+        "name": "Bennett-kenguru",
+        "synonyms": [
+          "vörösnyakú wallaby"
+        ]
+      },
+      {
+        "lang": "mk",
+        "name": "Црвеношиесто валаби"
+      },
+      {
+        "lang": "ja",
+        "name": "アカクビワラビー"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkarusvė kengūra"
+      },
+      {
+        "lang": "nl",
+        "name": "Bennettwallabie"
+      },
+      {
+        "lang": "pl",
+        "name": "Walabia Bennetta"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödhalsad vallaby"
+      },
+      {
+        "lang": "zh",
+        "name": "紅頸袋鼠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus robustus",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Adi kenquru"
+      },
+      {
+        "lang": "br",
+        "name": "Wallarou arreter"
+      },
+      {
+        "lang": "ca",
+        "name": "Cangur oriental"
+      },
+      {
+        "lang": "cs",
+        "name": "Klokan horský"
+      },
+      {
+        "lang": "de",
+        "name": "Bergkänguru"
+      },
+      {
+        "lang": "en",
+        "name": "Common wallaroo"
+      },
+      {
+        "lang": "es",
+        "name": "Walaro Oriental"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuorikenguru"
+      },
+      {
+        "lang": "fr",
+        "name": "Wallaroo"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyi óriáskenguru"
+      },
+      {
+        "lang": "nl",
+        "name": "Wallaroe"
+      },
+      {
+        "lang": "pl",
+        "name": "Kangur górski"
+      },
+      {
+        "lang": "ru",
+        "name": "Горный кенгуру"
+      },
+      {
+        "lang": "simple",
+        "name": "Eastern Wallaroo"
+      },
+      {
+        "lang": "sk",
+        "name": "Kengura horská"
+      },
+      {
+        "lang": "sv",
+        "name": "Vallaro"
+      },
+      {
+        "lang": "ta",
+        "name": "வால்லரு"
+      },
+      {
+        "lang": "uk",
+        "name": "Валару звичайний"
+      },
+      {
+        "lang": "zh",
+        "name": "岩大袋鼠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus parryi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pretty-faced Wallaby"
+      },
+      {
+        "lang": "ja",
+        "name": "エレガントワラビー"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus parma",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Wallabi Parma"
+      },
+      {
+        "lang": "ca",
+        "name": "Ualabi de Parma"
+      },
+      {
+        "lang": "cs",
+        "name": "Klokan parma"
+      },
+      {
+        "lang": "de",
+        "name": "Parmawallaby"
+      },
+      {
+        "lang": "en",
+        "name": "Parma Wallaby"
+      },
+      {
+        "lang": "fi",
+        "name": "Parmavallabi"
+      },
+      {
+        "lang": "fr",
+        "name": "Wallaby de Parma"
+      },
+      {
+        "lang": "hu",
+        "name": "Parma-kenguru"
+      },
+      {
+        "lang": "ja",
+        "name": "パルマヤブワラビー"
+      },
+      {
+        "lang": "nl",
+        "name": "Parmawallabie"
+      },
+      {
+        "lang": "pl",
+        "name": "Kangur parma"
+      },
+      {
+        "lang": "sk",
+        "name": "Kengura parma"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus irma",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Brush Wallaby"
+      },
+      {
+        "lang": "ja",
+        "name": "クロテワラビー"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus greyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Toolache Wallaby"
+      },
+      {
+        "lang": "ja",
+        "name": "シマワラビー"
+      },
+      {
+        "lang": "fi",
+        "name": "Hietikkokenguru"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus giganteus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Klokan obrovský"
+      },
+      {
+        "lang": "en",
+        "name": "Eastern Grey Kangaroo"
+      },
+      {
+        "lang": "fr",
+        "name": "Kangourou géant"
+      },
+      {
+        "lang": "it",
+        "name": "canguro gigante"
+      },
+      {
+        "lang": "ja",
+        "name": "オオカンガルー"
+      },
+      {
+        "lang": "pl",
+        "name": "Kangur olbrzymi",
+        "synonyms": [
+          "szary kangur olbrzymi"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "canguru-gigante"
+      },
+      {
+        "lang": "tr",
+        "name": "Doğu boz kangurusu"
+      },
+      {
+        "lang": "ko",
+        "name": "큰캥거루"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus fuliginosus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Grey Kangaroo"
+      },
+      {
+        "lang": "fr",
+        "name": "Kangourou gris"
+      },
+      {
+        "lang": "ja",
+        "name": "クロカンガルー"
+      },
+      {
+        "lang": "pl",
+        "name": "Kangur szary"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus eugenii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Klokan dama"
+      },
+      {
+        "lang": "de",
+        "name": "Derbywallaby"
+      },
+      {
+        "lang": "en",
+        "name": "Tammar Wallaby"
+      },
+      {
+        "lang": "fr",
+        "name": "wallaby de l'ile Eugène"
+      },
+      {
+        "lang": "ja",
+        "name": "ダマヤブワラビー"
+      },
+      {
+        "lang": "nl",
+        "name": "Tammarwallabie"
+      },
+      {
+        "lang": "pl",
+        "name": "Walabia dama"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus dorsalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-striped Wallaby"
+      },
+      {
+        "lang": "fr",
+        "name": "wallaby à raie noire"
+      },
+      {
+        "lang": "pl",
+        "name": "Walabia pasmowa"
+      },
+      {
+        "lang": "ja",
+        "name": "セスジワラビー"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus bernardus",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "クロワラルー"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus antilopinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Antilopine Kangaroo"
+      },
+      {
+        "lang": "fr",
+        "name": "kangourou antilope"
+      },
+      {
+        "lang": "ja",
+        "name": "アカワラルー"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Macropus agilis",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Cəld vallabi"
+      },
+      {
+        "lang": "azb",
+        "name": "جلد واللابی"
+      },
+      {
+        "lang": "br",
+        "name": "Wallabi ouesk"
+      },
+      {
+        "lang": "ca",
+        "name": "Ualabi àgil"
+      },
+      {
+        "lang": "cs",
+        "name": "Klokan hbitý"
+      },
+      {
+        "lang": "de",
+        "name": "Flinkwallaby"
+      },
+      {
+        "lang": "en",
+        "name": "Agile Wallaby"
+      },
+      {
+        "lang": "es",
+        "name": "Ualabí ágil"
+      },
+      {
+        "lang": "fa",
+        "name": "والابی چابک"
+      },
+      {
+        "lang": "fr",
+        "name": "Wallaby agile"
+      },
+      {
+        "lang": "hu",
+        "name": "Fürge wallaby"
+      },
+      {
+        "lang": "it",
+        "name": "Wallaby agile"
+      },
+      {
+        "lang": "ja",
+        "name": "スナイロワラビー"
+      },
+      {
+        "lang": "ko",
+        "name": "날쌘왈라비"
+      },
+      {
+        "lang": "nl",
+        "name": "Zandwallaby"
+      },
+      {
+        "lang": "pl",
+        "name": "Kangur smukły"
+      },
+      {
+        "lang": "pnb",
+        "name": "پھرتیلا ولابائی"
+      },
+      {
+        "lang": "ru",
+        "name": "Прыткий валлаби"
+      },
+      {
+        "lang": "uk",
+        "name": "Кенгуру прудкий"
+      }
+    ]
+  }
+]

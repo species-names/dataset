@@ -1,0 +1,356 @@
+[
+  {
+    "scientific_name": "Vicugna vicugna",
+    "common_names": [
+      {
+        "lang": "bar",
+        "name": "Vikunja"
+      },
+      {
+        "lang": "ca",
+        "name": "Vicunya"
+      },
+      {
+        "lang": "cs",
+        "name": "Vikuňa"
+      },
+      {
+        "lang": "de",
+        "name": "Vikunja"
+      },
+      {
+        "lang": "en",
+        "name": "Vicuña"
+      },
+      {
+        "lang": "es",
+        "name": "Vicuña"
+      },
+      {
+        "lang": "eo",
+        "name": "Vikuno"
+      },
+      {
+        "lang": "eu",
+        "name": "Bikuina"
+      },
+      {
+        "lang": "fa",
+        "name": "ویکونیا"
+      },
+      {
+        "lang": "fr",
+        "name": "Vigogne"
+      },
+      {
+        "lang": "ia",
+        "name": "Vicunia"
+      },
+      {
+        "lang": "it",
+        "name": "Vigogna"
+      },
+      {
+        "lang": "he",
+        "name": "ויקוניה"
+      },
+      {
+        "lang": "hu",
+        "name": "Vikunya"
+      },
+      {
+        "lang": "lb",
+        "name": "Vicuña"
+      },
+      {
+        "lang": "lt",
+        "name": "Vikunija"
+      },
+      {
+        "lang": "mk",
+        "name": "Викуња"
+      },
+      {
+        "lang": "nl",
+        "name": "Vicuña"
+      },
+      {
+        "lang": "ja",
+        "name": "ビクーニャ"
+      },
+      {
+        "lang": "nn",
+        "name": "Vikunja"
+      },
+      {
+        "lang": "pl",
+        "name": "Wigoń"
+      },
+      {
+        "lang": "pt",
+        "name": "Vicunha"
+      },
+      {
+        "lang": "qu",
+        "name": "Wik'uña"
+      },
+      {
+        "lang": "ru",
+        "name": "Викунья"
+      },
+      {
+        "lang": "fi",
+        "name": "Vikunja"
+      },
+      {
+        "lang": "sv",
+        "name": "Vikunja"
+      },
+      {
+        "lang": "tr",
+        "name": "Vikunya"
+      },
+      {
+        "lang": "zh",
+        "name": "小羊駝"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vicugna pacos",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "ألبكة"
+      },
+      {
+        "lang": "ay",
+        "name": "Allpachu"
+      },
+      {
+        "lang": "az",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "be",
+        "name": "Альпака"
+      },
+      {
+        "lang": "bg",
+        "name": "Алпака"
+      },
+      {
+        "lang": "bn",
+        "name": "আলপাকা"
+      },
+      {
+        "lang": "br",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "ca",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "cs",
+        "name": "Lama alpaka"
+      },
+      {
+        "lang": "de",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "en",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "eo",
+        "name": "Alpako"
+      },
+      {
+        "lang": "es",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "eu",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "fa",
+        "name": "آلپاکا"
+      },
+      {
+        "lang": "fi",
+        "name": "Alpakka"
+      },
+      {
+        "lang": "fr",
+        "name": "Alpaga"
+      },
+      {
+        "lang": "fur",
+        "name": "Alpache"
+      },
+      {
+        "lang": "ga",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "gd",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "he",
+        "name": "אלפקה"
+      },
+      {
+        "lang": "hr",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "hu",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "ia",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "id",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "io",
+        "name": "Alpako"
+      },
+      {
+        "lang": "it",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "ja",
+        "name": "アルパカ"
+      },
+      {
+        "lang": "ka",
+        "name": "ალპაკა"
+      },
+      {
+        "lang": "ko",
+        "name": "알파카"
+      },
+      {
+        "lang": "lt",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "mhr",
+        "name": "Альпака"
+      },
+      {
+        "lang": "mk",
+        "name": "Алпака"
+      },
+      {
+        "lang": "ml",
+        "name": "അൽപക"
+      },
+      {
+        "lang": "mr",
+        "name": "अल्पाका"
+      },
+      {
+        "lang": "ms",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "nah",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "nl",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "no",
+        "name": "Alpakka"
+      },
+      {
+        "lang": "nv",
+        "name": "Shádiʼááhdę́ę́ʼ tłʼízíʼilí"
+      },
+      {
+        "lang": "pl",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "pt",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "qu",
+        "name": "Paqucha"
+      },
+      {
+        "lang": "ro",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "ru",
+        "name": "Альпака"
+      },
+      {
+        "lang": "simple",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "sl",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "sr",
+        "name": "Алпака"
+      },
+      {
+        "lang": "sv",
+        "name": "Alpacka"
+      },
+      {
+        "lang": "ta",
+        "name": "அல்ப்பாக்கா"
+      },
+      {
+        "lang": "th",
+        "name": "อัลปากา"
+      },
+      {
+        "lang": "tr",
+        "name": "Alpaka"
+      },
+      {
+        "lang": "udm",
+        "name": "Альпака"
+      },
+      {
+        "lang": "uk",
+        "name": "Альпака"
+      },
+      {
+        "lang": "vi",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "vls",
+        "name": "Alpaca"
+      },
+      {
+        "lang": "zh",
+        "name": "羊驼"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Alpaca"
+      }
+    ]
+  }
+]

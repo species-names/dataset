@@ -1,0 +1,257 @@
+[
+  {
+    "scientific_name": "Lagenorhynchus harmatuki",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Lagenorhynchus obscurus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Schwarzdelfin"
+      },
+      {
+        "lang": "en",
+        "name": "Dusky Dolphin"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustadelfiini"
+      },
+      {
+        "lang": "es",
+        "name": "Delfín Oscuro"
+      },
+      {
+        "lang": "hu",
+        "name": "Sötét delfin",
+        "synonyms": [
+          "fakó delfin"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ハラジロカマイルカ"
+      },
+      {
+        "lang": "nl",
+        "name": "Donkergestreepte dolfijn"
+      },
+      {
+        "lang": "pl",
+        "name": "Delfin ciemny"
+      },
+      {
+        "lang": "pt",
+        "name": "Golfinho-do-crepúsculo"
+      },
+      {
+        "lang": "sv",
+        "name": "Södra Atlantvitsiding",
+        "synonyms": [
+          "Mörkdelfin"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Gölgeli yunus"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lagenorhynchus obliquidens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pacific White-sided Dolphin"
+      },
+      {
+        "lang": "es",
+        "name": "Delfín de costados blancos del Pacífico"
+      },
+      {
+        "lang": "fi",
+        "name": "Juovadelfiini"
+      },
+      {
+        "lang": "fr",
+        "name": "Dauphin à flancs blancs du Pacifique"
+      },
+      {
+        "lang": "hu",
+        "name": "Csendes-óceáni fehérsávos delfin",
+        "synonyms": [
+          "csendes-óceáni delfin"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "カマイルカ"
+      },
+      {
+        "lang": "tr",
+        "name": "Pasifik beyaz yanlı yunusu"
+      },
+      {
+        "lang": "zh",
+        "name": "太平洋斑纹海豚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lagenorhynchus cruciger",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hourglass Dolphin"
+      },
+      {
+        "lang": "fi",
+        "name": "Tiimalasidelfiini"
+      },
+      {
+        "lang": "hu",
+        "name": "Szalagos delfin",
+        "synonyms": [
+          "homokóradelfin"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ダンダラカマイルカ"
+      },
+      {
+        "lang": "sv",
+        "name": "Timglasdelfin"
+      },
+      {
+        "lang": "tr",
+        "name": "Kum saati yunusu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lagenorhynchus australis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Peale's Dolphin",
+        "synonyms": [
+          "Black-chinned Dolphin"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Mustaposkidelfiini"
+      },
+      {
+        "lang": "hu",
+        "name": "Peale-delfin"
+      },
+      {
+        "lang": "ja",
+        "name": "ミナミカマイルカ"
+      },
+      {
+        "lang": "sv",
+        "name": "Peales delfin"
+      },
+      {
+        "lang": "tr",
+        "name": "Siyah çeneli yunus"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lagenorhynchus albirostris",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Hvidnæse"
+      },
+      {
+        "lang": "de",
+        "name": "Weißschnauzendelfin"
+      },
+      {
+        "lang": "en",
+        "name": "White-beaked Dolphin"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkokuonodelfiini"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehércsőrű delfin"
+      },
+      {
+        "lang": "ja",
+        "name": "ハナジロカマイルカ"
+      },
+      {
+        "lang": "is",
+        "name": "Blettahnýðir",
+        "synonyms": [
+          "Hnýðingur"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Witsnuitdolfijn"
+      },
+      {
+        "lang": "pt",
+        "name": "Golfinho-de-bico-branco"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitnosdelfin"
+      },
+      {
+        "lang": "tr",
+        "name": "Beyaz burunlu yunus"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lagenorhynchus acutus",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Hvidskæving"
+      },
+      {
+        "lang": "en",
+        "name": "Atlantic White-sided Dolphin"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkokuvedelfiini"
+      },
+      {
+        "lang": "gl",
+        "name": "Arroaz Pinto"
+      },
+      {
+        "lang": "hu",
+        "name": "Atlanti fehérsávos delfin",
+        "synonyms": [
+          "fehéroldalú delfin"
+        ]
+      },
+      {
+        "lang": "is",
+        "name": "Leiftur"
+      },
+      {
+        "lang": "ja",
+        "name": "タイセイヨウカマイルカ"
+      },
+      {
+        "lang": "tr",
+        "name": "Atlantik beyaz yanlı yunusu"
+      }
+    ]
+  }
+]

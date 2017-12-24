@@ -1,0 +1,70 @@
+[
+  {
+    "scientific_name": "Connochaetes taurinus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "النُّو الأَزرَق"
+      },
+      {
+        "lang": "cs",
+        "name": "Pakůň žíhaný"
+      },
+      {
+        "lang": "en",
+        "name": "Blue Wildebeest",
+        "synonyms": [
+          "Brindled Gnu"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Juovagnuu",
+        "synonyms": [
+          "Juovagnu"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Csíkos gnú"
+      },
+      {
+        "lang": "ja",
+        "name": "オグロヌー"
+      },
+      {
+        "lang": "sv",
+        "name": "Strimmig gnu"
+      },
+      {
+        "lang": "es",
+        "name": "Ñu azul o listado"
+      },
+      {
+        "lang": "th",
+        "name": "วิลเดอบีสต์เคราขาว",
+        "synonyms": [
+          "วิลเดอบีสต์สีน้ำเงิน",
+          "วิลเดอบีสต์ธรรมดา"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Connochaetes gnou",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "オジロヌー"
+      },
+      {
+        "lang": "es",
+        "name": "Ñu negro o de cola blanca"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfarkú gnú"
+      }
+    ]
+  }
+]

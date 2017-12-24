@@ -1,0 +1,71 @@
+[
+  {
+    "scientific_name": "Lissodelphis thicolea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Lissodelphis peronii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Southern Right Whale Dolphin"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelänvalasdelfiini"
+      },
+      {
+        "lang": "hu",
+        "name": "Déli delfin",
+        "synonyms": [
+          "déli felemásdelfin"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "シロハラセミイルカ"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydlig rätvalsdelfin"
+      },
+      {
+        "lang": "tr",
+        "name": "Güney gerçek balina yunusu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lissodelphis borealis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Right Whale Dolphin"
+      },
+      {
+        "lang": "fi",
+        "name": "Pohjoisenvalasdelfiini"
+      },
+      {
+        "lang": "hu",
+        "name": "Északi delfin",
+        "synonyms": [
+          "fekete felemásdelfin",
+          "északi felemásdelfin"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "セミイルカ"
+      },
+      {
+        "lang": "sv",
+        "name": "Nordlig rätvalsdelfin"
+      },
+      {
+        "lang": "tr",
+        "name": "Kuzey gerçek balina yunusu"
+      }
+    ]
+  }
+]

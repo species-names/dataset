@@ -1,0 +1,398 @@
+[
+  {
+    "scientific_name": "Lama guanicoe",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Guanac"
+      },
+      {
+        "lang": "cs",
+        "name": "Guanako"
+      },
+      {
+        "lang": "de",
+        "name": "Guanako"
+      },
+      {
+        "lang": "en",
+        "name": "Guanaco"
+      },
+      {
+        "lang": "es",
+        "name": "Guanaco"
+      },
+      {
+        "lang": "eo",
+        "name": "Gvanako"
+      },
+      {
+        "lang": "eu",
+        "name": "Guanakoa"
+      },
+      {
+        "lang": "fa",
+        "name": "گواناکو"
+      },
+      {
+        "lang": "fr",
+        "name": "Guanaco"
+      },
+      {
+        "lang": "hr",
+        "name": "Gvanako"
+      },
+      {
+        "lang": "hu",
+        "name": "Guanakó"
+      },
+      {
+        "lang": "ia",
+        "name": "Guanaco"
+      },
+      {
+        "lang": "it",
+        "name": "Guanaco"
+      },
+      {
+        "lang": "he",
+        "name": "גואנקו"
+      },
+      {
+        "lang": "lt",
+        "name": "Guanakas"
+      },
+      {
+        "lang": "mk",
+        "name": "Гванако"
+      },
+      {
+        "lang": "nl",
+        "name": "Guanaco"
+      },
+      {
+        "lang": "ja",
+        "name": "グアナコ"
+      },
+      {
+        "lang": "pl",
+        "name": "Gwanako"
+      },
+      {
+        "lang": "pt",
+        "name": "Guanaco"
+      },
+      {
+        "lang": "qu",
+        "name": "Wanaku"
+      },
+      {
+        "lang": "ru",
+        "name": "Гуанако"
+      },
+      {
+        "lang": "sl",
+        "name": "Gvanako"
+      },
+      {
+        "lang": "fi",
+        "name": "Guanako"
+      },
+      {
+        "lang": "sv",
+        "name": "Guanaco"
+      },
+      {
+        "lang": "tr",
+        "name": "Guanako"
+      },
+      {
+        "lang": "zh",
+        "name": "原駝"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lama glama",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "لاما"
+      },
+      {
+        "lang": "ay",
+        "name": "Qawra"
+      },
+      {
+        "lang": "az",
+        "name": "Lama"
+      },
+      {
+        "lang": "bn",
+        "name": "লামা (প্রাণী)"
+      },
+      {
+        "lang": "be",
+        "name": "Лама",
+        "synonyms": [
+          "жывёла"
+        ]
+      },
+      {
+        "lang": "bg",
+        "name": "Лама"
+      },
+      {
+        "lang": "ca",
+        "name": "Llama"
+      },
+      {
+        "lang": "cs",
+        "name": "Lama krotká"
+      },
+      {
+        "lang": "cy",
+        "name": "Lama"
+      },
+      {
+        "lang": "da",
+        "name": "Lama"
+      },
+      {
+        "lang": "de",
+        "name": "Lama"
+      },
+      {
+        "lang": "en",
+        "name": "Llama"
+      },
+      {
+        "lang": "nv",
+        "name": "Shádiʼááhdę́ę́ʼ tłʼízí"
+      },
+      {
+        "lang": "et",
+        "name": "Laama"
+      },
+      {
+        "lang": "el",
+        "name": "Λάμα"
+      },
+      {
+        "lang": "es",
+        "name": "Llama"
+      },
+      {
+        "lang": "eo",
+        "name": "Lamo"
+      },
+      {
+        "lang": "fa",
+        "name": "لاما"
+      },
+      {
+        "lang": "fr",
+        "name": "Lama"
+      },
+      {
+        "lang": "ga",
+        "name": "Láma"
+      },
+      {
+        "lang": "gl",
+        "name": "Llama"
+      },
+      {
+        "lang": "ko",
+        "name": "라마"
+      },
+      {
+        "lang": "hi",
+        "name": "लामा (पशु)"
+      },
+      {
+        "lang": "hr",
+        "name": "Ljama"
+      },
+      {
+        "lang": "io",
+        "name": "Lamao"
+      },
+      {
+        "lang": "id",
+        "name": "Llama"
+      },
+      {
+        "lang": "ia",
+        "name": "Llama"
+      },
+      {
+        "lang": "it",
+        "name": "Lama"
+      },
+      {
+        "lang": "he",
+        "name": "למה מצויה"
+      },
+      {
+        "lang": "jv",
+        "name": "Llama"
+      },
+      {
+        "lang": "ht",
+        "name": "Lama"
+      },
+      {
+        "lang": "lv",
+        "name": "Lama"
+      },
+      {
+        "lang": "lt",
+        "name": "Lama"
+      },
+      {
+        "lang": "hu",
+        "name": "Láma"
+      },
+      {
+        "lang": "mk",
+        "name": "Лама"
+      },
+      {
+        "lang": "ml",
+        "name": "ല്ലാമ"
+      },
+      {
+        "lang": "mr",
+        "name": "लामा"
+      },
+      {
+        "lang": "ms",
+        "name": "Llama"
+      },
+      {
+        "lang": "mn",
+        "name": "Лам гөрөөс"
+      },
+      {
+        "lang": "my",
+        "name": "လာမာကုလားအုပ်"
+      },
+      {
+        "lang": "nah",
+        "name": "Yama"
+      },
+      {
+        "lang": "nl",
+        "name": "Lama"
+      },
+      {
+        "lang": "ja",
+        "name": "リャマ"
+      },
+      {
+        "lang": "no",
+        "name": "Lama"
+      },
+      {
+        "lang": "nn",
+        "name": "Lama"
+      },
+      {
+        "lang": "mhr",
+        "name": "Лама"
+      },
+      {
+        "lang": "pl",
+        "name": "Lama"
+      },
+      {
+        "lang": "pt",
+        "name": "Lhama"
+      },
+      {
+        "lang": "ro",
+        "name": "Lamă"
+      },
+      {
+        "lang": "qu",
+        "name": "Llama"
+      },
+      {
+        "lang": "ru",
+        "name": "Лама"
+      },
+      {
+        "lang": "simple",
+        "name": "Llama"
+      },
+      {
+        "lang": "sk",
+        "name": "Lama krotká"
+      },
+      {
+        "lang": "sl",
+        "name": "Lama"
+      },
+      {
+        "lang": "szl",
+        "name": "Lama"
+      },
+      {
+        "lang": "sr",
+        "name": "Лама"
+      },
+      {
+        "lang": "sh",
+        "name": "Lama"
+      },
+      {
+        "lang": "fi",
+        "name": "Laama"
+      },
+      {
+        "lang": "sv",
+        "name": "Lama"
+      },
+      {
+        "lang": "ta",
+        "name": "லாமா"
+      },
+      {
+        "lang": "vi",
+        "name": "Llama"
+      },
+      {
+        "lang": "th",
+        "name": "ยามา"
+      },
+      {
+        "lang": "tr",
+        "name": "Lama"
+      },
+      {
+        "lang": "udm",
+        "name": "Лама"
+      },
+      {
+        "lang": "uk",
+        "name": "Лама"
+      },
+      {
+        "lang": "vls",
+        "name": "Lama"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Lama"
+      },
+      {
+        "lang": "zh",
+        "name": "大羊駝",
+        "synonyms": [
+          "家羊駝"
+        ]
+      }
+    ]
+  }
+]

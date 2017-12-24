@@ -1,0 +1,110 @@
+[
+  {
+    "scientific_name": "Geomys tropicalis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Pytlonoš tropický"
+      },
+      {
+        "lang": "en",
+        "name": "Tropical Pocket Gopher"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geomys texensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Central Texas Pocket Gopher"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geomys pinetis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Pytlonoš floridský"
+      },
+      {
+        "lang": "en",
+        "name": "Southeastern Pocket Gopher",
+        "synonyms": [
+          "Cumberland Island Picket Gopher"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geomys personatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Pytlonoš texaský"
+      },
+      {
+        "lang": "en",
+        "name": "Texas Pocket Gopher"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geomys knoxjonesi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Knox Jones’s Pocket Gopher"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geomys bursarius",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Pytlonoš nížinný"
+      },
+      {
+        "lang": "en",
+        "name": "Plains Pocket Gopher"
+      },
+      {
+        "lang": "pl",
+        "name": "Goffer"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geomys breviceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Baird’s Pocket Gopher"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geomys attwateri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Attwater's pocket gopher"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geomys arenarius",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Pytlonoš pouštní"
+      },
+      {
+        "lang": "en",
+        "name": "Desert Pocket Gopher"
+      }
+    ]
+  }
+]

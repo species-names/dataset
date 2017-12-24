@@ -1,0 +1,146 @@
+[
+  {
+    "scientific_name": "Eubalaena shinshuensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Eubalaena japonica",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Pazifischer Nordkaper"
+      },
+      {
+        "lang": "en",
+        "name": "North Pacific Right Whale",
+        "synonyms": [
+          "Pacific Northern Right Whale"
+        ]
+      },
+      {
+        "lang": "gl",
+        "name": "Balea franca"
+      },
+      {
+        "lang": "it",
+        "name": "balena franca boreale del Pacifico"
+      },
+      {
+        "lang": "pt",
+        "name": "Baleia-franca boreal"
+      },
+      {
+        "lang": "ru",
+        "name": "Японский кит"
+      },
+      {
+        "lang": "tr",
+        "name": "Kuzey Pasifik gerçek balinası"
+      },
+      {
+        "lang": "zh",
+        "name": "北太平洋露脊鯨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eubalaena glacialis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Velryba černá"
+      },
+      {
+        "lang": "de",
+        "name": "Atlantischer Nordkaper"
+      },
+      {
+        "lang": "es",
+        "name": "Ballena vasca"
+      },
+      {
+        "lang": "en",
+        "name": "Atlantic Northern Right Whale",
+        "synonyms": [
+          "North Atlantic Right Whale"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Mustavalas"
+      },
+      {
+        "lang": "gl",
+        "name": "Balea Vasca"
+      },
+      {
+        "lang": "hu",
+        "name": "Északi simabálna"
+      },
+      {
+        "lang": "is",
+        "name": "Sléttbakur"
+      },
+      {
+        "lang": "ja",
+        "name": "タイセイヨウセミクジラ"
+      },
+      {
+        "lang": "ko",
+        "name": "북대서양참고래"
+      },
+      {
+        "lang": "ru",
+        "name": "Южный (гладкий) кит"
+      },
+      {
+        "lang": "pt",
+        "name": "baleia-franca boreal"
+      },
+      {
+        "lang": "sk",
+        "name": "Veľryba biskajská"
+      },
+      {
+        "lang": "tr",
+        "name": "Buzul balinası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eubalaena australis",
+    "common_names": [
+      {
+        "lang": "bar",
+        "name": "Sydkoper"
+      },
+      {
+        "lang": "de",
+        "name": "Südkaper"
+      },
+      {
+        "lang": "es",
+        "name": "Ballena franca austral"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Right Whale"
+      },
+      {
+        "lang": "hu",
+        "name": "Déli simabálna"
+      },
+      {
+        "lang": "pt",
+        "name": "Baleia-franca-austral",
+        "synonyms": [
+          "Baleia-franca-do-sul"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Güney gerçek balinası"
+      }
+    ]
+  }
+]

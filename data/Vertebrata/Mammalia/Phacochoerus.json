@@ -1,0 +1,95 @@
+[
+  {
+    "scientific_name": "Phacochoerus africanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Warthog"
+      },
+      {
+        "lang": "pl",
+        "name": "Guziec"
+      },
+      {
+        "lang": "fr",
+        "name": "Phacochère commun"
+      },
+      {
+        "lang": "es",
+        "name": "Facóquero común"
+      },
+      {
+        "lang": "de",
+        "name": "Warzenschwein"
+      },
+      {
+        "lang": "hr",
+        "name": "Bradavičasta svinja"
+      },
+      {
+        "lang": "it",
+        "name": "Facocero"
+      },
+      {
+        "lang": "ru",
+        "name": "Африка́нский борода́вочник"
+      },
+      {
+        "lang": "pt",
+        "name": "Facóquero"
+      },
+      {
+        "lang": "nl",
+        "name": "Reuzenboszwijn"
+      },
+      {
+        "lang": "hu",
+        "name": "Szavannai varacskosdisznó",
+        "synonyms": [
+          "közönséges varacskosdisznó"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "疣豬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phacochoerus aethiopicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Desert Warthog"
+      },
+      {
+        "lang": "es",
+        "name": "Facóquero oriental"
+      },
+      {
+        "lang": "hu",
+        "name": "Sivatagi varacskosdisznó"
+      },
+      {
+        "lang": "ja",
+        "name": "イボイノシシ"
+      },
+      {
+        "lang": "ko",
+        "name": "혹멧돼지"
+      },
+      {
+        "lang": "pl",
+        "name": "fakoszer"
+      },
+      {
+        "lang": "pt",
+        "name": "Javali do deserto"
+      },
+      {
+        "lang": "sv",
+        "name": "ökenvårtsvin"
+      }
+    ]
+  }
+]

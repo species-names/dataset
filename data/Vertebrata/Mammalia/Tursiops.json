@@ -1,0 +1,159 @@
+[
+  {
+    "scientific_name": "Tursiops truncatus",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Øresvin"
+      },
+      {
+        "lang": "bg",
+        "name": "Афала"
+      },
+      {
+        "lang": "de",
+        "name": "Großer Tümmler"
+      },
+      {
+        "lang": "en",
+        "name": "Bottlenose dolphin",
+        "synonyms": [
+          "Common Bottlenose Dolphin"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Bufeo",
+        "synonyms": [
+          "Delfín Mular",
+          "Delfín Nariz de Botella"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Pullokuonodelfiini"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand dauphin"
+      },
+      {
+        "lang": "gl",
+        "name": "Arroaz"
+      },
+      {
+        "lang": "he",
+        "name": "דולפינן ים תיכוני"
+      },
+      {
+        "lang": "hr",
+        "name": "Dobri dupin"
+      },
+      {
+        "lang": "hu",
+        "name": "Palackorrú delfin"
+      },
+      {
+        "lang": "ja",
+        "name": "ハンドウイルカ"
+      },
+      {
+        "lang": "is",
+        "name": "Stökkull"
+      },
+      {
+        "lang": "it",
+        "name": "Tursiope"
+      },
+      {
+        "lang": "li",
+        "name": "Tummeleer"
+      },
+      {
+        "lang": "nl",
+        "name": "Tuimelaar"
+      },
+      {
+        "lang": "no",
+        "name": "Tumler"
+      },
+      {
+        "lang": "th",
+        "name": "โลมาปากขวดธรรมดา",
+        "synonyms": [
+          "โลมาปากขวด"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Butlonos"
+      },
+      {
+        "lang": "pt",
+        "name": "Golfinho-comum",
+        "synonyms": [
+          "Roaz-Corvineiro"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Öresvin",
+        "synonyms": [
+          "flasknosdelfin"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Afalina",
+        "synonyms": [
+          "Şişe burunlu yunus"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "宽吻海豚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tursiops australis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tursiops aduncus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indo-Pacific Bottlenose Dolphin"
+      },
+      {
+        "lang": "es",
+        "name": "Tursión Indo-Pacífico"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand dauphin Indo-Pacifique"
+      },
+      {
+        "lang": "hu",
+        "name": "Indiai-óceáni palackorrú delfin"
+      },
+      {
+        "lang": "ja",
+        "name": "ミナミハンドウイルカ"
+      },
+      {
+        "lang": "tr",
+        "name": "Hint-Pasifik şişe burunlu yunusu"
+      },
+      {
+        "lang": "th",
+        "name": "โลมาปากขวดอินโดแปซิฟิก"
+      },
+      {
+        "lang": "zh",
+        "name": "印度洋瓶鼻海豚"
+      }
+    ]
+  }
+]

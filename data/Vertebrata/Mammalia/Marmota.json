@@ -1,0 +1,383 @@
+[
+  {
+    "scientific_name": "Marmota kastschenkoi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Marmota vancouverensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Vancouver-Murmeltier"
+      },
+      {
+        "lang": "en",
+        "name": "Vancouver Island Marmot"
+      },
+      {
+        "lang": "pl",
+        "name": "Świstak z Vancouver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota sibirica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tarbagan Marmot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota olympus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Olympic Marmot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota monax",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "جرذ الأرض"
+      },
+      {
+        "lang": "az",
+        "name": "Meşə marmotu"
+      },
+      {
+        "lang": "br",
+        "name": "Moregan ar c'hoadoù"
+      },
+      {
+        "lang": "da",
+        "name": "Skovmurmeldyr"
+      },
+      {
+        "lang": "pdc",
+        "name": "Grundsau"
+      },
+      {
+        "lang": "de",
+        "name": "Waldmurmeltier"
+      },
+      {
+        "lang": "en",
+        "name": "Groundhog",
+        "synonyms": [
+          "Woodchuck"
+        ]
+      },
+      {
+        "lang": "nv",
+        "name": "Dlǫ́ʼátsoh"
+      },
+      {
+        "lang": "et",
+        "name": "Metsümiseja"
+      },
+      {
+        "lang": "es",
+        "name": "Marmota canadiense"
+      },
+      {
+        "lang": "fr",
+        "name": "Marmotte commune"
+      },
+      {
+        "lang": "hy",
+        "name": "Մացառախոզ"
+      },
+      {
+        "lang": "id",
+        "name": "Marmot tanah"
+      },
+      {
+        "lang": "it",
+        "name": "Marmotta americana"
+      },
+      {
+        "lang": "he",
+        "name": "מרמיטה צפון אמריקאית"
+      },
+      {
+        "lang": "lt",
+        "name": "Miškinis švilpikas"
+      },
+      {
+        "lang": "hu",
+        "name": "Erdei mormota"
+      },
+      {
+        "lang": "nl",
+        "name": "Bosmarmot"
+      },
+      {
+        "lang": "cs",
+        "name": "Svišť lesní"
+      },
+      {
+        "lang": "cr",
+        "name": "ᐧᐄᓂᔥᒄ"
+      },
+      {
+        "lang": "no",
+        "name": "Skogmurmeldyr"
+      },
+      {
+        "lang": "pl",
+        "name": "Świszcz"
+      },
+      {
+        "lang": "ru",
+        "name": "Лесной сурок"
+      },
+      {
+        "lang": "simple",
+        "name": "Groundhog"
+      },
+      {
+        "lang": "fi",
+        "name": "Metsämurmeli"
+      },
+      {
+        "lang": "sv",
+        "name": "Skogsmurmeldjur"
+      },
+      {
+        "lang": "chy",
+        "name": "Séavóneške"
+      },
+      {
+        "lang": "uk",
+        "name": "Бабак лісовий"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲旱獺"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota menzbieri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Menzbier's Marmot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota marmota",
+    "common_names": [
+      {
+        "lang": "frp",
+        "name": "Marmota"
+      },
+      {
+        "lang": "az",
+        "name": "Alp marmotu"
+      },
+      {
+        "lang": "br",
+        "name": "Moregan an Alpoù"
+      },
+      {
+        "lang": "ca",
+        "name": "Marmota alpina"
+      },
+      {
+        "lang": "cs",
+        "name": "Svišť horský"
+      },
+      {
+        "lang": "de",
+        "name": "Alpenmurmeltier"
+      },
+      {
+        "lang": "en",
+        "name": "Alpine Marmot"
+      },
+      {
+        "lang": "es",
+        "name": "Marmota alpina"
+      },
+      {
+        "lang": "eu",
+        "name": "Marmota alpetar"
+      },
+      {
+        "lang": "fr",
+        "name": "Marmotte des Alpes"
+      },
+      {
+        "lang": "it",
+        "name": "Marmotta delle Alpi"
+      },
+      {
+        "lang": "ka",
+        "name": "ალპური ზაზუნა"
+      },
+      {
+        "lang": "lt",
+        "name": "Alpinis švilpikas"
+      },
+      {
+        "lang": "hu",
+        "name": "Havasi mormota"
+      },
+      {
+        "lang": "nl",
+        "name": "Alpenmarmot"
+      },
+      {
+        "lang": "pl",
+        "name": "Świstak alpejski"
+      },
+      {
+        "lang": "ro",
+        "name": "Marmota alpină"
+      },
+      {
+        "lang": "ru",
+        "name": "Альпийский сурок"
+      },
+      {
+        "lang": "simple",
+        "name": "Alpine marmot"
+      },
+      {
+        "lang": "sk",
+        "name": "Svišť vrchovský"
+      },
+      {
+        "lang": "sl",
+        "name": "Alpski svizec"
+      },
+      {
+        "lang": "sr",
+        "name": "Алпски мрмот"
+      },
+      {
+        "lang": "fi",
+        "name": "Alppimurmeli"
+      },
+      {
+        "lang": "sv",
+        "name": "Alpmurmeldjur"
+      },
+      {
+        "lang": "uk",
+        "name": "Бабак альпійський"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota himalayana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Himalayan Marmot"
+      },
+      {
+        "lang": "es",
+        "name": "Marmota del Himalaya"
+      },
+      {
+        "lang": "pl",
+        "name": "Świstak himalajski"
+      },
+      {
+        "lang": "sv",
+        "name": "Himalayamurmeldjur"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota flaviventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-bellied Marmot"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltavatsamurmeli"
+      },
+      {
+        "lang": "zh",
+        "name": "黃腹土撥鼠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota caudata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-tailed Marmot"
+      },
+      {
+        "lang": "pl",
+        "name": "Świstak długoogoniasty"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota camtschatica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-capped Marmot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota caligata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hoary Marmot"
+      },
+      {
+        "lang": "ru",
+        "name": "Седой сурок"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota broweri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Alaska Marmot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota bobak",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bobak Marmot"
+      },
+      {
+        "lang": "pl",
+        "name": "Bobak"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota baibacina",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gray Marmot"
+      }
+    ]
+  }
+]

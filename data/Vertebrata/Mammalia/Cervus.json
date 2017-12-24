@@ -1,0 +1,620 @@
+[
+  {
+    "scientific_name": "Cervus porcinus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cervus unicolor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sambar Deer"
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo sambar"
+      },
+      {
+        "lang": "fi",
+        "name": "Sambarhirvi"
+      },
+      {
+        "lang": "hu",
+        "name": "Számbárszarvas"
+      },
+      {
+        "lang": "ja",
+        "name": "サンバー"
+      },
+      {
+        "lang": "ko",
+        "name": "삼바"
+      },
+      {
+        "lang": "km",
+        "name": "ប្រើស"
+      },
+      {
+        "lang": "ms",
+        "name": "Rusa"
+      },
+      {
+        "lang": "tr",
+        "name": "Sambar"
+      },
+      {
+        "lang": "zh",
+        "name": "水鹿"
+      },
+      {
+        "lang": "th",
+        "name": "กวางม้า",
+        "synonyms": [
+          "กวางป่า",
+          "กวางแซมบาร์"
+        ]
+      },
+      {
+        "lang": "bn",
+        "name": "সম্বর হরিণ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cervus timorensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rusa Deer",
+        "synonyms": [
+          "Sunda Sambar"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Sambar o ciervo de Timor"
+      },
+      {
+        "lang": "fi",
+        "name": "Timorinhirvi",
+        "synonyms": [
+          "rusa"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Sörényes szarvas"
+      },
+      {
+        "lang": "th",
+        "name": "กวางรูซา",
+        "synonyms": [
+          "กวางรูซาชวา"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cervus schomburgki",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Schomburgk's Deer"
+      },
+      {
+        "lang": "fi",
+        "name": "Schomburgkinhirvi"
+      },
+      {
+        "lang": "hu",
+        "name": "Schomburgk-szarvas"
+      },
+      {
+        "lang": "ja",
+        "name": "ションブルクジカ"
+      },
+      {
+        "lang": "th",
+        "name": "สมัน",
+        "synonyms": [
+          "ฉมัน",
+          "เนื้อสมัน",
+          "กวางเขาสุ่ม"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cervus nippon",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Sika"
+      },
+      {
+        "lang": "de",
+        "name": "Sikahirsch"
+      },
+      {
+        "lang": "en",
+        "name": "Sika",
+        "synonyms": [
+          "Sika Deer"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo sica"
+      },
+      {
+        "lang": "fi",
+        "name": "Japaninhirvi",
+        "synonyms": [
+          "japaninpeura"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Cerf Sika"
+      },
+      {
+        "lang": "hu",
+        "name": "Szikaszarvas"
+      },
+      {
+        "lang": "ja",
+        "name": "ニホンジカ"
+      },
+      {
+        "lang": "ko",
+        "name": "사슴"
+      },
+      {
+        "lang": "th",
+        "name": "กวางซีก้า"
+      },
+      {
+        "lang": "pt",
+        "name": "Sika"
+      },
+      {
+        "lang": "sv",
+        "name": "Sikahjort"
+      },
+      {
+        "lang": "zh",
+        "name": "梅花鹿"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cervus mariannus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Philippine Sambar"
+      },
+      {
+        "lang": "es",
+        "name": "Sambar filipino"
+      },
+      {
+        "lang": "hu",
+        "name": "Fülöp-szigeteki számbárszarvas"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cervus eldii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eld's Deer",
+        "synonyms": [
+          "Brow-antlered Deer",
+          "Thamin"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Tamín o ciervo de Eld"
+      },
+      {
+        "lang": "fi",
+        "name": "Lyyrysarvi"
+      },
+      {
+        "lang": "hu",
+        "name": "Líraszarvas"
+      },
+      {
+        "lang": "ja",
+        "name": "ターミンジカ"
+      },
+      {
+        "lang": "th",
+        "name": "ละอง",
+        "synonyms": [
+          "ละมั่ง"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cervus elaphus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooihert"
+      },
+      {
+        "lang": "ar",
+        "name": "أيل أحمر"
+      },
+      {
+        "lang": "az",
+        "name": "Nəcib maral"
+      },
+      {
+        "lang": "ba",
+        "name": "Болан"
+      },
+      {
+        "lang": "bar",
+        "name": "Róudhirsch"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Elnis"
+      },
+      {
+        "lang": "be",
+        "name": "Алень высакародны"
+      },
+      {
+        "lang": "bg",
+        "name": "Благороден елен"
+      },
+      {
+        "lang": "br",
+        "name": "Karv ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Cérvol comú"
+      },
+      {
+        "lang": "ce",
+        "name": "Гlела"
+      },
+      {
+        "lang": "cs",
+        "name": "Jelen lesní"
+      },
+      {
+        "lang": "csb",
+        "name": "Jeléń"
+      },
+      {
+        "lang": "da",
+        "name": "Kronhjort"
+      },
+      {
+        "lang": "de",
+        "name": "Rothirsch"
+      },
+      {
+        "lang": "en",
+        "name": "Red Deer"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝa cervo"
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo común"
+      },
+      {
+        "lang": "et",
+        "name": "Punahirv"
+      },
+      {
+        "lang": "eu",
+        "name": "Orein arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "مرال"
+      },
+      {
+        "lang": "fi",
+        "name": "Saksanhirvi"
+      },
+      {
+        "lang": "fr",
+        "name": "Cerf élaphe"
+      },
+      {
+        "lang": "ga",
+        "name": "Fia rua"
+      },
+      {
+        "lang": "gl",
+        "name": "Cervo común"
+      },
+      {
+        "lang": "gv",
+        "name": "Feeaih ruy"
+      },
+      {
+        "lang": "he",
+        "name": "אייל אציל"
+      },
+      {
+        "lang": "hi",
+        "name": "लाल हिरण"
+      },
+      {
+        "lang": "hr",
+        "name": "Obični jelen"
+      },
+      {
+        "lang": "hu",
+        "name": "Gímszarvas"
+      },
+      {
+        "lang": "hy",
+        "name": "Ազնիվ եղջերու"
+      },
+      {
+        "lang": "it",
+        "name": "Cervo nobile"
+      },
+      {
+        "lang": "ja",
+        "name": "アカシカ"
+      },
+      {
+        "lang": "ka",
+        "name": "კეთილშობილი ირემი"
+      },
+      {
+        "lang": "kk",
+        "name": "Кермарал"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은사슴"
+      },
+      {
+        "lang": "ku",
+        "name": "Gakovî"
+      },
+      {
+        "lang": "la",
+        "name": "Cervus"
+      },
+      {
+        "lang": "lt",
+        "name": "Taurusis elnias"
+      },
+      {
+        "lang": "lv",
+        "name": "Staltbriedis"
+      },
+      {
+        "lang": "mk",
+        "name": "Обичен елен"
+      },
+      {
+        "lang": "nl",
+        "name": "Edelhert"
+      },
+      {
+        "lang": "nn",
+        "name": "Hjort"
+      },
+      {
+        "lang": "no",
+        "name": "Hjort"
+      },
+      {
+        "lang": "mhr",
+        "name": "Пӱчӧ"
+      },
+      {
+        "lang": "pcd",
+        "name": "Chérfe"
+      },
+      {
+        "lang": "pl",
+        "name": "Jeleń szlachetny"
+      },
+      {
+        "lang": "pt",
+        "name": "Veado-vermelho"
+      },
+      {
+        "lang": "ru",
+        "name": "Благородный олень"
+      },
+      {
+        "lang": "sc",
+        "name": "Cerbu"
+      },
+      {
+        "lang": "sk",
+        "name": "Jeleň lesný"
+      },
+      {
+        "lang": "sl",
+        "name": "Navadni jelen"
+      },
+      {
+        "lang": "sq",
+        "name": "Dreri i rëndomtë"
+      },
+      {
+        "lang": "sv",
+        "name": "Kronhjort"
+      },
+      {
+        "lang": "th",
+        "name": "กวางแดง"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl geyik"
+      },
+      {
+        "lang": "tk",
+        "name": "Sugun"
+      },
+      {
+        "lang": "uk",
+        "name": "Олень благородний"
+      },
+      {
+        "lang": "ur",
+        "name": "سرخ ہرن"
+      },
+      {
+        "lang": "vec",
+        "name": "Cervo"
+      },
+      {
+        "lang": "vi",
+        "name": "Hươu đỏ"
+      },
+      {
+        "lang": "wa",
+        "name": "Cier"
+      },
+      {
+        "lang": "zh",
+        "name": "马鹿"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cervus duvaucelii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Barasingha",
+        "synonyms": [
+          "Barasinga"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Barasinga o ciervo de los pantanos"
+      },
+      {
+        "lang": "fi",
+        "name": "Barasinga"
+      },
+      {
+        "lang": "hu",
+        "name": "Mocsári szarvas"
+      },
+      {
+        "lang": "ja",
+        "name": "バラシンガジカ"
+      },
+      {
+        "lang": "th",
+        "name": "กวางบึง"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cervus canadensis",
+    "common_names": [
+      {
+        "lang": "nv",
+        "name": "Dzeeh"
+      },
+      {
+        "lang": "en",
+        "name": "American Elk",
+        "synonyms": [
+          "Wapiti"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Wapití o ciervo canadiense"
+      },
+      {
+        "lang": "fi",
+        "name": "Vapiti"
+      },
+      {
+        "lang": "hu",
+        "name": "Vapiti"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカアカシカ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cervus alfredi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Visayan Deer",
+        "synonyms": [
+          "Visayan Spotted Deer",
+          "Philippine Spotted Deer"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo moteado de Filipinas"
+      },
+      {
+        "lang": "fi",
+        "name": "Visayanhirvi"
+      },
+      {
+        "lang": "hu",
+        "name": "Alfréd-szarvas"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cervus albirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Thorold's Deer",
+        "synonyms": [
+          "White-lipped Deer"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo de hocico blanco o de Thorold"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkonaamahirvi"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérajkú szarvas",
+        "synonyms": [
+          "Thorold-szarvas"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "クチジロジカ"
+      }
+    ]
+  }
+]

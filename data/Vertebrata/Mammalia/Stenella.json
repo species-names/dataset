@@ -1,0 +1,210 @@
+[
+  {
+    "scientific_name": "Stenella longirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spinner Dolphin"
+      },
+      {
+        "lang": "es",
+        "name": "Estenela giradora"
+      },
+      {
+        "lang": "fi",
+        "name": "Pitkäkuonodelfiini"
+      },
+      {
+        "lang": "fr",
+        "name": "Dauphin longirostre"
+      },
+      {
+        "lang": "hu",
+        "name": "Trópusi delfin",
+        "synonyms": [
+          "pettyes hosszúcsőrű-delfin",
+          "fonódelfin"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ハシナガイルカ"
+      },
+      {
+        "lang": "sv",
+        "name": "Skruvdelfin"
+      },
+      {
+        "lang": "tr",
+        "name": "Dönücü yunus"
+      },
+      {
+        "lang": "zh",
+        "name": "飞旋原海豚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Stenella frontalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Atlantic Spotted Dolphin"
+      },
+      {
+        "lang": "fi",
+        "name": "Täplädelfiini"
+      },
+      {
+        "lang": "hu",
+        "name": "Foltos delfin",
+        "synonyms": [
+          "atlanti delfin"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "タイセイヨウマダライルカ"
+      },
+      {
+        "lang": "tr",
+        "name": "Atlantik benekli yunusu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Stenella coeruleoalba",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Striped Dolphin",
+        "synonyms": [
+          "Blue-white Dolphin"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Delfín listado"
+      },
+      {
+        "lang": "fi",
+        "name": "Raitadelfiini"
+      },
+      {
+        "lang": "fr",
+        "name": "Dauphin bleu et blanc"
+      },
+      {
+        "lang": "gl",
+        "name": "Golfiño riscado"
+      },
+      {
+        "lang": "hr",
+        "name": "Prugasti dupin"
+      },
+      {
+        "lang": "hu",
+        "name": "Csíkos delfin"
+      },
+      {
+        "lang": "ja",
+        "name": "スジイルカ"
+      },
+      {
+        "lang": "is",
+        "name": "Rákahöfrungur"
+      },
+      {
+        "lang": "sh",
+        "name": "Prugasti delfin",
+        "synonyms": [
+          "Пругасти делфин"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Strimmig delfin",
+        "synonyms": [
+          "blåvit delfin"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Çizgili yunus"
+      },
+      {
+        "lang": "zh",
+        "name": "条纹原海豚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Stenella clymene",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Clymene Dolphin"
+      },
+      {
+        "lang": "fi",
+        "name": "Kypärädelfiini"
+      },
+      {
+        "lang": "hu",
+        "name": "Sisakos delfin",
+        "synonyms": [
+          "háromszínű delfin"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "クライメンイルカ"
+      },
+      {
+        "lang": "tr",
+        "name": "Atlantik dönücü yunusu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Stenella attenuata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pantropical Spotted Dolphin"
+      },
+      {
+        "lang": "es",
+        "name": "Estenela moteada"
+      },
+      {
+        "lang": "fi",
+        "name": "Ohjasdelfiini"
+      },
+      {
+        "lang": "fr",
+        "name": "Dauphin tacheté pantropical"
+      },
+      {
+        "lang": "hu",
+        "name": "Pettyes delfin"
+      },
+      {
+        "lang": "ja",
+        "name": "マダライルカ"
+      },
+      {
+        "lang": "sv",
+        "name": "Tygeldelfin"
+      },
+      {
+        "lang": "tr",
+        "name": "Pantropik benekli yunusu"
+      },
+      {
+        "lang": "zh",
+        "name": "热带点斑原海豚"
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "scientific_name": "Raphicerus sharpei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sharpe's Grysbok"
+      },
+      {
+        "lang": "es",
+        "name": "Raficero de Sharpe"
+      },
+      {
+        "lang": "fi",
+        "name": "Maa-antilooppi"
+      },
+      {
+        "lang": "sv",
+        "name": "Sharpes grysbok"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Raphicerus melanotis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cape Grysbok"
+      },
+      {
+        "lang": "es",
+        "name": "Raficero de El Cabo"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustakorva-antilooppi"
+      },
+      {
+        "lang": "pl",
+        "name": "Grysbok przylądkowy"
+      },
+      {
+        "lang": "sv",
+        "name": "Kapgrysbok"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Raphicerus campestris",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Steenbok"
+      },
+      {
+        "lang": "br",
+        "name": "Stenbok"
+      },
+      {
+        "lang": "cs",
+        "name": "Antilopa trávní"
+      },
+      {
+        "lang": "de",
+        "name": "Steinböckchen"
+      },
+      {
+        "lang": "en",
+        "name": "Steenbok"
+      },
+      {
+        "lang": "es",
+        "name": "Raficero común"
+      },
+      {
+        "lang": "fi",
+        "name": "Puna-antilooppi"
+      },
+      {
+        "lang": "nl",
+        "name": "Steenbokantilope"
+      },
+      {
+        "lang": "pl",
+        "name": "Stenbok"
+      },
+      {
+        "lang": "sv",
+        "name": "Stenantilop"
+      },
+      {
+        "lang": "sw",
+        "name": "Isha",
+        "synonyms": [
+          "Dondor"
+        ]
+      }
+    ]
+  }
+]

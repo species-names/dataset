@@ -1,0 +1,58 @@
+[
+  {
+    "scientific_name": "Hippocamelus bisulcus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Huemul",
+        "synonyms": [
+          "Chilean Huemul",
+          "South Andean Deer"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Huemul"
+      },
+      {
+        "lang": "fi",
+        "name": "Chilenhirvi"
+      },
+      {
+        "lang": "hu",
+        "name": "Chilei villásszarvas"
+      },
+      {
+        "lang": "pl",
+        "name": "Huemal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hippocamelus antisensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Taruca",
+        "synonyms": [
+          "North Andean Deer"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Taruca"
+      },
+      {
+        "lang": "fi",
+        "name": "Guemuli",
+        "synonyms": [
+          "andienhirvi"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Perui villásszarvas"
+      }
+    ]
+  }
+]

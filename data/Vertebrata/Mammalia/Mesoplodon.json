@@ -1,0 +1,437 @@
+[
+  {
+    "scientific_name": "Mesoplodon tumidirostris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Mesoplodon slangkopi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Mesoplodon traversii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bahamonde-Schnabelwal"
+      },
+      {
+        "lang": "en",
+        "name": "Spade Toothed Whale",
+        "synonyms": [
+          "Bahamonde's Beaked Whale"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Zifio de Travers",
+        "synonyms": [
+          "zifio de Bahamonde"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Baleine à bec de Travers"
+      },
+      {
+        "lang": "ja",
+        "name": "バハモンドオウギハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Kürek dişli gagalı balina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon stejnegeri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stejneger's Beaked Whale",
+        "synonyms": [
+          "Bering Sea Beaked Whale",
+          "Saber-toothed Whale"
+        ]
+      },
+      {
+        "lang": "ca",
+        "name": "Zífid de Stejneger"
+      },
+      {
+        "lang": "da",
+        "name": "Stejnegers næbhval"
+      },
+      {
+        "lang": "de",
+        "name": "Stejneger-Schnabelwal"
+      },
+      {
+        "lang": "es",
+        "name": "Zifio de Stejneger",
+        "synonyms": [
+          "Zifio del mar de Bering"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Beringinmerennokkavalas"
+      },
+      {
+        "lang": "fr",
+        "name": "Baleine à bec de Stejneger"
+      },
+      {
+        "lang": "hu",
+        "name": "Stejneger-féle csőröscet"
+      },
+      {
+        "lang": "it",
+        "name": "Mesoplodonte di Stejneger"
+      },
+      {
+        "lang": "ja",
+        "name": "オウギハクジラ"
+      },
+      {
+        "lang": "pt",
+        "name": "Baleia-bicuda-de-stejneger"
+      },
+      {
+        "lang": "sv",
+        "name": "Stejnegers näbbval"
+      },
+      {
+        "lang": "tr",
+        "name": "Bering Denizi gagalı balinası"
+      },
+      {
+        "lang": "zh",
+        "name": "史氏中喙鯨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon peruvianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pygmy Beaked Whale",
+        "synonyms": [
+          "Peruvian Beaked Whale",
+          "Lesser Beak Whale"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ピグミーオウギハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Peru gagalı balinası"
+      },
+      {
+        "lang": "zh",
+        "name": "祕魯中喙鯨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon perrini",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Perrin's Beaked Whale"
+      },
+      {
+        "lang": "fr",
+        "name": "Baleine à bec de Perrin"
+      },
+      {
+        "lang": "ja",
+        "name": "ペリンオウギハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Perrin gagalı balinası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon mirus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "True’s Beaked Whale"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustatäplänokkavalas"
+      },
+      {
+        "lang": "ja",
+        "name": "アカボウモドキ"
+      },
+      {
+        "lang": "tr",
+        "name": "True gagalı balinası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon layardii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Strap-toothed Whale"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuonokoppanokkavalas"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒモハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Uzun dişli gagalı balina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon hotaula",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Mesoplodon hectori",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hector’s Beaked Whale"
+      },
+      {
+        "lang": "fi",
+        "name": "Vinonokkavalas"
+      },
+      {
+        "lang": "ja",
+        "name": "ニュージーランドオウギハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Hector gagalı balinası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon grayi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gray’s Beaked Whale"
+      },
+      {
+        "lang": "fi",
+        "name": "Suippokuononokkavalas"
+      },
+      {
+        "lang": "ja",
+        "name": "ミナミオウギハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Gray gagalı balinası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon ginkgodens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ginkgo-toothed Beaked Whale"
+      },
+      {
+        "lang": "es",
+        "name": "Zifio Japonés"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkopilkkunokkavalas"
+      },
+      {
+        "lang": "fr",
+        "name": "Baleine à bec de Nishiwaki"
+      },
+      {
+        "lang": "ja",
+        "name": "イチョウハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Ginkgo dişli gagalı balina"
+      },
+      {
+        "lang": "zh",
+        "name": "银杏齿中喙鲸"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon europaeus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gervais’ Beaked Whale"
+      },
+      {
+        "lang": "fi",
+        "name": "Golfinnokkavalas"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒガシアメリカオウギハクジラ"
+      },
+      {
+        "lang": "pl",
+        "name": "Dziobowal europejski"
+      },
+      {
+        "lang": "tr",
+        "name": "Avrupa gagalı balinası"
+      },
+      {
+        "lang": "zh",
+        "name": "傑氏中喙鯨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon densirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blainville’s Beaked Whale"
+      },
+      {
+        "lang": "es",
+        "name": "Zifio de Blainville"
+      },
+      {
+        "lang": "fi",
+        "name": "Isoleukanokkavalas"
+      },
+      {
+        "lang": "fr",
+        "name": "Baleine à bec de Blainville"
+      },
+      {
+        "lang": "is",
+        "name": "Króksnjáldri"
+      },
+      {
+        "lang": "ja",
+        "name": "コブハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Sık dişli gagalı balina"
+      },
+      {
+        "lang": "zh",
+        "name": "柏氏中喙鲸"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon carlhubbsi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hubbs' Beaked Whale"
+      },
+      {
+        "lang": "es",
+        "name": "Zifio de Hubbs"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaarinokkavalas"
+      },
+      {
+        "lang": "fr",
+        "name": "Baleine à bec de Hubbs"
+      },
+      {
+        "lang": "ja",
+        "name": "ハッブスオウギハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Hubbs gagalı balinası"
+      },
+      {
+        "lang": "zh",
+        "name": "胡氏中喙鯨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon bowdoini",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Andrews' Beaked Whale"
+      },
+      {
+        "lang": "fi",
+        "name": "Viistohammasnokkavalas"
+      },
+      {
+        "lang": "ja",
+        "name": "タイヘイヨウオウギハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Çıkık dişli gagalı balina"
+      },
+      {
+        "lang": "zh",
+        "name": "安氏中喙鯨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesoplodon bidens",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Almindelig næbhval"
+      },
+      {
+        "lang": "en",
+        "name": "Sowerby’s Beaked Whale"
+      },
+      {
+        "lang": "es",
+        "name": "Zifo de Sowerdy"
+      },
+      {
+        "lang": "fi",
+        "name": "Pohjoisatlantinnokkavalas"
+      },
+      {
+        "lang": "is",
+        "name": "Norðsnjáldri"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパオウギハクジラ"
+      },
+      {
+        "lang": "tr",
+        "name": "Kuzey Denizi gagalı balinası"
+      }
+    ]
+  }
+]

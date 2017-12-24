@@ -1,0 +1,997 @@
+[
+  {
+    "scientific_name": "Capra walie",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Walia Ibex",
+        "synonyms": [
+          "Abyssinian Ibex",
+          "Walia"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Etiopianvuorikauris"
+      },
+      {
+        "lang": "sv",
+        "name": "Abessinsk stenbock"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capra sibirica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Asiatic Ibex",
+        "synonyms": [
+          "Siberian Ibex"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Siperianvuorikauris",
+        "synonyms": [
+          "siperianalppikauris"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Koziorożec syberyjski"
+      },
+      {
+        "lang": "sv",
+        "name": "Sibirisk stenbock"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capra pyrenaica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Iberian ibex"
+      },
+      {
+        "lang": "fr",
+        "name": "Bouquetin ibérique"
+      },
+      {
+        "lang": "de",
+        "name": "Iberiensteinbock"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabra salvatge ibèrica"
+      },
+      {
+        "lang": "es",
+        "name": "Cabra montesa"
+      },
+      {
+        "lang": "fi",
+        "name": "Pyreneidenvuorikauris"
+      },
+      {
+        "lang": "sv",
+        "name": "Iberisk stenbock"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capra nubiana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Nubian Ibex"
+      },
+      {
+        "lang": "fi",
+        "name": "Nubianvuorikauris"
+      },
+      {
+        "lang": "he",
+        "name": "יעל נובי"
+      },
+      {
+        "lang": "pl",
+        "name": "Koziorożec nubijski"
+      },
+      {
+        "lang": "sv",
+        "name": "Nubisk stenbock"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capra ibex",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Alpensteinbock"
+      },
+      {
+        "lang": "bg",
+        "name": "Алпийски козирог"
+      },
+      {
+        "lang": "bar",
+        "name": "Oipmstoabock"
+      },
+      {
+        "lang": "bo",
+        "name": "ཁབ་ར།"
+      },
+      {
+        "lang": "br",
+        "name": "Kragvouc'h an Alpoù"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabra dels Alps"
+      },
+      {
+        "lang": "cs",
+        "name": "Kozorožec horský"
+      },
+      {
+        "lang": "de",
+        "name": "Alpensteinbock"
+      },
+      {
+        "lang": "en",
+        "name": "Alpine Ibex"
+      },
+      {
+        "lang": "es",
+        "name": "Íbice",
+        "synonyms": [
+          "cabra salvaje de los Alpes"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Ibekso"
+      },
+      {
+        "lang": "eu",
+        "name": "Alpetar basahuntz"
+      },
+      {
+        "lang": "fr",
+        "name": "Bouquetin des Alpes"
+      },
+      {
+        "lang": "he",
+        "name": "יעל האלפים"
+      },
+      {
+        "lang": "it",
+        "name": "Stambecco delle Alpi"
+      },
+      {
+        "lang": "ka",
+        "name": "ალპური თხა"
+      },
+      {
+        "lang": "lt",
+        "name": "Alpinis ožys"
+      },
+      {
+        "lang": "hu",
+        "name": "Kőszáli kecske"
+      },
+      {
+        "lang": "nl",
+        "name": "Alpensteenbok"
+      },
+      {
+        "lang": "ja",
+        "name": "アイベックス"
+      },
+      {
+        "lang": "no",
+        "name": "Alpesteinbukk"
+      },
+      {
+        "lang": "oc",
+        "name": "Boquetin"
+      },
+      {
+        "lang": "pl",
+        "name": "Koziorożec alpejski"
+      },
+      {
+        "lang": "pt",
+        "name": "Íbex"
+      },
+      {
+        "lang": "ro",
+        "name": "Capra alpină"
+      },
+      {
+        "lang": "rm",
+        "name": "Capricorn"
+      },
+      {
+        "lang": "ru",
+        "name": "Ибекс"
+      },
+      {
+        "lang": "sl",
+        "name": "Alpski kozorog"
+      },
+      {
+        "lang": "sr",
+        "name": "Алпски козорог"
+      },
+      {
+        "lang": "fi",
+        "name": "Alppikauris",
+        "synonyms": [
+          "vuorikauris",
+          "ibex"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Stenbock"
+      },
+      {
+        "lang": "uk",
+        "name": "Козел альпійський"
+      },
+      {
+        "lang": "ug",
+        "name": "تاغ ئۆچكىسى"
+      },
+      {
+        "lang": "zh",
+        "name": "羱羊"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capra hircus",
+    "common_names": [
+      {
+        "lang": "ace",
+        "name": "Kamèng"
+      },
+      {
+        "lang": "ak",
+        "name": "Aponkye"
+      },
+      {
+        "lang": "ar",
+        "name": "ماعز"
+      },
+      {
+        "lang": "av",
+        "name": "ЦӀцӀе"
+      },
+      {
+        "lang": "az",
+        "name": "Ev keçisi"
+      },
+      {
+        "lang": "ba",
+        "name": "Кәзә"
+      },
+      {
+        "lang": "bar",
+        "name": "Goass",
+        "synonyms": [
+          "Ziang"
+        ]
+      },
+      {
+        "lang": "bcl",
+        "name": "Kanding"
+      },
+      {
+        "lang": "be",
+        "name": "Каза свойская"
+      },
+      {
+        "lang": "bg",
+        "name": "Домашна коза"
+      },
+      {
+        "lang": "bn",
+        "name": "ছাগল"
+      },
+      {
+        "lang": "bo",
+        "name": "ར་མ།"
+      },
+      {
+        "lang": "br",
+        "name": "Gavr"
+      },
+      {
+        "lang": "bs",
+        "name": "Koza"
+      },
+      {
+        "lang": "bxr",
+        "name": "Ямаан"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabra domèstica"
+      },
+      {
+        "lang": "ce",
+        "name": "Gaza"
+      },
+      {
+        "lang": "ckb",
+        "name": "بزن"
+      },
+      {
+        "lang": "cv",
+        "name": "Качака"
+      },
+      {
+        "lang": "cs",
+        "name": "koza domácí"
+      },
+      {
+        "lang": "csb",
+        "name": "Domôcô kòza"
+      },
+      {
+        "lang": "cy",
+        "name": "Gafr"
+      },
+      {
+        "lang": "da",
+        "name": "Ged"
+      },
+      {
+        "lang": "de",
+        "name": "Hausziege",
+        "synonyms": [
+          "Ziege"
+        ]
+      },
+      {
+        "lang": "diq",
+        "name": "Bıze"
+      },
+      {
+        "lang": "nv",
+        "name": "Tłʼízí"
+      },
+      {
+        "lang": "el",
+        "name": "Κατσίκα"
+      },
+      {
+        "lang": "en",
+        "name": "Goat"
+      },
+      {
+        "lang": "eml",
+        "name": "Chèvra"
+      },
+      {
+        "lang": "es",
+        "name": "Cabra",
+        "synonyms": [
+          "chiva"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Hejma kapro"
+      },
+      {
+        "lang": "eu",
+        "name": "Ahuntz"
+      },
+      {
+        "lang": "fa",
+        "name": "بز"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuohi"
+      },
+      {
+        "lang": "fr",
+        "name": "Chèvre"
+      },
+      {
+        "lang": "fur",
+        "name": "Cjavre"
+      },
+      {
+        "lang": "ga",
+        "name": "Gabhar"
+      },
+      {
+        "lang": "gn",
+        "name": "Kavara"
+      },
+      {
+        "lang": "he",
+        "name": "עז הבית"
+      },
+      {
+        "lang": "hi",
+        "name": "बकरी"
+      },
+      {
+        "lang": "hr",
+        "name": "Domaća koza"
+      },
+      {
+        "lang": "ht",
+        "name": "Kabrit"
+      },
+      {
+        "lang": "hu",
+        "name": "Házikecske"
+      },
+      {
+        "lang": "hy",
+        "name": "Այծ"
+      },
+      {
+        "lang": "ia",
+        "name": "Capra"
+      },
+      {
+        "lang": "id",
+        "name": "Kambing"
+      },
+      {
+        "lang": "io",
+        "name": "Kapro"
+      },
+      {
+        "lang": "is",
+        "name": "Geit"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤギ"
+      },
+      {
+        "lang": "ka",
+        "name": "თხა"
+      },
+      {
+        "lang": "ko",
+        "name": "염소"
+      },
+      {
+        "lang": "koi",
+        "name": "Кӧза"
+      },
+      {
+        "lang": "ku",
+        "name": "Bizin"
+      },
+      {
+        "lang": "la",
+        "name": "Capra"
+      },
+      {
+        "lang": "lbe",
+        "name": "ЦӀуку"
+      },
+      {
+        "lang": "li",
+        "name": "Hoesgeit"
+      },
+      {
+        "lang": "lt",
+        "name": "Naminė ožka"
+      },
+      {
+        "lang": "ln",
+        "name": "Ntaba"
+      },
+      {
+        "lang": "lv",
+        "name": "Kaza"
+      },
+      {
+        "lang": "mdf",
+        "name": "Сява"
+      },
+      {
+        "lang": "mk",
+        "name": "Коза"
+      },
+      {
+        "lang": "ml",
+        "name": "ആട്"
+      },
+      {
+        "lang": "mn",
+        "name": "Ямаа"
+      },
+      {
+        "lang": "mr",
+        "name": "बकरी"
+      },
+      {
+        "lang": "ms",
+        "name": "Kambing"
+      },
+      {
+        "lang": "mzn",
+        "name": "بز"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Sik"
+      },
+      {
+        "lang": "ne",
+        "name": "बाख्रा"
+      },
+      {
+        "lang": "nl",
+        "name": "Geit"
+      },
+      {
+        "lang": "no",
+        "name": "Geit"
+      },
+      {
+        "lang": "nn",
+        "name": "Geit"
+      },
+      {
+        "lang": "nrm",
+        "name": "Biche"
+      },
+      {
+        "lang": "nso",
+        "name": "Pudi"
+      },
+      {
+        "lang": "oc",
+        "name": "Cabra"
+      },
+      {
+        "lang": "os",
+        "name": "Сæгъ"
+      },
+      {
+        "lang": "pam",
+        "name": "Kambing"
+      },
+      {
+        "lang": "pnb",
+        "name": "بکری"
+      },
+      {
+        "lang": "pl",
+        "name": "Koza domowa"
+      },
+      {
+        "lang": "pt",
+        "name": "Cabra"
+      },
+      {
+        "lang": "qu",
+        "name": "Kawra"
+      },
+      {
+        "lang": "ro",
+        "name": "Capră"
+      },
+      {
+        "lang": "ru",
+        "name": "Коза домашняя"
+      },
+      {
+        "lang": "rw",
+        "name": "Ihene"
+      },
+      {
+        "lang": "sc",
+        "name": "Craba"
+      },
+      {
+        "lang": "scn",
+        "name": "Crapa"
+      },
+      {
+        "lang": "sco",
+        "name": "Gait"
+      },
+      {
+        "lang": "sn",
+        "name": "Mbudzi"
+      },
+      {
+        "lang": "so",
+        "name": "Ri"
+      },
+      {
+        "lang": "sq",
+        "name": "Dhia shtëpiake"
+      },
+      {
+        "lang": "simple",
+        "name": "Domestic goat"
+      },
+      {
+        "lang": "sk",
+        "name": "Koza domáca"
+      },
+      {
+        "lang": "sl",
+        "name": "Domača koza"
+      },
+      {
+        "lang": "stq",
+        "name": "Huussääge"
+      },
+      {
+        "lang": "sw",
+        "name": "Mbuzi-kaya"
+      },
+      {
+        "lang": "szl",
+        "name": "Ciga"
+      },
+      {
+        "lang": "sr",
+        "name": "Домаћа коза"
+      },
+      {
+        "lang": "su",
+        "name": "Embé"
+      },
+      {
+        "lang": "sv",
+        "name": "Tamget"
+      },
+      {
+        "lang": "tl",
+        "name": "Kambing"
+      },
+      {
+        "lang": "ta",
+        "name": "ஆடு"
+      },
+      {
+        "lang": "te",
+        "name": "మేక"
+      },
+      {
+        "lang": "th",
+        "name": "แพะ"
+      },
+      {
+        "lang": "tr",
+        "name": "Keçi"
+      },
+      {
+        "lang": "tum",
+        "name": "Mbuzi"
+      },
+      {
+        "lang": "udm",
+        "name": "Кеч"
+      },
+      {
+        "lang": "uk",
+        "name": "Козел свійський"
+      },
+      {
+        "lang": "ur",
+        "name": "بکری"
+      },
+      {
+        "lang": "ug",
+        "name": "Öçke"
+      },
+      {
+        "lang": "vi",
+        "name": "Dê"
+      },
+      {
+        "lang": "wa",
+        "name": "Gade"
+      },
+      {
+        "lang": "yi",
+        "name": "ציג"
+      },
+      {
+        "lang": "yo",
+        "name": "Ewúrẹ́"
+      },
+      {
+        "lang": "zh",
+        "name": "家山羊"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capra falconeri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Markhor"
+      },
+      {
+        "lang": "fi",
+        "name": "Kierteissarvikauris",
+        "synonyms": [
+          "markor"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Pödröttszarvú kecske",
+        "synonyms": [
+          "markhor"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Koza śruboroga"
+      },
+      {
+        "lang": "pt",
+        "name": "Markor"
+      },
+      {
+        "lang": "sv",
+        "name": "Skruvhornsget",
+        "synonyms": [
+          "markhor"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capra dalii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Capra cylindricornis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "East Caucasian Tur",
+        "synonyms": [
+          "Eastern Tur",
+          "Dagestan Tur"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Kaukasianvuorikauris"
+      },
+      {
+        "lang": "sv",
+        "name": "Östkaukasisk stenbock"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capra caucasica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tur",
+        "synonyms": [
+          "West Caucasian Tur",
+          "Kuban Tur"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Kubaninturi"
+      },
+      {
+        "lang": "pl",
+        "name": "Koziorożec kaukaski"
+      },
+      {
+        "lang": "sv",
+        "name": "Tur",
+        "synonyms": [
+          "västkaukasisk stenbock"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Capra aegagrus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "ماعز بري"
+      },
+      {
+        "lang": "az",
+        "name": "Bezoar keçisi"
+      },
+      {
+        "lang": "bm",
+        "name": "Ba"
+      },
+      {
+        "lang": "be",
+        "name": "Безааравы казёл"
+      },
+      {
+        "lang": "bg",
+        "name": "Безоаров козел"
+      },
+      {
+        "lang": "br",
+        "name": "Gavr ouez"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabra salvatge"
+      },
+      {
+        "lang": "cs",
+        "name": "Koza bezoárová"
+      },
+      {
+        "lang": "de",
+        "name": "Wildziege"
+      },
+      {
+        "lang": "en",
+        "name": "Wild goat"
+      },
+      {
+        "lang": "nv",
+        "name": "Tłʼízí ałchiní"
+      },
+      {
+        "lang": "el",
+        "name": "Αίγαγρος"
+      },
+      {
+        "lang": "es",
+        "name": "Cabra salvaje"
+      },
+      {
+        "lang": "fa",
+        "name": "بز کوهی"
+      },
+      {
+        "lang": "hy",
+        "name": "Բեզոարյան այծ"
+      },
+      {
+        "lang": "ko",
+        "name": "들염소"
+      },
+      {
+        "lang": "it",
+        "name": "Egagro"
+      },
+      {
+        "lang": "he",
+        "name": "עז הבר"
+      },
+      {
+        "lang": "ka",
+        "name": "ნიამორი"
+      },
+      {
+        "lang": "kk",
+        "name": "Тауешкі"
+      },
+      {
+        "lang": "lv",
+        "name": "Savvaļas kaza"
+      },
+      {
+        "lang": "lt",
+        "name": "Bezoarinis ožys"
+      },
+      {
+        "lang": "hu",
+        "name": "Vadkecske"
+      },
+      {
+        "lang": "mk",
+        "name": "Дива коза"
+      },
+      {
+        "lang": "my",
+        "name": "တောဆိတ်"
+      },
+      {
+        "lang": "nl",
+        "name": "Bezoargeit"
+      },
+      {
+        "lang": "ja",
+        "name": "パサン"
+      },
+      {
+        "lang": "nn",
+        "name": "Villgeit"
+      },
+      {
+        "lang": "pl",
+        "name": "Koza bezoarowa"
+      },
+      {
+        "lang": "pt",
+        "name": "Cabra-selvagem"
+      },
+      {
+        "lang": "ru",
+        "name": "Безоаровый козёл"
+      },
+      {
+        "lang": "sq",
+        "name": "Dhia e egër"
+      },
+      {
+        "lang": "simple",
+        "name": "Wild Goat"
+      },
+      {
+        "lang": "sr",
+        "name": "Дивља коза"
+      },
+      {
+        "lang": "sh",
+        "name": "Divlja koza"
+      },
+      {
+        "lang": "fi",
+        "name": "Besoaarivuohi"
+      },
+      {
+        "lang": "sv",
+        "name": "Vildget"
+      },
+      {
+        "lang": "ta",
+        "name": "காட்டு ஆடு"
+      },
+      {
+        "lang": "tk",
+        "name": "Dagteke"
+      },
+      {
+        "lang": "tr",
+        "name": "Yaban keçisi"
+      },
+      {
+        "lang": "vec",
+        "name": "Càvra",
+        "synonyms": [
+          "Càvara"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Козел звичайний"
+      },
+      {
+        "lang": "zh",
+        "name": "野山羊"
+      },
+      {
+        "lang": "bn",
+        "name": "বুনো ছাগল"
+      }
+    ]
+  }
+]

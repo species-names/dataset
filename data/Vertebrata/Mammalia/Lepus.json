@@ -1,0 +1,503 @@
+[
+  {
+    "scientific_name": "Lepus yarkandensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yarkand Hare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus townsendii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-tailed Jackrabbit"
+      },
+      {
+        "lang": "ru",
+        "name": "Бесхвостый заяц"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus tolai",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Lepus timidus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Lepus tibetanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Desert Hare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus starcki",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ethiopian Highland Hare"
+      },
+      {
+        "lang": "fi",
+        "name": "Etiopianjänis"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus sinensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chinese Hare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus saxatilis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kolhaas"
+      },
+      {
+        "lang": "de",
+        "name": "Buschhase"
+      },
+      {
+        "lang": "en",
+        "name": "Scrub Hare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus peguensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Burmese Hare"
+      },
+      {
+        "lang": "th",
+        "name": "กระต่ายป่า"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus othus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Lepus oiostolus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Woolly Hare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus nigricollis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indian Hare"
+      },
+      {
+        "lang": "bn",
+        "name": "ভারতীয় খরগোশ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus microtis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "African Savanna Hare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus mandshuricus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Manchurian Hare"
+      },
+      {
+        "lang": "ru",
+        "name": "Манчжурский заяц"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus insularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black Jackrabbit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus hainanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hainan Hare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus habessinicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Abyssinian Hare"
+      },
+      {
+        "lang": "it",
+        "name": "Lepre abissina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus granatensis",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Liebre ibérica"
+      },
+      {
+        "lang": "en",
+        "name": "Granada Hare"
+      },
+      {
+        "lang": "fr",
+        "name": "Lièvre ibérique"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus flavigularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tehuantepec Jackrabbit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus fagani",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ethiopian Hare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus europaeus",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Hare"
+      },
+      {
+        "lang": "de",
+        "name": "Feldhase"
+      },
+      {
+        "lang": "en",
+        "name": "European hare",
+        "synonyms": [
+          "Brown hare"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Liebre europea"
+      },
+      {
+        "lang": "et",
+        "name": "Halljänes"
+      },
+      {
+        "lang": "fr",
+        "name": "Lièvre d'Europe"
+      },
+      {
+        "lang": "frr",
+        "name": "Fialhaas"
+      },
+      {
+        "lang": "hu",
+        "name": "Mezei nyúl"
+      },
+      {
+        "lang": "is",
+        "name": "Gráhéri"
+      },
+      {
+        "lang": "nl",
+        "name": "Europese Haas"
+      },
+      {
+        "lang": "no",
+        "name": "Sørhare"
+      },
+      {
+        "lang": "pl",
+        "name": "Zając szarak"
+      },
+      {
+        "lang": "pt",
+        "name": "Lebre-comum"
+      },
+      {
+        "lang": "ru",
+        "name": "Заяц-русак"
+      },
+      {
+        "lang": "fi",
+        "name": "Rusakko"
+      },
+      {
+        "lang": "sl",
+        "name": "Poljski zajec",
+        "synonyms": [
+          "Divji zajec"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Fälthare",
+        "synonyms": [
+          "Tyskhare"
+        ]
+      },
+      {
+        "lang": "vec",
+        "name": "Léoro",
+        "synonyms": [
+          "Lièoro"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus corsicanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Corsican Hare"
+      },
+      {
+        "lang": "it",
+        "name": "Lepre appenninica"
+      },
+      {
+        "lang": "sc",
+        "name": "lèpori"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus coreanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Korean Hare"
+      },
+      {
+        "lang": "ko",
+        "name": "멧토끼"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus comus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yunnan Hare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus castroviejoi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Broom Hare"
+      },
+      {
+        "lang": "es",
+        "name": "Liebre de piornal"
+      },
+      {
+        "lang": "mt",
+        "name": "Liepru xkupa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus capensis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Vlakhaas"
+      },
+      {
+        "lang": "br",
+        "name": "Gad ar C'hab"
+      },
+      {
+        "lang": "ca",
+        "name": "Llebre del Cap"
+      },
+      {
+        "lang": "de",
+        "name": "Kaphase"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Hare"
+      },
+      {
+        "lang": "es",
+        "name": "Liebre del Cabo"
+      },
+      {
+        "lang": "eo",
+        "name": "Kaboleporo"
+      },
+      {
+        "lang": "fr",
+        "name": "Lièvre du Cap"
+      },
+      {
+        "lang": "it",
+        "name": "Lepre del Capo",
+        "synonyms": [
+          "lepre africana"
+        ]
+      },
+      {
+        "lang": "he",
+        "name": "ארנבת מצויה"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кап морен"
+      },
+      {
+        "lang": "hu",
+        "name": "Fokföldi nyúl"
+      },
+      {
+        "lang": "mt",
+        "name": "Liebru ta' Kap"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapse haas"
+      },
+      {
+        "lang": "mhr",
+        "name": "Кап мераҥ"
+      },
+      {
+        "lang": "pt",
+        "name": "Lebre-do-cabo"
+      },
+      {
+        "lang": "ru",
+        "name": "Капский заяц"
+      },
+      {
+        "lang": "sq",
+        "name": "Lepuri i murrmë"
+      },
+      {
+        "lang": "sv",
+        "name": "Kaphare"
+      },
+      {
+        "lang": "zh",
+        "name": "草兔"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus callotis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-sided Jackrabbit"
+      },
+      {
+        "lang": "es",
+        "name": "Liebre Torda"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus californicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-tailed Jackrabbit"
+      },
+      {
+        "lang": "is",
+        "name": "Asnahéri"
+      },
+      {
+        "lang": "ru",
+        "name": "Калифорнийский заяц"
+      },
+      {
+        "lang": "pl",
+        "name": "Zając wielkouchy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus brachyurus",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "ノウサギ"
+      },
+      {
+        "lang": "ru",
+        "name": "Японский (кустарниковый) заяц"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lepus arcticus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Lepus americanus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Lepus alleni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Lepus (Lepus)",
+    "common_names": []
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "scientific_name": "Isoodon obesulus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Southern Brown Bandicoot",
+        "synonyms": [
+          "Nuyts Southern Brown Bandicoot",
+          "Quenda"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Krótkonos brązowy",
+        "synonyms": [
+          "jamraj brunatny"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Gewone kortneusbuideldas"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Isoodon macrourus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Brown Bandicoot",
+        "synonyms": [
+          "Short-nosed Bandicoot"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Grote kortneusbuideldas"
+      },
+      {
+        "lang": "fi",
+        "name": "Täpläpussimäyrä"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Isoodon auratus",
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Arany bandikut"
+      },
+      {
+        "lang": "nl",
+        "name": "Gouden kortneusbuideldas"
+      }
+    ]
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "scientific_name": "Sus verrucosus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Jabalí verrugoso de Java"
+      },
+      {
+        "lang": "hu",
+        "name": "Vietnami szemölcsös disznó"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sus timoriensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Timor Warty Pig"
+      },
+      {
+        "lang": "es",
+        "name": "Jabalí de Timor"
+      },
+      {
+        "lang": "pl",
+        "name": "Świnia timorska"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sus scrofa",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Wildevark"
+      },
+      {
+        "lang": "ar",
+        "name": "خنزير بري"
+      },
+      {
+        "lang": "bar",
+        "name": "Wüdschweindel",
+        "synonyms": [
+          "Wüdsau"
+        ]
+      },
+      {
+        "lang": "ca",
+        "name": "Porc senglar"
+      },
+      {
+        "lang": "cs",
+        "name": "Prase divoké"
+      },
+      {
+        "lang": "da",
+        "name": "Vildsvin"
+      },
+      {
+        "lang": "de",
+        "name": "Wildschwein"
+      },
+      {
+        "lang": "el",
+        "name": "Αγριόχοιρος",
+        "synonyms": [
+          "αγριογούρουνο"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Wild boar"
+      },
+      {
+        "lang": "eo",
+        "name": "Apro"
+      },
+      {
+        "lang": "es",
+        "name": "Jabalí"
+      },
+      {
+        "lang": "et",
+        "name": "Metssiga"
+      },
+      {
+        "lang": "eu",
+        "name": "Basurde"
+      },
+      {
+        "lang": "fa",
+        "name": "گراز"
+      },
+      {
+        "lang": "fi",
+        "name": "Villisika"
+      },
+      {
+        "lang": "fo",
+        "name": "Villsvín"
+      },
+      {
+        "lang": "fr",
+        "name": "Sanglier"
+      },
+      {
+        "lang": "frr",
+        "name": "Wilswin"
+      },
+      {
+        "lang": "gu",
+        "name": "ડુક્કર",
+        "synonyms": [
+          "ભૂંડ"
+        ]
+      },
+      {
+        "lang": "hi",
+        "name": "सूअर"
+      },
+      {
+        "lang": "hu",
+        "name": "Vaddisznó"
+      },
+      {
+        "lang": "is",
+        "name": "Villisvín"
+      },
+      {
+        "lang": "it",
+        "name": "Cinghiale"
+      },
+      {
+        "lang": "ja",
+        "name": "イノシシ"
+      },
+      {
+        "lang": "ko",
+        "name": "멧돼지"
+      },
+      {
+        "lang": "lu",
+        "name": "Wëllschwäin"
+      },
+      {
+        "lang": "ms",
+        "name": "Babi Hutan"
+      },
+      {
+        "lang": "nl",
+        "name": "Wild zwijn"
+      },
+      {
+        "lang": "no",
+        "name": "Villsvin"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzik"
+      },
+      {
+        "lang": "pt",
+        "name": "Javali",
+        "synonyms": [
+          "Javardo"
+        ]
+      },
+      {
+        "lang": "sc",
+        "name": "Sirboni"
+      },
+      {
+        "lang": "sk",
+        "name": "Diviak lesný"
+      },
+      {
+        "lang": "sl",
+        "name": "Divja Svinja"
+      },
+      {
+        "lang": "sv",
+        "name": "Vildsvin"
+      },
+      {
+        "lang": "th",
+        "name": "หมูป่า"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı yaban domuzu"
+      },
+      {
+        "lang": "uk",
+        "name": "Дикий кабан"
+      },
+      {
+        "lang": "vi",
+        "name": "Lợn rừng",
+        "synonyms": [
+          "lợn hoang dã"
+        ]
+      },
+      {
+        "lang": "te",
+        "name": "అడవిపంది"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sus philippensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Philippine Warty Pig"
+      },
+      {
+        "lang": "es",
+        "name": "Jabalí filipino"
+      },
+      {
+        "lang": "hu",
+        "name": "Fülöp-szigeteki disznó"
+      },
+      {
+        "lang": "pl",
+        "name": "Świnia filipińska"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sus oliveri",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Mindoro-Pustelschwein"
+      },
+      {
+        "lang": "en",
+        "name": "Oliver's Warty Pig"
+      },
+      {
+        "lang": "es",
+        "name": "Jabalí verrugoso de Mindoro o de Oliver"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sus heureni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Flores Warty Pig"
+      },
+      {
+        "lang": "es",
+        "name": "Jabalí de Flores"
+      },
+      {
+        "lang": "pl",
+        "name": "Świnia floreska"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sus celebensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Celebes Warty Pig"
+      },
+      {
+        "lang": "es",
+        "name": "Jabalí verrugoso de  las Célebes"
+      },
+      {
+        "lang": "hu",
+        "name": "Celebeszi disznó"
+      },
+      {
+        "lang": "pl",
+        "name": "Świnia celebeska"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sus cebifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Visayan Warty Pig"
+      },
+      {
+        "lang": "es",
+        "name": "Jabalí de las Visayas"
+      },
+      {
+        "lang": "hu",
+        "name": "Cebu szigeti disznó"
+      },
+      {
+        "lang": "it",
+        "name": "Cinghiale verrucoso di Visayas"
+      },
+      {
+        "lang": "nl",
+        "name": "Visayawrattenzwijn"
+      },
+      {
+        "lang": "tr",
+        "name": "Visayan yaban domuzu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sus bucculentus",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Jabalí vietnamita"
+      },
+      {
+        "lang": "th",
+        "name": "หมูป่าอินโดจีน"
+      },
+      {
+        "lang": "en",
+        "name": "Heude's pig"
+      },
+      {
+        "lang": "hu",
+        "name": "Szemölcsös disznó"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sus barbatus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Prase vousaté",
+        "synonyms": [
+          "Bornejské prase",
+          "Vepř vousatý"
+        ]
+      },
+      {
+        "lang": "de",
+        "name": "Bartschwein"
+      },
+      {
+        "lang": "en",
+        "name": "Bearded Pig"
+      },
+      {
+        "lang": "es",
+        "name": "Jabalí o cerdo barbudo"
+      },
+      {
+        "lang": "fi",
+        "name": "Partasika"
+      },
+      {
+        "lang": "fr",
+        "name": "Sanglier à moustaches"
+      },
+      {
+        "lang": "he",
+        "name": "חזיר מזוקן"
+      },
+      {
+        "lang": "hu",
+        "name": "Szakállas disznó"
+      },
+      {
+        "lang": "ms",
+        "name": "Babi Hutan"
+      },
+      {
+        "lang": "nl",
+        "name": "Baardzwijn"
+      },
+      {
+        "lang": "pt",
+        "name": "Porco barbado"
+      },
+      {
+        "lang": "tr",
+        "name": "Sakallı yaban domuzu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sus amyus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Sus ahoenobarbus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Palawan-Bartschwein"
+      },
+      {
+        "lang": "en",
+        "name": "Palawan Pig"
+      },
+      {
+        "lang": "es",
+        "name": "Jabalí barbudo de Palawan"
+      },
+      {
+        "lang": "hu",
+        "name": "Palawani szakállas disznó"
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "scientific_name": "Chaetophractus villosus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Pásovec štětinatý"
+      },
+      {
+        "lang": "en",
+        "name": "Big Hairy Armadillo"
+      },
+      {
+        "lang": "es",
+        "name": "Quirquincho grande",
+        "synonyms": [
+          "Peludo(ARG)"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Sörtés armadilló",
+        "synonyms": [
+          "nagy szőröstatu"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Pancernik włochaty"
+      },
+      {
+        "lang": "pt",
+        "name": "Tatu-peludo-grande"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chaetophractus vellerosus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Screaming Hairy Armadillo"
+      },
+      {
+        "lang": "pt",
+        "name": "Tatu-peludo-gritador"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chaetophractus nationi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Andean Hairy Armadillo"
+      },
+      {
+        "lang": "pt",
+        "name": "Tatu-peludo-dos-Andes"
+      }
+    ]
+  }
+]

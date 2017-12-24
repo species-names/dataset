@@ -1,0 +1,42 @@
+[
+  {
+    "scientific_name": "Pseudois schaeferi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dwarf Blue Sheep"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pseudois nayaur",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bharal",
+        "synonyms": [
+          "Himalayan blue sheep"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Grand bharal",
+        "synonyms": [
+          "mouton bleu"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "バーラル"
+      },
+      {
+        "lang": "ko",
+        "name": "바랄"
+      },
+      {
+        "lang": "bn",
+        "name": "ভরাল"
+      }
+    ]
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "scientific_name": "Alces americanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Moose",
+        "synonyms": [
+          "Siberian Elk"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Alce americano"
+      },
+      {
+        "lang": "pl",
+        "name": "Łoś amerykański"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alces alces",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "موظ"
+      },
+      {
+        "lang": "az",
+        "name": "Sığır"
+      },
+      {
+        "lang": "ba",
+        "name": "Мышы"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Brėidis"
+      },
+      {
+        "lang": "be",
+        "name": "Лось"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Лось"
+      },
+      {
+        "lang": "bg",
+        "name": "Лос"
+      },
+      {
+        "lang": "bo",
+        "name": "ཤ་བ་ནོག་ལྡན།"
+      },
+      {
+        "lang": "br",
+        "name": "Elan"
+      },
+      {
+        "lang": "bxr",
+        "name": "Хандагай"
+      },
+      {
+        "lang": "ca",
+        "name": "Ant"
+      },
+      {
+        "lang": "ce",
+        "name": "Боккха сай"
+      },
+      {
+        "lang": "chy",
+        "name": "Mâhpémo'éhe"
+      },
+      {
+        "lang": "cr",
+        "name": "ᒨᔅ"
+      },
+      {
+        "lang": "cs",
+        "name": "Los evropský"
+      },
+      {
+        "lang": "cv",
+        "name": "Пăши"
+      },
+      {
+        "lang": "da",
+        "name": "Elg"
+      },
+      {
+        "lang": "de",
+        "name": "Elch"
+      },
+      {
+        "lang": "el",
+        "name": "Άλκη"
+      },
+      {
+        "lang": "en",
+        "name": "Elk"
+      },
+      {
+        "lang": "et",
+        "name": "Põder"
+      },
+      {
+        "lang": "eo",
+        "name": "Alko"
+      },
+      {
+        "lang": "es",
+        "name": "Alce euroasiático"
+      },
+      {
+        "lang": "eu",
+        "name": "Altze"
+      },
+      {
+        "lang": "fa",
+        "name": "موس"
+      },
+      {
+        "lang": "fi",
+        "name": "Hirvi"
+      },
+      {
+        "lang": "fo",
+        "name": "Elgur"
+      },
+      {
+        "lang": "fr",
+        "name": "Élan"
+      },
+      {
+        "lang": "gl",
+        "name": "Alce"
+      },
+      {
+        "lang": "he",
+        "name": "אייל קורא"
+      },
+      {
+        "lang": "hu",
+        "name": "Jávorszarvas"
+      },
+      {
+        "lang": "id",
+        "name": "Rusa besar"
+      },
+      {
+        "lang": "ik",
+        "name": "Tuttuvak"
+      },
+      {
+        "lang": "io",
+        "name": "Alko"
+      },
+      {
+        "lang": "iu",
+        "name": "ᑐᒃᑐᕙᒃ"
+      },
+      {
+        "lang": "is",
+        "name": "Elgur"
+      },
+      {
+        "lang": "it",
+        "name": "Alce"
+      },
+      {
+        "lang": "ja",
+        "name": "ヘラジカ"
+      },
+      {
+        "lang": "ka",
+        "name": "ლოსი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Бланэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Бұлан"
+      },
+      {
+        "lang": "kl",
+        "name": "Tuttorpak"
+      },
+      {
+        "lang": "ko",
+        "name": "말코손바닥사슴"
+      },
+      {
+        "lang": "koi",
+        "name": "Вӧрмӧс"
+      },
+      {
+        "lang": "kv",
+        "name": "Йӧра"
+      },
+      {
+        "lang": "lt",
+        "name": "Briedis"
+      },
+      {
+        "lang": "ltg",
+        "name": "Brīds"
+      },
+      {
+        "lang": "lv",
+        "name": "Alnis"
+      },
+      {
+        "lang": "mhr",
+        "name": "Шордо"
+      },
+      {
+        "lang": "mr",
+        "name": "मूस"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шарды"
+      },
+      {
+        "lang": "mn",
+        "name": "Хандгай"
+      },
+      {
+        "lang": "my",
+        "name": "မုစကောင်"
+      },
+      {
+        "lang": "myv",
+        "name": "Сярдо"
+      },
+      {
+        "lang": "nl",
+        "name": "Eland"
+      },
+      {
+        "lang": "nn",
+        "name": "Elg"
+      },
+      {
+        "lang": "no",
+        "name": "Elg"
+      },
+      {
+        "lang": "nrm",
+        "name": "Orîngna"
+      },
+      {
+        "lang": "pl",
+        "name": "Łoś"
+      },
+      {
+        "lang": "pt",
+        "name": "Alce"
+      },
+      {
+        "lang": "qu",
+        "name": "Alsi"
+      },
+      {
+        "lang": "ro",
+        "name": "Elan"
+      },
+      {
+        "lang": "ru",
+        "name": "Лось"
+      },
+      {
+        "lang": "sah",
+        "name": "Тайах"
+      },
+      {
+        "lang": "se",
+        "name": "Sarvva"
+      },
+      {
+        "lang": "sh",
+        "name": "Los"
+      },
+      {
+        "lang": "sk",
+        "name": "Los mokraďový"
+      },
+      {
+        "lang": "sl",
+        "name": "Los"
+      },
+      {
+        "lang": "sr",
+        "name": "Лос"
+      },
+      {
+        "lang": "sv",
+        "name": "Älg"
+      },
+      {
+        "lang": "sw",
+        "name": "Elki"
+      },
+      {
+        "lang": "tr",
+        "name": "Sığın"
+      },
+      {
+        "lang": "tt",
+        "name": "Поши"
+      },
+      {
+        "lang": "udm",
+        "name": "Койык"
+      },
+      {
+        "lang": "ug",
+        "name": "قانداغاي"
+      },
+      {
+        "lang": "uk",
+        "name": "Лось"
+      },
+      {
+        "lang": "vep",
+        "name": "Hirb'"
+      },
+      {
+        "lang": "vi",
+        "name": "Nai sừng tấm châu Âu"
+      },
+      {
+        "lang": "yi",
+        "name": "לאס"
+      },
+      {
+        "lang": "zh",
+        "name": "駝鹿"
+      },
+      {
+        "lang": "zu",
+        "name": "I-eliki"
+      }
+    ]
+  }
+]

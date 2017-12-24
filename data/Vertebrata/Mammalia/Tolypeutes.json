@@ -1,0 +1,55 @@
+[
+  {
+    "scientific_name": "Tolypeutes tricinctus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brazilian three-banded armadillo"
+      },
+      {
+        "lang": "pt",
+        "name": "tatu-bola",
+        "synonyms": [
+          "tatuapara",
+          "apara",
+          "apar"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "巴西三帶犰狳"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tolypeutes matacus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Southern three-banded armadillo"
+      },
+      {
+        "lang": "es",
+        "name": "Quirquincho bola"
+      },
+      {
+        "lang": "pl",
+        "name": "Bolita południowa"
+      },
+      {
+        "lang": "pt",
+        "name": "tatu-mataco",
+        "synonyms": [
+          "tatu-bola",
+          "tatuapara",
+          "apara",
+          "apar"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Üç kemerli armadillo"
+      }
+    ]
+  }
+]

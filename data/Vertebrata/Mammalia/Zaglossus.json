@@ -1,0 +1,104 @@
+[
+  {
+    "scientific_name": "Zaglossus robustus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zaglossus maximus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zaglossus hacketti",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zaglossus bruijni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Long-beaked Echidna"
+      },
+      {
+        "lang": "fi",
+        "name": "Kärsänokkasiili"
+      },
+      {
+        "lang": "is",
+        "name": "Maðkígull"
+      },
+      {
+        "lang": "pl",
+        "name": "Prakolczatka"
+      },
+      {
+        "lang": "ru",
+        "name": "Волосатая проехидна"
+      },
+      {
+        "lang": "uk",
+        "name": "Єхидна довгоноса"
+      },
+      {
+        "lang": "pt",
+        "name": "Equidna-de-bico-longo"
+      },
+      {
+        "lang": "zh",
+        "name": "長吻針鼴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zaglossus bartoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern Long-beaked echidna"
+      },
+      {
+        "lang": "zh",
+        "name": "大長吻針鼴"
+      },
+      {
+        "lang": "pt",
+        "name": "Equidna-de-barton"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zaglossus attenboroughi",
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "ミユビハリモグラ属"
+      },
+      {
+        "lang": "en",
+        "name": "Sir David's Long-beaked Echidna",
+        "synonyms": [
+          "Attenborough's Long-beaked Echidna",
+          "Cyclops Long-beaked Echidna"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Equidna de hocico largo de Attenborough"
+      },
+      {
+        "lang": "pt",
+        "name": "Equidna-de-attenborough",
+        "synonyms": [
+          "Equidna-de-bico-longo-das-cíclopes"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Довгоноса єхидна-циклоп"
+      },
+      {
+        "lang": "zh",
+        "name": "阿滕伯勒長喙針鼴鼠"
+      }
+    ]
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "scientific_name": "Gazella subgutturosa",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غزال درقي، ريم، غزال فارسي"
+      },
+      {
+        "lang": "de",
+        "name": "Kropfgazelle"
+      },
+      {
+        "lang": "en",
+        "name": "Goitered Gazelle",
+        "synonyms": [
+          "Persian gazelle"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Gacela persa"
+      },
+      {
+        "lang": "fr",
+        "name": "Gazelle à goitre"
+      },
+      {
+        "lang": "pl",
+        "name": "Dżejran"
+      },
+      {
+        "lang": "tr",
+        "name": "ceylan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella spekei",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Gacela de Speke"
+      },
+      {
+        "lang": "ja",
+        "name": "スペックガゼル"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella saudiya",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غزال سعودي"
+      },
+      {
+        "lang": "en",
+        "name": "Saudi gazelle"
+      },
+      {
+        "lang": "es",
+        "name": "Gacela saudi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella leptoceros",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غزال نحيل القرون"
+      },
+      {
+        "lang": "de",
+        "name": "Dünengazelle"
+      },
+      {
+        "lang": "en",
+        "name": "Rhim Gazelle",
+        "synonyms": [
+          "Slender-horned Gazelle",
+          "Sand Gazelle",
+          "Loder's Gazelle"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Gacela de Loder o blanca"
+      },
+      {
+        "lang": "nl",
+        "name": "Duingazelle"
+      },
+      {
+        "lang": "pl",
+        "name": "Gazela Lodera"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkogaselli"
+      },
+      {
+        "lang": "sv",
+        "name": "Sandgasell"
+      },
+      {
+        "lang": "zh",
+        "name": "细角瞪羚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella gazella",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غزال الجبل، الآدمي"
+      },
+      {
+        "lang": "cs",
+        "name": "Gazela obecná"
+      },
+      {
+        "lang": "de",
+        "name": "Edmigazelle"
+      },
+      {
+        "lang": "en",
+        "name": "Mountain Gazelle"
+      },
+      {
+        "lang": "es",
+        "name": "Gacela arábiga o índica"
+      },
+      {
+        "lang": "fr",
+        "name": "Gazelle des montagnes"
+      },
+      {
+        "lang": "he",
+        "name": "צבי מצוי"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyi gazella"
+      },
+      {
+        "lang": "it",
+        "name": "Gazzella di montagna"
+      },
+      {
+        "lang": "pl",
+        "name": "Gazela górska"
+      },
+      {
+        "lang": "zh",
+        "name": "山瞪羚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella dorcas",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غزال دوركاس"
+      },
+      {
+        "lang": "be",
+        "name": "Газель-доркас"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Газэль-доркас"
+      },
+      {
+        "lang": "br",
+        "name": "Gazelenn Dorkas"
+      },
+      {
+        "lang": "bg",
+        "name": "Газела доркас"
+      },
+      {
+        "lang": "ca",
+        "name": "Gasela comuna"
+      },
+      {
+        "lang": "de",
+        "name": "Dorkasgazelle"
+      },
+      {
+        "lang": "en",
+        "name": "Dorcas Gazelle"
+      },
+      {
+        "lang": "es",
+        "name": "Gacela común o dorcas"
+      },
+      {
+        "lang": "eo",
+        "name": "Dorkas-gazelo"
+      },
+      {
+        "lang": "fa",
+        "name": "جبیر"
+      },
+      {
+        "lang": "fr",
+        "name": "Gazelle dorcas",
+        "synonyms": [
+          "gazelle Dorcade"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "도르카스가젤"
+      },
+      {
+        "lang": "it",
+        "name": "Gazzella dorcade"
+      },
+      {
+        "lang": "he",
+        "name": "צבי הנגב"
+      },
+      {
+        "lang": "lt",
+        "name": "Dorkas"
+      },
+      {
+        "lang": "hu",
+        "name": "Dorkászgazella"
+      },
+      {
+        "lang": "mhr",
+        "name": "Газель-доркас"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈورکاس غزال"
+      },
+      {
+        "lang": "pl",
+        "name": "Gazela dorkas"
+      },
+      {
+        "lang": "pt",
+        "name": "Gazela-dorcas"
+      },
+      {
+        "lang": "ru",
+        "name": "Газель-доркас"
+      },
+      {
+        "lang": "sr",
+        "name": "Доркас газела"
+      },
+      {
+        "lang": "sv",
+        "name": "Dorkagasell"
+      },
+      {
+        "lang": "udm",
+        "name": "Газель-доркас"
+      },
+      {
+        "lang": "uk",
+        "name": "Газель доркас"
+      },
+      {
+        "lang": "zh",
+        "name": "小鹿瞪羚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella cuvieri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cuvier's Gazelle"
+      },
+      {
+        "lang": "es",
+        "name": "Gacela del Atlas o de Cuvier"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella bilkis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غزال ملكة سبأ، غزال اليمن"
+      },
+      {
+        "lang": "en",
+        "name": "Queen Sheba's Gazelle"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella bennettii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chinkara"
+      },
+      {
+        "lang": "fr",
+        "name": "Gazelle de L'inde"
+      },
+      {
+        "lang": "es",
+        "name": "Gacela de la India o chinkara"
+      },
+      {
+        "lang": "pl",
+        "name": "Gazela indyjska"
+      },
+      {
+        "lang": "pt",
+        "name": "Gazela-da-Índia",
+        "synonyms": [
+          "Chinkara"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella arabica",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "غزال عربي"
+      },
+      {
+        "lang": "en",
+        "name": "Arabian gazelle"
+      },
+      {
+        "lang": "eo",
+        "name": "Arabia gazelo"
+      },
+      {
+        "lang": "es",
+        "name": "Gacela arábiga"
+      },
+      {
+        "lang": "hu",
+        "name": "Arab gazella"
+      },
+      {
+        "lang": "it",
+        "name": "Gazzella araba"
+      },
+      {
+        "lang": "zh",
+        "name": "阿拉伯瞪羚"
+      }
+    ]
+  }
+]

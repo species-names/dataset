@@ -1,0 +1,71 @@
+[
+  {
+    "scientific_name": "Desmodus stocki",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Desmodus rotundus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Upír obecný"
+      },
+      {
+        "lang": "de",
+        "name": "Gemeiner Vampir"
+      },
+      {
+        "lang": "en",
+        "name": "Common Vampire Bat"
+      },
+      {
+        "lang": "fi",
+        "name": "Isoverenimijä"
+      },
+      {
+        "lang": "he",
+        "name": "ערפד מצוי"
+      },
+      {
+        "lang": "th",
+        "name": "ค้างคาวแวมไพร์",
+        "synonyms": [
+          "ค้างคาวดูดเลือด"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ナミチスイコウモリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis vampyras"
+      },
+      {
+        "lang": "nl",
+        "name": "Gewone vampier"
+      },
+      {
+        "lang": "pl",
+        "name": "Wampir zwyczajny"
+      },
+      {
+        "lang": "pt",
+        "name": "Morcego-vampiro"
+      },
+      {
+        "lang": "qu",
+        "name": "Wiruchu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Desmodus draculae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Giant Vampire Bat"
+      }
+    ]
+  }
+]

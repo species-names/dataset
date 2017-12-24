@@ -1,0 +1,420 @@
+[
+  {
+    "scientific_name": "Bison priscus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Steppe Wisent"
+      },
+      {
+        "lang": "hu",
+        "name": "Sztyeppei bölény"
+      },
+      {
+        "lang": "lv",
+        "name": "Stepes bizons"
+      },
+      {
+        "lang": "sv",
+        "name": "Stäppbison"
+      },
+      {
+        "lang": "zh",
+        "name": "西伯利亞野牛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bison occidentalis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bison latifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Paleo Bison",
+        "synonyms": [
+          "Giant Ice Age Bison"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Hosszúszarvú bölény"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bison bonasus",
+    "common_names": [
+      {
+        "lang": "kbd",
+        "name": "Домбей"
+      },
+      {
+        "lang": "ar",
+        "name": "بيسون أوروبيِ"
+      },
+      {
+        "lang": "az",
+        "name": "Zubr"
+      },
+      {
+        "lang": "be",
+        "name": "Зубр еўрапейскі"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Зубар"
+      },
+      {
+        "lang": "bg",
+        "name": "Зубър"
+      },
+      {
+        "lang": "bar",
+        "name": "Wisent"
+      },
+      {
+        "lang": "br",
+        "name": "Bizon Europa"
+      },
+      {
+        "lang": "ca",
+        "name": "Bisó europeu"
+      },
+      {
+        "lang": "cs",
+        "name": "Zubr evropský"
+      },
+      {
+        "lang": "da",
+        "name": "Europæisk bison",
+        "synonyms": [
+          "visent"
+        ]
+      },
+      {
+        "lang": "de",
+        "name": "Wisent",
+        "synonyms": [
+          "Europäische Bison"
+        ]
+      },
+      {
+        "lang": "nv",
+        "name": "Béésh Bichʼahníí Bikéyahdę́ę́ʼ ayání"
+      },
+      {
+        "lang": "en",
+        "name": "European bison",
+        "synonyms": [
+          "Wisent",
+          "European Wood Bison"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Euroopa piison"
+      },
+      {
+        "lang": "es",
+        "name": "Bisonte europeo"
+      },
+      {
+        "lang": "eo",
+        "name": "Eŭropa bizono"
+      },
+      {
+        "lang": "eu",
+        "name": "Europako bisonte"
+      },
+      {
+        "lang": "fa",
+        "name": "ویسنت"
+      },
+      {
+        "lang": "fo",
+        "name": "Visundur"
+      },
+      {
+        "lang": "fr",
+        "name": "Bison d'Europe"
+      },
+      {
+        "lang": "fur",
+        "name": "Bisont european"
+      },
+      {
+        "lang": "ga",
+        "name": "Bíosún Eorpach"
+      },
+      {
+        "lang": "gl",
+        "name": "Bisonte europeo"
+      },
+      {
+        "lang": "ko",
+        "name": "유럽들소"
+      },
+      {
+        "lang": "hr",
+        "name": "Europski bizon"
+      },
+      {
+        "lang": "id",
+        "name": "Bison Eropa"
+      },
+      {
+        "lang": "ia",
+        "name": "Bisonte europee"
+      },
+      {
+        "lang": "os",
+        "name": "Домбай"
+      },
+      {
+        "lang": "it",
+        "name": "Bisonte europeo"
+      },
+      {
+        "lang": "he",
+        "name": "ביזון אירופי"
+      },
+      {
+        "lang": "jv",
+        "name": "Wisent"
+      },
+      {
+        "lang": "ka",
+        "name": "დომბა"
+      },
+      {
+        "lang": "kk",
+        "name": "Зубр"
+      },
+      {
+        "lang": "lv",
+        "name": "Sumbrs"
+      },
+      {
+        "lang": "lt",
+        "name": "Stumbras"
+      },
+      {
+        "lang": "hu",
+        "name": "Európai bölény"
+      },
+      {
+        "lang": "ms",
+        "name": "Bison Eropah"
+      },
+      {
+        "lang": "nl",
+        "name": "Wisent"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパバイソン"
+      },
+      {
+        "lang": "ce",
+        "name": "Акха сту"
+      },
+      {
+        "lang": "no",
+        "name": "Visent"
+      },
+      {
+        "lang": "nn",
+        "name": "Visent"
+      },
+      {
+        "lang": "pl",
+        "name": "Żubr"
+      },
+      {
+        "lang": "pt",
+        "name": "Bisonte-europeu"
+      },
+      {
+        "lang": "ro",
+        "name": "Zimbru"
+      },
+      {
+        "lang": "ru",
+        "name": "Зубр"
+      },
+      {
+        "lang": "sk",
+        "name": "Zubor lesný"
+      },
+      {
+        "lang": "sl",
+        "name": "Zober"
+      },
+      {
+        "lang": "sr",
+        "name": "Европски бизон"
+      },
+      {
+        "lang": "fi",
+        "name": "Visentti"
+      },
+      {
+        "lang": "sv",
+        "name": "Visent",
+        "synonyms": [
+          "europeisk bison"
+        ]
+      },
+      {
+        "lang": "tg",
+        "name": "Зубр"
+      },
+      {
+        "lang": "tr",
+        "name": "Avrupa bizonu"
+      },
+      {
+        "lang": "udm",
+        "name": "Зубр"
+      },
+      {
+        "lang": "uk",
+        "name": "Зубр",
+        "synonyms": [
+          "Бізон європейський"
+        ]
+      },
+      {
+        "lang": "vep",
+        "name": "Zubr"
+      },
+      {
+        "lang": "vi",
+        "name": "Bò bizon châu Âu"
+      },
+      {
+        "lang": "vls",
+        "name": "Wisent"
+      },
+      {
+        "lang": "diq",
+        "name": "Bizonê Ewropa"
+      },
+      {
+        "lang": "zh",
+        "name": "欧洲野牛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bison bison",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Bisó americà"
+      },
+      {
+        "lang": "chy",
+        "name": "Hotoa'e"
+      },
+      {
+        "lang": "cs",
+        "name": "Bizon americký"
+      },
+      {
+        "lang": "en",
+        "name": "American Bison"
+      },
+      {
+        "lang": "es",
+        "name": "Bisonte americano",
+        "synonyms": [
+          "bison o búfalo"
+        ]
+      },
+      {
+        "lang": "eu",
+        "name": "Amerikako bisonte"
+      },
+      {
+        "lang": "gl",
+        "name": "Bisonte americano"
+      },
+      {
+        "lang": "he",
+        "name": "ביזון אמריקאי"
+      },
+      {
+        "lang": "hu",
+        "name": "Amerikai bölény"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカバイソン"
+      },
+      {
+        "lang": "lv",
+        "name": "Amerikas bizons"
+      },
+      {
+        "lang": "nv",
+        "name": "Ayání"
+      },
+      {
+        "lang": "pl",
+        "name": "Bizon"
+      },
+      {
+        "lang": "pt",
+        "name": "Bisão-americano"
+      },
+      {
+        "lang": "sv",
+        "name": "Bisonoxe",
+        "synonyms": [
+          "amerikansk bison"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Amerika bizonu"
+      },
+      {
+        "lang": "zh",
+        "name": "犎牛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Bison antiquus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ancient bison"
+      },
+      {
+        "lang": "gl",
+        "name": "Bisonte antigo"
+      },
+      {
+        "lang": "hu",
+        "name": "Amerikai ősbölény"
+      },
+      {
+        "lang": "lv",
+        "name": "Senais bizons"
+      },
+      {
+        "lang": "pt",
+        "name": "Bisão-antigo"
+      },
+      {
+        "lang": "zh",
+        "name": "古風野牛"
+      }
+    ]
+  }
+]

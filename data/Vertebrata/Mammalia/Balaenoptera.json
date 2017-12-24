@@ -1,0 +1,829 @@
+[
+  {
+    "scientific_name": "Balaenoptera physalus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Rorkwal"
+      },
+      {
+        "lang": "ar",
+        "name": "حوت زعنفي"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Thong-thò Hái-ang"
+      },
+      {
+        "lang": "be",
+        "name": "Фінвал"
+      },
+      {
+        "lang": "bg",
+        "name": "Финвал"
+      },
+      {
+        "lang": "br",
+        "name": "Balum boutin"
+      },
+      {
+        "lang": "ca",
+        "name": "Rorqual comú"
+      },
+      {
+        "lang": "cs",
+        "name": "Plejtvák myšok"
+      },
+      {
+        "lang": "da",
+        "name": "Finhval"
+      },
+      {
+        "lang": "de",
+        "name": "Finnwal"
+      },
+      {
+        "lang": "en",
+        "name": "Fin Whale",
+        "synonyms": [
+          "Common Rorqual",
+          "Fin-backed Whale",
+          "Finback",
+          "Finner",
+          "Herring Whale",
+          "Razorback"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Heeringavaal"
+      },
+      {
+        "lang": "es",
+        "name": "Ballena Aleta",
+        "synonyms": [
+          "Ballena Boba",
+          "Rorcual Común"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Balenoptero"
+      },
+      {
+        "lang": "eu",
+        "name": "Zere arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "نهنگ تیغ‌باله"
+      },
+      {
+        "lang": "fr",
+        "name": "Baleine Fin",
+        "synonyms": [
+          "Baleine À Nageoires",
+          "Baleinoptère Commune",
+          "Rorqual Commun"
+        ]
+      },
+      {
+        "lang": "ga",
+        "name": "Droimeiteach"
+      },
+      {
+        "lang": "gl",
+        "name": "Balea",
+        "synonyms": [
+          "Rorcual común"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "큰고래"
+      },
+      {
+        "lang": "hr",
+        "name": "Kit perajar"
+      },
+      {
+        "lang": "id",
+        "name": "Paus Sirip"
+      },
+      {
+        "lang": "is",
+        "name": "Langreyður"
+      },
+      {
+        "lang": "it",
+        "name": "Balenottera comune"
+      },
+      {
+        "lang": "he",
+        "name": "לווייתן מצוי"
+      },
+      {
+        "lang": "lv",
+        "name": "Finvalis"
+      },
+      {
+        "lang": "lt",
+        "name": "Finvalas"
+      },
+      {
+        "lang": "hu",
+        "name": "Közönséges barázdásbálna"
+      },
+      {
+        "lang": "ml",
+        "name": "ചിറകൻ തിമിംഗലം"
+      },
+      {
+        "lang": "nl",
+        "name": "Gewone vinvis"
+      },
+      {
+        "lang": "ja",
+        "name": "ナガスクジラ"
+      },
+      {
+        "lang": "no",
+        "name": "Finnhval"
+      },
+      {
+        "lang": "nn",
+        "name": "Finnkval"
+      },
+      {
+        "lang": "pnb",
+        "name": "فن وہیل"
+      },
+      {
+        "lang": "pl",
+        "name": "Finwal"
+      },
+      {
+        "lang": "pt",
+        "name": "Baleia-comum",
+        "synonyms": [
+          "baleia-fin"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Финвал"
+      },
+      {
+        "lang": "simple",
+        "name": "Fin Whale"
+      },
+      {
+        "lang": "sk",
+        "name": "Vráskavec myšok"
+      },
+      {
+        "lang": "sr",
+        "name": "Кит перајар"
+      },
+      {
+        "lang": "fi",
+        "name": "Sillivalas"
+      },
+      {
+        "lang": "sv",
+        "name": "Sillval"
+      },
+      {
+        "lang": "tr",
+        "name": "Oluklu balina",
+        "synonyms": [
+          "Çatal kuyruklu balina"
+        ]
+      },
+      {
+        "lang": "th",
+        "name": "วาฬฟิน"
+      },
+      {
+        "lang": "vi",
+        "name": "Cá voi vây"
+      },
+      {
+        "lang": "zh",
+        "name": "長鬚鯨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Balaenoptera omurai",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Omura's Whale"
+      },
+      {
+        "lang": "ja",
+        "name": "ツノシマクジラ"
+      },
+      {
+        "lang": "pt",
+        "name": "Baleia-de-Omura"
+      },
+      {
+        "lang": "zh",
+        "name": "角島鯨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Balaenoptera musculus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Blouwalvis"
+      },
+      {
+        "lang": "ar",
+        "name": "حوت أزرق"
+      },
+      {
+        "lang": "az",
+        "name": "Göy balina"
+      },
+      {
+        "lang": "bn",
+        "name": "নীল তিমি"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Khóng-sek Hái-ang"
+      },
+      {
+        "lang": "be",
+        "name": "Блакітны кіт"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Блакітны кіт"
+      },
+      {
+        "lang": "bg",
+        "name": "Син кит"
+      },
+      {
+        "lang": "br",
+        "name": "Balum glas"
+      },
+      {
+        "lang": "ca",
+        "name": "Balena blava"
+      },
+      {
+        "lang": "cs",
+        "name": "Plejtvák obrovský"
+      },
+      {
+        "lang": "cy",
+        "name": "Morfil Glas"
+      },
+      {
+        "lang": "da",
+        "name": "Blåhval"
+      },
+      {
+        "lang": "de",
+        "name": "Blauwal"
+      },
+      {
+        "lang": "nv",
+        "name": "Łóóʼtsoh dootłʼizhígíí"
+      },
+      {
+        "lang": "et",
+        "name": "Sinivaal"
+      },
+      {
+        "lang": "el",
+        "name": "Γαλάζια φάλαινα"
+      },
+      {
+        "lang": "en",
+        "name": "Blue whale"
+      },
+      {
+        "lang": "es",
+        "name": "Ballena azul",
+        "synonyms": [
+          "rorcual azul"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Blua baleno"
+      },
+      {
+        "lang": "eu",
+        "name": "Balea urdin"
+      },
+      {
+        "lang": "fa",
+        "name": "نهنگ آبی"
+      },
+      {
+        "lang": "fr",
+        "name": "Baleine bleue",
+        "synonyms": [
+          "rorqual bleu"
+        ]
+      },
+      {
+        "lang": "fy",
+        "name": "Blauwe Finfisk"
+      },
+      {
+        "lang": "ga",
+        "name": "Míol mór gorm"
+      },
+      {
+        "lang": "gl",
+        "name": "Balea azul"
+      },
+      {
+        "lang": "ko",
+        "name": "대왕고래"
+      },
+      {
+        "lang": "hr",
+        "name": "Plavetni kit"
+      },
+      {
+        "lang": "io",
+        "name": "Baleno blua"
+      },
+      {
+        "lang": "id",
+        "name": "Paus biru"
+      },
+      {
+        "lang": "is",
+        "name": "Steypireyður"
+      },
+      {
+        "lang": "it",
+        "name": "Balenottera azzurra"
+      },
+      {
+        "lang": "he",
+        "name": "לווייתן כחול"
+      },
+      {
+        "lang": "kl",
+        "name": "Tunnullit"
+      },
+      {
+        "lang": "ka",
+        "name": "ლურჯი ვეშაპი"
+      },
+      {
+        "lang": "kk",
+        "name": "Көк кит"
+      },
+      {
+        "lang": "lv",
+        "name": "Zilais valis"
+      },
+      {
+        "lang": "lt",
+        "name": "Mėlynasis banginis"
+      },
+      {
+        "lang": "li",
+        "name": "Blauwe vinvès"
+      },
+      {
+        "lang": "hu",
+        "name": "Kék bálna"
+      },
+      {
+        "lang": "mk",
+        "name": "Син кит"
+      },
+      {
+        "lang": "ml",
+        "name": "നീലത്തിമിംഗലം"
+      },
+      {
+        "lang": "ms",
+        "name": "Paus biru"
+      },
+      {
+        "lang": "mn",
+        "name": "Хөх судалт халим"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwe vinvis"
+      },
+      {
+        "lang": "ja",
+        "name": "シロナガスクジラ"
+      },
+      {
+        "lang": "no",
+        "name": "Blåhval"
+      },
+      {
+        "lang": "nn",
+        "name": "Blåkval"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیلی وہیل"
+      },
+      {
+        "lang": "pl",
+        "name": "Płetwal błękitny"
+      },
+      {
+        "lang": "pt",
+        "name": "Baleia-azul"
+      },
+      {
+        "lang": "ro",
+        "name": "Balenă albastră"
+      },
+      {
+        "lang": "ru",
+        "name": "Синий кит"
+      },
+      {
+        "lang": "si",
+        "name": "නිල් තල්මහ"
+      },
+      {
+        "lang": "simple",
+        "name": "Blue Whale"
+      },
+      {
+        "lang": "sk",
+        "name": "Vráskavec obrovský"
+      },
+      {
+        "lang": "sl",
+        "name": "Sinji kit"
+      },
+      {
+        "lang": "sr",
+        "name": "Плави кит"
+      },
+      {
+        "lang": "sh",
+        "name": "Plavi kit"
+      },
+      {
+        "lang": "fi",
+        "name": "Sinivalas"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåval"
+      },
+      {
+        "lang": "ta",
+        "name": "நீலத்திமிங்கிலம்"
+      },
+      {
+        "lang": "th",
+        "name": "วาฬสีน้ำเงิน"
+      },
+      {
+        "lang": "tr",
+        "name": "Gök balina"
+      },
+      {
+        "lang": "uk",
+        "name": "Синій кит"
+      },
+      {
+        "lang": "ur",
+        "name": "نیلی حوت"
+      },
+      {
+        "lang": "vi",
+        "name": "Cá voi xanh"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "藍鯨"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝鲸"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Balaenoptera edeni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eden's Whale",
+        "synonyms": [
+          "Pygmy Bryde's Whale"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Rorcual pigmeo"
+      },
+      {
+        "lang": "fi",
+        "name": "Tropiikinvalas"
+      },
+      {
+        "lang": "fr",
+        "name": "Rorqual de Sittang"
+      },
+      {
+        "lang": "sv",
+        "name": "Edens fenval"
+      },
+      {
+        "lang": "tr",
+        "name": "Cüce Bryde balinası"
+      },
+      {
+        "lang": "zh",
+        "name": "小布氏鲸"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Balaenoptera brydei",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Brydeshval"
+      },
+      {
+        "lang": "en",
+        "name": "Bryde's Whale"
+      },
+      {
+        "lang": "es",
+        "name": "Rorcual tropical"
+      },
+      {
+        "lang": "fr",
+        "name": "Rorqual de Bryde"
+      },
+      {
+        "lang": "ja",
+        "name": "ニタリクジラ"
+      },
+      {
+        "lang": "pt",
+        "name": "Baleia-de-Bryde"
+      },
+      {
+        "lang": "sv",
+        "name": "Brydes fenval"
+      },
+      {
+        "lang": "tr",
+        "name": "Bryde balinası"
+      },
+      {
+        "lang": "th",
+        "name": "วาฬบรูดา",
+        "synonyms": [
+          "วาฬแกลบ"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "布氏鯨",
+        "synonyms": [
+          "熱帶鯨"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Balaenoptera borealis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Rorqual boreal"
+      },
+      {
+        "lang": "cs",
+        "name": "Plejtvák sejval"
+      },
+      {
+        "lang": "da",
+        "name": "Sejhval"
+      },
+      {
+        "lang": "en",
+        "name": "Sei Whale"
+      },
+      {
+        "lang": "cz",
+        "name": "Plejtvák sejval"
+      },
+      {
+        "lang": "es",
+        "name": "Rorcual boreal"
+      },
+      {
+        "lang": "fi",
+        "name": "Seitivalas"
+      },
+      {
+        "lang": "fr",
+        "name": "Rorqual boréal"
+      },
+      {
+        "lang": "hu",
+        "name": "Tőkebálna"
+      },
+      {
+        "lang": "id",
+        "name": "Paus Sei"
+      },
+      {
+        "lang": "is",
+        "name": "Sandreyður"
+      },
+      {
+        "lang": "ja",
+        "name": "イワシクジラ"
+      },
+      {
+        "lang": "ko",
+        "name": "멸치고래"
+      },
+      {
+        "lang": "lt",
+        "name": "Seivalas"
+      },
+      {
+        "lang": "lv",
+        "name": "Seivalis"
+      },
+      {
+        "lang": "ms",
+        "name": "Paus Sei"
+      },
+      {
+        "lang": "nl",
+        "name": "Noordse vinvis"
+      },
+      {
+        "lang": "no",
+        "name": "Seihval"
+      },
+      {
+        "lang": "pl",
+        "name": "Sejwal"
+      },
+      {
+        "lang": "ru",
+        "name": "Сейвал"
+      },
+      {
+        "lang": "pt",
+        "name": "Baleia-sardinheira"
+      },
+      {
+        "lang": "sh",
+        "name": "Rudolfijev kit",
+        "synonyms": [
+          "Рудолфијев кит"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Sejval"
+      },
+      {
+        "lang": "tr",
+        "name": "Kuzey balinası"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "塞鲸"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "塞鯨"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Balaenoptera bonaerensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Southern Minke Whale",
+        "synonyms": [
+          "Antarctic Minke Whale"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Rorcual austral"
+      },
+      {
+        "lang": "hu",
+        "name": "Déli csukabálna"
+      },
+      {
+        "lang": "ja",
+        "name": "クロミンククジラ"
+      },
+      {
+        "lang": "pt",
+        "name": "Baleia-minke-antártica"
+      },
+      {
+        "lang": "sv",
+        "name": "Antarktisk vikval"
+      },
+      {
+        "lang": "tr",
+        "name": "Antarktik minke balinası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Balaenoptera bertae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Balaenoptera acutorostrata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Plejtvák malý"
+      },
+      {
+        "lang": "da",
+        "name": "Vågehval"
+      },
+      {
+        "lang": "en",
+        "name": "Northern Minke Whale",
+        "synonyms": [
+          "Common Minke Whale",
+          "Lesser rorqual"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Rorcual aliblanco"
+      },
+      {
+        "lang": "fi",
+        "name": "Lahtivalas"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit rorqual"
+      },
+      {
+        "lang": "hu",
+        "name": "Csukabálna"
+      },
+      {
+        "lang": "is",
+        "name": "Hrefna"
+      },
+      {
+        "lang": "ja",
+        "name": "ミンククジラ"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠정어리고래"
+      },
+      {
+        "lang": "pt",
+        "name": "Baleia-anã"
+      },
+      {
+        "lang": "sv",
+        "name": "Vikval"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı minke balinası"
+      },
+      {
+        "lang": "zh",
+        "name": "小须鲸"
+      }
+    ]
+  }
+]

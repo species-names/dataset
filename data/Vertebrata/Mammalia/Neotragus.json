@@ -1,0 +1,162 @@
+[
+  {
+    "scientific_name": "Neotragus pygmaeus",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Antilopenn roueel"
+      },
+      {
+        "lang": "ca",
+        "name": "Antílop reial"
+      },
+      {
+        "lang": "de",
+        "name": "Kleinstböckchen"
+      },
+      {
+        "lang": "en",
+        "name": "Royal Antelope"
+      },
+      {
+        "lang": "es",
+        "name": "Antílope enano",
+        "synonyms": [
+          "antílope real"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Antilope pigmea",
+        "synonyms": [
+          "antilope reale"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Nykštukinė antilopė"
+      },
+      {
+        "lang": "hu",
+        "name": "Apró törpeantilop"
+      },
+      {
+        "lang": "nl",
+        "name": "Dwergantilope"
+      },
+      {
+        "lang": "ja",
+        "name": "ローヤルアンテロープ"
+      },
+      {
+        "lang": "no",
+        "name": "Kongeantilope"
+      },
+      {
+        "lang": "pl",
+        "name": "Antylopa karłowata"
+      },
+      {
+        "lang": "pt",
+        "name": "Antílope-real"
+      },
+      {
+        "lang": "ru",
+        "name": "Карликовая антилопа"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuningasantilooppi"
+      },
+      {
+        "lang": "sv",
+        "name": "Guineadvärgantilop",
+        "synonyms": [
+          "kungsantilop"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Kral antilop"
+      },
+      {
+        "lang": "zh",
+        "name": "倭新小羚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Neotragus moschatus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Soenie"
+      },
+      {
+        "lang": "br",
+        "name": "Antilopenn-vusk"
+      },
+      {
+        "lang": "de",
+        "name": "Moschusböckchen"
+      },
+      {
+        "lang": "en",
+        "name": "Suni"
+      },
+      {
+        "lang": "es",
+        "name": "Suni"
+      },
+      {
+        "lang": "fi",
+        "name": "Suni"
+      },
+      {
+        "lang": "hu",
+        "name": "Pézsmaantilop"
+      },
+      {
+        "lang": "pl",
+        "name": "Suni (zwierzę)"
+      },
+      {
+        "lang": "sv",
+        "name": "Suniantilop"
+      },
+      {
+        "lang": "udm",
+        "name": "Суни"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Neotragus batesi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bates's Pygmy Antelope",
+        "synonyms": [
+          "Bates's Dwarf Antelope",
+          "Dwarf Antelope"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Antílope pigmeo de Bates"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuantilooppi"
+      },
+      {
+        "lang": "hu",
+        "name": "Bates-törpeantilop"
+      },
+      {
+        "lang": "sv",
+        "name": "Bates dvärgantilop"
+      }
+    ]
+  }
+]
