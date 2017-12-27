@@ -45,6 +45,10 @@
         "name": "Seekoei"
       },
       {
+        "lang": "ar",
+        "name": "فرس النهر"
+      },
+      {
         "lang": "as",
         "name": "জলহস্তী"
       },
@@ -93,6 +97,10 @@
         "name": "Jöehobu"
       },
       {
+        "lang": "fa",
+        "name": "اسب آبی"
+      },
+      {
         "lang": "fi",
         "name": "Virtahepo"
       },
@@ -131,6 +139,13 @@
       {
         "lang": "ko",
         "name": "하마"
+      },
+      {
+        "lang": "ku",
+        "name": "hespê çemî",
+        "synonyms": [
+          "hespê avî"
+        ]
       },
       {
         "lang": "mr",
@@ -195,6 +210,10 @@
       {
         "lang": "ro",
         "name": "Hipopotam"
+      },
+      {
+        "lang": "isiZulu",
+        "name": "Mvubu"
       }
     ]
   }

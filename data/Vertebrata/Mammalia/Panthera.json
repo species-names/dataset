@@ -1,0 +1,1451 @@
+[
+  {
+    "scientific_name": "Panthera uncia",
+    "common_names": [
+      {
+        "lang": "ko",
+        "name": "눈표범",
+        "synonyms": [
+          "설표"
+        ]
+      },
+      {
+        "lang": "bg",
+        "name": "Барс"
+      },
+      {
+        "lang": "ca",
+        "name": "Lleopard de les neus"
+      },
+      {
+        "lang": "sr",
+        "name": "Снежни леопард",
+        "synonyms": [
+          "Snežni leopard"
+        ]
+      },
+      {
+        "lang": "da",
+        "name": "Sneleopard"
+      },
+      {
+        "lang": "de",
+        "name": "Schneeleopard"
+      },
+      {
+        "lang": "eo",
+        "name": "Neĝleopardo"
+      },
+      {
+        "lang": "en",
+        "name": "Snow Leopard"
+      },
+      {
+        "lang": "es",
+        "name": "Leopardo de las nieves",
+        "synonyms": [
+          "Onza",
+          "Gatopardo",
+          "Irbis"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Lumileopardi"
+      },
+      {
+        "lang": "fr",
+        "name": "Léopard des neiges",
+        "synonyms": [
+          "Once",
+          "Panthère des neiges",
+          "Irbis"
+        ]
+      },
+      {
+        "lang": "he",
+        "name": "נמר השלג"
+      },
+      {
+        "lang": "hr",
+        "name": "Sniježni leopard"
+      },
+      {
+        "lang": "hu",
+        "name": "Hópárduc",
+        "synonyms": [
+          "irbisz"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Leopardo delle nevi"
+      },
+      {
+        "lang": "ja",
+        "name": "ユキヒョウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Sneeuwpanter"
+      },
+      {
+        "lang": "no",
+        "name": "Snøleopard"
+      },
+      {
+        "lang": "pl",
+        "name": "Pantera śnieżna",
+        "synonyms": [
+          "irbis"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Leopardo das neves"
+      },
+      {
+        "lang": "ru",
+        "name": "Снежный барс",
+        "synonyms": [
+          "Ирбис"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Snöleopard"
+      },
+      {
+        "lang": "th",
+        "name": "เสือดาวหิมะ"
+      },
+      {
+        "lang": "tr",
+        "name": "Kar parsı"
+      },
+      {
+        "lang": "vi",
+        "name": "Báo tuyết"
+      },
+      {
+        "lang": "zh",
+        "name": "雪豹"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Panthera tigris",
+    "common_names": [
+      {
+        "lang": "als",
+        "name": "Tigr"
+      },
+      {
+        "lang": "ar",
+        "name": "ببر"
+      },
+      {
+        "lang": "ak",
+        "name": "Osebo"
+      },
+      {
+        "lang": "as",
+        "name": "বাঘ"
+      },
+      {
+        "lang": "bar",
+        "name": "Tieger",
+        "synonyms": [
+          "Tiger"
+        ]
+      },
+      {
+        "lang": "be",
+        "name": "Тыгр"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Тыгр"
+      },
+      {
+        "lang": "bg",
+        "name": "Тигър"
+      },
+      {
+        "lang": "bn",
+        "name": "বাঘ"
+      },
+      {
+        "lang": "bs",
+        "name": "Tigar"
+      },
+      {
+        "lang": "ca",
+        "name": "Tigre"
+      },
+      {
+        "lang": "cs",
+        "name": "Tygr"
+      },
+      {
+        "lang": "sr",
+        "name": "Тигар",
+        "synonyms": [
+          "Tigar"
+        ]
+      },
+      {
+        "lang": "da",
+        "name": "Tiger"
+      },
+      {
+        "lang": "de",
+        "name": "Tiger"
+      },
+      {
+        "lang": "nv",
+        "name": "Náshdóítsoh noodǫ́zígíí"
+      },
+      {
+        "lang": "el",
+        "name": "Τίγρης"
+      },
+      {
+        "lang": "en",
+        "name": "Tiger"
+      },
+      {
+        "lang": "eo",
+        "name": "Tigro"
+      },
+      {
+        "lang": "es",
+        "name": "Tigre"
+      },
+      {
+        "lang": "et",
+        "name": "Tiiger"
+      },
+      {
+        "lang": "fi",
+        "name": "Tiikeri"
+      },
+      {
+        "lang": "fr",
+        "name": "Tigre"
+      },
+      {
+        "lang": "gl",
+        "name": "Tigre"
+      },
+      {
+        "lang": "gu",
+        "name": "વાઘ"
+      },
+      {
+        "lang": "he",
+        "name": "טיגריס"
+      },
+      {
+        "lang": "hi",
+        "name": "बाघ (bāgh)",
+        "synonyms": [
+          "शेर (sher)",
+          "सिंह (siṅh)"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Tigar"
+      },
+      {
+        "lang": "hu",
+        "name": "Tigris"
+      },
+      {
+        "lang": "hy",
+        "name": "վագր"
+      },
+      {
+        "lang": "id",
+        "name": "Harimau"
+      },
+      {
+        "lang": "is",
+        "name": "Tígrisdýr"
+      },
+      {
+        "lang": "it",
+        "name": "Tigre"
+      },
+      {
+        "lang": "ja",
+        "name": "トラ"
+      },
+      {
+        "lang": "jv",
+        "name": "Macan"
+      },
+      {
+        "lang": "ko",
+        "name": "호랑이"
+      },
+      {
+        "lang": "la",
+        "name": "Tigris"
+      },
+      {
+        "lang": "li",
+        "name": "Tieger"
+      },
+      {
+        "lang": "ms",
+        "name": "Harimau"
+      },
+      {
+        "lang": "mr",
+        "name": "वाघ (vāgh)"
+      },
+      {
+        "lang": "ml",
+        "name": "കടുവ"
+      },
+      {
+        "lang": "mn",
+        "name": "Бар"
+      },
+      {
+        "lang": "mt",
+        "name": "Tigra"
+      },
+      {
+        "lang": "nl",
+        "name": "Tijger"
+      },
+      {
+        "lang": "nn",
+        "name": "Tiger"
+      },
+      {
+        "lang": "no",
+        "name": "Tiger"
+      },
+      {
+        "lang": "pl",
+        "name": "Tygrys"
+      },
+      {
+        "lang": "pt",
+        "name": "Tigre"
+      },
+      {
+        "lang": "ro",
+        "name": "Tigru"
+      },
+      {
+        "lang": "ru",
+        "name": "Тигр"
+      },
+      {
+        "lang": "sa",
+        "name": "व्याघ्र: (VyāghraH)"
+      },
+      {
+        "lang": "sl",
+        "name": "Tiger"
+      },
+      {
+        "lang": "su",
+        "name": "Maung lodaya"
+      },
+      {
+        "lang": "sv",
+        "name": "Tiger"
+      },
+      {
+        "lang": "ta",
+        "name": "புலி"
+      },
+      {
+        "lang": "te",
+        "name": "పులి"
+      },
+      {
+        "lang": "th",
+        "name": "เสือโคร่ง",
+        "synonyms": [
+          "เสือลายพาดกลอน"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Kaplan"
+      },
+      {
+        "lang": "uk",
+        "name": "Тигр"
+      },
+      {
+        "lang": "vi",
+        "name": "Hổ"
+      },
+      {
+        "lang": "zh",
+        "name": "虎"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Panthera sumatrae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Panthera sondaica",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Yava pələngi"
+      },
+      {
+        "lang": "bar",
+        "name": "Java-Tieger"
+      },
+      {
+        "lang": "bg",
+        "name": "Явански тигър"
+      },
+      {
+        "lang": "bn",
+        "name": "জাভার বাঘ"
+      },
+      {
+        "lang": "ca",
+        "name": "Tigre de Java"
+      },
+      {
+        "lang": "cs ",
+        "name": "Tygr jávský"
+      },
+      {
+        "lang": " de",
+        "name": "Java-Tiger"
+      },
+      {
+        "lang": "en",
+        "name": "Javan Tiger"
+      },
+      {
+        "lang": "es",
+        "name": "Tigre de Java"
+      },
+      {
+        "lang": "et",
+        "name": "Jaava tiiger"
+      },
+      {
+        "lang": "fi",
+        "name": "Jaavantiikeri"
+      },
+      {
+        "lang": "fr",
+        "name": "Tigre de Java"
+      },
+      {
+        "lang": "hr",
+        "name": "Javanski tigar"
+      },
+      {
+        "lang": "hu",
+        "name": "Jávai tigris"
+      },
+      {
+        "lang": "id",
+        "name": "Harimau Jawa"
+      },
+      {
+        "lang": "ja",
+        "name": "ジャワトラ"
+      },
+      {
+        "lang": "ko",
+        "name": "자와호랑이"
+      },
+      {
+        "lang": "lv",
+        "name": "Javas tīģeris"
+      },
+      {
+        "lang": "ms",
+        "name": "Harimau Jawa"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaanse tijger"
+      },
+      {
+        "lang": "no",
+        "name": "Jaavantiikeri"
+      },
+      {
+        "lang": "pl",
+        "name": "Tygrys jawajski"
+      },
+      {
+        "lang": "pt",
+        "name": "Tigre de Java"
+      },
+      {
+        "lang": "ru",
+        "name": "Яванский тигр"
+      },
+      {
+        "lang": "sl",
+        "name": "Javanski tiger"
+      },
+      {
+        "lang": "sr",
+        "name": "Јавански тигар"
+      },
+      {
+        "lang": "sv",
+        "name": "Javatiger"
+      },
+      {
+        "lang": "th",
+        "name": "เสือโคร่งชวา"
+      },
+      {
+        "lang": "uk",
+        "name": "Яванський тигр"
+      },
+      {
+        "lang": "vi",
+        "name": "Hổ Java"
+      },
+      {
+        "lang": "zh",
+        "name": "爪哇虎"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Panthera pardus pardus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Luiperd"
+      },
+      {
+        "lang": "ar",
+        "name": "نمر إفريقي"
+      },
+      {
+        "lang": "bar",
+        "name": "Afrikanischer Leópard"
+      },
+      {
+        "lang": "cs",
+        "name": "Levhart súdánský"
+      },
+      {
+        "lang": "de",
+        "name": "Afrikanischer Leopard"
+      },
+      {
+        "lang": "en",
+        "name": "African Leopard"
+      },
+      {
+        "lang": "eo",
+        "name": "Pantero leopardo sudana"
+      },
+      {
+        "lang": "es",
+        "name": "Leopardo africano"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikanleopardi"
+      },
+      {
+        "lang": "fr",
+        "name": "Léopard d'Afrique"
+      },
+      {
+        "lang": "he",
+        "name": "נמר אפריקאי"
+      },
+      {
+        "lang": "hu",
+        "name": "Afrikai leopárd"
+      },
+      {
+        "lang": "it",
+        "name": "Leopardo africano"
+      },
+      {
+        "lang": "ms",
+        "name": "Harimau bintang Afrika"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse luipaard"
+      },
+      {
+        "lang": "no",
+        "name": "Afrikansk leopard"
+      },
+      {
+        "lang": "oc",
+        "name": "Leopard african"
+      },
+      {
+        "lang": "pt",
+        "name": "Leopardo africano"
+      },
+      {
+        "lang": "ru",
+        "name": "африканский леопард"
+      },
+      {
+        "lang": "su",
+        "name": "Maung Tutul Aprika"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk leopard"
+      },
+      {
+        "lang": "tr",
+        "name": "Afrika leoparı"
+      },
+      {
+        "lang": "uk",
+        "name": "Африканський леопард"
+      },
+      {
+        "lang": "vi",
+        "name": "Báo hoa mai châu Phi"
+      },
+      {
+        "lang": "th",
+        "name": "เสือดาวแอฟริกัน"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Panthera pardus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Luiperd"
+      },
+      {
+        "lang": "am",
+        "name": "ግሥላ"
+      },
+      {
+        "lang": "ar",
+        "name": "نمر"
+      },
+      {
+        "lang": "arz",
+        "name": "فهد"
+      },
+      {
+        "lang": "az",
+        "name": "Bəbir"
+      },
+      {
+        "lang": "bar",
+        "name": "Leópard"
+      },
+      {
+        "lang": "be",
+        "name": "Леапард"
+      },
+      {
+        "lang": "bg",
+        "name": "Леопард"
+      },
+      {
+        "lang": "bn",
+        "name": "চিতাবাঘ"
+      },
+      {
+        "lang": "ca",
+        "name": "Lleopard"
+      },
+      {
+        "lang": "chr",
+        "name": "ᏢᏓᏥ ᎤᏅᏣᏗ"
+      },
+      {
+        "lang": "cs",
+        "name": "Levhart skvrnitý"
+      },
+      {
+        "lang": "da",
+        "name": "Leopard"
+      },
+      {
+        "lang": "de",
+        "name": "Leopard"
+      },
+      {
+        "lang": "el",
+        "name": "Πάνθηρας",
+        "synonyms": [
+          "Λεοπάρδαλη"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Leopard"
+      },
+      {
+        "lang": "eo",
+        "name": "Leopardo"
+      },
+      {
+        "lang": "es",
+        "name": "Leopardo"
+      },
+      {
+        "lang": "et",
+        "name": "Leopard"
+      },
+      {
+        "lang": "fa",
+        "name": "پلنگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Leopardi"
+      },
+      {
+        "lang": "fr",
+        "name": "Léopard"
+      },
+      {
+        "lang": "gd",
+        "name": "Leopard"
+      },
+      {
+        "lang": "gu",
+        "name": "દિપડો"
+      },
+      {
+        "lang": "hak",
+        "name": "Pau-é"
+      },
+      {
+        "lang": "he",
+        "name": "נמר"
+      },
+      {
+        "lang": "hi",
+        "name": "तेंदुआ"
+      },
+      {
+        "lang": "hr",
+        "name": "Leopard"
+      },
+      {
+        "lang": "ht",
+        "name": "Lewopa"
+      },
+      {
+        "lang": "hu",
+        "name": "Leopárd"
+      },
+      {
+        "lang": "hy",
+        "name": "Ընձառյուծ"
+      },
+      {
+        "lang": "id",
+        "name": "Macan Tutul"
+      },
+      {
+        "lang": "ig",
+        "name": "Agwu"
+      },
+      {
+        "lang": "is",
+        "name": "Hlébarði"
+      },
+      {
+        "lang": "it",
+        "name": "Leopardo"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒョウ"
+      },
+      {
+        "lang": "ka",
+        "name": "ჯიქი",
+        "synonyms": [
+          "ლეოპარდი"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "표범"
+      },
+      {
+        "lang": "ku",
+        "name": "Leopar"
+      },
+      {
+        "lang": "la",
+        "name": "Pardus"
+      },
+      {
+        "lang": "lt",
+        "name": "Leopardas"
+      },
+      {
+        "lang": "lv",
+        "name": "Leopards"
+      },
+      {
+        "lang": "mk",
+        "name": "Леопард"
+      },
+      {
+        "lang": "ml",
+        "name": "പുള്ളിപ്പുലി"
+      },
+      {
+        "lang": "mn",
+        "name": "Цоохор ирвэс"
+      },
+      {
+        "lang": "mr",
+        "name": "बिबट्या"
+      },
+      {
+        "lang": "ms",
+        "name": "Harimau Bintang"
+      },
+      {
+        "lang": "nl",
+        "name": "Luipaard"
+      },
+      {
+        "lang": "nn",
+        "name": "Leopard"
+      },
+      {
+        "lang": "no",
+        "name": "Leopard"
+      },
+      {
+        "lang": "oc",
+        "name": "Leopard"
+      },
+      {
+        "lang": "pa",
+        "name": "ਲੈਪਰਡ"
+      },
+      {
+        "lang": "pl",
+        "name": "Lampart"
+      },
+      {
+        "lang": "pt",
+        "name": "Leopardo"
+      },
+      {
+        "lang": "qu",
+        "name": "Misti hawar"
+      },
+      {
+        "lang": "ro",
+        "name": "Leopard"
+      },
+      {
+        "lang": "ru",
+        "name": "Леопард"
+      },
+      {
+        "lang": "scn",
+        "name": "Liupardu"
+      },
+      {
+        "lang": "sh",
+        "name": "Leopard"
+      },
+      {
+        "lang": "sk",
+        "name": "Leopard škvrnitý"
+      },
+      {
+        "lang": "sl",
+        "name": "Leopard"
+      },
+      {
+        "lang": "sq",
+        "name": "Leopardi"
+      },
+      {
+        "lang": "sr",
+        "name": "Леопард"
+      },
+      {
+        "lang": "st",
+        "name": "Nkwe"
+      },
+      {
+        "lang": "su",
+        "name": "Maung totol"
+      },
+      {
+        "lang": "sv",
+        "name": "Leopard"
+      },
+      {
+        "lang": "sw",
+        "name": "Chui"
+      },
+      {
+        "lang": "ta",
+        "name": "சிறுத்தை புலி"
+      },
+      {
+        "lang": "te",
+        "name": "చిరుతపులి"
+      },
+      {
+        "lang": "th",
+        "name": "เสือดาว"
+      },
+      {
+        "lang": "tl",
+        "name": "Leopardo"
+      },
+      {
+        "lang": "tr",
+        "name": "Pars"
+      },
+      {
+        "lang": "ug",
+        "name": "قاپلان"
+      },
+      {
+        "lang": "uk",
+        "name": "Леопард"
+      },
+      {
+        "lang": "ur",
+        "name": "تیندوا"
+      },
+      {
+        "lang": "vi",
+        "name": "Báo hoa mai"
+      },
+      {
+        "lang": "zh",
+        "name": "豹"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "豹"
+      },
+      {
+        "lang": "km",
+        "name": "ខ្លារខិន"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Panthera onca",
+    "common_names": [
+      {
+        "lang": "ms",
+        "name": "sembarang ngenjuk namo"
+      },
+      {
+        "lang": "ar",
+        "name": "يغور"
+      },
+      {
+        "lang": "bar",
+        "name": "Jaaguar"
+      },
+      {
+        "lang": "bg",
+        "name": "Ягуар"
+      },
+      {
+        "lang": "bn",
+        "name": "জাগুয়ার"
+      },
+      {
+        "lang": "ca",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "cs",
+        "name": "Jaguár"
+      },
+      {
+        "lang": "da",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "de",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "el",
+        "name": "Ιαγουάρος"
+      },
+      {
+        "lang": "en",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "eo",
+        "name": "Jaguaro"
+      },
+      {
+        "lang": "es",
+        "name": "Jaguar",
+        "synonyms": [
+          "Yaguar",
+          "Tigre mariposa"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Jaaguar"
+      },
+      {
+        "lang": "fi",
+        "name": "Jaguaari"
+      },
+      {
+        "lang": "fr",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "gl",
+        "name": "Xaguar"
+      },
+      {
+        "lang": "gn",
+        "name": "Jaguarete"
+      },
+      {
+        "lang": "he",
+        "name": "יגואר"
+      },
+      {
+        "lang": "hr",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "hu",
+        "name": "Jaguár"
+      },
+      {
+        "lang": "is",
+        "name": "Jagúar"
+      },
+      {
+        "lang": "it",
+        "name": "Giaguaro"
+      },
+      {
+        "lang": "ja",
+        "name": "ジャガー"
+      },
+      {
+        "lang": "ka",
+        "name": "იაგუარი"
+      },
+      {
+        "lang": "ko",
+        "name": "재규어"
+      },
+      {
+        "lang": "nah",
+        "name": "Ocelotl"
+      },
+      {
+        "lang": "nl",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "no",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "pl",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "pt",
+        "name": "Jaguar",
+        "synonyms": [
+          "Onça",
+          "Onça-Pintada"
+        ]
+      },
+      {
+        "lang": "ro",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "ru",
+        "name": "Ягуар"
+      },
+      {
+        "lang": "tr",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "th",
+        "name": "เสือจากัวร์"
+      },
+      {
+        "lang": "sv",
+        "name": "Jaguar"
+      },
+      {
+        "lang": "vi",
+        "name": "Báo đốm Mỹ"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲豹"
+      },
+      {
+        "lang": "id",
+        "name": "Jaguar"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Panthera leo",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Leeu"
+      },
+      {
+        "lang": "ak",
+        "name": "Gyata"
+      },
+      {
+        "lang": "an",
+        "name": "Lión",
+        "synonyms": [
+          "Leyón"
+        ]
+      },
+      {
+        "lang": "ar",
+        "name": "أسد (ʾĀsad)"
+      },
+      {
+        "lang": "bar",
+        "name": "Léwe",
+        "synonyms": [
+          "Löwe"
+        ]
+      },
+      {
+        "lang": "bn",
+        "name": "সিংহ"
+      },
+      {
+        "lang": "be",
+        "name": "Леў (Lew)"
+      },
+      {
+        "lang": "bg",
+        "name": "Лъв (Lăv)"
+      },
+      {
+        "lang": "ca",
+        "name": "Lleó"
+      },
+      {
+        "lang": "ce",
+        "name": "Лоьм"
+      },
+      {
+        "lang": "cs",
+        "name": "Lev"
+      },
+      {
+        "lang": "cy",
+        "name": "Llew"
+      },
+      {
+        "lang": "da",
+        "name": "Løve"
+      },
+      {
+        "lang": "de",
+        "name": "Löwe"
+      },
+      {
+        "lang": "nv",
+        "name": "Náshdóítsoh bitsiijįʼ daditłʼooígíí"
+      },
+      {
+        "lang": "el",
+        "name": "Λιοντάρι (Liondári)"
+      },
+      {
+        "lang": "en",
+        "name": "Lion"
+      },
+      {
+        "lang": "eo",
+        "name": "Leono"
+      },
+      {
+        "lang": "es",
+        "name": "León"
+      },
+      {
+        "lang": "et",
+        "name": "Lõvi"
+      },
+      {
+        "lang": "ee",
+        "name": "Dzata"
+      },
+      {
+        "lang": "eu",
+        "name": "Lehoi"
+      },
+      {
+        "lang": "fa",
+        "name": "شیر (Šayr)"
+      },
+      {
+        "lang": "fi",
+        "name": "Leijona"
+      },
+      {
+        "lang": "fo",
+        "name": "Leyva"
+      },
+      {
+        "lang": "fr",
+        "name": "Lion"
+      },
+      {
+        "lang": "frr",
+        "name": "Lööw"
+      },
+      {
+        "lang": "gl",
+        "name": "León-leoa"
+      },
+      {
+        "lang": "gu",
+        "name": "સિંહ"
+      },
+      {
+        "lang": "haw",
+        "name": "Liona"
+      },
+      {
+        "lang": "he",
+        "name": "אריה"
+      },
+      {
+        "lang": "hi",
+        "name": "सिंह (singh",
+        "synonyms": [
+          "siṅha)",
+          "शेर (Śēra)"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Lav"
+      },
+      {
+        "lang": "hu",
+        "name": "Oroszlán"
+      },
+      {
+        "lang": "hy",
+        "name": "Առյուծ"
+      },
+      {
+        "lang": "id",
+        "name": "Singa"
+      },
+      {
+        "lang": "is",
+        "name": "Ljón"
+      },
+      {
+        "lang": "it",
+        "name": "Leone"
+      },
+      {
+        "lang": "ja",
+        "name": "ライオン (Raion)"
+      },
+      {
+        "lang": "jv",
+        "name": "Singa"
+      },
+      {
+        "lang": "ms",
+        "name": "Singa"
+      },
+      {
+        "lang": "ko",
+        "name": "사자 (saja)"
+      },
+      {
+        "lang": "ky",
+        "name": "Арстан"
+      },
+      {
+        "lang": "la",
+        "name": "Leo"
+      },
+      {
+        "lang": "li",
+        "name": "Liew"
+      },
+      {
+        "lang": "ln",
+        "name": "Nkosi"
+      },
+      {
+        "lang": "lt",
+        "name": "Liūtas"
+      },
+      {
+        "lang": "lv",
+        "name": "Lauva"
+      },
+      {
+        "lang": "mr",
+        "name": "सिंह (singh",
+        "synonyms": [
+          "siṅha)",
+          "शेर (Śēra)"
+        ]
+      },
+      {
+        "lang": "mk",
+        "name": "Лав (lav)"
+      },
+      {
+        "lang": "ml",
+        "name": "സിംഹം (simham)"
+      },
+      {
+        "lang": "mt",
+        "name": "Iljun"
+      },
+      {
+        "lang": "nl",
+        "name": "Leeuw"
+      },
+      {
+        "lang": "nn",
+        "name": "Løve"
+      },
+      {
+        "lang": "no",
+        "name": "Løve"
+      },
+      {
+        "lang": "pa",
+        "name": "ਬੱਬਰ ਸ਼ੇਰ"
+      },
+      {
+        "lang": "pl",
+        "name": "Lew"
+      },
+      {
+        "lang": "pt",
+        "name": "Leão"
+      },
+      {
+        "lang": "ro",
+        "name": "Leu"
+      },
+      {
+        "lang": "ru",
+        "name": "Лев (Lev)"
+      },
+      {
+        "lang": "sc",
+        "name": "Lioni"
+      },
+      {
+        "lang": "sl",
+        "name": "Lev"
+      },
+      {
+        "lang": "ss",
+        "name": "Libubesi"
+      },
+      {
+        "lang": "st",
+        "name": "Tau"
+      },
+      {
+        "lang": "su",
+        "name": "Singa"
+      },
+      {
+        "lang": "sv",
+        "name": "Lejon"
+      },
+      {
+        "lang": "sw",
+        "name": "Simba"
+      },
+      {
+        "lang": "ta",
+        "name": "சிங்கம்"
+      },
+      {
+        "lang": "tr",
+        "name": "Aslan"
+      },
+      {
+        "lang": "th",
+        "name": "สิงโต"
+      },
+      {
+        "lang": "uk",
+        "name": "Лев (Lev)"
+      },
+      {
+        "lang": "vec",
+        "name": "Leon"
+      },
+      {
+        "lang": "vi",
+        "name": "Sư tử"
+      },
+      {
+        "lang": "yi",
+        "name": "לייב"
+      },
+      {
+        "lang": "zh",
+        "name": "狮子 (shīzi)"
+      }
+    ]
+  }
+]

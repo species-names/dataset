@@ -1,0 +1,518 @@
+[
+  {
+    "scientific_name": "Leopardus wiedii",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Тигрова котка"
+      },
+      {
+        "lang": "de",
+        "name": "Langschwanzkatze"
+      },
+      {
+        "lang": "el",
+        "name": "Μάργκεϊ"
+      },
+      {
+        "lang": "en",
+        "name": "Margay"
+      },
+      {
+        "lang": "es",
+        "name": "Margay",
+        "synonyms": [
+          "Tigrillo"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Akrobata tigro-kato"
+      },
+      {
+        "lang": "fi",
+        "name": "Pitkähäntäkissa"
+      },
+      {
+        "lang": "fr",
+        "name": "Margay",
+        "synonyms": [
+          "Chat-tigre"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Margay"
+      },
+      {
+        "lang": "ja",
+        "name": "マーゲイ"
+      },
+      {
+        "lang": "nl",
+        "name": "Margay"
+      },
+      {
+        "lang": "pl",
+        "name": "Margaj"
+      },
+      {
+        "lang": "pt",
+        "name": "Gato-maracajá"
+      },
+      {
+        "lang": "sv",
+        "name": "Margaykatt"
+      },
+      {
+        "lang": "wa",
+        "name": "Margay"
+      },
+      {
+        "lang": "tr",
+        "name": "Margay",
+        "synonyms": [
+          "Uzun kuyruklu kedi",
+          "Maymun kedi"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "長尾虎貓"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leopardus tigrinus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Магот"
+      },
+      {
+        "lang": "cs",
+        "name": "Ocelot stromový"
+      },
+      {
+        "lang": "de",
+        "name": "Tigerkatze"
+      },
+      {
+        "lang": "el",
+        "name": "Τιγρογαλή"
+      },
+      {
+        "lang": "en",
+        "name": "Little Spotted Cat"
+      },
+      {
+        "lang": "es",
+        "name": "Tigrillo o leopardo tigre"
+      },
+      {
+        "lang": "fr",
+        "name": "Oncille",
+        "synonyms": [
+          "Tigrillo",
+          "Cunaguaro"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ジャガーネコ"
+      },
+      {
+        "lang": "nl",
+        "name": "Tijgerkat"
+      },
+      {
+        "lang": "pt",
+        "name": "Gato-do-mato"
+      },
+      {
+        "lang": "th",
+        "name": "แมวเสือ"
+      },
+      {
+        "lang": "tr",
+        "name": "Kaplan kedisi"
+      },
+      {
+        "lang": "pl",
+        "name": "Kot tygrysi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leopardus pardalis",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Оцелот"
+      },
+      {
+        "lang": "cs",
+        "name": "Ocelot velký"
+      },
+      {
+        "lang": "de",
+        "name": "Ozelot"
+      },
+      {
+        "lang": "en",
+        "name": "Ocelot"
+      },
+      {
+        "lang": "eo",
+        "name": "Oceloto"
+      },
+      {
+        "lang": "es",
+        "name": "Ocelote"
+      },
+      {
+        "lang": "fr",
+        "name": "Ocelot"
+      },
+      {
+        "lang": "he",
+        "name": "אוצלוט"
+      },
+      {
+        "lang": "hr",
+        "name": "Ocelot"
+      },
+      {
+        "lang": "it",
+        "name": "Ocelot"
+      },
+      {
+        "lang": "ja",
+        "name": "オセロット"
+      },
+      {
+        "lang": "jbt",
+        "name": "Käokurü"
+      },
+      {
+        "lang": "ko",
+        "name": "오셀롯"
+      },
+      {
+        "lang": "lt",
+        "name": "Ocelotas"
+      },
+      {
+        "lang": "nl",
+        "name": "Ocelot"
+      },
+      {
+        "lang": "no",
+        "name": "Ocelot"
+      },
+      {
+        "lang": "pl",
+        "name": "Ocelot"
+      },
+      {
+        "lang": "pt",
+        "name": "Jaguatirica"
+      },
+      {
+        "lang": "ru",
+        "name": "Оцелот"
+      },
+      {
+        "lang": "sv",
+        "name": "Ozelot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leopardus pajeros",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Kazh ar pampa"
+      },
+      {
+        "lang": "en",
+        "name": "Pampas Cat"
+      },
+      {
+        "lang": "es",
+        "name": "Gato de las pampas"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leopardus jacobitus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bergkatze"
+      },
+      {
+        "lang": "el",
+        "name": "Αγριόγατα των Άνδεων"
+      },
+      {
+        "lang": "en",
+        "name": "Andean Cat"
+      },
+      {
+        "lang": "es",
+        "name": "Gato Andino"
+      },
+      {
+        "lang": "fr",
+        "name": "Chat des Andes"
+      },
+      {
+        "lang": "ja",
+        "name": "アンデスネコ"
+      },
+      {
+        "lang": "pt",
+        "name": "Gato-andino"
+      },
+      {
+        "lang": "tr",
+        "name": "And kedisi"
+      },
+      {
+        "lang": "fi",
+        "name": "Andienkissa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leopardus guttulus",
+    "common_names": [
+      {
+        "lang": "el",
+        "name": "Νότια τιγρογαλή"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Tigrina",
+        "synonyms": [
+          "Southern Tiger Cat",
+          "Southern Little Spotted Cat"
+        ]
+      },
+      {
+        "lang": "pt-br",
+        "name": "Gato-do-mato-pequeno"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leopardus guigna",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Кодкод"
+      },
+      {
+        "lang": "cs",
+        "name": "Kočka tmavá"
+      },
+      {
+        "lang": "de",
+        "name": "Chilenische Waldkatze"
+      },
+      {
+        "lang": "en",
+        "name": "Kodkod"
+      },
+      {
+        "lang": "es",
+        "name": "Kodkod o Huiña"
+      },
+      {
+        "lang": "fr",
+        "name": "Kodkod",
+        "synonyms": [
+          "Guiña"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Kodkod"
+      },
+      {
+        "lang": "it",
+        "name": "Kodkod"
+      },
+      {
+        "lang": "ja",
+        "name": "コドコド"
+      },
+      {
+        "lang": "la",
+        "name": "Guigna"
+      },
+      {
+        "lang": "lt",
+        "name": "Čilinė katė"
+      },
+      {
+        "lang": "nl",
+        "name": "Nachtkat"
+      },
+      {
+        "lang": "no",
+        "name": "Kodkodkatt"
+      },
+      {
+        "lang": "pl",
+        "name": "Kodkod"
+      },
+      {
+        "lang": "pt",
+        "name": "Kodkod"
+      },
+      {
+        "lang": "fi",
+        "name": "Yökissa"
+      },
+      {
+        "lang": "sv",
+        "name": "Kodkod"
+      },
+      {
+        "lang": "tr",
+        "name": "Şili orman kedisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leopardus geoffroyi",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Kazh Geoffroy"
+      },
+      {
+        "lang": "bg",
+        "name": "Котка на Жофроа"
+      },
+      {
+        "lang": "cs",
+        "name": "Kočka slaništní"
+      },
+      {
+        "lang": "de",
+        "name": "Kleinfleckkatze"
+      },
+      {
+        "lang": "en",
+        "name": "Geoffroy's Cat"
+      },
+      {
+        "lang": "es",
+        "name": "Gato Montés Argentino o de Geoffroy"
+      },
+      {
+        "lang": "fr",
+        "name": "Chat de Geoffroy"
+      },
+      {
+        "lang": "ja",
+        "name": "ジョフロイネコ"
+      },
+      {
+        "lang": "nl",
+        "name": "Geoffroykat"
+      },
+      {
+        "lang": "no",
+        "name": "Nattkatt"
+      },
+      {
+        "lang": "pl",
+        "name": "Kot argentyński"
+      },
+      {
+        "lang": "pt",
+        "name": "Gato-do-mato-grande"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuorikissa"
+      },
+      {
+        "lang": "ru",
+        "name": "Дикий кот Жоффруа"
+      },
+      {
+        "lang": "sv",
+        "name": "Geoffroys katt"
+      },
+      {
+        "lang": "tr",
+        "name": "Geoffroy kedisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leopardus colocolo",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kočka pampová"
+      },
+      {
+        "lang": "en",
+        "name": "Pampas Cat",
+        "synonyms": [
+          "Colocolo"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Gato de los pajonales o Colocolo"
+      },
+      {
+        "lang": "fr",
+        "name": "Chat des pampas",
+        "synonyms": [
+          "Colocolo"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Gato-palheiro",
+        "synonyms": [
+          "Colocolo"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Pampa kedisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Leopardus braccatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pantanal Cat"
+      },
+      {
+        "lang": "es",
+        "name": "Gato del Pantanal"
+      },
+      {
+        "lang": "fr",
+        "name": "Chat du Pantanal"
+      },
+      {
+        "lang": "pt",
+        "name": "Gato-do-Pantanal"
+      }
+    ]
+  }
+]

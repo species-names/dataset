@@ -1,0 +1,317 @@
+[
+  {
+    "scientific_name": "Herpestes palustris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Herpestes vitticollis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Halsstreifenmanguste"
+      },
+      {
+        "lang": "en",
+        "name": "Stripe-necked Mongoose"
+      },
+      {
+        "lang": "pl",
+        "name": "Mangusta pręgoszyja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Herpestes urva",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Krabbenmanguste"
+      },
+      {
+        "lang": "en",
+        "name": "Crab-eating Mongoose"
+      },
+      {
+        "lang": "ms",
+        "name": "Bambun Makan Ketam"
+      },
+      {
+        "lang": "pl",
+        "name": "Mangusta urwa",
+        "synonyms": [
+          "mangusta krabojad",
+          "urwa"
+        ]
+      },
+      {
+        "lang": "th",
+        "name": "พังพอนกินปู",
+        "synonyms": [
+          "พังพอนยักษ์"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Herpestes smithii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ruddy Mongoose"
+      },
+      {
+        "lang": "pl",
+        "name": "Mangusta Smitha"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Herpestes semitorquatus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Halsbandmanguste"
+      },
+      {
+        "lang": "en",
+        "name": "Collared Mongoose"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Herpestes naso",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Langnasenichneumon"
+      },
+      {
+        "lang": "en",
+        "name": "Long-nosed Mongoose"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Herpestes javanicus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kleiner Mungo"
+      },
+      {
+        "lang": "en",
+        "name": "Small Asian Mongoose",
+        "synonyms": [
+          "Javan Mongoose",
+          "Small Indian Mongoose"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Intianpikkumangusti"
+      },
+      {
+        "lang": "ja",
+        "name": "ジャワマングース"
+      },
+      {
+        "lang": "km",
+        "name": "ស្កា"
+      },
+      {
+        "lang": "ms",
+        "name": "Bambun Jawa"
+      },
+      {
+        "lang": "th",
+        "name": "พังพอน",
+        "synonyms": [
+          "พังพอนเล็ก"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Herpestes ichneumon",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Grootgrysmuishond"
+      },
+      {
+        "lang": "ar",
+        "name": "النمس المصري"
+      },
+      {
+        "lang": "be",
+        "name": "Іхнеўмон"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Іхнэўмон"
+      },
+      {
+        "lang": "bg",
+        "name": "Египетска мангуста"
+      },
+      {
+        "lang": "ca",
+        "name": "Mangosta comuna"
+      },
+      {
+        "lang": "cs",
+        "name": "Promyka ichneumon"
+      },
+      {
+        "lang": "de",
+        "name": "Ichneumon"
+      },
+      {
+        "lang": "en",
+        "name": "Egyptian Mongoose"
+      },
+      {
+        "lang": "es",
+        "name": "Meloncillo"
+      },
+      {
+        "lang": "eo",
+        "name": "Ikneŭmono"
+      },
+      {
+        "lang": "eu",
+        "name": "Mangosta arrunt"
+      },
+      {
+        "lang": "fr",
+        "name": "Rat des pharaons",
+        "synonyms": [
+          "mangouste d'Égypte",
+          "mangouste ichneumon"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Mangusta egiziana"
+      },
+      {
+        "lang": "he",
+        "name": "נמייה מצויה"
+      },
+      {
+        "lang": "ka",
+        "name": "მანგუსტი"
+      },
+      {
+        "lang": "hu",
+        "name": "Egyiptomi mongúz"
+      },
+      {
+        "lang": "nl",
+        "name": "Egyptische ichneumon"
+      },
+      {
+        "lang": "pl",
+        "name": "Mangusta egipska"
+      },
+      {
+        "lang": "pt",
+        "name": "Sacarrabos"
+      },
+      {
+        "lang": "ro",
+        "name": "Mangustă egipteană"
+      },
+      {
+        "lang": "ru",
+        "name": "Египетский мангуст"
+      },
+      {
+        "lang": "fi",
+        "name": "Ikneumoni"
+      },
+      {
+        "lang": "sv",
+        "name": "Faraokatt"
+      },
+      {
+        "lang": "tr",
+        "name": "Firavunfaresi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Herpestes fuscus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Indischer Kurzschwanzmungo"
+      },
+      {
+        "lang": "en",
+        "name": "Indian Brown Mongoose"
+      },
+      {
+        "lang": "pl",
+        "name": "Mangusta brunatna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Herpestes edwardsii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Indischer Mungo"
+      },
+      {
+        "lang": "en",
+        "name": "Indian Gray Mongoose"
+      },
+      {
+        "lang": "fi",
+        "name": "Mungo"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürke mongúz",
+        "synonyms": [
+          "indiai szürkemongúz"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Mangusta indyjska"
+      },
+      {
+        "lang": "ms",
+        "name": "Bambun Kelabu"
+      },
+      {
+        "lang": "sv",
+        "name": "Indisk mungo"
+      },
+      {
+        "lang": "te",
+        "name": "ముంగీస"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Herpestes brachyurus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kurzschwanzmanguste"
+      },
+      {
+        "lang": "en",
+        "name": "Short-tailed Mongoose"
+      },
+      {
+        "lang": "ms",
+        "name": "Bambun Ekor Pendek"
+      }
+    ]
+  }
+]

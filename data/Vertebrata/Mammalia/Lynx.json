@@ -1,0 +1,570 @@
+[
+  {
+    "scientific_name": "Lynx rufus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "وشق كميت"
+      },
+      {
+        "lang": "av",
+        "name": "багӏараб цӏиркъ"
+      },
+      {
+        "lang": "az",
+        "name": "kürən vaşaq"
+      },
+      {
+        "lang": "be",
+        "name": "рудая рысь"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "рудая рысь"
+      },
+      {
+        "lang": "boi",
+        "name": "ˀanaqpuw"
+      },
+      {
+        "lang": "bg",
+        "name": "червен рис"
+      },
+      {
+        "lang": "br",
+        "name": "liñs rous"
+      },
+      {
+        "lang": "ca",
+        "name": "Linx roig",
+        "synonyms": [
+          "Linx vermell"
+        ]
+      },
+      {
+        "lang": "chy",
+        "name": "mohkave"
+      },
+      {
+        "lang": "cs",
+        "name": "rys červený"
+      },
+      {
+        "lang": "da",
+        "name": "rødlos"
+      },
+      {
+        "lang": "de",
+        "name": "Rotluchs"
+      },
+      {
+        "lang": "dsb",
+        "name": "cerwjeny rys"
+      },
+      {
+        "lang": "en",
+        "name": "Bobcat"
+      },
+      {
+        "lang": "es",
+        "name": "Lince rojo",
+        "synonyms": [
+          "Gato montés de Norteamérica"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "punailves"
+      },
+      {
+        "lang": "fa",
+        "name": "گربه دم‌کوتاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Punailves"
+      },
+      {
+        "lang": "fr",
+        "name": "Lynx roux",
+        "synonyms": [
+          "Lynx bai",
+          "Bobcat",
+          "Chat sauvage (canadian french)"
+        ]
+      },
+      {
+        "lang": "he",
+        "name": "שונר מצוי"
+      },
+      {
+        "lang": "hr",
+        "name": "crveni ris"
+      },
+      {
+        "lang": "hsb",
+        "name": "čerwjeny rys"
+      },
+      {
+        "lang": "hu",
+        "name": "vörös hiúz"
+      },
+      {
+        "lang": "io",
+        "name": "bruna linco"
+      },
+      {
+        "lang": "inz",
+        "name": "ˀanaqpuw"
+      },
+      {
+        "lang": "it",
+        "name": "Lince rossa"
+      },
+      {
+        "lang": "ja",
+        "name": "ボブキャット"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은스라소니"
+      },
+      {
+        "lang": "lbe",
+        "name": "ятӏулсса цӏиникь"
+      },
+      {
+        "lang": "lt",
+        "name": "rudoji lūšis"
+      },
+      {
+        "lang": "lv",
+        "name": "rūsganais lūsis"
+      },
+      {
+        "lang": "mhr",
+        "name": "йошкар шурмаҥше"
+      },
+      {
+        "lang": "nah",
+        "name": "ocomiztli"
+      },
+      {
+        "lang": "nl",
+        "name": "rode lynx"
+      },
+      {
+        "lang": "no",
+        "name": "rødgaupe"
+      },
+      {
+        "lang": "nv",
+        "name": "Náshdóí łibáhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Ryś rudy"
+      },
+      {
+        "lang": "pnb",
+        "name": "باب بلا"
+      },
+      {
+        "lang": "pt",
+        "name": "Lince-pardo",
+        "synonyms": [
+          "Lince-vermelho"
+        ]
+      },
+      {
+        "lang": "qu",
+        "name": "puka linsi"
+      },
+      {
+        "lang": "ru",
+        "name": "Рыжая рысь"
+      },
+      {
+        "lang": "sk",
+        "name": "rys červený"
+      },
+      {
+        "lang": "sq",
+        "name": "rrëqebulli"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödlo"
+      },
+      {
+        "lang": "tr",
+        "name": "Doru vaşak"
+      },
+      {
+        "lang": "udm",
+        "name": "кельыт балян"
+      },
+      {
+        "lang": "uk",
+        "name": "Руда русь"
+      },
+      {
+        "lang": "veo",
+        "name": "ˀalxay’"
+      },
+      {
+        "lang": "vi",
+        "name": "linh miêu mỹ"
+      },
+      {
+        "lang": "zh",
+        "name": "短尾貓"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lynx pardinus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Linx ibèric"
+      },
+      {
+        "lang": "cs",
+        "name": "Rys pardálový"
+      },
+      {
+        "lang": "da",
+        "name": "Spansk los"
+      },
+      {
+        "lang": "de",
+        "name": "Pardelluchs"
+      },
+      {
+        "lang": "es",
+        "name": "Lince ibérico"
+      },
+      {
+        "lang": "en",
+        "name": "Iberian lynx"
+      },
+      {
+        "lang": "fi",
+        "name": "Pantteri-ilves"
+      },
+      {
+        "lang": "fr",
+        "name": "Lynx d'Espagne",
+        "synonyms": [
+          "Lynx ibérique",
+          "Lynx pardelle"
+        ]
+      },
+      {
+        "lang": "gl",
+        "name": "Lince ibérico"
+      },
+      {
+        "lang": "hr",
+        "name": "Pirenejski ris"
+      },
+      {
+        "lang": "it",
+        "name": "Lince pardina"
+      },
+      {
+        "lang": "ja",
+        "name": "スペインオオヤマネコ"
+      },
+      {
+        "lang": "nl",
+        "name": "Pardellynx"
+      },
+      {
+        "lang": "pl",
+        "name": "Ryś iberyjski"
+      },
+      {
+        "lang": "th",
+        "name": "ลิงซ์สเปน",
+        "synonyms": [
+          "ลิงซ์ไลบีเรีย"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Lince ibérico"
+      },
+      {
+        "lang": "sv",
+        "name": "Panterlo"
+      },
+      {
+        "lang": "tr",
+        "name": "İber vaşağı"
+      },
+      {
+        "lang": "ru",
+        "name": "Испанская рысь",
+        "synonyms": [
+          "Иберийская рысь"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "伊比利亞猞猁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lynx lynx",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Рысь еўрапейская"
+      },
+      {
+        "lang": "br",
+        "name": "Liñs Europa"
+      },
+      {
+        "lang": "bg",
+        "name": "Рис"
+      },
+      {
+        "lang": "ca",
+        "name": "Linx nòrdic"
+      },
+      {
+        "lang": "cs",
+        "name": "Rys ostrovid"
+      },
+      {
+        "lang": "de",
+        "name": "Eurasischer Luchs"
+      },
+      {
+        "lang": "el",
+        "name": "Λύγκας"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Lynx"
+      },
+      {
+        "lang": "eo",
+        "name": "Linko"
+      },
+      {
+        "lang": "es",
+        "name": "Lince boreal",
+        "synonyms": [
+          "europeo",
+          "eurasiático o común"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Ilves",
+        "synonyms": [
+          "Harilik ilves",
+          "Tava-ilves"
+        ]
+      },
+      {
+        "lang": "fa",
+        "name": "سیاه‌گوش"
+      },
+      {
+        "lang": "fi",
+        "name": "ilves",
+        "synonyms": [
+          "euraasialainen ilves"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Lynx d'Eurasie",
+        "synonyms": [
+          "Lynx commun"
+        ]
+      },
+      {
+        "lang": "hi",
+        "name": "यूरेशियाई लिंक्स"
+      },
+      {
+        "lang": "hr",
+        "name": "Obični ris"
+      },
+      {
+        "lang": "it",
+        "name": "Lince europea"
+      },
+      {
+        "lang": "he",
+        "name": "שונר צפוני"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパオオヤマネコ"
+      },
+      {
+        "lang": "ko",
+        "name": "스라소니"
+      },
+      {
+        "lang": "lt",
+        "name": "Lūšis"
+      },
+      {
+        "lang": "hu",
+        "name": "Eurázsiai hiúz"
+      },
+      {
+        "lang": "mk",
+        "name": "Евроазиски рис"
+      },
+      {
+        "lang": "no",
+        "name": "Eurasisk gaupe"
+      },
+      {
+        "lang": "nn",
+        "name": "Eurasisk gaupe"
+      },
+      {
+        "lang": "nl",
+        "name": "Euraziatische lynx",
+        "synonyms": [
+          "Los"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Ryś"
+      },
+      {
+        "lang": "pt",
+        "name": "Lince-da-Eurásia"
+      },
+      {
+        "lang": "ro",
+        "name": "Râs"
+      },
+      {
+        "lang": "ru",
+        "name": "Рысь"
+      },
+      {
+        "lang": "sq",
+        "name": "Rrëqebulli"
+      },
+      {
+        "lang": "sk",
+        "name": "Rys ostrovid"
+      },
+      {
+        "lang": "sl",
+        "name": "Evrazijski ris"
+      },
+      {
+        "lang": "sr",
+        "name": "Обични рис",
+        "synonyms": [
+          "Obični ris, Шумски рис",
+          "Šumski ris"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Europeiskt lodjur",
+        "synonyms": [
+          "Lo"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Рись"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı vaşak"
+      },
+      {
+        "lang": "th",
+        "name": "ลิงซ์ยูเรเชีย"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Lūšis"
+      },
+      {
+        "lang": "zh",
+        "name": "歐亞猞猁"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lynx issiodorensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Lynx canadensis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "وشق كندي"
+      },
+      {
+        "lang": "de",
+        "name": "Kanadischer Luchs"
+      },
+      {
+        "lang": "en",
+        "name": "Canadian Lynx"
+      },
+      {
+        "lang": "es",
+        "name": "Lince canadiense"
+      },
+      {
+        "lang": "fr",
+        "name": "Lynx du Canada"
+      },
+      {
+        "lang": "hr",
+        "name": "Kanadski ris"
+      },
+      {
+        "lang": "ja",
+        "name": "カナダオオヤマネコ"
+      },
+      {
+        "lang": "pl",
+        "name": "Ryś kanadyjski"
+      },
+      {
+        "lang": "pt",
+        "name": "Lince-canadense"
+      },
+      {
+        "lang": "ru",
+        "name": "Канадская рысь"
+      },
+      {
+        "lang": "tr",
+        "name": "Kanada vaşağı"
+      },
+      {
+        "lang": "th",
+        "name": "ลิงซ์แคนาดา"
+      },
+      {
+        "lang": "ca",
+        "name": "Linx canadenc"
+      }
+    ]
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "scientific_name": "Lycalopex vetulus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Brasilianischer Kampfuchs"
+      },
+      {
+        "lang": "en",
+        "name": "Hoary Fox"
+      },
+      {
+        "lang": "es",
+        "name": "Zorro Hoary o de dientes pequeños"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard chenu"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis brazylijski",
+        "synonyms": [
+          "lis siwy"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-do-campo"
+      },
+      {
+        "lang": "tr",
+        "name": "Brezilya dövüş tilkisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lycalopex sechurae",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Sechurafuchs",
+        "synonyms": [
+          "Peruanischer Kampfuchs"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Sechuran Fox",
+        "synonyms": [
+          "Peruvian Desert Fox"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Zorro del desierto peruano"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard du désert austral"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis sechura"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-do-deserto-peruano"
+      },
+      {
+        "lang": "ru",
+        "name": "Сечуранская лисица"
+      },
+      {
+        "lang": "tr",
+        "name": "Peru çöl tilkisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lycalopex gymnocercus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Pampasfuchs"
+      },
+      {
+        "lang": "en",
+        "name": "Pampas Fox"
+      },
+      {
+        "lang": "es",
+        "name": "Zorro gris de las pampas"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard d’Aszara",
+        "synonyms": [
+          "Renard des pampas"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Lisoszakal",
+        "synonyms": [
+          "lis pampasowy"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-dos-pampas"
+      },
+      {
+        "lang": "tr",
+        "name": "Pampa tilkisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lycalopex griseus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Argentinische Kampfuchs",
+        "synonyms": [
+          "Patagonischer Fuchs"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "South American Gray Fox"
+      },
+      {
+        "lang": "es",
+        "name": "Zorro gris o chilla"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard gris d’Argentine",
+        "synonyms": [
+          "Renard de Patagonie"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Lis argentyński"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-cinzenta-argentina"
+      },
+      {
+        "lang": "ru",
+        "name": "Южноамериканская серая лисица",
+        "synonyms": [
+          "Аргентинская серая лисица"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Arjantin gri tilkisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lycalopex fulvipes",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Darwin-Fuchs"
+      },
+      {
+        "lang": "en",
+        "name": "Darwin's Fox"
+      },
+      {
+        "lang": "es",
+        "name": "Zorro chilote o de Darwin"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard de Darwin"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis Darwina"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-de-Darwin"
+      },
+      {
+        "lang": "tr",
+        "name": "Darwin tilkisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lycalopex culpaeus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Andenschakal",
+        "synonyms": [
+          "Andenfuchs",
+          "Feuerlandfuchs",
+          "Magellanfuchs",
+          "Culpeo",
+          "Culpeofuchs",
+          "patagonischer Fuchs"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Culpeo",
+        "synonyms": [
+          "Patagonian Fox"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Zorro culpeo o colorado"
+      },
+      {
+        "lang": "fr",
+        "name": "Culpéo"
+      },
+      {
+        "lang": "tr",
+        "name": "And tilkisi"
+      },
+      {
+        "lang": "pl",
+        "name": "Kolpeo",
+        "synonyms": [
+          "lisoszakal andyjski",
+          "lis andyjski"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-da-Patagônia",
+        "synonyms": [
+          "Culpeo"
+        ]
+      }
+    ]
+  }
+]

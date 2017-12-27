@@ -1,0 +1,958 @@
+[
+  {
+    "scientific_name": "Vulpes riffautae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Vulpes praeglacialis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Vulpes zerda",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "فنك، ثعلب الصحراء"
+      },
+      {
+        "lang": "ca",
+        "name": "Fennec"
+      },
+      {
+        "lang": "de",
+        "name": "Wüstenfuchs",
+        "synonyms": [
+          "Fennek"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Fennec"
+      },
+      {
+        "lang": "es",
+        "name": "Fénec",
+        "synonyms": [
+          "zorro del desierto o zorro orejudo"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Fennek",
+        "synonyms": [
+          "Kõrberebane",
+          "Fennekrebane"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Fennec",
+        "synonyms": [
+          "Renard des sables du Sahara"
+        ]
+      },
+      {
+        "lang": "hr",
+        "name": "Pustinjska lisica"
+      },
+      {
+        "lang": "ja",
+        "name": "フェネック"
+      },
+      {
+        "lang": "ko",
+        "name": "사막여우",
+        "synonyms": [
+          "페넥여우"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Fenek"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-Fennec"
+      },
+      {
+        "lang": "th",
+        "name": "หมาจิ้งจอกเฟนเนค",
+        "synonyms": [
+          "หมาจิ้งจอกทะเลทราย"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Uzun kulaklı çöl tilkisi"
+      },
+      {
+        "lang": "zh",
+        "name": "耳廓狐"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes vulpes",
+    "common_names": [
+      {
+        "lang": "ak",
+        "name": "Sakraman"
+      },
+      {
+        "lang": "af",
+        "name": "Rooivos"
+      },
+      {
+        "lang": "ar",
+        "name": "ثعلب أحمر"
+      },
+      {
+        "lang": "ca",
+        "name": "Guineu comuna"
+      },
+      {
+        "lang": "chy",
+        "name": "Ma'êhóóhe"
+      },
+      {
+        "lang": "cs",
+        "name": "liška obecná"
+      },
+      {
+        "lang": "da",
+        "name": "Rød ræv",
+        "synonyms": [
+          "ræv"
+        ]
+      },
+      {
+        "lang": "de",
+        "name": "Rotfuchs"
+      },
+      {
+        "lang": "el",
+        "name": "Κόκκινη Αλεπού"
+      },
+      {
+        "lang": "en",
+        "name": "Red Fox"
+      },
+      {
+        "lang": "eo",
+        "name": "Vulpo"
+      },
+      {
+        "lang": "es",
+        "name": "Zorro rojo o común"
+      },
+      {
+        "lang": "et",
+        "name": "Rebane",
+        "synonyms": [
+          "Punarebane"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Kettu",
+        "synonyms": [
+          "punakettu"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Renard commun",
+        "synonyms": [
+          "renard roux",
+          "renard rouge",
+          "goupil"
+        ]
+      },
+      {
+        "lang": "frr",
+        "name": "Ruad foos"
+      },
+      {
+        "lang": "gl",
+        "name": "Golpe",
+        "synonyms": [
+          "Raposa"
+        ]
+      },
+      {
+        "lang": "hi",
+        "name": "लाल लोमड़ी"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörös róka"
+      },
+      {
+        "lang": "hy",
+        "name": "Աղվես սովորական"
+      },
+      {
+        "lang": "is",
+        "name": "Rauðrefur"
+      },
+      {
+        "lang": "it",
+        "name": "Volpe rossa"
+      },
+      {
+        "lang": "ja",
+        "name": "アカギツネ"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은여우"
+      },
+      {
+        "lang": "lt",
+        "name": "Raudonoji lapė"
+      },
+      {
+        "lang": "nl",
+        "name": "Rode vos"
+      },
+      {
+        "lang": "no",
+        "name": "Rødrev"
+      },
+      {
+        "lang": "oc",
+        "name": "Rainald"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis pospolity"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-vermelha"
+      },
+      {
+        "lang": "ru",
+        "name": "Лисица обыкновенная"
+      },
+      {
+        "lang": "sc",
+        "name": "margiani"
+      },
+      {
+        "lang": "sh",
+        "name": "Crvena lisica"
+      },
+      {
+        "lang": "shh",
+        "name": "Ainga-waahni'"
+      },
+      {
+        "lang": "sk",
+        "name": "Líška hrdzavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Lisica"
+      },
+      {
+        "lang": "sv",
+        "name": "Räv",
+        "synonyms": [
+          "Rödräv"
+        ]
+      },
+      {
+        "lang": "th",
+        "name": "หมาจิ้งจอกแดง"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl tilki"
+      },
+      {
+        "lang": "uk",
+        "name": "Лисиця звичайна"
+      },
+      {
+        "lang": "zh",
+        "name": "赤狐"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes velox",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Swiftfuchs"
+      },
+      {
+        "lang": "en",
+        "name": "Swift Fox"
+      },
+      {
+        "lang": "es",
+        "name": "Zorro desértico"
+      },
+      {
+        "lang": "et",
+        "name": "Väle rebane"
+      },
+      {
+        "lang": "fi",
+        "name": "Kissakettu"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard véloce"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis płowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-orelhuda"
+      },
+      {
+        "lang": "tr",
+        "name": "Ova tilkisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes rueppellii",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "ثعلب روبل، ثعلب الرمال"
+      },
+      {
+        "lang": "de",
+        "name": "Sandfuchs",
+        "synonyms": [
+          "Rüppellfuchs"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Rüppell's Fox",
+        "synonyms": [
+          "Sand Fox"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Zorro de Rüppell o de arena"
+      },
+      {
+        "lang": "et",
+        "name": "Liivarebane"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard de Rüppell"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis piaskowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-de-Rüppell",
+        "synonyms": [
+          "Raposa-da-areia"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Kum tilkisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes pallida",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Blassfuchs"
+      },
+      {
+        "lang": "en",
+        "name": "Pale fox"
+      },
+      {
+        "lang": "es",
+        "name": "Zorro pálido"
+      },
+      {
+        "lang": "et",
+        "name": "Aafrika liivarebane",
+        "synonyms": [
+          "Kahvatu rebane"
+        ]
+      },
+      {
+        "lang": "fr",
+        "name": "Renard pâle"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis blady"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-pálida"
+      },
+      {
+        "lang": "tr",
+        "name": "Soluk tilki"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes macrotis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Großohr-Kitfuchs"
+      },
+      {
+        "lang": "en",
+        "name": "Kit Fox"
+      },
+      {
+        "lang": "es",
+        "name": "Zorro kit"
+      },
+      {
+        "lang": "et",
+        "name": "Kääbusrebane"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard nain"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis długouchy"
+      },
+      {
+        "lang": "tr",
+        "name": "Cüce tilki"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes lagopus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Полярната лисица"
+      },
+      {
+        "lang": "ca",
+        "name": "Guineu àrtica"
+      },
+      {
+        "lang": "cs",
+        "name": "Liška polární"
+      },
+      {
+        "lang": "da",
+        "name": "Polarræv"
+      },
+      {
+        "lang": "de",
+        "name": "Polarfuchs",
+        "synonyms": [
+          "Eisfuchs"
+        ]
+      },
+      {
+        "lang": "el",
+        "name": "Αρκτική αλεπού"
+      },
+      {
+        "lang": "en",
+        "name": "Arctic fox",
+        "synonyms": [
+          "Snow fox"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Arkta vulpo",
+        "synonyms": [
+          "Izatiso"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Zorro polar",
+        "synonyms": [
+          "Zorro ártico"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Polaarrebane",
+        "synonyms": [
+          "Jäärebane"
+        ]
+      },
+      {
+        "lang": "fa",
+        "name": "روباه قطبی"
+      },
+      {
+        "lang": "fi",
+        "name": "Naali"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard polaire",
+        "synonyms": [
+          "Renard isatis"
+        ]
+      },
+      {
+        "lang": "he",
+        "name": "שועל שלג"
+      },
+      {
+        "lang": "hr",
+        "name": "Arktička lisica",
+        "synonyms": [
+          "Polarna lisica"
+        ]
+      },
+      {
+        "lang": "is",
+        "name": "Heimskautarefur",
+        "synonyms": [
+          "Tófa",
+          "Melrakki"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Volpe artica"
+      },
+      {
+        "lang": "ja",
+        "name": "ホッキョクギツネ"
+      },
+      {
+        "lang": "kv",
+        "name": "кынь"
+      },
+      {
+        "lang": "la",
+        "name": "Alopex lagopus"
+      },
+      {
+        "lang": "lt",
+        "name": "Poliarinė lapė"
+      },
+      {
+        "lang": "nl",
+        "name": "Poolvos"
+      },
+      {
+        "lang": "nn",
+        "name": "Fjellrev"
+      },
+      {
+        "lang": "no",
+        "name": "Fjellrev"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis polarny",
+        "synonyms": [
+          "piesiec"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-do-ártico"
+      },
+      {
+        "lang": "ro",
+        "name": "Vulpe polară"
+      },
+      {
+        "lang": "ru",
+        "name": "Песец",
+        "synonyms": [
+          "Полярная лисица"
+        ]
+      },
+      {
+        "lang": "sah",
+        "name": "Кырса"
+      },
+      {
+        "lang": "se",
+        "name": "Njálla",
+        "synonyms": [
+          "Svála"
+        ]
+      },
+      {
+        "lang": "sl",
+        "name": "Polarna lisica",
+        "synonyms": [
+          "Pesec"
+        ]
+      },
+      {
+        "lang": "sr",
+        "name": "Поларна лисица",
+        "synonyms": [
+          "Polarna lisica"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Fjällräv"
+      },
+      {
+        "lang": "th",
+        "name": "หมาจิ้งจอกอาร์กติก",
+        "synonyms": [
+          "หมาจิ้งจอกขั้วโลก"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Kutup tilkisi"
+      },
+      {
+        "lang": "zh",
+        "name": "北極狐"
+      },
+      {
+        "lang": "lb",
+        "name": "Polarfuuss"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes hassani",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Vulpes ferrilata",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Tibetfuchs"
+      },
+      {
+        "lang": "en",
+        "name": "Tibetan Fox",
+        "synonyms": [
+          "Tibetan Sand Fox"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Zorro tibetano"
+      },
+      {
+        "lang": "et",
+        "name": "Tiibeti liivarebane"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard du Tibet",
+        "synonyms": [
+          "renard des sables du Tibet",
+          "renard tibétain"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Lis tybetański"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-do-Tibet"
+      },
+      {
+        "lang": "tr",
+        "name": "Tibet tilkisi"
+      },
+      {
+        "lang": "zh",
+        "name": "藏狐"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes corsac",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Liška korsak",
+        "synonyms": [
+          "Korsak"
+        ]
+      },
+      {
+        "lang": "de",
+        "name": "Korsak",
+        "synonyms": [
+          "Steppenfuchs"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Corsac Fox",
+        "synonyms": [
+          "Steppe Fox"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Zorro Corsac"
+      },
+      {
+        "lang": "et",
+        "name": "Korsak"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard corsac",
+        "synonyms": [
+          "Renard des steppes"
+        ]
+      },
+      {
+        "lang": "he",
+        "name": "שועל קורסאקי"
+      },
+      {
+        "lang": "ka",
+        "name": "კორსაკი"
+      },
+      {
+        "lang": "no",
+        "name": "Stepperev"
+      },
+      {
+        "lang": "pl",
+        "name": "Korsak",
+        "synonyms": [
+          "lis stepowy"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-das-estepes"
+      },
+      {
+        "lang": "sl",
+        "name": "Stepska lisica",
+        "synonyms": [
+          "Korzak"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Korsak tilkisi"
+      },
+      {
+        "lang": "uk",
+        "name": "Корсак"
+      },
+      {
+        "lang": "zh",
+        "name": "沙狐"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes chama",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Liška chama; Liška kapská; Liška zlatočerná"
+      },
+      {
+        "lang": "de",
+        "name": "Kapfuchs"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Fox"
+      },
+      {
+        "lang": "es",
+        "name": "Zorro del Cabo"
+      },
+      {
+        "lang": "et",
+        "name": "Kapi rebane"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard du Cap"
+      },
+      {
+        "lang": "he",
+        "name": "שועל הכף"
+      },
+      {
+        "lang": "hr",
+        "name": "Kama"
+      },
+      {
+        "lang": "it",
+        "name": "Volpe del Capo"
+      },
+      {
+        "lang": "ja",
+        "name": "ケープギツネ"
+      },
+      {
+        "lang": "lt",
+        "name": "Afganistano lapė"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapse vos"
+      },
+      {
+        "lang": "no",
+        "name": "Kapprev"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis przylądkowy",
+        "synonyms": [
+          "lis kapski"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-do-cabo"
+      },
+      {
+        "lang": "tr",
+        "name": "Güney Afrika tilkisi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes cana",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "ثعلب أفغاني"
+      },
+      {
+        "lang": "de",
+        "name": "Afghanfuchs"
+      },
+      {
+        "lang": "en",
+        "name": "Blanford's fox",
+        "synonyms": [
+          "Afghan fox",
+          "royal fox",
+          "king fox",
+          "Baluchistan fox",
+          "cliff fox",
+          "black fox",
+          "Corsac fox",
+          "dog fox",
+          "hoary fox",
+          "and steppe fox"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Zorro de Blanford",
+        "synonyms": [
+          "afgano o estepario"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Afgaani rebane"
+      },
+      {
+        "lang": "fi",
+        "name": "Blanfordinkettu"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard de Blanford",
+        "synonyms": [
+          "renard afghan"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Lis afgański"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-afegã"
+      },
+      {
+        "lang": "tr",
+        "name": "Afgan tilkisi"
+      },
+      {
+        "lang": "zh",
+        "name": "阿富汗狐"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Vulpes bengalensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Bengalfuchs"
+      },
+      {
+        "lang": "en",
+        "name": "Bengal Fox"
+      },
+      {
+        "lang": "es",
+        "name": "Zorro de Bengala o indio"
+      },
+      {
+        "lang": "et",
+        "name": "Bengali rebane"
+      },
+      {
+        "lang": "fr",
+        "name": "Renard du Bengale"
+      },
+      {
+        "lang": "pl",
+        "name": "Lis bengalski"
+      },
+      {
+        "lang": "pt",
+        "name": "Raposa-de-Bengala"
+      },
+      {
+        "lang": "fi",
+        "name": "Bengalinkettu"
+      },
+      {
+        "lang": "tr",
+        "name": "Bengal tilkisi"
+      }
+    ]
+  }
+]
