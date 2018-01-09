@@ -337,7 +337,7 @@
       },
       {
         "lang": "sr",
-        "name": "Crnka - Црнка"
+        "name": "Патка црнка (Patka crnka)"
       },
       {
         "lang": "sv",
@@ -703,7 +703,10 @@
       },
       {
         "lang": "sr",
-        "name": "Морска црнка"
+        "name": "Морска црнка",
+        "synonyms": [
+          "Morska crnka"
+        ]
       },
       {
         "lang": "sv",
@@ -1056,7 +1059,7 @@
       },
       {
         "lang": "sr",
-        "name": "Cubasta plovka - Ћубаста пловка"
+        "name": "Ћубаста патка (Ćubasta patka)"
       },
       {
         "lang": "sv",
@@ -1382,10 +1385,7 @@
       },
       {
         "lang": "sr",
-        "name": "Riđoglava plovka",
-        "synonyms": [
-          "Ридоглава пловка"
-        ]
+        "name": "Риђоглава патка (Riđoglava patka)"
       },
       {
         "lang": "sv",

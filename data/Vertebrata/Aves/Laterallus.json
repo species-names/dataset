@@ -37,6 +37,47 @@
     ]
   },
   {
+    "scientific_name": "Laterallus viridis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Russet-crowned Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela coronirrufa"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle kiolo"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo caporossiccio"
+      },
+      {
+        "lang": "ja",
+        "name": "ズアカコクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkruinral"
+      },
+      {
+        "lang": "pt",
+        "name": "Açanã-de-cabeça-castanha"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Sanã-castanha"
+      },
+      {
+        "lang": "sv",
+        "name": "Cayennerall"
+      }
+    ]
+  },
+  {
     "scientific_name": "Laterallus spilonotus",
     "common_names": [
       {
@@ -275,6 +316,43 @@
       {
         "lang": "sv",
         "name": "Svart dvärgrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Laterallus fasciatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-banded Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela barreada"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle fascié"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo bandenere"
+      },
+      {
+        "lang": "ja",
+        "name": "クロジマクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartbandral"
+      },
+      {
+        "lang": "pt",
+        "name": "Sanã-zebrada"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartbandad rall"
       }
     ]
   },

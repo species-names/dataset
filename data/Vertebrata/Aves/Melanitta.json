@@ -347,7 +347,10 @@
       },
       {
         "lang": "sr",
-        "name": "Crna plovka - Црна пловка"
+        "name": "Crni turpan",
+        "synonyms": [
+          "Црни турпан"
+        ]
       },
       {
         "lang": "sv",
@@ -529,6 +532,13 @@
       {
         "lang": "zh",
         "name": "斑脸海番鸭"
+      },
+      {
+        "lang": "sr",
+        "name": "Баршунасти турпан",
+        "synonyms": [
+          "Baršunasti turpan"
+        ]
       }
     ]
   },

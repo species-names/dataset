@@ -138,6 +138,10 @@
         "name": "Canard à bec jaune"
       },
       {
+        "lang": "hu",
+        "name": "Sárgacsőrű réce"
+      },
+      {
         "lang": "ja",
         "name": "キバシガモ"
       },
@@ -443,10 +447,7 @@
       },
       {
         "lang": "sr",
-        "name": "Plovka cegrtuša",
-        "synonyms": [
-          "Пловка цегртуша"
-        ]
+        "name": "Чегртуша (Čegrtuša)"
       },
       {
         "lang": "sv",
@@ -1064,10 +1065,7 @@
       },
       {
         "lang": "sr",
-        "name": "Krdža",
-        "synonyms": [
-          "Крджа"
-        ]
+        "name": "Гроготовац (Grogotovac)"
       },
       {
         "lang": "sv",
@@ -1979,6 +1977,10 @@
         "name": "Kačica hvizdárka"
       },
       {
+        "lang": "sr",
+        "name": "Звиждара (Zviždara)"
+      },
+      {
         "lang": "sv",
         "name": "Bläsand"
       },
@@ -2171,6 +2173,10 @@
         "name": "アフリカコガモ"
       },
       {
+        "lang": "ka",
+        "name": "ლაქებიანი იხვინჯა"
+      },
+      {
         "lang": "nl",
         "name": "Hottentottaling"
       },
@@ -2226,11 +2232,54 @@
       },
       {
         "lang": "ru",
-        "name": "Серый чирок"
+        "name": "Серый чирок",
+        "synonyms": [
+          "Зондский чирок"
+        ]
+      },
+      {
+        "lang": "ca",
+        "name": "Xarxet de front boterut"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhwyaden Swnda"
+      },
+      {
+        "lang": "de",
+        "name": "Sunda-Weißkehlente"
+      },
+      {
+        "lang": "eo",
+        "name": "Sunda kreko"
+      },
+      {
+        "lang": "fa",
+        "name": "خوتکای سوندا"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle grise"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehértorkú réce"
+      },
+      {
+        "lang": "id",
+        "name": "Itik benjut"
+      },
+      {
+        "lang": "nds",
+        "name": "Indonees’sche Wittkehlaante"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische taling"
       },
       {
         "lang": "sv",
-        "name": "Indonesisk gråkricka"
+        "name": "sundakricka"
       }
     ]
   },
@@ -4097,6 +4146,10 @@
       {
         "lang": "sv",
         "name": "Andamankricka"
+      },
+      {
+        "lang": "bn",
+        "name": "আন্দামান বালি হাঁস"
       }
     ]
   },
@@ -4433,7 +4486,7 @@
       },
       {
         "lang": "sr",
-        "name": "Шиљкан"
+        "name": "Шиљкан (Šiljkan)"
       },
       {
         "lang": "sv",

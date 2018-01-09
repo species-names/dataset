@@ -48,7 +48,15 @@
       },
       {
         "lang": "sv",
-        "name": "Fläckvingad sumphöna"
+        "name": "fläckvingad sumphöna"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen adeinfraith"
+      },
+      {
+        "lang": "nl",
+        "name": "Du(r)nfords dwergral"
       }
     ]
   },
@@ -671,6 +679,34 @@
       {
         "lang": "zh",
         "name": "斑胁田鸡"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen Paykull"
+      },
+      {
+        "lang": "fr",
+        "name": "Marouette mandarin"
+      },
+      {
+        "lang": "hu",
+        "name": "Mandarin vízicsibe"
+      },
+      {
+        "lang": "kbd",
+        "name": "Бгъэнджэдышхуэ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bontbekral"
+      },
+      {
+        "lang": "ru",
+        "name": "Большой погоныш"
+      },
+      {
+        "lang": "sv",
+        "name": "amursumphöna"
       }
     ]
   },
@@ -959,8 +995,48 @@
     "scientific_name": "Porzana monasa",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Kosrae-Sumpfhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Kosrae Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela de las Carolinas"
+      },
+      {
         "lang": "fi",
         "name": "Kosraenhuitti"
+      },
+      {
+        "lang": "fr",
+        "name": "Marouette de Kusaie"
+      },
+      {
+        "lang": "hu",
+        "name": "Kosrae-szigeti vízicsibe"
+      },
+      {
+        "lang": "it",
+        "name": "Schiribilla di Kosrae"
+      },
+      {
+        "lang": "nl",
+        "name": "Kusaieral"
+      },
+      {
+        "lang": "pl",
+        "name": "Kureczka mikronezyjska"
+      },
+      {
+        "lang": "sv",
+        "name": "Kosraesumphöna"
+      },
+      {
+        "lang": "zh",
+        "name": "庫島田雞"
       }
     ]
   },
@@ -1207,8 +1283,44 @@
         "name": "Polluela de la Henderson"
       },
       {
+        "lang": "ca",
+        "name": "Rasclet de la Henderson"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen Ynys Henderson"
+      },
+      {
+        "lang": "de",
+        "name": "Tuamotusumpfhuhn"
+      },
+      {
+        "lang": "en",
+        "name": "Henderson crake"
+      },
+      {
         "lang": "fi",
         "name": "Nokihuitti"
+      },
+      {
+        "lang": "fr",
+        "name": "Marouette de Henderson"
+      },
+      {
+        "lang": "hu",
+        "name": "Henderson-szigeti vízicsibe"
+      },
+      {
+        "lang": "ja",
+        "name": "ヘンダーソンクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Hendersonporseleinhoen"
+      },
+      {
+        "lang": "sv",
+        "name": "hendersonsumphöna"
       }
     ]
   },

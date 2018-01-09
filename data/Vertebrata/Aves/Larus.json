@@ -1,0 +1,2622 @@
+[
+  {
+    "scientific_name": "Larus vegae",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek východosibiřský"
+      },
+      {
+        "lang": "en",
+        "name": "Vega Gull"
+      },
+      {
+        "lang": "fi",
+        "name": "Siperianharmaalokki"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland de la Véga"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus smithsonianus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek americký"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Sølvmåge"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanische Silbermöwe"
+      },
+      {
+        "lang": "en",
+        "name": "American Herring Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika arĝentmevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota Argéntea Americana"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanharmaalokki"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland hudsonien"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano americano"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカセグロカモメ"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse zilvermeeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikagråmåke"
+      },
+      {
+        "lang": "pl",
+        "name": "mewa popielata"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-prateada-americana"
+      },
+      {
+        "lang": "ru",
+        "name": "Американская серебристая чайка"
+      },
+      {
+        "lang": "sk",
+        "name": "čajka západná"
+      },
+      {
+        "lang": "zh",
+        "name": "美國銀鷗"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus schistisagus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek kamčatský",
+        "synonyms": [
+          "Racek šedohřbetý"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota de Kamchatka"
+      },
+      {
+        "lang": "fi",
+        "name": "Ohotanlokki"
+      },
+      {
+        "lang": "ja",
+        "name": "オオセグロカモメ"
+      },
+      {
+        "lang": "ko",
+        "name": "큰재갈매기"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus pacificus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek velkozobý",
+        "synonyms": [
+          "Racek pacifický",
+          "Racek tichomořský"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Pacific Gull"
+      },
+      {
+        "lang": "nl",
+        "name": "Diksnavelmeeuw"
+      },
+      {
+        "lang": "fi",
+        "name": "Keisarilokki"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus occidentalis",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "نورس غربي"
+      },
+      {
+        "lang": "cs",
+        "name": "racek západní"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk Svartbag"
+      },
+      {
+        "lang": "de",
+        "name": "Westmöwe"
+      },
+      {
+        "lang": "en",
+        "name": "Western Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Okcidenta mevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota Occidental"
+      },
+      {
+        "lang": "et",
+        "name": "kiltkajakas"
+      },
+      {
+        "lang": "fi",
+        "name": "amerikanmerilokki"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland d'Audubon"
+      },
+      {
+        "lang": "hu",
+        "name": "nyugati sirály"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano occidentale"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカオオセグロカモメ",
+        "synonyms": [
+          "amerikaoosegurokamome"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Californische Meeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Kaliforniasvartbak"
+      },
+      {
+        "lang": "pl",
+        "name": "mewa zachodnia"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-de-pés-rosados"
+      },
+      {
+        "lang": "ru",
+        "name": "Западная чайка"
+      },
+      {
+        "lang": "sk",
+        "name": "čajka pláštiková"
+      },
+      {
+        "lang": "sv",
+        "name": "Västtrut"
+      },
+      {
+        "lang": "uk",
+        "name": "Західний мартин"
+      },
+      {
+        "lang": "zh",
+        "name": "西美鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus michahellis",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Чайка-рагатуха"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълтокрака чайка"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavià argentat"
+      },
+      {
+        "lang": "cs",
+        "name": "Racek středomořský"
+      },
+      {
+        "lang": "da",
+        "name": "Middelhavsmåge"
+      },
+      {
+        "lang": "de",
+        "name": "Mittelmeermöwe"
+      },
+      {
+        "lang": "el",
+        "name": "Χιντιανόγλαρος"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-legged Gull"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota Patiamarilla"
+      },
+      {
+        "lang": "et",
+        "name": "Lõuna-hõbekajakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Kaio hankahoria"
+      },
+      {
+        "lang": "fi",
+        "name": "Aroharmaalokki"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland leucophée"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivota patiamarela"
+      },
+      {
+        "lang": "hu",
+        "name": "Sárgalábú sirály"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano reale zampegialle"
+      },
+      {
+        "lang": "ja",
+        "name": "キアシセグロカモメ"
+      },
+      {
+        "lang": "lb",
+        "name": "Mëttelmierméiw"
+      },
+      {
+        "lang": "lt",
+        "name": "Geltonkojis kiras"
+      },
+      {
+        "lang": "lv",
+        "name": "Vidusjūras kaija"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelpootmeeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Gulbeingråmåke"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa romańska"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-de-patas-amarelas"
+      },
+      {
+        "lang": "rm",
+        "name": "Muetta dal chau alv"
+      },
+      {
+        "lang": "ro",
+        "name": "Pescăruş cu picioare galbene"
+      },
+      {
+        "lang": "ru",
+        "name": "Средиземноморская чайка"
+      },
+      {
+        "lang": "sk",
+        "name": "Čajka žltonohá"
+      },
+      {
+        "lang": "sl",
+        "name": "Rumenonogi galeb"
+      },
+      {
+        "lang": "sq",
+        "name": "Pulëbardha këmbëverdhë"
+      },
+      {
+        "lang": "sv",
+        "name": "Medelhavstrut"
+      },
+      {
+        "lang": "tr",
+        "name": "Gümüş Martı"
+      },
+      {
+        "lang": "zh",
+        "name": "黃腳銀鷗"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus marinus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "نورس أسود الظهر كبير"
+      },
+      {
+        "lang": "ast",
+        "name": "Gaviluetu"
+      },
+      {
+        "lang": "be",
+        "name": "Марская чайка"
+      },
+      {
+        "lang": "bg",
+        "name": "Голяма черногърба чайка"
+      },
+      {
+        "lang": "br",
+        "name": "Gouelan bras"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavinot"
+      },
+      {
+        "lang": "cs",
+        "name": "Racek mořský"
+      },
+      {
+        "lang": "cw",
+        "name": "Gwylan keyn du"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan Gefnddu Fwyaf"
+      },
+      {
+        "lang": "da",
+        "name": "Svartbag"
+      },
+      {
+        "lang": "de",
+        "name": "Mantelmöwe"
+      },
+      {
+        "lang": "el",
+        "name": "Πελαγόγλαρος"
+      },
+      {
+        "lang": "en",
+        "name": "Great Black-backed Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigramantela mevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gavión Atlántico"
+      },
+      {
+        "lang": "et",
+        "name": "Merikajakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Kaio beltz"
+      },
+      {
+        "lang": "fi",
+        "name": "Merilokki"
+      },
+      {
+        "lang": "fo",
+        "name": "Svartbakur"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland marin"
+      },
+      {
+        "lang": "frr",
+        "name": "Hääfkub"
+      },
+      {
+        "lang": "ga",
+        "name": "Droimneach mór"
+      },
+      {
+        "lang": "gd",
+        "name": "Arspag"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivotón"
+      },
+      {
+        "lang": "gv",
+        "name": "Juan Mooar"
+      },
+      {
+        "lang": "he",
+        "name": "שחף ימי"
+      },
+      {
+        "lang": "ht",
+        "name": "Mòv pye nwa"
+      },
+      {
+        "lang": "hu",
+        "name": "Dolmányos sirály"
+      },
+      {
+        "lang": "is",
+        "name": "Svartbakur"
+      },
+      {
+        "lang": "it",
+        "name": "Mugnaiaccio"
+      },
+      {
+        "lang": "iu",
+        "name": "Naajarluk"
+      },
+      {
+        "lang": "ja",
+        "name": "オオカモメ"
+      },
+      {
+        "lang": "ka",
+        "name": "ზღვის თოლია"
+      },
+      {
+        "lang": "kk",
+        "name": "Тењіз шағала"
+      },
+      {
+        "lang": "kl",
+        "name": "Naajarluk"
+      },
+      {
+        "lang": "lb",
+        "name": "Mantelméiw"
+      },
+      {
+        "lang": "lt",
+        "name": "Balnotasis kiras"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnspārnu kaija"
+      },
+      {
+        "lang": "mk",
+        "name": "Голем морски галеб"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote mantelmeeuw"
+      },
+      {
+        "lang": "nn",
+        "name": "Svartbak"
+      },
+      {
+        "lang": "no",
+        "name": "Svartbak"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa siodłata"
+      },
+      {
+        "lang": "pt",
+        "name": "Alcatraz-comum"
+      },
+      {
+        "lang": "rm",
+        "name": "Muetta da mar"
+      },
+      {
+        "lang": "ro",
+        "name": "Pescăruş negru"
+      },
+      {
+        "lang": "ru",
+        "name": "Морская чайка"
+      },
+      {
+        "lang": "se",
+        "name": "Mearragáiru"
+      },
+      {
+        "lang": "sk",
+        "name": "Čajka morská"
+      },
+      {
+        "lang": "sl",
+        "name": "Veliki galeb"
+      },
+      {
+        "lang": "sq",
+        "name": "Pulëbardha shpinëzezë"
+      },
+      {
+        "lang": "sr",
+        "name": "Veliki galeb",
+        "synonyms": [
+          "Велики галеб"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Havstrut"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük kara sırtlı martı"
+      },
+      {
+        "lang": "uk",
+        "name": "Великий морський мартин"
+      },
+      {
+        "lang": "vi",
+        "name": "Mòng biển lớn lưng đen"
+      },
+      {
+        "lang": "zea",
+        "name": "Gogge"
+      },
+      {
+        "lang": "zh",
+        "name": "大黑背鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus livens",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek kalifornský"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbfußmöwe"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-footed Gull"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota de Cortés"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalifornianlokki"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland de Cortez"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus hyperboreus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "النورس"
+      },
+      {
+        "lang": "ast",
+        "name": "Gavilueta Cande"
+      },
+      {
+        "lang": "bg",
+        "name": "Голяма белокрила чайка"
+      },
+      {
+        "lang": "br",
+        "name": "Gouelan-Sterenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavinot hiperbori"
+      },
+      {
+        "lang": "cs",
+        "name": "Racek šedý"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan laswyrdd"
+      },
+      {
+        "lang": "da",
+        "name": "Gråmåge"
+      },
+      {
+        "lang": "de",
+        "name": "Eismöwe"
+      },
+      {
+        "lang": "en",
+        "name": "Glaucous Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Glacimevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gavión Hiperbóreo"
+      },
+      {
+        "lang": "et",
+        "name": "Jääkajakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Gavinot hiperbori"
+      },
+      {
+        "lang": "fi",
+        "name": "isolokki"
+      },
+      {
+        "lang": "fo",
+        "name": "Valmási"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland bourgmestre"
+      },
+      {
+        "lang": "frr",
+        "name": "Ismeew"
+      },
+      {
+        "lang": "fy",
+        "name": "Grutte Iismiuw"
+      },
+      {
+        "lang": "ga",
+        "name": "Faoileán Glas"
+      },
+      {
+        "lang": "gd",
+        "name": "Faoileag Mhòr"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivota hiperbórea"
+      },
+      {
+        "lang": "gv",
+        "name": "Foillan glass"
+      },
+      {
+        "lang": "he",
+        "name": "שחף לבן כנף"
+      },
+      {
+        "lang": "hu",
+        "name": "Jeges sirály"
+      },
+      {
+        "lang": "is",
+        "name": "Hvítmáfur"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano glauco"
+      },
+      {
+        "lang": "iu",
+        "name": "Naajarujussuaq",
+        "synonyms": [
+          "Nowyah"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "シロカモメ"
+      },
+      {
+        "lang": "kk",
+        "name": "Дуанбас"
+      },
+      {
+        "lang": "kl",
+        "name": "Naaja",
+        "synonyms": [
+          "Naajarujussuaq",
+          "Nowyah"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "흰갈매기"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis poliarinis kiras"
+      },
+      {
+        "lang": "lv",
+        "name": "Lielā polārkaija"
+      },
+      {
+        "lang": "mn",
+        "name": "Мөсны цахлай",
+        "synonyms": [
+          "ᠮᠦᠰᠦᠨ ᠦ ᠴᠠᠬᠣᠯᠠᠢ"
+        ]
+      },
+      {
+        "lang": "mt",
+        "name": "Gawwija Bajda"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote burgemeester"
+      },
+      {
+        "lang": "no",
+        "name": "Polarmåke"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa blada"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-hiperbórea"
+      },
+      {
+        "lang": "rm",
+        "name": "Muetta verda"
+      },
+      {
+        "lang": "ro",
+        "name": "Pescăruş de ghețuri"
+      },
+      {
+        "lang": "ru",
+        "name": "Бургомистр"
+      },
+      {
+        "lang": "se",
+        "name": "Stuorraskávli"
+      },
+      {
+        "lang": "sk",
+        "name": "Čajka bledá"
+      },
+      {
+        "lang": "sl",
+        "name": "Ledni galeb"
+      },
+      {
+        "lang": "sv",
+        "name": "Vittrut"
+      },
+      {
+        "lang": "tr",
+        "name": "Kutup martısı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Соңгуу-чүктүң ак-кускуну"
+      },
+      {
+        "lang": "uk",
+        "name": "Мартин полярний"
+      },
+      {
+        "lang": "vi",
+        "name": "Mòng biển xanh xám"
+      },
+      {
+        "lang": "zh",
+        "name": "北极鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus heermanni",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek mexický",
+        "synonyms": [
+          "Racek Heermannův"
+        ]
+      },
+      {
+        "lang": "da",
+        "name": "Askemåge"
+      },
+      {
+        "lang": "de",
+        "name": "Heermannmöwe"
+      },
+      {
+        "lang": "en",
+        "name": "Heermann's Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Heermana mevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota Mexicana"
+      },
+      {
+        "lang": "et",
+        "name": "tuhkkajakas"
+      },
+      {
+        "lang": "fi",
+        "name": "meksikonlokki"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland de Heermann"
+      },
+      {
+        "lang": "hu",
+        "name": "Heermann-sirály"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano di Heermann"
+      },
+      {
+        "lang": "ja",
+        "name": "オグロカモメ",
+        "synonyms": [
+          "ogurokamome"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Heermanns Meeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Askemåke"
+      },
+      {
+        "lang": "pl",
+        "name": "mewa śniada"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-cinzenta-setentrional"
+      },
+      {
+        "lang": "ru",
+        "name": "Чайка Хеерманна"
+      },
+      {
+        "lang": "sk",
+        "name": "čajka pobrežná"
+      },
+      {
+        "lang": "sv",
+        "name": "Vithuvad mås"
+      },
+      {
+        "lang": "zh",
+        "name": "红嘴灰鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus glaucoides",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Gavilueta d'Islandia"
+      },
+      {
+        "lang": "br",
+        "name": "Gouelan arc'hlas"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavina polar"
+      },
+      {
+        "lang": "cs",
+        "name": "Racek polární"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan Gwlad yr I‰"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidvinget Måge"
+      },
+      {
+        "lang": "de",
+        "name": "Polarmöwe"
+      },
+      {
+        "lang": "el",
+        "name": "Ισλανδόγλαρος"
+      },
+      {
+        "lang": "en",
+        "name": "Iceland Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankflugila mevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota groenlandesa"
+      },
+      {
+        "lang": "et",
+        "name": "Polaarkajakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Gavinot polar"
+      },
+      {
+        "lang": "fi",
+        "name": "Grönlanninlokki"
+      },
+      {
+        "lang": "fo",
+        "name": "Lítil valmási"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland arctique"
+      },
+      {
+        "lang": "ga",
+        "name": "Faoileán Íoslannach"
+      },
+      {
+        "lang": "gd",
+        "name": "Faoileag Liath"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivota polar"
+      },
+      {
+        "lang": "gv",
+        "name": "Foillan Loughlinagh"
+      },
+      {
+        "lang": "he",
+        "name": "שחף איסלנדי"
+      },
+      {
+        "lang": "hu",
+        "name": "Sarki sirály"
+      },
+      {
+        "lang": "is",
+        "name": "Bjartmáfur"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano d'Islanda"
+      },
+      {
+        "lang": "iu",
+        "name": "Naujaq"
+      },
+      {
+        "lang": "ja",
+        "name": "アイスランドカモメ"
+      },
+      {
+        "lang": "kl",
+        "name": "Naaja"
+      },
+      {
+        "lang": "ko",
+        "name": "작은흰갈매기"
+      },
+      {
+        "lang": "lt",
+        "name": "Mažasis poliarinis kiras"
+      },
+      {
+        "lang": "lv",
+        "name": "Mazā polārkaija"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine burgemeester"
+      },
+      {
+        "lang": "nn",
+        "name": "Grønlandsmåse"
+      },
+      {
+        "lang": "no",
+        "name": "Grønlandsmåke"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa polarna"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-polar"
+      },
+      {
+        "lang": "ro",
+        "name": "Pescăruş cu aripi albe"
+      },
+      {
+        "lang": "ru",
+        "name": "Полярная чайка"
+      },
+      {
+        "lang": "se",
+        "name": "Vilgessoadjeskávli"
+      },
+      {
+        "lang": "sk",
+        "name": "Čajka bielokrídla"
+      },
+      {
+        "lang": "sl",
+        "name": "Polarni galeb"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitvingad trut"
+      },
+      {
+        "lang": "tr",
+        "name": "Grönland Martısı"
+      },
+      {
+        "lang": "zh",
+        "name": "冰岛鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus glaucescens",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek šedokřídlý"
+      },
+      {
+        "lang": "de",
+        "name": "Beringmöwe"
+      },
+      {
+        "lang": "en",
+        "name": "Glaucous-winged Gull"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota de Bering"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland à ailes grises"
+      },
+      {
+        "lang": "hu",
+        "name": "Bering-tengeri sirály"
+      },
+      {
+        "lang": "ja",
+        "name": "ワシカモメ"
+      },
+      {
+        "lang": "ko",
+        "name": "수리갈매기"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-de-bering"
+      },
+      {
+        "lang": "ru",
+        "name": "Серокрылая чайка"
+      },
+      {
+        "lang": "zh",
+        "name": "灰翅鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus fuscus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Kleinswartrugmeeu"
+      },
+      {
+        "lang": "ar",
+        "name": "النورس أسود الظهر الصغير"
+      },
+      {
+        "lang": "ast",
+        "name": "Gavilueta Escura",
+        "synonyms": [
+          "Gaviota Someada"
+        ]
+      },
+      {
+        "lang": "az",
+        "name": "Beligara qağayısı"
+      },
+      {
+        "lang": "be",
+        "name": "Клуша"
+      },
+      {
+        "lang": "bg",
+        "name": "Малка черногърба чайка"
+      },
+      {
+        "lang": "br",
+        "name": "Gouelan kein du"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavià fosc"
+      },
+      {
+        "lang": "cs",
+        "name": "Racek žlutonohý"
+      },
+      {
+        "lang": "cw",
+        "name": "Gwylan keyn du lyha"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan Gefnddu Leiaf"
+      },
+      {
+        "lang": "da",
+        "name": "Sildemåge"
+      },
+      {
+        "lang": "de",
+        "name": "Heringsmöwe"
+      },
+      {
+        "lang": "el",
+        "name": "Μελανόγλαρος"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser black-backed gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Malhela mevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota sombría"
+      },
+      {
+        "lang": "et",
+        "name": "Tõmmukajakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Kaio ilun"
+      },
+      {
+        "lang": "fi",
+        "name": "selkälokki"
+      },
+      {
+        "lang": "fo",
+        "name": "Likka"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland brun"
+      },
+      {
+        "lang": "frr",
+        "name": "Hiarangskub"
+      },
+      {
+        "lang": "ga",
+        "name": "Droimneach Beag"
+      },
+      {
+        "lang": "gd",
+        "name": "Faoileag Bheag"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivota escura"
+      },
+      {
+        "lang": "gv",
+        "name": "Foillan Saggyrt"
+      },
+      {
+        "lang": "he",
+        "name": "שחף שחור"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti Mòv do nwa"
+      },
+      {
+        "lang": "hu",
+        "name": "Heringsirály"
+      },
+      {
+        "lang": "hy",
+        "name": "Ծովաորոր փոքր"
+      },
+      {
+        "lang": "is",
+        "name": "Sílamáfur"
+      },
+      {
+        "lang": "it",
+        "name": "Zafferano"
+      },
+      {
+        "lang": "ja",
+        "name": "ニシセグロカモメ"
+      },
+      {
+        "lang": "ka",
+        "name": "კლუშა-თოლია"
+      },
+      {
+        "lang": "kk",
+        "name": "Көк шағала"
+      },
+      {
+        "lang": "ko",
+        "name": "줄무늬노랑발갈매기"
+      },
+      {
+        "lang": "lt",
+        "name": "Silkinis kiras"
+      },
+      {
+        "lang": "lb",
+        "name": "Kleng Mantelméiw"
+      },
+      {
+        "lang": "lv",
+        "name": "Reņģu kaija"
+      },
+      {
+        "lang": "mk",
+        "name": "Морски (Мал црногрб) галеб"
+      },
+      {
+        "lang": "mn",
+        "name": "Бархираа цахлай"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Camar Cina"
+      },
+      {
+        "lang": "mt",
+        "name": "Gawwija Dahrha Iswed"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine mantelmeeuw"
+      },
+      {
+        "lang": "nn",
+        "name": "Sildemåse"
+      },
+      {
+        "lang": "no",
+        "name": "Sildemåke"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa żółtonoga"
+      },
+      {
+        "lang": "pnb",
+        "name": "نکا کالی کنڈ آلا گل"
+      },
+      {
+        "lang": "pt-br",
+        "name": "gaivota-da-asa-escura"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-de-asa-escura"
+      },
+      {
+        "lang": "rm",
+        "name": "Muetta fustga"
+      },
+      {
+        "lang": "ro",
+        "name": "Pescăruş negricios"
+      },
+      {
+        "lang": "ru",
+        "name": "Клуша"
+      },
+      {
+        "lang": "rue",
+        "name": "Мева оселедцёва"
+      },
+      {
+        "lang": "se",
+        "name": "Sildegáiru"
+      },
+      {
+        "lang": "sk",
+        "name": "čajka tmavá"
+      },
+      {
+        "lang": "sl",
+        "name": "rjavi galeb"
+      },
+      {
+        "lang": "sq",
+        "name": "Pulëbardha mesatare shpinëzezë"
+      },
+      {
+        "lang": "sr",
+        "name": "mrki galeb",
+        "synonyms": [
+          "Мрки галеб"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Silltrut"
+      },
+      {
+        "lang": "sw",
+        "name": "Shakwe Mgongo-mweusi"
+      },
+      {
+        "lang": "th",
+        "name": "นกนางนวลหลังดำเล็ก"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara sırtlı martı"
+      },
+      {
+        "lang": "uk",
+        "name": "Мартин чорнокрилий"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Mòng bể chân vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "小黑背鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus dominicanus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek jižní"
+      },
+      {
+        "lang": "de",
+        "name": "Dominikanermöwe"
+      },
+      {
+        "lang": "en",
+        "name": "Kelp Gull"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota Cocinera"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelänselkälokki"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland dominicain"
+      },
+      {
+        "lang": "ja",
+        "name": "ミナミオオセグロカモメ"
+      },
+      {
+        "lang": "mi",
+        "name": "Karoro"
+      },
+      {
+        "lang": "nl",
+        "name": "Kelpmeeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Taremåke"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus delawarensis",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Пръстенчатоклюна чайка"
+      },
+      {
+        "lang": "br",
+        "name": "Gouelan beg gwalennek"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavina de Delaware"
+      },
+      {
+        "lang": "cs",
+        "name": "Racek delawarský"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan fodrwybig"
+      },
+      {
+        "lang": "da",
+        "name": "Ringnæbbet måge"
+      },
+      {
+        "lang": "de",
+        "name": "Ringschnabelmöwe"
+      },
+      {
+        "lang": "en",
+        "name": "Ring-billed Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Ringobeka mevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota de Delaware"
+      },
+      {
+        "lang": "et",
+        "name": "Vöötnokk-kajakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Delaware kaioa"
+      },
+      {
+        "lang": "fi",
+        "name": "Rengasnokkalokki"
+      },
+      {
+        "lang": "fo",
+        "name": "Sæðingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland à bec cerclé"
+      },
+      {
+        "lang": "ga",
+        "name": "Faoileán Bandghobach"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivota de Delaware"
+      },
+      {
+        "lang": "ht",
+        "name": "Mòv bèk jòn"
+      },
+      {
+        "lang": "hu",
+        "name": "Gyűrűscsőrű sirály"
+      },
+      {
+        "lang": "is",
+        "name": "Hringmáfur"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano di Delaware"
+      },
+      {
+        "lang": "ja",
+        "name": "クロワカモメ"
+      },
+      {
+        "lang": "ko",
+        "name": "북미갈매기"
+      },
+      {
+        "lang": "lt",
+        "name": "Žiedasnapis kiras"
+      },
+      {
+        "lang": "nl",
+        "name": "Ringsnavelmeeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Ringnebbmåke"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa delawarska"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Gaivota-de-bico-manchado"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota de Delaware"
+      },
+      {
+        "lang": "rm",
+        "name": "Muetta dal bec a cularin"
+      },
+      {
+        "lang": "ru",
+        "name": "Делавэрская чайка"
+      },
+      {
+        "lang": "sk",
+        "name": "Čajka obrúčkozobá"
+      },
+      {
+        "lang": "sl",
+        "name": "Progastokljuni galeb"
+      },
+      {
+        "lang": "sv",
+        "name": "Ringnäbbad mås"
+      },
+      {
+        "lang": "tr",
+        "name": "Halkalı Martı"
+      },
+      {
+        "lang": "zh",
+        "name": "环嘴鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus crassirostris",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek japonský"
+      },
+      {
+        "lang": "en",
+        "name": "Black-tailed Gull"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland à queue noire"
+      },
+      {
+        "lang": "ko",
+        "name": "괭이갈매기"
+      },
+      {
+        "lang": "ja",
+        "name": "ウミネコ"
+      },
+      {
+        "lang": "fi",
+        "name": "Japaninlokki"
+      },
+      {
+        "lang": "zh",
+        "name": "黑尾鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus canus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "نورس شائع"
+      },
+      {
+        "lang": "ast",
+        "name": "Gavilueta Cana"
+      },
+      {
+        "lang": "az",
+        "name": "Boz qağayı"
+      },
+      {
+        "lang": "ba",
+        "name": "Күк сарлаҡ"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Чайка шызая"
+      },
+      {
+        "lang": "be",
+        "name": "Чайка шызая"
+      },
+      {
+        "lang": "bg",
+        "name": "Чайка буревестница"
+      },
+      {
+        "lang": "br",
+        "name": "Gouelan louet"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavina cendrosa"
+      },
+      {
+        "lang": "cs",
+        "name": "Racek bouřní"
+      },
+      {
+        "lang": "csb",
+        "name": "Zwëczajnô miewa"
+      },
+      {
+        "lang": "cw",
+        "name": "Gwylan gemyn"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan y Gweunydd"
+      },
+      {
+        "lang": "da",
+        "name": "Stormmåge"
+      },
+      {
+        "lang": "de",
+        "name": "Sturmmöwe"
+      },
+      {
+        "lang": "el",
+        "name": "Θυελλόγλαρος"
+      },
+      {
+        "lang": "en",
+        "name": "Common Gull (''canus'')",
+        "synonyms": [
+          "Mew Gull (''brachyrhynchus'')"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Griza mevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota cana"
+      },
+      {
+        "lang": "et",
+        "name": "Kalakajakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Kaio mokohori"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalalokki"
+      },
+      {
+        "lang": "fo",
+        "name": "Skatumási"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland cendré"
+      },
+      {
+        "lang": "frr",
+        "name": "Meew"
+      },
+      {
+        "lang": "fy",
+        "name": "Unwaarsfûgel"
+      },
+      {
+        "lang": "ga",
+        "name": "Faoileán Bán"
+      },
+      {
+        "lang": "gd",
+        "name": "Faoileag"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivota cana"
+      },
+      {
+        "lang": "gv",
+        "name": "Foillan bane"
+      },
+      {
+        "lang": "he",
+        "name": "שחף אפרורי"
+      },
+      {
+        "lang": "hr",
+        "name": "Burni galeb"
+      },
+      {
+        "lang": "hu",
+        "name": "Viharsirály"
+      },
+      {
+        "lang": "hy",
+        "name": "Որոր թխակապույտ"
+      },
+      {
+        "lang": "ik",
+        "name": "Nauyatchiaq"
+      },
+      {
+        "lang": "is",
+        "name": "Stormmáfur"
+      },
+      {
+        "lang": "it",
+        "name": "Gavina"
+      },
+      {
+        "lang": "ja",
+        "name": "カモメ"
+      },
+      {
+        "lang": "ka",
+        "name": "ვეჟანი თოლია"
+      },
+      {
+        "lang": "kjn",
+        "name": "Ах хайлах"
+      },
+      {
+        "lang": "kk",
+        "name": "Кєк шағала"
+      },
+      {
+        "lang": "ko",
+        "name": "갈매기"
+      },
+      {
+        "lang": "lb",
+        "name": "Stuermméiw"
+      },
+      {
+        "lang": "lt",
+        "name": "Paprastasis kiras"
+      },
+      {
+        "lang": "lv",
+        "name": "Kajaks"
+      },
+      {
+        "lang": "mk",
+        "name": "Siv galeb",
+        "synonyms": [
+          "сив галеб"
+        ]
+      },
+      {
+        "lang": "mn",
+        "name": "Үүлэн цахлай",
+        "synonyms": [
+          "ᠡᠭᠦᠯᠡᠨ ᠴᠠᠬᠣᠯᠠᠢ"
+        ]
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Camar Balai"
+      },
+      {
+        "lang": "mt",
+        "name": "gawwija sekonda"
+      },
+      {
+        "lang": "nl",
+        "name": "Stormmeeuw"
+      },
+      {
+        "lang": "nn",
+        "name": "Fiskemåse"
+      },
+      {
+        "lang": "no",
+        "name": "Fiskemåke"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa siwa"
+      },
+      {
+        "lang": "pnb",
+        "name": "عام گل"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-parda"
+      },
+      {
+        "lang": "rm",
+        "name": "muetta da tschendra"
+      },
+      {
+        "lang": "ro",
+        "name": "Pescăruş"
+      },
+      {
+        "lang": "ru",
+        "name": "Сизая чайка"
+      },
+      {
+        "lang": "rue",
+        "name": "Мева голубонога"
+      },
+      {
+        "lang": "sah",
+        "name": "Алыы хоптото"
+      },
+      {
+        "lang": "sc",
+        "name": "Cau marinu"
+      },
+      {
+        "lang": "se",
+        "name": "Báiski"
+      },
+      {
+        "lang": "sk",
+        "name": "Čajka sivá"
+      },
+      {
+        "lang": "sl",
+        "name": "Sivi galeb"
+      },
+      {
+        "lang": "sq",
+        "name": "Pulëbardha e përhimë"
+      },
+      {
+        "lang": "sr",
+        "name": "sivi galeb",
+        "synonyms": [
+          "сиви галеб"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Fiskmås"
+      },
+      {
+        "lang": "th",
+        "name": "นกนางนวลปากเหลือง"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük gümüş martı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Көгүлдүр ак-кускун"
+      },
+      {
+        "lang": "uk",
+        "name": "Мартин сизий"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Mòng bể đầu trắng"
+      },
+      {
+        "lang": "zea",
+        "name": "Sturmmeêuwe"
+      },
+      {
+        "lang": "zh",
+        "name": "海鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus californicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek mormonský"
+      },
+      {
+        "lang": "en",
+        "name": "California Gull"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota Californiana"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland de Californie"
+      },
+      {
+        "lang": "ja",
+        "name": "カリフォルニアカモメ"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa kalifornijska"
+      },
+      {
+        "lang": "uk",
+        "name": "Каліфорнійський мартин"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus cachinnans",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "نورس أصفر الساق"
+      },
+      {
+        "lang": "ast",
+        "name": "Gavilueta"
+      },
+      {
+        "lang": "az",
+        "name": "Gümüşü qağayı"
+      },
+      {
+        "lang": "be",
+        "name": "Чайка-рагатуха"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълтокрака чайка"
+      },
+      {
+        "lang": "bn",
+        "name": "হলদেপা গাঙচিল"
+      },
+      {
+        "lang": "br",
+        "name": "Ar gouelan gris ar C'hreisteiz"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavià argentat"
+      },
+      {
+        "lang": "cs",
+        "name": "Racek bělohlavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan goesfelen"
+      },
+      {
+        "lang": "da",
+        "name": "Kaspisk Måge"
+      },
+      {
+        "lang": "de",
+        "name": "Steppenmöwe"
+      },
+      {
+        "lang": "el",
+        "name": "Κασπικός Γλάρος"
+      },
+      {
+        "lang": "en",
+        "name": "Caspian Gull"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota del Caspio"
+      },
+      {
+        "lang": "et",
+        "name": "Koldjalghõbekajakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Kaio hankahori"
+      },
+      {
+        "lang": "fi",
+        "name": "Aroharmaalokki"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland pontique"
+      },
+      {
+        "lang": "fy",
+        "name": "Pontyske Sulvermiuw"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivota patiamarela"
+      },
+      {
+        "lang": "he",
+        "name": "שחף צהוב רגל"
+      },
+      {
+        "lang": "hr",
+        "name": "Galeb klaukavac"
+      },
+      {
+        "lang": "hu",
+        "name": "Sárgalábú sirály"
+      },
+      {
+        "lang": "hy",
+        "name": "Որոր քրքջան"
+      },
+      {
+        "lang": "is",
+        "name": "Klapparmáfur"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano reale pontico"
+      },
+      {
+        "lang": "ja",
+        "name": "キアシセグロカモメ"
+      },
+      {
+        "lang": "ka",
+        "name": "ვერცხლისფერი თოლია"
+      },
+      {
+        "lang": "kjn",
+        "name": "Улуғ хайлах"
+      },
+      {
+        "lang": "kk",
+        "name": "Єгізшағала"
+      },
+      {
+        "lang": "ko",
+        "name": "카스피해갈매기"
+      },
+      {
+        "lang": "lb",
+        "name": "Steppeméiw"
+      },
+      {
+        "lang": "lt",
+        "name": "Geltonkojis kiras"
+      },
+      {
+        "lang": "lv",
+        "name": "Kaspijas kaija"
+      },
+      {
+        "lang": "mk",
+        "name": "Сребренаст галеб"
+      },
+      {
+        "lang": "mn",
+        "name": "Бархираа цахлай"
+      },
+      {
+        "lang": "mt",
+        "name": "Gawwija Prima"
+      },
+      {
+        "lang": "nl",
+        "name": "Pontische meeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Kaspimåke"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa białogłowa"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-de-patas-amarelas"
+      },
+      {
+        "lang": "rm",
+        "name": "muetta d'argient mediterrana"
+      },
+      {
+        "lang": "ro",
+        "name": "Pescăruş pontic"
+      },
+      {
+        "lang": "ru",
+        "name": "Хохотунья"
+      },
+      {
+        "lang": "sk",
+        "name": "Čajka bielohlavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Rumenonogi galeb"
+      },
+      {
+        "lang": "sq",
+        "name": "Pulëbardha këmbëverdhë"
+      },
+      {
+        "lang": "sr",
+        "name": "Žutonogi galeb",
+        "synonyms": [
+          "Жутоноги галеб"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Kaspisk trut"
+      },
+      {
+        "lang": "th",
+        "name": "นกนางนวลขาเหลือง"
+      },
+      {
+        "lang": "tr",
+        "name": "Hazar Martısı"
+      },
+      {
+        "lang": "tyv",
+        "name": "Каттырар ак-кускун"
+      },
+      {
+        "lang": "uk",
+        "name": "Жовтоногий мартин"
+      },
+      {
+        "lang": "vec",
+        "name": "Martinazzo"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Mòng bể chân vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "黄腿鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus belcheri",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek pruhoocasý"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltajalkalokki"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus atlanticus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Racek argentinský"
+      },
+      {
+        "lang": "en",
+        "name": "Olrog's Gull"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-de-rabo-preto"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota de Olrog; gaviota cangrejera"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus armenicus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "نورس أرميني"
+      },
+      {
+        "lang": "cs",
+        "name": "Racek arménský"
+      },
+      {
+        "lang": "en",
+        "name": "Armenian Gull"
+      },
+      {
+        "lang": "fi",
+        "name": "Armenianlokki"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland d'Arménie"
+      },
+      {
+        "lang": "hy",
+        "name": "Որոր հայկական"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano d'Armenia"
+      },
+      {
+        "lang": "ru",
+        "name": "Армянская чайка"
+      },
+      {
+        "lang": "sv",
+        "name": "Armenisk trut"
+      },
+      {
+        "lang": "tr",
+        "name": "Doğu martısı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Larus argentatus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Haringmeeu"
+      },
+      {
+        "lang": "ar",
+        "name": "النورس اصفر الأرجل"
+      },
+      {
+        "lang": "az",
+        "name": "Gümüşü qağayı"
+      },
+      {
+        "lang": "be",
+        "name": "Чайка-клыгун"
+      },
+      {
+        "lang": "bg",
+        "name": "Сребриста чайка"
+      },
+      {
+        "lang": "br",
+        "name": "Gouelan gris"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavia argentat de potes rosa"
+      },
+      {
+        "lang": "cs",
+        "name": "Racek stříbřitý"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan y Penwaig"
+      },
+      {
+        "lang": "da",
+        "name": "Sølvmåge"
+      },
+      {
+        "lang": "de",
+        "name": "Silbermöwe"
+      },
+      {
+        "lang": "el",
+        "name": "Ασημόγλαρος"
+      },
+      {
+        "lang": "en",
+        "name": "European Herring Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Arĝentmevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota argéntea"
+      },
+      {
+        "lang": "et",
+        "name": "Hõbekajakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Kaio hauskara"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaalokki"
+      },
+      {
+        "lang": "fo",
+        "name": "Fiskimási"
+      },
+      {
+        "lang": "fr",
+        "name": "Goéland argenté"
+      },
+      {
+        "lang": "frr",
+        "name": "Grä kub"
+      },
+      {
+        "lang": "fy",
+        "name": "Sulvermiuw"
+      },
+      {
+        "lang": "ga",
+        "name": "Faoileán Scadán"
+      },
+      {
+        "lang": "gd",
+        "name": "Faoileag an Sgadain"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivota arxéntea"
+      },
+      {
+        "lang": "gv",
+        "name": "Foillan"
+      },
+      {
+        "lang": "he",
+        "name": "שחף כספי"
+      },
+      {
+        "lang": "hr",
+        "name": "Srebrnasti galeb"
+      },
+      {
+        "lang": "ht",
+        "name": "Mòv gri"
+      },
+      {
+        "lang": "hu",
+        "name": "Ezüstsirály"
+      },
+      {
+        "lang": "hy",
+        "name": "Քրքջան Որոր"
+      },
+      {
+        "lang": "is",
+        "name": "Silfurmáfur"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano reale nordico"
+      },
+      {
+        "lang": "ja",
+        "name": "セグロカモメ"
+      },
+      {
+        "lang": "ka",
+        "name": "ვერცხლისფერი თოლია"
+      },
+      {
+        "lang": "kk",
+        "name": "Қүмістүсті шағала"
+      },
+      {
+        "lang": "ko",
+        "name": "재갈매기"
+      },
+      {
+        "lang": "lb",
+        "name": "Sëlwerméiw"
+      },
+      {
+        "lang": "li",
+        "name": "Zèlvermiew"
+      },
+      {
+        "lang": "lt",
+        "name": "Sidabrinis kiras"
+      },
+      {
+        "lang": "lv",
+        "name": "Sudrabkaija"
+      },
+      {
+        "lang": "mk",
+        "name": "Сребренест галеб"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Camar Melaka"
+      },
+      {
+        "lang": "mt",
+        "name": "Gawwija Prima"
+      },
+      {
+        "lang": "nl",
+        "name": "Zilvermeeuw"
+      },
+      {
+        "lang": "nn",
+        "name": "Gråmåse"
+      },
+      {
+        "lang": "no",
+        "name": "Gråmåke"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa srebrzysta"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota prateada"
+      },
+      {
+        "lang": "rm",
+        "name": "Muetta d'argient"
+      },
+      {
+        "lang": "ro",
+        "name": "Pescăruş argintiu"
+      },
+      {
+        "lang": "ru",
+        "name": "Серебристая чайка"
+      },
+      {
+        "lang": "sco",
+        "name": "Whitemaas"
+      },
+      {
+        "lang": "se",
+        "name": "Skávli"
+      },
+      {
+        "lang": "sk",
+        "name": "Čajka striebristá"
+      },
+      {
+        "lang": "sl",
+        "name": "Srebrni galeb"
+      },
+      {
+        "lang": "sq",
+        "name": "Pulëbardha e argjendte"
+      },
+      {
+        "lang": "sr",
+        "name": "srebrnasti galeb",
+        "synonyms": [
+          "Сребрнасти галеб"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Gråtrut"
+      },
+      {
+        "lang": "th",
+        "name": "นกนางนวลแฮร์ริ่ง"
+      },
+      {
+        "lang": "tr",
+        "name": "Gümüşü Martı"
+      },
+      {
+        "lang": "uk",
+        "name": "Мартин сріблястий"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Mòng bể chân vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "银鸥"
+      }
+    ]
+  }
+]

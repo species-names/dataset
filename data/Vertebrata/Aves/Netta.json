@@ -64,14 +64,11 @@
       },
       {
         "lang": "eu",
-        "name": "Ahate gorrizta",
-        "synonyms": [
-          "Xibec"
-        ]
+        "name": "Ahate gorrizta"
       },
       {
         "lang": "fi",
-        "name": "punapäänarsku"
+        "name": "Punapäänarsku"
       },
       {
         "lang": "fr",
@@ -179,11 +176,11 @@
       },
       {
         "lang": "sk",
-        "name": "hrdzavka potápavá"
+        "name": "Hrdzavka potápavá"
       },
       {
         "lang": "sl",
-        "name": "tatarska žvižgavka"
+        "name": "Tatarska žvižgavka"
       },
       {
         "lang": "sq",
@@ -191,7 +188,7 @@
       },
       {
         "lang": "sr",
-        "name": "plovka prevez",
+        "name": "Plovka prevez",
         "synonyms": [
           "Пловка превез"
         ]
@@ -308,12 +305,7 @@
       },
       {
         "lang": "en",
-        "name": "Southern Pochard",
-        "synonyms": [
-          "African Pochard",
-          "Red-eyed Pochard",
-          "South African Pochard"
-        ]
+        "name": "Southern Pochard"
       },
       {
         "lang": "es",
@@ -329,10 +321,7 @@
       },
       {
         "lang": "it",
-        "name": "Fistione meridionale",
-        "synonyms": [
-          "Fistione australe"
-        ]
+        "name": "Fistione meridionale"
       },
       {
         "lang": "nl",
@@ -345,31 +334,6 @@
       {
         "lang": "sv",
         "name": "Sydlig brunand"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Netta caryophyllacea",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Kachna růžovohlavá"
-      },
-      {
-        "lang": "en",
-        "name": "Pink-headed Duck"
-      },
-      {
-        "lang": "fr",
-        "name": "Nette à cou rose"
-      },
-      {
-        "lang": "pt",
-        "name": "Pato de cabeça rosa"
-      },
-      {
-        "lang": "sv",
-        "name": "Rosenand"
       }
     ]
   }

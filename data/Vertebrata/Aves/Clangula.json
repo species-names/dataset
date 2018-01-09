@@ -36,7 +36,11 @@
       },
       {
         "lang": "cs",
-        "name": "hoholka lední"
+        "name": "Hoholka lední"
+      },
+      {
+        "lang": "csb",
+        "name": "Kôłpiónka"
       },
       {
         "lang": "cw",
@@ -60,10 +64,7 @@
       },
       {
         "lang": "en",
-        "name": "Long-tailed Duck",
-        "synonyms": [
-          "Oldsquaw"
-        ]
+        "name": "Long-tailed Duck"
       },
       {
         "lang": "eo",
@@ -82,6 +83,10 @@
         "name": "Izotz-ahate"
       },
       {
+        "lang": "fa",
+        "name": "اردک دم‌دراز"
+      },
+      {
         "lang": "fi",
         "name": "Alli"
       },
@@ -91,23 +96,7 @@
       },
       {
         "lang": "fr",
-        "name": "Harelde kakawi",
-        "synonyms": [
-          "Harelde boréale",
-          "Harelde de Miquelon",
-          "Garrot de Miquelon",
-          "Fuligule de Miquelon",
-          "Canard de Miquelon",
-          "Harelde glaciale",
-          "Morillon glacial",
-          "Criard d’hiver",
-          "Petit Pilet",
-          "Pilet dériveux",
-          "Micloux",
-          "Canard à longue queue de Terre-Neuve",
-          "Sarcelle de Féroé",
-          "Canard des glaces"
-        ]
+        "name": "Harelde Boréale"
       },
       {
         "lang": "frr",
@@ -119,31 +108,19 @@
       },
       {
         "lang": "ga",
-        "name": "Lacha bhinn",
-        "synonyms": [
-          "Lacha Earrfhada"
-        ]
+        "name": "Lacha earrfhada"
       },
       {
         "lang": "gd",
-        "name": "Eun buchainn",
-        "synonyms": [
-          "Jan-chochail"
-        ]
+        "name": "Eun buchainn"
       },
       {
         "lang": "gl",
-        "name": "Ànec glacial",
-        "synonyms": [
-          "Pato rabeiro"
-        ]
+        "name": "Ànec glacial"
       },
       {
         "lang": "gv",
-        "name": "Laagh Lheeah",
-        "synonyms": [
-          "Thunnag ammanagh"
-        ]
+        "name": "Laagh Lheeah"
       },
       {
         "lang": "he",
@@ -175,17 +152,15 @@
       },
       {
         "lang": "iu",
-        "name": "Aa'aangiq",
-        "synonyms": [
-          "Aggek"
-        ]
+        "name": "Aa'aangiq"
       },
       {
         "lang": "ja",
-        "name": "コオリガモ",
-        "synonyms": [
-          "koorigamo"
-        ]
+        "name": "コオリガモ"
+      },
+      {
+        "lang": "ka",
+        "name": "მეზღვია იხვი"
       },
       {
         "lang": "kk",
@@ -200,11 +175,8 @@
         "name": "바다꿩"
       },
       {
-        "lang": "la",
-        "name": "Clangula hyemalis",
-        "synonyms": [
-          "Harelda hyemalis"
-        ]
+        "lang": "ky",
+        "name": "Түндүк өрдөк"
       },
       {
         "lang": "lt",
@@ -216,14 +188,15 @@
       },
       {
         "lang": "mk",
-        "name": "Леденарка",
-        "synonyms": [
-          "Северна патка"
-        ]
+        "name": "Долгоопашеста патка"
       },
       {
         "lang": "mn",
         "name": "Мөнгөлөг шунгаахай"
+      },
+      {
+        "lang": "ne",
+        "name": "लामपुच्छ्रे हाँस"
       },
       {
         "lang": "nl",
@@ -238,12 +211,16 @@
         "name": "Havelle"
       },
       {
+        "lang": "olo",
+        "name": "Alli"
+      },
+      {
         "lang": "pcd",
         "name": "Pilé vireux"
       },
       {
         "lang": "pl",
-        "name": "lodówka"
+        "name": "Lodówka"
       },
       {
         "lang": "pnb",
@@ -271,7 +248,7 @@
       },
       {
         "lang": "sk",
-        "name": "ľadovka dĺhochvostá"
+        "name": "Ľadovka dlhochvostá"
       },
       {
         "lang": "sl",
@@ -283,10 +260,7 @@
       },
       {
         "lang": "sr",
-        "name": "Ledenjarka",
-        "synonyms": [
-          "Леденjaрка"
-        ]
+        "name": "Ledenjarka - Ледењaрка"
       },
       {
         "lang": "sv",
@@ -307,6 +281,14 @@
       {
         "lang": "uk",
         "name": "Морянка"
+      },
+      {
+        "lang": "vep",
+        "name": "All'"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt đuôi dài"
       },
       {
         "lang": "zh",

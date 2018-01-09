@@ -130,7 +130,7 @@
       },
       {
         "lang": "cs",
-        "name": "berneška rudokrká"
+        "name": "Berneška rudokrká"
       },
       {
         "lang": "cy",
@@ -170,7 +170,7 @@
       },
       {
         "lang": "fi",
-        "name": "punakaulahanhi"
+        "name": "Punakaulahanhi"
       },
       {
         "lang": "fr",
@@ -214,17 +214,11 @@
       },
       {
         "lang": "ja",
-        "name": "アオガン",
-        "synonyms": [
-          "aogan"
-        ]
+        "name": "アオガン"
       },
       {
         "lang": "ka",
-        "name": "წითელგულა ღერღეტი",
-        "synonyms": [
-          "წითელჩიჩახვა კაზარი"
-        ]
+        "name": "წითელგულა ღერღეტი"
       },
       {
         "lang": "kk",
@@ -260,7 +254,7 @@
       },
       {
         "lang": "pl",
-        "name": "bernikla rdzawoszyja"
+        "name": "Bernikla rdzawoszyja"
       },
       {
         "lang": "pt",
@@ -280,14 +274,11 @@
       },
       {
         "lang": "sk",
-        "name": "bernikľa červenokrká"
+        "name": "Bernikľa červenokrká"
       },
       {
         "lang": "sl",
-        "name": "rdecevrata gos",
-        "synonyms": [
-          "rdečevrata gos"
-        ]
+        "name": "Rdecevrata gos"
       },
       {
         "lang": "sq",
@@ -295,10 +286,7 @@
       },
       {
         "lang": "sr",
-        "name": "Ridjovrata guska",
-        "synonyms": [
-          "Ридоврата гуска"
-        ]
+        "name": "Гуска црвеновољка - Guska crvenovoljka"
       },
       {
         "lang": "sv",
@@ -766,6 +754,10 @@
         "name": "캐나다기러기"
       },
       {
+        "lang": "lil",
+        "name": "k̓ʷsixʷ"
+      },
+      {
         "lang": "lt",
         "name": "Kanadinė berniklė"
       },
@@ -1068,7 +1060,10 @@
       },
       {
         "lang": "sr",
-        "name": "Crna guska"
+        "name": "Гриваста гуска",
+        "synonyms": [
+          "Grivasta guska"
+        ]
       },
       {
         "lang": "sv",

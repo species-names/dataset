@@ -145,8 +145,48 @@
     "scientific_name": "Anser indicus",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Bandkopgans"
+      },
+      {
+        "lang": "as",
+        "name": "ধৃতিৰাজ"
+      },
+      {
+        "lang": "az",
+        "name": "Dağ qazı"
+      },
+      {
+        "lang": "be",
+        "name": "Гусь горная"
+      },
+      {
+        "lang": "bg",
+        "name": "Планинска гъска"
+      },
+      {
+        "lang": "bh",
+        "name": "हंस"
+      },
+      {
+        "lang": "bn",
+        "name": "দাগি রাজহাঁস"
+      },
+      {
+        "lang": "br",
+        "name": "Gwaz Tibet"
+      },
+      {
+        "lang": "ca",
+        "name": "Oca de l'Índia"
+      },
+      {
         "lang": "cs",
         "name": "Husa indická"
+      },
+      {
+        "lang": "cy",
+        "name": "Gŵydd benrhesog"
       },
       {
         "lang": "da",
@@ -161,8 +201,20 @@
         "name": "Bar-headed Goose"
       },
       {
+        "lang": "eo",
+        "name": "Hinda ansero"
+      },
+      {
         "lang": "es",
         "name": "Ansar Indio"
+      },
+      {
+        "lang": "eu",
+        "name": "Indiar antzara"
+      },
+      {
+        "lang": "fa",
+        "name": "غاز سرنواری"
       },
       {
         "lang": "fi",
@@ -173,40 +225,116 @@
         "name": "Oie à tête barrée"
       },
       {
+        "lang": "ga",
+        "name": "Gé stríoc-cheannach"
+      },
+      {
+        "lang": "gl",
+        "name": "Ganso de cabeza listada"
+      },
+      {
+        "lang": "he",
+        "name": "אווז הודי"
+      },
+      {
         "lang": "hu",
         "name": "Indiai lúd"
+      },
+      {
+        "lang": "it",
+        "name": "Oca indiana"
       },
       {
         "lang": "ja",
         "name": "インドガン"
       },
       {
+        "lang": "kbd",
+        "name": "Къущхьэкъаз"
+      },
+      {
+        "lang": "kk",
+        "name": "Ақбас қаз"
+      },
+      {
+        "lang": "kn",
+        "name": "ಆನ್ಸೆರೆಸ್ ಬಾತು"
+      },
+      {
         "lang": "ko",
-        "name": "인도기러기"
+        "name": "줄기러기"
+      },
+      {
+        "lang": "ky",
+        "name": "Тоо кaзы"
       },
       {
         "lang": "lt",
         "name": "Kalninė žąsis"
       },
       {
+        "lang": "lv",
+        "name": "Kalnu zoss"
+      },
+      {
+        "lang": "ml",
+        "name": "കുറിത്തലയൻ വാത്ത"
+      },
+      {
+        "lang": "mn",
+        "name": "Хээрийн галуу"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кырык комбы"
+      },
+      {
+        "lang": "nds",
+        "name": "Striepengoos"
+      },
+      {
+        "lang": "ne",
+        "name": "खोयाहाँस"
+      },
+      {
         "lang": "nl",
         "name": "Indische gans"
+      },
+      {
+        "lang": "nn",
+        "name": "Stripegås"
       },
       {
         "lang": "no",
         "name": "Stripegås"
       },
       {
+        "lang": "pa",
+        "name": "ਸਾਵਾ ਮਘ"
+      },
+      {
         "lang": "pl",
         "name": "Gęś tybetańska"
+      },
+      {
+        "lang": "pnb",
+        "name": "ساوا مگھ"
       },
       {
         "lang": "ru",
         "name": "Горный гусь"
       },
       {
+        "lang": "se",
+        "name": "Indiačuonjá"
+      },
+      {
         "lang": "sv",
         "name": "Stripgås"
+      },
+      {
+        "lang": "ta",
+        "name": "பட்டைத்தலை வாத்து"
       },
       {
         "lang": "th",
@@ -218,7 +346,11 @@
       },
       {
         "lang": "uk",
-        "name": "Гірська гуска"
+        "name": "Гуска гірська"
+      },
+      {
+        "lang": "vi",
+        "name": "Ngỗng Ấn Độ"
       },
       {
         "lang": "zh",
@@ -435,7 +567,7 @@
       },
       {
         "lang": "sr",
-        "name": "Guska ljigarica"
+        "name": "Гуска глоговњача (Guska glogovnjača)"
       },
       {
         "lang": "sv",
@@ -484,11 +616,15 @@
       },
       {
         "lang": "be",
-        "name": "Піскулька"
+        "name": "Гусь-піскулька"
       },
       {
         "lang": "bg",
         "name": "Малка белочела гъска"
+      },
+      {
+        "lang": "bn",
+        "name": "ছোট ধলাকপাল রাজহাঁস"
       },
       {
         "lang": "br",
@@ -500,11 +636,11 @@
       },
       {
         "lang": "cs",
-        "name": "husa malá"
+        "name": "Husa malá"
       },
       {
         "lang": "cy",
-        "name": "Gŵydd dalcen gwen lleiaf"
+        "name": "Gŵydd dalcenwen fechan"
       },
       {
         "lang": "da",
@@ -539,8 +675,12 @@
         "name": "Antzara nano"
       },
       {
+        "lang": "fa",
+        "name": "غاز پیشانی‌سفید کوچک"
+      },
+      {
         "lang": "fi",
-        "name": "kiljuhanhi"
+        "name": "Kiljuhanhi"
       },
       {
         "lang": "fo",
@@ -592,10 +732,7 @@
       },
       {
         "lang": "ja",
-        "name": "カリガネ",
-        "synonyms": [
-          "karigane"
-        ]
+        "name": "カリガネ"
       },
       {
         "lang": "ka",
@@ -634,6 +771,10 @@
         "name": "Одой галуу"
       },
       {
+        "lang": "nds",
+        "name": "Dwarggoos"
+      },
+      {
         "lang": "nl",
         "name": "Dwerggans"
       },
@@ -646,8 +787,12 @@
         "name": "Dverggås"
       },
       {
+        "lang": "olo",
+        "name": "Kil'l'uhanhi"
+      },
+      {
         "lang": "pl",
-        "name": "gęś mała"
+        "name": "Gęś mała"
       },
       {
         "lang": "pt",
@@ -675,11 +820,11 @@
       },
       {
         "lang": "sk",
-        "name": "Hus piskľavá"
+        "name": "Hus malá"
       },
       {
         "lang": "sl",
-        "name": "mala gos"
+        "name": "Mala gos"
       },
       {
         "lang": "sq",
@@ -687,10 +832,7 @@
       },
       {
         "lang": "sr",
-        "name": "Mala lisasta guska",
-        "synonyms": [
-          "Мала лисаста гуска"
-        ]
+        "name": "Mala lisasta guska - Мала лисаста гуска"
       },
       {
         "lang": "sv",
@@ -702,14 +844,15 @@
       },
       {
         "lang": "tyv",
-        "name": "Дыйылаар кас",
-        "synonyms": [
-          "Дыйылаашпай"
-        ]
+        "name": "Дыйылаар кас"
       },
       {
         "lang": "uk",
         "name": "Гуска мала"
+      },
+      {
+        "lang": "vi",
+        "name": "Ngỗng ngực trắng nhỏ"
       },
       {
         "lang": "zh",
@@ -721,8 +864,16 @@
     "scientific_name": "Anser cygnoides",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "إوز صيني"
+      },
+      {
         "lang": "az",
         "name": "Quruburun"
+      },
+      {
+        "lang": "bg",
+        "name": "Лебедоподобна гъска"
       },
       {
         "lang": "br",
@@ -733,8 +884,20 @@
         "name": "Oca cigne"
       },
       {
+        "lang": "cdo",
+        "name": "Ngâng"
+      },
+      {
         "lang": "cs",
         "name": "Husa labutí"
+      },
+      {
+        "lang": "cy",
+        "name": "Alarchŵydd"
+      },
+      {
+        "lang": "da",
+        "name": "Svanegås"
       },
       {
         "lang": "de",
@@ -753,12 +916,24 @@
         "name": "Ánsar cisne o cisnal"
       },
       {
+        "lang": "fa",
+        "name": "غاز قونما"
+      },
+      {
         "lang": "fi",
         "name": "Joutsenhanhi"
       },
       {
         "lang": "fr",
         "name": "Oie cygnoïde"
+      },
+      {
+        "lang": "gl",
+        "name": "Ganso cisnoide"
+      },
+      {
+        "lang": "he",
+        "name": "אווז ברבורי"
       },
       {
         "lang": "hu",
@@ -778,19 +953,39 @@
       },
       {
         "lang": "ko",
-        "name": "개리 (새)"
+        "name": "개리"
       },
       {
         "lang": "mn",
         "name": "Хошуу галуу"
       },
       {
+        "lang": "lt",
+        "name": "Laibasnapė žąsis"
+      },
+      {
+        "lang": "lv",
+        "name": "Lielknābja zoss"
+      },
+      {
+        "lang": "nds",
+        "name": "Swaangoos"
+      },
+      {
         "lang": "nl",
         "name": "Zwaangans"
       },
       {
+        "lang": "no",
+        "name": "Svanegås"
+      },
+      {
         "lang": "nv",
         "name": "Chʼah Diʼilii Bikéyahdę́ę́ʼ naalʼeełítsoh"
+      },
+      {
+        "lang": "pl",
+        "name": "Gęś łabędzionosa"
       },
       {
         "lang": "pt",
@@ -799,6 +994,10 @@
       {
         "lang": "ru",
         "name": "Сухонос"
+      },
+      {
+        "lang": "sah",
+        "name": "Хара тумустаах хаас"
       },
       {
         "lang": "sv",
@@ -813,12 +1012,28 @@
         "name": "Çin kazı"
       },
       {
+        "lang": "tt",
+        "name": "Кытай казы"
+      },
+      {
+        "lang": "vi",
+        "name": "Ngỗng thiên nga"
+      },
+      {
+        "lang": "za",
+        "name": "Roegnyanh"
+      },
+      {
         "lang": "zh",
         "name": "鸿雁"
       },
       {
         "lang": "zh-min-nan",
         "name": "Iá-gô"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "鴻雁"
       }
     ]
   },
@@ -1678,7 +1893,7 @@
       },
       {
         "lang": "sr",
-        "name": "Lisasta guska"
+        "name": "Лисаста гуска (Lisasta guska)"
       },
       {
         "lang": "sv",
