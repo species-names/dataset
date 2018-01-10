@@ -67,6 +67,10 @@
     "scientific_name": "Thalassarche chrysostoma",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Gryskopalbatros"
+      },
+      {
         "lang": "en",
         "name": "Grey-headed Albatross"
       },
@@ -79,12 +83,12 @@
         "name": "Szürkefejű albatrosz"
       },
       {
-        "lang": "sv",
-        "name": "Gråhuvad albatross"
+        "lang": "pl",
+        "name": "albatros szarogłowy"
       },
       {
-        "lang": "af",
-        "name": "Gryskopalbatros"
+        "lang": "sv",
+        "name": "Gråhuvad albatross"
       }
     ]
   },
@@ -146,6 +150,10 @@
     "scientific_name": "Thalassarche bulleri",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Witkroonalbatros"
+      },
+      {
         "lang": "de",
         "name": "Buller-Albatros"
       },
@@ -158,12 +166,12 @@
         "name": "Albatros de Buller"
       },
       {
-        "lang": "sv",
-        "name": "Vitpannad albatross"
+        "lang": "pl",
+        "name": "albatros białoczelny"
       },
       {
-        "lang": "af",
-        "name": "Witkroonalbatros"
+        "lang": "sv",
+        "name": "Vitpannad albatross"
       }
     ]
   }

@@ -38,15 +38,58 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Medium-billed Prion"
+        "name": "Medium-billed Prion",
+        "synonyms": [
+          "Salvin's prion"
+        ]
+      },
+      {
+        "lang": "af",
+        "name": "Marionwalvisvoël"
+      },
+      {
+        "lang": "ca",
+        "name": "Petrell prió de Salvin"
+      },
+      {
+        "lang": "cy",
+        "name": "Prion Salvin"
+      },
+      {
+        "lang": "de",
+        "name": "Kleiner Entensturmvogel"
+      },
+      {
+        "lang": "eo",
+        "name": "Salvina priono"
+      },
+      {
+        "lang": "fa",
+        "name": "پرکلفت نوک‌متوسط"
+      },
+      {
+        "lang": "fi",
+        "name": "Sininokkaprioni"
       },
       {
         "lang": "fr",
         "name": "Prion de Salvin"
       },
       {
-        "lang": "af",
-        "name": "Marionwalvisvoël"
+        "lang": "hr",
+        "name": "Salvinov prion"
+      },
+      {
+        "lang": "nl",
+        "name": "Salvins prion"
+      },
+      {
+        "lang": "ru",
+        "name": "Прион (птица)"
+      },
+      {
+        "lang": "sv",
+        "name": "salvinvalfågel"
       }
     ]
   },

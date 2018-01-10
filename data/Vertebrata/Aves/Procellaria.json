@@ -3,12 +3,60 @@
     "scientific_name": "Procellaria westlandica",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Baldriga de Westland"
+      },
+      {
+        "lang": "cy",
+        "name": "Pedryn Westland"
+      },
+      {
+        "lang": "de",
+        "name": "Westlandsturmvogel"
+      },
+      {
         "lang": "en",
-        "name": "Westland Petrel"
+        "name": "Westland petrel"
+      },
+      {
+        "lang": "eo",
+        "name": "Vestlanda petrelo"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ باران وستلند"
       },
       {
         "lang": "fi",
         "name": "Tasmanianmeriliitäjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin du Westland"
+      },
+      {
+        "lang": "hr",
+        "name": "Westlandska burnica"
+      },
+      {
+        "lang": "id",
+        "name": "Petrel westland"
+      },
+      {
+        "lang": "nl",
+        "name": "Westlandstormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Westlandpetrell"
+      },
+      {
+        "lang": "ru",
+        "name": "Вестландский буревестник"
+      },
+      {
+        "lang": "sv",
+        "name": "större sotpetrell"
       }
     ]
   },
@@ -16,8 +64,60 @@
     "scientific_name": "Procellaria parkinsoni",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بترل باركينسون"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga de Parkinson"
+      },
+      {
+        "lang": "cs",
+        "name": "Buřňák Parkinsonův"
+      },
+      {
+        "lang": "cy",
+        "name": "Pedryn du"
+      },
+      {
+        "lang": "en",
+        "name": "Black petrel"
+      },
+      {
+        "lang": "eo",
+        "name": "Parkinsona petrelo"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ باران سیاه"
+      },
+      {
         "lang": "fi",
         "name": "Tummameriliitäjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Parkinson"
+      },
+      {
+        "lang": "hr",
+        "name": "Parkinsonova burnica"
+      },
+      {
+        "lang": "id",
+        "name": "Petrel hitam"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte stormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Fjellpetrell"
+      },
+      {
+        "lang": "sv",
+        "name": "mindre sotpetrell"
       }
     ]
   },
@@ -97,16 +197,68 @@
     "scientific_name": "Procellaria cinerea",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Gryspylstormvoël"
+      },
+      {
+        "lang": "ar",
+        "name": "بترل رمادي"
+      },
+      {
+        "lang": "bg",
+        "name": "Сив буревестник"
+      },
+      {
+        "lang": "ca",
+        "name": "Baldriga de Gmelin"
+      },
+      {
+        "lang": "cy",
+        "name": "Pedryn llwyd"
+      },
+      {
         "lang": "en",
-        "name": "Grey Petrel"
+        "name": "Grey petrel"
+      },
+      {
+        "lang": "eo",
+        "name": "Griza petrelo"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ باران خاکستری"
       },
       {
         "lang": "fi",
         "name": "Meriliitäjä"
       },
       {
-        "lang": "af",
-        "name": "Pediunker"
+        "lang": "fr",
+        "name": "Puffin gris"
+      },
+      {
+        "lang": "hr",
+        "name": "Siva burnica"
+      },
+      {
+        "lang": "id",
+        "name": "Petrel abu-abu"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruine stormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Gråpetrell"
+      },
+      {
+        "lang": "pt",
+        "name": "Pardela-cinza"
+      },
+      {
+        "lang": "sv",
+        "name": "gråpetrell"
       }
     ]
   },

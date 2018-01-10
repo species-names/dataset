@@ -1,5 +1,13 @@
 [
   {
+    "scientific_name": "Colaptes oceanicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Colaptes aeruginosus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Colaptes rupicola",
     "common_names": [
       {
@@ -236,6 +244,10 @@
       {
         "lang": "es",
         "name": "Carpintero Campestre"
+      },
+      {
+        "lang": "hu",
+        "name": "Mezei küllő"
       },
       {
         "lang": "pt",

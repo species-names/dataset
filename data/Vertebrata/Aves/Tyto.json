@@ -12,7 +12,7 @@
       },
       {
         "lang": "en",
-        "name": "Sooty Owl"
+        "name": "Greater Sooty Owl"
       },
       {
         "lang": "es",
@@ -214,7 +214,56 @@
   },
   {
     "scientific_name": "Tyto multipunctata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Kiçik qara alabayquş"
+      },
+      {
+        "lang": "cs",
+        "name": "Sova tečkovaná"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan lwyd fach"
+      },
+      {
+        "lang": "de",
+        "name": "Flecken-Rußeule"
+      },
+      {
+        "lang": "en",
+        "name": "Lesser Sooty Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Lechuza moteada"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkunokipöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Effraie piquetée"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine zwarte kerkuil"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre sottornuggla"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük peçeli baykuş"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú lợn bồ hóng nhỏ"
+      }
+    ]
   },
   {
     "scientific_name": "Tyto manusi",

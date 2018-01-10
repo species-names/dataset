@@ -1,0 +1,442 @@
+[
+  {
+    "scientific_name": "Phaethornis yaruqui",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-whiskered Hermit"
+      },
+      {
+        "lang": "hu",
+        "name": "Smaragd remetekolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis syrmatophorus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tawny-bellied Hermit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis superciliosus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-tailed Hermit"
+      },
+      {
+        "lang": "pl",
+        "name": "Pustelnik długosterny"
+      },
+      {
+        "lang": "pt",
+        "name": "Besourão-de-rabo-branco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis subochraceus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-bellied Hermit"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuparierakkokolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis stuarti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-browed Hermit"
+      },
+      {
+        "lang": "fi",
+        "name": "Bolivianerakkokolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis striigularis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kolibřík proužhohrdlý"
+      },
+      {
+        "lang": "da",
+        "name": "Stribestrubet Dværgeremit"
+      },
+      {
+        "lang": "de",
+        "name": "Streifenkehl-Schattenkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Stripe-throated Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño Gorgiestriado"
+      },
+      {
+        "lang": "fi",
+        "name": "kaulurierakkokolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Ermite à gorge rayée"
+      },
+      {
+        "lang": "it",
+        "name": "Eremita golastriata"
+      },
+      {
+        "lang": "ja",
+        "name": "シマノドユミハチドリ",
+        "synonyms": [
+          "shimanodoyumihachidori"
+        ]
+      },
+      {
+        "lang": "no",
+        "name": "Stripestrupeeremitt"
+      },
+      {
+        "lang": "pl",
+        "name": "pustelnik kolumbijski"
+      },
+      {
+        "lang": "sk",
+        "name": "slnečníček čiarkavohrdlý"
+      },
+      {
+        "lang": "sv",
+        "name": "Strimstrupig eremit"
+      },
+      {
+        "lang": "zh",
+        "name": "小隐蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis squalidus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dusky-throated Hermit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis rupurumii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Streak-throated Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño del Rupununi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis ruber",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Reddish Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño rojizo"
+      },
+      {
+        "lang": "fr",
+        "name": "Ermite roussâtre"
+      },
+      {
+        "lang": "pt",
+        "name": "Besourinho-da-mata"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Rabo-branco-rubro"
+      },
+      {
+        "lang": "simple",
+        "name": "Reddish Hermit"
+      },
+      {
+        "lang": "fi",
+        "name": "Vyöerakkokolibri"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosteremit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis pretrei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Planalto Hermit"
+      },
+      {
+        "lang": "pt",
+        "name": "Rabo-branco-acanelado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis philippii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Needle-billed Hermit"
+      },
+      {
+        "lang": "fi",
+        "name": "Neulaerakkokolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis nattereri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon-throated Hermit"
+      },
+      {
+        "lang": "fi",
+        "name": "Kanelierakkokolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis malaris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Great-billed Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño piquigrande"
+      },
+      {
+        "lang": "fi",
+        "name": "Guayananerakkokolibri"
+      },
+      {
+        "lang": "pt",
+        "name": "Besourão-de-bico-grande"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis longuemareus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Little Hermit"
+      },
+      {
+        "lang": "fr",
+        "name": "Ermite nain"
+      },
+      {
+        "lang": "fi",
+        "name": "Erakkokolibri"
+      },
+      {
+        "lang": "zh",
+        "name": "小隐蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis longirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-billed Hermit"
+      },
+      {
+        "lang": "fi",
+        "name": "Pohjanerakkokolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis koepckeae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Koepcke's Hermit"
+      },
+      {
+        "lang": "fi",
+        "name": "Perunerakkokolibri"
+      },
+      {
+        "lang": "cy",
+        "name": "Meudwy Koepcke"
+      },
+      {
+        "lang": "de",
+        "name": "Orangebrauner Schattenkolibri"
+      },
+      {
+        "lang": "fa",
+        "name": "گوشه‌گیر کوپکه"
+      },
+      {
+        "lang": "fr",
+        "name": "Ermite de Koepcke"
+      },
+      {
+        "lang": "hu",
+        "name": "Koepcke-remetekolibri"
+      },
+      {
+        "lang": "nl",
+        "name": "Koepckes heremietkolibrie"
+      },
+      {
+        "lang": "sv",
+        "name": "Köpckes eremit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis idaliae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Minute Hermit"
+      },
+      {
+        "lang": "pt",
+        "name": "Besourinho"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuerakkokolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis hispidus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bearded Hermit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis guy",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green Hermit"
+      },
+      {
+        "lang": "hu",
+        "name": "Zöldhátú remetekolibri"
+      },
+      {
+        "lang": "zh",
+        "name": "绿隐蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis griseogularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-chinned Hermit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis eurynome",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scale-throated Hermit"
+      },
+      {
+        "lang": "fi",
+        "name": "Suomuerakkokolibri"
+      },
+      {
+        "lang": "sv",
+        "name": "Fjällstrupseremit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis bourcieri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Straight-billed Hermit"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalpaerakkokolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis augusti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sooty-capped Hermit"
+      },
+      {
+        "lang": "fi",
+        "name": "Nokierakkokolibri"
+      },
+      {
+        "lang": "sv",
+        "name": "Soteremit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis atrimentalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-throated Hermit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis anthophilus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pale-bellied Hermit"
+      }
+    ]
+  }
+]
