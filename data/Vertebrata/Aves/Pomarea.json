@@ -19,8 +19,32 @@
     "scientific_name": "Pomarea whitneyi",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Monark Fatu Hiva"
+      },
+      {
+        "lang": "cy",
+        "name": "Brenin mawr"
+      },
+      {
         "lang": "en",
-        "name": "Fatuhiva Monarch"
+        "name": "Fatu Hiva monarch"
+      },
+      {
+        "lang": "fi",
+        "name": "Fatuhivanmonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque de Fatu Hiva"
+      },
+      {
+        "lang": "nl",
+        "name": "Fatuhivamonarch"
+      },
+      {
+        "lang": "sv",
+        "name": "fatuhivamonark"
       }
     ]
   },
@@ -30,6 +54,42 @@
       {
         "lang": "en",
         "name": "Tahiti Monarch"
+      },
+      {
+        "lang": "cy",
+        "name": "Brenin Tahiti"
+      },
+      {
+        "lang": "fi",
+        "name": "Tahitinmonarkki"
+      },
+      {
+        "lang": "fr",
+        "name": "Monarque de Tahiti"
+      },
+      {
+        "lang": "hu",
+        "name": "Tahiti tengerilégykapó"
+      },
+      {
+        "lang": "nl",
+        "name": "Tahitimonarch"
+      },
+      {
+        "lang": "no",
+        "name": "Tahitimonark"
+      },
+      {
+        "lang": "pl",
+        "name": "Pacyficzka czarna"
+      },
+      {
+        "lang": "pt",
+        "name": "Monarca do Tahiti"
+      },
+      {
+        "lang": "sv",
+        "name": "tahitimonark"
       }
     ]
   },
@@ -39,6 +99,30 @@
       {
         "lang": "en",
         "name": "Marquesan Monarch"
+      },
+      {
+        "lang": "cy",
+        "name": "Brenin Marquesas"
+      },
+      {
+        "lang": "de",
+        "name": "Marquesas-Monarch"
+      },
+      {
+        "lang": "fi",
+        "name": "Marquesasinvuorimonarkki"
+      },
+      {
+        "lang": "nl",
+        "name": "Markiezenmonarch"
+      },
+      {
+        "lang": "pl",
+        "name": "Pacyficzka zmienna"
+      },
+      {
+        "lang": "sv",
+        "name": "marquesasmonark"
       }
     ]
   },
@@ -48,6 +132,26 @@
       {
         "lang": "en",
         "name": "Iphis Monarch"
+      },
+      {
+        "lang": "cy",
+        "name": "Brenin cyflym"
+      },
+      {
+        "lang": "de",
+        "name": "Iphis-Fliegenschnäpper"
+      },
+      {
+        "lang": "fi",
+        "name": "Marquesasinrantamonarkki"
+      },
+      {
+        "lang": "nl",
+        "name": "Iphismonarch"
+      },
+      {
+        "lang": "sv",
+        "name": "uahukamonark"
       }
     ]
   },
@@ -68,7 +172,10 @@
       },
       {
         "lang": "hu",
-        "name": "Rarotongai tengerilégykapó"
+        "name": "Rarotongai tengerilégykapó",
+        "synonyms": [
+          "kakerori"
+        ]
       },
       {
         "lang": "nl",
@@ -80,7 +187,7 @@
       },
       {
         "lang": "sv",
-        "name": "Rarotongamonark"
+        "name": "rarotongamonark"
       }
     ]
   }

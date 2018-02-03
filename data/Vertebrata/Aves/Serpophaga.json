@@ -52,7 +52,20 @@
   },
   {
     "scientific_name": "Serpophaga hypoleuca",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "River tyrannulet"
+      },
+      {
+        "lang": "es",
+        "name": "Piojito ribereño"
+      },
+      {
+        "lang": "pt",
+        "name": "Alegrinho-do-rio"
+      }
+    ]
   },
   {
     "scientific_name": "Serpophaga griseicapilla",

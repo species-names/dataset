@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Parotia berlepschi",
-    "common_names": []
-  },
-  {
     "scientific_name": "Parotia wahnesi",
     "common_names": []
   },
@@ -80,6 +76,27 @@
       {
         "lang": "lt",
         "name": "Karalienės Karolinos parotija"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Parotia berlepschi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Berlepschparadiesvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Bronze Parotia"
+      },
+      {
+        "lang": "es",
+        "name": "Ave del paraíso de Berlepsch"
+      },
+      {
+        "lang": "fr",
+        "name": "Paradisier de Berlepsch"
       }
     ]
   }

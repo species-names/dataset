@@ -130,19 +130,6 @@
     ]
   },
   {
-    "scientific_name": "Cinclodes espinhacensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Cipo Cinclodes"
-      },
-      {
-        "lang": "pt",
-        "name": "Pedreiro-do-espinhaço"
-      }
-    ]
-  },
-  {
     "scientific_name": "Cinclodes comechingonus",
     "common_names": [
       {
@@ -191,6 +178,32 @@
       {
         "lang": "es",
         "name": "Remolinera negra"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cinclodes albiventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cream-winged cinclodes"
+      },
+      {
+        "lang": "es",
+        "name": "Remolinera común meridional"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cinclodes albidiventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-winged cinclodes"
+      },
+      {
+        "lang": "es",
+        "name": "Remolinera común septentrional"
       }
     ]
   }

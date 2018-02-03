@@ -1,11 +1,37 @@
 [
   {
     "scientific_name": "Hylophylax punctulatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dot-backed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero lomipunteado"
+      },
+      {
+        "lang": "pt",
+        "name": "Guarda-várzea"
+      }
+    ]
   },
   {
     "scientific_name": "Hylophylax naevius",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spot-backed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero dorsipunteado"
+      },
+      {
+        "lang": "pt",
+        "name": "Guarda-floresta"
+      }
+    ]
   },
   {
     "scientific_name": "Hylophylax naevioides",

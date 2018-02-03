@@ -13,6 +13,10 @@
       {
         "lang": "en",
         "name": "Parker's Spinetail"
+      },
+      {
+        "lang": "pt",
+        "name": "Arredio-de-peito-branco"
       }
     ]
   },
@@ -62,7 +66,20 @@
   },
   {
     "scientific_name": "Cranioleuca pallida",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pallid spinetail"
+      },
+      {
+        "lang": "pt",
+        "name": "arredio-palido"
+      },
+      {
+        "lang": "es",
+        "name": "Curutié pálido"
+      }
+    ]
   },
   {
     "scientific_name": "Cranioleuca obsoleta",

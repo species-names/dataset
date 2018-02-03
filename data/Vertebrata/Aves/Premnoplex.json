@@ -1,7 +1,32 @@
 [
   {
     "scientific_name": "Premnoplex tatei",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Cynffon adfach yddfwyn"
+      },
+      {
+        "lang": "en",
+        "name": "White-throated barbtail"
+      },
+      {
+        "lang": "es",
+        "name": "Subepalo Gorgiblanco"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkokurkkuorneero"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkeelboomloper"
+      },
+      {
+        "lang": "sv",
+        "name": "vitstrupig piggstjärt"
+      }
+    ]
   },
   {
     "scientific_name": "Premnoplex brunnescens",

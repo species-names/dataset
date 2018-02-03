@@ -32,10 +32,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Erythropitta macklotii",
-    "common_names": []
-  },
-  {
     "scientific_name": "Erythropitta inspeculata",
     "common_names": []
   },
@@ -70,6 +66,23 @@
   {
     "scientific_name": "Erythropitta venusta",
     "common_names": []
+  },
+  {
+    "scientific_name": "Erythropitta macklotii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Papuan pitta"
+      },
+      {
+        "lang": "nl",
+        "name": "Papoeapitta"
+      },
+      {
+        "lang": "sv",
+        "name": "papuajuveltrast"
+      }
+    ]
   },
   {
     "scientific_name": "Erythropitta kochi",

@@ -1,10 +1,32 @@
 [
   {
     "scientific_name": "Pithys castaneus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-masked antibird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero castaño"
+      }
+    ]
   },
   {
     "scientific_name": "Pithys albifrons",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-plumed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero cuerniblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-formiga-de-topete"
+      }
+    ]
   }
 ]

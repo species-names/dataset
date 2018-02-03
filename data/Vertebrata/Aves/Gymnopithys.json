@@ -5,6 +5,14 @@
       {
         "lang": "en",
         "name": "White-throated Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero gorgiblanco"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mãe-de-taoca-de-cauda-barrada"
       }
     ]
   },
@@ -14,6 +22,14 @@
       {
         "lang": "en",
         "name": "Rufous-throated Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero gorgirrufo"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mãe-de-taoca-de-garganta-vermelha"
       }
     ]
   },
@@ -23,6 +39,10 @@
       {
         "lang": "en",
         "name": "Lunulated Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero lunulado"
       }
     ]
   },
@@ -53,6 +73,15 @@
   },
   {
     "scientific_name": "Gymnopithys bicolor",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bicoloured antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero bicolor"
+      }
+    ]
   }
 ]

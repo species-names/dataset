@@ -242,7 +242,12 @@
   },
   {
     "scientific_name": "Pitta soror",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-rumped pitta"
+      }
+    ]
   },
   {
     "scientific_name": "Pitta sordida",
@@ -253,7 +258,7 @@
       },
       {
         "lang": "en",
-        "name": "Hooded Pitta"
+        "name": "Hooded pitta"
       },
       {
         "lang": "fr",
@@ -851,6 +856,10 @@
     "scientific_name": "Pitta elegans",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Elegant pitta"
+      },
+      {
         "lang": "ja",
         "name": "インドネシアノドグロヤイロチョウ"
       }
@@ -967,7 +976,7 @@
       },
       {
         "lang": "sv",
-        "name": "jättejuveltrast"
+        "name": "Jättejuveltrast"
       },
       {
         "lang": "vi",
@@ -983,6 +992,10 @@
     "scientific_name": "Pitta brachyura",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Indian pitta"
+      },
+      {
         "lang": "ja",
         "name": "インドヤイロチョウ"
       }
@@ -993,7 +1006,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Blue-headed Pitta"
+        "name": "Blue-headed pitta"
       },
       {
         "lang": "es",
@@ -1013,7 +1026,7 @@
       },
       {
         "lang": "ms",
-        "name": "Burung Pacat Kepala Merah"
+        "name": "Burung pacat kepala merah"
       },
       {
         "lang": "nl",
@@ -1043,7 +1056,16 @@
   },
   {
     "scientific_name": "Pitta arquata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-banded pitta"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkoppitta"
+      }
+    ]
   },
   {
     "scientific_name": "Pitta angolensis",

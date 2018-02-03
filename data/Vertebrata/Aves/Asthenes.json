@@ -132,7 +132,16 @@
   },
   {
     "scientific_name": "Asthenes maculicauda",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scribble-tailed Canastero"
+      },
+      {
+        "lang": "es",
+        "name": "Canastero estriado"
+      }
+    ]
   },
   {
     "scientific_name": "Asthenes luizae",
@@ -239,7 +248,16 @@
   },
   {
     "scientific_name": "Asthenes heterura",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Maquis canastero"
+      },
+      {
+        "lang": "es",
+        "name": "Canastero de Iquico"
+      }
+    ]
   },
   {
     "scientific_name": "Asthenes helleri",

@@ -1,6 +1,39 @@
 [
   {
     "scientific_name": "Chaetorhynchus papuensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Drongo korr"
+      },
+      {
+        "lang": "cy",
+        "name": "Drongo mynydd"
+      },
+      {
+        "lang": "en",
+        "name": "Pygmy drongo"
+      },
+      {
+        "lang": "fa",
+        "name": "بوجانگایی کوتوله"
+      },
+      {
+        "lang": "fi",
+        "name": "Papuandrongo"
+      },
+      {
+        "lang": "nl",
+        "name": "Bergdrongo"
+      },
+      {
+        "lang": "no",
+        "name": "Papuadrongo"
+      },
+      {
+        "lang": "sv",
+        "name": "drongosolfjäderstjärt"
+      }
+    ]
   }
 ]

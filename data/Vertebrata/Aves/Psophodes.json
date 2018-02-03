@@ -9,7 +9,32 @@
   },
   {
     "scientific_name": "Psophodes nigrogularis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Aderyn clochog clegar"
+      },
+      {
+        "lang": "en",
+        "name": "Western whipbird"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌شلاقی غربی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kitinätimali"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijskopzwiepfluiter"
+      },
+      {
+        "lang": "sv",
+        "name": "gråtofsad snärtfågel"
+      }
+    ]
   },
   {
     "scientific_name": "Psophodes leucogaster",

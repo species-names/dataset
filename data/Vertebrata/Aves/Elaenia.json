@@ -14,7 +14,20 @@
   },
   {
     "scientific_name": "Elaenia spectabilis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Large elaenia"
+      },
+      {
+        "lang": "es",
+        "name": "Fiofío grande"
+      },
+      {
+        "lang": "pt",
+        "name": "Guaracava-grande"
+      }
+    ]
   },
   {
     "scientific_name": "Elaenia ruficeps",
@@ -69,7 +82,20 @@
   },
   {
     "scientific_name": "Elaenia parvirostris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Small-billed elaenia"
+      },
+      {
+        "lang": "es",
+        "name": "Fiofío piquicorto"
+      },
+      {
+        "lang": "pt",
+        "name": "Guaracava-de-bico-curto"
+      }
+    ]
   },
   {
     "scientific_name": "Elaenia pallatangae",
@@ -323,6 +349,14 @@
       {
         "lang": "en",
         "name": "Plain-crested Elaenia"
+      },
+      {
+        "lang": "es",
+        "name": "Fiofío crestado"
+      },
+      {
+        "lang": "pt",
+        "name": "Guaracava-de-topete-uniforme"
       }
     ]
   },

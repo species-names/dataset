@@ -8,11 +8,20 @@
     "common_names": []
   },
   {
+    "scientific_name": "Myrmoderus loricatus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Myrmoderus ferrugineus",
     "common_names": []
   },
   {
-    "scientific_name": "Myrmoderus loricatus",
-    "common_names": []
+    "scientific_name": "Myrmoderus eowilsoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cordillera Azul Antbird"
+      }
+    ]
   }
 ]

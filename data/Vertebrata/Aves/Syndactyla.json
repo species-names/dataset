@@ -34,7 +34,16 @@
   },
   {
     "scientific_name": "Syndactyla guttulata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Guttulate foliage-gleaner"
+      },
+      {
+        "lang": "es",
+        "name": "Ticotico goteado"
+      }
+    ]
   },
   {
     "scientific_name": "Syndactyla dimidiata",

@@ -1,7 +1,16 @@
 [
   {
     "scientific_name": "Attila torridus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ochraceous attila"
+      },
+      {
+        "lang": "es",
+        "name": "Atila ocráceo"
+      }
+    ]
   },
   {
     "scientific_name": "Attila spadiceus",
@@ -39,7 +48,20 @@
   },
   {
     "scientific_name": "Attila phoenicurus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-tailed attila"
+      },
+      {
+        "lang": "es",
+        "name": "Atila cabecigrís"
+      },
+      {
+        "lang": "pt",
+        "name": "Capitão-castanho"
+      }
+    ]
   },
   {
     "scientific_name": "Attila citriniventris",

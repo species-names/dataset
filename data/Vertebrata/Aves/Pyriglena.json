@@ -1,7 +1,20 @@
 [
   {
     "scientific_name": "Pyriglena leucoptera",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-shouldered fire-eye"
+      },
+      {
+        "lang": "es",
+        "name": "Ojodefuego aliblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-taoca-do-sul"
+      }
+    ]
   },
   {
     "scientific_name": "Pyriglena leuconota",
@@ -37,6 +50,18 @@
         "synonyms": [
           "papa-taoca-da-bahia"
         ]
+      },
+      {
+        "lang": "cy",
+        "name": "Llygatgoch Swainson"
+      },
+      {
+        "lang": "nl",
+        "name": "Swainsons vuuroog"
+      },
+      {
+        "lang": "sv",
+        "name": "fjällryggigt eldöga"
       }
     ]
   }

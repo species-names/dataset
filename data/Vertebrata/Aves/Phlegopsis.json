@@ -1,11 +1,37 @@
 [
   {
     "scientific_name": "Phlegopsis nigromaculata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-spotted bare-eye"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero maculado"
+      },
+      {
+        "lang": "pt",
+        "name": "Mãe-de-taoca"
+      }
+    ]
   },
   {
     "scientific_name": "Phlegopsis erythroptera",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Reddish-winged bare-eye"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero alirrojo"
+      },
+      {
+        "lang": "pt",
+        "name": "Mãe-de-taoca-avermelhada"
+      }
+    ]
   },
   {
     "scientific_name": "Phlegopsis borbae",

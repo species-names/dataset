@@ -13,16 +13,38 @@
       {
         "lang": "fi",
         "name": "Karvapäämuura"
+      },
+      {
+        "lang": "pt",
+        "name": "Mãe-de-taoca-cabeçuda"
       }
     ]
   },
   {
     "scientific_name": "Rhegmatorhina hoffmannsi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "White-breaste antbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Mãe-de-taoca-papuda"
+      }
+    ]
   },
   {
     "scientific_name": "Rhegmatorhina gymnops",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bare-eyed antbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Mãe-de-taoca-de-cara-branca"
+      }
+    ]
   },
   {
     "scientific_name": "Rhegmatorhina cristata",
@@ -34,6 +56,10 @@
       {
         "lang": "es",
         "name": "Hormiguero cresticastaño"
+      },
+      {
+        "lang": "pt",
+        "name": "Mãe-de-taoca-cristada"
       }
     ]
   },
@@ -47,6 +73,10 @@
       {
         "lang": "es",
         "name": "Hormiguero arlequín"
+      },
+      {
+        "lang": "pt",
+        "name": "Mãe-de-taoca-arlequim"
       }
     ]
   }

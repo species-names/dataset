@@ -18,6 +18,10 @@
       {
         "lang": "es",
         "name": "Hormiguero escamoso"
+      },
+      {
+        "lang": "en",
+        "name": "Squamate antbird"
       }
     ]
   },
@@ -44,6 +48,14 @@
       {
         "lang": "es",
         "name": "Hormiguero ventrigrís"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-bellied antbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-barriga-cinza"
       }
     ]
   },
@@ -62,7 +74,16 @@
   },
   {
     "scientific_name": "Myrmeciza nigricauda",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Esmeraldas antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Esmeraldas"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmeciza melanoceps",
@@ -120,6 +141,10 @@
       {
         "lang": "sv",
         "name": "Vitbukad myrfågel"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-barriga-branca"
       }
     ]
   },
@@ -155,6 +180,14 @@
       {
         "lang": "es",
         "name": "Hormiguero plomizo"
+      },
+      {
+        "lang": "en",
+        "name": "Plumbeous antbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-chumbo"
       }
     ]
   },
@@ -168,6 +201,10 @@
       {
         "lang": "es",
         "name": "Hormiguero colicastaño sureño"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-cauda-castanha"
       }
     ]
   },
@@ -186,11 +223,37 @@
   },
   {
     "scientific_name": "Myrmeciza goeldii",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Goeldi's antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Goeldi"
+      },
+      {
+        "lang": "pt",
+        "name": "Formiguero-de-goeldi"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmeciza fortis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sooty antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero tiznado"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-taoca"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmeciza ferruginea",
@@ -198,6 +261,14 @@
       {
         "lang": "en",
         "name": "Ferruginous-backed Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero ferruginoso"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-ferrugem"
       }
     ]
   },
@@ -233,10 +304,32 @@
   },
   {
     "scientific_name": "Myrmeciza berlepschi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stub-tailed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero colimocho"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmeciza atrothorax",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-throated antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero gorginegro"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-peito-preto"
+      }
+    ]
   }
 ]
