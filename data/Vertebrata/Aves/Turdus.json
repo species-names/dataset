@@ -47,6 +47,10 @@
         "name": "Барҡылдаҡ"
       },
       {
+        "lang": "be",
+        "name": "Дзяраба"
+      },
+      {
         "lang": "bg",
         "name": "Имелов дрозд"
       },
@@ -135,6 +139,10 @@
         "name": "Бужмаг хөөндэй"
       },
       {
+        "lang": "mwl",
+        "name": "Tordela"
+      },
+      {
         "lang": "nl",
         "name": "Grote lijster"
       },
@@ -160,7 +168,11 @@
       },
       {
         "lang": "pt",
-        "name": "Tordoveia"
+        "name": "Tordoveia",
+        "synonyms": [
+          "Tordela",
+          "Tordeia"
+        ]
       },
       {
         "lang": "rue",
@@ -457,11 +469,23 @@
       },
       {
         "lang": "es",
-        "name": "Mirlo Indio"
+        "name": "Mirlo indio"
       },
       {
         "lang": "fr",
         "name": "Merle des Nilgiri"
+      },
+      {
+        "lang": "ml",
+        "name": "നീലഗിരി കരിങ്കിളി"
+      },
+      {
+        "lang": "mr",
+        "name": "काळा कस्तूर"
+      },
+      {
+        "lang": "sv",
+        "name": "Indisk koltrast"
       },
       {
         "lang": "vi",
@@ -486,8 +510,16 @@
         "name": "Varzea Thrush"
       },
       {
+        "lang": "es",
+        "name": "Zorzal de várzea"
+      },
+      {
         "lang": "pl",
         "name": "drozd nadrzeczny"
+      },
+      {
+        "lang": "sv",
+        "name": "Várzeatrast"
       }
     ]
   },
@@ -1018,6 +1050,10 @@
         "name": "Поен дрозд"
       },
       {
+        "lang": "bn",
+        "name": "সং থ্রাশ"
+      },
+      {
         "lang": "br",
         "name": "Drask sut"
       },
@@ -1132,6 +1168,10 @@
       {
         "lang": "mk",
         "name": "Дрозд пејач"
+      },
+      {
+        "lang": "mwl",
+        "name": "Tordo"
       },
       {
         "lang": "nds-nl",
@@ -1681,6 +1721,14 @@
         "name": "Malvizz iswed"
       },
       {
+        "lang": "mwl",
+        "name": "Mielro",
+        "synonyms": [
+          "Mierlo",
+          "Mierlho"
+        ]
+      },
+      {
         "lang": "nds",
         "name": "Swattdrossel"
       },
@@ -2209,7 +2257,11 @@
       },
       {
         "lang": "pt",
-        "name": "Carachué"
+        "name": "Caraxué-de-bico-preto"
+      },
+      {
+        "lang": "es",
+        "name": "Zorzal piquinegro"
       }
     ]
   },
@@ -2418,6 +2470,10 @@
   {
     "scientific_name": "Turdus eunomus",
     "common_names": [
+      {
+        "lang": "be",
+        "name": "Дрозд Наўмана"
+      },
       {
         "lang": "en",
         "name": "Dusky Thrush"

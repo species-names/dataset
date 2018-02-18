@@ -28,6 +28,10 @@
     "scientific_name": "Cyanistes cyanus",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Белая блакітніца"
+      },
+      {
         "lang": "bg",
         "name": "Белоглав синигер"
       },
@@ -286,7 +290,10 @@
       },
       {
         "lang": "hu",
-        "name": "Kék cinege"
+        "name": "Kék cinege",
+        "synonyms": [
+          "kékcinke"
+        ]
       },
       {
         "lang": "hy",

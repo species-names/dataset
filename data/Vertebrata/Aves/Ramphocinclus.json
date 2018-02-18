@@ -1,6 +1,31 @@
 [
   {
     "scientific_name": "Ramphocinclus brachyurus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Crynwr bronwyn"
+      },
+      {
+        "lang": "en",
+        "name": "White-breasted thrasher"
+      },
+      {
+        "lang": "es",
+        "name": "cuitlacoche pechiblanco"
+      },
+      {
+        "lang": "nl",
+        "name": "Witborstspotlijster"
+      },
+      {
+        "lang": "pl",
+        "name": "Skrzeczek"
+      },
+      {
+        "lang": "sv",
+        "name": "vitbröstad härmtrast"
+      }
+    ]
   }
 ]

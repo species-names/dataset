@@ -234,7 +234,16 @@
   },
   {
     "scientific_name": "Mimus gundlachii",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bahama mockingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Sinsonte de Bahamas"
+      }
+    ]
   },
   {
     "scientific_name": "Mimus gilvus",

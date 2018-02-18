@@ -3,6 +3,10 @@
     "scientific_name": "Remiz pendulinus",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Рэмез звычайны"
+      },
+      {
         "lang": "bg",
         "name": "Торбогнезд синигер"
       },
@@ -24,6 +28,10 @@
       {
         "lang": "fi",
         "name": "Pussitiainen"
+      },
+      {
+        "lang": "hu",
+        "name": "Függőcinege"
       },
       {
         "lang": "hy",
@@ -95,7 +103,7 @@
       },
       {
         "lang": "hu",
-        "name": "Függőcinege"
+        "name": "Feketefejű függőcinege"
       },
       {
         "lang": "ja",
@@ -153,6 +161,13 @@
       {
         "lang": "es",
         "name": "Pájaro moscón coronado"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfejű függőcinege",
+        "synonyms": [
+          "koronás függőcinege"
+        ]
       }
     ]
   },
@@ -166,6 +181,10 @@
       {
         "lang": "es",
         "name": "Pájaro moscón chino"
+      },
+      {
+        "lang": "hu",
+        "name": "Kínai függőcinege"
       }
     ]
   }

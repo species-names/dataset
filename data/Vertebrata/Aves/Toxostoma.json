@@ -299,7 +299,12 @@
   },
   {
     "scientific_name": "Toxostoma bendirei",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Arosirppimatkija"
+      }
+    ]
   },
   {
     "scientific_name": "Toxostoma arenicola",

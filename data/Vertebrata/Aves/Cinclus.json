@@ -163,16 +163,16 @@
     "scientific_name": "Cinclus cinclus",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "Псыбзу"
-      },
-      {
         "lang": "ar",
         "name": "دنكلة"
       },
       {
         "lang": "ba",
         "name": "Һыу турғайы"
+      },
+      {
+        "lang": "be",
+        "name": "Аляпка"
       },
       {
         "lang": "bg",
@@ -239,24 +239,24 @@
         "name": "Vodenkos"
       },
       {
-        "lang": "hy",
-        "name": "Օլյապկա"
+        "lang": "hu",
+        "name": "Vízirigó"
       },
       {
-        "lang": "os",
-        "name": "Дондзиу"
+        "lang": "hy",
+        "name": "Օլյապկա"
       },
       {
         "lang": "it",
         "name": "Merlo acquaiolo"
       },
       {
-        "lang": "lt",
-        "name": "Vandeninis strazdas"
+        "lang": "kbd",
+        "name": "Псыбзу"
       },
       {
-        "lang": "hu",
-        "name": "Vízirigó"
+        "lang": "lt",
+        "name": "Vandeninis strazdas"
       },
       {
         "lang": "mn",
@@ -273,6 +273,10 @@
       {
         "lang": "nn",
         "name": "Fossekall"
+      },
+      {
+        "lang": "os",
+        "name": "Дондзиу"
       },
       {
         "lang": "pl",

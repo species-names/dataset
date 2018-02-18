@@ -20,12 +20,12 @@
     "scientific_name": "Lophophanes cristatus",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "АмкӀыщ"
-      },
-      {
         "lang": "ba",
         "name": "Бүрекле тебейек"
+      },
+      {
+        "lang": "be",
+        "name": "Чубатая сініца"
       },
       {
         "lang": "bg",
@@ -80,12 +80,24 @@
         "name": "Mésange huppée"
       },
       {
+        "lang": "hu",
+        "name": "Búbos cinege"
+      },
+      {
         "lang": "hy",
         "name": "Երաշտահավ փուփուլավոր"
       },
       {
         "lang": "it",
         "name": "Cincia dal ciuffo"
+      },
+      {
+        "lang": "ja",
+        "name": "カンムリガラ"
+      },
+      {
+        "lang": "kbd",
+        "name": "АмкӀыщ"
       },
       {
         "lang": "lt",
@@ -96,10 +108,6 @@
         "name": "Cekulzīlīte"
       },
       {
-        "lang": "hu",
-        "name": "Búbos cinege"
-      },
-      {
         "lang": "mk",
         "name": "Цуцулеста сипка"
       },
@@ -108,15 +116,11 @@
         "name": "Kuifmees"
       },
       {
-        "lang": "ja",
-        "name": "カンムリガラ"
-      },
-      {
-        "lang": "no",
+        "lang": "nn",
         "name": "Toppmeis"
       },
       {
-        "lang": "nn",
+        "lang": "no",
         "name": "Toppmeis"
       },
       {
