@@ -1,6 +1,27 @@
 [
   {
     "scientific_name": "Neolestes torquatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-collared bulbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul acollarado"
+      },
+      {
+        "lang": "fi",
+        "name": "Sepelbulbuli"
+      },
+      {
+        "lang": "hu",
+        "name": "Örvös bülbül"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthalsad bulbyl"
+      }
+    ]
   }
 ]

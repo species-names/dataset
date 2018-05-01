@@ -48,7 +48,10 @@
       },
       {
         "lang": "hu",
-        "name": "Piroscsőrű szövőmadár"
+        "name": "Piroscsőrű szövőmadár",
+        "synonyms": [
+          "vöröscsőrű szövőmadár"
+        ]
       },
       {
         "lang": "nl",
@@ -73,6 +76,10 @@
       {
         "lang": "sv",
         "name": "Blodnäbbsvävare"
+      },
+      {
+        "lang": "tr",
+        "name": "Küela"
       }
     ]
   },

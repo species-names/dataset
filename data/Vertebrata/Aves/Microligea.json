@@ -3,11 +3,43 @@
     "scientific_name": "Microligea palustris",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Telor cynffonwyrdd"
+      },
+      {
+        "lang": "de",
+        "name": "Graubrust-Waldsänger"
+      },
+      {
+        "lang": "en",
+        "name": "Green-tailed warbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Verdavosta parulio"
+      },
+      {
         "lang": "es",
-        "name": "Reinita coliverde",
+        "name": "reinita coliverde",
         "synonyms": [
-          "cigüita coliverde"
+          "cigüita de cola verde"
         ]
+      },
+      {
+        "lang": "fi",
+        "name": "Hispaniolanviherkerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline aux yeux rouges"
+      },
+      {
+        "lang": "nl",
+        "name": "Haïtizanger"
+      },
+      {
+        "lang": "sv",
+        "name": "grönstjärtad sångtangara"
       }
     ]
   }

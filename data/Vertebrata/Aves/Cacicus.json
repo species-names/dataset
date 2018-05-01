@@ -25,12 +25,68 @@
     "common_names": []
   },
   {
-    "scientific_name": "Cacicus melanicterus",
+    "scientific_name": "Cacicus oseryi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Casqued oropendola"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique de Yelmo"
+      },
+      {
+        "lang": "pt",
+        "name": "Japu-de-capacete"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus microrhynchus",
     "common_names": []
   },
   {
+    "scientific_name": "Cacicus leucoramphus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mountain cacique"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique montano norteño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cacicus latirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Band-tailed Oropendola"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique colibandeado"
+      },
+      {
+        "lang": "pt",
+        "name": "Japu-de-rabo-verde"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cacicus koepckeae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Selva cacique"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique de Koepcke"
+      }
+    ]
   },
   {
     "scientific_name": "Cacicus haemorrhous",
@@ -83,6 +139,10 @@
       {
         "lang": "pt",
         "name": "Tecelão"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique aliamarillo"
       }
     ]
   },

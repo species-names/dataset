@@ -33,6 +33,50 @@
       {
         "lang": "fi",
         "name": "Venezuelanluhtakana"
+      },
+      {
+        "lang": "ar",
+        "name": "مرعة فنزويلية"
+      },
+      {
+        "lang": "br",
+        "name": "Rakig Wetmore"
+      },
+      {
+        "lang": "ca",
+        "name": "Rascló de Wetmore"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen ystlysblaen"
+      },
+      {
+        "lang": "de",
+        "name": "Wetmoreralle"
+      },
+      {
+        "lang": "en",
+        "name": "Plain-flanked rail"
+      },
+      {
+        "lang": "es",
+        "name": "rascón de Wetmore"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Wetmore"
+      },
+      {
+        "lang": "ja",
+        "name": "ムジオニクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Wetmore's ral"
+      },
+      {
+        "lang": "sv",
+        "name": "venezuelarall"
       }
     ]
   },
@@ -40,8 +84,64 @@
     "scientific_name": "Rallus semiplumbeus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "مرعة بوغوتا"
+      },
+      {
+        "lang": "br",
+        "name": "Rakig Bogotá"
+      },
+      {
+        "lang": "ca",
+        "name": "Rascló de Bogotà"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen Bogota"
+      },
+      {
+        "lang": "en",
+        "name": "Bogotá rail"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Bogota"
+      },
+      {
+        "lang": "hu",
+        "name": "Bogota guvat"
+      },
+      {
+        "lang": "ja",
+        "name": "ナンベイクイナ"
+      },
+      {
+        "lang": "ml",
+        "name": "ബൊഗോട്ട റെയിൽ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bogotáwaterral"
+      },
+      {
+        "lang": "nn",
+        "name": "Andesrikse"
+      },
+      {
+        "lang": "pl",
+        "name": "Wodnik andyjski"
+      },
+      {
+        "lang": "sv",
+        "name": "bogotárall"
+      },
+      {
         "lang": "fi",
         "name": "Andienluhtakana"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón andino"
       }
     ]
   },
@@ -632,6 +732,34 @@
       {
         "lang": "fi",
         "name": "Patagonianluhtakana"
+      },
+      {
+        "lang": "ar",
+        "name": "مرعة جنوبية"
+      },
+      {
+        "lang": "br",
+        "name": "Rakig Patagonia"
+      },
+      {
+        "lang": "ca",
+        "name": "Rascló austral"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen Magellan"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle austral"
+      },
+      {
+        "lang": "nl",
+        "name": "Magelhaenral"
+      },
+      {
+        "lang": "sv",
+        "name": "sydrall"
       }
     ]
   }

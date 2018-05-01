@@ -22,6 +22,27 @@
     ]
   },
   {
+    "scientific_name": "Selenidera piperivora",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Guianan Toucanet"
+      },
+      {
+        "lang": "es",
+        "name": "Tucaneta de la Guayana"
+      },
+      {
+        "lang": "hu",
+        "name": "Borsevő törpetukán"
+      },
+      {
+        "lang": "pt",
+        "name": "Araçari-negro"
+      }
+    ]
+  },
+  {
     "scientific_name": "Selenidera nattereri",
     "common_names": [
       {
@@ -73,27 +94,14 @@
       {
         "lang": "pt",
         "name": "Araçari-de-Gould"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Selenidera culik",
-    "common_names": [
+      },
       {
-        "lang": "en",
-        "name": "Guianan Toucanet"
+        "lang": "pt-br",
+        "name": "Saripoca-de-gould"
       },
       {
         "lang": "es",
-        "name": "Tucaneta de la Guayana"
-      },
-      {
-        "lang": "hu",
-        "name": "Borsevő törpetukán"
-      },
-      {
-        "lang": "pt",
-        "name": "Araçari-negro"
+        "name": "Tucanete de Gould"
       }
     ]
   }

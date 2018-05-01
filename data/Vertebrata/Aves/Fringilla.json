@@ -27,6 +27,13 @@
         "name": "Blåfink"
       },
       {
+        "lang": "sr",
+        "name": "Плава зеба",
+        "synonyms": [
+          "Plava zeba"
+        ]
+      },
+      {
         "lang": "tr",
         "name": "Mavi ispinoz"
       },
@@ -41,7 +48,7 @@
     "common_names": [
       {
         "lang": "de",
-        "name": "Gran Canaria Fink"
+        "name": "Gran-Canaria-Fink"
       },
       {
         "lang": "en",
@@ -74,6 +81,13 @@
       {
         "lang": "pl",
         "name": "Zięba modra"
+      },
+      {
+        "lang": "sr",
+        "name": "Гранканарска плава зеба",
+        "synonyms": [
+          "Grankanarska plava zeba"
+        ]
       }
     ]
   },
@@ -350,7 +364,11 @@
       },
       {
         "lang": "sr",
-        "name": "Планинска зеба"
+        "name": "Планинска зеба",
+        "synonyms": [
+          "Planinska zeba, Северна зеба",
+          "Severna zeba"
+        ]
       },
       {
         "lang": "sv",
@@ -711,7 +729,10 @@
       },
       {
         "lang": "sr",
-        "name": "Зеба"
+        "name": "Зеба",
+        "synonyms": [
+          "Zeba"
+        ]
       },
       {
         "lang": "sv",

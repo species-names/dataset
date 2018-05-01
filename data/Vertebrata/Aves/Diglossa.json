@@ -51,6 +51,19 @@
     ]
   },
   {
+    "scientific_name": "Diglossa indigotica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indigo flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor índigo"
+      }
+    ]
+  },
+  {
     "scientific_name": "Diglossa humeralis",
     "common_names": []
   },
@@ -60,6 +73,10 @@
   },
   {
     "scientific_name": "Diglossa gloriosa",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Diglossa glauca",
     "common_names": []
   },
   {
@@ -84,6 +101,15 @@
     ]
   },
   {
+    "scientific_name": "Diglossa cyanea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Masked Flowerpiercer"
+      }
+    ]
+  },
+  {
     "scientific_name": "Diglossa carbonaria",
     "common_names": [
       {
@@ -101,6 +127,15 @@
       {
         "lang": "fr",
         "name": "Percefleur charbonnier"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Diglossa caerulescens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bluish Flowerpiercer"
       }
     ]
   },
@@ -143,7 +178,16 @@
   },
   {
     "scientific_name": "Diglossa baritula",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon-bellied flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor ventricanelo"
+      }
+    ]
   },
   {
     "scientific_name": "Diglossa albilatera",

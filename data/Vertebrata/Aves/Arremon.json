@@ -64,11 +64,15 @@
     ]
   },
   {
-    "scientific_name": "Arremon phaeoplurus",
+    "scientific_name": "Arremon phaeopleurus",
     "common_names": [
       {
         "lang": "en",
         "name": "Caracas Brush Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero de Sclater"
       }
     ]
   },
@@ -78,6 +82,14 @@
       {
         "lang": "en",
         "name": "Perija Brush Finch"
+      },
+      {
+        "lang": "nl",
+        "name": "Perijástruikgors"
+      },
+      {
+        "lang": "sv",
+        "name": "perijásparv"
       }
     ]
   },

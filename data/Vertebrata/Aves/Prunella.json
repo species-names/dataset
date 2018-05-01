@@ -93,8 +93,16 @@
         "name": "Նրբագեղիկ խայտաբղետ"
       },
       {
+        "lang": "nl",
+        "name": "Steenheggenmus"
+      },
+      {
         "lang": "tr",
         "name": "Sürmeli dağ bülbülü"
+      },
+      {
+        "lang": "sv",
+        "name": "svartkronad järnsparv"
       }
     ]
   },
@@ -118,6 +126,10 @@
   {
     "scientific_name": "Prunella modularis",
     "common_names": [
+      {
+        "lang": "be",
+        "name": "Лясная завірушка"
+      },
       {
         "lang": "bg",
         "name": "Сивогуша завирушка"
@@ -340,6 +352,54 @@
       {
         "lang": "es",
         "name": "Acentor del Yemen"
+      },
+      {
+        "lang": "ar",
+        "name": "عصفور الشوك العربي"
+      },
+      {
+        "lang": "bg",
+        "name": "Йеменска завирушка"
+      },
+      {
+        "lang": "br",
+        "name": "Gwrac'hig Yemen"
+      },
+      {
+        "lang": "cy",
+        "name": "Llwyd Arabia"
+      },
+      {
+        "lang": "eo",
+        "name": "Araba pronelo"
+      },
+      {
+        "lang": "eu",
+        "name": "Arabiar tuntun"
+      },
+      {
+        "lang": "fa",
+        "name": "صعوه عربی"
+      },
+      {
+        "lang": "fr",
+        "name": "Accenteur d'Arabie"
+      },
+      {
+        "lang": "hu",
+        "name": "Jemeni szürkebegy"
+      },
+      {
+        "lang": "nl",
+        "name": "Arabische heggenmus"
+      },
+      {
+        "lang": "no",
+        "name": "Jemenjernspurv"
+      },
+      {
+        "lang": "sv",
+        "name": "jemenjärnsparv"
       }
     ]
   },

@@ -1,7 +1,48 @@
 [
   {
     "scientific_name": "Rukia ruki",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Llygadwyn Truk"
+      },
+      {
+        "lang": "de",
+        "name": "Truk-Brillenvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Teardrop white-eye"
+      },
+      {
+        "lang": "es",
+        "name": "anteojitos de la Truk"
+      },
+      {
+        "lang": "fa",
+        "name": "چشم‌سفید تروک"
+      },
+      {
+        "lang": "fi",
+        "name": "Trukinrilli"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops de Truk"
+      },
+      {
+        "lang": "nl",
+        "name": "Trukbrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹرک چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "chuukglasögonfågel"
+      }
+    ]
   },
   {
     "scientific_name": "Rukia longirostra",

@@ -234,6 +234,26 @@
       {
         "lang": "tp",
         "name": "Raninghai Elli wachasumratzatta"
+      },
+      {
+        "lang": "ar",
+        "name": "بلبل منقط الرقبة"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl corunwyrdd"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul à cou tacheté"
+      },
+      {
+        "lang": "nl",
+        "name": "Barusanbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "gulkindad bulbyl"
       }
     ]
   },
@@ -258,8 +278,16 @@
     "scientific_name": "Pycnonotus taivanus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بلبل تايواني"
+      },
+      {
         "lang": "en",
         "name": "Styan's bulbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul de Taiwán"
       },
       {
         "lang": "fr",
@@ -268,6 +296,30 @@
       {
         "lang": "zh",
         "name": "烏頭翁"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl Fformosa"
+      },
+      {
+        "lang": "fi",
+        "name": "Taiwaninbulbuli"
+      },
+      {
+        "lang": "hu",
+        "name": "Tajvani bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Taiwanbuulbuul"
+      },
+      {
+        "lang": "pl",
+        "name": "Bilbil tajwański"
+      },
+      {
+        "lang": "sv",
+        "name": "taiwanbulbyl"
       }
     ]
   },
@@ -304,7 +356,11 @@
         "name": "Scaly-breasted Bulbul"
       },
       {
-        "lang": " fr",
+        "lang": "es",
+        "name": "Bulbul escamado"
+      },
+      {
+        "lang": "fr",
         "name": "Bulbul écaillé"
       },
       {
@@ -318,6 +374,26 @@
       {
         "lang": "pl",
         "name": "bilbil łuskowany"
+      },
+      {
+        "lang": "ar",
+        "name": "بلبل محرشف الصدر"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl brongennog"
+      },
+      {
+        "lang": "fi",
+        "name": "Kirjorintabulbuli"
+      },
+      {
+        "lang": "nl",
+        "name": "Schubborstbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "fjällbröstad bulbyl"
       }
     ]
   },
@@ -334,12 +410,32 @@
     "scientific_name": "Pycnonotus sinensis",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بلبل صيني"
+      },
+      {
+        "lang": "cdo",
+        "name": "Lū-bék"
+      },
+      {
         "lang": "en",
         "name": "Light-vented Bulbul"
       },
       {
+        "lang": "es",
+        "name": "Bulbul chino"
+      },
+      {
+        "lang": "fi",
+        "name": "Kiinanbulbuli"
+      },
+      {
         "lang": "fr",
         "name": "Bulbul de Chine"
+      },
+      {
+        "lang": "hak",
+        "name": "Pha̍k-thèu-kûng-é"
       },
       {
         "lang": "hu",
@@ -352,6 +448,14 @@
       {
         "lang": "pl",
         "name": "Bilbil chiński"
+      },
+      {
+        "lang": "sv",
+        "name": "Kinesisk bulbyl"
+      },
+      {
+        "lang": "za",
+        "name": "Roeggyaeujhau"
       },
       {
         "lang": "zh",
@@ -413,8 +517,44 @@
     "scientific_name": "Pycnonotus plumosus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بلبل زيتوني الجناحين"
+      },
+      {
+        "lang": "en",
+        "name": "Olive-winged bulbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul aliverde"
+      },
+      {
+        "lang": "fi",
+        "name": "Oliivisiipibulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul aux ailes olive"
+      },
+      {
+        "lang": "hu",
+        "name": "Maláj bülbül"
+      },
+      {
+        "lang": "id",
+        "name": "Merbah belukar"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Merbah Belukar"
+      },
+      {
         "lang": "nl",
         "name": "Maleise buulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "Olivvingad bulbyl"
       }
     ]
   },
@@ -428,6 +568,46 @@
       {
         "lang": "en",
         "name": "Yellow-eared Bulbul"
+      },
+      {
+        "lang": "ar",
+        "name": "بلبل أصفر الأذن"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl clustiog"
+      },
+      {
+        "lang": "fi",
+        "name": "Srilankanbulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul oreillard"
+      },
+      {
+        "lang": "hu",
+        "name": "Ékszer bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelpluimbuulbuul"
+      },
+      {
+        "lang": "pl",
+        "name": "Bilbil żółtouchy"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтоухий настоящий бюльбюль"
+      },
+      {
+        "lang": "si",
+        "name": "ගලුගුඩුවා"
+      },
+      {
+        "lang": "sv",
+        "name": "gulörad bulbyl"
       }
     ]
   },
@@ -439,8 +619,16 @@
     "scientific_name": "Pycnonotus nieuwenhuisii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بلبل أزرق اللغد"
+      },
+      {
         "lang": "en",
         "name": "Blue-wattled Bulbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul ojiazul"
       },
       {
         "lang": "fr",
@@ -449,12 +637,57 @@
       {
         "lang": "pl",
         "name": "bilbil niebieskooki"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåflikig bulbyl"
       }
     ]
   },
   {
     "scientific_name": "Pycnonotus melanoleucos",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بلبل أسود وأبيض"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl du a gwyn"
+      },
+      {
+        "lang": "en",
+        "name": "Black-and-white bulbul"
+      },
+      {
+        "lang": "fi",
+        "name": "Pilkkasiipibulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul demi-deuil"
+      },
+      {
+        "lang": "hu",
+        "name": "Özvegy bülbül"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Merbah Tanduk"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwart-witte buulbuul"
+      },
+      {
+        "lang": "pl",
+        "name": "Bilbil żałobny"
+      },
+      {
+        "lang": "sv",
+        "name": "svartvit bulbyl"
+      }
+    ]
   },
   {
     "scientific_name": "Pycnonotus melanicterus",
@@ -802,24 +1035,40 @@
     "scientific_name": "Pycnonotus eutilotus",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Puff-backed Bulbul"
+        "lang": "ar",
+        "name": "بلبل منتفخ الخلف"
       },
       {
-        "lang": " fr",
+        "lang": "cy",
+        "name": "Bwlbwl gwargrwm"
+      },
+      {
+        "lang": "en",
+        "name": "Puff-backed bulbul"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskoselkäbulbuli"
+      },
+      {
+        "lang": "fr",
         "name": "Bulbul laineux"
       },
       {
-        "lang": " hu",
+        "lang": "hu",
         "name": "Gyapjashátú bülbül"
       },
       {
-        "lang": " pl",
+        "lang": "nl",
+        "name": "Donsrugbuulbuul"
+      },
+      {
+        "lang": "pl",
         "name": "Bilbil brązowy"
       },
       {
-        "lang": " ru",
-        "name": "Волосатый бюльбюль"
+        "lang": "sv",
+        "name": "dunryggig bulbyl"
       }
     ]
   },
@@ -876,7 +1125,48 @@
   },
   {
     "scientific_name": "Pycnonotus cyaniventris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بلبل رمادي البطن"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl torllwyd"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-bellied bulbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul ventrigrís"
+      },
+      {
+        "lang": "fi",
+        "name": "Sinirintabulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul à ventre gris"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürkehasú bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijsbuikbuulbuul"
+      },
+      {
+        "lang": "pl",
+        "name": "Bilbil szarobrzuchy"
+      },
+      {
+        "lang": "sv",
+        "name": "gråbukig bulbyl"
+      }
+    ]
   },
   {
     "scientific_name": "Pycnonotus capensis",

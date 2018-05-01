@@ -1,46 +1,14 @@
 [
   {
-    "scientific_name": "Agelaioides badius badius",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Agelaioides oreopsar",
+    "scientific_name": "Agelaioides fringillarius",
     "common_names": [
       {
-        "lang": "cy",
-        "name": "Tresglen Bolifia"
-      },
-      {
         "lang": "en",
-        "name": "Bolivian blackbird"
+        "name": "Pale cowbird"
       },
       {
-        "lang": "eo",
-        "name": "Oreopsaro"
-      },
-      {
-        "lang": "fa",
-        "name": "سیاه‌مرغ بولیوی"
-      },
-      {
-        "lang": "fr",
-        "name": "Carouge de Bolivie"
-      },
-      {
-        "lang": "nl",
-        "name": "Andestroepiaal"
-      },
-      {
-        "lang": "no",
-        "name": "Boliviatrupial"
-      },
-      {
-        "lang": "sv",
-        "name": "boliviatrupial"
-      },
-      {
-        "lang": "es",
-        "name": "mirlo boliviano"
+        "lang": "pt-br",
+        "name": "Asa-de-telha-pálido"
       }
     ]
   },
@@ -54,6 +22,10 @@
       {
         "lang": "pt",
         "name": "Asa-de-telha"
+      },
+      {
+        "lang": "es",
+        "name": "Tordo músico"
       }
     ]
   }

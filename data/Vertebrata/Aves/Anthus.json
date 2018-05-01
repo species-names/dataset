@@ -3,8 +3,28 @@
     "scientific_name": "Anthus vaalensis",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Vaalkoester"
+      },
+      {
+        "lang": "en",
+        "name": "Buffy pipit"
+      },
+      {
+        "lang": "es",
+        "name": "Bisbita del Vaal"
+      },
+      {
         "lang": "fi",
         "name": "Kulokirvinen"
+      },
+      {
+        "lang": "pt",
+        "name": "Petinha-do-vaal"
+      },
+      {
+        "lang": "sv",
+        "name": "Långstjärtad piplärka"
       }
     ]
   },
@@ -22,6 +42,10 @@
       {
         "lang": "ba",
         "name": "Урман деүете"
+      },
+      {
+        "lang": "be",
+        "name": "Лясны свірстун"
       },
       {
         "lang": "bg",
@@ -770,6 +794,19 @@
     ]
   },
   {
+    "scientific_name": "Anthus peruvianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Peruvian Pipit"
+      },
+      {
+        "lang": "es",
+        "name": "Bisbita peruano"
+      }
+    ]
+  },
+  {
     "scientific_name": "Anthus pallidiventris",
     "common_names": [
       {
@@ -904,10 +941,6 @@
     ]
   },
   {
-    "scientific_name": "Anthus latistriatus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Anthus hoeschi",
     "common_names": [
       {
@@ -968,7 +1001,12 @@
   },
   {
     "scientific_name": "Anthus godlewskii",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Канёк Гадлеўскага"
+      }
+    ]
   },
   {
     "scientific_name": "Anthus furcatus",
@@ -1210,15 +1248,24 @@
     ]
   },
   {
-    "scientific_name": "Anthus camaroonensis",
-    "common_names": []
-  },
-  {
     "scientific_name": "Anthus caffer",
     "common_names": [
       {
         "lang": "fi",
         "name": "Savannikirvinen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anthus brevirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Puna Pipit"
+      },
+      {
+        "lang": "es",
+        "name": "Bisbita puneño"
       }
     ]
   },
@@ -1245,15 +1292,6 @@
     ]
   },
   {
-    "scientific_name": "Anthus bannermani",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Long-billed Pipit"
-      }
-    ]
-  },
-  {
     "scientific_name": "Anthus australis",
     "common_names": [
       {
@@ -1261,8 +1299,20 @@
         "name": "Australian Pipit"
       },
       {
+        "lang": "es",
+        "name": "Bisbita australiano"
+      },
+      {
         "lang": "fi",
         "name": "Australiankirvinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit austral"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk piplärka"
       }
     ]
   },

@@ -458,8 +458,28 @@
     "scientific_name": "Phylloscopus tenellipes",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Pale-legged leaf warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero paticlaro"
+      },
+      {
         "lang": "fi",
         "name": "Ussurinuunilintu"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Cekup Ranting"
+      },
+      {
+        "lang": "sv",
+        "name": "Drillsångare"
+      },
+      {
+        "lang": "zh",
+        "name": "灰脚柳莺"
       }
     ]
   },
@@ -504,8 +524,24 @@
     "scientific_name": "Phylloscopus sindianus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نقشارة الجبال"
+      },
+      {
+        "lang": "de",
+        "name": "Bergzilpzalp"
+      },
+      {
         "lang": "en",
         "name": "Mountain Chiffchaff"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero montano"
+      },
+      {
+        "lang": "fr",
+        "name": "Pouillot montagnard"
       },
       {
         "lang": "hy",
@@ -518,6 +554,14 @@
       {
         "lang": "tr",
         "name": "Kafkas çıvgını"
+      },
+      {
+        "lang": "sv",
+        "name": "Berggransångare"
+      },
+      {
+        "lang": "zh",
+        "name": "东方叽咋柳莺"
       }
     ]
   },
@@ -619,7 +663,36 @@
   },
   {
     "scientific_name": "Phylloscopus ricketti",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sulphur-breasted warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero de Rickett"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultauunilintu"
+      },
+      {
+        "lang": "sv",
+        "name": "svartbrynad sångare"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudkroonboszanger"
+      },
+      {
+        "lang": "vi",
+        "name": "Chích ngực vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "黑眉柳莺"
+      }
+    ]
   },
   {
     "scientific_name": "Phylloscopus reguloides",
@@ -718,8 +791,20 @@
         "name": "Grey-legged Leaf-Warbler"
       },
       {
+        "lang": "es",
+        "name": "Mosquitero patigrís"
+      },
+      {
         "lang": "fi",
         "name": "Burjatianuunilintu"
+      },
+      {
+        "lang": "sv",
+        "name": "Sibirisk lundsångare"
+      },
+      {
+        "lang": "zh",
+        "name": "双斑绿柳莺"
       }
     ]
   },
@@ -754,12 +839,32 @@
     "scientific_name": "Phylloscopus nitidus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نقشارة خضراء"
+      },
+      {
+        "lang": "en",
+        "name": "Green warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero del Cáucaso"
+      },
+      {
         "lang": "fi",
         "name": "Kaukasianuunilintu"
       },
       {
         "lang": "hy",
         "name": "Գեղգեղիկ դեղնափող"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтобрюхая пеночка"
+      },
+      {
+        "lang": "sv",
+        "name": "Kaukasisk lundsångare"
       }
     ]
   },
@@ -776,8 +881,20 @@
     "scientific_name": "Phylloscopus makirensis",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Makira leaf warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero de San Cristóbal"
+      },
+      {
         "lang": "fi",
         "name": "Sancristóbalinuunilintu"
+      },
+      {
+        "lang": "sv",
+        "name": "Makirasångare"
       }
     ]
   },
@@ -785,8 +902,32 @@
     "scientific_name": "Phylloscopus magnirostris",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Large-billed leaf warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero picudo"
+      },
+      {
         "lang": "fi",
         "name": "Purouunilintu"
+      },
+      {
+        "lang": "ml",
+        "name": "ചൂളൻ ഇലക്കുരുവി"
+      },
+      {
+        "lang": "nl",
+        "name": "ठूलोठुँडे फिस्टो"
+      },
+      {
+        "lang": "sv",
+        "name": "Grovnäbbad sångare"
+      },
+      {
+        "lang": "zh",
+        "name": "乌嘴柳莺"
       }
     ]
   },
@@ -816,8 +957,28 @@
     "scientific_name": "Phylloscopus kansuensis",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Gansu leaf warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero de Gansu"
+      },
+      {
         "lang": "fi",
         "name": "Kansunuunilintu"
+      },
+      {
+        "lang": "sv",
+        "name": "Gansusångare"
+      },
+      {
+        "lang": "vi",
+        "name": "Chích lá Cam Túc"
+      },
+      {
+        "lang": "zh",
+        "name": "甘肃柳莺"
       }
     ]
   },
@@ -831,6 +992,10 @@
       {
         "lang": "en",
         "name": "Yellow-browed warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero bilistado"
       },
       {
         "lang": "fi",
@@ -1164,6 +1329,10 @@
         "name": "Hainan leaf warbler"
       },
       {
+        "lang": "es",
+        "name": "Mosquitero de Hainan"
+      },
+      {
         "lang": "nl",
         "name": "Hainanboszanger"
       },
@@ -1223,8 +1392,24 @@
         "name": "Smoky Warbler"
       },
       {
+        "lang": "es",
+        "name": "Mosquitero ahumado"
+      },
+      {
         "lang": "fi",
         "name": "Nokiuunilintu"
+      },
+      {
+        "lang": "ne",
+        "name": "ध्वाँसे फिस्टो"
+      },
+      {
+        "lang": "sv",
+        "name": "Sotbrunsångare"
+      },
+      {
+        "lang": "zh",
+        "name": "烟柳莺"
       }
     ]
   },
@@ -1232,8 +1417,28 @@
     "scientific_name": "Phylloscopus emeiensis",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Emei leaf warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero del Emei"
+      },
+      {
         "lang": "fi",
         "name": "Emeinuunilintu"
+      },
+      {
+        "lang": "sv",
+        "name": "Emeikronsångare"
+      },
+      {
+        "lang": "vi",
+        "name": "Chích lá Nga Mi"
+      },
+      {
+        "lang": "zh",
+        "name": "峨眉柳莺"
       }
     ]
   },
@@ -1254,8 +1459,36 @@
     "scientific_name": "Phylloscopus coronatus",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Eastern crowned warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero coronado"
+      },
+      {
         "lang": "ja",
         "name": "センダイムシクイ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Cekup Daun Tongkeng Kuning"
+      },
+      {
+        "lang": "sv",
+        "name": "Östlig kronsångare"
+      },
+      {
+        "lang": "ru",
+        "name": "Светлоголовая пеночка"
+      },
+      {
+        "lang": "vi",
+        "name": "Chích mào phương Đông"
+      },
+      {
+        "lang": "zh",
+        "name": "冕柳莺"
       }
     ]
   },
@@ -1302,6 +1535,10 @@
         "name": "Čuņčiņš"
       },
       {
+        "lang": "mwl",
+        "name": "Fibierno"
+      },
+      {
         "lang": "nl",
         "name": "Tjiftjaf"
       },
@@ -1316,6 +1553,10 @@
       {
         "lang": "pl",
         "name": "Pierwiosnek"
+      },
+      {
+        "lang": "pt",
+        "name": "Felosa-comum"
       },
       {
         "lang": "ru",
@@ -1379,8 +1620,28 @@
         "name": "Limestone Leaf Warbler"
       },
       {
+        "lang": "es",
+        "name": "Mosquitero roquero"
+      },
+      {
+        "lang": "fr",
+        "name": "Pouillot calciatile"
+      },
+      {
         "lang": "pl",
         "name": "Świstunka indochińska"
+      },
+      {
+        "lang": "sv",
+        "name": "Karstsångare"
+      },
+      {
+        "lang": "vi",
+        "name": "Chích núi đá vôi"
+      },
+      {
+        "lang": "zh",
+        "name": "灰岩柳莺"
       }
     ]
   },
@@ -1397,12 +1658,32 @@
     "scientific_name": "Phylloscopus borealoides",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Sakhalin leaf warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero japonés"
+      },
+      {
         "lang": "ja",
         "name": "エゾムシクイ"
       },
       {
         "lang": "fi",
         "name": "Japaninuunilintu"
+      },
+      {
+        "lang": "ru",
+        "name": "Сахалинская пеночка"
+      },
+      {
+        "lang": "sv",
+        "name": "Sachalinsångare"
+      },
+      {
+        "lang": "zh",
+        "name": "庫頁島柳鶯"
       }
     ]
   },
@@ -1503,6 +1784,10 @@
       {
         "lang": "en",
         "name": "Kolombangara leaf warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Mosquitero de Kulambangra"
       },
       {
         "lang": "fi",

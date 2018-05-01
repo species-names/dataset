@@ -1,7 +1,12 @@
 [
   {
-    "scientific_name": "Ammomanes phoenicurus",
-    "common_names": []
+    "scientific_name": "Ammomanes phoenicura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-tailed Lark"
+      }
+    ]
   },
   {
     "scientific_name": "Ammomanes grayi",
@@ -38,7 +43,12 @@
     ]
   },
   {
-    "scientific_name": "Ammomanes cincturus",
-    "common_names": []
+    "scientific_name": "Ammomanes cinctura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bar-tailed lark"
+      }
+    ]
   }
 ]

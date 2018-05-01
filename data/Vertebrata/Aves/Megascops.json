@@ -188,7 +188,7 @@
       },
       {
         "lang": "es",
-        "name": "mucarito de Puerto Rico"
+        "name": "Autillo puertorriqueño; mucarito"
       }
     ]
   },
@@ -354,6 +354,19 @@
     ]
   },
   {
+    "scientific_name": "Megascops gilesi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Santa Marta screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo de Santa Marta"
+      }
+    ]
+  },
+  {
     "scientific_name": "Megascops cooperi",
     "common_names": [
       {
@@ -424,8 +437,25 @@
         "name": "Tropical Screech-Owl"
       },
       {
-        "lang": "pt",
-        "name": "Caburé-de-orelha"
+        "lang": "pt-br",
+        "name": "Corujinha-do-mato"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo chóliba"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops centralis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Choco screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo del Chocó"
       }
     ]
   },
@@ -506,7 +536,7 @@
       },
       {
         "lang": "hu",
-        "name": "lármás füleskuvik"
+        "name": "Lármás füleskuvik"
       },
       {
         "lang": "it",

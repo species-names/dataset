@@ -123,24 +123,85 @@
   },
   {
     "scientific_name": "Progne sinaloae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Sinaloai bíborfecske"
+      }
+    ]
   },
   {
     "scientific_name": "Progne murphyi",
     "common_names": [
       {
         "lang": "en",
-        "name": "Southern martin"
+        "name": "Southern martin",
+        "synonyms": [
+          "Peruvian martin"
+        ]
       },
       {
         "lang": "es",
         "name": "Golondrina peruana"
+      },
+      {
+        "lang": "fa",
+        "name": "چلچله پرو"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle de Murphy"
+      },
+      {
+        "lang": "hu",
+        "name": "Perui bíborfecske"
+      },
+      {
+        "lang": "nl",
+        "name": "Peruaanse purperzwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "perustorsvala"
       }
     ]
   },
   {
     "scientific_name": "Progne modesta",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Gwennol Magellan"
+      },
+      {
+        "lang": "en",
+        "name": "Galápagos martin"
+      },
+      {
+        "lang": "es",
+        "name": "golondrina de las Galápagos"
+      },
+      {
+        "lang": "fa",
+        "name": "چلچله گالاپاگوس"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle sombre"
+      },
+      {
+        "lang": "hu",
+        "name": "Galápagosi bíborfecske"
+      },
+      {
+        "lang": "nl",
+        "name": "Galápagospurperzwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "galápagosstorsvala"
+      }
+    ]
   },
   {
     "scientific_name": "Progne elegans",
@@ -161,12 +222,21 @@
       {
         "lang": "fr",
         "name": "Hirondelle à ventre blanc"
+      },
+      {
+        "lang": "hu",
+        "name": "Karibi bíborfecske"
       }
     ]
   },
   {
     "scientific_name": "Progne cryptoleuca",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Kubai bíborfecske"
+      }
+    ]
   },
   {
     "scientific_name": "Progne chalybea",
@@ -209,7 +279,7 @@
       },
       {
         "lang": "hu",
-        "name": "szürkemellű bíborfecske"
+        "name": "Szürkemellű bíborfecske"
       },
       {
         "lang": "it",

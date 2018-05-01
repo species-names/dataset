@@ -1,7 +1,36 @@
 [
   {
     "scientific_name": "Paroreomyza montana",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Mêl-gropiwr Maui"
+      },
+      {
+        "lang": "en",
+        "name": "Maui ‘alauahio"
+      },
+      {
+        "lang": "fi",
+        "name": "Mauinkiipijä"
+      },
+      {
+        "lang": "hu",
+        "name": "Maui gyapjasmadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Mauikruiper"
+      },
+      {
+        "lang": "pt",
+        "name": "Alauaio-de-maui"
+      },
+      {
+        "lang": "sv",
+        "name": "maui-alauahio"
+      }
+    ]
   },
   {
     "scientific_name": "Paroreomyza maculata",

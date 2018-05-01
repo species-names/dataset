@@ -1,36 +1,14 @@
 [
   {
-    "scientific_name": "Hemignathus virens",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Hawaii amakihi"
-      },
-      {
-        "lang": "haw",
-        "name": "ʻamakihi"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Hemignathus sagittirostris",
+    "scientific_name": "Hemignathus hanapepe",
     "common_names": []
   },
   {
-    "scientific_name": "Hemignathus obscurus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Lesser Akialoa"
-      },
-      {
-        "lang": "haw",
-        "name": "ʻakialoa"
-      }
-    ]
+    "scientific_name": "Hemignathus affinis",
+    "common_names": []
   },
   {
-    "scientific_name": "Hemignathus munroi",
+    "scientific_name": "Hemignathus wilsoni",
     "common_names": [
       {
         "lang": "en",
@@ -38,10 +16,7 @@
       },
       {
         "lang": "haw",
-        "name": "ʻAkiapolaʻau",
-        "synonyms": [
-          "ʻAkiapōlāʻau"
-        ]
+        "name": "ʻAkiapolaʻau"
       }
     ]
   },
@@ -50,43 +25,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Nukupuu"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Hemignathus kauaiensis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Hemignathus flavus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Oahu Amakihi"
-      },
-      {
-        "lang": "es",
-        "name": "amakihi de Oahu"
-      },
-      {
-        "lang": "haw",
-        "name": "Oʻahu ʻAmakihi",
-        "synonyms": [
-          "Oʻahu ʻAmakihi"
-        ]
-      }
-    ]
-  },
-  {
-    "scientific_name": "Hemignathus ellisianus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Greater Akialoa",
-        "synonyms": [
-          "Kauai Akialoa"
-        ]
+        "name": "Oahu Nukupuu"
       }
     ]
   }

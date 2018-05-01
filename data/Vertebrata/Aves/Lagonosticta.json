@@ -19,7 +19,36 @@
   },
   {
     "scientific_name": "Lagonosticta umbrinodorsalis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Reichenow-Amarant"
+      },
+      {
+        "lang": "en",
+        "name": "Chad firefinch"
+      },
+      {
+        "lang": "es",
+        "name": "Amaranta de Chad"
+      },
+      {
+        "lang": "fr",
+        "name": "Amarante de Reichenow"
+      },
+      {
+        "lang": "it",
+        "name": "amaranto di Reichenow"
+      },
+      {
+        "lang": "sv",
+        "name": "Tchadamarant"
+      },
+      {
+        "lang": "zh",
+        "name": "赖氏火雀"
+      }
+    ]
   },
   {
     "scientific_name": "Lagonosticta senegala",
@@ -48,7 +77,48 @@
   },
   {
     "scientific_name": "Lagonosticta sanguinodorsalis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Josamarant"
+      },
+      {
+        "lang": "de",
+        "name": "Felsenamarant"
+      },
+      {
+        "lang": "en",
+        "name": "Rock firefinch"
+      },
+      {
+        "lang": "es",
+        "name": "Amaranta roquera"
+      },
+      {
+        "lang": "fi",
+        "name": "Nigerianruusupeippo"
+      },
+      {
+        "lang": "fr",
+        "name": "Amarante des rochers"
+      },
+      {
+        "lang": "it",
+        "name": "amaranto di roccia"
+      },
+      {
+        "lang": "hu",
+        "name": "Sziklaamarant"
+      },
+      {
+        "lang": "sv",
+        "name": "Klippamarant"
+      },
+      {
+        "lang": "zh",
+        "name": "岩火雀"
+      }
+    ]
   },
   {
     "scientific_name": "Lagonosticta rufopicta",

@@ -94,6 +94,18 @@
     "scientific_name": "Erythrura psittacea",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "ببغاء ذو حنجرة حمراء"
+      },
+      {
+        "lang": "ast",
+        "name": "Diamante lorito"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwyrbig gyddfgoch"
+      },
+      {
         "lang": "de",
         "name": "Rotkopf-Papageiamadine"
       },
@@ -126,6 +138,14 @@
         "name": "Diamante pappagallo"
       },
       {
+        "lang": "ko",
+        "name": "붉은머리청홍조"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар вуян попугай амадина"
+      },
+      {
         "lang": "nl",
         "name": "Roodkoppapegaaiamadine"
       },
@@ -134,12 +154,20 @@
         "name": "Papegøyeamadin"
       },
       {
+        "lang": "pl",
+        "name": "Papuzik czerwonolicy"
+      },
+      {
         "lang": "ru",
         "name": "Красноголовая попугайная амадина"
       },
       {
         "lang": "sv",
-        "name": "Rödhuvad papegojamadin"
+        "name": "Nyakaledonienamadin"
+      },
+      {
+        "lang": "vi",
+        "name": "Di họng đỏ"
       },
       {
         "lang": "zh",
@@ -255,6 +283,10 @@
       {
         "lang": "it",
         "name": "Diamante di Gould"
+      },
+      {
+        "lang": "nl",
+        "name": "Goulds amadine"
       }
     ]
   },

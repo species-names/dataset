@@ -343,8 +343,28 @@
     "scientific_name": "Caprimulgus nigriscapularis",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Swartskouernaguil"
+      },
+      {
         "lang": "cs",
         "name": "Lelek černotemenný"
+      },
+      {
+        "lang": "en",
+        "name": "Black-shouldered nightjar"
+      },
+      {
+        "lang": "es",
+        "name": "Chotacabras hombrinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Engoulevent à épaulettes noires"
+      },
+      {
+        "lang": "sv",
+        "name": "Mörkskuldrad nattskärra"
       }
     ]
   },
@@ -906,6 +926,38 @@
       {
         "lang": "cs",
         "name": "Lelek středoasijský"
+      },
+      {
+        "lang": "de",
+        "name": "Vaurienachtschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Vaurie's nightjar"
+      },
+      {
+        "lang": "es",
+        "name": "Chotacabras de Vaurie"
+      },
+      {
+        "lang": "fr",
+        "name": "Engoulevent de Vaurie"
+      },
+      {
+        "lang": "it",
+        "name": "succiacapre di Vaurie"
+      },
+      {
+        "lang": "pl",
+        "name": "Lelek chiński"
+      },
+      {
+        "lang": "sv",
+        "name": "Tarimnattskärra"
+      },
+      {
+        "lang": "zh",
+        "name": "中亞夜鷹"
       }
     ]
   },

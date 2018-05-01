@@ -167,7 +167,16 @@
   },
   {
     "scientific_name": "Geothlypis semiflava",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Olive-crowned yellowthroat"
+      },
+      {
+        "lang": "es",
+        "name": "Mascarita coronioliva"
+      }
+    ]
   },
   {
     "scientific_name": "Geothlypis rostrata",

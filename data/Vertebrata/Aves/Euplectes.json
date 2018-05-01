@@ -107,8 +107,28 @@
     "scientific_name": "Euplectes macrourus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Gelbschulterwida"
+      },
+      {
         "lang": "en",
         "name": "Yellow-shouldered Widowbird"
+      },
+      {
+        "lang": "es",
+        "name": "Obispo dorsiamarillo"
+      },
+      {
+        "lang": "fr",
+        "name": "Euplecte à dos d'or"
+      },
+      {
+        "lang": "pt",
+        "name": "Viúva-de-manto-amarelo"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulryggig vidafink"
       }
     ]
   },
@@ -131,6 +151,10 @@
       {
         "lang": "en",
         "name": "Black-winged Red Bishop"
+      },
+      {
+        "lang": "es",
+        "name": "Obispo alinegro"
       },
       {
         "lang": "fr",

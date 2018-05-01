@@ -84,6 +84,10 @@
       {
         "lang": "en",
         "name": "Rufous-capped Brush-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes coronirrufo"
       }
     ]
   },
@@ -123,6 +127,19 @@
     ]
   },
   {
+    "scientific_name": "Atlapetes nigrifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-fronted brush-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes del Perijá"
+      }
+    ]
+  },
+  {
     "scientific_name": "Atlapetes nationi",
     "common_names": [
       {
@@ -132,11 +149,37 @@
     ]
   },
   {
+    "scientific_name": "Atlapetes meridae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Merida brush-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes de Mérida"
+      }
+    ]
+  },
+  {
     "scientific_name": "Atlapetes melanopsis",
     "common_names": [
       {
         "lang": "en",
         "name": "Black-spectacled Brush-finch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Atlapetes melanolaemus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-faced brush-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes carinegro"
       }
     ]
   },

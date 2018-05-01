@@ -375,6 +375,10 @@
         "name": "Тростинкова жовтурка"
       },
       {
+        "lang": "sr",
+        "name": "Барска стрнадица (Barska strnadica)"
+      },
+      {
         "lang": "sv",
         "name": "Sävsparv"
       },
@@ -688,6 +692,10 @@
       {
         "lang": "tr",
         "name": "Kara başlı kiraz kuşu"
+      },
+      {
+        "lang": "sr",
+        "name": "Црноглава стрнадица (Crnoglava strnadica)"
       }
     ]
   },
@@ -837,6 +845,10 @@
       {
         "lang": "ba",
         "name": "Һарытамаҡ турғай"
+      },
+      {
+        "lang": "be",
+        "name": "Аўсянка садовая"
       },
       {
         "lang": "bg",
@@ -1113,8 +1125,16 @@
         "name": "Һоло турғайы"
       },
       {
+        "lang": "be",
+        "name": "Аўсянка звычайная"
+      },
+      {
         "lang": "bg",
         "name": "Жълта овесарка"
+      },
+      {
+        "lang": "bn",
+        "name": "ইয়েলোহ্যামার"
       },
       {
         "lang": "br",
@@ -1443,6 +1463,13 @@
       {
         "lang": "ja",
         "name": "ヒゲホオジロ"
+      },
+      {
+        "lang": "sr",
+        "name": "Стрнадица камењарка",
+        "synonyms": [
+          "Strnadica kamenjarka"
+        ]
       },
       {
         "lang": "sv",

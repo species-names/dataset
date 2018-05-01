@@ -37,10 +37,140 @@
   },
   {
     "scientific_name": "Geospiza difficilis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Остроклюна земна чинка"
+      },
+      {
+        "lang": "ca",
+        "name": "Pinsà de les Galápagos de bec esmolat"
+      },
+      {
+        "lang": "cs",
+        "name": "Pěnkavka ostrozobá"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila daear pigfain"
+      },
+      {
+        "lang": "de",
+        "name": "Spitzschnabel-Grundfink"
+      },
+      {
+        "lang": "en",
+        "name": "Sharp-beaked ground finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón terrestre de pico afilado"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره زمینی نوک‌تیز"
+      },
+      {
+        "lang": "fr",
+        "name": "Géospize à bec pointu"
+      },
+      {
+        "lang": "he",
+        "name": "פרוש קרקעי חד-מקור"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyescsőrű földipinty"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシボソガラパゴスフィンチ"
+      },
+      {
+        "lang": "nl",
+        "name": "Spitssnavelgrondvink"
+      },
+      {
+        "lang": "sv",
+        "name": "spetsnäbbad darwinfink"
+      },
+      {
+        "lang": "ru",
+        "name": "Остроклювый земляной вьюрок"
+      }
+    ]
   },
   {
     "scientific_name": "Geospiza conirostris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Groot kaktusgrondvink"
+      },
+      {
+        "lang": "bg",
+        "name": "Голяма кактусова чинка"
+      },
+      {
+        "lang": "ca",
+        "name": "Pinsà de les Galápagos de bec cònic"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila daear pigfawr"
+      },
+      {
+        "lang": "de",
+        "name": "Opuntien-Grundfink"
+      },
+      {
+        "lang": "en",
+        "name": "Española cactus finch"
+      },
+      {
+        "lang": "es",
+        "name": "pinzón de Darwin conirrostro"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره کاکتوسی بزرگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Isokaktussirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Géospize à bec conique"
+      },
+      {
+        "lang": "he",
+        "name": "פרוש קקטוס גדול"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy kaktuszpinty"
+      },
+      {
+        "lang": "ja",
+        "name": "オオサボテンフィンチ"
+      },
+      {
+        "lang": "nl",
+        "name": "Españolagrondvink"
+      },
+      {
+        "lang": "ru",
+        "name": "Большой кактусовый земляной вьюрок"
+      },
+      {
+        "lang": "sv",
+        "name": "españoladarwinfink"
+      },
+      {
+        "lang": "zh",
+        "name": "大仙人掌地雀"
+      }
+    ]
   }
 ]

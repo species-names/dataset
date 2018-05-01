@@ -5,6 +5,31 @@
   },
   {
     "scientific_name": "Baeopogon clamans",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sjöstedt's greenbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul chillón"
+      },
+      {
+        "lang": "fi",
+        "name": "Kameruninhunajabulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul bruyant"
+      },
+      {
+        "lang": "hu",
+        "name": "Sjöstedt-bülbül"
+      },
+      {
+        "lang": "sv",
+        "name": "Sjöstedtgrönbulbyl"
+      }
+    ]
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "scientific_name": "Rhynchostruthus percivali",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Rhynchostruthus louisae",
-    "common_names": []
-  },
-  {
     "scientific_name": "Rhynchostruthus socotranus",
     "common_names": [
       {
@@ -17,6 +9,92 @@
       {
         "lang": "ja",
         "name": "キンバネマシコ"
+      },
+      {
+        "lang": "cy",
+        "name": "Tewbig euradain"
+      },
+      {
+        "lang": "de",
+        "name": "Sokotragimpel"
+      },
+      {
+        "lang": "eo",
+        "name": "Sokotra dikbekulo"
+      },
+      {
+        "lang": "fi",
+        "name": "Sokotrankeltasiipi"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand-verdier de Socotra"
+      },
+      {
+        "lang": "nl",
+        "name": "Socotragoudvleugelvink"
+      },
+      {
+        "lang": "sv",
+        "name": "sokotraguldvingefink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhynchostruthus percivali",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Arabian golden-winged grosbeak"
+      },
+      {
+        "lang": "eo",
+        "name": "Arabia dikbekulo"
+      },
+      {
+        "lang": "es",
+        "name": "picogordo árabe"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand-verdier d'Arabie"
+      },
+      {
+        "lang": "nl",
+        "name": "Arabische goudvleugelvink"
+      },
+      {
+        "lang": "sv",
+        "name": "Arabisk guldvingefink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhynchostruthus louisae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Somali golden-winged grosbeak"
+      },
+      {
+        "lang": "eo",
+        "name": "Somalia dikbekulo"
+      },
+      {
+        "lang": "es",
+        "name": "picogordo somalí de alas doradas"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand-verdier de Somalie"
+      },
+      {
+        "lang": "nl",
+        "name": "Somalische goudvleugelvink"
+      },
+      {
+        "lang": "sv",
+        "name": "Somalisk guldvingefink"
       }
     ]
   }

@@ -45,7 +45,7 @@
       },
       {
         "lang": "es",
-        "name": "Junco Ojilumbre"
+        "name": "Junco ojilumbre"
       },
       {
         "lang": "fr",
@@ -63,6 +63,10 @@
       {
         "lang": "en",
         "name": "Guadalupe Junco"
+      },
+      {
+        "lang": "es",
+        "name": "Junco de Guadalupe"
       }
     ]
   },
@@ -166,6 +170,19 @@
       {
         "lang": "zh",
         "name": "暗眼灯草鹀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Junco bairdi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Baird's junco"
+      },
+      {
+        "lang": "es",
+        "name": "Junco de Baird; junco de Baja California"
       }
     ]
   }

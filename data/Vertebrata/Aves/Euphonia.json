@@ -305,11 +305,29 @@
   },
   {
     "scientific_name": "Euphonia gouldi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Olive-backed Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia olivácea"
+      }
+    ]
   },
   {
     "scientific_name": "Euphonia fulvicrissa",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fulvous-vented euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia ventricanela"
+      }
+    ]
   },
   {
     "scientific_name": "Euphonia finschi",

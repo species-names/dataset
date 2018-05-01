@@ -166,7 +166,12 @@
   },
   {
     "scientific_name": "Carpodacus sillemi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sillem's Mountain Finch"
+      }
+    ]
   },
   {
     "scientific_name": "Carpodacus sibiricus",
@@ -497,6 +502,10 @@
     "scientific_name": "Carpodacus erythrinus",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Сачыўка звычайная"
+      },
+      {
         "lang": "bg",
         "name": "Червена чинка"
       },
@@ -587,6 +596,10 @@
       {
         "lang": "sk",
         "name": "Hýľ karmínový"
+      },
+      {
+        "lang": "sr",
+        "name": "Руменка (Rumenka)"
       },
       {
         "lang": "sv",

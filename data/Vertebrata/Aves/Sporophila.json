@@ -186,7 +186,16 @@
   },
   {
     "scientific_name": "Sporophila melanops",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hooded seedeater"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-capim-do-bananal"
+      }
+    ]
   },
   {
     "scientific_name": "Sporophila melanogaster",
@@ -194,6 +203,14 @@
       {
         "lang": "pt",
         "name": "Caboclinho-de-barriga-preta"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero ventrinegro"
+      },
+      {
+        "lang": "en",
+        "name": "Black-bellied seedeater"
       }
     ]
   },

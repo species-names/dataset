@@ -5,12 +5,29 @@
       {
         "lang": "en",
         "name": "Three-striped Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita cabecilistada"
       }
     ]
   },
   {
     "scientific_name": "Basileuterus trifasciatus",
     "common_names": []
+  },
+  {
+    "scientific_name": "Basileuterus tacarcunae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tacarcuna Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita de Tacarcuna"
+      }
+    ]
   },
   {
     "scientific_name": "Basileuterus signatus",
@@ -97,8 +114,30 @@
     ]
   },
   {
+    "scientific_name": "Basileuterus punctipectus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yungas Warbler"
+      }
+    ]
+  },
+  {
     "scientific_name": "Basileuterus nigrocristatus",
     "common_names": []
+  },
+  {
+    "scientific_name": "Basileuterus melanotis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-eared Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita costarricense"
+      }
+    ]
   },
   {
     "scientific_name": "Basileuterus melanogenys",
@@ -122,6 +161,10 @@
       {
         "lang": "en",
         "name": "Fan-tailed Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita roquera"
       }
     ]
   },

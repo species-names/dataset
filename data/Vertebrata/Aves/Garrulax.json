@@ -1,7 +1,24 @@
 [
   {
     "scientific_name": "Garrulax vassali",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-cheeked laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán cariblanco"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitkindad fnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "白脸噪鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Garrulax treacheri",
@@ -18,6 +35,22 @@
       {
         "lang": "en",
         "name": "Taiwan Hwamei"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán de Formosa"
+      },
+      {
+        "lang": "fr",
+        "name": "Garrulaxe de Taïwan"
+      },
+      {
+        "lang": "sv",
+        "name": "Taiwanesisk sångfnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "臺灣畫眉"
       }
     ]
   },
@@ -48,6 +81,22 @@
       {
         "lang": "en",
         "name": "White-browed Laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán payaso"
+      },
+      {
+        "lang": "fr",
+        "name": "Garrulaxe à sourcils blancs"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbrynad fnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "白颊噪鹛"
       }
     ]
   },
@@ -274,12 +323,20 @@
         "name": "Giant Laughingthrush"
       },
       {
+        "lang": "es",
+        "name": "Charlatán gigante"
+      },
+      {
         "lang": "fr",
         "name": "Garrulaxe géant"
       },
       {
         "lang": "nl",
         "name": "Reuzengaailijster"
+      },
+      {
+        "lang": "sv",
+        "name": "Större fnittertrast"
       },
       {
         "lang": "zh",
@@ -302,7 +359,20 @@
   },
   {
     "scientific_name": "Garrulax lugubris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán negro"
+      },
+      {
+        "lang": "zh",
+        "name": "黑噪鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Garrulax leucolophus",
@@ -388,7 +458,24 @@
   },
   {
     "scientific_name": "Garrulax gularis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-vented laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán colirrufo"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulbröstad fnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "栗臀噪鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Garrulax galbanus",
@@ -430,6 +517,18 @@
       {
         "lang": "en",
         "name": "Plain Laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán de David"
+      },
+      {
+        "lang": "sv",
+        "name": "Nordlig fnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "山噪鹛"
       }
     ]
   },
@@ -439,6 +538,26 @@
       {
         "lang": "en",
         "name": "Blue-crowned Laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán coroniazul"
+      },
+      {
+        "lang": "fr",
+        "name": "Garrulaxe de Courtois"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåkronad fnittertrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Hét cười mũ lam"
+      },
+      {
+        "lang": "zh",
+        "name": "靛冠噪鹛"
       }
     ]
   },
@@ -502,6 +621,26 @@
       {
         "lang": "en",
         "name": "Black-throated Laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán golinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Garrulaxe à joues blanches"
+      },
+      {
+        "lang": "id",
+        "name": "Poksay hitam"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartstrupig fnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "黑喉噪鹛"
       }
     ]
   },
@@ -597,6 +736,18 @@
       {
         "lang": "en",
         "name": "Buffy Laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán rojizo chino"
+      },
+      {
+        "lang": "sv",
+        "name": "Kinesisk fnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "棕噪鹛"
       }
     ]
   },
@@ -606,6 +757,18 @@
       {
         "lang": "en",
         "name": "Orange-breasted Laughingthrush"
+      },
+      {
+        "lang": "es",
+        "name": "Charlatán pechinaranja"
+      },
+      {
+        "lang": "sv",
+        "name": "Orangebröstad fnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "橙胸噪鹛"
       }
     ]
   },

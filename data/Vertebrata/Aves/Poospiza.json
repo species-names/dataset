@@ -1,7 +1,16 @@
 [
   {
     "scientific_name": "Poospiza whitii",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-and-chestnut Warbling-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Sietevestidos serrano"
+      }
+    ]
   },
   {
     "scientific_name": "Poospiza torquata",
@@ -40,20 +49,32 @@
     "scientific_name": "Poospiza rubecula",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Pila telorus brongoch"
+      },
+      {
         "lang": "en",
         "name": "Rufous-breasted warbling finch"
       },
       {
         "lang": "es",
-        "name": "Monterita pechirrufa"
+        "name": "moterita pechirrufa"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره چهچهه‌زن سینه‌حنایی"
       },
       {
         "lang": "fr",
         "name": "Chipiu rougegorge"
       },
       {
+        "lang": "nl",
+        "name": "Roodborstboomgors"
+      },
+      {
         "lang": "sv",
-        "name": "Svartmaskad sångfink"
+        "name": "svartmaskad sångfink"
       }
     ]
   },
@@ -92,10 +113,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Poospiza garleppi",
-    "common_names": []
-  },
-  {
     "scientific_name": "Poospiza erythrophrys",
     "common_names": [
       {
@@ -113,15 +130,34 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Cinereous warbling-finch"
+        "name": "Cinereous warbling finch"
       },
       {
         "lang": "es",
-        "name": "Monterita cinérea"
+        "name": "monterita cinérea",
+        "synonyms": [
+          "monterita cabeza negra"
+        ]
+      },
+      {
+        "lang": "fa",
+        "name": "سهره چهچهه‌زن خاکسترگون"
+      },
+      {
+        "lang": "fr",
+        "name": "Chipiu à tête cendrée"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze boomgors"
       },
       {
         "lang": "pt",
-        "name": "Capacetinho-do-oco-do-pau"
+        "name": "Capacetinho-cinza"
+      },
+      {
+        "lang": "sv",
+        "name": "grå sångfink"
       }
     ]
   },
@@ -130,11 +166,40 @@
     "common_names": []
   },
   {
-    "scientific_name": "Poospiza boliviana",
-    "common_names": []
+    "scientific_name": "Poospiza cabanisi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gray-throated warbling finch"
+      },
+      {
+        "lang": "es",
+        "name": "monterita rabadilla roja",
+        "synonyms": [
+          "monterita de Cabanis",
+          ""
+        ]
+      },
+      {
+        "lang": "fa",
+        "name": "سهره چهچهه‌زن گلوخاکستری"
+      },
+      {
+        "lang": "fr",
+        "name": "Chipiu de Cabanis"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijsborstboomgors"
+      },
+      {
+        "lang": "sv",
+        "name": "gråstrupig sångfink"
+      }
+    ]
   },
   {
-    "scientific_name": "Poospiza baeri",
+    "scientific_name": "Poospiza boliviana",
     "common_names": []
   },
   {
@@ -150,6 +215,26 @@
         "synonyms": [
           "monterita de cola simple"
         ]
+      },
+      {
+        "lang": "cy",
+        "name": "Pila telorus cynffon blaen"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره چهچهه‌زن دم‌ساده"
+      },
+      {
+        "lang": "fr",
+        "name": "Chipiu alticole"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijsstaartboomgors"
+      },
+      {
+        "lang": "sv",
+        "name": "marañónsångfink"
       }
     ]
   }

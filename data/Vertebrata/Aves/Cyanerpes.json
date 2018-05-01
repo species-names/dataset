@@ -44,7 +44,10 @@
       },
       {
         "lang": "hu",
-        "name": "kék cize"
+        "name": "Kék cize",
+        "synonyms": [
+          "kék cukormadár"
+        ]
       },
       {
         "lang": "it",
@@ -121,6 +124,10 @@
       {
         "lang": "fr",
         "name": "Guit-guit céruléen"
+      },
+      {
+        "lang": "hu",
+        "name": "Indigócukormadár"
       },
       {
         "lang": "nl",

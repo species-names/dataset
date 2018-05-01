@@ -1,6 +1,27 @@
 [
   {
     "scientific_name": "Pachyphantes superciliosus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حباك غليظ المنقار"
+      },
+      {
+        "lang": "en",
+        "name": "Compact weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor piquigrueso"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin gros-bec"
+      },
+      {
+        "lang": "sv",
+        "name": "Kompakt vävare"
+      }
+    ]
   }
 ]

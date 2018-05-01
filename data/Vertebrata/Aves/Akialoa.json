@@ -1,14 +1,6 @@
 [
   {
-    "scientific_name": "Akialoa upupirostris",
-    "common_names": []
-  },
-  {
     "scientific_name": "Akialoa stejnegeri",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Akialoa obscura",
     "common_names": []
   },
   {
@@ -16,7 +8,37 @@
     "common_names": []
   },
   {
+    "scientific_name": "Akialoa obscura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lesser Akialoa"
+      },
+      {
+        "lang": "haw",
+        "name": "ʻakialoa"
+      }
+    ]
+  },
+  {
     "scientific_name": "Akialoa ellisiana",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Oahu Akialoa"
+      },
+      {
+        "lang": "es",
+        "name": "Akialoa mayor"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy akiapola"
+      },
+      {
+        "lang": "pl",
+        "name": "Hawajka sierpodzioba"
+      }
+    ]
   }
 ]

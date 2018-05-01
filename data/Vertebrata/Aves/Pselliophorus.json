@@ -10,6 +10,31 @@
   },
   {
     "scientific_name": "Pselliophorus luteoviridis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Bras gwyrddfelyn"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-green finch"
+      },
+      {
+        "lang": "es",
+        "name": "cerquero verdiamarillo"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelgroene struikgors"
+      },
+      {
+        "lang": "no",
+        "name": "Sitronbuksespurv"
+      },
+      {
+        "lang": "sv",
+        "name": "gulgrön snårsparv"
+      }
+    ]
   }
 ]

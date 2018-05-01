@@ -1,6 +1,23 @@
 [
   {
     "scientific_name": "Brachycope anomala",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bob-tailed weaver"
+      },
+      {
+        "lang": "es",
+        "name": "Tejedor anómalo"
+      },
+      {
+        "lang": "fr",
+        "name": "Brachycope du Congo"
+      },
+      {
+        "lang": "sv",
+        "name": "Kortstjärtad vävare"
+      }
+    ]
   }
 ]

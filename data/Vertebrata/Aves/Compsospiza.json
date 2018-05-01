@@ -1,10 +1,56 @@
 [
   {
     "scientific_name": "Compsospiza garleppi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cochabamba mountain finch"
+      },
+      {
+        "lang": "es",
+        "name": "Monterita de Cochabamba"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره کوهستانی کوچابامبا"
+      },
+      {
+        "lang": "fr",
+        "name": "Chipiu de Cochabamba"
+      },
+      {
+        "lang": "nl",
+        "name": "Cochabambaboomgors"
+      },
+      {
+        "lang": "sv",
+        "name": "cochabambafink"
+      }
+    ]
   },
   {
     "scientific_name": "Compsospiza baeri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tucumán mountain finch"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره کوهستانی توکومان"
+      },
+      {
+        "lang": "fr",
+        "name": "Chipiu de Tucuman"
+      },
+      {
+        "lang": "nl",
+        "name": "Tucumánboomgors"
+      },
+      {
+        "lang": "sv",
+        "name": "tucumánfink"
+      }
+    ]
   }
 ]

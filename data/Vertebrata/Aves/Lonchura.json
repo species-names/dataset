@@ -9,7 +9,32 @@
   },
   {
     "scientific_name": "Lonchura teerinki",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Schwarzbrustnonne"
+      },
+      {
+        "lang": "en",
+        "name": "Black-breasted mannikin"
+      },
+      {
+        "lang": "es",
+        "name": "Capuchino pechinegro"
+      },
+      {
+        "lang": "fi",
+        "name": "Niittymanikki"
+      },
+      {
+        "lang": "fr",
+        "name": "Capucin à poitrine noire"
+      },
+      {
+        "lang": "zh",
+        "name": "黑胸文鸟"
+      }
+    ]
   },
   {
     "scientific_name": "Lonchura stygia",
@@ -50,7 +75,52 @@
   },
   {
     "scientific_name": "Lonchura spectabilis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "مونيا مقلنس"
+      },
+      {
+        "lang": "de",
+        "name": "Prachtnonne"
+      },
+      {
+        "lang": "en",
+        "name": "Hooded mannikin"
+      },
+      {
+        "lang": "es",
+        "name": "Capuchino vistoso"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustahuppumanikki"
+      },
+      {
+        "lang": "fr",
+        "name": "Capucin à capuchon"
+      },
+      {
+        "lang": "it",
+        "name": "cappuccino pettobianco"
+      },
+      {
+        "lang": "no",
+        "name": "Hettenonne"
+      },
+      {
+        "lang": "pt",
+        "name": "capuchinho-vistoso"
+      },
+      {
+        "lang": "sv",
+        "name": "Gräsmunia"
+      },
+      {
+        "lang": "zh",
+        "name": "黑巾文鸟"
+      }
+    ]
   },
   {
     "scientific_name": "Lonchura quinticolor",
@@ -148,6 +218,10 @@
       {
         "lang": "ar",
         "name": "جاوا سبارو"
+      },
+      {
+        "lang": "ceb",
+        "name": "maya (mayang bungol)"
       },
       {
         "lang": "bg",
@@ -377,7 +451,32 @@
   },
   {
     "scientific_name": "Lonchura leucogastroides",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Javabronzemännchen"
+      },
+      {
+        "lang": "en",
+        "name": "Javan munia"
+      },
+      {
+        "lang": "es",
+        "name": "Capuchino de Java"
+      },
+      {
+        "lang": "fr",
+        "name": "Capucin javanais"
+      },
+      {
+        "lang": "id",
+        "name": "Bondol jawa"
+      },
+      {
+        "lang": "zh",
+        "name": "黑喉文鸟"
+      }
+    ]
   },
   {
     "scientific_name": "Lonchura leucogastra",
@@ -385,7 +484,72 @@
   },
   {
     "scientific_name": "Lonchura kelaarti",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "مونيا أسود العنق"
+      },
+      {
+        "lang": "bh",
+        "name": "लौन्चुरा केलार्टी"
+      },
+      {
+        "lang": "cy",
+        "name": "Manicin torgoch"
+      },
+      {
+        "lang": "de",
+        "name": "Bergbronzemännchen"
+      },
+      {
+        "lang": "en",
+        "name": "Black-throated munia"
+      },
+      {
+        "lang": "es",
+        "name": "Capuchino golinegro"
+      },
+      {
+        "lang": "fi",
+        "name": "Suomuvatsamanikki"
+      },
+      {
+        "lang": "it",
+        "name": "Passero di montagna"
+      },
+      {
+        "lang": "fr",
+        "name": "Capucin à ventre roux"
+      },
+      {
+        "lang": "ml",
+        "name": "തോട്ടക്കാരൻ കിളി"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkeelbronzemannetje"
+      },
+      {
+        "lang": "no",
+        "name": "Masurnonne"
+      },
+      {
+        "lang": "pt",
+        "name": "Capuchinho-de-garganta-preta"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartstrupig munia"
+      },
+      {
+        "lang": "ta",
+        "name": "கருந்தொண்டைச் சில்லை"
+      },
+      {
+        "lang": "zh",
+        "name": "红胸文鸟"
+      }
+    ]
   },
   {
     "scientific_name": "Lonchura hunsteini",
@@ -402,7 +566,40 @@
   },
   {
     "scientific_name": "Lonchura grandis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "مونيا كبير"
+      },
+      {
+        "lang": "de",
+        "name": "Dickschnabelnonne"
+      },
+      {
+        "lang": "en",
+        "name": "Great-billed mannikin"
+      },
+      {
+        "lang": "es",
+        "name": "Capuchino grande"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand Capucin (oiseau)"
+      },
+      {
+        "lang": "it",
+        "name": "cappuccino beccogrosso"
+      },
+      {
+        "lang": "sv",
+        "name": "Tjocknäbbad munia"
+      },
+      {
+        "lang": "zh",
+        "name": "大嘴文鸟"
+      }
+    ]
   },
   {
     "scientific_name": "Lonchura fuscata",
@@ -447,7 +644,52 @@
   },
   {
     "scientific_name": "Lonchura fuscans",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "مونيا أغبس"
+      },
+      {
+        "lang": "de",
+        "name": "Borneo-Bronzemännchen"
+      },
+      {
+        "lang": "en",
+        "name": "Dusky munia"
+      },
+      {
+        "lang": "es",
+        "name": "Capuchino sombrío"
+      },
+      {
+        "lang": "fi",
+        "name": "Borneonmanikki"
+      },
+      {
+        "lang": "fr",
+        "name": "Capucin sombre"
+      },
+      {
+        "lang": "id",
+        "name": "Bondol kalimantan"
+      },
+      {
+        "lang": "no",
+        "name": "Kullnonne"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Bondol Kalimantan"
+      },
+      {
+        "lang": "sv",
+        "name": "Borneomunia"
+      },
+      {
+        "lang": "zh",
+        "name": "暗栗文鸟"
+      }
+    ]
   },
   {
     "scientific_name": "Lonchura fringilloides",

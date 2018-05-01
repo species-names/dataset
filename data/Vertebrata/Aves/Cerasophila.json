@@ -1,6 +1,27 @@
 [
   {
     "scientific_name": "Cerasophila thompsoni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بلبل أبيض الرأس"
+      },
+      {
+        "lang": "en",
+        "name": "White-headed bulbul"
+      },
+      {
+        "lang": "es",
+        "name": "bulbul cabeciblanco"
+      },
+      {
+        "lang": "hu",
+        "name": "Thompson-bülbül"
+      },
+      {
+        "lang": "sv",
+        "name": "Vithuvad bulbyl"
+      }
+    ]
   }
 ]

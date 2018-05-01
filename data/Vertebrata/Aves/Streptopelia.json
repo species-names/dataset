@@ -318,6 +318,10 @@
     "scientific_name": "Streptopelia semitorquata",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Groot-rooioogtortelduif"
+      },
+      {
         "lang": "ar",
         "name": "اليمامة حمراء العين"
       },
@@ -326,16 +330,36 @@
         "name": "Hrdlička červenooká"
       },
       {
+        "lang": "de",
+        "name": "Halbmondtaube"
+      },
+      {
         "lang": "en",
         "name": "Red-eyed dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tórtola ojirroja"
       },
       {
         "lang": "eo",
         "name": "Ruĝokula turto"
       },
       {
+        "lang": "fi",
+        "name": "Savanniturturikyyhky"
+      },
+      {
         "lang": "fr",
         "name": "Tourterelle à collier"
+      },
+      {
+        "lang": "no",
+        "name": "Rødøyedue"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödögd duva"
       }
     ]
   },
