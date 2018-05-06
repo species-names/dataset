@@ -71,7 +71,40 @@
   },
   {
     "scientific_name": "Rhipidura tenebrosa",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Cynffondaenwr tywyll"
+      },
+      {
+        "lang": "en",
+        "name": "Makira fantail"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی ماکیرا"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure ombré"
+      },
+      {
+        "lang": "nl",
+        "name": "Donkere waaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "ماکیرا پکھی پوجھل"
+      },
+      {
+        "lang": "sv",
+        "name": "makirasolfjäderstjärt"
+      },
+      {
+        "lang": "vi",
+        "name": "Rẻ quạt Makira"
+      }
+    ]
   },
   {
     "scientific_name": "Rhipidura superflua",
@@ -362,6 +395,10 @@
     "scientific_name": "Rhipidura personata",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Cynffondaenwr Kandavu"
+      },
+      {
         "lang": "en",
         "name": "Kadavu fantail"
       },
@@ -386,8 +423,12 @@
         "name": "کاڈاوو پکھی پوچھل"
       },
       {
+        "lang": "ru",
+        "name": "Кандавуская веерохвостка"
+      },
+      {
         "lang": "sv",
-        "name": "Kadavusolfjäderstjärt"
+        "name": "kadavusolfjäderstjärt"
       }
     ]
   },
@@ -416,7 +457,19 @@
       },
       {
         "lang": "sv",
-        "name": "Tanimbarsolfjäderstjärt"
+        "name": "tanimbarsolfjäderstjärt"
+      },
+      {
+        "lang": "cy",
+        "name": "Cynffondaenwr cynffonhir"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی دم‌دراز"
+      },
+      {
+        "lang": "nl",
+        "name": "Sclaters waaierstaart"
       }
     ]
   },
@@ -477,6 +530,26 @@
       {
         "lang": "en",
         "name": "Malaita Fantail"
+      },
+      {
+        "lang": "cy",
+        "name": "Cynffondaenwr Malaita"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی مالایتا"
+      },
+      {
+        "lang": "nl",
+        "name": "Malaitawaaierstaart"
+      },
+      {
+        "lang": "pnb",
+        "name": "مالیٹا پکھی پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "malaitasolfjäderstjärt"
       }
     ]
   },
@@ -580,7 +653,19 @@
       },
       {
         "lang": "sv",
-        "name": "Roststjärtadsolfjäderstjärt"
+        "name": "roststjärtadsolfjäderstjärt"
+      },
+      {
+        "lang": "cy",
+        "name": "Cynffondaenwr cynffonwinau"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌بادبزنی دم‌دارچینی"
+      },
+      {
+        "lang": "fr",
+        "name": "Rhipidure brun-roux"
       }
     ]
   },

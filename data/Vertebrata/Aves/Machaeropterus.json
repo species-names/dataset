@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Machaeropterus eckelberryi",
-    "common_names": []
-  },
-  {
     "scientific_name": "Machaeropterus striolatus",
     "common_names": [
       {
@@ -51,6 +47,19 @@
       {
         "lang": "pt-br",
         "name": "Uirapuru-cigarra"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Machaeropterus eckelberryi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Painted manakin"
+      },
+      {
+        "lang": "es",
+        "name": "Saltarín pintado"
       }
     ]
   },

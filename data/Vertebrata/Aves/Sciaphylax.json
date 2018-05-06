@@ -1,10 +1,32 @@
 [
   {
     "scientific_name": "Sciaphylax hemimelaena",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Southern Chestnut-tailed Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero colicastaño sureño"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-cauda-castanha"
+      }
+    ]
   },
   {
     "scientific_name": "Sciaphylax castanea",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern chestnut-tailed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero colicastaño norteño"
+      }
+    ]
   }
 ]

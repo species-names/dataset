@@ -1,7 +1,16 @@
 [
   {
     "scientific_name": "Margarornis stellatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fulvous-dotted treerunner"
+      },
+      {
+        "lang": "es",
+        "name": "Subepalo estrellado"
+      }
+    ]
   },
   {
     "scientific_name": "Margarornis squamiger",

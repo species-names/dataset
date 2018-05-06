@@ -1,18 +1,54 @@
 [
   {
     "scientific_name": "Sipia palliata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Magdalena Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Magdalena"
+      }
+    ]
   },
   {
     "scientific_name": "Sipia nigricauda",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Esmeraldas antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Esmeraldas"
+      }
+    ]
   },
   {
     "scientific_name": "Sipia laemosticta",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dull-mantled Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero guardarribera"
+      }
+    ]
   },
   {
     "scientific_name": "Sipia berlepschi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stub-tailed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero colimocho"
+      }
+    ]
   }
 ]

@@ -1,6 +1,19 @@
 [
   {
     "scientific_name": "Myrmophylax atrothorax",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-throated antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero gorginegro"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-peito-preto"
+      }
+    ]
   }
 ]

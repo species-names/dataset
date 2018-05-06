@@ -1,10 +1,32 @@
 [
   {
     "scientific_name": "Oneillornis salvini",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero gorgiblanco"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mãe-de-taoca-de-cauda-barrada"
+      }
+    ]
   },
   {
     "scientific_name": "Oneillornis lunulatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lunulated Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero lunulado"
+      }
+    ]
   }
 ]

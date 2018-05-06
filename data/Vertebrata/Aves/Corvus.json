@@ -746,6 +746,31 @@
     ]
   },
   {
+    "scientific_name": "Corvus insularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bismarck crow"
+      },
+      {
+        "lang": "fa",
+        "name": "کلاغ بیسمارک"
+      },
+      {
+        "lang": "nl",
+        "name": "Bismarckkraai"
+      },
+      {
+        "lang": "pnb",
+        "name": "بسمارک کاں"
+      },
+      {
+        "lang": "sv",
+        "name": "bismarckkråka"
+      }
+    ]
+  },
+  {
     "scientific_name": "Corvus imparatus",
     "common_names": [
       {
@@ -1287,6 +1312,10 @@
     "scientific_name": "Corvus crassirostris",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Dikbekraaf"
+      },
+      {
         "lang": "de",
         "name": "Erzrabe"
       },
@@ -1313,6 +1342,10 @@
       {
         "lang": "ja",
         "name": "オオハシガラス"
+      },
+      {
+        "lang": "nl",
+        "name": "Dikbekraaf"
       }
     ]
   },
@@ -1890,7 +1923,10 @@
       },
       {
         "lang": "hu",
-        "name": "Dolmányos varjú"
+        "name": "Dolmányos varjú",
+        "synonyms": [
+          "szürke varjú"
+        ]
       },
       {
         "lang": "is",
@@ -2794,6 +2830,10 @@
       {
         "lang": "fr",
         "name": "Corbeau à nuque blanche"
+      },
+      {
+        "lang": "nl",
+        "name": "Witnekraaf"
       }
     ]
   }

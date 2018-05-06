@@ -1,14 +1,45 @@
 [
   {
     "scientific_name": "Hafferia zeledoni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Zeledon's antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Zeledón"
+      }
+    ]
   },
   {
     "scientific_name": "Hafferia immaculata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-lored antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero inmaculado"
+      }
+    ]
   },
   {
     "scientific_name": "Hafferia fortis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sooty antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero tiznado"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-taoca"
+      }
+    ]
   }
 ]

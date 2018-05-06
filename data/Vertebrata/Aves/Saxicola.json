@@ -434,6 +434,10 @@
         "name": "Səhra çəkçəkisi"
       },
       {
+        "lang": "cy",
+        "name": "Crec Stoliczka"
+      },
+      {
         "lang": "en",
         "name": "White-browed Bush Chat"
       },
@@ -451,7 +455,7 @@
       },
       {
         "lang": "sv",
-        "name": "Sindbuskskvätta"
+        "name": "sindbuskskvätta"
       }
     ]
   },
@@ -582,11 +586,27 @@
       },
       {
         "lang": "sv",
-        "name": "Mongolbuskskvätta"
+        "name": "mongolbuskskvätta"
       },
       {
         "lang": "zh",
         "name": "白喉石䳭"
+      },
+      {
+        "lang": "az",
+        "name": "Böyük çəkçəki"
+      },
+      {
+        "lang": "cy",
+        "name": "Crec Hodgson"
+      },
+      {
+        "lang": "ne",
+        "name": "सेतोकण्ठे धिप्सी"
+      },
+      {
+        "lang": "pl",
+        "name": "Kląskawka mongolska"
       }
     ]
   },
@@ -623,7 +643,7 @@
       },
       {
         "lang": "sv",
-        "name": "Vitbukad buskskvätta"
+        "name": "vitbukad buskskvätta"
       }
     ]
   },
@@ -681,7 +701,19 @@
       },
       {
         "lang": "sv",
-        "name": "Kanariebuskskvätta"
+        "name": "kanariebuskskvätta"
+      },
+      {
+        "lang": "cy",
+        "name": "Crec Fuerteventura"
+      },
+      {
+        "lang": "eo",
+        "name": "Fuerteventura saksikolo"
+      },
+      {
+        "lang": "nl",
+        "name": "Canarische roodborsttapuit"
       }
     ]
   },

@@ -1,34 +1,134 @@
 [
   {
     "scientific_name": "Myrmelastes schistaceus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Slate-colored antbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-cinza"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero pizarroso"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmelastes saturatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Roraiman antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero del Roraima"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-roraima"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmelastes rufifacies",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-faced antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero del Tapajós"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Formigueiro-de-cara-ruiva"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmelastes leucostigma",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spot-winged antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero alimoteado"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-asa-pintada"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmelastes hyperythrus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Hormiguero plomizo"
+      },
+      {
+        "lang": "en",
+        "name": "Plumbeous antbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-chumbo"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmelastes humaythae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Humaita antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Humaitá"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-cauda-curta"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmelastes caurensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Caura antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero del Caura"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-do-caura"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmelastes brunneiceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brownish-headed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero de Carabaya"
+      }
+    ]
   }
 ]

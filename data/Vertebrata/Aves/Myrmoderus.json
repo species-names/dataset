@@ -1,19 +1,67 @@
 [
   {
     "scientific_name": "Myrmoderus squamosus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Hormiguero escamoso"
+      },
+      {
+        "lang": "en",
+        "name": "Squamate antbird"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmoderus ruficauda",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scalloped Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero festoneado"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-de-cauda-ruiva"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmoderus loricatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bibbed antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero enmascarado"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-assobiador"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmoderus ferrugineus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ferruginous-backed Antbird"
+      },
+      {
+        "lang": "es",
+        "name": "Hormiguero ferruginoso"
+      },
+      {
+        "lang": "pt",
+        "name": "Formigueiro-ferrugem"
+      }
+    ]
   },
   {
     "scientific_name": "Myrmoderus eowilsoni",

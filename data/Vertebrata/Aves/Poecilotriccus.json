@@ -170,7 +170,20 @@
   },
   {
     "scientific_name": "Poecilotriccus capitalis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-and-white Tody-Tyrant"
+      },
+      {
+        "lang": "es",
+        "name": "Titirijí pío"
+      },
+      {
+        "lang": "pt",
+        "name": "Maria-picaça"
+      }
+    ]
   },
   {
     "scientific_name": "Poecilotriccus calopterus",

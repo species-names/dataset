@@ -9,6 +9,10 @@
     ]
   },
   {
+    "scientific_name": "Automolus rufipectus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Automolus rubiginosus",
     "common_names": [
       {
@@ -70,6 +74,27 @@
       {
         "lang": "en",
         "name": "White-eyed Foliage-gleaner"
+      },
+      {
+        "lang": "pt",
+        "name": "Barranqueiro-de-olho-branco"
+      },
+      {
+        "lang": "es",
+        "name": "Ticotico ojiblanco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Automolus lammi",
+    "common_names": [
+      {
+        "lang": "pt",
+        "name": "Barranqueiro-do-nordeste"
+      },
+      {
+        "lang": "es",
+        "name": "Pernambuco foliage-gleaner"
       }
     ]
   },
@@ -83,6 +108,10 @@
       {
         "lang": "pt",
         "name": "Barranqueiro-pardo"
+      },
+      {
+        "lang": "es",
+        "name": "Ticotico oliváceo"
       }
     ]
   }

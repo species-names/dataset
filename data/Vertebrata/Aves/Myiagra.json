@@ -328,7 +328,40 @@
   },
   {
     "scientific_name": "Myiagra freycineti",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Muchálek guamský"
+      },
+      {
+        "lang": "de",
+        "name": "Guam-Monarch"
+      },
+      {
+        "lang": "en",
+        "name": "Guam flycatcher"
+      },
+      {
+        "lang": "hu",
+        "name": "Guami császárlégykapó"
+      },
+      {
+        "lang": "nl",
+        "name": "Guammonarch"
+      },
+      {
+        "lang": "pl",
+        "name": "Muszarka rdzawopierśna"
+      },
+      {
+        "lang": "sv",
+        "name": "guammonark"
+      },
+      {
+        "lang": "zh",
+        "name": "關島闊嘴鳥"
+      }
+    ]
   },
   {
     "scientific_name": "Myiagra ferrocyanea",

@@ -65,7 +65,16 @@
   },
   {
     "scientific_name": "Attila citriniventris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Citron-bellied attila"
+      },
+      {
+        "lang": "es",
+        "name": "Atila citrino"
+      }
+    ]
   },
   {
     "scientific_name": "Attila cinnamomeus",

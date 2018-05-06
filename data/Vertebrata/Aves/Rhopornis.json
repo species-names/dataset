@@ -3,12 +3,36 @@
     "scientific_name": "Rhopornis ardesiacus",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Aderyn morgrug main"
+      },
+      {
         "lang": "en",
-        "name": "Slender Antbird"
+        "name": "Slender antbird"
+      },
+      {
+        "lang": "es",
+        "name": "hormiguero esbelto"
+      },
+      {
+        "lang": "nl",
+        "name": "Bahiamiervogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Skifergloauge"
       },
       {
         "lang": "pt",
         "name": "Gravatazeiro"
+      },
+      {
+        "lang": "ru",
+        "name": "Длиннохвостая муравьеловка"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödögd myrfågel"
       }
     ]
   }
