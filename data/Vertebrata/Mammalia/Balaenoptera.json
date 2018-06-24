@@ -402,7 +402,10 @@
       },
       {
         "lang": "hu",
-        "name": "Kék bálna"
+        "name": "Kék bálna",
+        "synonyms": [
+          "óriás bálna"
+        ]
       },
       {
         "lang": "mk",
@@ -612,6 +615,10 @@
   {
     "scientific_name": "Balaenoptera borealis",
     "common_names": [
+      {
+        "lang": "be",
+        "name": "Сейвал"
+      },
       {
         "lang": "ca",
         "name": "Rorqual boreal"

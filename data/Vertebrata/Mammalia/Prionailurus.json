@@ -3,6 +3,10 @@
     "scientific_name": "Prionailurus viverrinus",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Кот-рыбак"
+      },
+      {
         "lang": "bg",
         "name": "Рибна котка"
       },
@@ -48,6 +52,10 @@
         "synonyms": [
           "Chat pêcheur"
         ]
+      },
+      {
+        "lang": "hu",
+        "name": "Halászmacska"
       },
       {
         "lang": "ja",
@@ -154,8 +162,16 @@
         ]
       },
       {
+        "lang": "gl",
+        "name": "Gato ferruxento"
+      },
+      {
         "lang": "gu",
         "name": "કાટવર્ણી ટપકાંવાળી બિલાડી"
+      },
+      {
+        "lang": "hu",
+        "name": "Rozsdafoltos macska"
       },
       {
         "lang": "it",
@@ -242,6 +258,10 @@
         "name": "Chat à tête plate"
       },
       {
+        "lang": "hu",
+        "name": "Laposfejű macska"
+      },
+      {
         "lang": "it",
         "name": "Gatto a testa piatta"
       },
@@ -291,37 +311,8 @@
     ]
   },
   {
-    "scientific_name": "Prionailurus iriomotensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Iriomote Cat"
-      },
-      {
-        "lang": "es",
-        "name": "Gato de Iriomote"
-      },
-      {
-        "lang": "ja",
-        "name": "イリオモテヤマネコ"
-      },
-      {
-        "lang": "ko",
-        "name": "이리오모테살쾡이"
-      },
-      {
-        "lang": "pt",
-        "name": "Gato-de-Iriomote"
-      },
-      {
-        "lang": "tr",
-        "name": "Iriomote kedisi"
-      },
-      {
-        "lang": "th",
-        "name": "แมวอิืริโอะโมะเตะ"
-      }
-    ]
+    "scientific_name": "Prionailurus javanensis",
+    "common_names": []
   },
   {
     "scientific_name": "Prionailurus bengalensis",
@@ -371,7 +362,10 @@
       },
       {
         "lang": "hu",
-        "name": "Leopárdmacska"
+        "name": "Leopárdmacska",
+        "synonyms": [
+          "bengáli törpemacska"
+        ]
       },
       {
         "lang": "it",

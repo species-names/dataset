@@ -82,6 +82,13 @@
         "name": "Meža kaķis"
       },
       {
+        "lang": "mwl",
+        "name": "Gato muntés",
+        "synonyms": [
+          "Gato brabo"
+        ]
+      },
+      {
         "lang": "nl",
         "name": "Wilde kat"
       },
@@ -107,7 +114,7 @@
       },
       {
         "lang": "pt",
-        "name": "Gato-selvagem"
+        "name": "Gato-bravo"
       },
       {
         "lang": "sh",
@@ -207,6 +214,10 @@
         "name": "Såndkotz"
       },
       {
+        "lang": "be",
+        "name": "Барханны кот"
+      },
+      {
         "lang": "br",
         "name": "Kazh an traezh"
       },
@@ -253,7 +264,10 @@
       },
       {
         "lang": "hu",
-        "name": "homoki macska"
+        "name": "Homoki macska",
+        "synonyms": [
+          "margaritamacska"
+        ]
       },
       {
         "lang": "it",
@@ -333,6 +347,10 @@
       {
         "lang": "ar",
         "name": "سنور الأدغال"
+      },
+      {
+        "lang": "be",
+        "name": "Чаротавы кот"
       },
       {
         "lang": "bg",
@@ -446,10 +464,6 @@
         "name": "Sazlık kedisi"
       }
     ]
-  },
-  {
-    "scientific_name": "Felis catus",
-    "common_names": []
   },
   {
     "scientific_name": "Felis bieti",

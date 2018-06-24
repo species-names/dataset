@@ -16,12 +16,16 @@
     "scientific_name": "Genetta tigrina",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Grootkolmuskeljaatkat"
+      },
+      {
         "lang": "de",
         "name": "Südliche Großfleckgenette"
       },
       {
         "lang": "en",
-        "name": "Cape Genet"
+        "name": "Cape genet"
       },
       {
         "lang": "pl",
@@ -184,6 +188,10 @@
         "name": "Paprastoji geneta"
       },
       {
+        "lang": "mwl",
+        "name": "Gineta"
+      },
+      {
         "lang": "nl",
         "name": "Genetkat"
       },
@@ -193,7 +201,10 @@
       },
       {
         "lang": "pt",
-        "name": "Gineta"
+        "name": "Gineta",
+        "synonyms": [
+          "Geneta"
+        ]
       },
       {
         "lang": "ru",

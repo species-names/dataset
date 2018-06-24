@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Panthera atrox",
+    "common_names": []
+  },
+  {
     "scientific_name": "Panthera uncia",
     "common_names": [
       {
@@ -8,6 +12,10 @@
         "synonyms": [
           "설표"
         ]
+      },
+      {
+        "lang": "be",
+        "name": "Снежны барс"
       },
       {
         "lang": "bg",
@@ -186,6 +194,10 @@
       {
         "lang": "cs",
         "name": "Tygr"
+      },
+      {
+        "lang": "cu",
+        "name": "Тїгръ"
       },
       {
         "lang": "sr",
@@ -396,139 +408,6 @@
     ]
   },
   {
-    "scientific_name": "Panthera sumatrae",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Panthera sondaica",
-    "common_names": [
-      {
-        "lang": "az",
-        "name": "Yava pələngi"
-      },
-      {
-        "lang": "bar",
-        "name": "Java-Tieger"
-      },
-      {
-        "lang": "bg",
-        "name": "Явански тигър"
-      },
-      {
-        "lang": "bn",
-        "name": "জাভার বাঘ"
-      },
-      {
-        "lang": "ca",
-        "name": "Tigre de Java"
-      },
-      {
-        "lang": "cs ",
-        "name": "Tygr jávský"
-      },
-      {
-        "lang": " de",
-        "name": "Java-Tiger"
-      },
-      {
-        "lang": "en",
-        "name": "Javan Tiger"
-      },
-      {
-        "lang": "es",
-        "name": "Tigre de Java"
-      },
-      {
-        "lang": "et",
-        "name": "Jaava tiiger"
-      },
-      {
-        "lang": "fi",
-        "name": "Jaavantiikeri"
-      },
-      {
-        "lang": "fr",
-        "name": "Tigre de Java"
-      },
-      {
-        "lang": "hr",
-        "name": "Javanski tigar"
-      },
-      {
-        "lang": "hu",
-        "name": "Jávai tigris"
-      },
-      {
-        "lang": "id",
-        "name": "Harimau Jawa"
-      },
-      {
-        "lang": "ja",
-        "name": "ジャワトラ"
-      },
-      {
-        "lang": "ko",
-        "name": "자와호랑이"
-      },
-      {
-        "lang": "lv",
-        "name": "Javas tīģeris"
-      },
-      {
-        "lang": "ms",
-        "name": "Harimau Jawa"
-      },
-      {
-        "lang": "nl",
-        "name": "Javaanse tijger"
-      },
-      {
-        "lang": "no",
-        "name": "Jaavantiikeri"
-      },
-      {
-        "lang": "pl",
-        "name": "Tygrys jawajski"
-      },
-      {
-        "lang": "pt",
-        "name": "Tigre de Java"
-      },
-      {
-        "lang": "ru",
-        "name": "Яванский тигр"
-      },
-      {
-        "lang": "sl",
-        "name": "Javanski tiger"
-      },
-      {
-        "lang": "sr",
-        "name": "Јавански тигар"
-      },
-      {
-        "lang": "sv",
-        "name": "Javatiger"
-      },
-      {
-        "lang": "th",
-        "name": "เสือโคร่งชวา"
-      },
-      {
-        "lang": "uk",
-        "name": "Яванський тигр"
-      },
-      {
-        "lang": "vi",
-        "name": "Hổ Java"
-      },
-      {
-        "lang": "zh",
-        "name": "爪哇虎"
-      }
-    ]
-  },
-  {
     "scientific_name": "Panthera pardus pardus",
     "common_names": [
       {
@@ -683,6 +562,10 @@
       {
         "lang": "cs",
         "name": "Levhart skvrnitý"
+      },
+      {
+        "lang": "cu",
+        "name": "Лєопардъ"
       },
       {
         "lang": "da",
@@ -852,7 +735,7 @@
       },
       {
         "lang": "pl",
-        "name": "Lampart"
+        "name": "lampart plamisty"
       },
       {
         "lang": "pt",
@@ -976,6 +859,10 @@
         "name": "Jaaguar"
       },
       {
+        "lang": "be",
+        "name": "Ягуар"
+      },
+      {
         "lang": "bg",
         "name": "Ягуар"
       },
@@ -990,6 +877,10 @@
       {
         "lang": "cs",
         "name": "Jaguár"
+      },
+      {
+        "lang": "cu",
+        "name": "Ꙗгоуаръ"
       },
       {
         "lang": "da",
@@ -1183,6 +1074,10 @@
         "name": "Lev"
       },
       {
+        "lang": "cu",
+        "name": "Львъ"
+      },
+      {
         "lang": "cy",
         "name": "Llew"
       },
@@ -1372,7 +1267,7 @@
       },
       {
         "lang": "pl",
-        "name": "Lew"
+        "name": "lew afrykański"
       },
       {
         "lang": "pt",
