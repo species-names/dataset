@@ -341,6 +341,10 @@
     "scientific_name": "Myotis nattereri",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Начніца Натэрэра"
+      },
+      {
         "lang": "da",
         "name": "Frynseflagermus"
       },
@@ -404,6 +408,10 @@
     "scientific_name": "Myotis mystacinus",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Начніца вусатая"
+      },
+      {
         "lang": "da",
         "name": "Skægflagermus"
       },
@@ -460,6 +468,10 @@
     "scientific_name": "Myotis myotis",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Начніца вялікая"
+      },
+      {
         "lang": "da",
         "name": "Stor museøre"
       },
@@ -497,6 +509,10 @@
       {
         "lang": "sv",
         "name": "Större musöra"
+      },
+      {
+        "lang": "tr",
+        "name": "Farekulak yarasa"
       }
     ]
   },
@@ -926,6 +942,10 @@
     "scientific_name": "Myotis daubentonii",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Начніца вадзяная"
+      },
+      {
         "lang": "ca",
         "name": "Ratpenat d'aigua"
       },
@@ -969,6 +989,10 @@
   {
     "scientific_name": "Myotis dasycneme",
     "common_names": [
+      {
+        "lang": "be",
+        "name": "Начніца сажалкавая"
+      },
       {
         "lang": "da",
         "name": "Damflagermus"
@@ -1188,6 +1212,13 @@
       {
         "lang": "fi",
         "name": "Korvasiippa"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagyfülű denevér",
+        "synonyms": [
+          "Bechstein egérfülű-denevére"
+        ]
       },
       {
         "lang": "sv",

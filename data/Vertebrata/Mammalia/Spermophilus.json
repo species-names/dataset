@@ -12,6 +12,10 @@
     "scientific_name": "Spermophilus suslicus",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Суслік рабы"
+      },
+      {
         "lang": "en",
         "name": "Spotted Souslik",
         "synonyms": [
@@ -19,15 +23,15 @@
         ]
       },
       {
-        "lang": "pl",
-        "name": "Suseł perełkowany"
-      },
-      {
         "lang": "fi",
         "name": "Suslikki",
         "synonyms": [
           "idänsiiseli"
         ]
+      },
+      {
+        "lang": "pl",
+        "name": "Suseł perełkowany"
       },
       {
         "lang": "sv",

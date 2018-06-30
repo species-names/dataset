@@ -12,6 +12,19 @@
     "common_names": []
   },
   {
+    "scientific_name": "Perameles papillon",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Perameles pallescens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Long-nosed Bandicoot"
+      }
+    ]
+  },
+  {
     "scientific_name": "Perameles nasuta",
     "common_names": [
       {
@@ -24,7 +37,7 @@
       },
       {
         "lang": "en",
-        "name": "Long-nosed Bandicoot"
+        "name": "Southern Long-nosed Bandicoot"
       },
       {
         "lang": "hu",
@@ -46,14 +59,41 @@
   },
   {
     "scientific_name": "Perameles gunnii",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern Barred Bandicoot"
+      },
+      {
+        "lang": "fr",
+        "name": "Péramèle À Long Nez De L´est"
+      }
+    ]
   },
   {
     "scientific_name": "Perameles eremiana",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Desert Bandicoot"
+      },
+      {
+        "lang": "fr",
+        "name": "Péramèle Du Désert"
+      }
+    ]
   },
   {
     "scientific_name": "Perameles bougainville",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Barred Bandicoot"
+      },
+      {
+        "lang": "fr",
+        "name": "Péramèle À Bandes De L´ouest"
+      }
+    ]
   }
 ]

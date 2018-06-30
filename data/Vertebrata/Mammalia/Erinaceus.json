@@ -7,6 +7,10 @@
         "name": "Lõunasiil"
       },
       {
+        "lang": "hu",
+        "name": "Keleti sün"
+      },
+      {
         "lang": "pl",
         "name": "Jeż wschodni"
       }
@@ -134,6 +138,10 @@
         "name": "Qanfud tal-Ewropa tal-Punent"
       },
       {
+        "lang": "mwl",
+        "name": "Ouriço-cacheiro"
+      },
+      {
         "lang": "nl",
         "name": "Egel"
       },
@@ -165,7 +173,11 @@
       },
       {
         "lang": "pt",
-        "name": "Ouriço-terrestre"
+        "name": "Porco-espinho",
+        "synonyms": [
+          "Ouriço-cacheiro",
+          "Ouriço-terrestre"
+        ]
       },
       {
         "lang": "ru",
@@ -224,6 +236,10 @@
   {
     "scientific_name": "Erinaceus concolor",
     "common_names": [
+      {
+        "lang": "be",
+        "name": "Белагруды вожык"
+      },
       {
         "lang": "de",
         "name": "Weißbrustigel"

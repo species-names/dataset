@@ -89,6 +89,10 @@
     "scientific_name": "Manis javanica",
     "common_names": [
       {
+        "lang": "hu",
+        "name": "Hátsó-indiai tobzoska"
+      },
+      {
         "lang": "km",
         "name": "ពង្រួល"
       },
@@ -122,6 +126,13 @@
   {
     "scientific_name": "Manis crassicaudata",
     "common_names": [
+      {
+        "lang": "hu",
+        "name": "Jávai tobzoska",
+        "synonyms": [
+          "ceyloni tobzoska"
+        ]
+      },
       {
         "lang": "pl",
         "name": "Pangolin gruboogonowy"

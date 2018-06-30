@@ -3,12 +3,12 @@
     "scientific_name": "Hylochoerus meinertzhageni",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Giant forest hog"
+        "lang": "be",
+        "name": "Вялікая лясная свіння"
       },
       {
-        "lang": "pl",
-        "name": "Świnia leśna"
+        "lang": "en",
+        "name": "Giant forest hog"
       },
       {
         "lang": "es",
@@ -20,6 +20,10 @@
         "synonyms": [
           "óriásdisznó"
         ]
+      },
+      {
+        "lang": "pl",
+        "name": "Świnia leśna"
       }
     ]
   }

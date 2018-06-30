@@ -15,6 +15,10 @@
         "name": "Anoa de montaña"
       },
       {
+        "lang": "id",
+        "name": "Anoa pegunungan"
+      },
+      {
         "lang": "ja",
         "name": "ヤマアノア"
       },
@@ -62,6 +66,10 @@
     "scientific_name": "Bubalus depressicornis",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Аноа"
+      },
+      {
         "lang": "en",
         "name": "Anoa",
         "synonyms": [
@@ -77,6 +85,13 @@
         "name": "Anoa",
         "synonyms": [
           "kääpiöpuhveli"
+        ]
+      },
+      {
+        "lang": "id",
+        "name": "anoa",
+        "synonyms": [
+          "Anoa dataran rendah"
         ]
       },
       {

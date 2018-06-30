@@ -1,18 +1,106 @@
 [
   {
-    "scientific_name": "Hyelaphus porcinus",
+    "scientific_name": "Hyelaphus annamiticus",
     "common_names": []
+  },
+  {
+    "scientific_name": "Hyelaphus porcinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hog Deer"
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo porquerizo de Indochina"
+      },
+      {
+        "lang": "fi",
+        "name": "Sikahirvi"
+      },
+      {
+        "lang": "pl",
+        "name": "Jelonek bengalski"
+      },
+      {
+        "lang": "sv",
+        "name": "Svinhjort"
+      },
+      {
+        "lang": "th",
+        "name": "เนื้อทราย",
+        "synonyms": [
+          "ทราย",
+          "ตามะแน",
+          "ลำโอง",
+          "กวางแขม"
+        ]
+      },
+      {
+        "lang": "bn",
+        "name": "প্যারা হরিণ"
+      }
+    ]
   },
   {
     "scientific_name": "Hyelaphus kuhlii",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bawean Deer"
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo de Kuhl"
+      },
+      {
+        "lang": "fi",
+        "name": "Baweanhirvi"
+      },
+      {
+        "lang": "pl",
+        "name": "Jeleń baweański"
+      },
+      {
+        "lang": "sv",
+        "name": "Kuhls hjort",
+        "synonyms": [
+          "baweanhjort"
+        ]
+      },
+      {
+        "lang": "id",
+        "name": "Rusa Baewan"
+      }
+    ]
   },
   {
     "scientific_name": "Hyelaphus calamianensis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Hyelaphus annamiticus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Calamian Deer"
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo de los Calamianes"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalamianhirvi"
+      },
+      {
+        "lang": "ja",
+        "name": "カラミアジカ"
+      },
+      {
+        "lang": "pl",
+        "name": "Jeleń kalamiański"
+      },
+      {
+        "lang": "sv",
+        "name": "Calamianhjort"
+      }
+    ]
   }
 ]

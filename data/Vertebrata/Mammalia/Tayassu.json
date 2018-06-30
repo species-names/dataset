@@ -15,12 +15,23 @@
         "name": "Pecarí barbiblanco"
       },
       {
+        "lang": "hu",
+        "name": "Fehérajkú pekari",
+        "synonyms": [
+          "pézsmapekari"
+        ]
+      },
+      {
         "lang": "pt",
         "name": "Queixada"
       },
       {
         "lang": "ru",
         "name": "Белогубые пекари"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak dudaklı pekari"
       }
     ]
   }

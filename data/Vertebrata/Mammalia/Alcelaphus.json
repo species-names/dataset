@@ -23,16 +23,20 @@
     "scientific_name": "Alcelaphus caama",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Чырвоны бубал"
+      },
+      {
         "lang": "en",
         "name": "Red Hartebeest"
       },
       {
-        "lang": "pl",
-        "name": "Kama"
-      },
-      {
         "lang": "es",
         "name": "Alcélafo caama"
+      },
+      {
+        "lang": "pl",
+        "name": "Kama"
       }
     ]
   },

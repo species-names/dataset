@@ -164,6 +164,13 @@
         "name": "Lumilammas"
       },
       {
+        "lang": "sr",
+        "name": "Снежна овца",
+        "synonyms": [
+          "Snežna ovca"
+        ]
+      },
+      {
         "lang": "sv",
         "name": "Asiatiskt snöfår"
       }
@@ -218,6 +225,21 @@
       {
         "lang": "pt",
         "name": "Carneiro de Dall"
+      },
+      {
+        "lang": "ru",
+        "name": "Баран Далла",
+        "synonyms": [
+          "тонкорогий баран"
+        ]
+      },
+      {
+        "lang": "sr",
+        "name": "Долова овца",
+        "synonyms": [
+          "Dolova ovca, Танкорога овца",
+          "Tankoroga ovca"
+        ]
       }
     ]
   },

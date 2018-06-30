@@ -3,6 +3,10 @@
     "scientific_name": "Glis glis",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Соня-палчок"
+      },
+      {
         "lang": "en",
         "name": "Edible Dormouse",
         "synonyms": [
@@ -14,16 +18,16 @@
         "name": "Lirón Gris"
       },
       {
+        "lang": "et",
+        "name": "Kunel"
+      },
+      {
         "lang": "fr",
         "name": "Loir Gris"
       },
       {
         "lang": "pl",
         "name": "Popielica"
-      },
-      {
-        "lang": "et",
-        "name": "Kunel"
       }
     ]
   }

@@ -309,6 +309,10 @@
         "name": "Keltavatsamurmeli"
       },
       {
+        "lang": "hu",
+        "name": "Sárgahasú mormota"
+      },
+      {
         "lang": "zh",
         "name": "黃腹土撥鼠"
       }
@@ -361,6 +365,10 @@
   {
     "scientific_name": "Marmota bobak",
     "common_names": [
+      {
+        "lang": "be",
+        "name": "Байбак"
+      },
       {
         "lang": "en",
         "name": "Bobak Marmot"

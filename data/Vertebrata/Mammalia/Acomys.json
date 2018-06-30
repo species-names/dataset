@@ -1,39 +1,21 @@
 [
   {
     "scientific_name": "Acomys wilsoni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wilson's Spiny Mouse"
+      }
+    ]
   },
   {
     "scientific_name": "Acomys subspinosus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Acomys selousi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Acomys russatus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Acomys percivali",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Acomys nesiotes",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Acomys mullah",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Acomys louisae",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Acomys kempi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cape Spiny Mouse"
+      }
+    ]
   },
   {
     "scientific_name": "Acomys spinosissimus",
@@ -45,8 +27,53 @@
     ]
   },
   {
+    "scientific_name": "Acomys seurati",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Seurat's Spiny Mouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acomys russatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden Spiny Mouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acomys percivali",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Percival's Spiny Mouse"
+      }
+    ]
+  },
+  {
     "scientific_name": "Acomys ngurui",
     "common_names": []
+  },
+  {
+    "scientific_name": "Acomys nesiotes",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cyprus Spiny Mouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acomys mullah",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mullah Spiny Mouse"
+      }
+    ]
   },
   {
     "scientific_name": "Acomys minous",
@@ -73,6 +100,24 @@
         "synonyms": [
           "kreteńska mysz kolczasta"
         ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acomys louisae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Louise’s Spiny Mouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Acomys kempi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Kemp’s Spiny Mouse"
       }
     ]
   },

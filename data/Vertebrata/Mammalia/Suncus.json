@@ -43,6 +43,10 @@
         "name": "Musk shrew"
       },
       {
+        "lang": "hu",
+        "name": "Távol-keleti pézsmacickány"
+      },
+      {
         "lang": "ja",
         "name": "ジャコウネズミ"
       },
@@ -79,6 +83,10 @@
       {
         "lang": "en",
         "name": "Flores shrew"
+      },
+      {
+        "lang": "hu",
+        "name": "Floresi pézsmacickány"
       }
     ]
   },
@@ -97,6 +105,10 @@
       {
         "lang": "en",
         "name": "Madagscan Pygmy Shrew"
+      },
+      {
+        "lang": "hu",
+        "name": "Madagaszkári pézsmacickány"
       }
     ]
   },
@@ -155,6 +167,13 @@
         "name": "Musgaño enano",
         "synonyms": [
           "Musarañita"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Etruszk cickány",
+        "synonyms": [
+          "kisded cickány"
         ]
       },
       {

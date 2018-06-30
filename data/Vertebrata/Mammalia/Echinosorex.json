@@ -3,12 +3,16 @@
     "scientific_name": "Echinosorex gymnura",
     "common_names": [
       {
-        "lang": "tr",
-        "name": "Tüylü kirpi"
+        "lang": "be",
+        "name": "Звычайная гімнура"
       },
       {
         "lang": "en",
         "name": "Greater Moonrat"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy szőrössün"
       },
       {
         "lang": "ja",
@@ -24,6 +28,10 @@
         "synonyms": [
           "สาโท"
         ]
+      },
+      {
+        "lang": "tr",
+        "name": "Tüylü kirpi"
       }
     ]
   }

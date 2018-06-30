@@ -306,6 +306,10 @@
     "scientific_name": "Crocidura suaveolens",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Белазубка малая"
+      },
+      {
         "lang": "en",
         "name": "Lesser white-toothed shrew"
       },
@@ -316,6 +320,10 @@
       {
         "lang": "fi",
         "name": "Kotipäästäinen"
+      },
+      {
+        "lang": "hu",
+        "name": "Keleti cickány"
       },
       {
         "lang": "ja",
@@ -448,6 +456,10 @@
       {
         "lang": "fi",
         "name": "Isokotipäästäinen"
+      },
+      {
+        "lang": "hu",
+        "name": "Házi cickány"
       },
       {
         "lang": "sv",
@@ -1030,6 +1042,18 @@
     "scientific_name": "Crocidura leucodon",
     "common_names": [
       {
+        "lang": "be",
+        "name": "Белазубка белабрухая"
+      },
+      {
+        "lang": "en",
+        "name": "Bi-coloured White-toothed Shrew"
+      },
+      {
+        "lang": "hu",
+        "name": "Mezei cickány"
+      },
+      {
         "lang": "pl",
         "name": "Zębiełek białawy"
       }
@@ -1135,6 +1159,10 @@
       {
         "lang": "en",
         "name": "Jackson's Shrew"
+      },
+      {
+        "lang": "hu",
+        "name": "Jackson-cickány"
       }
     ]
   },
@@ -1701,6 +1729,10 @@
       {
         "lang": "en",
         "name": "Arabian Shrew"
+      },
+      {
+        "lang": "hu",
+        "name": "Arab cickány"
       },
       {
         "lang": "pl",
