@@ -1,6 +1,6 @@
 # Species names dataset [![Build Status][travis-image]][travis-url]
 
-v0.0.6
+v0.0.7
 
 A json format dataset for scientific and common species names.
 
@@ -9,7 +9,7 @@ Data is harvested mainly from https://species.wikimedia.org
 Species names are stored in json format in one file per genera.
 
 ## Current State
-Currently only birds are done.  
+Currently only birds amd mammals are done.  
 
 ## Todo
 - Html in names: Chendytes lawi invisible html comment behind name
@@ -34,7 +34,7 @@ Pls add some sort of reference.
 The dataset is published on npm:  
 https://www.npmjs.com/package/species-names-dataset
 
-    git tag 0.0.6
+    git tag 0.0.7
     git push --tags
     npm publish
 
