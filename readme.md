@@ -1,6 +1,6 @@
 # Species names dataset [![Build Status][travis-image]][travis-url]
 
-v0.0.7
+v0.0.8
 
 A json format dataset for scientific and common species names.
 
@@ -34,7 +34,7 @@ Pls add some sort of reference.
 The dataset is published on npm:  
 https://www.npmjs.com/package/species-names-dataset
 
-    git tag 0.0.7
+    git tag 0.0.8
     git push --tags
     npm publish
 
