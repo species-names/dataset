@@ -1,4 +1,5 @@
-# Species names dataset [![Build Status][travis-image]][travis-url]
+# Species names dataset ![tests](https://github.com/species-names/dataset/actions/workflows/tests.yaml/badge.svg)
+
 
 v0.0.8
 
@@ -42,6 +43,3 @@ https://www.npmjs.com/package/species-names-dataset
 
 [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/)  
 http://choosealicense.com/licenses/cc-by-sa-4.0/
-
-[travis-image]: https://travis-ci.org/species-names/dataset.svg?branch=master
-[travis-url]: https://travis-ci.org/species-names/dataset
