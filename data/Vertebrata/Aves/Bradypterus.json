@@ -12,15 +12,15 @@
       },
       {
         "lang": "fi",
-        "name": "rotkometsäkerttunen"
+        "name": "Rotkometsäkerttunen"
       },
       {
         "lang": "fr",
-        "name": "bouscarle de Knysna"
+        "name": "Bouscarle de Knysna"
       },
       {
         "lang": "sv",
-        "name": "knysnasmygsångare"
+        "name": "Knysnasmygsångare"
       }
     ]
   },
@@ -35,7 +35,40 @@
   },
   {
     "scientific_name": "Bradypterus graueri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Llwyndelor Grauer"
+      },
+      {
+        "lang": "en",
+        "name": "Grauer's swamp warbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Graŭera arbustosilvio"
+      },
+      {
+        "lang": "fi",
+        "name": "Kongonmetsäkerttunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Bouscarle de Grauer"
+      },
+      {
+        "lang": "hu",
+        "name": "Kivu bozótposzáta"
+      },
+      {
+        "lang": "nl",
+        "name": "Grauers struikzanger"
+      },
+      {
+        "lang": "sv",
+        "name": "albertinegräsfågel"
+      }
+    ]
   },
   {
     "scientific_name": "Bradypterus grandis",

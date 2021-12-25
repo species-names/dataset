@@ -42,6 +42,10 @@
       {
         "lang": "zh",
         "name": "棕鸫鹛"
+      },
+      {
+        "lang": "ta",
+        "name": "செஞ்சிலம்பன்"
       }
     ]
   },
@@ -85,8 +89,16 @@
         "name": "കരിയിലക്കിളി"
       },
       {
+        "lang": "ne",
+        "name": "बगाले भ्याकुर"
+      },
+      {
         "lang": "nl",
         "name": "Junglebabbelaar"
+      },
+      {
+        "lang": "pa",
+        "name": "ਸੇਰੜ੍ਹੀ"
       },
       {
         "lang": "sv",
@@ -95,6 +107,14 @@
       {
         "lang": "zh",
         "name": "丛林鸫鹛"
+      },
+      {
+        "lang": "ta",
+        "name": "காட்டுச்சிலம்பன்"
+      },
+      {
+        "lang": "or",
+        "name": "କୁଣ୍ଡାଖିଆ ଚଢ଼େଇ"
       }
     ]
   },
@@ -131,6 +151,38 @@
       {
         "lang": "es",
         "name": "Turdoide cingalés"
+      },
+      {
+        "lang": "cy",
+        "name": "Preblyn-y-jyngl Sri Lanka"
+      },
+      {
+        "lang": "en",
+        "name": "Orange-billed babbler"
+      },
+      {
+        "lang": "fa",
+        "name": "لیکوی نک‌نارنجی"
+      },
+      {
+        "lang": "fr",
+        "name": "Cratérope de Ceylan"
+      },
+      {
+        "lang": "hu",
+        "name": "Narancssárga-csőrű rigótimália"
+      },
+      {
+        "lang": "nl",
+        "name": "Ceylonese babbelaar"
+      },
+      {
+        "lang": "si",
+        "name": "රතු දෙමලිච්චා"
+      },
+      {
+        "lang": "sv",
+        "name": "ceylonskriktrast"
       }
     ]
   },
@@ -270,6 +322,38 @@
       {
         "lang": "en",
         "name": "Slender-billed Babbler"
+      },
+      {
+        "lang": "cy",
+        "name": "Preblyn pigfain"
+      },
+      {
+        "lang": "fa",
+        "name": "لیکوی نوک‌باریک"
+      },
+      {
+        "lang": "fr",
+        "name": "Cratérope à bec fin"
+      },
+      {
+        "lang": "hu",
+        "name": "Vékonycsőrű rigótimália"
+      },
+      {
+        "lang": "ne",
+        "name": "खडाई भ्याकुर"
+      },
+      {
+        "lang": "nl",
+        "name": "Dunbekbabbelaar"
+      },
+      {
+        "lang": "sv",
+        "name": "brahmaputraskriktrast"
+      },
+      {
+        "lang": "zh",
+        "name": "细嘴鸫鹛"
       }
     ]
   },
@@ -338,7 +422,7 @@
       },
       {
         "lang": "no",
-        "name": "Kikuyuskriketrost"
+        "name": "kikuyuskriketrost"
       },
       {
         "lang": "pl",
@@ -354,7 +438,7 @@
       },
       {
         "lang": "sv",
-        "name": "Kenyaskriktrast"
+        "name": "kenyaskriktrast"
       },
       {
         "lang": "zh",
@@ -467,13 +551,6 @@
         "name": "シロスジヤブチメドリ",
         "synonyms": [
           "shirosujimorichimedori"
-        ]
-      },
-      {
-        "lang": "la",
-        "name": "Turdoides aylmeri",
-        "synonyms": [
-          "Argya aylmeri"
         ]
       },
       {

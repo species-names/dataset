@@ -1,14 +1,5 @@
 [
   {
-    "scientific_name": "Cynanthus sordidus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Dusky Hummingbird"
-      }
-    ]
-  },
-  {
     "scientific_name": "Cynanthus latirostris",
     "common_names": [
       {
@@ -30,6 +21,120 @@
       {
         "lang": "pl",
         "name": "Pląśnik północny"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cynanthus forficatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cozumel Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "esmeralda de Cozumel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cynanthus doubledayi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Doubleday Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí piquiancho de Guerrero"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cynanthus canivetii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kolibrík klínoocasý"
+      },
+      {
+        "lang": "da",
+        "name": "Kløfthalet Smaragd"
+      },
+      {
+        "lang": "de",
+        "name": "Gabelschwanzkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Canivet's Emerald",
+        "synonyms": [
+          "Fork-tailed Emerald"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda de Canivet"
+      },
+      {
+        "lang": "fi",
+        "name": "pääskysmaragdikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Émeraude de Canivet"
+      },
+      {
+        "lang": "it",
+        "name": "Smeraldo di Canivet"
+      },
+      {
+        "lang": "ja",
+        "name": "エンビヒメエメラルドハチドリ",
+        "synonyms": [
+          "enbihimeemerarudohachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Vorkstaartsmaragdkolibrie"
+      },
+      {
+        "lang": "no",
+        "name": "Mayasmaragd"
+      },
+      {
+        "lang": "pl",
+        "name": "złocik widłosterny"
+      },
+      {
+        "lang": "ru",
+        "name": "Вилохвостый изумрудный колибри"
+      },
+      {
+        "lang": "sk",
+        "name": "smaragdovec pôvabný"
+      },
+      {
+        "lang": "sv",
+        "name": "Svalstjärtad smaragd"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cynanthus auriceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-crowned Emerald"
+      },
+      {
+        "lang": "fr",
+        "name": "Émeraude couronnée"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda mexicana"
       }
     ]
   }

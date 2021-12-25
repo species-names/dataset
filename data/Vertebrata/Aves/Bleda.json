@@ -5,7 +5,24 @@
   },
   {
     "scientific_name": "Bleda notatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-lored Bristlebill"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul manchado"
+      },
+      {
+        "lang": "fi",
+        "name": "Ohjassukasnokka"
+      },
+      {
+        "lang": "sv",
+        "name": "Gultyglad borstbulbyl"
+      }
+    ]
   },
   {
     "scientific_name": "Bleda eximius",

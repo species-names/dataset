@@ -263,6 +263,10 @@
         ]
       },
       {
+        "lang": "eo",
+        "name": "Pacifika kolimbo"
+      },
+      {
         "lang": "es",
         "name": "Colimbo del Pacífico"
       },
@@ -396,6 +400,10 @@
         "name": "ハシグロアビ"
       },
       {
+        "lang": "ka",
+        "name": "პოლარული ღორიხვა"
+      },
+      {
         "lang": "lil",
         "name": "ʔíswaɬ"
       },
@@ -506,12 +514,7 @@
       },
       {
         "lang": "en",
-        "name": "Arctic Diver",
-        "synonyms": [
-          "Arctic Loon",
-          "Black-throated Diver",
-          "Black-throated Loon"
-        ]
+        "name": "Arctic Loon"
       },
       {
         "lang": "eo",
@@ -539,13 +542,7 @@
       },
       {
         "lang": "fr",
-        "name": "Plongeon arctique",
-        "synonyms": [
-          "Petit Plongeon",
-          "Plongeon lumne",
-          "Lumne",
-          "Liomen"
-        ]
+        "name": "Plongeon arctique"
       },
       {
         "lang": "fy",
@@ -593,10 +590,7 @@
       },
       {
         "lang": "ja",
-        "name": "オオハム",
-        "synonyms": [
-          "oohamu"
-        ]
+        "name": "オオハム"
       },
       {
         "lang": "ka",
@@ -676,10 +670,7 @@
       },
       {
         "lang": "sr",
-        "name": "Morski gnjurac",
-        "synonyms": [
-          "Морски гнјурац"
-        ]
+        "name": "Морски гнјурац"
       },
       {
         "lang": "sv",
@@ -724,7 +715,7 @@
       },
       {
         "lang": "cs",
-        "name": "potáplice žlutozobá"
+        "name": "Potáplice žlutozobá"
       },
       {
         "lang": "cy",
@@ -744,10 +735,11 @@
       },
       {
         "lang": "en",
-        "name": "White-billed Diver",
-        "synonyms": [
-          "Yellow-billed Loon"
-        ]
+        "name": "White-billed Diver"
+      },
+      {
+        "lang": "en-us",
+        "name": "Yellow-billed Loon"
       },
       {
         "lang": "eo",
@@ -771,7 +763,7 @@
       },
       {
         "lang": "fi",
-        "name": "jääkuikka"
+        "name": "Jääkuikka"
       },
       {
         "lang": "fo",
@@ -823,10 +815,7 @@
       },
       {
         "lang": "ja",
-        "name": "ハシジロアビ",
-        "synonyms": [
-          "hashijiroabi"
-        ]
+        "name": "ハシジロアビ"
       },
       {
         "lang": "ko",
@@ -858,7 +847,7 @@
       },
       {
         "lang": "pl",
-        "name": "nur białodzioby"
+        "name": "Nur białodzioby"
       },
       {
         "lang": "pt",
@@ -882,15 +871,15 @@
       },
       {
         "lang": "sk",
-        "name": "potáplica bielozobá"
+        "name": "Potáplica bielozobá"
       },
       {
         "lang": "sl",
-        "name": "rumenokljuni slapnik"
+        "name": "Rumenokljuni slapnik"
       },
       {
         "lang": "sr",
-        "name": "morski gnjurac žutokljuni"
+        "name": "Morski gnjurac žutokljuni"
       },
       {
         "lang": "sv",

@@ -1,30 +1,5 @@
 [
   {
-    "scientific_name": "Hylocharis xantusii",
-    "common_names": [
-      {
-        "lang": "ca",
-        "name": "Colibrí de Xantus"
-      },
-      {
-        "lang": "en",
-        "name": "Xantus's Hummingbird"
-      },
-      {
-        "lang": "es",
-        "name": "Colibrí de Xantus"
-      },
-      {
-        "lang": "fr",
-        "name": "Colibri de Xantus"
-      },
-      {
-        "lang": "nl",
-        "name": "Cactussaffierkolibrie"
-      }
-    ]
-  },
-  {
     "scientific_name": "Hylocharis sapphirina",
     "common_names": [
       {
@@ -34,122 +9,16 @@
     ]
   },
   {
-    "scientific_name": "Hylocharis leucotis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "White-eared hummingbird"
-      },
-      {
-        "lang": "es",
-        "name": "Colibrí orejiblanco"
-      }
-    ]
-  },
-  {
     "scientific_name": "Hylocharis grayi",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Blue-headed Sapphire"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Hylocharis eliciae",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "kolibřík zlatoocasý"
-      },
-      {
-        "lang": "da",
-        "name": "Gyldenhalet Safir"
-      },
-      {
-        "lang": "de",
-        "name": "Goldschwanz-Saphirkolibri"
-      },
-      {
-        "lang": "en",
-        "name": "Blue-throated Goldentail",
-        "synonyms": [
-          "Blue-throated Sapphire"
-        ]
-      },
-      {
-        "lang": "es",
-        "name": "Zafiro de Elicia"
-      },
-      {
-        "lang": "fi",
-        "name": "varjosafiirikolibri"
-      },
-      {
-        "lang": "fr",
-        "name": "Saphir d'Elicia"
-      },
-      {
-        "lang": "hu",
-        "name": "sárgafarkú zafírkolibri"
-      },
-      {
-        "lang": "it",
-        "name": "Colibrì di Elisa"
-      },
-      {
-        "lang": "ja",
-        "name": "オウゴンサファイアハチドリ",
-        "synonyms": [
-          "ougonsafaiahachidori"
-        ]
-      },
-      {
-        "lang": "nl",
-        "name": "Goudstaartsaffierkolibrie"
-      },
-      {
-        "lang": "no",
-        "name": "Gullhalekolibri"
-      },
-      {
-        "lang": "pl",
-        "name": "szafirek zlotosterny"
-      },
-      {
-        "lang": "ru",
-        "name": "Златохвостый сапфир"
-      },
-      {
-        "lang": "sk",
-        "name": "kolibrík zlatochvostý"
-      },
-      {
-        "lang": "sv",
-        "name": "Guldstjärtssafir"
-      },
-      {
-        "lang": "zh",
-        "name": "蓝喉红嘴蜂鸟"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Hylocharis cyanus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "White-chinned Sapphire"
-      },
-      {
-        "lang": "es",
-        "name": "Zafiro gorgiblanco"
-      },
-      {
-        "lang": "pt",
-        "name": "Beija-flor-roxo"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Hylocharis chrysura",

@@ -3,12 +3,24 @@
     "scientific_name": "Bucephala islandica",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Исландска звънарка"
+      },
+      {
         "lang": "br",
         "name": "Garv-Island"
       },
       {
+        "lang": "ca",
+        "name": "Morell d'Islàndia"
+      },
+      {
         "lang": "cs",
-        "name": "hohol islandský"
+        "name": "Hohol islandský"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden lygad aur Barrow"
       },
       {
         "lang": "da",
@@ -31,12 +43,24 @@
         "name": "Porrón Islándico"
       },
       {
+        "lang": "et",
+        "name": "Läänesõtkas"
+      },
+      {
         "lang": "fi",
-        "name": "amerikantelkkä"
+        "name": "Amerikantelkkä"
+      },
+      {
+        "lang": "fo",
+        "name": "Íslendsk súgont"
       },
       {
         "lang": "fr",
         "name": "Garrot d'Islande"
+      },
+      {
+        "lang": "gl",
+        "name": "Ollodourado islandés"
       },
       {
         "lang": "hu",
@@ -52,10 +76,7 @@
       },
       {
         "lang": "ja",
-        "name": "キタホオジロガモ",
-        "synonyms": [
-          "kitahoojirogamo"
-        ]
+        "name": "キタホオジロガモ"
       },
       {
         "lang": "nl",
@@ -66,8 +87,12 @@
         "name": "Islandsand"
       },
       {
+        "lang": "olo",
+        "name": "Amerikantelky"
+      },
+      {
         "lang": "pl",
-        "name": "sierpiec"
+        "name": "Sierpiec"
       },
       {
         "lang": "pt",
@@ -79,11 +104,15 @@
       },
       {
         "lang": "sk",
-        "name": "hlaholka veľká"
+        "name": "Hlaholka veľká"
       },
       {
         "lang": "sv",
         "name": "Islandsknipa"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt mắt vàng Barrow"
       },
       {
         "lang": "zh",

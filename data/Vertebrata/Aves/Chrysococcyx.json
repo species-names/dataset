@@ -155,8 +155,32 @@
     "scientific_name": "Chrysococcyx klaas",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Meitjie"
+      },
+      {
+        "lang": "ar",
+        "name": "وقواق كلاس"
+      },
+      {
+        "lang": "bg",
+        "name": "Клаасова смарагдена кукувица"
+      },
+      {
+        "lang": "ca",
+        "name": "Cucut maragda de Klaas"
+      },
+      {
         "lang": "cs",
         "name": "Kukačka Klaasova"
+      },
+      {
+        "lang": "cy",
+        "name": "Cog Klaas"
+      },
+      {
+        "lang": "de",
+        "name": "Klaaskuckuck"
       },
       {
         "lang": "en",
@@ -171,8 +195,36 @@
         "name": "Coucou de Klaas"
       },
       {
+        "lang": "he",
+        "name": "קוקייה אזמרגדית"
+      },
+      {
+        "lang": "hu",
+        "name": "Klaas-rézkakukk"
+      },
+      {
+        "lang": "it",
+        "name": "Cuculo dorato di Klaas"
+      },
+      {
+        "lang": "nl",
+        "name": "Klaas' koekoek"
+      },
+      {
+        "lang": "pt",
+        "name": "Cuco-bronzeado-menor"
+      },
+      {
+        "lang": "ru",
+        "name": "Бронзовая кукушка Клааса"
+      },
+      {
         "lang": "tr",
         "name": "Klaas guguğu"
+      },
+      {
+        "lang": "sv",
+        "name": "Klaasglansgök"
       }
     ]
   },
@@ -222,12 +274,20 @@
         "name": "Dideric Cuckoo"
       },
       {
+        "lang": "eo",
+        "name": "Orkukulo"
+      },
+      {
         "lang": "es",
         "name": "Cuclillo didric"
       },
       {
         "lang": "fr",
         "name": "Coucou didric"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuparikäki"
       },
       {
         "lang": "tr",

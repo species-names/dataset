@@ -4,7 +4,15 @@
     "common_names": [
       {
         "lang": "pt",
-        "name": "Pipira-da-guiana"
+        "name": "tem-tem-de-topete-ferrugíneo"
+      },
+      {
+        "lang": "en",
+        "name": "Fulvous-crested Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara crestifulva"
       }
     ]
   },
@@ -29,7 +37,7 @@
       },
       {
         "lang": "es",
-        "name": "Frutero chocolatero"
+        "name": "Tangara negra"
       },
       {
         "lang": "fi",
@@ -101,7 +109,20 @@
   },
   {
     "scientific_name": "Tachyphonus phoenicius",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-shouldered Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Tem-tem-de-dragona-vermelha"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de galones"
+      }
+    ]
   },
   {
     "scientific_name": "Tachyphonus luctuosus",
@@ -122,24 +143,7 @@
   },
   {
     "scientific_name": "Tachyphonus cristatus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Flame-crested Tanager"
-      },
-      {
-        "lang": "es",
-        "name": "Tanagara crestifuego"
-      },
-      {
-        "lang": "ja",
-        "name": "カンムリクロフウキンチョウ"
-      },
-      {
-        "lang": "pt",
-        "name": "Tié-galo"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Tachyphonus coronatus",
@@ -147,6 +151,14 @@
       {
         "lang": "pt",
         "name": "Tié-preto"
+      },
+      {
+        "lang": "en",
+        "name": "Ruby-crowned Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara coronada"
       }
     ]
   }

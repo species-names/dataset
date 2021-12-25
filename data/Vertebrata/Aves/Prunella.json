@@ -55,7 +55,52 @@
   },
   {
     "scientific_name": "Prunella rubeculoides",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Llwyd brongoch"
+      },
+      {
+        "lang": "en",
+        "name": "Robin accentor"
+      },
+      {
+        "lang": "eo",
+        "name": "Rubekola pronelo"
+      },
+      {
+        "lang": "fa",
+        "name": "صعوه روبین"
+      },
+      {
+        "lang": "fr",
+        "name": "Accenteur rougegorge"
+      },
+      {
+        "lang": "hu",
+        "name": "Vöröstorkú szürkebegy"
+      },
+      {
+        "lang": "ne",
+        "name": "रबिन लेकचरी"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodborstheggenmus"
+      },
+      {
+        "lang": "no",
+        "name": "Tibetjernspurv"
+      },
+      {
+        "lang": "sv",
+        "name": "rödbröstad järnsparv"
+      },
+      {
+        "lang": "zh",
+        "name": "鸲岩鹨"
+      }
+    ]
   },
   {
     "scientific_name": "Prunella ocularis",
@@ -327,18 +372,100 @@
   },
   {
     "scientific_name": "Prunella immaculata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Maroon-backed Accentor"
+      },
+      {
+        "lang": "fr",
+        "name": "Accenteur immaculé"
+      }
+    ]
   },
   {
     "scientific_name": "Prunella himalayana",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Altai Accentor"
+      }
+    ]
   },
   {
     "scientific_name": "Prunella fulvescens",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Светла завирушка"
+      },
+      {
+        "lang": "br",
+        "name": "Gwrac'hig kazugel"
+      },
+      {
+        "lang": "cy",
+        "name": "Llwyd brown"
+      },
+      {
+        "lang": "en",
+        "name": "Brown Accentor"
+      },
+      {
+        "lang": "eo",
+        "name": "Bruna pronelo"
+      },
+      {
         "lang": "es",
         "name": "Acentor pardo"
+      },
+      {
+        "lang": "fa",
+        "name": "صعوه قهوه‌ای"
+      },
+      {
+        "lang": "fr",
+        "name": "Accenteur brun"
+      },
+      {
+        "lang": "hu",
+        "name": "Fakó szürkebegy"
+      },
+      {
+        "lang": "kbd",
+        "name": "КӀыкъырфагъуэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Боз содырғы"
+      },
+      {
+        "lang": "ne",
+        "name": "गाजले लेकचरी"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruine heggenmus"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitbrynjernspurv"
+      },
+      {
+        "lang": "ru",
+        "name": "Бледная завирушка"
+      },
+      {
+        "lang": "sv",
+        "name": "Brun järnsparv"
+      },
+      {
+        "lang": "uk",
+        "name": "Тинівка бліда"
+      },
+      {
+        "lang": "zh",
+        "name": "褐岩鹨"
       }
     ]
   },

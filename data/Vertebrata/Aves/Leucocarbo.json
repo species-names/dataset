@@ -347,12 +347,60 @@
     "scientific_name": "Leucocarbo chalconotus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Otagoaalscholver"
+      },
+      {
         "lang": "en",
-        "name": "Stewart Shag"
+        "name": "Otago Shag"
       },
       {
         "lang": "es",
-        "name": "Cormorán de la Stewart"
+        "name": "Cormorán de Otago"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí de l'illa de Stewart"
+      },
+      {
+        "lang": "cy",
+        "name": "Mulfran eurgoch"
+      },
+      {
+        "lang": "eo",
+        "name": "Bronzkormorano"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان جزیره استوارت"
+      },
+      {
+        "lang": "fi",
+        "name": "Stewartinmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran bronzé"
+      },
+      {
+        "lang": "ja",
+        "name": "スチュアートウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Stewartaalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Bronseskarv"
+      },
+      {
+        "lang": "sv",
+        "name": "otagoskarv"
+      },
+      {
+        "lang": "uk",
+        "name": "Баклан бронзовий"
       }
     ]
   },
@@ -435,6 +483,46 @@
       {
         "lang": "fi",
         "name": "Sepelmerimetso"
+      },
+      {
+        "lang": "br",
+        "name": "Morvran Campbell"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí de l'illa de Campbell"
+      },
+      {
+        "lang": "cy",
+        "name": "Mulfran Ynys Campbell"
+      },
+      {
+        "lang": "eo",
+        "name": "Kampbela tufkormorano"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Campbell"
+      },
+      {
+        "lang": "hu",
+        "name": "Campbell-szigeti kárókatona"
+      },
+      {
+        "lang": "nl",
+        "name": "Campbellaalscholver"
+      },
+      {
+        "lang": "nn",
+        "name": "Campbellskarv"
+      },
+      {
+        "lang": "sv",
+        "name": "campbellskarv"
+      },
+      {
+        "lang": "vi",
+        "name": "Cốc mào Campbell"
       }
     ]
   },

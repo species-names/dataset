@@ -8,14 +8,11 @@
       },
       {
         "lang": "es",
-        "name": "Celestino Común"
+        "name": "Celestino común"
       },
       {
         "lang": "pt",
-        "name": "Sanhaçu-cinzento",
-        "synonyms": [
-          "Sanhaço-do-mamoeiro"
-        ]
+        "name": "Sanhaçu-cinzento"
       },
       {
         "lang": "gn",
@@ -44,7 +41,7 @@
       },
       {
         "lang": "es",
-        "name": "Tangara Palmera"
+        "name": "Tangara palmera"
       },
       {
         "lang": "fi",
@@ -126,6 +123,10 @@
       {
         "lang": "en",
         "name": "Glaucous Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara glauca"
       }
     ]
   },
@@ -224,6 +225,22 @@
         "name": "Azure-shouldered Tanager"
       },
       {
+        "lang": "cy",
+        "name": "Tanagr ysgwyddlas"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara à épaulettes bleues"
+      },
+      {
+        "lang": "nl",
+        "name": "Azuurschoudertangare"
+      },
+      {
+        "lang": "sv",
+        "name": "blåskuldrad tangara"
+      },
+      {
         "lang": "pt",
         "name": "Sanhaço-de-encontro-azul"
       }
@@ -231,29 +248,11 @@
   },
   {
     "scientific_name": "Thraupis cyanocephala",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Blue-capped Tanager"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Thraupis bonariensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Blue-and-yellow Tanager"
-      },
-      {
-        "lang": "pt",
-        "name": "Sanhaço-papa-laranja"
-      },
-      {
-        "lang": "es",
-        "name": "Tangara naranjero"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Thraupis abbas",
@@ -261,6 +260,10 @@
       {
         "lang": "en",
         "name": "Yellow-winged Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara alimarilla"
       }
     ]
   }

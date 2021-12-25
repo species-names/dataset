@@ -1,5 +1,33 @@
 [
   {
+    "scientific_name": "Ninox spilocephala",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ninox reyi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ninox randi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ninox obscura",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ninox mindorensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ninox hypogramma",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ninox forbesi",
+    "common_names": []
+  },
+  {
     "scientific_name": "Ninox variegata",
     "common_names": [
       {
@@ -57,20 +85,39 @@
     ]
   },
   {
-    "scientific_name": "Ninox superciliaris",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Sovka madagaskarská"
-      }
-    ]
-  },
-  {
     "scientific_name": "Ninox sumbaensis",
     "common_names": [
       {
         "lang": "en",
         "name": "Little Sumba Hawk-owl"
+      },
+      {
+        "lang": "ca",
+        "name": "Nínox de Sumba menut"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkusumbanpöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe mineure"
+      },
+      {
+        "lang": "id",
+        "name": "Pungguk Sumba"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine soembavalkuil"
+      },
+      {
+        "lang": "pl",
+        "name": "Sowica szarolica"
+      },
+      {
+        "lang": "sv",
+        "name": "mindre sumbaspökuggla"
       }
     ]
   },
@@ -129,6 +176,35 @@
     ]
   },
   {
+    "scientific_name": "Ninox spilonotus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Nínox de l'illa de Romblon"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalchdylluan fannog"
+      },
+      {
+        "lang": "en",
+        "name": "Romblon hawk-owl"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe du Romblon"
+      },
+      {
+        "lang": "nl",
+        "name": "Romblonvalkuil"
+      },
+      {
+        "lang": "sv",
+        "name": "romblonspökuggla"
+      }
+    ]
+  },
+  {
     "scientific_name": "Ninox scutulata",
     "common_names": [
       {
@@ -145,7 +221,7 @@
       },
       {
         "lang": "ja",
-        "name": "アオバズク"
+        "name": "フーアアオバズク"
       },
       {
         "lang": "ko",
@@ -171,6 +247,26 @@
       {
         "lang": "pl",
         "name": "sowica białorzytna"
+      },
+      {
+        "lang": "ca",
+        "name": "Nínox de Cebu"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe de Cebu"
+      },
+      {
+        "lang": "hu",
+        "name": "Cebu-szigeti héjabagoly"
+      },
+      {
+        "lang": "nl",
+        "name": "Cebuvalkuil"
+      },
+      {
+        "lang": "sv",
+        "name": "cebuspökuggla"
       }
     ]
   },
@@ -347,6 +443,54 @@
       {
         "lang": "cs",
         "name": "Sovka vánoční"
+      },
+      {
+        "lang": "bg",
+        "name": "Великденска ястребова сова"
+      },
+      {
+        "lang": "da",
+        "name": "Juleø-høgeugle"
+      },
+      {
+        "lang": "de",
+        "name": "Weihnachtsinsel-Buschkauz"
+      },
+      {
+        "lang": "en",
+        "name": "Christmas boobook"
+      },
+      {
+        "lang": "fi",
+        "name": "Joulusaarenpöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe de Christmas"
+      },
+      {
+        "lang": "ga",
+        "name": "Ulchabhán seabhaic Oileán na Nollag"
+      },
+      {
+        "lang": "nl",
+        "name": "Christmas-Islandvalkuil"
+      },
+      {
+        "lang": "pl",
+        "name": "Sowica prążkowana"
+      },
+      {
+        "lang": "sr",
+        "name": "Индонезијски ћук"
+      },
+      {
+        "lang": "sv",
+        "name": "julöspökuggla"
+      },
+      {
+        "lang": "zh",
+        "name": "聖誕島栗鷹鴞"
       }
     ]
   },
@@ -369,6 +513,26 @@
       {
         "lang": "pl",
         "name": "sowica białogardła"
+      },
+      {
+        "lang": "ca",
+        "name": "Nínox de l'illa Camiguin"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe de Camiguin"
+      },
+      {
+        "lang": "hu",
+        "name": "Camiguin-szigeti héjabagoly"
+      },
+      {
+        "lang": "nl",
+        "name": "Camiguinvalkuil"
+      },
+      {
+        "lang": "sv",
+        "name": "camiguinspökuggla"
       }
     ]
   },
@@ -378,6 +542,10 @@
       {
         "lang": "en",
         "name": "Northern Boobook"
+      },
+      {
+        "lang": "ja",
+        "name": "アオバズク"
       }
     ]
   },
@@ -474,6 +642,10 @@
       {
         "lang": "cs",
         "name": "Sovka bubuk"
+      },
+      {
+        "lang": "en",
+        "name": "Australian boobook"
       }
     ]
   },

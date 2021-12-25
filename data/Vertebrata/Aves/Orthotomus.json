@@ -3,16 +3,116 @@
     "scientific_name": "Orthotomus sutorius",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "টুনটুনি"
+      },
+      {
+        "lang": "cs",
+        "name": "Krejčiřík obecný"
+      },
+      {
+        "lang": "da",
+        "name": "Indisk skrædderfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Rotstirn-Schneidervogel"
+      },
+      {
         "lang": "en",
         "name": "Common Tailorbird"
+      },
+      {
+        "lang": "eo",
+        "name": "Komuna tajlorbirdo"
+      },
+      {
+        "lang": "es",
+        "name": "Sastrecillo Común"
+      },
+      {
+        "lang": "fi",
+        "name": "Pitkäpyrstöräätäli"
+      },
+      {
+        "lang": "fr",
+        "name": "Couturière à longue queue"
+      },
+      {
+        "lang": "gu",
+        "name": "દરજીડો"
+      },
+      {
+        "lang": "hi",
+        "name": "Thaiyal chittu"
       },
       {
         "lang": "hu",
         "name": "Varrómadár"
       },
       {
+        "lang": "id",
+        "name": "Cinenen Pisang"
+      },
+      {
+        "lang": "it",
+        "name": "Uccello sarto codalunga"
+      },
+      {
+        "lang": "ja",
+        "name": "オナガサイホウチョウ"
+      },
+      {
+        "lang": "ml",
+        "name": "അടയ്ക്കാപ്പക്ഷി"
+      },
+      {
+        "lang": "mr",
+        "name": "शिंपी"
+      },
+      {
+        "lang": "ms",
+        "name": "Perenjak Pisang"
+      },
+      {
+        "lang": "nl",
+        "name": "Langstaartsnijdervogel"
+      },
+      {
+        "lang": "no",
+        "name": "Langhaleskredderfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Krawczyk zwyczajny"
+      },
+      {
+        "lang": "ru",
+        "name": "Славка-портниха"
+      },
+      {
+        "lang": "sk",
+        "name": "Krajčírik dlhochvostý"
+      },
+      {
+        "lang": "sv",
+        "name": "Skräddarfågel"
+      },
+      {
+        "lang": "ta",
+        "name": "சாதாரண தையல்காரக் குருவி"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระจิบธรรมดา"
+      },
+      {
         "lang": "tr",
         "name": "Uzun kuyruklu terzi kuşu"
+      },
+      {
+        "lang": "zh",
+        "name": "长尾缝叶莺"
       }
     ]
   },
@@ -24,8 +124,24 @@
     "scientific_name": "Orthotomus sepium",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Krejčiřík rudohlavý"
+      },
+      {
+        "lang": "da",
+        "name": "Olivengrå Skrædderfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Rostwangen-Schneidervogel"
+      },
+      {
         "lang": "en",
-        "name": "Olive-backed tailorbird"
+        "name": "Olive-backed Tailorbird"
+      },
+      {
+        "lang": "eo",
+        "name": "Olivdorsa tajlorbirdo"
       },
       {
         "lang": "es",
@@ -36,12 +152,48 @@
         "name": "Tuhkaräätäli"
       },
       {
+        "lang": "fr",
+        "name": "Couturière à dos vert"
+      },
+      {
         "lang": "id",
         "name": "Cinenen jawa"
       },
       {
+        "lang": "it",
+        "name": "Uccello sarto cenerino"
+      },
+      {
+        "lang": "ja",
+        "name": "インドネシアサイホウチョウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodwangsnijdervogel"
+      },
+      {
+        "lang": "no",
+        "name": "Gråskredderfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Krawczyk jawajski"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснощёкая портниха"
+      },
+      {
+        "lang": "sk",
+        "name": "Krajčírik olivový"
+      },
+      {
         "lang": "sv",
         "name": "Javaskräddarfågel"
+      },
+      {
+        "lang": "zh",
+        "name": "爪哇缝叶莺"
       }
     ]
   },
@@ -123,6 +275,27 @@
       {
         "lang": "en",
         "name": "White-eared Tailorbird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Orthotomus chloronotus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Trilling tailorbird"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ دوزنده چهچهه‌زن"
+      },
+      {
+        "lang": "nl",
+        "name": "Trillersnijdervogel"
+      },
+      {
+        "lang": "sv",
+        "name": "drillskräddarfågel"
       }
     ]
   },

@@ -3,8 +3,32 @@
     "scientific_name": "Larosterna inca",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "خرشنة الإنكا"
+      },
+      {
+        "lang": "bg",
+        "name": "Инкска рибарка"
+      },
+      {
+        "lang": "br",
+        "name": "Skrav inka"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac inca"
+      },
+      {
         "lang": "cs",
         "name": "Rybák inka"
+      },
+      {
+        "lang": "cy",
+        "name": "Corswennol Inca"
+      },
+      {
+        "lang": "da",
+        "name": "Inkaterne"
       },
       {
         "lang": "de",
@@ -15,12 +39,16 @@
         "name": "Inca Tern"
       },
       {
-        "lang": "es",
-        "name": "Charrán Inca"
-      },
-      {
         "lang": "eo",
         "name": "Inkaa ŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Charrán inca"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی اینکا"
       },
       {
         "lang": "fi",
@@ -31,8 +59,16 @@
         "name": "Sterne inca"
       },
       {
+        "lang": "he",
+        "name": "שחפית האינקה"
+      },
+      {
         "lang": "hu",
         "name": "Inka csér"
+      },
+      {
+        "lang": "it",
+        "name": "Sterna inca"
       },
       {
         "lang": "ja",
@@ -43,12 +79,24 @@
         "name": "Incastern"
       },
       {
+        "lang": "no",
+        "name": "Inkaterne"
+      },
+      {
         "lang": "pl",
         "name": "Rybitwa wąsata"
       },
       {
         "lang": "ru",
-        "name": "Крачка инков"
+        "name": "Крачка-инка"
+      },
+      {
+        "lang": "sv",
+        "name": "Inkatärna"
+      },
+      {
+        "lang": "vi",
+        "name": "Mòng biển Inca"
       }
     ]
   }

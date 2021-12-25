@@ -3,8 +3,20 @@
     "scientific_name": "Anhima cornuta",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Рогата паламедея"
+      },
+      {
+        "lang": "ca",
+        "name": "Xahà banyut"
+      },
+      {
         "lang": "cs",
         "name": "Kamiš růžkatý"
+      },
+      {
+        "lang": "cy",
+        "name": "Sgrechwr corniog"
       },
       {
         "lang": "de",
@@ -19,12 +31,28 @@
         "name": "Korna kriulo"
       },
       {
+        "lang": "es",
+        "name": "Aruco"
+      },
+      {
+        "lang": "fa",
+        "name": "فریادکش شاخ‌دار"
+      },
+      {
         "lang": "fr",
         "name": "Kamichi cornu"
       },
       {
+        "lang": "he",
+        "name": "קמיקי מקרין"
+      },
+      {
         "lang": "hu",
         "name": "Egyszarvú csája"
+      },
+      {
+        "lang": "it",
+        "name": "Kaimichi cornuto"
       },
       {
         "lang": "ja",
@@ -43,22 +71,24 @@
         "name": "Horngjeterfugl"
       },
       {
+        "lang": "nv",
+        "name": "Zéézhinii bitsiiʼ łizhinígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Skrzydłoszpon rogaty"
+      },
+      {
+        "lang": "pnb",
+        "name": "اچا چیکنا پنچھی"
+      },
+      {
         "lang": "pt",
-        "name": "anhuma",
-        "synonyms": [
-          "alicorne",
-          "anhima",
-          "cametaú",
-          "cauintã",
-          "cavintau",
-          "cavitantau",
-          "cuintau",
-          "inhaúma",
-          "inhuma",
-          "licorne",
-          "unicorne",
-          "unicórnio"
-        ]
+        "name": "Anhuma"
+      },
+      {
+        "lang": "ro",
+        "name": "Anhima cu corn"
       },
       {
         "lang": "ru",
@@ -67,6 +97,14 @@
       {
         "lang": "sv",
         "name": "Hornvärnfågel"
+      },
+      {
+        "lang": "uk",
+        "name": "Паламедея"
+      },
+      {
+        "lang": "zh",
+        "name": "角叫鴨"
       }
     ]
   }

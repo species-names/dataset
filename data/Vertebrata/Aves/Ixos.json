@@ -22,7 +22,32 @@
   },
   {
     "scientific_name": "Ixos siquijorensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Bwlbwl bronresog"
+      },
+      {
+        "lang": "en",
+        "name": "Streak-breasted bulbul"
+      },
+      {
+        "lang": "fi",
+        "name": "Negrosinbulbuli"
+      },
+      {
+        "lang": "hu",
+        "name": "Palaszürkefejű bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Leikruinbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "streckbröstad bulbyl"
+      }
+    ]
   },
   {
     "scientific_name": "Ixos rufigularis",
@@ -43,7 +68,32 @@
   },
   {
     "scientific_name": "Ixos nicobariensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Bwlbwl Nicobar"
+      },
+      {
+        "lang": "en",
+        "name": "Nicobar bulbul"
+      },
+      {
+        "lang": "fi",
+        "name": "Nikobaarienbulbuli"
+      },
+      {
+        "lang": "hu",
+        "name": "Nikobár-szigeteki bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Nicobarenbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "nikobarbulbyl"
+      }
+    ]
   },
   {
     "scientific_name": "Ixos mcclellandii",

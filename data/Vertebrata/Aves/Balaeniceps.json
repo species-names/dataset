@@ -3,6 +3,10 @@
     "scientific_name": "Balaeniceps rex",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Skoenbekooievaar"
+      },
+      {
         "lang": "cs",
         "name": "Člunozobec africký"
       },
@@ -23,8 +27,16 @@
         "name": "Kenkänokka"
       },
       {
-        "lang": "it",
+        "lang": "fr",
+        "name": "Bec-en-sabot"
+      },
+      {
+        "lang": " it",
         "name": "Becco a scarpa"
+      },
+      {
+        "lang": "nl",
+        "name": "Schoenbekooievaar"
       },
       {
         "lang": "pl",
@@ -41,6 +53,10 @@
       {
         "lang": "zh",
         "name": "鯨頭鸛"
+      },
+      {
+        "lang": " es",
+        "name": "Picozapato"
       }
     ]
   }

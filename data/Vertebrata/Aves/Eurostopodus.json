@@ -1,14 +1,5 @@
 [
   {
-    "scientific_name": "Eurostopodus temminckii",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek Temminckův"
-      }
-    ]
-  },
-  {
     "scientific_name": "Eurostopodus papuensis",
     "common_names": [
       {
@@ -30,6 +21,35 @@
     ]
   },
   {
+    "scientific_name": "Eurostopodus nigripennis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Solomons nightjar"
+      },
+      {
+        "lang": "fa",
+        "name": "شبگرد سلیمان"
+      },
+      {
+        "lang": "fr",
+        "name": "Engoulevent des Salomon"
+      },
+      {
+        "lang": "hu",
+        "name": "Salamon-szigeteki füleslappantyú"
+      },
+      {
+        "lang": "nl",
+        "name": "Salomonsnachtzwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "salomonnattskärra"
+      }
+    ]
+  },
+  {
     "scientific_name": "Eurostopodus mystacalis",
     "common_names": [
       {
@@ -43,11 +63,39 @@
     ]
   },
   {
-    "scientific_name": "Eurostopodus macrotis",
+    "scientific_name": "Eurostopodus exul",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Lelek ušatý"
+        "lang": "ca",
+        "name": "Enganyapastors de Nova Caledònia"
+      },
+      {
+        "lang": "de",
+        "name": "Neukaledonien-Nachtschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "New Caledonian nightjar"
+      },
+      {
+        "lang": "fa",
+        "name": "شبگرد کالدونیای جدید"
+      },
+      {
+        "lang": "fr",
+        "name": "Engoulevent calédonien"
+      },
+      {
+        "lang": "hu",
+        "name": "Új-kaledóniai füleslappantyú"
+      },
+      {
+        "lang": "nl",
+        "name": "Nieuw-Caledonische nachtzwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "nyakaledoniennattskärra"
       }
     ]
   },

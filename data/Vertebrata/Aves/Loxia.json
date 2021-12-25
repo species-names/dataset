@@ -1,5 +1,34 @@
 [
   {
+    "scientific_name": "Loxia sinesciuris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cassia Crossbill"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌ضربدری تپه‌های جنوب"
+      },
+      {
+        "lang": "it",
+        "name": "Crociere dell'Idaho"
+      },
+      {
+        "lang": "nl",
+        "name": "Idahokruisbek"
+      },
+      {
+        "lang": "pl",
+        "name": "Krzyżodziób wyżynny"
+      },
+      {
+        "lang": "sv",
+        "name": "Cassiakorsnäbb"
+      }
+    ]
+  },
+  {
     "scientific_name": "Loxia scotica",
     "common_names": [
       {
@@ -23,6 +52,10 @@
         "name": "Krzyżodziób szkocki"
       }
     ]
+  },
+  {
+    "scientific_name": "Loxia sanguinirostris",
+    "common_names": []
   },
   {
     "scientific_name": "Loxia pytyopsittacus",
@@ -118,8 +151,65 @@
     ]
   },
   {
-    "scientific_name": "Loxia megaplaga",
+    "scientific_name": "Loxia panicivora",
     "common_names": []
+  },
+  {
+    "scientific_name": "Loxia mexicana",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Loxia megaplaga",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Испанска кръсточовка"
+      },
+      {
+        "lang": "br",
+        "name": "Beg-kroaz Hispaniola"
+      },
+      {
+        "lang": "ca",
+        "name": "Trencapinyes de la Hispaniola"
+      },
+      {
+        "lang": "en",
+        "name": "Hispaniolan Crossbill"
+      },
+      {
+        "lang": "eo",
+        "name": "Hispaniola krucbekulo"
+      },
+      {
+        "lang": "es",
+        "name": "Piquituerto de La Española"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌ضربدری هیسپانیولا"
+      },
+      {
+        "lang": "fi",
+        "name": "Hispaniolankäpylintu"
+      },
+      {
+        "lang": "fr",
+        "name": "Bec-croisé d'Hispaniola"
+      },
+      {
+        "lang": "it",
+        "name": "Crociere di Hispaniola"
+      },
+      {
+        "lang": "nl",
+        "name": "Hispaniolakruisbek"
+      },
+      {
+        "lang": "sv",
+        "name": "Hispaniolakorsnäbb"
+      }
+    ]
   },
   {
     "scientific_name": "Loxia leucoptera",
@@ -138,7 +228,7 @@
       },
       {
         "lang": "cs",
-        "name": "křivka bělokřídlá"
+        "name": "Křivka bělokřídlá"
       },
       {
         "lang": "da",
@@ -150,9 +240,9 @@
       },
       {
         "lang": "en",
-        "name": "Two-barred Crossbill",
+        "name": "White-winged Crossbill (''leucoptera'')",
         "synonyms": [
-          "White-winged Crossbill"
+          "Two-barred Crossbill (''bifasciata'')"
         ]
       },
       {
@@ -169,7 +259,7 @@
       },
       {
         "lang": "fi",
-        "name": "kirjosiipikäpylintu"
+        "name": "Kirjosiipikäpylintu"
       },
       {
         "lang": "fo",
@@ -197,10 +287,7 @@
       },
       {
         "lang": "ja",
-        "name": "ナキイスカ",
-        "synonyms": [
-          "Nakiisuka"
-        ]
+        "name": "ナキイスカ"
       },
       {
         "lang": "lt",
@@ -224,7 +311,7 @@
       },
       {
         "lang": "pl",
-        "name": "krzyżodziób modrzewiowy"
+        "name": "Krzyżodziób modrzewiowy"
       },
       {
         "lang": "pt",
@@ -240,7 +327,7 @@
       },
       {
         "lang": "sk",
-        "name": "krivonos bielokrídly"
+        "name": "Krivonos bielokrídly"
       },
       {
         "lang": "sv",
@@ -255,6 +342,18 @@
         "name": "白翅交嘴雀"
       }
     ]
+  },
+  {
+    "scientific_name": "Loxia fusca",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Loxia flavicans",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Loxia cyanea",
+    "common_names": []
   },
   {
     "scientific_name": "Loxia curvirostra",
@@ -452,5 +551,25 @@
         "name": "紅交嘴雀"
       }
     ]
+  },
+  {
+    "scientific_name": "Loxia cristata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Loxia collaria",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Loxia cana",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Loxia butyracea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Loxia bicolor",
+    "common_names": []
   }
 ]

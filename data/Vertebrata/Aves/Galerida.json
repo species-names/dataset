@@ -7,8 +7,20 @@
         "name": "قنبرة متوجة صغيرة المنقار"
       },
       {
+        "lang": "bg",
+        "name": "Текла"
+      },
+      {
+        "lang": "br",
+        "name": "Kogenneg-Thekla"
+      },
+      {
         "lang": "ca",
         "name": "Cogullada fosca"
+      },
+      {
+        "lang": "cs",
+        "name": "Chocholouš vavřínový"
       },
       {
         "lang": "de",
@@ -16,15 +28,43 @@
       },
       {
         "lang": "en",
-        "name": "Thekla Lark"
+        "name": "Thekla's Lark"
+      },
+      {
+        "lang": "eo",
+        "name": "Mallongbeka tufalaŭdo"
       },
       {
         "lang": "es",
-        "name": "Cogujada Montesina"
+        "name": "Cogujada montesina"
+      },
+      {
+        "lang": "eu",
+        "name": "Kutturlio mokolabur"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک تکلا"
+      },
+      {
+        "lang": "fi",
+        "name": "Kivikkotöyhtökiuru"
       },
       {
         "lang": "fr",
         "name": "Cochevis de Thékla"
+      },
+      {
+        "lang": "hu",
+        "name": "Kövi pacsirta"
+      },
+      {
+        "lang": "nl",
+        "name": "Thekla’s leeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Krattopplerke"
       },
       {
         "lang": "pl",
@@ -33,12 +73,32 @@
       {
         "lang": "pt",
         "name": "Cotovia-montesina"
+      },
+      {
+        "lang": "ru",
+        "name": "Короткопалый хохлатый жаворонок"
+      },
+      {
+        "lang": "sk",
+        "name": "Pipíška vavrínová"
+      },
+      {
+        "lang": "sv",
+        "name": "Lagerlärka"
+      },
+      {
+        "lang": "zh",
+        "name": "短嘴凤头百灵"
       }
     ]
   },
   {
     "scientific_name": "Galerida modesta",
     "common_names": [
+      {
+        "lang": "cs",
+        "name": "Chocholouš malý"
+      },
       {
         "lang": "de",
         "name": "Sonnenlerche"
@@ -54,16 +114,33 @@
       {
         "lang": "fr",
         "name": "Cochevis modeste"
+      },
+      {
+        "lang": "sk",
+        "name": "Pipíška hrdzavá"
       }
     ]
   },
   {
     "scientific_name": "Galerida malabarica",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Chocholouš malabarský"
+      },
+      {
+        "lang": "sk",
+        "name": "Pipíška skalná"
+      }
+    ]
   },
   {
     "scientific_name": "Galerida magnirostris",
     "common_names": [
+      {
+        "lang": "cs",
+        "name": "Chocholouš velkozobý"
+      },
       {
         "lang": "de",
         "name": "Dickschnabellerche"
@@ -75,6 +152,10 @@
       {
         "lang": "es",
         "name": "Cogujada Picogorda"
+      },
+      {
+        "lang": "sk",
+        "name": "Pipíška hrubozobá"
       },
       {
         "lang": "fr",
@@ -95,6 +176,10 @@
     "scientific_name": "Galerida deva",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Chocholouš indický"
+      },
+      {
         "lang": "en",
         "name": "Sykes's lark"
       },
@@ -103,32 +188,36 @@
         "name": "Cogujada de Deva"
       },
       {
-        "lang": "zh",
-        "name": "塞氏凤头百灵"
-      },
-      {
-        "lang": "sv",
-        "name": "Deccanlärka"
-      },
-      {
-        "lang": "ru",
-        "name": "Хохлатый жаворонок Сайкса"
-      },
-      {
-        "lang": "no",
-        "name": "Kaneltopplerke"
-      },
-      {
-        "lang": "nl",
-        "name": "Sykes' kuifleeuwerik"
+        "lang": "fa",
+        "name": "چکاوک سایکس"
       },
       {
         "lang": "fi",
         "name": "Pikkutöyhtökiuru"
       },
       {
-        "lang": "fa",
-        "name": "چکاوک سایکس"
+        "lang": "nl",
+        "name": "Sykes' kuifleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Kaneltopplerke"
+      },
+      {
+        "lang": "ru",
+        "name": "Хохлатый жаворонок Сайкса"
+      },
+      {
+        "lang": "sk",
+        "name": "Pipíška okrová"
+      },
+      {
+        "lang": "sv",
+        "name": "Deccanlärka"
+      },
+      {
+        "lang": "zh",
+        "name": "塞氏凤头百灵"
       }
     ]
   },
@@ -286,6 +375,10 @@
       {
         "lang": "ru",
         "name": "Хохлатый жаворонок"
+      },
+      {
+        "lang": "sk",
+        "name": "Pipíška chochlatá"
       },
       {
         "lang": "sv",

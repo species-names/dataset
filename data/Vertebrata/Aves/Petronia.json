@@ -1,39 +1,5 @@
 [
   {
-    "scientific_name": "Petronia xanthocollis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Chestnut-shouldered Petronia",
-        "synonyms": [
-          "Yellow-throated sparrow"
-        ]
-      },
-      {
-        "lang": "fr",
-        "name": "Moineau à gorge jaune"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Petronia superciliaris",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Yellow-throated Petronia"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Petronia pyrgita",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Yellow-spotted Petronia"
-      }
-    ]
-  },
-  {
     "scientific_name": "Petronia petronia",
     "common_names": [
       {
@@ -41,8 +7,16 @@
         "name": "دوري الصخر"
       },
       {
+        "lang": "az",
+        "name": "Qaya sərçəsi"
+      },
+      {
         "lang": "bg",
         "name": "Скално врабче"
+      },
+      {
+        "lang": "bh",
+        "name": "पेट्रोनिया पेट्रोनिया"
       },
       {
         "lang": "br",
@@ -51,6 +25,14 @@
       {
         "lang": "ca",
         "name": "Pardal roquer"
+      },
+      {
+        "lang": "cy",
+        "name": "Golfan y graig"
+      },
+      {
+        "lang": "da",
+        "name": "Stenspurv"
       },
       {
         "lang": "de",
@@ -73,6 +55,10 @@
         "name": "Harkaitz-txolarrea"
       },
       {
+        "lang": "fa",
+        "name": "گنجشک صخره"
+      },
+      {
         "lang": "fi",
         "name": "Kalliovarpunen"
       },
@@ -81,12 +67,16 @@
         "name": "Moineau soulcie"
       },
       {
+        "lang": "ga",
+        "name": "Gealbhan petronia"
+      },
+      {
         "lang": "gl",
         "name": "Pardal das rochas"
       },
       {
-        "lang": "hy",
-        "name": "Ճնճղուկ ժայռային"
+        "lang": "he",
+        "name": "בארית ההרים"
       },
       {
         "lang": "hr",
@@ -95,6 +85,10 @@
       {
         "lang": "hu",
         "name": "Kövi veréb"
+      },
+      {
+        "lang": "hy",
+        "name": "Ժայռային ճնճղուկ"
       },
       {
         "lang": "it",
@@ -107,6 +101,10 @@
       {
         "lang": "kbd",
         "name": "Къуршбзу"
+      },
+      {
+        "lang": "kk",
+        "name": "Тас торғайы"
       },
       {
         "lang": "mk",
@@ -145,17 +143,12 @@
         "name": "Kaya serçesi"
       },
       {
+        "lang": "uk",
+        "name": "Горобець скельний"
+      },
+      {
         "lang": "zh",
         "name": "石雀"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Petronia dentata",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Bush Petronia"
       }
     ]
   }

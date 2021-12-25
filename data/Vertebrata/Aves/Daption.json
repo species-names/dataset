@@ -3,6 +3,10 @@
     "scientific_name": "Daption capense",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Seeduifstormvoël"
+      },
+      {
         "lang": "ar",
         "name": "جلم ماء كابي"
       },
@@ -11,12 +15,20 @@
         "name": "Petrell del Cap"
       },
       {
+        "lang": "cs",
+        "name": "buřňák černobílý"
+      },
+      {
         "lang": "de",
         "name": "Kapsturmvogel"
       },
       {
         "lang": "en",
         "name": "Cape Petrel"
+      },
+      {
+        "lang": "eo",
+        "name": "Kaba petrelo"
       },
       {
         "lang": "es",
@@ -81,10 +93,6 @@
       {
         "lang": "to",
         "name": "Lafu houma"
-      },
-      {
-        "lang": "af",
-        "name": "Seeduifstormvoël"
       }
     ]
   }

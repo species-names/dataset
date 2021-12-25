@@ -70,6 +70,10 @@
       {
         "lang": "zh",
         "name": "白腰文鳥"
+      },
+      {
+        "lang": "ja",
+        "name": "コシジロキンパラ（腰白金腹）"
       }
     ]
   },
@@ -81,12 +85,16 @@
         "name": "مونيا مقلنس"
       },
       {
+        "lang": "cy",
+        "name": "Manicin penddu Prydain Newydd"
+      },
+      {
         "lang": "de",
         "name": "Prachtnonne"
       },
       {
         "lang": "en",
-        "name": "Hooded mannikin"
+        "name": "Hooded Mannikin"
       },
       {
         "lang": "es",
@@ -102,7 +110,11 @@
       },
       {
         "lang": "it",
-        "name": "cappuccino pettobianco"
+        "name": "Cappuccino pettobianco"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbuiknon"
       },
       {
         "lang": "no",
@@ -110,7 +122,11 @@
       },
       {
         "lang": "pt",
-        "name": "capuchinho-vistoso"
+        "name": "Capuchinho-vistoso"
+      },
+      {
+        "lang": "ru",
+        "name": "Великолепная муния"
       },
       {
         "lang": "sv",
@@ -196,6 +212,10 @@
       {
         "lang": "zh",
         "name": "斑文鳥"
+      },
+      {
+        "lang": "ta",
+        "name": "புள்ளி சில்லை"
       }
     ]
   },
@@ -301,7 +321,7 @@
       },
       {
         "lang": "sv",
-        "name": "Risfågel"
+        "name": "risfågel"
       },
       {
         "lang": "th",
@@ -362,7 +382,7 @@
       },
       {
         "lang": "it",
-        "name": "donacola delle alture"
+        "name": "Donacola delle alture"
       },
       {
         "lang": "nl",
@@ -453,16 +473,32 @@
     "scientific_name": "Lonchura leucogastroides",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "مونيا جاوي"
+      },
+      {
+        "lang": "cy",
+        "name": "Manicin Jafa"
+      },
+      {
         "lang": "de",
         "name": "Javabronzemännchen"
       },
       {
         "lang": "en",
-        "name": "Javan munia"
+        "name": "Javan Munia"
       },
       {
         "lang": "es",
         "name": "Capuchino de Java"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌نقره‌ای جاوه‌ای"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustakaulamanikki"
       },
       {
         "lang": "fr",
@@ -471,6 +507,26 @@
       {
         "lang": "id",
         "name": "Bondol jawa"
+      },
+      {
+        "lang": "it",
+        "name": "Passero di Giava"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaans bronzemannetje"
+      },
+      {
+        "lang": "no",
+        "name": "Javanonne"
+      },
+      {
+        "lang": "ru",
+        "name": "Яванская амадина"
+      },
+      {
+        "lang": "sv",
+        "name": "Javamunia"
       },
       {
         "lang": "zh",
@@ -503,23 +559,27 @@
       },
       {
         "lang": "en",
-        "name": "Black-throated munia"
+        "name": "Black-throated Munia"
       },
       {
         "lang": "es",
         "name": "Capuchino golinegro"
       },
       {
+        "lang": "fa",
+        "name": "نوک‌نقره‌ای سیاه‌گلو"
+      },
+      {
         "lang": "fi",
         "name": "Suomuvatsamanikki"
       },
       {
-        "lang": "it",
-        "name": "Passero di montagna"
-      },
-      {
         "lang": "fr",
         "name": "Capucin à ventre roux"
+      },
+      {
+        "lang": "it",
+        "name": "Passero di montagna"
       },
       {
         "lang": "ml",
@@ -536,6 +596,10 @@
       {
         "lang": "pt",
         "name": "Capuchinho-de-garganta-preta"
+      },
+      {
+        "lang": "ru",
+        "name": "Златопоясничная амадина"
       },
       {
         "lang": "sv",
@@ -572,24 +636,40 @@
         "name": "مونيا كبير"
       },
       {
+        "lang": "cy",
+        "name": "Manicin pigbraff"
+      },
+      {
         "lang": "de",
         "name": "Dickschnabelnonne"
       },
       {
         "lang": "en",
-        "name": "Great-billed mannikin"
+        "name": "Great-billed Mannikin"
       },
       {
         "lang": "es",
         "name": "Capuchino grande"
       },
       {
+        "lang": "fi",
+        "name": "Isonokkamanikki"
+      },
+      {
         "lang": "fr",
-        "name": "Grand Capucin (oiseau)"
+        "name": "Grand Capucin"
       },
       {
         "lang": "it",
-        "name": "cappuccino beccogrosso"
+        "name": "Cappuccino beccogrosso"
+      },
+      {
+        "lang": "nl",
+        "name": "Dikbeknon"
+      },
+      {
+        "lang": "no",
+        "name": "Stornebbnonne"
       },
       {
         "lang": "sv",
@@ -650,16 +730,24 @@
         "name": "مونيا أغبس"
       },
       {
+        "lang": "cy",
+        "name": "Manicin tywyll"
+      },
+      {
         "lang": "de",
         "name": "Borneo-Bronzemännchen"
       },
       {
         "lang": "en",
-        "name": "Dusky munia"
+        "name": "Dusky Munia"
       },
       {
         "lang": "es",
         "name": "Capuchino sombrío"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌نقره‌ای تیره"
       },
       {
         "lang": "fi",
@@ -674,12 +762,28 @@
         "name": "Bondol kalimantan"
       },
       {
-        "lang": "no",
-        "name": "Kullnonne"
+        "lang": "it",
+        "name": "Passero del Borneo"
+      },
+      {
+        "lang": "ml",
+        "name": "ഡസ്കി മുനിയ"
       },
       {
         "lang": "ms",
         "name": "Burung Bondol Kalimantan"
+      },
+      {
+        "lang": "nl",
+        "name": "Borneobronzemannetje"
+      },
+      {
+        "lang": "no",
+        "name": "Kullnonne"
+      },
+      {
+        "lang": "ru",
+        "name": "Коричневая амадина"
       },
       {
         "lang": "sv",

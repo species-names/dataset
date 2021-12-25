@@ -4,11 +4,15 @@
     "common_names": [
       {
         "lang": "ar",
-        "name": "شُحرُور بريور"
+        "name": "شحرور بريور"
       },
       {
         "lang": "cs",
-        "name": "vlhovec pospolitý"
+        "name": "Vlhovec pospolitý"
+      },
+      {
+        "lang": "cy",
+        "name": "Tresglen Brewer"
       },
       {
         "lang": "da",
@@ -23,12 +27,16 @@
         "name": "Brewer's Blackbird"
       },
       {
+        "lang": "eo",
+        "name": "Purpurkapa eŭfago"
+      },
+      {
         "lang": "es",
         "name": "Zanate de Brewer"
       },
       {
         "lang": "fi",
-        "name": "peltoturpiaali"
+        "name": "Peltoturpiaali"
       },
       {
         "lang": "fr",
@@ -36,7 +44,7 @@
       },
       {
         "lang": "hu",
-        "name": "kékfejű lápicsiröge"
+        "name": "Kékfejű lápicsiröge"
       },
       {
         "lang": "it",
@@ -44,14 +52,11 @@
       },
       {
         "lang": "ja",
-        "name": "テリムクドリモドキ",
-        "synonyms": [
-          "terimukudorimodoki"
-        ]
+        "name": "テリムクドリモドキ"
       },
       {
         "lang": "lt",
-        "name": "Žvilgantysis mažasis trupialas"
+        "name": "Geltonakis trupialas"
       },
       {
         "lang": "nl",
@@ -60,6 +65,10 @@
       {
         "lang": "no",
         "name": "Purpurhodetrupial"
+      },
+      {
+        "lang": "nv",
+        "name": "Chʼagiishzhiin"
       },
       {
         "lang": "pl",
@@ -71,10 +80,7 @@
       },
       {
         "lang": "sk",
-        "name": "Trupiálovec purpurový",
-        "synonyms": [
-          "vlhovec purpurový"
-        ]
+        "name": "Trupiálovec purpurový"
       },
       {
         "lang": "sv",
@@ -90,8 +96,20 @@
     "scientific_name": "Euphagus carolinus",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Ръждив трупиал"
+      },
+      {
+        "lang": "ca",
+        "name": "Quíscal del Canadà"
+      },
+      {
         "lang": "cs",
-        "name": "vlhovec severní"
+        "name": "Vlhovec severní"
+      },
+      {
+        "lang": "cy",
+        "name": "Tresglen winau"
       },
       {
         "lang": "da",
@@ -106,16 +124,24 @@
         "name": "Rusty Blackbird"
       },
       {
+        "lang": "eo",
+        "name": "Rusta eŭfago"
+      },
+      {
         "lang": "es",
         "name": "Zanate Canadiense"
       },
       {
         "lang": "fi",
-        "name": "korpiturpiaali"
+        "name": "Korpiturpiaali"
       },
       {
         "lang": "fr",
         "name": "Quiscale rouilleux"
+      },
+      {
+        "lang": "hu",
+        "name": "Fakó lápicsiröge"
       },
       {
         "lang": "is",
@@ -127,17 +153,11 @@
       },
       {
         "lang": "ja",
-        "name": "クロムクドリモドキ",
-        "synonyms": [
-          "kuromukudorimodoki"
-        ]
+        "name": "クロムクドリモドキ"
       },
       {
         "lang": "lt",
-        "name": "Juodrudis trupialas",
-        "synonyms": [
-          "Rusvasis trupialas"
-        ]
+        "name": "Juodrudis trupialas"
       },
       {
         "lang": "nl",
@@ -148,8 +168,12 @@
         "name": "Kanadatrupial"
       },
       {
+        "lang": "nv",
+        "name": "Haʼaʼaahdę́ę́ʼ chʼagiishzhiin"
+      },
+      {
         "lang": "pl",
-        "name": "kacykarzyk karoliński"
+        "name": "Kacykarzyk karoliński"
       },
       {
         "lang": "pt",
@@ -157,15 +181,15 @@
       },
       {
         "lang": "ru",
-        "name": "Ржавчатый трупиал"
+        "name": "Ржавчатый малый трупиал"
       },
       {
         "lang": "sk",
-        "name": "vlhovec tmavý"
+        "name": "Vlhovec tmavý"
       },
       {
         "lang": "sl",
-        "name": "črni škorčevec"
+        "name": "Črni škorčevec"
       },
       {
         "lang": "sv",

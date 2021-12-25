@@ -1,5 +1,18 @@
 [
   {
+    "scientific_name": "Porphyrospiza carbonaria",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Carbonated sierra-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Yal carbonero"
+      }
+    ]
+  },
+  {
     "scientific_name": "Porphyrospiza caerulescens",
     "common_names": [
       {
@@ -33,6 +46,23 @@
       {
         "lang": "sv",
         "name": "camposfink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Porphyrospiza alaudina",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Band-tailed Sierra Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Yal platero"
+      },
+      {
+        "lang": "fr",
+        "name": "Phrygile à queue barrée"
       }
     ]
   }

@@ -3,6 +3,26 @@
     "scientific_name": "Alauda razae",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "قنبرة راسو"
+      },
+      {
+        "lang": "bg",
+        "name": "Разова чучулига"
+      },
+      {
+        "lang": "br",
+        "name": "Alc'hweder Raso"
+      },
+      {
+        "lang": "ca",
+        "name": "Alosa de Razo"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd Ynys Raza"
+      },
+      {
         "lang": "de",
         "name": "Rasolerche"
       },
@@ -11,12 +31,157 @@
         "name": "Raso Lark"
       },
       {
+        "lang": "es",
+        "name": "Alondra de Raso"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک راسو"
+      },
+      {
+        "lang": "fi",
+        "name": "Rasonkiuru"
+      },
+      {
         "lang": "fr",
         "name": "Alouette de Razo"
       },
       {
+        "lang": "hu",
+        "name": "Razói pacsirta"
+      },
+      {
+        "lang": "it",
+        "name": "Allodola di Raso"
+      },
+      {
+        "lang": "nl",
+        "name": "Razoleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Rasolerke"
+      },
+      {
+        "lang": "ru",
+        "name": "Разуанский жаворонок"
+      },
+      {
+        "lang": "sv",
+        "name": "Rasolärka"
+      },
+      {
+        "lang": "th",
+        "name": "นกจาบฝนฮาซู"
+      },
+      {
         "lang": "zh",
-        "name": "拉扎雲雀"
+        "name": "拉扎云雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alauda leucoptera",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "قبرة بيضاءة الجناحين"
+      },
+      {
+        "lang": "ba",
+        "name": "Сырлауыҡ"
+      },
+      {
+        "lang": "bg",
+        "name": "Белокрила чучулига"
+      },
+      {
+        "lang": "br",
+        "name": "Alc'hweder eskell gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Calàndria alablanca"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd adeinwyn"
+      },
+      {
+        "lang": "de",
+        "name": "Weißflügellerche"
+      },
+      {
+        "lang": "en",
+        "name": "White-winged Lark"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankflugila alaŭdo"
+      },
+      {
+        "lang": "es",
+        "name": "Calandria aliblanca"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک بال‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkosiipikiuru"
+      },
+      {
+        "lang": "fr",
+        "name": "Alouette leucoptère"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérszárnyú pacsirta"
+      },
+      {
+        "lang": "kbd",
+        "name": "Бзудамэху"
+      },
+      {
+        "lang": "kk",
+        "name": "Аққанатты бозторғай"
+      },
+      {
+        "lang": "nl",
+        "name": "Witvleugelleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitvingelerke"
+      },
+      {
+        "lang": "pl",
+        "name": "Skowronek białoskrzydły"
+      },
+      {
+        "lang": "ru",
+        "name": "Белокрылый жаворонок"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitvingad lärka"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak kanatlı toygar"
+      },
+      {
+        "lang": "uk",
+        "name": "Жайворонок білокрилий"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca cánh trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "白翅百灵"
       }
     ]
   },
@@ -24,8 +189,44 @@
     "scientific_name": "Alauda gulgula",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "قبرة الحقول الشرقية"
+      },
+      {
+        "lang": "bg",
+        "name": "Индийска чучулига"
+      },
+      {
+        "lang": "bn",
+        "name": "ঝুঁটিভরত"
+      },
+      {
+        "lang": "br",
+        "name": "Alc'hweder ar reter"
+      },
+      {
+        "lang": "ca",
+        "name": "Alosa oriental"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd dwyreiniol"
+      },
+      {
+        "lang": "de",
+        "name": "Kleine Feldlerche"
+      },
+      {
         "lang": "en",
         "name": "Oriental Skylark"
+      },
+      {
+        "lang": "es",
+        "name": "Alondra oriental"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک آسمانی خاوری"
       },
       {
         "lang": "fi",
@@ -34,6 +235,42 @@
       {
         "lang": "hu",
         "name": "Indiai mezeipacsirta"
+      },
+      {
+        "lang": "kk",
+        "name": "Үнді бозторғайы"
+      },
+      {
+        "lang": "ml",
+        "name": "വാനമ്പാടിക്കിളി"
+      },
+      {
+        "lang": "ne",
+        "name": "ब्राह्मीचटी"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine veldleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Orientlerke"
+      },
+      {
+        "lang": "ru",
+        "name": "Малый полевой жаворонок"
+      },
+      {
+        "lang": "sv",
+        "name": "Mindre sånglärka"
+      },
+      {
+        "lang": "uk",
+        "name": "Жайворонок індійський"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca"
       },
       {
         "lang": "zh",
@@ -46,7 +283,7 @@
     "common_names": [
       {
         "lang": "ar",
-        "name": "قنبرة الغيط"
+        "name": "قبرة الغيط"
       },
       {
         "lang": "ba",
@@ -153,10 +390,6 @@
         "name": "Laverca"
       },
       {
-        "lang": "hy",
-        "name": "Դաշտային արտույտ"
-      },
-      {
         "lang": "hr",
         "name": "Poljska ševa"
       },
@@ -165,20 +398,24 @@
         "name": "Mezei pacsirta"
       },
       {
+        "lang": "hy",
+        "name": "Դաշտային արտույտ"
+      },
+      {
         "lang": "it",
         "name": "Allodola"
       },
       {
         "lang": "ja",
-        "name": "ヒバリ（雲雀",
-        "synonyms": [
-          "告天子",
-          "鷚）"
-        ]
+        "name": "ヒバリ"
       },
       {
         "lang": "kbd",
         "name": "Мэлыхъуэбзу"
+      },
+      {
+        "lang": "kk",
+        "name": "Шалғындық бозторғай"
       },
       {
         "lang": "ko",
@@ -186,7 +423,7 @@
       },
       {
         "lang": "ku",
-        "name": "Çûkê zad"
+        "name": "Çizçizonek"
       },
       {
         "lang": "lt",
@@ -197,8 +434,12 @@
         "name": "Lauku cīrulis"
       },
       {
+        "lang": "mk",
+        "name": "Полска чучурлига"
+      },
+      {
         "lang": "mn",
-        "name": "Болжмор"
+        "name": "Боролзой богширго"
       },
       {
         "lang": "mrj",
@@ -209,16 +450,28 @@
         "name": "ဘီလုံးငှက်"
       },
       {
+        "lang": "nap",
+        "name": "Terragnòla"
+      },
+      {
+        "lang": "ne",
+        "name": "गोलासिनी भारद्वाज"
+      },
+      {
         "lang": "nl",
         "name": "Veldleeuwerik"
+      },
+      {
+        "lang": "nn",
+        "name": "Songlerke"
       },
       {
         "lang": "no",
         "name": "Sanglerke"
       },
       {
-        "lang": "nn",
-        "name": "Songlerke"
+        "lang": "olo",
+        "name": "Kiuru"
       },
       {
         "lang": "pcd",
@@ -230,10 +483,11 @@
       },
       {
         "lang": "pt",
-        "name": "Laverca",
-        "synonyms": [
-          "cotovia"
-        ]
+        "name": "Laverca"
+      },
+      {
+        "lang": "ro",
+        "name": "Ciocârlie de câmp"
       },
       {
         "lang": "ru",
@@ -246,6 +500,10 @@
       {
         "lang": "sah",
         "name": "Күөрэгэй"
+      },
+      {
+        "lang": "se",
+        "name": "Leivvoš"
       },
       {
         "lang": "sk",
@@ -261,10 +519,11 @@
       },
       {
         "lang": "tr",
-        "name": "Tarla kuşu",
-        "synonyms": [
-          "bayağı toygar"
-        ]
+        "name": "Tarla kuşu"
+      },
+      {
+        "lang": "tt",
+        "name": "Сабан тургае"
       },
       {
         "lang": "uk",
@@ -275,12 +534,28 @@
         "name": "Lòdola"
       },
       {
+        "lang": "vep",
+        "name": "Kegonpaniilind"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca Á-Âu"
+      },
+      {
         "lang": "wa",
         "name": "Aloye"
       },
       {
+        "lang": "wuu",
+        "name": "云雀"
+      },
+      {
         "lang": "zh",
         "name": "云雀"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "雲雀"
       }
     ]
   }

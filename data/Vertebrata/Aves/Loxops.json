@@ -1,5 +1,88 @@
 [
   {
+    "scientific_name": "Loxops wolstenholmei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Oʻahu ʻakepa"
+      },
+      {
+        "lang": "fa",
+        "name": "اآهانوکوپواو"
+      },
+      {
+        "lang": "hu",
+        "name": "Oahu-i akepa"
+      },
+      {
+        "lang": "nl",
+        "name": "Oahu-akepa"
+      },
+      {
+        "lang": "pl",
+        "name": "Hawajka rdzawa"
+      },
+      {
+        "lang": "sv",
+        "name": "Oahu-akepa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Loxops ochraceus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Maui-Akepakleidervogel"
+      },
+      {
+        "lang": "en",
+        "name": "Maui ʻakepa"
+      },
+      {
+        "lang": "nl",
+        "name": "Maui-akepa"
+      },
+      {
+        "lang": "ru",
+        "name": "Гавайская древесница-акепа"
+      },
+      {
+        "lang": "sv",
+        "name": "Maui-akepa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Loxops mana",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Mêl-gropiwr Hawaii"
+      },
+      {
+        "lang": "en",
+        "name": "Hawaiʻi creeper"
+      },
+      {
+        "lang": "fi",
+        "name": "Havaijinkiipijä"
+      },
+      {
+        "lang": "nl",
+        "name": "Hawaiikruiper"
+      },
+      {
+        "lang": "nv",
+        "name": "Eʼeʼaahjí Tónteeldę́ę́ʼ tsin yąąh dzootʼihí yishtłizhígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "hawaiiklätterfink"
+      }
+    ]
+  },
+  {
     "scientific_name": "Loxops coccineus",
     "common_names": [
       {
@@ -25,6 +108,22 @@
       {
         "lang": "sv",
         "name": "Hawaii-akepa"
+      },
+      {
+        "lang": "cy",
+        "name": "Acepa"
+      },
+      {
+        "lang": "fi",
+        "name": "Akepa"
+      },
+      {
+        "lang": "nl",
+        "name": "Hawaii-akepa"
+      },
+      {
+        "lang": "nv",
+        "name": "Eʼeʼaahjí Tónteeldę́ę́ʼ tsin yąąh dzootʼihí łichíʼígíí"
       }
     ]
   },
@@ -45,7 +144,23 @@
       },
       {
         "lang": "sv",
-        "name": "Akeki"
+        "name": "akeki"
+      },
+      {
+        "lang": "nl",
+        "name": "Akekee"
+      },
+      {
+        "lang": "nv",
+        "name": "Eʼeʼaahjí Tónteeldę́ę́ʼ tsin yąąh dzootʼihí bizééʼ łitsooígíí"
+      },
+      {
+        "lang": "ro",
+        "name": "Akekee"
+      },
+      {
+        "lang": "uk",
+        "name": "Акеке"
       }
     ]
   }

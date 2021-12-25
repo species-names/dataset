@@ -1,26 +1,273 @@
 [
   {
     "scientific_name": "Saucerottia viridigaster",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-bellied Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia colimorada"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Beija-flor-de-barriga-verde"
+      }
+    ]
   },
   {
-    "scientific_name": "Saucerottia saucerrottei",
-    "common_names": []
+    "scientific_name": "Saucerottia tobaci",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Copper-rumped Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia de Tobago"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Saucerottia saucerottei",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kolibřík Saucerottův"
+      },
+      {
+        "lang": "da",
+        "name": "Stålgrøn Amazilie"
+      },
+      {
+        "lang": "de",
+        "name": "Stahlgrüne Amazilie"
+      },
+      {
+        "lang": "en",
+        "name": "Steely-vented Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia verdiazul"
+      },
+      {
+        "lang": "fi",
+        "name": "terästimanttikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Ariane de Sophie"
+      },
+      {
+        "lang": "hu",
+        "name": "szavannakolibri"
+      },
+      {
+        "lang": "it",
+        "name": "Amazilia coda d'acciaio"
+      },
+      {
+        "lang": "ja",
+        "name": "ブロンズエメラルドハチドリ",
+        "synonyms": [
+          "buronzuemerarudohachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwbuikamazilia"
+      },
+      {
+        "lang": "no",
+        "name": "Stålbukkolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "szmaragdzik plantacjowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Рыжая амазилия"
+      },
+      {
+        "lang": "sk",
+        "name": "kolibrík plantážový"
+      },
+      {
+        "lang": "sv",
+        "name": "Stålbukskolibri"
+      },
+      {
+        "lang": "zh",
+        "name": "灰腹蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Saucerottia hoffmanni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-vented Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia azul"
+      }
+    ]
   },
   {
     "scientific_name": "Saucerottia edward",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kolibřík Edwardův"
+      },
+      {
+        "lang": "da",
+        "name": "Bronzehalet Snebryst"
+      },
+      {
+        "lang": "de",
+        "name": "Edwardamazilie"
+      },
+      {
+        "lang": "en",
+        "name": "Snowy-bellied Hummingbird",
+        "synonyms": [
+          "Snowy-breasted Hummingbird"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia de Edward"
+      },
+      {
+        "lang": "fi",
+        "name": "lumitimanttikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Ariane d'Edward"
+      },
+      {
+        "lang": "hu",
+        "name": "panamai kolibri"
+      },
+      {
+        "lang": "it",
+        "name": "Amazilia pettodineve"
+      },
+      {
+        "lang": "ja",
+        "name": "シロムネエメラルドハチドリ",
+        "synonyms": [
+          "shiromuneemerarudohachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Edwards Amazilia"
+      },
+      {
+        "lang": "no",
+        "name": "Snøbukkolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "szmaragdzik zlotogrzbiety"
+      },
+      {
+        "lang": "ru",
+        "name": "Белобрюхая амазилия"
+      },
+      {
+        "lang": "sk",
+        "name": "kolibrík zlatochrbtý"
+      },
+      {
+        "lang": "sv",
+        "name": "Bronsstjärtad smaragd"
+      },
+      {
+        "lang": "zh",
+        "name": "雪胸蜂鸟"
+      }
+    ]
   },
   {
     "scientific_name": "Saucerottia cyanura",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-tailed Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia coliazul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Saucerottia cyanocephala",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Azure-crowned Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia coroniazul"
+      }
+    ]
   },
   {
     "scientific_name": "Saucerottia cyanifrons",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indigo-capped Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia capiazul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Saucerottia castaneiventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-bellied Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia ventricastaña"
+      },
+      {
+        "lang": "fi",
+        "name": "Kastanjatimanttikolibri"
+      }
+    ]
   },
   {
     "scientific_name": "Saucerottia beryllina",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Berylline Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia berilina"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Saucerottia alfaroana",
     "common_names": []
   }
 ]

@@ -3,14 +3,6 @@
     "scientific_name": "Pipile pipile",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Trinidad Piping-guan"
-      },
-      {
-        "lang": "pt",
-        "name": "Cujubim"
-      },
-      {
         "lang": "ar",
         "name": "غوان ترينداد"
       },
@@ -25,6 +17,10 @@
       {
         "lang": "de",
         "name": "Trinidadguan"
+      },
+      {
+        "lang": "en",
+        "name": "Trinidad Piping Guan"
       },
       {
         "lang": "eo",
@@ -59,12 +55,16 @@
         "name": "Grdacz trinidadzki"
       },
       {
+        "lang": "pt",
+        "name": "Cujubim"
+      },
+      {
         "lang": "ru",
         "name": "Синегорлая абурри"
       },
       {
         "lang": "sv",
-        "name": "trinidadguan"
+        "name": "Trinidadguan"
       },
       {
         "lang": "zh",
@@ -87,6 +87,61 @@
           "jacupará",
           "peru-do-mato"
         ]
+      },
+      {
+        "lang": "ar",
+        "name": "غوان أسود الوجه"
+      },
+      {
+        "lang": "bg",
+        "name": "Черночела креслива чачалака"
+      },
+      {
+        "lang": "ca",
+        "name": "Guan xiulador d'ulleres"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwân talcenddu"
+      },
+      {
+        "lang": "eo",
+        "name": "Jakutingo"
+      },
+      {
+        "lang": "es",
+        "name": "yacutinga",
+        "synonyms": [
+          "pava yacutinga"
+        ]
+      },
+      {
+        "lang": "fa",
+        "name": "شب‌خروش نی‌لبک‌زن جلوسیاه"
+      },
+      {
+        "lang": "fr",
+        "name": "Pénélope à front noir"
+      },
+      {
+        "lang": "hu",
+        "name": "Pápaszemes guán"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnpieres svilpējguana"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartmaskergoean"
+      },
+      {
+        "lang": "sv",
+        "name": "svartpannad guan"
+      },
+      {
+        "lang": "zh",
+        "name": "黑額鳴冠雉"
       }
     ]
   },

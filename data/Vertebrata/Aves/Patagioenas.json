@@ -148,11 +148,58 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Peruvian Pigeon"
+        "name": "Peruvian Pigeon",
+        "synonyms": [
+          "Maranon pigeon"
+        ]
       },
       {
         "lang": "fi",
         "name": "Perunkyyhky"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom del Perú"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen Salvin"
+      },
+      {
+        "lang": "da",
+        "name": "Perudue"
+      },
+      {
+        "lang": "de",
+        "name": "Salvintaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Pigeon du Pérou"
+      },
+      {
+        "lang": "mrj",
+        "name": "Перу кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Salvins duif"
+      },
+      {
+        "lang": "nv",
+        "name": "Dibénééz Bikéyahdę́ę́ʼ hasbídí łibáhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "چلی کبوتر"
+      },
+      {
+        "lang": "qu",
+        "name": "Kukuli Qullqamar"
+      },
+      {
+        "lang": "sv",
+        "name": "marañónduva"
       }
     ]
   },
@@ -166,6 +213,10 @@
       {
         "lang": "fi",
         "name": "Purppurakyyhky"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma piquicorta"
       }
     ]
   },
@@ -312,7 +363,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "holub středoamerický"
+        "name": "Holub středoamerický"
       },
       {
         "lang": "da",
@@ -332,11 +383,11 @@
       },
       {
         "lang": "et",
-        "name": "mehhiko tuvi"
+        "name": "Mehhiko tuvi"
       },
       {
         "lang": "fi",
-        "name": "tulinokkakyyhky"
+        "name": "Tulinokkakyyhky"
       },
       {
         "lang": "fr",
@@ -344,7 +395,7 @@
       },
       {
         "lang": "hu",
-        "name": "piroscsőrű galamb"
+        "name": "Piroscsőrű galamb"
       },
       {
         "lang": "it",
@@ -352,10 +403,7 @@
       },
       {
         "lang": "ja",
-        "name": "アカハシバト",
-        "synonyms": [
-          "akahashibato"
-        ]
+        "name": "アカハシバト"
       },
       {
         "lang": "nl",
@@ -367,7 +415,7 @@
       },
       {
         "lang": "pl",
-        "name": "gołąb czerwonodzioby"
+        "name": "Gołąb czerwonodzioby"
       },
       {
         "lang": "pt",
@@ -379,7 +427,7 @@
       },
       {
         "lang": "sk",
-        "name": "holub červenozobý"
+        "name": "Holub červenozobý"
       },
       {
         "lang": "sv",
@@ -543,6 +591,50 @@
       {
         "lang": "fi",
         "name": "Jamaikankyyhky"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom de Jamaica"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen gynffonresog y Caribî"
+      },
+      {
+        "lang": "de",
+        "name": "Karibentaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دم‌حلقه‌دار"
+      },
+      {
+        "lang": "fr",
+        "name": "Pigeon de Jamaïque"
+      },
+      {
+        "lang": "hu",
+        "name": "Jamaicai galamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Корнан пачан Ямайка кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Jamaicaduif"
+      },
+      {
+        "lang": "pl",
+        "name": "Gołąbczak jamajski"
+      },
+      {
+        "lang": "pnb",
+        "name": "پیٹاجیوناس کیریبیا"
+      },
+      {
+        "lang": "sv",
+        "name": "jamaicaduva"
       }
     ]
   },

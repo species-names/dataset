@@ -26,6 +26,38 @@
       {
         "lang": "en",
         "name": "Brown Wood-rail"
+      },
+      {
+        "lang": "br",
+        "name": "Rakig Wolf"
+      },
+      {
+        "lang": "ca",
+        "name": "Rascló de Wolf"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen goed frown"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Wolf"
+      },
+      {
+        "lang": "ja",
+        "name": "チャイロモリクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruine bosral"
+      },
+      {
+        "lang": "pt",
+        "name": "Saracura-marrom"
+      },
+      {
+        "lang": "sv",
+        "name": "brunrall"
       }
     ]
   },
@@ -92,15 +124,6 @@
     ]
   },
   {
-    "scientific_name": "Aramides gutturalis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Red-throated Wood-rail"
-      }
-    ]
-  },
-  {
     "scientific_name": "Aramides calopterus",
     "common_names": [
       {
@@ -118,11 +141,11 @@
     ]
   },
   {
-    "scientific_name": "Aramides cajanea",
+    "scientific_name": "Aramides cajaneus",
     "common_names": [
       {
         "lang": "cs",
-        "name": "chřástal guyanský"
+        "name": "Chřástal guyanský"
       },
       {
         "lang": "da",
@@ -134,19 +157,19 @@
       },
       {
         "lang": "en",
-        "name": "Grey-necked Wood-Rail"
+        "name": "Grey-necked Wood Rail"
       },
       {
         "lang": "es",
-        "name": "Cotara Chiricote"
+        "name": "Cotara chiricote"
       },
       {
         "lang": "et",
-        "name": "hallkael-võsaruik"
+        "name": "Hallkael-võsaruik"
       },
       {
         "lang": "fi",
-        "name": "mölymangrovekana"
+        "name": "Mölymangrovekana"
       },
       {
         "lang": "fr",
@@ -158,7 +181,7 @@
       },
       {
         "lang": "hu",
-        "name": "szürkenyakú erdeiguvat"
+        "name": "Szürkenyakú erdeiguvat"
       },
       {
         "lang": "it",
@@ -166,10 +189,7 @@
       },
       {
         "lang": "ja",
-        "name": "コンゴウクイナ",
-        "synonyms": [
-          "kongoukuina"
-        ]
+        "name": "コンゴウクイナ"
       },
       {
         "lang": "nl",
@@ -181,15 +201,15 @@
       },
       {
         "lang": "pl",
-        "name": "chruścielak szaroszyi"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Saracura-três-potes"
+        "name": "Chruścielak szaroszyi"
       },
       {
         "lang": "pt",
         "name": "Saracura-tres-potes"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Saracura-três-potes"
       },
       {
         "lang": "ru",
@@ -197,7 +217,7 @@
       },
       {
         "lang": "sk",
-        "name": "chriašteľ sivokrký"
+        "name": "Chriašteľ sivokrký"
       },
       {
         "lang": "sv",
@@ -215,6 +235,35 @@
       {
         "lang": "en",
         "name": "Rufous-necked Wood-rail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aramides albiventris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-naped Wood Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Chilacoa colinegra"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo ventrebianco"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbuikbosral"
+      },
+      {
+        "lang": "nv",
+        "name": "Shádiʼááhdę́ę́ʼ lókʼaatah noołnahii bitsiitʼáád halchíʼígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "Centralamerikansk rall"
       }
     ]
   }

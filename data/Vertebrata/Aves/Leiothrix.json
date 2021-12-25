@@ -3,25 +3,174 @@
     "scientific_name": "Leiothrix lutea",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بهدل أحمر المنقار"
+      },
+      {
+        "lang": "bg",
+        "name": "Обикновен китайски славей"
+      },
+      {
+        "lang": "ca",
+        "name": "Rossinyol del Japó"
+      },
+      {
+        "lang": "cs",
+        "name": "Timálie čínská"
+      },
+      {
+        "lang": "cy",
+        "name": "Mesia picoch"
+      },
+      {
         "lang": "da",
         "name": "Kinesisk Nattergal"
+      },
+      {
+        "lang": "de",
+        "name": "Sonnenvogel"
       },
       {
         "lang": "en",
         "name": "Red-billed Leiothrix"
       },
       {
+        "lang": "es",
+        "name": "Leiotrix piquirrojo"
+      },
+      {
+        "lang": "fa",
+        "name": "بلبل پکن"
+      },
+      {
         "lang": "fr",
         "name": "Léiothrix jaune"
       },
       {
+        "lang": "gl",
+        "name": "Reiseñor do Xapón"
+      },
+      {
+        "lang": "hu",
+        "name": "Piroscsőrű napmadár"
+      },
+      {
+        "lang": "it",
+        "name": "Usignolo del Giappone"
+      },
+      {
         "lang": "ja",
         "name": "ソウシチョウ"
+      },
+      {
+        "lang": "ne",
+        "name": "रोचिष्णु मिसिया"
+      },
+      {
+        "lang": "nl",
+        "name": "Japanse nachtegaal"
+      },
+      {
+        "lang": "pl",
+        "name": "Pekińczyk czerwonodzioby"
+      },
+      {
+        "lang": "pnb",
+        "name": "مارگلہ چڑی"
+      },
+      {
+        "lang": "pt",
+        "name": "Rouxinol-do-japão"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödnäbbad sångtimalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Kim oanh mỏ đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "红嘴相思鸟"
       }
     ]
   },
   {
     "scientific_name": "Leiothrix argentauris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بهدل فضي الأذن"
+      },
+      {
+        "lang": "cs",
+        "name": "Timálie stříbrouchá"
+      },
+      {
+        "lang": "cy",
+        "name": "Mesia arianglust"
+      },
+      {
+        "lang": "de",
+        "name": "Silberohr-Sonnenvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Silver-eared Mesia"
+      },
+      {
+        "lang": "es",
+        "name": "Leiótrix cariblanco"
+      },
+      {
+        "lang": "fa",
+        "name": "گوش‌نقره‌ای"
+      },
+      {
+        "lang": "fi",
+        "name": "Hopeakorvatimali"
+      },
+      {
+        "lang": "fr",
+        "name": "Léiothrix à joues argent"
+      },
+      {
+        "lang": "hu",
+        "name": "Ezüstfülű napmadár"
+      },
+      {
+        "lang": "id",
+        "name": "Panca warna"
+      },
+      {
+        "lang": "it",
+        "name": "Mesia guanceargento"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Rimba Telinga Perak"
+      },
+      {
+        "lang": "ne",
+        "name": "चाँदीकाने मिसिया"
+      },
+      {
+        "lang": "nl",
+        "name": "Zilveroortimalia"
+      },
+      {
+        "lang": "sv",
+        "name": "Silverörad sångtimalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Kim oanh tai bạc"
+      },
+      {
+        "lang": "zh",
+        "name": "银耳相思鸟"
+      }
+    ]
   }
 ]

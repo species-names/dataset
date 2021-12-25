@@ -3,20 +3,56 @@
     "scientific_name": "Buteo ventralis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Aligot de la Patagònia"
+      },
+      {
         "lang": "cs",
         "name": "Káně patagonská"
       },
       {
+        "lang": "cy",
+        "name": "Bwncath cynffongoch y De"
+      },
+      {
         "lang": "en",
-        "name": "rufous-tailed hawk"
+        "name": "Rufous-tailed Hawk"
+      },
+      {
+        "lang": "eo",
+        "name": "Patagona buteo"
       },
       {
         "lang": "es",
         "name": "Busardo patagón"
       },
       {
+        "lang": "fa",
+        "name": "قوش دم‌حنایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Patagonianhiirihaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Buse de Patagonie"
+      },
+      {
+        "lang": "nl",
+        "name": "Patagonische buizerd"
+      },
+      {
         "lang": "pl",
         "name": "Myszołów patagoński"
+      },
+      {
+        "lang": "ru",
+        "name": "Магелланов канюк"
+      },
+      {
+        "lang": "sv",
+        "name": "Magellanvråk"
       },
       {
         "lang": "tr",
@@ -50,7 +86,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "káně bělohrdlá"
+        "name": "Káně bělohrdlá"
       },
       {
         "lang": "da",
@@ -73,11 +109,11 @@
       },
       {
         "lang": "et",
-        "name": "preeriaviu"
+        "name": "Preeriaviu"
       },
       {
         "lang": "fi",
-        "name": "preeriahiirihaukka"
+        "name": "Preeriahiirihaukka"
       },
       {
         "lang": "fr",
@@ -93,7 +129,7 @@
       },
       {
         "lang": "hu",
-        "name": "prériölyv"
+        "name": "Prériölyv"
       },
       {
         "lang": "is",
@@ -140,11 +176,11 @@
       },
       {
         "lang": "sk",
-        "name": "myšiak prériový"
+        "name": "Myšiak prériový"
       },
       {
         "lang": "sl",
-        "name": "prerijska kanja"
+        "name": "Prerijska kanja"
       },
       {
         "lang": "sv",
@@ -204,12 +240,36 @@
     "scientific_name": "Buteo socotraensis",
     "common_names": [
       {
-        "lang": " en",
+        "lang": "ca",
+        "name": "Aligot de Socotra"
+      },
+      {
+        "lang": "en",
         "name": "Socotra Buzzard"
       },
       {
-        "lang": " pl",
+        "lang": "eo",
+        "name": "Sokotra buteo"
+      },
+      {
+        "lang": "fa",
+        "name": "سارگپه سقطرا"
+      },
+      {
+        "lang": "fr",
+        "name": "Buse de Socotra"
+      },
+      {
+        "lang": "nl",
+        "name": "Socotrabuizerd"
+      },
+      {
+        "lang": "pl",
         "name": "Myszołów sokotrzański"
+      },
+      {
+        "lang": "sv",
+        "name": "Sokotravråk"
       }
     ]
   },
@@ -279,11 +339,15 @@
       },
       {
         "lang": "ar",
-        "name": "السقاوة"
+        "name": "صقر جراح"
       },
       {
         "lang": "az",
         "name": "Çöl sarı"
+      },
+      {
+        "lang": "ba",
+        "name": "Ялан һары"
       },
       {
         "lang": "be",
@@ -304,6 +368,10 @@
       {
         "lang": "cs",
         "name": "Káně bělochvostá"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwncath hirgoes"
       },
       {
         "lang": "da",
@@ -327,15 +395,19 @@
       },
       {
         "lang": "es",
-        "name": "Busardo moro"
+        "name": "Ratonero moro"
       },
       {
         "lang": "et",
-        "name": "stepiviu"
+        "name": "Stepiviu"
       },
       {
         "lang": "eu",
         "name": "Zapelatz handia"
+      },
+      {
+        "lang": "fa",
+        "name": "سارگپه پابلند"
       },
       {
         "lang": "fi",
@@ -363,7 +435,7 @@
       },
       {
         "lang": "hy",
-        "name": "Ճուռակ տափաստանային"
+        "name": "Տափաստանային ճուռակ"
       },
       {
         "lang": "is",
@@ -383,7 +455,11 @@
       },
       {
         "lang": "kk",
-        "name": "Кәдімгі тілеміш"
+        "name": "Тілеміш"
+      },
+      {
+        "lang": "ky",
+        "name": "Жаман сары"
       },
       {
         "lang": "lt",
@@ -391,7 +467,19 @@
       },
       {
         "lang": "mk",
-        "name": "Лисест (Белоопашест) глувчар"
+        "name": "Лисест глувчар"
+      },
+      {
+        "lang": "mrj",
+        "name": "Степь кучкыж"
+      },
+      {
+        "lang": "mr",
+        "name": "लांब पायांचा बाज"
+      },
+      {
+        "lang": "ne",
+        "name": "लामखुट्टे श्येनबाज"
       },
       {
         "lang": "nl",
@@ -406,8 +494,12 @@
         "name": "Kurhannik"
       },
       {
+        "lang": "pnb",
+        "name": "لمیاں لتاں آلا بزرڈ"
+      },
+      {
         "lang": "pt",
-        "name": "Búteo-mouro"
+        "name": "Bútio-rabo-canela"
       },
       {
         "lang": "rm",
@@ -435,10 +527,7 @@
       },
       {
         "lang": "sr",
-        "name": "Ridji (stepski) mišar",
-        "synonyms": [
-          "Риђи (Степски) мишар"
-        ]
+        "name": "Ridji mišar - Риђи мишар"
       },
       {
         "lang": "sv",
@@ -455,6 +544,10 @@
       {
         "lang": "uk",
         "name": "Канюк степовий"
+      },
+      {
+        "lang": "vi",
+        "name": "Ó Buteo chân dài"
       },
       {
         "lang": "zh",
@@ -494,6 +587,10 @@
         "name": "Poiana di Ridgway"
       },
       {
+        "lang": "nl",
+        "name": "Ridgways buizerd"
+      },
+      {
         "lang": "pl",
         "name": "Myszołów siwogłowy"
       },
@@ -511,20 +608,80 @@
     "scientific_name": "Buteo regalis",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Ръждивокафяв мишелов"
+      },
+      {
+        "lang": "ca",
+        "name": "Aligot rovellat"
+      },
+      {
         "lang": "cs",
         "name": "Káně královská"
       },
       {
+        "lang": "cy",
+        "name": "Bwncath cefnwinau"
+      },
+      {
+        "lang": "da",
+        "name": "Kongevåge"
+      },
+      {
+        "lang": "de",
+        "name": "Königsbussard"
+      },
+      {
         "lang": "en",
-        "name": "ferruginous hawk"
+        "name": "Ferruginous Hawk"
+      },
+      {
+        "lang": "eo",
+        "name": "Reĝa buteo"
       },
       {
         "lang": "es",
         "name": "Busardo herrumbroso"
       },
       {
+        "lang": "fa",
+        "name": "قوش آهنی‌رنگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuningashiirihaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Buse rouilleuse"
+      },
+      {
+        "lang": "he",
+        "name": "עקב פרוגינוס"
+      },
+      {
+        "lang": "hu",
+        "name": "Királyölyv"
+      },
+      {
+        "lang": "it",
+        "name": "Poiana ferruginosa"
+      },
+      {
+        "lang": "nl",
+        "name": "Rosse ruigpootbuizerd"
+      },
+      {
+        "lang": "nv",
+        "name": "Ginítsoh"
+      },
+      {
         "lang": "pl",
         "name": "Myszołów królewski"
+      },
+      {
+        "lang": "sv",
+        "name": "Kungsvråk"
       },
       {
         "lang": "tr",
@@ -537,7 +694,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "káně širokokřídlá"
+        "name": "Káně širokokřídlá"
       },
       {
         "lang": "da",
@@ -557,11 +714,11 @@
       },
       {
         "lang": "et",
-        "name": "laitiib-viu"
+        "name": "Laitiib-viu"
       },
       {
         "lang": "fi",
-        "name": "viheltäjähiirihaukka"
+        "name": "Viheltäjähiirihaukka"
       },
       {
         "lang": "fr",
@@ -576,7 +733,7 @@
       },
       {
         "lang": "gcr",
-        "name": "malfin"
+        "name": "Malfin"
       },
       {
         "lang": "gn",
@@ -588,7 +745,7 @@
       },
       {
         "lang": "hu",
-        "name": "szélesszárnyú ölyv"
+        "name": "Szélesszárnyú ölyv"
       },
       {
         "lang": "it",
@@ -697,8 +854,16 @@
         "name": "Baou louet"
       },
       {
+        "lang": "ca",
+        "name": "Aligot gris meridional"
+      },
+      {
         "lang": "cs",
         "name": "Káně šedá"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalch gwelw"
       },
       {
         "lang": "en",
@@ -713,8 +878,24 @@
         "name": "Busardo gris"
       },
       {
+        "lang": "fi",
+        "name": "Harmaaraitahaukka"
+      },
+      {
         "lang": "fr",
         "name": "Buse cendrée"
+      },
+      {
+        "lang": "it",
+        "name": "Poiana grigia"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijsgestreepte buizerd"
+      },
+      {
+        "lang": "nv",
+        "name": "Giní łibáago noodǫ́zígíí"
       },
       {
         "lang": "pl",
@@ -723,6 +904,10 @@
       {
         "lang": "pt",
         "name": "Gavião-pedrês"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråstrimmig vråk"
       },
       {
         "lang": "tr",
@@ -734,8 +919,20 @@
     "scientific_name": "Buteo lineatus",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Baou skoazioù ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Aligot d'espatlles vermelles"
+      },
+      {
         "lang": "cs",
         "name": "Káně páskovaná"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwncath ysgwyddgoch"
       },
       {
         "lang": "da",
@@ -750,11 +947,16 @@
         "name": "Red-shouldered Hawk"
       },
       {
+        "lang": "eo",
+        "name": "Ruĝaŝultra buteo"
+      },
+      {
         "lang": "es",
-        "name": "Hombrorrojo",
-        "synonyms": [
-          "Busardo de hombros rojos"
-        ]
+        "name": "Busardo hombrorrojo"
+      },
+      {
+        "lang": "fa",
+        "name": "سارگپه شانه‌سرخ"
       },
       {
         "lang": "fi",
@@ -778,10 +980,7 @@
       },
       {
         "lang": "ja",
-        "name": "カタアカノスリ",
-        "synonyms": [
-          "kataakanosuri"
-        ]
+        "name": "カタアカノスリ"
       },
       {
         "lang": "nl",
@@ -790,6 +989,10 @@
       {
         "lang": "no",
         "name": "Rødvingevåk"
+      },
+      {
+        "lang": "nv",
+        "name": "Haʼaʼaahdę́ę́ʼ atsáłchííʼ"
       },
       {
         "lang": "pl",
@@ -805,7 +1008,7 @@
       },
       {
         "lang": "sk",
-        "name": "myšiak hrdzavokrídly"
+        "name": "Myšiak hrdzavokrídly"
       },
       {
         "lang": "sv",
@@ -1083,8 +1286,32 @@
     "scientific_name": "Buteo jamaicensis",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "باز أحمر الذيل"
+      },
+      {
+        "lang": "az",
+        "name": "Qızıl quyruqlu şahin"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеноопашат мишелов"
+      },
+      {
+        "lang": "br",
+        "name": "Baou lost rous"
+      },
+      {
+        "lang": "ca",
+        "name": "Aligot cua-roig"
+      },
+      {
         "lang": "cs",
-        "name": "Káně rudochvostá"
+        "name": "Káně rudoocasá"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwncath cynffongoch y Gogledd"
       },
       {
         "lang": "da",
@@ -1099,8 +1326,16 @@
         "name": "Red-tailed Hawk"
       },
       {
+        "lang": "eo",
+        "name": "Jamajka buteo"
+      },
+      {
         "lang": "es",
         "name": "Busardo colirrojo"
+      },
+      {
+        "lang": "fa",
+        "name": "شاهین دم‌سرخ"
       },
       {
         "lang": "fi",
@@ -1112,7 +1347,7 @@
       },
       {
         "lang": "he",
-        "name": "עקב אדום זנב"
+        "name": "עקב אדום-זנב"
       },
       {
         "lang": "hu",
@@ -1124,10 +1359,7 @@
       },
       {
         "lang": "ja",
-        "name": "アカオノスリ",
-        "synonyms": [
-          "akaonosuri"
-        ]
+        "name": "アカオノスリ"
       },
       {
         "lang": "lkt",
@@ -1138,6 +1370,10 @@
         "name": "Црвеноопашен јастреб"
       },
       {
+        "lang": "ml",
+        "name": "ചുവപ്പുവാലൻ പരുന്ത്"
+      },
+      {
         "lang": "nl",
         "name": "Roodstaartbuizerd"
       },
@@ -1146,15 +1382,20 @@
         "name": "Rødhalevåk"
       },
       {
+        "lang": "nv",
+        "name": "Atseełtsoii"
+      },
+      {
         "lang": "pl",
         "name": "Myszołów rdzawosterny"
       },
       {
         "lang": "pt",
-        "name": "Búteo-de-cauda-vermelha",
-        "synonyms": [
-          "Gavião-de-rabo-vermelho"
-        ]
+        "name": "Búteo-de-cauda-vermelha"
+      },
+      {
+        "lang": "ro",
+        "name": "Șorecar de coadă roșie"
       },
       {
         "lang": "ru",
@@ -1162,7 +1403,7 @@
       },
       {
         "lang": "sk",
-        "name": "myšiak hrdzavochvostý"
+        "name": "Myšiak hrdzavochvostý"
       },
       {
         "lang": "sv",
@@ -1171,6 +1412,14 @@
       {
         "lang": "tr",
         "name": "Kızıl kuyruklu şahin"
+      },
+      {
+        "lang": "uk",
+        "name": "Канюк неоарктичний"
+      },
+      {
+        "lang": "vi",
+        "name": "Ưng đuôi lửa"
       },
       {
         "lang": "zh",
@@ -1243,12 +1492,20 @@
         "name": "ガラパゴスノスリ"
       },
       {
+        "lang": "nl",
+        "name": "Galapagosbuizerd"
+      },
+      {
         "lang": "pl",
         "name": "Myszołów galapagoski"
       },
       {
         "lang": "tr",
         "name": "Galapagos şahini"
+      },
+      {
+        "lang": " sv",
+        "name": "galápagosvråk"
       }
     ]
   },
@@ -1269,10 +1526,7 @@
       },
       {
         "lang": "ar",
-        "name": "الصقر الحوام",
-        "synonyms": [
-          "صقر حوّام"
-        ]
+        "name": "حوام شائعم"
       },
       {
         "lang": "ast",
@@ -1283,16 +1537,24 @@
         "name": "Adi sar"
       },
       {
+        "lang": "azb",
+        "name": "بایاغی شاهین"
+      },
+      {
         "lang": "ba",
         "name": "Һар"
       },
       {
-        "lang": "be-x-old",
-        "name": "Звычайны канюк"
+        "lang": "bat-smg",
+        "name": "Soupis"
       },
       {
         "lang": "be",
         "name": "Канюк звычайны"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Звычайны канюк"
       },
       {
         "lang": "bg",
@@ -1304,7 +1566,7 @@
       },
       {
         "lang": "ca",
-        "name": "Aligot"
+        "name": "Aligot comú"
       },
       {
         "lang": "chr",
@@ -1328,7 +1590,7 @@
       },
       {
         "lang": "cw",
-        "name": "bargos"
+        "name": "Bargos"
       },
       {
         "lang": "cy",
@@ -1356,10 +1618,7 @@
       },
       {
         "lang": "en",
-        "name": "Common buzzard",
-        "synonyms": [
-          "Eurasian buzzard"
-        ]
+        "name": "Common Buzzard"
       },
       {
         "lang": "eo",
@@ -1371,18 +1630,15 @@
       },
       {
         "lang": "et",
-        "name": "hiireviu"
+        "name": "Hiireviu"
       },
       {
         "lang": "eu",
-        "name": "Zapelatz (arrunt)"
+        "name": "Zapelatz arrunt"
       },
       {
         "lang": "fa",
-        "name": "سارگپه",
-        "synonyms": [
-          "سنقر"
-        ]
+        "name": "سارگپه"
       },
       {
         "lang": "fi",
@@ -1406,7 +1662,7 @@
       },
       {
         "lang": "fy",
-        "name": "Mûzebiter"
+        "name": "Mûzefalk"
       },
       {
         "lang": "ga",
@@ -1430,7 +1686,7 @@
       },
       {
         "lang": "hr",
-        "name": "Škanjac"
+        "name": "Obični Škanjac"
       },
       {
         "lang": "hsb",
@@ -1442,7 +1698,7 @@
       },
       {
         "lang": "hy",
-        "name": "Ճուռակ"
+        "name": "Մեծ ճուռակ"
       },
       {
         "lang": "id",
@@ -1458,11 +1714,15 @@
       },
       {
         "lang": "ja",
-        "name": "ノスリ"
+        "name": "ヨーロッパノスリ"
       },
       {
         "lang": "ka",
         "name": "ჩვეულებრივი კაკაჩა"
+      },
+      {
+        "lang": "kab",
+        "name": "Tasekla tamezdayt"
       },
       {
         "lang": "kbd",
@@ -1489,6 +1749,10 @@
         "name": "Hiirihaukku"
       },
       {
+        "lang": "ku",
+        "name": "Şahîn"
+      },
+      {
         "lang": "kw",
         "name": "Bargos"
       },
@@ -1505,6 +1769,10 @@
         "name": "Buizerd"
       },
       {
+        "lang": "lij",
+        "name": "Agugia neigra"
+      },
+      {
         "lang": "lld",
         "name": "Gabinel"
       },
@@ -1514,15 +1782,23 @@
       },
       {
         "lang": "lv",
-        "name": "Klijāns"
+        "name": "Peļu Klijāns"
       },
       {
         "lang": "mk",
         "name": "Јастреб глувчар"
       },
       {
+        "lang": "ml",
+        "name": "പുൽപ്പരുന്ത്"
+      },
+      {
         "lang": "mn",
         "name": "Сар"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шӓлӓнгӹ"
       },
       {
         "lang": "ms",
@@ -1530,19 +1806,23 @@
       },
       {
         "lang": "mt",
-        "name": "kuċċarda prima"
-      },
-      {
-        "lang": "nds-nl",
-        "name": "Buizerd"
+        "name": "Kuċċarda prima"
       },
       {
         "lang": "nds",
         "name": "Muusbussard"
       },
       {
+        "lang": "nds-nl",
+        "name": "Buizerd"
+      },
+      {
         "lang": "nl",
-        "name": "buizerd"
+        "name": "Buizerd"
+      },
+      {
+        "lang": "nn",
+        "name": "Musvåk"
       },
       {
         "lang": "no",
@@ -1553,16 +1833,28 @@
         "name": "Buse"
       },
       {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ atsáłchííʼ"
+      },
+      {
         "lang": "oc",
         "name": "Busa"
       },
       {
+        "lang": "olo",
+        "name": "Hiirihaukku"
+      },
+      {
         "lang": "pl",
-        "name": "Myszołów"
+        "name": "Myszołów zwyczajny"
       },
       {
         "lang": "pms",
         "name": "Pondrà"
+      },
+      {
+        "lang": "ps",
+        "name": "ځنگلي سار"
       },
       {
         "lang": "pt",
@@ -1570,7 +1862,7 @@
       },
       {
         "lang": "rm",
-        "name": "girun da mieurs"
+        "name": "Girun da mieurs"
       },
       {
         "lang": "rmy",
@@ -1578,11 +1870,15 @@
       },
       {
         "lang": "ro",
-        "name": "Șorecar"
+        "name": "Șorecar comun"
       },
       {
         "lang": "ru",
         "name": "Обыкновенный канюк"
+      },
+      {
+        "lang": "rue",
+        "name": "Каня лїсова"
       },
       {
         "lang": "sah",
@@ -1605,23 +1901,24 @@
         "name": "Sáhpánboaimmáš"
       },
       {
+        "lang": "sh",
+        "name": "Obični škanjac"
+      },
+      {
         "lang": "sk",
         "name": "Myšiak hôrny"
       },
       {
         "lang": "sl",
-        "name": "Navadna Kanja"
+        "name": "Kanja"
       },
       {
         "lang": "sq",
-        "name": "huta"
+        "name": "Huta"
       },
       {
         "lang": "sr",
-        "name": "Jastreb mišar",
-        "synonyms": [
-          "Jaстреб мишар"
-        ]
+        "name": "Обични мишар"
       },
       {
         "lang": "st",
@@ -1636,12 +1933,16 @@
         "name": "Shakivale-nyika"
       },
       {
+        "lang": "ta",
+        "name": "பஸ்ஸார்ட்"
+      },
+      {
         "lang": "th",
         "name": "เหยี่ยวทะเลทราย"
       },
       {
         "lang": "tk",
-        "name": "şahin"
+        "name": "Şahin"
       },
       {
         "lang": "tn",
@@ -1649,7 +1950,7 @@
       },
       {
         "lang": "tr",
-        "name": "Şahin"
+        "name": "Bayağı Şahin"
       },
       {
         "lang": "tyv",
@@ -1665,7 +1966,7 @@
       },
       {
         "lang": "vi",
-        "name": "Diều Nhật Bản"
+        "name": "Diều thường"
       },
       {
         "lang": "wa",
@@ -1681,6 +1982,10 @@
       },
       {
         "lang": "zh",
+        "name": "普通鵟"
+      },
+      {
+        "lang": "zh-yue",
         "name": "普通鵟"
       }
     ]
@@ -1699,7 +2004,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "káně krátkoocasá"
+        "name": "Káně krátkoocasá"
       },
       {
         "lang": "da",
@@ -1719,11 +2024,11 @@
       },
       {
         "lang": "et",
-        "name": "linnuviu"
+        "name": "Linnuviu"
       },
       {
         "lang": "fi",
-        "name": "luhtahiirihaukka"
+        "name": "Luhtahiirihaukka"
       },
       {
         "lang": "fr",
@@ -1735,7 +2040,7 @@
       },
       {
         "lang": "hu",
-        "name": "rövidfarkú ölyv"
+        "name": "Rövidfarkú ölyv"
       },
       {
         "lang": "it",
@@ -1774,7 +2079,7 @@
       },
       {
         "lang": "sk",
-        "name": "myšiak krátkochvostý"
+        "name": "Myšiak krátkochvostý"
       },
       {
         "lang": "sv",
@@ -1821,6 +2126,22 @@
       {
         "lang": "en",
         "name": "Cape Verde Buzzard"
+      },
+      {
+        "lang": "ca",
+        "name": "Aligot de Cap Verd"
+      },
+      {
+        "lang": "fa",
+        "name": "سارگپه بنرمن"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapverdische buizerd"
+      },
+      {
+        "lang": "sv",
+        "name": "kapverdevråk"
       }
     ]
   },
@@ -1874,7 +2195,7 @@
       },
       {
         "lang": "en",
-        "name": "Augur buzzard"
+        "name": "Augur Buzzard"
       },
       {
         "lang": "eo",

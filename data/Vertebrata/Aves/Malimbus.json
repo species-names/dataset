@@ -50,6 +50,38 @@
       {
         "lang": "en",
         "name": "Ibadan Malimbe"
+      },
+      {
+        "lang": "es",
+        "name": "malimbo de Ibadán"
+      },
+      {
+        "lang": "fa",
+        "name": "مالیمبه ایبادان"
+      },
+      {
+        "lang": "fi",
+        "name": "Punaliivikutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Malimbe d'Ibadan"
+      },
+      {
+        "lang": "nl",
+        "name": "Ibadanprachtwever"
+      },
+      {
+        "lang": "pl",
+        "name": "Wikłacz krasnoszyi"
+      },
+      {
+        "lang": "ru",
+        "name": "Ибаданский малимбус"
+      },
+      {
+        "lang": "sv",
+        "name": "ibadanmalimbe"
       }
     ]
   },
@@ -94,7 +126,34 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Ballmann's Malimbe"
+        "name": "Ballmann's Malimbe",
+        "synonyms": [
+          "Gola malimbe"
+        ]
+      },
+      {
+        "lang": "cy",
+        "name": "Malimbe Tai"
+      },
+      {
+        "lang": "fa",
+        "name": "مالیمبه گولا"
+      },
+      {
+        "lang": "fi",
+        "name": "Tainkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Malimbe de Ballmann"
+      },
+      {
+        "lang": "nl",
+        "name": "Wolters prachtwever"
+      },
+      {
+        "lang": "sv",
+        "name": "golamalimbe"
       }
     ]
   }

@@ -3,6 +3,10 @@
     "scientific_name": "Anser serrirostris",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Gwaz an toundra"
+      },
+      {
         "lang": "da",
         "name": "Tundrasædgås"
       },
@@ -11,16 +15,48 @@
         "name": "Tundra Bean Goose"
       },
       {
+        "lang": "eo",
+        "name": "Tundra ansero"
+      },
+      {
         "lang": "es",
         "name": "Ganso de la tundra"
       },
       {
         "lang": "fr",
-        "name": "Oie des toundras"
+        "name": "Oie de la toundra"
+      },
+      {
+        "lang": "ga",
+        "name": "Síolghé thundra"
+      },
+      {
+        "lang": "he",
+        "name": "אווז אחו הטונדרה"
+      },
+      {
+        "lang": "it",
+        "name": "Oca granaiola della tundra"
+      },
+      {
+        "lang": "lv",
+        "name": "Tundras sējas zoss"
       },
       {
         "lang": "nl",
         "name": "Toendrarietgans"
+      },
+      {
+        "lang": "no",
+        "name": "Tundrasædgås"
+      },
+      {
+        "lang": "sv",
+        "name": "Tundrasädgås"
+      },
+      {
+        "lang": "zh",
+        "name": "凍原豆雁"
       }
     ]
   },
@@ -46,6 +82,10 @@
       {
         "lang": "en",
         "name": "Ross's Goose"
+      },
+      {
+        "lang": "eo",
+        "name": "Glaciansero"
       },
       {
         "lang": "es",
@@ -266,7 +306,7 @@
       },
       {
         "lang": "ky",
-        "name": "Тоо кaзы"
+        "name": "Тоо казы"
       },
       {
         "lang": "lt",
@@ -334,7 +374,10 @@
       },
       {
         "lang": "ta",
-        "name": "பட்டைத்தலை வாத்து"
+        "name": "பட்டைத்தலை வாத்து",
+        "synonyms": [
+          "வரித்தலை வாத்து"
+        ]
       },
       {
         "lang": "th",
@@ -519,7 +562,10 @@
       },
       {
         "lang": "nl",
-        "name": "Taigarietgans"
+        "name": "Rietgans",
+        "synonyms": [
+          "Taigarietgans"
+        ]
       },
       {
         "lang": "nn",
@@ -652,7 +698,7 @@
       },
       {
         "lang": "el",
-        "name": "Νανόσιηνα"
+        "name": "Νανόχηνα"
       },
       {
         "lang": "en",
@@ -740,7 +786,7 @@
       },
       {
         "lang": "kjn",
-        "name": "Кiчiг ах хабах хас"
+        "name": "Кічіг ах хабах хас"
       },
       {
         "lang": "kk",
@@ -956,16 +1002,16 @@
         "name": "개리"
       },
       {
-        "lang": "mn",
-        "name": "Хошуу галуу"
-      },
-      {
         "lang": "lt",
         "name": "Laibasnapė žąsis"
       },
       {
         "lang": "lv",
         "name": "Lielknābja zoss"
+      },
+      {
+        "lang": "mn",
+        "name": "Хошуу галуу"
       },
       {
         "lang": "nds",
@@ -1180,6 +1226,10 @@
       {
         "lang": "pl",
         "name": "Śnieżyca większa"
+      },
+      {
+        "lang": "pms",
+        "name": "Òca dla fiòca"
       },
       {
         "lang": "pt",
@@ -1789,7 +1839,7 @@
       },
       {
         "lang": "it",
-        "name": "Oca lombardella"
+        "name": "Oca lombardella maggiore"
       },
       {
         "lang": "iu",
@@ -1805,7 +1855,7 @@
       },
       {
         "lang": "kjn",
-        "name": "Aх хабах хас"
+        "name": "Ах хабах хас"
       },
       {
         "lang": "kk",

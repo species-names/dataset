@@ -1,52 +1,115 @@
 [
   {
-    "scientific_name": "Tiaris olivacea",
+    "scientific_name": "Tiaris olivaceus pusillus",
     "common_names": []
   },
   {
-    "scientific_name": "Tiaris obscura",
+    "scientific_name": "Tiaris olivaceus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "حسون ذو وجه أصفر"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълтолик тиарис"
+      },
+      {
+        "lang": "cs",
+        "name": "Knežík žlutolící"
+      },
+      {
+        "lang": "cy",
+        "name": "Twinc gwair wynebfelyn"
+      },
+      {
+        "lang": "da",
+        "name": "Stor Cubafinke"
+      },
+      {
+        "lang": "de",
+        "name": "Goldbrauen-Gimpeltangare"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-faced Grassquit"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero tomeguín"
+      },
+      {
+        "lang": "fa",
+        "name": "چغک علفی زردچهره"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultakurkkusirkkunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Tiaris grand-chanteur"
+      },
+      {
+        "lang": "ht",
+        "name": "Ti Zèb"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy kubapinty"
+      },
+      {
+        "lang": "it",
+        "name": "Erbero facciagialla"
+      },
+      {
+        "lang": "ja",
+        "name": "キマユクビワスズメ"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote Cubavink"
+      },
+      {
+        "lang": "no",
+        "name": "Gulstrupegresspurv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kubanik"
+      },
+      {
+        "lang": "ru",
+        "name": "Золотолицый тиарис"
+      },
+      {
+        "lang": "sk",
+        "name": "Ostrovčan trávový"
+      },
+      {
+        "lang": "sv",
+        "name": "Tiaratangara"
+      },
+      {
+        "lang": "zh",
+        "name": "黄脸草雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tiaris obscurus",
     "common_names": []
   },
   {
     "scientific_name": "Tiaris fuliginosus",
-    "common_names": [
-      {
-        "lang": "pt",
-        "name": "Cigarra-do-coqueiro"
-      },
-      {
-        "lang": "en",
-        "name": "Sooty grassquit"
-      },
-      {
-        "lang": "es",
-        "name": "Semillero fuliginoso"
-      }
-    ]
+    "common_names": []
   },
   {
-    "scientific_name": "Tiaris canora",
+    "scientific_name": "Tiaris canorus",
     "common_names": []
   },
   {
     "scientific_name": "Tiaris bicolor",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Black-faced Grassquit"
-      },
-      {
-        "lang": "es",
-        "name": "semillerito bicolor"
-      },
-      {
-        "lang": "fr",
-        "name": "Sporophile cici"
-      },
-      {
-        "lang": "sv",
-        "name": "Västindisk frösparv"
-      }
-    ]
+    "common_names": []
   }
 ]

@@ -9,10 +9,76 @@
   },
   {
     "scientific_name": "Telespiza ultima",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Pinc Nihoa"
+      },
+      {
+        "lang": "en",
+        "name": "Nihoa finch"
+      },
+      {
+        "lang": "fi",
+        "name": "Nihoanpalila"
+      },
+      {
+        "lang": "hu",
+        "name": "Nihoa-pinty"
+      },
+      {
+        "lang": "nl",
+        "name": "Nihoavink"
+      },
+      {
+        "lang": "sv",
+        "name": "nihoafink"
+      }
+    ]
   },
   {
     "scientific_name": "Telespiza cantans",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Лайзанска чинка"
+      },
+      {
+        "lang": "cy",
+        "name": "Pinc Laysan"
+      },
+      {
+        "lang": "en",
+        "name": "Laysan finch"
+      },
+      {
+        "lang": "fi",
+        "name": "Laysaninpalila"
+      },
+      {
+        "lang": "fr",
+        "name": "Psittirostre de Laysan"
+      },
+      {
+        "lang": "hu",
+        "name": "Laysan-pinty"
+      },
+      {
+        "lang": "nl",
+        "name": "Laysanvink"
+      },
+      {
+        "lang": "pl",
+        "name": "Hawajka grubodzioba"
+      },
+      {
+        "lang": "ru",
+        "name": "Лайсанская вьюрковая цветочница"
+      },
+      {
+        "lang": "sv",
+        "name": "laysanfink"
+      }
+    ]
   }
 ]

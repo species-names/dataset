@@ -5,6 +5,10 @@
       {
         "lang": "en",
         "name": "Crimson-collared Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara acollarada"
       }
     ]
   },
@@ -13,18 +17,11 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Passerini's Tanager"
+        "name": "Scarlet-rumped Tanager"
       },
       {
         "lang": "es",
-        "name": "Tangara grupirroja o lomiescarlata",
-        "synonyms": [
-          "rabadilla",
-          "rabadilla tinta",
-          "sangre de toro",
-          "sargento",
-          "terciopelo)"
-        ]
+        "name": "Tangara terciopelo"
       }
     ]
   },
@@ -33,13 +30,30 @@
     "common_names": [
       {
         "lang": "pt",
-        "name": "Bico-de-prata"
+        "name": "Pipira-de-máscara"
+      },
+      {
+        "lang": "en",
+        "name": "Masked Crimson Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara enmascarada"
       }
     ]
   },
   {
     "scientific_name": "Ramphocelus melanogaster",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hallaga Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de Huallaga"
+      }
+    ]
   },
   {
     "scientific_name": "Ramphocelus icteronotus",
@@ -47,12 +61,25 @@
       {
         "lang": "en",
         "name": "Yellow-rumped Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara culigualda"
       }
     ]
   },
   {
     "scientific_name": "Ramphocelus flammigerus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Flame-rumped Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara flamígera"
+      }
+    ]
   },
   {
     "scientific_name": "Ramphocelus dimidiatus",
@@ -135,84 +162,44 @@
     ]
   },
   {
-    "scientific_name": "Ramphocelus costaricensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Cherrie's Tanager"
-      },
-      {
-        "lang": "cs",
-        "name": "tangara puntaarenská"
-      },
-      {
-        "lang": "de",
-        "name": "Cherrietangare"
-      },
-      {
-        "lang": "da",
-        "name": "Costa Rica-fløjlstangar"
-      },
-      {
-        "lang": "es",
-        "name": "Tangara Costarricense"
-      },
-      {
-        "lang": "fr",
-        "name": "Tangara du Costa Rica"
-      },
-      {
-        "lang": "it",
-        "name": "Tanagra di Cherrie"
-      },
-      {
-        "lang": "nl",
-        "name": "Costaricaanse Tangare"
-      },
-      {
-        "lang": "no",
-        "name": "Costaricatanagar"
-      },
-      {
-        "lang": "pl",
-        "name": "tapiranga kostarykańska"
-      },
-      {
-        "lang": "ru",
-        "name": "Разноцветная расписная танагра"
-      },
-      {
-        "lang": "sk",
-        "name": "sangara kostarická"
-      },
-      {
-        "lang": "sv",
-        "name": "Costaricatapiranga"
-      },
-      {
-        "lang": "zh",
-        "name": "彻氏厚嘴唐纳雀"
-      }
-    ]
-  },
-  {
     "scientific_name": "Ramphocelus carbo",
     "common_names": [
+      {
+        "lang": "cy",
+        "name": "Tanagr pigwyn"
+      },
       {
         "lang": "en",
         "name": "Silver-beaked Tanager"
       },
       {
+        "lang": "es",
+        "name": "Tangara picoplata"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara à bec d'argent"
+      },
+      {
+        "lang": "hu",
+        "name": "Ezüstcsőrű tangara"
+      },
+      {
+        "lang": "nl",
+        "name": "Fluweeltangare"
+      },
+      {
         "lang": "pt",
-        "name": "Pipira",
-        "synonyms": [
-          "Pipira-vermelha"
-        ]
+        "name": "Pipira-vermelha"
+      },
+      {
+        "lang": "sv",
+        "name": "Silvernäbbad tangara"
       }
     ]
   },
   {
-    "scientific_name": "Ramphocelus bresilius",
+    "scientific_name": "Ramphocelus bresilia",
     "common_names": [
       {
         "lang": "en",
@@ -220,16 +207,11 @@
       },
       {
         "lang": "pt",
-        "name": "sangue-de-boi",
-        "synonyms": [
-          "canário-baeta",
-          "tapiranga",
-          "tié-fogo",
-          "tié-piranga",
-          "tié-sangue",
-          "tié-vermelho",
-          "tiê-sangue"
-        ]
+        "name": "Tiê-sangue"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara brasileña"
       }
     ]
   }

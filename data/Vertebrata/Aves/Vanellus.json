@@ -84,7 +84,7 @@
       },
       {
         "lang": "eo",
-        "name": "vanelo"
+        "name": "Tufvanelo"
       },
       {
         "lang": "es",
@@ -199,10 +199,6 @@
         "name": "Cornwhylen"
       },
       {
-        "lang": "la",
-        "name": "Vanellus"
-      },
-      {
         "lang": "lb",
         "name": "Kiwitsch"
       },
@@ -224,10 +220,7 @@
       },
       {
         "lang": "mn",
-        "name": "Умардын хавтгаалж",
-        "synonyms": [
-          "ᠣᠮᠠᠷᠠᠲᠣ ᠶᠢᠨ ᠬᠠᠪᠲᠠᠭᠠᠯᠵᠢ"
-        ]
+        "name": "Умардын хавтгаалж - ᠣᠮᠠᠷᠠᠲᠣ ᠶᠢᠨ ᠬᠠᠪᠲᠠᠭᠠᠯᠵᠢ"
       },
       {
         "lang": "mrj",
@@ -327,7 +320,7 @@
       },
       {
         "lang": "sl",
-        "name": "priba"
+        "name": "Priba"
       },
       {
         "lang": "sq",
@@ -335,10 +328,7 @@
       },
       {
         "lang": "sr",
-        "name": "Vivak",
-        "synonyms": [
-          "Вивак"
-        ]
+        "name": "Vivak - Вивак"
       },
       {
         "lang": "stq",
@@ -406,6 +396,10 @@
         "name": "Banded Lapwing"
       },
       {
+        "lang": "eo",
+        "name": "Trikolora vanelo"
+      },
+      {
         "lang": "es",
         "name": "Avefría tricolor"
       },
@@ -441,6 +435,14 @@
       {
         "lang": "cs",
         "name": "Čejka černohlavá"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrakapa vanelo"
+      },
+      {
+        "lang": "hu",
+        "name": "Sisakos bíbic"
       },
       {
         "lang": "sv",
@@ -514,7 +516,7 @@
       },
       {
         "lang": "eo",
-        "name": "Dornoflugila vanelo"
+        "name": "Spronflugila vanelo"
       },
       {
         "lang": "es",
@@ -644,6 +646,10 @@
       {
         "lang": "en",
         "name": "Wattled Lapwing"
+      },
+      {
+        "lang": "eo",
+        "name": "Senagala vanelo"
       }
     ]
   },
@@ -660,8 +666,16 @@
     "scientific_name": "Vanellus miles",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Fredeluga emmascarada septentrional"
+      },
+      {
         "lang": "cs",
         "name": "Čejka australská"
+      },
+      {
+        "lang": "cy",
+        "name": "Cornchwiglen fygydog"
       },
       {
         "lang": "de",
@@ -669,22 +683,71 @@
       },
       {
         "lang": "en",
-        "name": "Masked Lapwing",
-        "synonyms": [
-          "Masked Plover"
-        ]
+        "name": "Masked Lapwing"
       },
       {
         "lang": "eo",
-        "name": "Maskita vanelo"
+        "name": "Maskovanelo"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría militar"
+      },
+      {
+        "lang": "fa",
+        "name": "خروس کولی نقاب‌دار"
+      },
+      {
+        "lang": "fi",
+        "name": "Naamiohyyppä"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau soldat"
       },
       {
         "lang": "hu",
         "name": "Álarcos bíbic"
       },
       {
+        "lang": "id",
+        "name": "Trulek topeng"
+      },
+      {
+        "lang": "it",
+        "name": "Pavoncella mascherata"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロトサカゲリ"
+      },
+      {
         "lang": "nl",
         "name": "Maskerkievit"
+      },
+      {
+        "lang": "nn",
+        "name": "Maskevipe"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąąsdísí biniiʼ łitsooígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Czajka płatkolica"
+      },
+      {
+        "lang": "ru",
+        "name": "Солдатский чибис"
+      },
+      {
+        "lang": "sv",
+        "name": "Maskvipa"
+      },
+      {
+        "lang": "zh",
+        "name": "白頸麥雞"
       }
     ]
   },
@@ -733,6 +796,66 @@
       {
         "lang": "es",
         "name": "Avefría javanesa"
+      },
+      {
+        "lang": "br",
+        "name": "Kornigell Java"
+      },
+      {
+        "lang": "ca",
+        "name": "Fredeluga de Java"
+      },
+      {
+        "lang": "cy",
+        "name": "Cornchwiglen dagellog Jafa"
+      },
+      {
+        "lang": "de",
+        "name": "Javakiebitz"
+      },
+      {
+        "lang": "eo",
+        "name": "Indonezia vanelo"
+      },
+      {
+        "lang": "fa",
+        "name": "خروس کولی جاوه"
+      },
+      {
+        "lang": "fi",
+        "name": "Jaavanhyyppä"
+      },
+      {
+        "lang": "fr",
+        "name": "Vanneau hirondelle"
+      },
+      {
+        "lang": "hu",
+        "name": "Jávai bíbic"
+      },
+      {
+        "lang": "id",
+        "name": "Trulek jawa"
+      },
+      {
+        "lang": "jv",
+        "name": "Trulek jawa"
+      },
+      {
+        "lang": "ml",
+        "name": "ജാവൻ തിത്തിരിപ്പക്ഷി"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaanse kievit"
+      },
+      {
+        "lang": "sv",
+        "name": "javavipa"
+      },
+      {
+        "lang": "zh",
+        "name": "爪哇麥雞"
       }
     ]
   },
@@ -967,7 +1090,7 @@
       },
       {
         "lang": "eo",
-        "name": "Ruĝbeka vanelo"
+        "name": "Hinda vanelo"
       },
       {
         "lang": "fr",
@@ -979,6 +1102,14 @@
         "synonyms": [
           "นกกระแตแต้แว้ด"
         ]
+      },
+      {
+        "lang": "ta",
+        "name": "சிவப்பு மூக்கு ஆள்காட்டி குருவி"
+      },
+      {
+        "lang": "or",
+        "name": "ନାଲି ଟେଣ୍ଟେଇ"
       }
     ]
   },
@@ -1031,7 +1162,7 @@
       },
       {
         "lang": "eo",
-        "name": "Socia vanelo"
+        "name": "Stepvanelo"
       },
       {
         "lang": "es",
@@ -1200,7 +1331,7 @@
     "common_names": [
       {
         "lang": "af",
-        "name": "Kroonkiewiet  of Kiewiet"
+        "name": "Kroonkiewiet of Kiewiet"
       },
       {
         "lang": "cs",
@@ -1305,7 +1436,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "čejka jihoamerická"
+        "name": "Čejka jihoamerická"
       },
       {
         "lang": "da",
@@ -1325,12 +1456,7 @@
       },
       {
         "lang": "es",
-        "name": "Avefría Tero",
-        "synonyms": [
-          "Queltehue",
-          "Treile",
-          "Tero"
-        ]
+        "name": "Avefría Tero"
       },
       {
         "lang": "et",
@@ -1338,7 +1464,7 @@
       },
       {
         "lang": "fi",
-        "name": "eteläamerikanhyyppä"
+        "name": "Eteläamerikanhyyppä"
       },
       {
         "lang": "fr",
@@ -1354,7 +1480,7 @@
       },
       {
         "lang": "hu",
-        "name": "pampabíbic"
+        "name": "Pampabíbic"
       },
       {
         "lang": "it",
@@ -1373,14 +1499,11 @@
       },
       {
         "lang": "no",
-        "name": "Amerikatoppvipe",
-        "synonyms": [
-          "Bronsevipe"
-        ]
+        "name": "Amerikatoppvipe"
       },
       {
         "lang": "pl",
-        "name": "czajka miedziana"
+        "name": "Czajka miedziana"
       },
       {
         "lang": "pt-br",
@@ -1396,7 +1519,7 @@
       },
       {
         "lang": "sk",
-        "name": "cíbik čiernočelý"
+        "name": "Cíbik čiernočelý"
       },
       {
         "lang": "sv",

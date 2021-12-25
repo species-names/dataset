@@ -28,7 +28,91 @@
       },
       {
         "lang": "sv",
-        "name": "Svart styltlöpare"
+        "name": "svart styltlöpare"
+      },
+      {
+        "lang": "ar",
+        "name": "كرسوع نيوزيلندي"
+      },
+      {
+        "lang": "br",
+        "name": "Skaseg du"
+      },
+      {
+        "lang": "ca",
+        "name": "Camallarga negre"
+      },
+      {
+        "lang": "cy",
+        "name": "Hirgoes Seland Newydd"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzer Stelzenläufer"
+      },
+      {
+        "lang": "el",
+        "name": "Μαύρος καλαμοκανάς"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigra himantopo"
+      },
+      {
+        "lang": "et",
+        "name": "Must-karkjalg"
+      },
+      {
+        "lang": "fa",
+        "name": "چوب‌پای سیاه"
+      },
+      {
+        "lang": "fr",
+        "name": "Échasse noire"
+      },
+      {
+        "lang": "fy",
+        "name": "Swarte steltklút"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete gólyatöcs"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnais garstilbis"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte steltkluut"
+      },
+      {
+        "lang": "nn",
+        "name": "Svartstylteløpar"
+      },
+      {
+        "lang": "nv",
+        "name": "Łeesdísí Bikéyahdę́ę́ʼ jáádtsʼósí"
+      },
+      {
+        "lang": "pl",
+        "name": "Szczudłak czarny"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрный ходулочник"
+      },
+      {
+        "lang": "uk",
+        "name": "Кулик-довгоніг чорний"
+      },
+      {
+        "lang": "vi",
+        "name": "Cà kheo đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑長腳鷸"
       }
     ]
   },
@@ -36,12 +120,24 @@
     "scientific_name": "Himantopus mexicanus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "كرسوع مكسيكي"
+      },
+      {
         "lang": "bg",
         "name": "Кокилобегач"
       },
       {
+        "lang": "br",
+        "name": "Skaseg gouzoug du"
+      },
+      {
         "lang": "cs",
-        "name": "pisila karibská"
+        "name": "Pisila karibská"
+      },
+      {
+        "lang": "cy",
+        "name": "Hirgoes gyddfddu"
       },
       {
         "lang": "da",
@@ -49,7 +145,7 @@
       },
       {
         "lang": "de",
-        "name": "Schwarznacken-Stelzenläufer"
+        "name": "Amerikanischer Stelzenläufer"
       },
       {
         "lang": "en",
@@ -57,7 +153,7 @@
       },
       {
         "lang": "eo",
-        "name": "Himantopo"
+        "name": "Nigrakola himantopo"
       },
       {
         "lang": "es",
@@ -65,11 +161,15 @@
       },
       {
         "lang": "et",
-        "name": "mustpea-karkjalg"
+        "name": "Mustpea-karkjalg"
+      },
+      {
+        "lang": "fa",
+        "name": "چوب‌پای گردن‌سیاه"
       },
       {
         "lang": "fi",
-        "name": "amerikanpitkäjalka"
+        "name": "Amerikanpitkäjalka"
       },
       {
         "lang": "fr",
@@ -92,15 +192,16 @@
         "name": "Pèt-pèt"
       },
       {
+        "lang": "hu",
+        "name": "Mexikói gólyatöcs"
+      },
+      {
         "lang": "it",
         "name": "Cavaliere nordamericano"
       },
       {
         "lang": "ja",
-        "name": "クロエリセイタカシギ",
-        "synonyms": [
-          "kuroeriseitakashigi"
-        ]
+        "name": "クロエリセイタカシギ"
       },
       {
         "lang": "lt",
@@ -115,16 +216,20 @@
         "name": "Svartkronestylteløper"
       },
       {
-        "lang": "pl",
-        "name": "szczudlak bialobrewy"
+        "lang": "nv",
+        "name": "Jáádtsʼósí łizhinígíí"
       },
       {
-        "lang": "pt-br",
-        "name": "pernilongo-de-costas-negras"
+        "lang": "pl",
+        "name": "Szczudlak bialobrewy"
       },
       {
         "lang": "pt",
-        "name": "pernilongo-de-costas-negras"
+        "name": "Pernilongo-de-costas-negras"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Pernilongo-de-costas-negras"
       },
       {
         "lang": "ru",
@@ -132,11 +237,15 @@
       },
       {
         "lang": "sk",
-        "name": "šišila čiernokrká"
+        "name": "Šišila čiernokrká"
       },
       {
         "lang": "sv",
         "name": "Amerikansk styltlöpare"
+      },
+      {
+        "lang": "vi",
+        "name": "Cà kheo cổ đen"
       },
       {
         "lang": "zh",
@@ -161,7 +270,10 @@
       },
       {
         "lang": "en",
-        "name": "White-headed Stilt"
+        "name": "Pied Stilt",
+        "synonyms": [
+          "White-headed Stilt"
+        ]
       },
       {
         "lang": "es",
@@ -278,7 +390,7 @@
       },
       {
         "lang": "eo",
-        "name": "Himantopo"
+        "name": "Komuna himantopo"
       },
       {
         "lang": "es",
@@ -530,6 +642,10 @@
       {
         "lang": "zh",
         "name": "黑翅长脚鹬"
+      },
+      {
+        "lang": "ta",
+        "name": "பவளக்கால் உள்ளான்"
       }
     ]
   },

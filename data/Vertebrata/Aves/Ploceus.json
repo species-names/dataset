@@ -104,8 +104,12 @@
     "scientific_name": "Ploceus velatus",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Snovač žlutý"
+      },
+      {
         "lang": "en",
-        "name": "Southern Masked-Weaver"
+        "name": "Southern Masked Weaver"
       }
     ]
   },
@@ -285,7 +289,7 @@
       },
       {
         "lang": "it",
-        "name": "tessitore di Sakalava"
+        "name": "Tessitore di Sakalava"
       },
       {
         "lang": "sv",
@@ -385,6 +389,14 @@
   {
     "scientific_name": "Ploceus philippinus",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "বাবুই"
+      },
+      {
+        "lang": "en",
+        "name": "Baya weaver"
+      },
       {
         "lang": "fi",
         "name": "Riisikutoja"
@@ -1199,7 +1211,10 @@
       },
       {
         "lang": "bn",
-        "name": "কালোবুক বাবুই"
+        "name": "কালোবুক বাবুই",
+        "synonyms": [
+          "বাংলা বাবুই"
+        ]
       },
       {
         "lang": "bh",

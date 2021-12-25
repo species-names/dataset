@@ -1,5 +1,26 @@
 [
   {
+    "scientific_name": "Lophornis verreauxii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Butterfly Coquette"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí presumit de Verreaux"
+      },
+      {
+        "lang": "de",
+        "name": "Grünschopfelfe"
+      },
+      {
+        "lang": "nl",
+        "name": "Groenkuifkoketkolibrie"
+      }
+    ]
+  },
+  {
     "scientific_name": "Lophornis stictolophus",
     "common_names": [
       {
@@ -74,8 +95,84 @@
     "scientific_name": "Lophornis magnificus",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Великолепна огърлична кокетка"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí coquet magnífic"
+      },
+      {
+        "lang": "cs",
+        "name": "Kolibřík nádherný"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn copog crych"
+      },
+      {
+        "lang": "da",
+        "name": "Pragtalf"
+      },
+      {
+        "lang": "de",
+        "name": "Prachtelfe"
+      },
+      {
         "lang": "en",
         "name": "Frilled Coquette"
+      },
+      {
+        "lang": "es",
+        "name": "Coqueta magnífica"
+      },
+      {
+        "lang": "fa",
+        "name": "لوند طوقی"
+      },
+      {
+        "lang": "fi",
+        "name": "Loistosolmiokolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Coquette magnifique"
+      },
+      {
+        "lang": "hu",
+        "name": "Pompás kacérkolibri"
+      },
+      {
+        "lang": "it",
+        "name": "Coquette crespata"
+      },
+      {
+        "lang": "ja",
+        "name": "シマカザリハチドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Gekraagde Koketkolibrie"
+      },
+      {
+        "lang": "no",
+        "name": "Viftekokette"
+      },
+      {
+        "lang": "pl",
+        "name": "Sylfik wspaniały"
+      },
+      {
+        "lang": "pt",
+        "name": "Topetinho-vermelho"
+      },
+      {
+        "lang": "ru",
+        "name": "Великолепная кокетка"
+      },
+      {
+        "lang": "sv",
+        "name": "Praktkokett"
       }
     ]
   },
@@ -144,7 +241,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "kolibřík krátkochocholatý"
+        "name": "Kolibřík krátkochocholatý"
       },
       {
         "lang": "da",
@@ -164,7 +261,7 @@
       },
       {
         "lang": "fi",
-        "name": "guerreronsolmiokolibri"
+        "name": "Guerreronsolmiokolibri"
       },
       {
         "lang": "fr",
@@ -172,7 +269,7 @@
       },
       {
         "lang": "hu",
-        "name": "rövidcopfos kacérkolibri"
+        "name": "Rövidcopfos kacérkolibri"
       },
       {
         "lang": "it",
@@ -192,7 +289,7 @@
       },
       {
         "lang": "pl",
-        "name": "sylfik krótkoczuby"
+        "name": "Sylfik krótkoczuby"
       },
       {
         "lang": "ru",
@@ -200,7 +297,7 @@
       },
       {
         "lang": "sk",
-        "name": "golierčik krátkochochlatý"
+        "name": "Golierčik krátkochochlatý"
       },
       {
         "lang": "sv",

@@ -193,14 +193,11 @@
     "common_names": [
       {
         "lang": "als",
-        "name": "Taucherli"
+        "name": "Blässhuhn"
       },
       {
         "lang": "ar",
-        "name": "الغر",
-        "synonyms": [
-          "الغراء"
-        ]
+        "name": "غرة أوراسية"
       },
       {
         "lang": "ast",
@@ -219,16 +216,20 @@
         "name": "Böichn"
       },
       {
-        "lang": "be-x-old",
-        "name": "Лыска"
-      },
-      {
         "lang": "be",
         "name": "Лысуха"
       },
       {
+        "lang": "be-x-old",
+        "name": "Лыска"
+      },
+      {
         "lang": "bg",
         "name": "Лиска"
+      },
+      {
+        "lang": "bn",
+        "name": "ইউরেশীয় কুট"
       },
       {
         "lang": "br",
@@ -236,11 +237,15 @@
       },
       {
         "lang": "ca",
-        "name": "Fotja"
+        "name": "Fotja comuna"
       },
       {
         "lang": "cs",
         "name": "Lyska černá"
+      },
+      {
+        "lang": "csb",
+        "name": "Zwëczajnô bléska"
       },
       {
         "lang": "cv",
@@ -276,11 +281,11 @@
       },
       {
         "lang": "eo",
-        "name": "nigra fuliko"
+        "name": "Komuna fuliko"
       },
       {
         "lang": "es",
-        "name": "Focha"
+        "name": "Focha común"
       },
       {
         "lang": "et",
@@ -288,7 +293,11 @@
       },
       {
         "lang": "eu",
-        "name": "Kopetazuri"
+        "name": "Kopetazuri arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "چنگر اوراسیایی"
       },
       {
         "lang": "fi",
@@ -323,15 +332,16 @@
         "name": "Galiñola negra"
       },
       {
+        "lang": "gu",
+        "name": "દસાડી"
+      },
+      {
         "lang": "gv",
         "name": "Kiark ushtey vane"
       },
       {
         "lang": "he",
-        "name": "אגמית",
-        "synonyms": [
-          "אגמית מצויה"
-        ]
+        "name": "אגמית מצויה"
       },
       {
         "lang": "hr",
@@ -343,11 +353,11 @@
       },
       {
         "lang": "hy",
-        "name": "Սև Փարփար"
+        "name": "Սև փարփար"
       },
       {
         "lang": "id",
-        "name": "Mandar Hitam"
+        "name": "Mandar hitam"
       },
       {
         "lang": "is",
@@ -355,7 +365,7 @@
       },
       {
         "lang": "it",
-        "name": "Folaga"
+        "name": "Folaga eurasiatica"
       },
       {
         "lang": "ja",
@@ -371,11 +381,11 @@
       },
       {
         "lang": "kjh",
-        "name": "Суғ кÿркÿзi"
+        "name": "Суғ кÿркÿзі"
       },
       {
         "lang": "kjn",
-        "name": "Суғ кÿркÿзi"
+        "name": "Суғ кÿркÿзі"
       },
       {
         "lang": "kk",
@@ -387,15 +397,11 @@
       },
       {
         "lang": "ku",
-        "name": "Mirîşka avî ya reşbeş"
+        "name": "Reşbeşe"
       },
       {
         "lang": "kw",
         "name": "Dowryar"
-      },
-      {
-        "lang": "la",
-        "name": "Fulica"
       },
       {
         "lang": "lb",
@@ -404,6 +410,10 @@
       {
         "lang": "lmo",
         "name": "Fùlaga"
+      },
+      {
+        "lang": "ln",
+        "name": "Nsoso-monkoma"
       },
       {
         "lang": "lt",
@@ -418,8 +428,16 @@
         "name": "Лиска"
       },
       {
+        "lang": "ml",
+        "name": "വെള്ളക്കൊക്കൻ കുളക്കോഴി"
+      },
+      {
         "lang": "mn",
         "name": "Халзан түнжүү"
+      },
+      {
+        "lang": "mr",
+        "name": "वारकरी"
       },
       {
         "lang": "mrj",
@@ -427,23 +445,31 @@
       },
       {
         "lang": "ms",
-        "name": "Pangling Hitam"
+        "name": "Burung Pangling Hitam"
       },
       {
         "lang": "mt",
         "name": "Tiġieġa tal-Baħar"
       },
       {
+        "lang": "my",
+        "name": "ရေကြက်ဒုံ"
+      },
+      {
         "lang": "nap",
         "name": "Follaca"
       },
       {
-        "lang": "nds-nl",
-        "name": "Meerkoutje"
-      },
-      {
         "lang": "nds",
         "name": "Waterküken"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Blesente"
+      },
+      {
+        "lang": "ne",
+        "name": "मरुल"
       },
       {
         "lang": "nl",
@@ -462,24 +488,32 @@
         "name": "Mèrcrole"
       },
       {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ tóidoozohii"
+      },
+      {
+        "lang": "olo",
+        "name": "Nogikana"
+      },
+      {
         "lang": "pcd",
         "name": "Blérie"
       },
       {
         "lang": "pl",
-        "name": "Łyska"
+        "name": "Łyska zwyczajna"
       },
       {
         "lang": "pnb",
         "name": "کوٹ"
       },
       {
-        "lang": "pt-br",
-        "name": "Frango-d'agua-comum"
-      },
-      {
         "lang": "pt",
         "name": "Galeirão-comum"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Frango-d'agua-comum"
       },
       {
         "lang": "qu",
@@ -518,6 +552,10 @@
         "name": "Beld-cuit"
       },
       {
+        "lang": "sd",
+        "name": "آڙي"
+      },
+      {
         "lang": "se",
         "name": "Giehpavuonccis"
       },
@@ -539,10 +577,7 @@
       },
       {
         "lang": "sr",
-        "name": "Liska",
-        "synonyms": [
-          "Лиска"
-        ]
+        "name": "Liska - Лиска"
       },
       {
         "lang": "stq",
@@ -558,7 +593,7 @@
       },
       {
         "lang": "ta",
-        "name": "Tanneer kozhi"
+        "name": "நாமக்கோழி"
       },
       {
         "lang": "te",
@@ -598,7 +633,7 @@
       },
       {
         "lang": "zh",
-        "name": "冬鸡"
+        "name": "骨顶鸡 zh-yue"
       }
     ]
   },
@@ -758,7 +793,43 @@
       },
       {
         "lang": "sv",
-        "name": "Hawaiisothöna"
+        "name": "hawaiisothöna"
+      },
+      {
+        "lang": "ar",
+        "name": "غرة هاواي"
+      },
+      {
+        "lang": "ca",
+        "name": "Fotja de les Hawaii"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiar Hawaii"
+      },
+      {
+        "lang": "fa",
+        "name": "چنگر هاوایی"
+      },
+      {
+        "lang": "hu",
+        "name": "Hawaii szárcsa"
+      },
+      {
+        "lang": "ml",
+        "name": "ഹവായിയൻ കൂറ്റ്"
+      },
+      {
+        "lang": "nl",
+        "name": "Hawaiimeerkoet"
+      },
+      {
+        "lang": "nv",
+        "name": "Kéyah Ałkééʼ Naaznilgo Dah Ndaaʼeełídę́ę́ʼ tóidoozohii"
+      },
+      {
+        "lang": "ru",
+        "name": "Гавайская лысуха"
       }
     ]
   }

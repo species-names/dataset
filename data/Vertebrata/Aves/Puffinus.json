@@ -1,13 +1,5 @@
 [
   {
-    "scientific_name": "Puffinus newelli",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Puffinus myrtae",
-    "common_names": []
-  },
-  {
     "scientific_name": "Puffinus elegans",
     "common_names": []
   },
@@ -373,6 +365,43 @@
     ]
   },
   {
+    "scientific_name": "Puffinus newelli",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga de Newell"
+      },
+      {
+        "lang": "en",
+        "name": "Newell's shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Nevela pufino"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی هاوایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Newell"
+      },
+      {
+        "lang": "hr",
+        "name": "Newellov zovoj"
+      },
+      {
+        "lang": "nl",
+        "name": "Newells pijlstormvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "hawaiilira"
+      }
+    ]
+  },
+  {
     "scientific_name": "Puffinus nativitatis",
     "common_names": [
       {
@@ -434,6 +463,23 @@
     ]
   },
   {
+    "scientific_name": "Puffinus myrtae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rapa shearwater"
+      },
+      {
+        "lang": "nl",
+        "name": "Rapapijlstormvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "rapalira"
+      }
+    ]
+  },
+  {
     "scientific_name": "Puffinus mauretanicus",
     "common_names": [
       {
@@ -474,7 +520,79 @@
       },
       {
         "lang": "af",
-        "name": "Baleariese stormvoël"
+        "name": "Baleariese pylstormvoël"
+      },
+      {
+        "lang": "bg",
+        "name": "Балеарски буревестник"
+      },
+      {
+        "lang": "br",
+        "name": "Tort gell"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin Balearig"
+      },
+      {
+        "lang": "eo",
+        "name": "Baleara pufino"
+      },
+      {
+        "lang": "et",
+        "name": "Baleaari tormilind"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی بالئاری"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin des Baléares"
+      },
+      {
+        "lang": "fy",
+        "name": "Baleärenmok"
+      },
+      {
+        "lang": "hr",
+        "name": "Balearska burnica"
+      },
+      {
+        "lang": "id",
+        "name": "Penggunting-laut balearic"
+      },
+      {
+        "lang": "nl",
+        "name": "Vale pijlstormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Balearlire"
+      },
+      {
+        "lang": "no",
+        "name": "Balearlire"
+      },
+      {
+        "lang": "olo",
+        "name": "Balearoinliidäi"
+      },
+      {
+        "lang": "pt",
+        "name": "Pardela-do-mediterrâneo"
+      },
+      {
+        "lang": "ru",
+        "name": "Балеарский буревестник"
+      },
+      {
+        "lang": "sh",
+        "name": "Balearska burnica"
+      },
+      {
+        "lang": "sv",
+        "name": "Balearisk lira"
       }
     ]
   },
@@ -484,6 +602,10 @@
       {
         "lang": "en",
         "name": "Audubon's Shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Tropika pufino"
       },
       {
         "lang": "ja",
@@ -603,7 +725,56 @@
   },
   {
     "scientific_name": "Puffinus bryani",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Baldriga de Bryan"
+      },
+      {
+        "lang": "de",
+        "name": "Midwaysturmtaucher"
+      },
+      {
+        "lang": "en",
+        "name": "Bryan's shearwater"
+      },
+      {
+        "lang": "eo",
+        "name": "Briana pufino"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر دریایی براین"
+      },
+      {
+        "lang": "fr",
+        "name": "Puffin de Bryan"
+      },
+      {
+        "lang": "id",
+        "name": "Penggunting-laut bryan"
+      },
+      {
+        "lang": "ja",
+        "name": "オガサワラヒメミズナギドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bryans pijlstormvogel"
+      },
+      {
+        "lang": "nv",
+        "name": "Níyol yiiʼ naalkʼįhii łibáhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Burzyk siodłaty"
+      },
+      {
+        "lang": "sv",
+        "name": "bryanlira"
+      }
+    ]
   },
   {
     "scientific_name": "Puffinus bannermani",

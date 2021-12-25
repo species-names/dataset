@@ -1,11 +1,16 @@
 [
   {
     "scientific_name": "Akialoa stejnegeri",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Akialoa lanaiensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kauai-Akialoakleidervogel"
+      },
+      {
+        "lang": "en",
+        "name": "Kauai Akialoa"
+      }
+    ]
   },
   {
     "scientific_name": "Akialoa obscura",
@@ -17,6 +22,19 @@
       {
         "lang": "haw",
         "name": "ʻakialoa"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Akialoa lanaiensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Lanai-Akialoakleidervogel"
+      },
+      {
+        "lang": "en",
+        "name": "Lanai Akialoa"
       }
     ]
   },

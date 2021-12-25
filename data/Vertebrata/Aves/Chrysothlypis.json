@@ -1,7 +1,16 @@
 [
   {
     "scientific_name": "Chrysothlypis salmoni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scarlet-and-white Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara rojiblanca"
+      }
+    ]
   },
   {
     "scientific_name": "Chrysothlypis chrysomelas",

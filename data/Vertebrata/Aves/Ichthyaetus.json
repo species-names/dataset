@@ -19,6 +19,10 @@
         "name": "Relict Gull"
       },
       {
+        "lang": "eo",
+        "name": "Relikva mevo"
+      },
+      {
         "lang": "et",
         "name": "Kõnnukajakas"
       },
@@ -269,6 +273,10 @@
         "name": "White-eyed Gull"
       },
       {
+        "lang": "eo",
+        "name": "Blankokula mevo"
+      },
+      {
         "lang": "fi",
         "name": "Valkosilmälokki"
       },
@@ -343,14 +351,11 @@
       },
       {
         "lang": "en",
-        "name": "Pallas's Gull",
-        "synonyms": [
-          "Great Black-headed Gull"
-        ]
+        "name": "Pallas's Gull"
       },
       {
         "lang": "eo",
-        "name": "granda nigrakapa mevo"
+        "name": "Fiŝmevo"
       },
       {
         "lang": "es",
@@ -409,13 +414,6 @@
         "name": "큰검은머리갈매기"
       },
       {
-        "lang": "la",
-        "name": "Ichthyaetus ichthyaetus",
-        "synonyms": [
-          "Larus ichthyaetus"
-        ]
-      },
-      {
         "lang": "lt",
         "name": "Kiras kvatoklis"
       },
@@ -425,14 +423,11 @@
       },
       {
         "lang": "ml",
-        "name": "വലിയ  കടല്‍ക്കാക്ക"
+        "name": "വലിയ കടല്‍ക്കാക്ക"
       },
       {
         "lang": "mn",
-        "name": "Итэлгэн цахлай",
-        "synonyms": [
-          "ᠢᠳᠥᠯᠭᠡᠨ ᠴᠠᠬᠣᠯᠠᠢ"
-        ]
+        "name": "Итэлгэн цахлай - ᠢᠳᠥᠯᠭᠡᠨ ᠴᠠᠬᠣᠯᠠᠢ"
       },
       {
         "lang": "ms",
@@ -455,12 +450,12 @@
         "name": "Mewa orlica"
       },
       {
-        "lang": "pt-br",
-        "name": "Mandriao-de-cauda-comprida"
-      },
-      {
         "lang": "pt",
         "name": "Alcatraz-de-cabeça-preta"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mandriao-de-cauda-comprida"
       },
       {
         "lang": "ro",
@@ -528,6 +523,10 @@
         "name": "Sooty Gull"
       },
       {
+        "lang": "eo",
+        "name": "Fulga mevo"
+      },
+      {
         "lang": "fr",
         "name": "Goéland de Hemprich"
       },
@@ -538,6 +537,10 @@
       {
         "lang": "pl",
         "name": "Mewa przydymiona"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-fuliginosa"
       },
       {
         "lang": "sw",
@@ -579,6 +582,10 @@
       {
         "lang": "en",
         "name": "Audouin's Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Koralmevo"
       },
       {
         "lang": "es",
@@ -623,13 +630,6 @@
       {
         "lang": "ja",
         "name": "アカハシカモメ"
-      },
-      {
-        "lang": "la",
-        "name": "Ichthyaetus audouinii",
-        "synonyms": [
-          "Larus audouinii"
-        ]
       },
       {
         "lang": "lt",

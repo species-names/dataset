@@ -51,6 +51,10 @@
         "name": "Alaotrajärvenuikku"
       },
       {
+        "lang": "hu",
+        "name": "Alaotra-vöcsök"
+      },
+      {
         "lang": "it",
         "name": "Tuffetto del delacour"
       },
@@ -241,7 +245,12 @@
       },
       {
         "lang": "ja",
-        "name": "カイツブリ"
+        "name": "カイツブリ",
+        "synonyms": [
+          "鳰 (にお)",
+          "鸊鷉 (へきてい)",
+          "鸊鵜 (へきてい)"
+        ]
       },
       {
         "lang": "ka",
@@ -401,7 +410,10 @@
       },
       {
         "lang": "sr",
-        "name": "Mali gnjurac - Мали гњурац"
+        "name": "Мали гњурац",
+        "synonyms": [
+          "Mali gnjurac"
+        ]
       },
       {
         "lang": "st",
@@ -469,8 +481,56 @@
         "name": "Zampullín malgache"
       },
       {
+        "lang": "br",
+        "name": "Plomer Madagaskar"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabusset de Madagascar"
+      },
+      {
+        "lang": "de",
+        "name": "Madagaskar-Zwergtaucher"
+      },
+      {
+        "lang": "eo",
+        "name": "Madagaskara grebo"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم ماداگاسکار"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinuikku"
+      },
+      {
+        "lang": "fr",
+        "name": "Grèbe malgache"
+      },
+      {
+        "lang": "hu",
+        "name": "Madagaszkári vöcsök"
+      },
+      {
+        "lang": "nl",
+        "name": "Pelzelns dodaars"
+      },
+      {
+        "lang": "pl",
+        "name": "Perkozek białosmugi"
+      },
+      {
+        "lang": "pnb",
+        "name": "مڈغاسکر ڈبکنی"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарская малая поганка"
+      },
+      {
         "lang": "sv",
-        "name": "Madagaskarsmådopping"
+        "name": "madagaskarsmådopping"
       }
     ]
   },
@@ -512,7 +572,7 @@
       },
       {
         "lang": "cs",
-        "name": "potápka nejmenší"
+        "name": "Potápka nejmenší"
       },
       {
         "lang": "da",
@@ -532,11 +592,11 @@
       },
       {
         "lang": "et",
-        "name": "ameerika väikepütt"
+        "name": "Ameerika väikepütt"
       },
       {
         "lang": "fi",
-        "name": "kääpiöuikku"
+        "name": "Kääpiöuikku"
       },
       {
         "lang": "fr",
@@ -558,7 +618,7 @@
       },
       {
         "lang": "hu",
-        "name": "törpevöcsök"
+        "name": "Törpevöcsök"
       },
       {
         "lang": "it",
@@ -600,7 +660,7 @@
       },
       {
         "lang": "sk",
-        "name": "potápka čiernohlavá"
+        "name": "Potápka čiernohlavá"
       },
       {
         "lang": "sv",

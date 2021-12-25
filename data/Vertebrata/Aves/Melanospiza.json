@@ -1,6 +1,56 @@
 [
   {
     "scientific_name": "Melanospiza richardsoni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Pila du St Lucia"
+      },
+      {
+        "lang": "en",
+        "name": "Saint Lucia black finch"
+      },
+      {
+        "lang": "es",
+        "name": "semillero de Santa Lucía"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره سیاه سنت لوسیا"
+      },
+      {
+        "lang": "fr",
+        "name": "Moisson pied-blanc"
+      },
+      {
+        "lang": "nl",
+        "name": "Sint-Luciagrondvink"
+      },
+      {
+        "lang": "sv",
+        "name": "saintluciagräsfink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Melanospiza bicolor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-faced Grassquit"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero bicolor"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile cici"
+      },
+      {
+        "lang": "sv",
+        "name": "Västindisk frösparv"
+      }
+    ]
   }
 ]

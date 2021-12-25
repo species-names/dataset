@@ -227,6 +227,10 @@
         "name": "Indian Spotted Eagle"
       },
       {
+        "lang": "eo",
+        "name": "Hinda kriaglo"
+      },
+      {
         "lang": "es",
         "name": "Águila moteada hindú"
       },
@@ -237,6 +241,74 @@
       {
         "lang": "tr",
         "name": "Hint benekli kartalı"
+      },
+      {
+        "lang": "ca",
+        "name": "Àguila de l'Índia"
+      },
+      {
+        "lang": "dty",
+        "name": "लघु महाचील"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب خال‌دار هندی"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigle lancéolé"
+      },
+      {
+        "lang": "he",
+        "name": "עיט הודי"
+      },
+      {
+        "lang": "hi",
+        "name": "भारतीय चित्तीदार महाश्येन"
+      },
+      {
+        "lang": "hy",
+        "name": "Հնդկական ենթարծիվ"
+      },
+      {
+        "lang": "lv",
+        "name": "Indijas mazais ērglis"
+      },
+      {
+        "lang": "ml",
+        "name": "ചെറിയ പുള്ളിപ്പരുന്ത്"
+      },
+      {
+        "lang": "mn",
+        "name": "Энэтхэг цоохор бүргэд"
+      },
+      {
+        "lang": "ne",
+        "name": "लघु महाचील"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische schreeuwarend"
+      },
+      {
+        "lang": "nv",
+        "name": "Biʼééʼ Łigaii Bikéyahdę́ę́ʼ atsá łikizhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Orlik hinduski"
+      },
+      {
+        "lang": "pnb",
+        "name": "ھندستانی تبیاں آلا عقاب"
+      },
+      {
+        "lang": "ru",
+        "name": "Индийский подорлик"
+      },
+      {
+        "lang": "sv",
+        "name": "Indisk skrikörn"
       }
     ]
   },
@@ -277,7 +349,7 @@
       },
       {
         "lang": "da",
-        "name": "Stor skrigeørn"
+        "name": "Stor Skrigeørn"
       },
       {
         "lang": "de",
@@ -309,7 +381,7 @@
       },
       {
         "lang": "fi",
-        "name": "kiljukotka"
+        "name": "Kiljukotka"
       },
       {
         "lang": "fr",
@@ -441,10 +513,7 @@
       },
       {
         "lang": "sr",
-        "name": "orao kliktaš",
-        "synonyms": [
-          "Орао клокоташ"
-        ]
+        "name": "orao kliktaš - Орао клокоташ"
       },
       {
         "lang": "sv",

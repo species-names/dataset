@@ -242,7 +242,24 @@
   },
   {
     "scientific_name": "Psarocolius atrovirens",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dusky-green oropendola"
+      },
+      {
+        "lang": "eo",
+        "name": "Oliveca psarokolio"
+      },
+      {
+        "lang": "fr",
+        "name": "Cassique olivâtre"
+      },
+      {
+        "lang": "es",
+        "name": "cacique verdioscuro"
+      }
+    ]
   },
   {
     "scientific_name": "Psarocolius angustifrons",

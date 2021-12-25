@@ -3,6 +3,34 @@
     "scientific_name": "Fulmarus glacialoides",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Silwerstormvoël"
+      },
+      {
+        "lang": "ar",
+        "name": "فلمار جنوبي"
+      },
+      {
+        "lang": "bg",
+        "name": "Южен буревестник"
+      },
+      {
+        "lang": "br",
+        "name": "Karamell ar su"
+      },
+      {
+        "lang": "ca",
+        "name": "Fulmar austral"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn drycin y De"
+      },
+      {
+        "lang": "da",
+        "name": "Sydlig Mallemuk"
+      },
+      {
         "lang": "de",
         "name": "Silbersturmvogel"
       },
@@ -11,15 +39,55 @@
         "name": "Southern Fulmar"
       },
       {
+        "lang": "eo",
+        "name": "Suda fulmaro"
+      },
+      {
+        "lang": "es",
+        "name": "Fulmar austral"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ باران بدبوی جنوبی"
+      },
+      {
         "lang": "fi",
         "name": "Etelänmyrskylintu"
+      },
+      {
+        "lang": "fr",
+        "name": "Fulmar argenté"
+      },
+      {
+        "lang": "he",
+        "name": "פולמאר דרומי"
+      },
+      {
+        "lang": "hr",
+        "name": "Južni fulmar"
+      },
+      {
+        "lang": "id",
+        "name": "Fulmar Selatan"
+      },
+      {
+        "lang": "it",
+        "name": "Fulmaro australe"
       },
       {
         "lang": "ja",
         "name": "ギンフルマカモメ"
       },
       {
-        "lang": "nb",
+        "lang": "nl",
+        "name": "Grijze Stormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Sørhavhest"
+      },
+      {
+        "lang": "no",
         "name": "Sørhavhest"
       },
       {
@@ -27,12 +95,16 @@
         "name": "Fulmar południowy"
       },
       {
-        "lang": "sv",
-        "name": "Sydlig stormfågel"
+        "lang": "pt",
+        "name": "Pardelão-prateado"
       },
       {
-        "lang": "af",
-        "name": "Silwerstormvoël"
+        "lang": "ru",
+        "name": "Антарктический глупыш"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydstormfågel"
       }
     ]
   },
@@ -41,10 +113,7 @@
     "common_names": [
       {
         "lang": "ast",
-        "name": "Fulmar",
-        "synonyms": [
-          "Petrel"
-        ]
+        "name": "Fulmar"
       },
       {
         "lang": "bg",
@@ -52,7 +121,7 @@
       },
       {
         "lang": "br",
-        "name": "Ar garamellenn"
+        "name": "Karamell an norzh"
       },
       {
         "lang": "ca",
@@ -60,7 +129,7 @@
       },
       {
         "lang": "cs",
-        "name": "buřňák lední"
+        "name": "Buřňák lední"
       },
       {
         "lang": "cw",
@@ -68,7 +137,7 @@
       },
       {
         "lang": "cy",
-        "name": "Aderyn-drycin y graig"
+        "name": "Aderyn-drycin y Graig"
       },
       {
         "lang": "da",
@@ -80,22 +149,15 @@
       },
       {
         "lang": "en",
-        "name": "Northern Fulmar",
-        "synonyms": [
-          "Arctic Fulmar",
-          "Fulmar"
-        ]
+        "name": "Northern Fulmar"
       },
       {
         "lang": "eo",
-        "name": "Fulmaro"
+        "name": "Norda fulmaro"
       },
       {
         "lang": "es",
-        "name": "Fulmar",
-        "synonyms": [
-          "Fulmar Boreal"
-        ]
+        "name": "Fulmar boreal"
       },
       {
         "lang": "et",
@@ -107,21 +169,15 @@
       },
       {
         "lang": "fi",
-        "name": "myrskylintu"
+        "name": "Myrskylintu"
       },
       {
         "lang": "fo",
-        "name": "Havhestur",
-        "synonyms": [
-          "Náti"
-        ]
+        "name": "Havhestur"
       },
       {
         "lang": "fr",
-        "name": "Fulmar",
-        "synonyms": [
-          "Fulmar boréal"
-        ]
+        "name": "Fulmar boréal"
       },
       {
         "lang": "frr",
@@ -152,8 +208,16 @@
         "name": "יסעור שחפי"
       },
       {
+        "lang": "hr",
+        "name": "Burnjak"
+      },
+      {
         "lang": "hu",
-        "name": "északi sirályhojsza"
+        "name": "Északi sirályhojsza"
+      },
+      {
+        "lang": "ik",
+        "name": "Aivġich nauyaŋat"
       },
       {
         "lang": "io",
@@ -169,17 +233,11 @@
       },
       {
         "lang": "iu",
-        "name": "Qaqudluk",
-        "synonyms": [
-          "Qaqulluk"
-        ]
+        "name": "Qaqudluk"
       },
       {
         "lang": "ja",
-        "name": "フルマカモメ",
-        "synonyms": [
-          "furumakamome"
-        ]
+        "name": "フルマカモメ"
       },
       {
         "lang": "kl",
@@ -191,7 +249,11 @@
       },
       {
         "lang": "nl",
-        "name": "Noordse stormvogel"
+        "name": "Noordse Stormvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Havhest"
       },
       {
         "lang": "no",
@@ -199,11 +261,11 @@
       },
       {
         "lang": "pl",
-        "name": "fulmar"
+        "name": "Fulmar"
       },
       {
         "lang": "pt",
-        "name": "Fulmar-glacial"
+        "name": "Pombalete"
       },
       {
         "lang": "ru",
@@ -215,11 +277,11 @@
       },
       {
         "lang": "sk",
-        "name": "fulmar ľadový"
+        "name": "Fulmar ľadový"
       },
       {
         "lang": "sl",
-        "name": "ledni viharnik"
+        "name": "Ledni viharnik"
       },
       {
         "lang": "sv",
@@ -227,7 +289,7 @@
       },
       {
         "lang": "tr",
-        "name": "Kutup Fırtınakuşu"
+        "name": "Kuzey fulmarı"
       },
       {
         "lang": "uk",

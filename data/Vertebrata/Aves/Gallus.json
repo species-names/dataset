@@ -25,6 +25,14 @@
       {
         "lang": "th",
         "name": "ไก่ป่าชวา"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "绿原鸡"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "緑原雞"
       }
     ]
   },
@@ -124,8 +132,12 @@
         "name": "ไก่ป่าเทา"
       },
       {
-        "lang": "zh",
+        "lang": "zh-hant",
         "name": "灰原雞"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "灰原鸡"
       }
     ]
   },
@@ -179,6 +191,10 @@
       {
         "lang": "hu",
         "name": "Ceyloni tyúk"
+      },
+      {
+        "lang": "id",
+        "name": "Ayam hutan sailan"
       },
       {
         "lang": "it",
@@ -237,8 +253,12 @@
         "name": "Gà rừng Sri Lanka"
       },
       {
-        "lang": "zh",
+        "lang": "zh-hant",
         "name": "黑尾原雞"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "黑尾原鸡"
       }
     ]
   },
@@ -434,6 +454,10 @@
         "name": "Naʼahóóhai"
       },
       {
+        "lang": "or",
+        "name": "ଲାଲ୍ ଜଙ୍ଗଲୀ କୁକୁଡ଼ା"
+      },
+      {
         "lang": "pl",
         "name": "Kur bankiwa"
       },
@@ -482,8 +506,12 @@
         "name": "Gà rừng lông đỏ"
       },
       {
-        "lang": "zh",
-        "name": "原雞"
+        "lang": "zh-hant",
+        "name": "紅原雞"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "红原鸡"
       }
     ]
   }

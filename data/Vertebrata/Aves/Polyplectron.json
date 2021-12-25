@@ -180,7 +180,48 @@
   },
   {
     "scientific_name": "Polyplectron katsumatae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "قبيط هاينان"
+      },
+      {
+        "lang": "bg",
+        "name": "Хайнански паунов фазан"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà d'esperons de Hainan"
+      },
+      {
+        "lang": "en",
+        "name": "Hainan peacock-pheasant"
+      },
+      {
+        "lang": "eo",
+        "name": "Hajnana pavofazano"
+      },
+      {
+        "lang": "fr",
+        "name": "Éperonnier de Hainan"
+      },
+      {
+        "lang": "nl",
+        "name": "Hainanspiegelpauw"
+      },
+      {
+        "lang": "sv",
+        "name": "hainanpåfågelfasan"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà tiền Hải Nam"
+      },
+      {
+        "lang": "zh",
+        "name": "海南孔雀雉"
+      }
+    ]
   },
   {
     "scientific_name": "Polyplectron inopinatum",

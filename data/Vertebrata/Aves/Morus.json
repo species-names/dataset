@@ -15,6 +15,10 @@
         "name": "Australasian Gannet"
       },
       {
+        "lang": "eo",
+        "name": "Aŭstralia sulo"
+      },
+      {
         "lang": "fi",
         "name": "Australiansuula"
       },
@@ -37,6 +41,10 @@
       {
         "lang": "sv",
         "name": "Australisk sula"
+      },
+      {
+        "lang": "pt",
+        "name": "Atobá-australiano"
       }
     ]
   },
@@ -52,6 +60,10 @@
         "name": "Cape Gannet"
       },
       {
+        "lang": "eo",
+        "name": "Kaba sulo"
+      },
+      {
         "lang": "fi",
         "name": "Kapinsuula"
       },
@@ -65,11 +77,79 @@
       },
       {
         "lang": "sv",
-        "name": "Kapsula"
+        "name": "kapsula"
       },
       {
         "lang": "vi",
         "name": "Chim điên Cape"
+      },
+      {
+        "lang": "af",
+        "name": "Witmalgas"
+      },
+      {
+        "lang": "bg",
+        "name": "Капски рибояд"
+      },
+      {
+        "lang": "br",
+        "name": "Morskoul ar C'hab"
+      },
+      {
+        "lang": "ca",
+        "name": "Mascarell del Cap"
+      },
+      {
+        "lang": "cy",
+        "name": "Hugan y Penrhyn"
+      },
+      {
+        "lang": "fa",
+        "name": "سفیدغاز دماغه"
+      },
+      {
+        "lang": "gl",
+        "name": "Mascato do Cabo"
+      },
+      {
+        "lang": "he",
+        "name": "סולת הכף"
+      },
+      {
+        "lang": "hu",
+        "name": "Fokföldi szula"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapse jan-van-gent"
+      },
+      {
+        "lang": "no",
+        "name": "Kappsule"
+      },
+      {
+        "lang": "nv",
+        "name": "Naakaii Łizhiní Bikéyahdę́ę́ʼ taahilnoodii"
+      },
+      {
+        "lang": "pl",
+        "name": "Głuptak przylądkowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "کیپ گینٹ"
+      },
+      {
+        "lang": "pt",
+        "name": "Atobá-do-cabo"
+      },
+      {
+        "lang": "ru",
+        "name": "Капская олуша"
+      },
+      {
+        "lang": "uk",
+        "name": "Сула африканська"
       }
     ]
   },
@@ -106,7 +186,7 @@
       },
       {
         "lang": "cs",
-        "name": "terej bílý"
+        "name": "Terej bílý"
       },
       {
         "lang": "cw",
@@ -138,10 +218,7 @@
       },
       {
         "lang": "es",
-        "name": "Alcatraz",
-        "synonyms": [
-          "Alcatraz Atlántico"
-        ]
+        "name": "Alcatraz Atlántico"
       },
       {
         "lang": "et",
@@ -153,7 +230,7 @@
       },
       {
         "lang": "fi",
-        "name": "suula"
+        "name": "Suula"
       },
       {
         "lang": "fo",
@@ -201,7 +278,7 @@
       },
       {
         "lang": "it",
-        "name": "sula bassana"
+        "name": "Sula bassana"
       },
       {
         "lang": "ja",
@@ -248,7 +325,7 @@
       },
       {
         "lang": "pl",
-        "name": "głuptak"
+        "name": "Głuptak"
       },
       {
         "lang": "pms",
@@ -272,11 +349,11 @@
       },
       {
         "lang": "sk",
-        "name": "sula biela"
+        "name": "Sula biela"
       },
       {
         "lang": "sl",
-        "name": "navadni strmoglavec"
+        "name": "Navadni strmoglavec"
       },
       {
         "lang": "sq",

@@ -4,10 +4,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Anas marecula",
-    "common_names": []
-  },
-  {
     "scientific_name": "Anas zonorhyncha",
     "common_names": [
       {
@@ -66,47 +62,58 @@
       {
         "lang": "no",
         "name": "Hawaiiand"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas versicolor",
-    "common_names": [
+      },
       {
-        "lang": "cs",
-        "name": "Čírka modrozobá"
+        "lang": "ca",
+        "name": "Ànec de les Hawaii"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden wyllt Hawaii"
+      },
+      {
+        "lang": "da",
+        "name": "Hawaiiand"
       },
       {
         "lang": "de",
-        "name": "Versicolorente"
+        "name": "Hawaiiente"
       },
       {
-        "lang": "en",
-        "name": "Silver Teal"
+        "lang": "eo",
+        "name": "Havaja anaso"
       },
       {
-        "lang": "es",
-        "name": "Pato capuchino"
+        "lang": "fa",
+        "name": "مرغابی هاوایی"
       },
       {
-        "lang": "fr",
-        "name": "Sarcelle bariolée"
+        "lang": "hu",
+        "name": "Hawaii réce"
       },
       {
-        "lang": "ja",
-        "name": "ギンイロシマアジ"
+        "lang": "nds",
+        "name": "Hawaiiaante"
       },
       {
         "lang": "nl",
-        "name": "Zwartkaptaling"
+        "name": "Hawaii-eend"
       },
       {
-        "lang": "no",
-        "name": "Sølvand"
+        "lang": "nv",
+        "name": "Kéyah Ałkééʼ Naaznilgo Dah Ndaaʼeełídę́ę́ʼ naalʼeełí dibéłchíʼígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Krzyżówka hawajska"
+      },
+      {
+        "lang": "ru",
+        "name": "Гавайская кряква"
       },
       {
         "lang": "sv",
-        "name": "Silverand"
+        "name": "hawaiiand"
       }
     ]
   },
@@ -152,6 +159,10 @@
       {
         "lang": "sv",
         "name": "Gulnäbbad and"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltanokkasorsa"
       }
     ]
   },
@@ -159,335 +170,108 @@
     "scientific_name": "Anas superciliosa",
     "common_names": [
       {
+        "lang": "bi",
+        "name": "Waeldakdak"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec cellut"
+      },
+      {
         "lang": "cs",
         "name": "Kachna proužkovaná"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden ddu’r Môr Tawel"
+      },
+      {
+        "lang": "de",
+        "name": "Augenbrauenente"
       },
       {
         "lang": "en",
         "name": "Pacific Black Duck"
       },
       {
+        "lang": "eo",
+        "name": "Pacifika brovanaso"
+      },
+      {
         "lang": "es",
         "name": "Pato negro del Pacífico"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغابی سیاه آرام"
+      },
+      {
+        "lang": "fi",
+        "name": "Juovanaamasorsa"
+      },
+      {
+        "lang": "fj",
+        "name": "Ganiviti"
       },
       {
         "lang": "fr",
         "name": "Canard à sourcils"
       },
       {
-        "lang": "ja",
-        "name": "マミジロカルガモ"
+        "lang": "hu",
+        "name": "Szemöldökös réce"
       },
       {
-        "lang": "no",
-        "name": "Stripeand"
+        "lang": "it",
+        "name": "Germano del Pacifico"
+      },
+      {
+        "lang": "ja",
+        "name": "マミジロカルガモ"
       },
       {
         "lang": "mi",
         "name": "Pārera"
       },
       {
-        "lang": "ru",
-        "name": "Австралийская чёрная кряква"
+        "lang": "nds",
+        "name": "Ogenbroenaante"
       },
       {
-        "lang": "to",
-        "name": "toloa"
+        "lang": "nl",
+        "name": "Wenkbrauweend"
+      },
+      {
+        "lang": "nn",
+        "name": "Stripeand"
+      },
+      {
+        "lang": "no",
+        "name": "Stripeand"
+      },
+      {
+        "lang": "pl",
+        "name": "Kaczka pacyficzna"
+      },
+      {
+        "lang": "ru",
+        "name": "Серая кряква"
       },
       {
         "lang": "sv",
         "name": "Stillahavssvartand"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas strepera",
-    "common_names": [
-      {
-        "lang": "ar",
-        "name": "البط السماري"
-      },
-      {
-        "lang": "ast",
-        "name": "Coríu Buxu"
-      },
-      {
-        "lang": "az",
-        "name": "Boz ördək"
-      },
-      {
-        "lang": "be",
-        "name": "Качка-неразня"
-      },
-      {
-        "lang": "bg",
-        "name": "Сива патица"
-      },
-      {
-        "lang": "br",
-        "name": "Houad louet"
-      },
-      {
-        "lang": "ca",
-        "name": "Ànec griset"
-      },
-      {
-        "lang": "cjs",
-        "name": "Пор öртек"
-      },
-      {
-        "lang": "cs",
-        "name": "kopřivka obecná"
-      },
-      {
-        "lang": "cv",
-        "name": "Сăрă кăвакал"
-      },
-      {
-        "lang": "cw",
-        "name": "Hos tor wyn"
-      },
-      {
-        "lang": "cy",
-        "name": "Hwyaden Lwyd"
-      },
-      {
-        "lang": "da",
-        "name": "Knarand"
-      },
-      {
-        "lang": "de",
-        "name": "Schnatterente"
-      },
-      {
-        "lang": "egl",
-        "name": "Arbalon"
-      },
-      {
-        "lang": "el",
-        "name": "Κανναούρα"
-      },
-      {
-        "lang": "en",
-        "name": "Gadwall"
-      },
-      {
-        "lang": "eo",
-        "name": "Knaranaso"
-      },
-      {
-        "lang": "es",
-        "name": "Ánade friso"
-      },
-      {
-        "lang": "et",
-        "name": "Rääkspart"
-      },
-      {
-        "lang": "eu",
-        "name": "Ipar-ahatea"
-      },
-      {
-        "lang": "fa",
-        "name": "اردک قهوه ای"
-      },
-      {
-        "lang": "fi",
-        "name": "harmaasorsa"
-      },
-      {
-        "lang": "fo",
-        "name": "Sutlont"
-      },
-      {
-        "lang": "fr",
-        "name": "Canard chipeau"
-      },
-      {
-        "lang": "fy",
-        "name": "Eastein"
-      },
-      {
-        "lang": "ga",
-        "name": "Gadual"
-      },
-      {
-        "lang": "gd",
-        "name": "Lach glas"
-      },
-      {
-        "lang": "gl",
-        "name": "Pato cinsento"
-      },
-      {
-        "lang": "gv",
-        "name": "Laagh Ghlass"
-      },
-      {
-        "lang": "he",
-        "name": "ברווז אפור"
-      },
-      {
-        "lang": "hr",
-        "name": "Patka kreketaljka"
-      },
-      {
-        "lang": "hu",
-        "name": "Kendermagos réce"
-      },
-      {
-        "lang": "hy",
-        "name": "Մոխրագույն Բադ"
-      },
-      {
-        "lang": "is",
-        "name": "Gargönd"
-      },
-      {
-        "lang": "it",
-        "name": "Canapiglia"
-      },
-      {
-        "lang": "ja",
-        "name": "オカヨシガモ",
-        "synonyms": [
-          "okayoshigamo"
-        ]
-      },
-      {
-        "lang": "ka",
-        "name": "რუხი იხვი"
-      },
-      {
-        "lang": "kjn",
-        "name": "Пора öртек"
-      },
-      {
-        "lang": "kk",
-        "name": "Қоњыр үйрек"
-      },
-      {
-        "lang": "ko",
-        "name": "알락오리"
-      },
-      {
-        "lang": "lt",
-        "name": "Pilkoji antis"
-      },
-      {
-        "lang": "lv",
-        "name": "Pelēkā pīle"
-      },
-      {
-        "lang": "mk",
-        "name": "Брешка",
-        "synonyms": [
-          "Сива патка"
-        ]
-      },
-      {
-        "lang": "mn",
-        "name": "Бор нугас"
-      },
-      {
-        "lang": "ms",
-        "name": "Itik Gadwall"
-      },
-      {
-        "lang": "mt",
-        "name": "Kuluvert Griż"
-      },
-      {
-        "lang": "nl",
-        "name": "Krakeend"
-      },
-      {
-        "lang": "nn",
-        "name": "Snadderand"
-      },
-      {
-        "lang": "no",
-        "name": "Snadderand"
-      },
-      {
-        "lang": "pl",
-        "name": "Kaczka krakwa"
-      },
-      {
-        "lang": "pt",
-        "name": "Frisada"
-      },
-      {
-        "lang": "rm",
-        "name": "Anda baterlunza"
-      },
-      {
-        "lang": "ru",
-        "name": "Серая утка"
-      },
-      {
-        "lang": "sah",
-        "name": "Дьаҕыл уйус"
-      },
-      {
-        "lang": "se",
-        "name": "Ránessnárttal"
-      },
-      {
-        "lang": "sk",
-        "name": "Kačica chripľavá"
-      },
-      {
-        "lang": "sl",
-        "name": "konopnica"
-      },
-      {
-        "lang": "sq",
-        "name": "Rosa e përhimë"
-      },
-      {
-        "lang": "sr",
-        "name": "Чегртуша (Čegrtuša)"
-      },
-      {
-        "lang": "sv",
-        "name": "Snatterand"
-      },
-      {
-        "lang": "ta",
-        "name": "Karuval Vathu"
-      },
-      {
-        "lang": "th",
-        "name": "เป็ดเทาก้นดำ"
-      },
-      {
-        "lang": "tr",
-        "name": "Boz ördek"
-      },
-      {
-        "lang": "tyv",
-        "name": "баракчын",
-        "synonyms": [
-          "Бора өдурек",
-          "Боракшин"
-        ]
-      },
-      {
-        "lang": "uk",
-        "name": "Нерозень"
       },
       {
-        "lang": "vec",
-        "name": "Mezan"
+        "lang": "to",
+        "name": "Toloa"
       },
       {
         "lang": "vi",
-        "name": "Vịt cánh trắng"
+        "name": "Vịt đen Thái Bình Dương"
       },
       {
         "lang": "zh",
-        "name": "赤膀鸭"
+        "name": "太平洋黑鴨"
       }
     ]
   },
@@ -519,6 +303,10 @@
         "name": "Canard noir"
       },
       {
+        "lang": "hu",
+        "name": "Afrikai fekete réce"
+      },
+      {
         "lang": "it",
         "name": "Germano nero africano"
       },
@@ -531,102 +319,12 @@
         "name": "Elveand"
       },
       {
+        "lang": "fi",
+        "name": "Afrikannokisorsa"
+      },
+      {
         "lang": "sv",
         "name": "Afrikansk svartand"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas smithii",
-    "common_names": [
-      {
-        "lang": "af",
-        "name": "Kaapse slopeend"
-      },
-      {
-        "lang": "cs",
-        "name": "Lžičák kapský"
-      },
-      {
-        "lang": "en",
-        "name": "Cape Shoveler"
-      },
-      {
-        "lang": "fr",
-        "name": "Canard de Smith"
-      },
-      {
-        "lang": "ja",
-        "name": "ケープハシビロガモ"
-      },
-      {
-        "lang": "no",
-        "name": "Kappskjeand"
-      },
-      {
-        "lang": "sv",
-        "name": "Kapskedand"
-      },
-      {
-        "lang": "tr",
-        "name": "Kap kaşıkgagası"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas sibilatrix",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Hvízdák chilský"
-      },
-      {
-        "lang": "de",
-        "name": "Chilepfeifente"
-      },
-      {
-        "lang": "en",
-        "name": "Chiloé Wigeon"
-      },
-      {
-        "lang": "es",
-        "name": "Pato Overo"
-      },
-      {
-        "lang": "fr",
-        "name": "Canard de Chiloé"
-      },
-      {
-        "lang": "hu",
-        "name": "Chilei fütyülőréce"
-      },
-      {
-        "lang": "it",
-        "name": "Fischione del Cile"
-      },
-      {
-        "lang": "ja",
-        "name": "ワキアカヒドリ"
-      },
-      {
-        "lang": "nl",
-        "name": "Chileense smient"
-      },
-      {
-        "lang": "no",
-        "name": "Sørblesand"
-      },
-      {
-        "lang": "pl",
-        "name": "Świstun chilijski"
-      },
-      {
-        "lang": "pt",
-        "name": "Marreca-oveira"
-      },
-      {
-        "lang": "sv",
-        "name": "Chilensk bläsand"
       }
     ]
   },
@@ -634,8 +332,28 @@
     "scientific_name": "Anas rubripes",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بطة سوداء أمريكية"
+      },
+      {
+        "lang": "atj",
+        "name": "Makatecip"
+      },
+      {
+        "lang": "bg",
+        "name": "Черна патица"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec negrós"
+      },
+      {
         "lang": "cs",
-        "name": "kachna tmavá"
+        "name": "Kachna tmavá"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden ddu"
       },
       {
         "lang": "da",
@@ -650,16 +368,40 @@
         "name": "American Black Duck"
       },
       {
+        "lang": "eo",
+        "name": "Oranĝkrura anaso"
+      },
+      {
         "lang": "es",
-        "name": "Anade Sombrío"
+        "name": "Ánade sombrío"
+      },
+      {
+        "lang": "eu",
+        "name": "Ahate ilun"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغابی سیاه آمریکایی"
       },
       {
         "lang": "fi",
-        "name": "nokisorsa"
+        "name": "Nokisorsa"
+      },
+      {
+        "lang": "fo",
+        "name": "Dimmmorreyð ont"
       },
       {
         "lang": "fr",
         "name": "Canard noir"
+      },
+      {
+        "lang": "ga",
+        "name": "Lacha chosrua"
+      },
+      {
+        "lang": "gl",
+        "name": "Pato sombrío"
       },
       {
         "lang": "hu",
@@ -675,14 +417,15 @@
       },
       {
         "lang": "ja",
-        "name": "アメリカガモ",
-        "synonyms": [
-          "amerikagamo"
-        ]
+        "name": "アメリカガモ"
       },
       {
         "lang": "ko",
         "name": "미국오리"
+      },
+      {
+        "lang": "nds",
+        "name": "Amerikaansche Swatte Aante"
       },
       {
         "lang": "nl",
@@ -693,8 +436,12 @@
         "name": "Rødfotand"
       },
       {
+        "lang": "olo",
+        "name": "Nogisorzu"
+      },
+      {
         "lang": "pl",
-        "name": "brązówka"
+        "name": "Brązówka"
       },
       {
         "lang": "pt",
@@ -706,442 +453,19 @@
       },
       {
         "lang": "sk",
-        "name": "kačica černastá"
+        "name": "Kačica černastá"
       },
       {
         "lang": "sv",
         "name": "Svartand"
       },
       {
+        "lang": "uk",
+        "name": "Крижень американський"
+      },
+      {
         "lang": "zh",
         "name": "北美黑鸭"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas rhynchotis",
-    "common_names": [
-      {
-        "lang": "ca",
-        "name": "Ànec cullerot australià"
-      },
-      {
-        "lang": "cs",
-        "name": "Lžičák australský"
-      },
-      {
-        "lang": "de",
-        "name": "Australische Löffelente"
-      },
-      {
-        "lang": "en",
-        "name": "Australasian Shoveler"
-      },
-      {
-        "lang": "es",
-        "name": "Cuchara australiano"
-      },
-      {
-        "lang": "fr",
-        "name": "Canard bridé"
-      },
-      {
-        "lang": "hu",
-        "name": "Ausztráliai kanalasréce"
-      },
-      {
-        "lang": "it",
-        "name": "Mestolone australiano"
-      },
-      {
-        "lang": "ja",
-        "name": "ミカヅキハシビロガモ"
-      },
-      {
-        "lang": "mi",
-        "name": "Kuruwhengi"
-      },
-      {
-        "lang": "nl",
-        "name": "Australische slobeend"
-      },
-      {
-        "lang": "no",
-        "name": "Sigdskjeand"
-      },
-      {
-        "lang": "nn",
-        "name": "Sigdskeiand"
-      },
-      {
-        "lang": "ru",
-        "name": "Австралийская широконоска"
-      },
-      {
-        "lang": "tr",
-        "name": "Mavi kanatlı kaşıkgaga",
-        "synonyms": [
-          "Avustralya kaşıkgagası"
-        ]
-      },
-      {
-        "lang": "sv",
-        "name": "Australisk skedand"
-      },
-      {
-        "lang": "vi",
-        "name": "Vịt mỏ thìa Úc"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas querquedula",
-    "common_names": [
-      {
-        "lang": "af",
-        "name": "Somereend"
-      },
-      {
-        "lang": "ar",
-        "name": "شرشير صيفي"
-      },
-      {
-        "lang": "ast",
-        "name": "Coríu"
-      },
-      {
-        "lang": "az",
-        "name": "Cırıldayan cürə"
-      },
-      {
-        "lang": "be",
-        "name": "Качка-чырка"
-      },
-      {
-        "lang": "bg",
-        "name": "Лятно бърне"
-      },
-      {
-        "lang": "br",
-        "name": "Krag-hañv"
-      },
-      {
-        "lang": "ca",
-        "name": "Xarrasclet",
-        "synonyms": [
-          "Roncadell"
-        ]
-      },
-      {
-        "lang": "cs",
-        "name": "Čírka modrá"
-      },
-      {
-        "lang": "cv",
-        "name": "Шурă йĕрлĕ шăркалчă"
-      },
-      {
-        "lang": "cw",
-        "name": "Hos haf"
-      },
-      {
-        "lang": "cy",
-        "name": "Hwyaden addfain"
-      },
-      {
-        "lang": "da",
-        "name": "Atlingand"
-      },
-      {
-        "lang": "de",
-        "name": "Knäkente"
-      },
-      {
-        "lang": "dv",
-        "name": "Kunburu Reyru"
-      },
-      {
-        "lang": "egl",
-        "name": "Canaròl"
-      },
-      {
-        "lang": "el",
-        "name": "σαρσέλα"
-      },
-      {
-        "lang": "en",
-        "name": "Garganey"
-      },
-      {
-        "lang": "eo",
-        "name": "Marĉanaso"
-      },
-      {
-        "lang": "es",
-        "name": "Cerceta Carretona"
-      },
-      {
-        "lang": "et",
-        "name": "Rägapart"
-      },
-      {
-        "lang": "eu",
-        "name": "Udako zertzeta"
-      },
-      {
-        "lang": "fa",
-        "name": "خوتکای ابرو سفید"
-      },
-      {
-        "lang": "fi",
-        "name": "heinätavi"
-      },
-      {
-        "lang": "fo",
-        "name": "Krypilsont"
-      },
-      {
-        "lang": "fr",
-        "name": "Sarcelle d'été"
-      },
-      {
-        "lang": "frr",
-        "name": "Leguart"
-      },
-      {
-        "lang": "fy",
-        "name": "Skiertsjilling"
-      },
-      {
-        "lang": "ga",
-        "name": "Praslacha Shamhraidh"
-      },
-      {
-        "lang": "gd",
-        "name": "Lach crann"
-      },
-      {
-        "lang": "gl",
-        "name": "Cerceta albela"
-      },
-      {
-        "lang": "gv",
-        "name": "Thunnag houree"
-      },
-      {
-        "lang": "he",
-        "name": "קרקיר"
-      },
-      {
-        "lang": "hr",
-        "name": "Patka Pupcanica"
-      },
-      {
-        "lang": "hu",
-        "name": "Böjti réce"
-      },
-      {
-        "lang": "hy",
-        "name": "Մրտիմն ճքճքան"
-      },
-      {
-        "lang": "id",
-        "name": "Itik Jurai"
-      },
-      {
-        "lang": "is",
-        "name": "Taumönd"
-      },
-      {
-        "lang": "it",
-        "name": "Marzaiola"
-      },
-      {
-        "lang": "ja",
-        "name": "シマアジ"
-      },
-      {
-        "lang": "ka",
-        "name": "იხვინჯა"
-      },
-      {
-        "lang": "kjn",
-        "name": "Сиргейек"
-      },
-      {
-        "lang": "kk",
-        "name": "Даурықпа шүрегей"
-      },
-      {
-        "lang": "ko",
-        "name": "발구지"
-      },
-      {
-        "lang": "la",
-        "name": "Anas querquedula",
-        "synonyms": [
-          "Spatula querquedula"
-        ]
-      },
-      {
-        "lang": "lt",
-        "name": "Dryžagalvė kryklė"
-      },
-      {
-        "lang": "lv",
-        "name": "Prīkšķe"
-      },
-      {
-        "lang": "mk",
-        "name": "Крецка",
-        "synonyms": [
-          "Патка кркач",
-          "Патка–пупчаница"
-        ]
-      },
-      {
-        "lang": "ml",
-        "name": "വരി  എരണ്ട"
-      },
-      {
-        "lang": "mn",
-        "name": "Цагаан хөмсөгт нугас"
-      },
-      {
-        "lang": "ms",
-        "name": "Itik Garganey"
-      },
-      {
-        "lang": "mt",
-        "name": "Sarsella îamra"
-      },
-      {
-        "lang": "nl",
-        "name": "Zomertaling"
-      },
-      {
-        "lang": "nn",
-        "name": "Knekkand"
-      },
-      {
-        "lang": "no",
-        "name": "Knekkand"
-      },
-      {
-        "lang": "pl",
-        "name": "Cyranka"
-      },
-      {
-        "lang": "pt",
-        "name": "Marreco"
-      },
-      {
-        "lang": "rm",
-        "name": "Anda da mars"
-      },
-      {
-        "lang": "ru",
-        "name": "Чирок-трескунок"
-      },
-      {
-        "lang": "sah",
-        "name": "Чардырҕас чөркөй"
-      },
-      {
-        "lang": "se",
-        "name": "Suoidnečiksa"
-      },
-      {
-        "lang": "sk",
-        "name": "Kačica chrapačka"
-      },
-      {
-        "lang": "sl",
-        "name": "Regeljc"
-      },
-      {
-        "lang": "sq",
-        "name": "Marsatorja"
-      },
-      {
-        "lang": "sr",
-        "name": "Гроготовац (Grogotovac)"
-      },
-      {
-        "lang": "sv",
-        "name": "Årta"
-      },
-      {
-        "lang": "sw",
-        "name": "Bata Mchirizi-mweupe"
-      },
-      {
-        "lang": "ta",
-        "name": "Neela Chiragi"
-      },
-      {
-        "lang": "th",
-        "name": "เป็ดลาย"
-      },
-      {
-        "lang": "tr",
-        "name": "Çıkrıkçın"
-      },
-      {
-        "lang": "tyv",
-        "name": "Сиргей",
-        "synonyms": [
-          "Чергий-өдурек"
-        ]
-      },
-      {
-        "lang": "uk",
-        "name": "Велика чирянка"
-      },
-      {
-        "lang": "vec",
-        "name": "Rocheto"
-      },
-      {
-        "lang": "vi",
-        "name": "Mòng két mày trắng"
-      },
-      {
-        "lang": "zh-min-nan",
-        "name": "Pe̍h-ba̍k-bâi-á"
-      },
-      {
-        "lang": "zh",
-        "name": "白眉鸭"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas puna",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Puna Teal"
-      },
-      {
-        "lang": "es",
-        "name": "Pato puna"
-      },
-      {
-        "lang": "fr",
-        "name": "Sarcelle du puna"
-      },
-      {
-        "lang": "ja",
-        "name": "プナシマアジ"
-      },
-      {
-        "lang": "no",
-        "name": "Punaand"
-      },
-      {
-        "lang": "sv",
-        "name": "Punaand"
       }
     ]
   },
@@ -1191,6 +515,10 @@
       {
         "lang": "zh",
         "name": "斑嘴鸭"
+      },
+      {
+        "lang": "ta",
+        "name": "புள்ளி மூக்கு தாரா"
       }
     ]
   },
@@ -1207,20 +535,23 @@
       },
       {
         "lang": "als",
-        "name": "Wildänte"
+        "name": "Stockente"
       },
       {
         "lang": "an",
         "name": "Anade reyal"
       },
       {
+        "lang": "am",
+        "name": "አውሬ ዳክዬ"
+      },
+      {
         "lang": "ar",
-        "name": "بط بري",
-        "synonyms": [
-          "البُركة",
-          "البُركة بو الخصيف",
-          "الخضيري"
-        ]
+        "name": "بط بري"
+      },
+      {
+        "lang": "as",
+        "name": "আমৰ’লীয়া হাঁহ"
       },
       {
         "lang": "ast",
@@ -1229,6 +560,10 @@
       {
         "lang": "az",
         "name": "Yaşılbaş ördək"
+      },
+      {
+        "lang": "azb",
+        "name": "یاشیل‌باش اؤردک"
       },
       {
         "lang": "ba",
@@ -1247,8 +582,16 @@
         "name": "Крыжанка"
       },
       {
+        "lang": "be-x-old",
+        "name": "Крыжанка"
+      },
+      {
         "lang": "bg",
         "name": "Зеленоглава патица"
+      },
+      {
+        "lang": "bn",
+        "name": "নীলশির"
       },
       {
         "lang": "br",
@@ -1260,11 +603,19 @@
       },
       {
         "lang": "ce",
-        "name": "Aqa bad"
+        "name": "Акха бад"
+      },
+      {
+        "lang": "ceb",
+        "name": "Pato"
       },
       {
         "lang": "cs",
         "name": "Kachna divoká"
+      },
+      {
+        "lang": "csb",
+        "name": "Strzënówka"
       },
       {
         "lang": "cv",
@@ -1300,7 +651,7 @@
       },
       {
         "lang": "es",
-        "name": "Ánade Azulón"
+        "name": "Ánade real"
       },
       {
         "lang": "et",
@@ -1312,14 +663,15 @@
       },
       {
         "lang": "fa",
-        "name": "کله‌سبز",
-        "synonyms": [
-          "اردك وحشی"
-        ]
+        "name": "اردک سرسبز"
       },
       {
         "lang": "fi",
         "name": "Sinisorsa"
+      },
+      {
+        "lang": "fj",
+        "name": "Mallard"
       },
       {
         "lang": "fo",
@@ -1358,11 +710,12 @@
         "name": "Laagh Voirrey"
       },
       {
+        "lang": "ha",
+        "name": "Kwakkwa"
+      },
+      {
         "lang": "he",
-        "name": "ברכיה",
-        "synonyms": [
-          "ברכייה"
-        ]
+        "name": "ברכייה"
       },
       {
         "lang": "hr",
@@ -1382,7 +735,19 @@
       },
       {
         "lang": "hy",
-        "name": "Կռնչան Բադ"
+        "name": "Կռնչան բադ"
+      },
+      {
+        "lang": "id",
+        "name": "Itik melewar"
+      },
+      {
+        "lang": "ik",
+        "name": "Ukhiukhiuq"
+      },
+      {
+        "lang": "inh",
+        "name": "Акхабоабашк"
       },
       {
         "lang": "is",
@@ -1403,6 +768,10 @@
       {
         "lang": "ka",
         "name": "გარეული იხვი"
+      },
+      {
+        "lang": "kab",
+        "name": "Ajerlaw"
       },
       {
         "lang": "kbd",
@@ -1441,6 +810,10 @@
         "name": "Hos gwyls"
       },
       {
+        "lang": "ky",
+        "name": "Кайырма"
+      },
+      {
         "lang": "la",
         "name": "Anas"
       },
@@ -1453,8 +826,16 @@
         "name": "Wil eend"
       },
       {
+        "lang": "lij",
+        "name": "German reâ"
+      },
+      {
         "lang": "lld",
         "name": "Anera salvaria"
+      },
+      {
+        "lang": "ln",
+        "name": "Libata na motó mpúndu"
       },
       {
         "lang": "lt",
@@ -1502,11 +883,15 @@
       },
       {
         "lang": "nds",
-        "name": "Wildänte"
+        "name": "Graue Aant"
       },
       {
         "lang": "nds-nl",
         "name": "Wilde ente"
+      },
+      {
+        "lang": "ne",
+        "name": "हरियो टाउके"
       },
       {
         "lang": "nl",
@@ -1530,14 +915,19 @@
       },
       {
         "lang": "oc",
-        "name": "Guit",
-        "synonyms": [
-          "Rit"
-        ]
+        "name": "Guit"
+      },
+      {
+        "lang": "olo",
+        "name": "Heinysorzu"
+      },
+      {
+        "lang": "os",
+        "name": "Ацц"
       },
       {
         "lang": "pcd",
-        "name": "Anéte"
+        "name": "Canèrd colvert"
       },
       {
         "lang": "pdc",
@@ -1596,15 +986,16 @@
         "name": "Muir deuk"
       },
       {
+        "lang": "sd",
+        "name": "نيرڳ"
+      },
+      {
         "lang": "se",
         "name": "Duoršu"
       },
       {
         "lang": "sh",
-        "name": "Divlja patka",
-        "synonyms": [
-          "Дивља патка"
-        ]
+        "name": "Divlja patka - Дивља патка"
       },
       {
         "lang": "sk",
@@ -1620,7 +1011,7 @@
       },
       {
         "lang": "sr",
-        "name": "Divlja patka"
+        "name": "Патка глувара"
       },
       {
         "lang": "stq",
@@ -1635,8 +1026,12 @@
         "name": "Bata wa Ulaya"
       },
       {
+        "lang": "ta",
+        "name": "காட்டு வாத்து"
+      },
+      {
         "lang": "th",
-        "name": "เป็ดหัวเขียว"
+        "name": "เป็ดแมลลาร์ด"
       },
       {
         "lang": "tk",
@@ -1651,6 +1046,10 @@
         "name": "Yeşilbaş"
       },
       {
+        "lang": "tt",
+        "name": "Кыр үрдәге"
+      },
+      {
         "lang": "tyv",
         "name": "бос"
       },
@@ -1661,6 +1060,10 @@
       {
         "lang": "uk",
         "name": "Крижень"
+      },
+      {
+        "lang": "uz",
+        "name": "Yovvoyi oʻrdak"
       },
       {
         "lang": "vec",
@@ -1675,6 +1078,10 @@
         "name": "Eende"
       },
       {
+        "lang": "wuu",
+        "name": "绿头鸭"
+      },
+      {
         "lang": "zea",
         "name": "Wilden eend"
       },
@@ -1685,324 +1092,10 @@
       {
         "lang": "zh-min-nan",
         "name": "Kim-thâu-á"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas platalea",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lžičák tečkovaný"
-      },
-      {
-        "lang": "en",
-        "name": "Red Shoveler"
-      },
-      {
-        "lang": "es",
-        "name": "Pato pico cuchara sudamericano"
-      },
-      {
-        "lang": "fr",
-        "name": "Canard spatule"
-      },
-      {
-        "lang": "ja",
-        "name": "アカハシビロガモ"
-      },
-      {
-        "lang": "no",
-        "name": "Prikkskjeand"
-      },
-      {
-        "lang": "tr",
-        "name": "Kızıl kaşıkgaga"
-      },
-      {
-        "lang": "sv",
-        "name": "Sydamerikansk skedand"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas penelope",
-    "common_names": [
-      {
-        "lang": "ab",
-        "name": "Атрышәас"
-      },
-      {
-        "lang": "ar",
-        "name": "صواي"
-      },
-      {
-        "lang": "az",
-        "name": "Fitçi-marek"
-      },
-      {
-        "lang": "ba",
-        "name": "Ҡашҡалаҡ"
-      },
-      {
-        "lang": "be",
-        "name": "Свіязь"
-      },
-      {
-        "lang": "be-x-old",
-        "name": "Сьвістун"
-      },
-      {
-        "lang": "bg",
-        "name": "Фиш"
-      },
-      {
-        "lang": "bn",
-        "name": "ইউরেশীয় সিঁথিহাঁস"
-      },
-      {
-        "lang": "br",
-        "name": "Houad penn ruz"
-      },
-      {
-        "lang": "ca",
-        "name": "Ànec xiulador"
-      },
-      {
-        "lang": "cs",
-        "name": "Hvízdák eurasijský"
-      },
-      {
-        "lang": "cy",
-        "name": "Chwiwell"
-      },
-      {
-        "lang": "da",
-        "name": "Pibeand"
-      },
-      {
-        "lang": "de",
-        "name": "Pfeifente"
-      },
-      {
-        "lang": "el",
-        "name": "Σφυριχτάρι"
-      },
-      {
-        "lang": "en",
-        "name": "Eurasian Wigeon"
-      },
-      {
-        "lang": "eo",
-        "name": "Fajfanaso"
-      },
-      {
-        "lang": "es",
-        "name": "Silbón europeo"
-      },
-      {
-        "lang": "et",
-        "name": "Viupart"
-      },
-      {
-        "lang": "eu",
-        "name": "Ahate txistulari"
-      },
-      {
-        "lang": "fa",
-        "name": "گیلار"
-      },
-      {
-        "lang": "fi",
-        "name": "Haapana"
-      },
-      {
-        "lang": "fo",
-        "name": "Ennigul ont"
-      },
-      {
-        "lang": "fr",
-        "name": "Canard siffleur"
-      },
-      {
-        "lang": "frr",
-        "name": "Smen"
-      },
-      {
-        "lang": "fy",
-        "name": "Smjunt"
-      },
-      {
-        "lang": "gl",
-        "name": "Asubiador"
-      },
-      {
-        "lang": "he",
-        "name": "ברווז צהוב-מצח"
-      },
-      {
-        "lang": "hr",
-        "name": "Patka zviždara"
-      },
-      {
-        "lang": "hu",
-        "name": "Fütyülő réce"
-      },
-      {
-        "lang": "hy",
-        "name": "Պենելոպա"
-      },
-      {
-        "lang": "id",
-        "name": "Itik bungalan"
-      },
-      {
-        "lang": "is",
-        "name": "Rauðhöfðaönd"
-      },
-      {
-        "lang": "it",
-        "name": "Fischione europeo"
-      },
-      {
-        "lang": "ja",
-        "name": "ヒドリガモ"
-      },
-      {
-        "lang": "kk",
-        "name": "Сарыайдар үйрек"
-      },
-      {
-        "lang": "ko",
-        "name": "홍머리오리"
-      },
-      {
-        "lang": "kv",
-        "name": "Вӧзь"
-      },
-      {
-        "lang": "lt",
-        "name": "Cyplė"
-      },
-      {
-        "lang": "lv",
-        "name": "Baltvēderis"
-      },
-      {
-        "lang": "mk",
-        "name": "Патка свиркач"
-      },
-      {
-        "lang": "ml",
-        "name": "ചന്ദനക്കുറി എരണ്ട"
-      },
-      {
-        "lang": "mn",
-        "name": "Зээрд нугас"
-      },
-      {
-        "lang": "ms",
-        "name": "Itik Wigeon"
-      },
-      {
-        "lang": "my",
-        "name": "ဘဲအ"
-      },
-      {
-        "lang": "nds",
-        "name": "Smunt"
-      },
-      {
-        "lang": "ne",
-        "name": "सिन्दुरे हाँस"
-      },
-      {
-        "lang": "nl",
-        "name": "Smient"
-      },
-      {
-        "lang": "nn",
-        "name": "Brunnakke"
-      },
-      {
-        "lang": "no",
-        "name": "Brunnakke"
-      },
-      {
-        "lang": "pcd",
-        "name": "Win·nhe"
-      },
-      {
-        "lang": "pl",
-        "name": "Świstun zwyczajny"
-      },
-      {
-        "lang": "pnb",
-        "name": "یوریشاء وجن"
-      },
-      {
-        "lang": "pt",
-        "name": "Piadeira"
-      },
-      {
-        "lang": "ro",
-        "name": "Rață fluierătoare"
-      },
-      {
-        "lang": "ru",
-        "name": "Свиязь"
-      },
-      {
-        "lang": "rue",
-        "name": "Утка"
-      },
-      {
-        "lang": "sah",
-        "name": "Тыйаах"
-      },
-      {
-        "lang": "sco",
-        "name": "Whistlin deuk"
-      },
-      {
-        "lang": "se",
-        "name": "Snárttal"
-      },
-      {
-        "lang": "sh",
-        "name": "Patka zviždara"
-      },
-      {
-        "lang": "sk",
-        "name": "Kačica hvizdárka"
-      },
-      {
-        "lang": "sr",
-        "name": "Звиждара (Zviždara)"
-      },
-      {
-        "lang": "sv",
-        "name": "Bläsand"
-      },
-      {
-        "lang": "tr",
-        "name": "Fiyu"
-      },
-      {
-        "lang": "uk",
-        "name": "Свищ"
-      },
-      {
-        "lang": "vec",
-        "name": "Fio"
-      },
-      {
-        "lang": "vi",
-        "name": "Vịt đầu vàng"
       },
       {
-        "lang": "zh",
-        "name": "赤颈鸭"
+        "lang": "zh-yue",
+        "name": "野水鴨"
       }
     ]
   },
@@ -2012,6 +1105,74 @@
       {
         "lang": "en",
         "name": "Campbell Island Teal"
+      },
+      {
+        "lang": "bg",
+        "name": "Камбелова патица"
+      },
+      {
+        "lang": "ca",
+        "name": "Xarxet de l'illa de Campbell"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhwyaden Ynys Campbell"
+      },
+      {
+        "lang": "de",
+        "name": "Campbellente"
+      },
+      {
+        "lang": "eo",
+        "name": "Kampbela kreko"
+      },
+      {
+        "lang": "fa",
+        "name": "خوتکای کمپ‌بل"
+      },
+      {
+        "lang": "fi",
+        "name": "Dentintavi"
+      },
+      {
+        "lang": "fr",
+        "name": "Sarcelle de Campbell"
+      },
+      {
+        "lang": "hu",
+        "name": "Campbell-réce"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кэмпбелл аргек"
+      },
+      {
+        "lang": "nds",
+        "name": "Campbellaante"
+      },
+      {
+        "lang": "nl",
+        "name": "Campbelltaling"
+      },
+      {
+        "lang": "nn",
+        "name": "Campbelland"
+      },
+      {
+        "lang": "pl",
+        "name": "Cyraneczka południowa"
+      },
+      {
+        "lang": "ru",
+        "name": "Кэмпбельский чирок"
+      },
+      {
+        "lang": "sv",
+        "name": "campbellkricka"
+      },
+      {
+        "lang": "vi",
+        "name": "Mòng két đảo Campbell"
       }
     ]
   },
@@ -2043,8 +1204,68 @@
         "name": "Madagaskarand"
       },
       {
+        "lang": "bg",
+        "name": "Мелерова патица"
+      },
+      {
+        "lang": "br",
+        "name": "Houad Meller"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec de Meller"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden Meller"
+      },
+      {
+        "lang": "da",
+        "name": "Madagaskarand"
+      },
+      {
+        "lang": "de",
+        "name": "Madagaskarente"
+      },
+      {
+        "lang": "eo",
+        "name": "Melera anaso"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغابی ملر"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinsorsa"
+      },
+      {
+        "lang": "ga",
+        "name": "Lacha Meller"
+      },
+      {
+        "lang": "hu",
+        "name": "Madagaszkári réce"
+      },
+      {
+        "lang": "nds",
+        "name": "Meller siene Aante"
+      },
+      {
+        "lang": "nl",
+        "name": "Mellers eend"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарская кряква"
+      },
+      {
         "lang": "sv",
-        "name": "Mellers and"
+        "name": "mellerand"
+      },
+      {
+        "lang": "zh",
+        "name": "麻斑鸭"
       }
     ]
   },
@@ -2106,10 +1327,7 @@
       },
       {
         "lang": "en",
-        "name": "Laysan Duck",
-        "synonyms": [
-          "Laysan Teal"
-        ]
+        "name": "Laysan Duck"
       },
       {
         "lang": "es",
@@ -2124,73 +1342,20 @@
         "name": "レイサンマガモ"
       },
       {
-        "lang": "no",
-        "name": "Laysanand"
-      },
-      {
-        "lang": "sv",
-        "name": "Laysanand"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas hottentota",
-    "common_names": [
-      {
-        "lang": "af",
-        "name": "Gevlekte eend"
-      },
-      {
-        "lang": "cs",
-        "name": "Čírka hottentotská"
-      },
-      {
-        "lang": "da",
-        "name": "Hottentotand"
-      },
-      {
-        "lang": "de",
-        "name": "Hottentottenente"
-      },
-      {
-        "lang": "en",
-        "name": "Hottentot Teal"
-      },
-      {
-        "lang": "es",
-        "name": "Cerceta hotentote"
-      },
-      {
-        "lang": "fr",
-        "name": "Sarcelle hottentote"
-      },
-      {
-        "lang": "it",
-        "name": "Alzavola ottentotta"
-      },
-      {
-        "lang": "ja",
-        "name": "アフリカコガモ"
-      },
-      {
-        "lang": "ka",
-        "name": "ლაქებიანი იხვინჯა"
-      },
-      {
         "lang": "nl",
-        "name": "Hottentottaling"
+        "name": "Laysaneend"
+      },
+      {
+        "lang": "pl",
+        "name": "Krzyżówka białooka"
       },
       {
         "lang": "no",
-        "name": "Hottentottand"
-      },
-      {
-        "lang": "ru",
-        "name": "Пятнистый чирок"
+        "name": "Laysanand"
       },
       {
         "lang": "sv",
-        "name": "Hottentotkricka"
+        "name": "laysanand"
       }
     ]
   },
@@ -2303,6 +1468,10 @@
         "name": "キバシオナガガモ"
       },
       {
+        "lang": "nl",
+        "name": "Zuid-Amerikaanse pijlstaart"
+      },
+      {
         "lang": "no",
         "name": "Spisshaleand"
       },
@@ -2343,11 +1512,11 @@
       },
       {
         "lang": "et",
-        "name": "rand-sinikaelpart"
+        "name": "Rand-sinikaelpart"
       },
       {
         "lang": "fi",
-        "name": "suolakkosorsa"
+        "name": "Suolakkosorsa"
       },
       {
         "lang": "fr",
@@ -2355,7 +1524,7 @@
       },
       {
         "lang": "hu",
-        "name": "floridai réce"
+        "name": "Floridai réce"
       },
       {
         "lang": "it",
@@ -2378,7 +1547,7 @@
       },
       {
         "lang": "pl",
-        "name": "krzyzówka florydzka"
+        "name": "Krzyzówka florydzka"
       },
       {
         "lang": "pt",
@@ -2390,7 +1559,7 @@
       },
       {
         "lang": "sk",
-        "name": "kačica pobrežná"
+        "name": "Kačica pobrežná"
       },
       {
         "lang": "sv",
@@ -2399,90 +1568,6 @@
       {
         "lang": "zh",
         "name": "北美斑鸭"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas formosa",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Čírka sibiřská"
-      },
-      {
-        "lang": "da",
-        "name": "Sibirisk krikand"
-      },
-      {
-        "lang": "de",
-        "name": "Baikalente"
-      },
-      {
-        "lang": "en",
-        "name": "Baikal Teal"
-      },
-      {
-        "lang": "eo",
-        "name": "Bajkala kreko"
-      },
-      {
-        "lang": "es",
-        "name": "Cerceta del Baikal"
-      },
-      {
-        "lang": "fr",
-        "name": "Sarcelle élégante"
-      },
-      {
-        "lang": "hu",
-        "name": "Cifra réce"
-      },
-      {
-        "lang": "hr",
-        "name": "Šarenoglava patka"
-      },
-      {
-        "lang": "it",
-        "name": "Alzavola asiatica"
-      },
-      {
-        "lang": "ja",
-        "name": "トモエガモ"
-      },
-      {
-        "lang": "ko",
-        "name": "가창오리"
-      },
-      {
-        "lang": "lt",
-        "name": "Baikalinė kryklė"
-      },
-      {
-        "lang": "nl",
-        "name": "Siberische taling"
-      },
-      {
-        "lang": "no",
-        "name": "Gulkinnand"
-      },
-      {
-        "lang": "pl",
-        "name": "Cyraneczka bajkalska"
-      },
-      {
-        "lang": "ru",
-        "name": "Клоктун",
-        "synonyms": [
-          "Чирок-клоктун"
-        ]
-      },
-      {
-        "lang": "sv",
-        "name": "Gulkindad kricka"
-      },
-      {
-        "lang": "zh",
-        "name": "花脸鸭"
       }
     ]
   },
@@ -2510,93 +1595,16 @@
         "name": "キバシコガモ"
       },
       {
+        "lang": "nl",
+        "name": "Chileense Taling"
+      },
+      {
         "lang": "no",
         "name": "Gulnebbkrikkand"
       },
       {
         "lang": "sv",
         "name": "Gulnäbbad kricka"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas falcata",
-    "common_names": [
-      {
-        "lang": "bg",
-        "name": "Сърпокрила патица"
-      },
-      {
-        "lang": "cs",
-        "name": "Čírka srpoperá"
-      },
-      {
-        "lang": "da",
-        "name": "Segland"
-      },
-      {
-        "lang": "de",
-        "name": "Sichelente"
-      },
-      {
-        "lang": "en",
-        "name": "Falcated Duck"
-      },
-      {
-        "lang": "es",
-        "name": "Cerceta de alfanjes"
-      },
-      {
-        "lang": "fr",
-        "name": "Canard à faucilles"
-      },
-      {
-        "lang": "fy",
-        "name": "Grienkopein"
-      },
-      {
-        "lang": "gl",
-        "name": "Pato falcado"
-      },
-      {
-        "lang": "hu",
-        "name": "Sarlós réce"
-      },
-      {
-        "lang": "ja",
-        "name": "ヨシガモ"
-      },
-      {
-        "lang": "ko",
-        "name": "청머리오리"
-      },
-      {
-        "lang": "nl",
-        "name": "Bronskopeend"
-      },
-      {
-        "lang": "no",
-        "name": "Sibirand"
-      },
-      {
-        "lang": "pt",
-        "name": "Pato-falcado"
-      },
-      {
-        "lang": "sah",
-        "name": "Уйус"
-      },
-      {
-        "lang": "sv",
-        "name": "Praktand"
-      },
-      {
-        "lang": "tr",
-        "name": "Büyük çamurcun"
-      },
-      {
-        "lang": "zh",
-        "name": "罗纹鸭"
       }
     ]
   },
@@ -2630,6 +1638,10 @@
       {
         "lang": "en",
         "name": "Red-billed Teal"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝbeka anaso"
       },
       {
         "lang": "es",
@@ -2711,112 +1723,6 @@
     ]
   },
   {
-    "scientific_name": "Anas discors",
-    "common_names": [
-      {
-        "lang": "br",
-        "name": "Krag eskell glas"
-      },
-      {
-        "lang": "cs",
-        "name": "čírka modrokřídlá"
-      },
-      {
-        "lang": "da",
-        "name": "Blåvinget And"
-      },
-      {
-        "lang": "de",
-        "name": "Blauflügelente"
-      },
-      {
-        "lang": "en",
-        "name": "Blue-winged Teal"
-      },
-      {
-        "lang": "es",
-        "name": "Pato media luna",
-        "synonyms": [
-          "Cerceta aliazul",
-          "Barraquete aliazul"
-        ]
-      },
-      {
-        "lang": "fi",
-        "name": "sinisiipitavi"
-      },
-      {
-        "lang": "fr",
-        "name": "sarcelle à ailes bleues",
-        "synonyms": [
-          "sarcelle soucrourou"
-        ]
-      },
-      {
-        "lang": "gl",
-        "name": "Cerceta aliazul"
-      },
-      {
-        "lang": "hu",
-        "name": "Kékszárnyú réce"
-      },
-      {
-        "lang": "is",
-        "name": "Bláönd"
-      },
-      {
-        "lang": "it",
-        "name": "Anatra aliazzurre americana"
-      },
-      {
-        "lang": "ja",
-        "name": "ミカヅキシマアジ",
-        "synonyms": [
-          "mikadukishimaaji"
-        ]
-      },
-      {
-        "lang": "nl",
-        "name": "Blauwvleugeltaling"
-      },
-      {
-        "lang": "no",
-        "name": "Blåvingeand"
-      },
-      {
-        "lang": "pl",
-        "name": "cyranka modroskrzydła"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Marreca-de-asa-azul"
-      },
-      {
-        "lang": "pt",
-        "name": "Pato-d'asa-azul"
-      },
-      {
-        "lang": "ru",
-        "name": "Голубокрылый чирок",
-        "synonyms": [
-          "Синекрылый чирок"
-        ]
-      },
-      {
-        "lang": "sk",
-        "name": "kačica modrokrídla"
-      },
-      {
-        "lang": "sv",
-        "name": "Blåvingad årta"
-      },
-      {
-        "lang": "zh",
-        "name": "蓝翅鸭"
-      }
-    ]
-  },
-  {
     "scientific_name": "Anas diazi",
     "common_names": [
       {
@@ -2830,100 +1736,6 @@
       {
         "lang": "sv",
         "name": "Mexikansk and"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas cyanoptera",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Čírka skořicová"
-      },
-      {
-        "lang": "da",
-        "name": "Kaneland"
-      },
-      {
-        "lang": "de",
-        "name": "Zimtente"
-      },
-      {
-        "lang": "en",
-        "name": "Cinnamon Teal"
-      },
-      {
-        "lang": "es",
-        "name": "Cerceta Colorada"
-      },
-      {
-        "lang": "fi",
-        "name": "punatavi"
-      },
-      {
-        "lang": "fr",
-        "name": "Sarcelle cannelle"
-      },
-      {
-        "lang": "hu",
-        "name": "Fahéjszínű réce"
-      },
-      {
-        "lang": "it",
-        "name": "Anatra color cannella"
-      },
-      {
-        "lang": "ja",
-        "name": "アカシマアジ",
-        "synonyms": [
-          "akashimaaji"
-        ]
-      },
-      {
-        "lang": "nl",
-        "name": "Kaneelkleurige taling",
-        "synonyms": [
-          "Kaneeltaling"
-        ]
-      },
-      {
-        "lang": "no",
-        "name": "Kaneland"
-      },
-      {
-        "lang": "pl",
-        "name": "Cynamonka"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Marreca-colorada"
-      },
-      {
-        "lang": "pt",
-        "name": "Marreca-carijó",
-        "synonyms": [
-          "Pato-canela"
-        ]
-      },
-      {
-        "lang": "qu",
-        "name": "Puka pili"
-      },
-      {
-        "lang": "ru",
-        "name": "Коричневый чирок"
-      },
-      {
-        "lang": "sk",
-        "name": "kačica škoricová"
-      },
-      {
-        "lang": "sv",
-        "name": "Kanelårta"
-      },
-      {
-        "lang": "zh",
-        "name": "桂红鸭"
       }
     ]
   },
@@ -2964,7 +1776,7 @@
       },
       {
         "lang": "cs",
-        "name": "čírka obecná"
+        "name": "Čírka obecná"
       },
       {
         "lang": "cw",
@@ -2992,15 +1804,11 @@
       },
       {
         "lang": "en",
-        "name": "Common teal",
-        "synonyms": [
-          "Eurasian teal",
-          "Teal"
-        ]
+        "name": "Eurasian Teal"
       },
       {
         "lang": "eo",
-        "name": "Kreko"
+        "name": "Verdflugila kreko"
       },
       {
         "lang": "es",
@@ -3020,7 +1828,7 @@
       },
       {
         "lang": "fi",
-        "name": "tavi"
+        "name": "Tavi"
       },
       {
         "lang": "fo",
@@ -3096,7 +1904,7 @@
       },
       {
         "lang": "ka",
-        "name": "სტვენია-იხვინჯა"
+        "name": "ჭიკვარა"
       },
       {
         "lang": "krl",
@@ -3124,10 +1932,7 @@
       },
       {
         "lang": "mk",
-        "name": "Крѓа",
-        "synonyms": [
-          "Патка берија"
-        ]
+        "name": "Крѓа"
       },
       {
         "lang": "mn",
@@ -3151,7 +1956,7 @@
       },
       {
         "lang": "pl",
-        "name": "cyraneczka"
+        "name": "Cyraneczka"
       },
       {
         "lang": "pt",
@@ -3187,10 +1992,7 @@
       },
       {
         "lang": "sr",
-        "name": "Krkavac",
-        "synonyms": [
-          "Кркавац"
-        ]
+        "name": "Krkavac - Кркавац"
       },
       {
         "lang": "sv",
@@ -3210,10 +2012,7 @@
       },
       {
         "lang": "tr",
-        "name": "Çamurcun",
-        "synonyms": [
-          "Çakırkanat"
-        ]
+        "name": "Çamurcun"
       },
       {
         "lang": "tyv",
@@ -3238,401 +2037,6 @@
       {
         "lang": "zh",
         "name": "绿翅鸭"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Anas clypeata",
-    "common_names": [
-      {
-        "lang": "af",
-        "name": "Europese slopeend"
-      },
-      {
-        "lang": "ar",
-        "name": "أبو مجروف",
-        "synonyms": [
-          "أبو مجروف بط",
-          "الكيش"
-        ]
-      },
-      {
-        "lang": "ast",
-        "name": "Coríu Cuyar"
-      },
-      {
-        "lang": "az",
-        "name": "Enlidimdik ördək"
-      },
-      {
-        "lang": "ba",
-        "name": "Ҡашыҡморон"
-      },
-      {
-        "lang": "be",
-        "name": "Качка-лапаноска"
-      },
-      {
-        "lang": "bg",
-        "name": "Клопач"
-      },
-      {
-        "lang": "bn",
-        "name": "উত্তুরে খুন্তেহাঁস"
-      },
-      {
-        "lang": "br",
-        "name": "Houad beg-golvazh"
-      },
-      {
-        "lang": "ca",
-        "name": "Ànec cullerot"
-      },
-      {
-        "lang": "cs",
-        "name": "Lžičák pestrý"
-      },
-      {
-        "lang": "cv",
-        "name": "Кĕреçе сăмса"
-      },
-      {
-        "lang": "cw",
-        "name": "Gelvyn ledan"
-      },
-      {
-        "lang": "cy",
-        "name": "Hwyaden lydanbig"
-      },
-      {
-        "lang": "da",
-        "name": "Skeand"
-      },
-      {
-        "lang": "de",
-        "name": "Löffelente"
-      },
-      {
-        "lang": "el",
-        "name": "Χουλιαρόπαπια"
-      },
-      {
-        "lang": "en",
-        "name": "Northern Shoveler"
-      },
-      {
-        "lang": "eo",
-        "name": "Kuleranaso"
-      },
-      {
-        "lang": "es",
-        "name": "Cuchara Común"
-      },
-      {
-        "lang": "et",
-        "name": "Luitsnokk-part"
-      },
-      {
-        "lang": "eu",
-        "name": "Ahate mokozabal"
-      },
-      {
-        "lang": "fi",
-        "name": "lapasorsa"
-      },
-      {
-        "lang": "fo",
-        "name": "Spónont"
-      },
-      {
-        "lang": "fr",
-        "name": "Canard souchet"
-      },
-      {
-        "lang": "frr",
-        "name": "Slob"
-      },
-      {
-        "lang": "fy",
-        "name": "Slob"
-      },
-      {
-        "lang": "ga",
-        "name": "Spadalach tuaisceartach"
-      },
-      {
-        "lang": "gd",
-        "name": "Lach a'ghuib leathainn"
-      },
-      {
-        "lang": "gl",
-        "name": "Cullerete"
-      },
-      {
-        "lang": "gv",
-        "name": "Thunnag y cleayst"
-      },
-      {
-        "lang": "haw",
-        "name": "Koloa mohā"
-      },
-      {
-        "lang": "he",
-        "name": "מרית צפונית",
-        "synonyms": [
-          "ברוז רחב־מקור",
-          "מרית"
-        ]
-      },
-      {
-        "lang": "hr",
-        "name": "Patka žličarka"
-      },
-      {
-        "lang": "ht",
-        "name": "Jeneral"
-      },
-      {
-        "lang": "hu",
-        "name": "Kanalas réce"
-      },
-      {
-        "lang": "hy",
-        "name": "Լայնակտուց Բադ"
-      },
-      {
-        "lang": "is",
-        "name": "Skeiðönd"
-      },
-      {
-        "lang": "it",
-        "name": "Mestolone"
-      },
-      {
-        "lang": "ja",
-        "name": "ハシビロガモ"
-      },
-      {
-        "lang": "ka",
-        "name": "განიერისკარტა იხვი"
-      },
-      {
-        "lang": "kjh",
-        "name": "Coxcax"
-      },
-      {
-        "lang": "kjn",
-        "name": "Coxcax"
-      },
-      {
-        "lang": "kk",
-        "name": "Жалпақтұмсық үйрек"
-      },
-      {
-        "lang": "kn",
-        "name": "ನಾರ್ದನ್ ಶೆಲ್ವರ್"
-      },
-      {
-        "lang": "ko",
-        "name": "넓적부리"
-      },
-      {
-        "lang": "ku",
-        "name": "Kepîpan"
-      },
-      {
-        "lang": "kw",
-        "name": "Gelvyn ledan"
-      },
-      {
-        "lang": "la",
-        "name": "Anas clypeata",
-        "synonyms": [
-          "Spatula clypeata"
-        ]
-      },
-      {
-        "lang": "lb",
-        "name": "Läffelint"
-      },
-      {
-        "lang": "li",
-        "name": "Slobbereend"
-      },
-      {
-        "lang": "lt",
-        "name": "Šaukštasnapė antis"
-      },
-      {
-        "lang": "lv",
-        "name": "Platknābis"
-      },
-      {
-        "lang": "dv",
-        "name": "Reyru"
-      },
-      {
-        "lang": "mk",
-        "name": "Патка лажичарка"
-      },
-      {
-        "lang": "mn",
-        "name": "Халбага нугас"
-      },
-      {
-        "lang": "mr",
-        "name": "शोव्हेलर"
-      },
-      {
-        "lang": "mrj",
-        "name": "Саваланер"
-      },
-      {
-        "lang": "ms",
-        "name": "Itik Paruh Sudu"
-      },
-      {
-        "lang": "mt",
-        "name": "Palettuna"
-      },
-      {
-        "lang": "nah",
-        "name": "Caxtillān canauhtli"
-      },
-      {
-        "lang": "nds-nl",
-        "name": "Lepelbek"
-      },
-      {
-        "lang": "nds",
-        "name": "Lepeloont"
-      },
-      {
-        "lang": "nl",
-        "name": "Slobeend"
-      },
-      {
-        "lang": "nn",
-        "name": "Skeiand"
-      },
-      {
-        "lang": "no",
-        "name": "Skjeand"
-      },
-      {
-        "lang": "oj",
-        "name": "ᒪᑕᐃᑲᓂᔑᐟᐱ"
-      },
-      {
-        "lang": "pcd",
-        "name": "Souché"
-      },
-      {
-        "lang": "pl",
-        "name": "Płaskonos"
-      },
-      {
-        "lang": "pnb",
-        "name": "شوولر"
-      },
-      {
-        "lang": "pt",
-        "name": "Pato-trombeteiro"
-      },
-      {
-        "lang": "rm",
-        "name": "Anda da la palutta"
-      },
-      {
-        "lang": "ro",
-        "name": "Rață lingurar"
-      },
-      {
-        "lang": "ru",
-        "name": "Широконоска"
-      },
-      {
-        "lang": "rue",
-        "name": "Широконоска"
-      },
-      {
-        "lang": "sah",
-        "name": "Халба"
-      },
-      {
-        "lang": "se",
-        "name": "Spoađđoduoršu"
-      },
-      {
-        "lang": "sh",
-        "name": "Patka žličarka"
-      },
-      {
-        "lang": "si",
-        "name": "උතුරු-සවල් සේරුවා"
-      },
-      {
-        "lang": "sk",
-        "name": "Kačica lyžičiarka"
-      },
-      {
-        "lang": "sl",
-        "name": "Raca žlicarica"
-      },
-      {
-        "lang": "sq",
-        "name": "Sqepluga"
-      },
-      {
-        "lang": "sr",
-        "name": "Plovka kašikara",
-        "synonyms": [
-          "Пловка кашикара"
-        ]
-      },
-      {
-        "lang": "sv",
-        "name": "Skedand"
-      },
-      {
-        "lang": "sw",
-        "name": "Bata sepeto"
-      },
-      {
-        "lang": "ta",
-        "name": "ஆண்டி வாத்து"
-      },
-      {
-        "lang": "th",
-        "name": "เป็ดปากพลั่ว"
-      },
-      {
-        "lang": "tr",
-        "name": "Kaşıkgaga"
-      },
-      {
-        "lang": "tyv",
-        "name": "Калбак думчук"
-      },
-      {
-        "lang": "uk",
-        "name": "Широконіска"
-      },
-      {
-        "lang": "vec",
-        "name": "Paloto"
-      },
-      {
-        "lang": "vi",
-        "name": "Vịt mỏ thìa"
-      },
-      {
-        "lang": "zea",
-        "name": "Slobeend"
-      },
-      {
-        "lang": "zh",
-        "name": "琵嘴鸭"
       }
     ]
   },
@@ -3719,6 +2123,10 @@
       {
         "lang": "en",
         "name": "Green-winged Teal"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika kreko"
       },
       {
         "lang": "es",
@@ -3834,6 +2242,10 @@
         "name": "Cape Teal"
       },
       {
+        "lang": "eo",
+        "name": "Afrika kreko"
+      },
+      {
         "lang": "es",
         "name": "Cerceta de El Cabo"
       },
@@ -3893,6 +2305,10 @@
       {
         "lang": "hu",
         "name": "Bernier-réce"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskartaling"
       },
       {
         "lang": "no",
@@ -4000,123 +2416,6 @@
     ]
   },
   {
-    "scientific_name": "Anas americana",
-    "common_names": [
-      {
-        "lang": "br",
-        "name": "Houad Jansen"
-      },
-      {
-        "lang": "cs",
-        "name": "hvízdák americký"
-      },
-      {
-        "lang": "cy",
-        "name": "Chwiwell America"
-      },
-      {
-        "lang": "da",
-        "name": "Amerikansk Pibeand"
-      },
-      {
-        "lang": "de",
-        "name": "Amerikanische Pfeifente",
-        "synonyms": [
-          "Nordamerikanische Pfeifente"
-        ]
-      },
-      {
-        "lang": "en",
-        "name": "American Wigeon"
-      },
-      {
-        "lang": "es",
-        "name": "Silbón americano"
-      },
-      {
-        "lang": "fi",
-        "name": "amerikanhaapana"
-      },
-      {
-        "lang": "fr",
-        "name": "canard siffleur d'Amérique",
-        "synonyms": [
-          "Canard d'Amérique",
-          "Canard à front blanc"
-        ]
-      },
-      {
-        "lang": "gl",
-        "name": "Asubiador americano"
-      },
-      {
-        "lang": "hu",
-        "name": "Álarcos réce"
-      },
-      {
-        "lang": "is",
-        "name": "Ljóshöfðaönd"
-      },
-      {
-        "lang": "it",
-        "name": "Condone",
-        "synonyms": [
-          "Fischione americano"
-        ]
-      },
-      {
-        "lang": "ja",
-        "name": "アメリカヒドリ",
-        "synonyms": [
-          "amerikahidori"
-        ]
-      },
-      {
-        "lang": "ko",
-        "name": "아메리카홍머리오리"
-      },
-      {
-        "lang": "lt",
-        "name": "Amerikinė cyplė"
-      },
-      {
-        "lang": "nl",
-        "name": "Amerikaanse smient"
-      },
-      {
-        "lang": "no",
-        "name": "Amerikablesand"
-      },
-      {
-        "lang": "pl",
-        "name": "Świstun amerykański"
-      },
-      {
-        "lang": "pt",
-        "name": "Pato-americano",
-        "synonyms": [
-          "Piadeira-americana"
-        ]
-      },
-      {
-        "lang": "ru",
-        "name": "Американская свиязь"
-      },
-      {
-        "lang": "sk",
-        "name": "kačica bielohlavá"
-      },
-      {
-        "lang": "sv",
-        "name": "Amerikansk bläsand"
-      },
-      {
-        "lang": "zh",
-        "name": "绿眉鸭"
-      }
-    ]
-  },
-  {
     "scientific_name": "Anas albogularis",
     "common_names": [
       {
@@ -4149,7 +2448,7 @@
       },
       {
         "lang": "sv",
-        "name": "Andamankricka"
+        "name": "andamankricka"
       },
       {
         "lang": "bn",
@@ -4238,7 +2537,7 @@
       },
       {
         "lang": "eo",
-        "name": "Pintvostanaso"
+        "name": "Pintvosta anaso"
       },
       {
         "lang": "es",
@@ -4502,7 +2801,7 @@
       },
       {
         "lang": "ta",
-        "name": "Oosival Vathu"
+        "name": "ஊசிவால் வாத்து"
       },
       {
         "lang": "th",

@@ -1,70 +1,61 @@
 [
   {
-    "scientific_name": "Calandrella somalica",
-    "common_names": [
-      {
-        "lang": "fi",
-        "name": "Somalianpikkukiuru"
-      },
-      {
-        "lang": "en",
-        "name": "Somali short-toed lark"
-      },
-      {
-        "lang": "es",
-        "name": "Terrera somalí"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Calandrella rufescens",
+    "scientific_name": "Calandrella eremica",
     "common_names": [
       {
         "lang": "en",
-        "name": "Lesser Short-toed Lark"
+        "name": "Rufous-capped Lark"
       },
       {
-        "lang": "fr",
-        "name": "Alouette pispolette"
-      },
-      {
-        "lang": "hy",
-        "name": "Արտույտ մոխրագույն"
-      },
-      {
-        "lang": "pl",
-        "name": "Skowrończyk mały"
+        "lang": "nl",
+        "name": "Roestkruinleeuwerik"
       },
       {
         "lang": "sv",
-        "name": "dvärglärka"
+        "name": "Brunkronad lärka"
       }
     ]
   },
   {
-    "scientific_name": "Calandrella raytal",
+    "scientific_name": "Calandrella dukhunensis",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Sand Lark"
+        "lang": "de",
+        "name": "China-Kurzzehenlerche"
       },
       {
-        "lang": "fi",
-        "name": "Intianhietakiuru"
+        "lang": "en",
+        "name": "Mongolian Short-toed Lark"
+      },
+      {
+        "lang": "nl",
+        "name": "Chinese kortteenleeuwerik"
       },
       {
         "lang": "sv",
-        "name": "sandlärka"
+        "name": "Mongolisk korttålärka"
       }
     ]
-  },
-  {
-    "scientific_name": "Calandrella erlangeri",
-    "common_names": []
   },
   {
     "scientific_name": "Calandrella cinerea",
     "common_names": [
+      {
+        "lang": "af",
+        "name": "Rooikoplewerik"
+      },
+      {
+        "lang": "bg",
+        "name": "Малка чучулига"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd corungoch"
+      },
+      {
+        "lang": "de",
+        "name": "Rotscheitellerche"
+      },
       {
         "lang": "en",
         "name": "Red-capped Lark"
@@ -74,33 +65,40 @@
         "name": "Terrera capirotada"
       },
       {
+        "lang": "fa",
+        "name": "چکاوک سرسرخ"
+      },
+      {
         "lang": "fi",
         "name": "Punalakkikiuru"
       },
       {
         "lang": "ja",
         "name": "ヒメコウテンシ"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Calandrella cheleensis",
-    "common_names": [
-      {
-        "lang": "fi",
-        "name": "Mongolianhietakiuruen"
       },
       {
-        "lang": "tr",
-        "name": "Asya kısa parmaklı toygarı"
+        "lang": "kk",
+        "name": "Кіші бозторғай"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkapleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Rustdverglerke"
       },
       {
         "lang": "sv",
-        "name": "mongolisk dvärglärka"
+        "name": "Rödkronad lärka"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca mũ đỏ"
       },
       {
         "lang": "zh",
-        "name": "亚洲短趾百灵"
+        "name": "红顶短趾百灵"
       }
     ]
   },
@@ -229,21 +227,61 @@
     "scientific_name": "Calandrella blanfordi",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "قبرة بلانفورد"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd Blanford"
+      },
+      {
+        "lang": "de",
+        "name": "Blanfordlerche"
+      },
+      {
+        "lang": "en",
+        "name": "Blanford's Lark"
+      },
+      {
+        "lang": "es",
+        "name": "Terrera de Blanford"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک بلانفورد"
+      },
+      {
         "lang": "fi",
         "name": "Etiopianhietakiuru"
+      },
+      {
+        "lang": "hu",
+        "name": "Blanford-pacsirta"
+      },
+      {
+        "lang": "nl",
+        "name": "Blanfords leeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Blekdverglerke"
+      },
+      {
+        "lang": "sv",
+        "name": "Blanfordlärka"
+      },
+      {
+        "lang": "zh",
+        "name": "布氏百灵"
       }
     ]
-  },
-  {
-    "scientific_name": "Calandrella athensis",
-    "common_names": []
   },
   {
     "scientific_name": "Calandrella acutirostris",
     "common_names": [
       {
         "lang": "cs",
-        "name": "skřivánek horský"
+        "name": "Skřivánek horský"
       },
       {
         "lang": "da",
@@ -255,10 +293,7 @@
       },
       {
         "lang": "en",
-        "name": "Hume's Lark",
-        "synonyms": [
-          "Hume's Short-toed Lark"
-        ]
+        "name": "Hume's Short-toed Lark"
       },
       {
         "lang": "es",
@@ -266,11 +301,11 @@
       },
       {
         "lang": "et",
-        "name": "mägi-väikelõoke"
+        "name": "Mägi-väikelõoke"
       },
       {
         "lang": "fi",
-        "name": "karakoruminkiuru"
+        "name": "Karakoruminkiuru"
       },
       {
         "lang": "fr",
@@ -282,7 +317,7 @@
       },
       {
         "lang": "hu",
-        "name": "indiai szikipacsirta"
+        "name": "Indiai szikipacsirta"
       },
       {
         "lang": "is",
@@ -294,10 +329,7 @@
       },
       {
         "lang": "ja",
-        "name": "ヒマラヤコヒバリ",
-        "synonyms": [
-          "himarayakohibari"
-        ]
+        "name": "ヒマラヤコヒバリ"
       },
       {
         "lang": "kk",
@@ -317,7 +349,7 @@
       },
       {
         "lang": "pl",
-        "name": "skowronczyk tybetanski"
+        "name": "Skowronczyk tybetanski"
       },
       {
         "lang": "pt",
@@ -329,15 +361,15 @@
       },
       {
         "lang": "sk",
-        "name": "škovránka ostrozobá"
+        "name": "Škovránka ostrozobá"
       },
       {
         "lang": "sl",
-        "name": "afganistanski škrjanček"
+        "name": "Afganistanski škrjanček"
       },
       {
         "lang": "sv",
-        "name": "höglandslärka"
+        "name": "Höglandslärka"
       },
       {
         "lang": "tr",

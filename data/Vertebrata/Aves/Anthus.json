@@ -7,16 +7,32 @@
         "name": "Vaalkoester"
       },
       {
+        "lang": "cy",
+        "name": "Corhedydd llwydfelyn"
+      },
+      {
         "lang": "en",
-        "name": "Buffy pipit"
+        "name": "Buffy Pipit"
+      },
+      {
+        "lang": "eo",
+        "name": "Valpipio"
       },
       {
         "lang": "es",
         "name": "Bisbita del Vaal"
       },
       {
+        "lang": "fa",
+        "name": "پی‌پت نخودی"
+      },
+      {
         "lang": "fi",
         "name": "Kulokirvinen"
+      },
+      {
+        "lang": "nl",
+        "name": "Vaalrivierpieper"
       },
       {
         "lang": "pt",
@@ -32,12 +48,12 @@
     "scientific_name": "Anthus trivialis",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "КъуацэщӀэж"
+        "lang": "af",
+        "name": "Boomkoester"
       },
       {
         "lang": "ar",
-        "name": "أبو تمرة الشجر"
+        "name": "جشنة الشجر"
       },
       {
         "lang": "ba",
@@ -52,6 +68,10 @@
         "name": "Горска бъбрица"
       },
       {
+        "lang": "bh",
+        "name": "एंथस ट्रिवियालिस"
+      },
+      {
         "lang": "br",
         "name": "Sidan-koad"
       },
@@ -64,8 +84,20 @@
         "name": "Linduška lesní"
       },
       {
+        "lang": "csb",
+        "name": "Lesny piekùt"
+      },
+      {
+        "lang": "cv",
+        "name": "Вăрман тихашки"
+      },
+      {
         "lang": "cy",
         "name": "Corhedydd y Coed"
+      },
+      {
+        "lang": "da",
+        "name": "Skovpiber"
       },
       {
         "lang": "de",
@@ -73,19 +105,19 @@
       },
       {
         "lang": "en",
-        "name": "Tree pipit"
+        "name": "Tree Pipit"
       },
       {
-        "lang": "et",
-        "name": "Metskiur"
+        "lang": "eo",
+        "name": "Arbopipio"
       },
       {
         "lang": "es",
         "name": "Bisbita arbóreo"
       },
       {
-        "lang": "eo",
-        "name": "Arbopipio"
+        "lang": "et",
+        "name": "Metskiur"
       },
       {
         "lang": "eu",
@@ -108,8 +140,16 @@
         "name": "Pipit des arbres"
       },
       {
+        "lang": "ga",
+        "name": "Riabhóg choille"
+      },
+      {
         "lang": "gl",
         "name": "Pica das árbores"
+      },
+      {
+        "lang": "hu",
+        "name": "Erdei pityer"
       },
       {
         "lang": "hy",
@@ -118,6 +158,22 @@
       {
         "lang": "it",
         "name": "Prispolone"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパビンズイ"
+      },
+      {
+        "lang": "kbd",
+        "name": "КъуацэщӀэж"
+      },
+      {
+        "lang": "kk",
+        "name": "Орман жадырағы"
+      },
+      {
+        "lang": "ko",
+        "name": "나무밭종다리"
       },
       {
         "lang": "lb",
@@ -132,27 +188,31 @@
         "name": "Koku čipste"
       },
       {
-        "lang": "hu",
-        "name": "Erdei pityer"
+        "lang": "mk",
+        "name": "Шумска треперка"
+      },
+      {
+        "lang": "ml",
+        "name": "മരവരമ്പൻ"
       },
       {
         "lang": "mn",
         "name": "Ойн шийхнүүхэй"
       },
       {
+        "lang": "ne",
+        "name": "बगाले चुइयाँ"
+      },
+      {
         "lang": "nl",
         "name": "Boompieper"
       },
       {
-        "lang": "ja",
-        "name": "ヨーロッパビンズイ"
-      },
-      {
-        "lang": "no",
+        "lang": "nn",
         "name": "Trepiplerke"
       },
       {
-        "lang": "nn",
+        "lang": "no",
         "name": "Trepiplerke"
       },
       {
@@ -168,12 +228,16 @@
         "name": "Fâsă de pădure"
       },
       {
+        "lang": "ru",
+        "name": "Лесной конёк"
+      },
+      {
         "lang": "rue",
         "name": "Лїсовый коник"
       },
       {
-        "lang": "ru",
-        "name": "Лесной конёк"
+        "lang": "sk",
+        "name": "Ľabtuška hôrna"
       },
       {
         "lang": "sv",
@@ -184,8 +248,16 @@
         "name": "Ağaç incir kuşu"
       },
       {
+        "lang": "uk",
+        "name": "Щеврик лісовий"
+      },
+      {
         "lang": "vec",
         "name": "Tordina"
+      },
+      {
+        "lang": "vep",
+        "name": "Jälinduine"
       },
       {
         "lang": "zh",
@@ -206,8 +278,44 @@
     "scientific_name": "Anthus spragueii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "جشنة سبارج"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhedydd Sprague"
+      },
+      {
+        "lang": "en",
+        "name": "Sprague's Pipit"
+      },
+      {
+        "lang": "es",
+        "name": "Bisbita llanero"
+      },
+      {
+        "lang": "fa",
+        "name": "پی‌پت اسپراگ"
+      },
+      {
         "lang": "fi",
         "name": "Preeriakirvinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit de Sprague"
+      },
+      {
+        "lang": "hu",
+        "name": "Préri pityer"
+      },
+      {
+        "lang": "nl",
+        "name": "Prairiepieper"
+      },
+      {
+        "lang": "sv",
+        "name": "Präriepiplärka"
       }
     ]
   },
@@ -215,16 +323,16 @@
     "scientific_name": "Anthus spinoletta",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "КъуршкъуацэщӀэж"
-      },
-      {
         "lang": "ar",
-        "name": "أبو تمرة الماء"
+        "name": "جشنة الماء"
       },
       {
         "lang": "bg",
         "name": "Планинска бъбрица"
+      },
+      {
+        "lang": "bh",
+        "name": "एंथस स्पिनोलेट्टा"
       },
       {
         "lang": "br",
@@ -239,6 +347,14 @@
         "name": "Linduška horská"
       },
       {
+        "lang": "cy",
+        "name": "Corhedydd y dŵr"
+      },
+      {
+        "lang": "da",
+        "name": "Bjergpiber"
+      },
+      {
         "lang": "de",
         "name": "Bergpieper"
       },
@@ -247,20 +363,24 @@
         "name": "Water Pipit"
       },
       {
-        "lang": "et",
-        "name": "Mägikiur"
+        "lang": "eo",
+        "name": "Akvopipio"
       },
       {
         "lang": "es",
         "name": "Bisbita alpino"
       },
       {
-        "lang": "eo",
-        "name": "Akvopipio"
+        "lang": "et",
+        "name": "Mägikiur"
       },
       {
         "lang": "eu",
         "name": "Mendi-txirta"
+      },
+      {
+        "lang": "fa",
+        "name": "پی‌پت تالابی"
       },
       {
         "lang": "fi",
@@ -275,12 +395,28 @@
         "name": "Pica alpina"
       },
       {
+        "lang": "hu",
+        "name": "Havasi pityer"
+      },
+      {
         "lang": "hy",
         "name": "Լեռնային ձիաթռչնակ"
       },
       {
         "lang": "it",
         "name": "Spioncello"
+      },
+      {
+        "lang": "ja",
+        "name": "タヒバリ"
+      },
+      {
+        "lang": "kbd",
+        "name": "КъуршкъуацэщӀэж"
+      },
+      {
+        "lang": "kk",
+        "name": "Тау жадырағы"
       },
       {
         "lang": "lt",
@@ -291,28 +427,28 @@
         "name": "Ūdeņu čipste"
       },
       {
-        "lang": "hu",
-        "name": "Havasi pityer"
+        "lang": "mk",
+        "name": "Карпеста треперка"
       },
       {
         "lang": "mn",
         "name": "Усны шийхнүүхэй"
       },
       {
+        "lang": "ne",
+        "name": "जल चुइयाँ"
+      },
+      {
         "lang": "nl",
         "name": "Waterpieper"
       },
       {
-        "lang": "ja",
-        "name": "タヒバリ、田雲雀、田鷚"
+        "lang": "nn",
+        "name": "Vasspiplerke"
       },
       {
         "lang": "no",
         "name": "Vannpiplerke"
-      },
-      {
-        "lang": "nn",
-        "name": "Vasspiplerke"
       },
       {
         "lang": "pl",
@@ -323,12 +459,16 @@
         "name": "Petinha-ribeirinha"
       },
       {
+        "lang": "ru",
+        "name": "Горный конёк"
+      },
+      {
         "lang": "rue",
         "name": "Водяный коник"
       },
       {
-        "lang": "ru",
-        "name": "Горный конёк"
+        "lang": "sk",
+        "name": "Ľabtuška vrchovská"
       },
       {
         "lang": "sv",
@@ -339,11 +479,16 @@
         "name": "Dağ incir kuşu"
       },
       {
+        "lang": "uk",
+        "name": "Щеврик гірський"
+      },
+      {
         "lang": "vec",
-        "name": "Spionzèl",
-        "synonyms": [
-          "Sguseton"
-        ]
+        "name": "Spionzèl"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ đồng nước"
       },
       {
         "lang": "zh",
@@ -357,6 +502,34 @@
       {
         "lang": "fi",
         "name": "Sokokenkirvinen"
+      },
+      {
+        "lang": "ar",
+        "name": "جشنة سوكوكي"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhedydd Sokoke"
+      },
+      {
+        "lang": "en",
+        "name": "Sokoke pipit"
+      },
+      {
+        "lang": "fa",
+        "name": "پی‌پت سوکوکه"
+      },
+      {
+        "lang": "nl",
+        "name": "Sokokepieper"
+      },
+      {
+        "lang": "nv",
+        "name": "Biibii bitéél noodǫ́zígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "sokokepiplärka"
       }
     ]
   },
@@ -368,8 +541,16 @@
         "name": "Long-billed Pipit"
       },
       {
+        "lang": "eo",
+        "name": "Longbeka pipio"
+      },
+      {
         "lang": "fi",
         "name": "Kalliokirvinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit à long bec"
       }
     ]
   },
@@ -391,19 +572,76 @@
     ]
   },
   {
+    "scientific_name": "Anthus ruficollis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Madanga"
+      },
+      {
+        "lang": "fa",
+        "name": "مادانگا"
+      },
+      {
+        "lang": "pnb",
+        "name": "ماڈنگا"
+      },
+      {
+        "lang": "sv",
+        "name": "burupiplärka"
+      },
+      {
+        "lang": "ar",
+        "name": "المادانجا"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn gyddfgoch"
+      },
+      {
+        "lang": "de",
+        "name": "Burupieper"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops à gorge rousse"
+      },
+      {
+        "lang": "nl",
+        "name": "Burupieper"
+      },
+      {
+        "lang": "nv",
+        "name": "Biibii bizééʼ łitsxooígíí"
+      }
+    ]
+  },
+  {
     "scientific_name": "Anthus rubescens",
     "common_names": [
       {
         "lang": "ar",
-        "name": "جشنة كدراء الصدر"
+        "name": "جشنة مصفرة البطن"
+      },
+      {
+        "lang": "bg",
+        "name": "Американска бъбрица"
+      },
+      {
+        "lang": "bh",
+        "name": "एंथस रुबेसेंस"
       },
       {
         "lang": "ca",
-        "name": "Piula de ventre pàŀlid"
+        "name": "Piula de ventre pàl·lid"
       },
       {
         "lang": "cs",
-        "name": "linduška proměnlivá"
+        "name": "Linduška proměnlivá"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhedydd melynllwyd"
       },
       {
         "lang": "da",
@@ -411,10 +649,7 @@
       },
       {
         "lang": "de",
-        "name": "Pazifikpieper",
-        "synonyms": [
-          "Pazifischer Wasserpieper"
-        ]
+        "name": "Pazifischer Wasserpieper"
       },
       {
         "lang": "egl",
@@ -422,10 +657,11 @@
       },
       {
         "lang": "en",
-        "name": "Buff-bellied Pipit",
-        "synonyms": [
-          "American Pipit"
-        ]
+        "name": "Buff-bellied Pipit"
+      },
+      {
+        "lang": "eo",
+        "name": "Okraventra pipio"
       },
       {
         "lang": "es",
@@ -433,11 +669,15 @@
       },
       {
         "lang": "et",
-        "name": "leetkiur"
+        "name": "Leetkiur"
+      },
+      {
+        "lang": "fa",
+        "name": "پی‌پت تالابی پاقهوه‌ای"
       },
       {
         "lang": "fi",
-        "name": "tuhkakirvinen"
+        "name": "Tuhkakirvinen"
       },
       {
         "lang": "fo",
@@ -460,12 +700,8 @@
         "name": "ממושקף"
       },
       {
-        "lang": "ht",
-        "name": "Pipit"
-      },
-      {
         "lang": "hu",
-        "name": "vörhenyes pityer"
+        "name": "Csendes-óceáni vízipityer"
       },
       {
         "lang": "is",
@@ -481,10 +717,7 @@
       },
       {
         "lang": "ja",
-        "name": "アメリカタヒバリ",
-        "synonyms": [
-          "Amerikatahibari"
-        ]
+        "name": "アメリカタヒバリ"
       },
       {
         "lang": "kk",
@@ -507,16 +740,16 @@
         "name": "Америкийн шийхнүүхэй"
       },
       {
+        "lang": "ne",
+        "name": "कैलकोखे चुइयाँ"
+      },
+      {
         "lang": "nl",
-        "name": "Pacifische Waterpieper"
+        "name": "Pacifische waterpieper"
       },
       {
         "lang": "no",
         "name": "Myrpiplerke"
-      },
-      {
-        "lang": "fa",
-        "name": "نوعی پرنده"
       },
       {
         "lang": "pl",
@@ -536,7 +769,7 @@
       },
       {
         "lang": "sl",
-        "name": "ameriška vriskarica"
+        "name": "Ameriška vriskarica"
       },
       {
         "lang": "sv",
@@ -552,11 +785,11 @@
       },
       {
         "lang": "vi",
-        "name": "Chim manh lưng đỏ"
+        "name": "Sẻ đồng Bắc Mỹ"
       },
       {
         "lang": "zh",
-        "name": "黄腹鹨"
+        "name": "黃腹鷚"
       }
     ]
   },
@@ -564,8 +797,80 @@
     "scientific_name": "Anthus roseatus",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Розова бъбрица"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhedydd gwridog"
+      },
+      {
+        "lang": "da",
+        "name": "Rosapiber"
+      },
+      {
+        "lang": "de",
+        "name": "Rosenpieper"
+      },
+      {
+        "lang": "en",
+        "name": "Rosy Pipit"
+      },
+      {
+        "lang": "eo",
+        "name": "Rozpipio"
+      },
+      {
+        "lang": "es",
+        "name": "Bisbita rosado"
+      },
+      {
+        "lang": "fa",
+        "name": "پی‌پت گلگون"
+      },
+      {
         "lang": "fi",
         "name": "Himalajankirvinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit rosé"
+      },
+      {
+        "lang": "it",
+        "name": "Pispola rosea"
+      },
+      {
+        "lang": "ja",
+        "name": "ウスベニタヒバリ"
+      },
+      {
+        "lang": "ne",
+        "name": "गुलाफीकण्ठे चुइयाँ"
+      },
+      {
+        "lang": "nl",
+        "name": "Wijnborstpieper"
+      },
+      {
+        "lang": "ru",
+        "name": "Розовый конёк"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosenpiplärka"
+      },
+      {
+        "lang": "th",
+        "name": "นกเด้าดินอกสีชมพู"
+      },
+      {
+        "lang": "vi",
+        "name": "Manh phớt hồng"
+      },
+      {
+        "lang": "zh",
+        "name": "粉红胸鹨"
       }
     ]
   },
@@ -575,6 +880,10 @@
       {
         "lang": "en",
         "name": "Richard's Pipit"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda pipio"
       },
       {
         "lang": "es",
@@ -648,7 +957,7 @@
       },
       {
         "lang": "eo",
-        "name": "Herbejpipio"
+        "name": "Herbeja pipio"
       },
       {
         "lang": "es",
@@ -776,8 +1085,28 @@
     "scientific_name": "Anthus petrosus",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Скална бъбрица"
+      },
+      {
+        "lang": "cs",
+        "name": "Linduška skalní"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhedydd y Graig"
+      },
+      {
+        "lang": "da",
+        "name": "Skærpiber"
+      },
+      {
+        "lang": "de",
+        "name": "Strandpieper"
+      },
+      {
         "lang": "en",
-        "name": "Eurasian rock pipit"
+        "name": "Rock Pipit"
       },
       {
         "lang": "es",
@@ -788,8 +1117,48 @@
         "name": "Luotokirvinen"
       },
       {
+        "lang": "fo",
+        "name": "Grátítlingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit maritime"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパタヒバリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Uolinis kalviukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Oeverpieper"
+      },
+      {
+        "lang": "nn",
+        "name": "Skjerpiplerke"
+      },
+      {
+        "lang": "no",
+        "name": "Skjærpiplerke"
+      },
+      {
         "lang": "pl",
         "name": "Świergotek nadmorski"
+      },
+      {
+        "lang": "ru",
+        "name": "Береговой конёк"
+      },
+      {
+        "lang": "se",
+        "name": "Boađđocivkkán"
+      },
+      {
+        "lang": "sv",
+        "name": "Skärpiplärka"
       }
     ]
   },
@@ -889,23 +1258,6 @@
     ]
   },
   {
-    "scientific_name": "Anthus lutescens",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Yellowish Pipit"
-      },
-      {
-        "lang": "es",
-        "name": "Bisbita amarillento"
-      },
-      {
-        "lang": "fi",
-        "name": "Eteläamerikankirvinen"
-      }
-    ]
-  },
-  {
     "scientific_name": "Anthus longicaudatus",
     "common_names": [
       {
@@ -953,28 +1305,132 @@
     "scientific_name": "Anthus hodgsoni",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "جشنة زيتونية الظهر"
+      },
+      {
+        "lang": "bg",
+        "name": "Зелена бъбрица"
+      },
+      {
+        "lang": "bh",
+        "name": "मुचासी"
+      },
+      {
+        "lang": "br",
+        "name": "Sidan-Sina"
+      },
+      {
+        "lang": "ca",
+        "name": "Piula de Hodgson"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhedydd cefnwyrdd"
+      },
+      {
         "lang": "en",
         "name": "Olive-backed Pipit"
+      },
+      {
+        "lang": "eo",
+        "name": "Hinda pipio"
       },
       {
         "lang": "es",
         "name": "Bisbita de Hodgson"
       },
       {
+        "lang": "et",
+        "name": "Taigakiur"
+      },
+      {
+        "lang": "fa",
+        "name": "پی‌پت پشت‌زیتونی"
+      },
+      {
         "lang": "fi",
         "name": "Taigakirvinen"
+      },
+      {
+        "lang": "fo",
+        "name": "Indiatítlingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit à dos olive"
+      },
+      {
+        "lang": "gl",
+        "name": "Pica de Hodgson"
+      },
+      {
+        "lang": "hu",
+        "name": "Olívhátú pityer"
+      },
+      {
+        "lang": "id",
+        "name": "Apung zaitun"
       },
       {
         "lang": "ja",
         "name": "ビンズイ"
       },
       {
+        "lang": "kk",
+        "name": "Жасыл жадырақ"
+      },
+      {
+        "lang": "ko",
+        "name": "힝둥새"
+      },
+      {
+        "lang": "ml",
+        "name": "പച്ചവരമ്പൻ"
+      },
+      {
+        "lang": "mn",
+        "name": "Бөртөт шийхнүүхэй"
+      },
+      {
         "lang": "ms",
         "name": "Burung Pipit Padang"
       },
       {
+        "lang": "ne",
+        "name": "रूख चुइयाँ"
+      },
+      {
+        "lang": "nl",
+        "name": "Siberische boompieper"
+      },
+      {
+        "lang": "no",
+        "name": "Sibirpiplerke"
+      },
+      {
         "lang": "pl",
         "name": "Świergotek tajgowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Petinha-silvestre"
+      },
+      {
+        "lang": "ru",
+        "name": "Пятнистый конёк"
+      },
+      {
+        "lang": "sv",
+        "name": "Sibirisk piplärka"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeşil sırtlı incir kuşu"
+      },
+      {
+        "lang": "vi",
+        "name": "Manh Vân Nam"
       },
       {
         "lang": "zh",
@@ -997,7 +1453,20 @@
   },
   {
     "scientific_name": "Anthus gustavi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pechora Pipit"
+      },
+      {
+        "lang": "eo",
+        "name": "Tundra pipio"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit de la Petchora"
+      }
+    ]
   },
   {
     "scientific_name": "Anthus godlewskii",
@@ -1005,6 +1474,18 @@
       {
         "lang": "be",
         "name": "Канёк Гадлеўскага"
+      },
+      {
+        "lang": "en",
+        "name": "Blyth's Pipit"
+      },
+      {
+        "lang": "eo",
+        "name": "Stepopipio"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit de Godlewski"
       }
     ]
   },
@@ -1060,11 +1541,41 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "African Pipit"
+        "name": "African pipit"
       },
       {
         "lang": "fi",
         "name": "Ruohikkokirvinen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anthus chloris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-breasted Pipit"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltakirvinen"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anthus chii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellowish Pipit"
+      },
+      {
+        "lang": "es",
+        "name": "Bisbita amarillento"
+      },
+      {
+        "lang": "fi",
+        "name": "Eteläamerikankirvinen"
       }
     ]
   },
@@ -1081,36 +1592,172 @@
     "scientific_name": "Anthus cervinus",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Rooikeelkoester"
+      },
+      {
+        "lang": "ar",
+        "name": "جشنة حمراء الحنجرة"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеногуша бъбрица"
+      },
+      {
+        "lang": "bh",
+        "name": "एंथस सर्विनस"
+      },
+      {
+        "lang": "br",
+        "name": "Sidan gouzoug ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Piula gola-roja"
+      },
+      {
+        "lang": "cs",
+        "name": "Linduška rudokrká"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhedydd gyddfgoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rødstrubet piber"
+      },
+      {
+        "lang": "de",
+        "name": "Rotkehlpieper"
+      },
+      {
         "lang": "en",
         "name": "Red-throated Pipit"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝgorĝa pipio"
       },
       {
         "lang": "es",
         "name": "Bisbita gorgirrojo"
       },
       {
+        "lang": "et",
+        "name": "Tundrakiur"
+      },
+      {
+        "lang": "fa",
+        "name": "پی‌پت گلوسرخ"
+      },
+      {
         "lang": "fi",
         "name": "Lapinkirvinen"
+      },
+      {
+        "lang": "fo",
+        "name": "Reyðtítlingur"
       },
       {
         "lang": "fr",
         "name": "Pipit à gorge rousse"
       },
       {
+        "lang": "gl",
+        "name": "Pica de gorxa rubia"
+      },
+      {
+        "lang": "he",
+        "name": "פיפיון אדום-גרון"
+      },
+      {
+        "lang": "hu",
+        "name": "Rozsdástorkú pityer"
+      },
+      {
         "lang": "hy",
-        "name": "Ձիաթռչնակ կարմրախածի"
+        "name": "Կարմրախածի ձիաթռչնակ"
+      },
+      {
+        "lang": "ja",
+        "name": "ムネアカタヒバリ"
+      },
+      {
+        "lang": "kbd",
+        "name": "Тафэбзу"
+      },
+      {
+        "lang": "kk",
+        "name": "Қызылтөс жадырақ"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudagurklis kalviukas"
       },
       {
         "lang": "lv",
         "name": "Sarkanrīkles čipste"
       },
       {
+        "lang": "mk",
+        "name": "Црвеногушеста треперка"
+      },
+      {
+        "lang": "mn",
+        "name": "Зосонгүеэ шийхнүүхэй"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Ciak Leher Merah"
+      },
+      {
+        "lang": "ne",
+        "name": "लालकण्ठे चुइयाँ"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkeelpieper"
+      },
+      {
+        "lang": "no",
+        "name": "Lappiplerke"
+      },
+      {
         "lang": "pl",
         "name": "Świergotek rdzawogardły"
       },
       {
+        "lang": "pt",
+        "name": "Petinha-de-garganta-ruiva"
+      },
+      {
         "lang": "ru",
         "name": "Краснозобый конёк"
+      },
+      {
+        "lang": "sk",
+        "name": "Ľabtuška červenohrdlá"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödstrupig piplärka"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl gerdanlı incir kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Щеврик червоногрудий"
+      },
+      {
+        "lang": "vi",
+        "name": "Manh họng đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "红喉鹨"
       }
     ]
   },
@@ -1118,16 +1765,16 @@
     "scientific_name": "Anthus campestris",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "МэкъущӀэж"
-      },
-      {
         "lang": "ar",
-        "name": "أبو فصية الصحراء"
+        "name": "جشنة الصحراء"
       },
       {
         "lang": "bg",
         "name": "Полска бъбрица"
+      },
+      {
+        "lang": "bh",
+        "name": "एंथस कैम्पेस्ट्रिस"
       },
       {
         "lang": "br",
@@ -1135,11 +1782,23 @@
       },
       {
         "lang": "ca",
-        "name": "Trobat (ocell)"
+        "name": "Trobat"
+      },
+      {
+        "lang": "co",
+        "name": "Terraghjola russiccia"
       },
       {
         "lang": "cs",
         "name": "Linduška úhorní"
+      },
+      {
+        "lang": "cy",
+        "name": "Corhedydd melyn"
+      },
+      {
+        "lang": "da",
+        "name": "Markpiber"
       },
       {
         "lang": "de",
@@ -1150,16 +1809,16 @@
         "name": "Tawny Pipit"
       },
       {
-        "lang": "et",
-        "name": "Nõmmekiur"
+        "lang": "eo",
+        "name": "Sablopipio"
       },
       {
         "lang": "es",
         "name": "Bisbita campestre"
       },
       {
-        "lang": "eo",
-        "name": "Sablopipio"
+        "lang": "et",
+        "name": "Nõmmekiur"
       },
       {
         "lang": "eu",
@@ -1167,7 +1826,7 @@
       },
       {
         "lang": "fa",
-        "name": "پپت خاکی"
+        "name": "پی‌پت دشتی"
       },
       {
         "lang": "fi",
@@ -1190,12 +1849,24 @@
         "name": "Pica campestre"
       },
       {
+        "lang": "hu",
+        "name": "Parlagi pityer"
+      },
+      {
         "lang": "hy",
         "name": "Դաշտային ձիաթռչնակ"
       },
       {
         "lang": "it",
         "name": "Calandro"
+      },
+      {
+        "lang": "kbd",
+        "name": "МэкъущӀэж"
+      },
+      {
+        "lang": "kk",
+        "name": "Түз жадырағы"
       },
       {
         "lang": "lt",
@@ -1206,8 +1877,12 @@
         "name": "Stepes čipste"
       },
       {
-        "lang": "hu",
-        "name": "Parlagi pityer"
+        "lang": "mk",
+        "name": "Полска треперка"
+      },
+      {
+        "lang": "ne",
+        "name": "धूलिका चुइयाँ"
       },
       {
         "lang": "nl",
@@ -1234,12 +1909,20 @@
         "name": "Полевой конёк"
       },
       {
+        "lang": "sk",
+        "name": "Ľabtuška poľná"
+      },
+      {
         "lang": "sv",
         "name": "Fältpiplärka"
       },
       {
         "lang": "tr",
         "name": "Kır incir kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Щеврик польовий"
       },
       {
         "lang": "zh",
@@ -1286,14 +1969,30 @@
     "scientific_name": "Anthus berthelotii",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Berthelot's Pipit"
+      },
+      {
+        "lang": "eo",
+        "name": "Kanaria pipio"
+      },
+      {
         "lang": "fi",
         "name": "Kanariankirvinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit de Berthelot"
       }
     ]
   },
   {
     "scientific_name": "Anthus australis",
     "common_names": [
+      {
+        "lang": "da",
+        "name": "Australsk Storpiber"
+      },
       {
         "lang": "en",
         "name": "Australian Pipit"
@@ -1303,12 +2002,32 @@
         "name": "Bisbita australiano"
       },
       {
+        "lang": "et",
+        "name": "Austraalia niidukiur"
+      },
+      {
         "lang": "fi",
         "name": "Australiankirvinen"
       },
       {
         "lang": "fr",
         "name": "Pipit austral"
+      },
+      {
+        "lang": "it",
+        "name": "Pispola australiana"
+      },
+      {
+        "lang": "ja",
+        "name": "オーストラリアマミジロタヒバリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische pieper"
+      },
+      {
+        "lang": "pt",
+        "name": "Petinha-australiana"
       },
       {
         "lang": "sv",

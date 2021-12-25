@@ -71,13 +71,6 @@
         ]
       },
       {
-        "lang": "la",
-        "name": "Ciccaba virgata",
-        "synonyms": [
-          "Strix virgata"
-        ]
-      },
-      {
         "lang": "nl",
         "name": "Bonte Bosuil"
       },
@@ -276,6 +269,10 @@
         "name": "Ural Owl"
       },
       {
+        "lang": "eo",
+        "name": "Urala strigo"
+      },
+      {
         "lang": "es",
         "name": "Cárabo uralense"
       },
@@ -405,6 +402,10 @@
         "name": "Puštík tečkovaný"
       },
       {
+        "lang": "en",
+        "name": "Spotted Wood Owl"
+      },
+      {
         "lang": "th",
         "name": "นกเค้าป่าหลังจุด"
       }
@@ -415,7 +416,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Mexican Barred Owl"
+        "name": "Cinereous Owl"
       }
     ]
   },
@@ -446,10 +447,6 @@
         "name": "Argentiinanpöllö"
       }
     ]
-  },
-  {
-    "scientific_name": "Strix omanensis",
-    "common_names": []
   },
   {
     "scientific_name": "Strix ocellata",
@@ -543,16 +540,100 @@
     "scientific_name": "Strix occidentalis",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Петниста улулица"
+      },
+      {
+        "lang": "ca",
+        "name": "Gamarús pigallat"
+      },
+      {
         "lang": "cs",
         "name": "Puštík západní"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan fannog"
+      },
+      {
+        "lang": "de",
+        "name": "Fleckenkauz"
+      },
+      {
+        "lang": "en",
+        "name": "Spotted Owl"
       },
       {
         "lang": "es",
         "name": "Cárabo manchado"
       },
       {
+        "lang": "fa",
+        "name": "جغد غربی"
+      },
+      {
+        "lang": "fi",
+        "name": "Täpläpöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chouette tachetée"
+      },
+      {
+        "lang": "he",
+        "name": "לילית מנוקדת"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyugati erdeibagoly"
+      },
+      {
+        "lang": "it",
+        "name": "Allocco macchiato"
+      },
+      {
         "lang": "ja",
         "name": "ニシアメリカフクロウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Dėmėtoji pelėda"
+      },
+      {
+        "lang": "nl",
+        "name": "Gevlekte bosuil"
+      },
+      {
+        "lang": "nv",
+        "name": "Néʼéshjaaʼ łikizhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Puszczyk plamisty"
+      },
+      {
+        "lang": "pnb",
+        "name": "چینا الو"
+      },
+      {
+        "lang": "ru",
+        "name": "Пятнистая неясыть"
+      },
+      {
+        "lang": "sr",
+        "name": "Пегава сова"
+      },
+      {
+        "lang": "sv",
+        "name": "Fläckuggla"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú lông đốm"
+      },
+      {
+        "lang": "zh",
+        "name": "西點林鴞"
       }
     ]
   },
@@ -704,6 +785,19 @@
     ]
   },
   {
+    "scientific_name": "Strix mauritanica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Maghreb Owl"
+      },
+      {
+        "lang": "nl",
+        "name": "Maghrebbosuil"
+      }
+    ]
+  },
+  {
     "scientific_name": "Strix leptogrammica",
     "common_names": [
       {
@@ -713,6 +807,10 @@
       {
         "lang": "th",
         "name": "นกเค้าป่าสีน้ำตาล"
+      },
+      {
+        "lang": "de",
+        "name": "Malaienkauz"
       }
     ]
   },
@@ -722,6 +820,58 @@
       {
         "lang": "cs",
         "name": "Puštík brazilský"
+      },
+      {
+        "lang": "bg",
+        "name": "Бразилска улулица"
+      },
+      {
+        "lang": "ca",
+        "name": "Gamarús del Brasil"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan goch resog"
+      },
+      {
+        "lang": "de",
+        "name": "Brasilkauz"
+      },
+      {
+        "lang": "en",
+        "name": "Rusty-barred owl"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد برزیلی"
+      },
+      {
+        "lang": "fi",
+        "name": "Brasilianpöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chouette dryade"
+      },
+      {
+        "lang": "gn",
+        "name": "Suinda ka'aguy"
+      },
+      {
+        "lang": "nl",
+        "name": "Braziliaanse bosuil"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-listrada"
+      },
+      {
+        "lang": "ru",
+        "name": "Бразильская неясыть"
+      },
+      {
+        "lang": "sv",
+        "name": "rostbandad uggla"
       }
     ]
   },
@@ -746,12 +896,32 @@
     "scientific_name": "Strix hadorami",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Gamarús del desert"
+      },
+      {
+        "lang": "de",
+        "name": "Fahlkauz"
+      },
+      {
         "lang": "en",
-        "name": "Desert tawny owl"
+        "name": "Desert Owl"
       },
       {
         "lang": "he",
         "name": "לילית מדבר"
+      },
+      {
+        "lang": "nl",
+        "name": "Palestijnse bosuil"
+      },
+      {
+        "lang": "sr",
+        "name": "Пустињска шумска сова"
+      },
+      {
+        "lang": "sv",
+        "name": "Västlig klippuggla"
       }
     ]
   },
@@ -812,6 +982,10 @@
       {
         "lang": "en",
         "name": "Omani Owl"
+      },
+      {
+        "lang": "eo",
+        "name": "Rokstrigo"
       },
       {
         "lang": "fa",

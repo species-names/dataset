@@ -1,5 +1,58 @@
 [
   {
+    "scientific_name": "Athene superciliaris",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Mussol nínox"
+      },
+      {
+        "lang": "cs",
+        "name": "Sovka madagaskarská"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalchdylluan Madagasgar"
+      },
+      {
+        "lang": "de",
+        "name": "Madagaskar-Kauz"
+      },
+      {
+        "lang": "en",
+        "name": "White-browed Owl"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinhaukkapöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe à sourcils blancs"
+      },
+      {
+        "lang": "hu",
+        "name": "Madagaszkári héjabagoly"
+      },
+      {
+        "lang": "it",
+        "name": "Civetta sparviero del Madagascar"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskarsteenuil"
+      },
+      {
+        "lang": "nv",
+        "name": "Néʼéshjaaʼ bitéél noodǫ́zígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "Madagaskaruggla"
+      }
+    ]
+  },
+  {
     "scientific_name": "Athene noctua",
     "common_names": [
       {
@@ -76,7 +129,7 @@
       },
       {
         "lang": "eo",
-        "name": "Noktuo"
+        "name": "Atena noktuo"
       },
       {
         "lang": "es",
@@ -377,8 +430,16 @@
     "scientific_name": "Athene brama",
     "common_names": [
       {
+        "lang": "as",
+        "name": "কুৰুলী ফেঁচা"
+      },
+      {
         "lang": "be",
         "name": "Брамінскі сыч"
+      },
+      {
+        "lang": "bg",
+        "name": "Южноазиатска кукумявка"
       },
       {
         "lang": "bn",
@@ -387,6 +448,10 @@
       {
         "lang": "cs",
         "name": "Sýček brahmínský"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan fach fraith"
       },
       {
         "lang": "de",
@@ -401,20 +466,193 @@
         "name": "Punktita strigeto"
       },
       {
+        "lang": "es",
+        "name": "Mochuelo brahmán"
+      },
+      {
+        "lang": "eu",
+        "name": "Mozolo pikart"
+      },
+      {
+        "lang": "fa",
+        "name": "بوفچه خالدار"
+      },
+      {
+        "lang": "fi",
+        "name": "Brahmanpöllö"
+      },
+      {
         "lang": "fr",
         "name": "Chevêche brame"
+      },
+      {
+        "lang": "hu",
+        "name": "Brama kuvik"
+      },
+      {
+        "lang": "hy",
+        "name": "Բրահմայական բվեճ"
+      },
+      {
+        "lang": "ml",
+        "name": "പുള്ളിനത്ത്"
+      },
+      {
+        "lang": "mnw",
+        "name": "ကလော်၊ ဂစေံ"
+      },
+      {
+        "lang": "mr",
+        "name": "पिंगळा"
+      },
+      {
+        "lang": "my",
+        "name": "ဇီးကွက်"
+      },
+      {
+        "lang": "ne",
+        "name": "कोचलगाँडे लाटोकोसेरो"
+      },
+      {
+        "lang": "nl",
+        "name": "Brahmaanse steenuil"
       },
       {
         "lang": "no",
         "name": "Tempelugle"
       },
       {
+        "lang": "pa",
+        "name": "ਚੁਗਲ"
+      },
+      {
+        "lang": "pl",
+        "name": "Pójdźka bramińska"
+      },
+      {
+        "lang": "pnb",
+        "name": "چُغل"
+      },
+      {
+        "lang": "ru",
+        "name": "Браминский сыч"
+      },
+      {
+        "lang": "sr",
+        "name": "Пегава кукумавка"
+      },
+      {
+        "lang": "sv",
+        "name": "Brahminuggla"
+      },
+      {
+        "lang": "ta",
+        "name": "புள்ளி ஆந்தை"
+      },
+      {
         "lang": "th",
         "name": "นกเค้าจุด"
       },
       {
-        "lang": "ne",
-        "name": "कोचलगाँडे लाटोकोसेरो"
+        "lang": "vi",
+        "name": "Cú trán trắng"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Athene blewitti",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Малка горска кукумявка"
+      },
+      {
+        "lang": "ca",
+        "name": "Mussol de Blewitt"
+      },
+      {
+        "lang": "cs",
+        "name": "Sýček lesní"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan fach y goedwig"
+      },
+      {
+        "lang": "de",
+        "name": "Blewitt-Kauz"
+      },
+      {
+        "lang": "en",
+        "name": "Forest Owlet"
+      },
+      {
+        "lang": "eo",
+        "name": "Arbara strigeto"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo de Blewitt"
+      },
+      {
+        "lang": "fa",
+        "name": "بوفچه جنگلی"
+      },
+      {
+        "lang": "fi",
+        "name": "Hindustaninpöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêche forestière"
+      },
+      {
+        "lang": "hu",
+        "name": "Erdei kuvik"
+      },
+      {
+        "lang": "it",
+        "name": "Civetta di Blewitt"
+      },
+      {
+        "lang": "lv",
+        "name": "Džungļu apogs"
+      },
+      {
+        "lang": "mr",
+        "name": "रानपिंगळा"
+      },
+      {
+        "lang": "nl",
+        "name": "Bossteenuil"
+      },
+      {
+        "lang": "no",
+        "name": "Karmaugle"
+      },
+      {
+        "lang": "pl",
+        "name": "Pójdźka leśna"
+      },
+      {
+        "lang": "ru",
+        "name": "Лесной сыч"
+      },
+      {
+        "lang": "sr",
+        "name": "Шумска кукумавка"
+      },
+      {
+        "lang": "sv",
+        "name": "Djungeluggla"
+      },
+      {
+        "lang": "uk",
+        "name": "Сич лісовий"
+      },
+      {
+        "lang": "zh",
+        "name": "林斑小鸮"
       }
     ]
   }

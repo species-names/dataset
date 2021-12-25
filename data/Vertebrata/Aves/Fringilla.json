@@ -19,6 +19,10 @@
         "name": "Fringuello azzurro de Tenerife"
       },
       {
+        "lang": "nl ",
+        "name": "Tenerifse blauwe vink"
+      },
+      {
         "lang": "ja",
         "name": "カナリーアオアトリ"
       },
@@ -669,7 +673,10 @@
       },
       {
         "lang": "pl",
-        "name": "Zięba"
+        "name": "Zięba zwyczajna",
+        "synonyms": [
+          "zięba"
+        ]
       },
       {
         "lang": "pms",

@@ -118,6 +118,58 @@
       {
         "lang": "tr",
         "name": "Kara tepeli kukal"
+      },
+      {
+        "lang": "ar",
+        "name": "كوكال أسود الرأس"
+      },
+      {
+        "lang": "ca",
+        "name": "Cucal de Mindoro"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwcal Steere"
+      },
+      {
+        "lang": "de",
+        "name": "Mindorokuckuck"
+      },
+      {
+        "lang": "en",
+        "name": "Black-hooded coucal"
+      },
+      {
+        "lang": "fa",
+        "name": "میخ‌پنجه کلاه‌سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Mindoronkukaali"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucal de Steere"
+      },
+      {
+        "lang": "hu",
+        "name": "Mindorói bozótkakukk"
+      },
+      {
+        "lang": "nl",
+        "name": "Mindorospoorkoekoek"
+      },
+      {
+        "lang": "sv",
+        "name": "mindorosporrgök"
+      },
+      {
+        "lang": "vi",
+        "name": "Bìm bịp mào đen"
+      },
+      {
+        "lang": "zh",
+        "name": "菲律賓鴉鵑"
       }
     ]
   },
@@ -138,6 +190,20 @@
         "synonyms": [
           "นกกดเพลิง"
         ]
+      },
+      {
+        "lang": "ta",
+        "name": "செம்பகம்",
+        "synonyms": [
+          "செங்காகம்"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Greater coucal",
+        "synonyms": [
+          "crow pheasant"
+        ]
       }
     ]
   },
@@ -151,6 +217,10 @@
       {
         "lang": "en",
         "name": "Senegal Coucal"
+      },
+      {
+        "lang": "eo",
+        "name": "Senegala kukolo"
       },
       {
         "lang": "es",
@@ -209,6 +279,10 @@
       {
         "lang": "tr",
         "name": "Sülün kukalı"
+      },
+      {
+        "lang": "nl",
+        "name": "Fazantspoorkoekoek"
       }
     ]
   },
@@ -388,6 +462,14 @@
     "scientific_name": "Centropus cupreicaudus",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Grootvleiloerie"
+      },
+      {
+        "lang": "en",
+        "name": "Coppery-tailed coucal"
+      },
+      {
         "lang": "cs",
         "name": "Kukačka měděná"
       },
@@ -487,6 +569,34 @@
       {
         "lang": "tr",
         "name": "Küçük kara kukal"
+      },
+      {
+        "lang": "ar",
+        "name": "كوكال أسود صغير"
+      },
+      {
+        "lang": "ca",
+        "name": "Cucal negre petit"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwcal Bernstein"
+      },
+      {
+        "lang": "de",
+        "name": "Bernsteinkuckuck"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketecsőrű bozótkakukk"
+      },
+      {
+        "lang": "nl",
+        "name": "Bernsteins spoorkoekoek"
+      },
+      {
+        "lang": "sv",
+        "name": "mindre svartsporrgök"
       }
     ]
   },

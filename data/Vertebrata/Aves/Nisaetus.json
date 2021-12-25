@@ -1,5 +1,42 @@
 [
   {
+    "scientific_name": "Nisaetus pinskeri",
+    "common_names": [
+      {
+        "lang": "nl",
+        "name": "Zuid-Filipijnse kuifarend"
+      },
+      {
+        "lang": "ar",
+        "name": "أفياء بنسكر"
+      },
+      {
+        "lang": "ca",
+        "name": "Àguila de Pinsker"
+      },
+      {
+        "lang": "de",
+        "name": "Mindanaohaubenadler"
+      },
+      {
+        "lang": "en",
+        "name": "Pinsker's hawk-eagle"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigle de Pinsker"
+      },
+      {
+        "lang": "pl",
+        "name": "Wojownik leśny"
+      },
+      {
+        "lang": "sv",
+        "name": "pinskerhökörn"
+      }
+    ]
+  },
+  {
     "scientific_name": "Nisaetus philippensis",
     "common_names": [
       {
@@ -185,6 +222,10 @@
         "name": "Wojownik mały"
       },
       {
+        "lang": "sv",
+        "name": "wallacehökörn"
+      },
+      {
         "lang": "zh",
         "name": "小鹰鵰"
       }
@@ -229,6 +270,26 @@
       {
         "lang": "id",
         "name": "Elang Flores"
+      },
+      {
+        "lang": "ca",
+        "name": "Àguila de Flores"
+      },
+      {
+        "lang": "eo",
+        "name": "Floresa akcipitraglo"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigle de Florès"
+      },
+      {
+        "lang": "nl",
+        "name": "Floreskuifarend"
+      },
+      {
+        "lang": "sv",
+        "name": "floreshökörn"
       }
     ]
   },
@@ -272,8 +333,60 @@
     "scientific_name": "Nisaetus bartelsi",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Явански ястребов орел"
+      },
+      {
+        "lang": "ca",
+        "name": "Àguila de Java"
+      },
+      {
         "lang": "cs",
-        "name": "Orel jávský"
+        "name": "Orel jávskýcy"
+      },
+      {
+        "lang": "eo",
+        "name": "Java akcipitraglo"
+      },
+      {
+        "lang": "fi",
+        "name": "Jaavanjalokotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigle de Java"
+      },
+      {
+        "lang": "jv",
+        "name": "Wulung jawa"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaanse kuifarend"
+      },
+      {
+        "lang": "pl",
+        "name": "Wojownik jawajski"
+      },
+      {
+        "lang": "simple",
+        "name": "Javan hawk-eagle"
+      },
+      {
+        "lang": "su",
+        "name": "Heulang jawa"
+      },
+      {
+        "lang": "sv",
+        "name": "javahökörn"
+      },
+      {
+        "lang": "vi",
+        "name": "Diều Java"
+      },
+      {
+        "lang": "zh",
+        "name": "爪哇鷹鵰"
       },
       {
         "lang": "en",
@@ -288,12 +401,8 @@
         "name": "ジャワクマタカ"
       },
       {
-        "lang": "pl",
-        "name": "Wojownik jamajski"
-      },
-      {
         "lang": "id",
-        "name": "Elang Jawa"
+        "name": "Elang jawa"
       }
     ]
   },

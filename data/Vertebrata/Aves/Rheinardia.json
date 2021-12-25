@@ -44,7 +44,7 @@
       },
       {
         "lang": "nl",
-        "name": "Gekuifde argusfazant"
+        "name": "Vietnamese gekuifde argusfazant"
       },
       {
         "lang": "pnb",
@@ -82,6 +82,19 @@
   },
   {
     "scientific_name": "Rheinardia nigrescens",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Malaysian Crested Argus"
+      },
+      {
+        "lang": "nl",
+        "name": "Maleise gekuifde argusfazant"
+      },
+      {
+        "lang": "sv",
+        "name": "tofsargus"
+      }
+    ]
   }
 ]

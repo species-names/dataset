@@ -44,6 +44,10 @@
     "scientific_name": "Phoebetria fusca",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Bruinalbatros"
+      },
+      {
         "lang": "de",
         "name": "Dunkelalbatros"
       },
@@ -68,6 +72,10 @@
         "name": "Füstös albatrosz"
       },
       {
+        "lang": "nl",
+        "name": "Zwarte albatros"
+      },
+      {
         "lang": "nn",
         "name": "Sotalbatross"
       },
@@ -78,10 +86,6 @@
       {
         "lang": "tr",
         "name": "İsli albatros"
-      },
-      {
-        "lang": "af",
-        "name": "Bruinalbatros"
       }
     ]
   }

@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Turdus xanthorhynchus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Turdus smithi",
     "common_names": []
   },
@@ -12,27 +8,48 @@
     "common_names": []
   },
   {
-    "scientific_name": "Turdus ludoviciae",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Turdus helleri",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Turdus daguae",
-    "common_names": []
+    "scientific_name": "Turdus xanthorhynchus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Príncipe-Drossel"
+      },
+      {
+        "lang": "en",
+        "name": "Príncipe thrush"
+      },
+      {
+        "lang": "hu",
+        "name": "Princípe-szigeti rigó"
+      },
+      {
+        "lang": "nl",
+        "name": "Principelijster"
+      },
+      {
+        "lang": "no",
+        "name": "Principetrost"
+      },
+      {
+        "lang": "pt",
+        "name": "Tordo-do-Príncipe"
+      },
+      {
+        "lang": "sv ",
+        "name": "príncipetrast"
+      }
+    ]
   },
   {
     "scientific_name": "Turdus viscivorus",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "БзуупцӀэкъуэлэн"
-      },
-      {
         "lang": "als",
         "name": "Misteldrossel"
+      },
+      {
+        "lang": "an",
+        "name": "Charlo"
       },
       {
         "lang": "ar",
@@ -63,12 +80,16 @@
         "name": "Griva"
       },
       {
+        "lang": "co",
+        "name": "Trizina"
+      },
+      {
         "lang": "cs",
         "name": "Drozd brávník"
       },
       {
-        "lang": "co",
-        "name": "Trizina"
+        "lang": "cv",
+        "name": "Пысăк сĕлхе"
       },
       {
         "lang": "cy",
@@ -83,24 +104,36 @@
         "name": "Misteldrossel"
       },
       {
+        "lang": "el",
+        "name": "Τσαρτσάρα"
+      },
+      {
         "lang": "en",
         "name": "Mistle Thrush"
-      },
-      {
-        "lang": "et",
-        "name": "Hoburästas"
-      },
-      {
-        "lang": "es",
-        "name": "Zorzal charlo"
       },
       {
         "lang": "eo",
         "name": "Viskoturdo"
       },
       {
+        "lang": "es",
+        "name": "Zorzal charlo"
+      },
+      {
+        "lang": "et",
+        "name": "Hoburästas"
+      },
+      {
         "lang": "eu",
         "name": "Garraztarro"
+      },
+      {
+        "lang": "fa",
+        "name": "توکای بزرگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Kulorastas"
       },
       {
         "lang": "fo",
@@ -111,6 +144,22 @@
         "name": "Grive draine"
       },
       {
+        "lang": "ga",
+        "name": "Smólach mór"
+      },
+      {
+        "lang": "gl",
+        "name": "Tordo charlo"
+      },
+      {
+        "lang": "he",
+        "name": "קיכלי גדול"
+      },
+      {
+        "lang": "hu",
+        "name": "Léprigó"
+      },
+      {
         "lang": "hy",
         "name": "Սոսնձակեռնեխ"
       },
@@ -119,20 +168,36 @@
         "name": "Tordela"
       },
       {
+        "lang": "ja",
+        "name": "ヤドリギツグミ"
+      },
+      {
         "lang": "ka",
         "name": "ჩხართვი"
+      },
+      {
+        "lang": "kbd",
+        "name": "БзуупцӀэкъуэлэн"
       },
       {
         "lang": "kk",
         "name": "Қылғытпа сайрақ"
       },
       {
+        "lang": "ky",
+        "name": "Боз таркылдак"
+      },
+      {
         "lang": "lt",
         "name": "Amalinis strazdas"
       },
       {
-        "lang": "hu",
-        "name": "Léprigó"
+        "lang": "lv",
+        "name": "Sila strazds"
+      },
+      {
+        "lang": "mk",
+        "name": "Имеличар"
       },
       {
         "lang": "mn",
@@ -143,24 +208,32 @@
         "name": "Tordela"
       },
       {
-        "lang": "nl",
-        "name": "Grote lijster"
+        "lang": "myv",
+        "name": "Вирень тырдаз"
       },
       {
         "lang": "nds-nl",
         "name": "Dubbele liester"
       },
       {
-        "lang": "ja",
-        "name": "ヤドリギツグミ"
+        "lang": "ne",
+        "name": "हड्चुर चाँचर"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote lijster"
+      },
+      {
+        "lang": "nn",
+        "name": "Duetrast"
       },
       {
         "lang": "no",
         "name": "Duetrost"
       },
       {
-        "lang": "nn",
-        "name": "Duetrast"
+        "lang": "olo",
+        "name": "Kuloračoi"
       },
       {
         "lang": "pl",
@@ -168,18 +241,14 @@
       },
       {
         "lang": "pt",
-        "name": "Tordoveia",
-        "synonyms": [
-          "Tordela",
-          "Tordeia"
-        ]
-      },
-      {
-        "lang": "rue",
-        "name": "Деряба"
+        "name": "Tordoveia"
       },
       {
         "lang": "ru",
+        "name": "Деряба"
+      },
+      {
+        "lang": "rue",
         "name": "Деряба"
       },
       {
@@ -191,16 +260,20 @@
         "name": "Carar"
       },
       {
-        "lang": "fi",
-        "name": "Kulorastas"
-      },
-      {
         "lang": "sv",
         "name": "Dubbeltrast"
       },
       {
         "lang": "tr",
         "name": "Ökse ardıç kuşu"
+      },
+      {
+        "lang": "tt",
+        "name": "Баркылдык"
+      },
+      {
+        "lang": "uk",
+        "name": "Дрізд-омелюх"
       },
       {
         "lang": "zh",
@@ -222,6 +295,58 @@
       {
         "lang": "fi",
         "name": "Intianrastas"
+      },
+      {
+        "lang": "bg",
+        "name": "Едноцветен дрозд"
+      },
+      {
+        "lang": "bn",
+        "name": "টিকেলের দামা"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych Tickell"
+      },
+      {
+        "lang": "eo",
+        "name": "Unukolora turdo"
+      },
+      {
+        "lang": "fa",
+        "name": "توکای تک‌رنگ"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle unicolore"
+      },
+      {
+        "lang": "hu",
+        "name": "Egyszínű rigó"
+      },
+      {
+        "lang": "mr",
+        "name": "टिकेलची कस्तुरिका"
+      },
+      {
+        "lang": "ne",
+        "name": "फुस्रे चाँचर"
+      },
+      {
+        "lang": "nl",
+        "name": "Tickells lijster"
+      },
+      {
+        "lang": "no",
+        "name": "Himalayatrost"
+      },
+      {
+        "lang": "ru",
+        "name": "Одноцветный дрозд"
+      },
+      {
+        "lang": "sv",
+        "name": "gråtrast"
       }
     ]
   },
@@ -440,6 +565,38 @@
       {
         "lang": "en",
         "name": "La Selle Thrush"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych La Selle"
+      },
+      {
+        "lang": "fi",
+        "name": "Haitinrastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle de La Selle"
+      },
+      {
+        "lang": "hu",
+        "name": "Haiti rigó"
+      },
+      {
+        "lang": "nl",
+        "name": "Haïtilijster"
+      },
+      {
+        "lang": "no",
+        "name": "Hispaniolatrost"
+      },
+      {
+        "lang": "ru",
+        "name": "Гаитийский дрозд"
+      },
+      {
+        "lang": "sv",
+        "name": "hispaniolatrast"
       }
     ]
   },
@@ -539,6 +696,10 @@
         "name": "Rufous-bellied Thrush"
       },
       {
+        "lang": "pl",
+        "name": "Drozd rudobrzuchy"
+      },
+      {
         "lang": "pt",
         "name": "Sabiá-laranjeira"
       }
@@ -620,7 +781,68 @@
   },
   {
     "scientific_name": "Turdus rubrocanus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Malvís castañu"
+      },
+      {
+        "lang": "az",
+        "name": "Şabalıdı qaratoyuq"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych penllwyd"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut Thrush"
+      },
+      {
+        "lang": "es",
+        "name": "Zorzal castaño"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaahuppurastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle à tête grise"
+      },
+      {
+        "lang": "hu",
+        "name": "Gesztenyebarna rigó"
+      },
+      {
+        "lang": "ks",
+        "name": "وَن کۆستوٗر"
+      },
+      {
+        "lang": "ne",
+        "name": "कैले चाँचर"
+      },
+      {
+        "lang": "nl",
+        "name": "Kastanjelijster"
+      },
+      {
+        "lang": "no",
+        "name": "Kastanjetrost"
+      },
+      {
+        "lang": "sv",
+        "name": "Kastanjetrast"
+      },
+      {
+        "lang": "vi",
+        "name": "Hoét hung"
+      },
+      {
+        "lang": "zh",
+        "name": "灰头鸫"
+      }
+    ]
   },
   {
     "scientific_name": "Turdus reevei",
@@ -628,7 +850,60 @@
   },
   {
     "scientific_name": "Turdus ravidus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Böyük Kayman qaratoyuğu"
+      },
+      {
+        "lang": "ca",
+        "name": "Tord de l'illa de Grand Cayman"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych Grand Cayman"
+      },
+      {
+        "lang": "de",
+        "name": "Rotaugendrossel"
+      },
+      {
+        "lang": "en",
+        "name": "Grand Cayman thrush"
+      },
+      {
+        "lang": "fi",
+        "name": "Caymaninrastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle de Grande Caïman"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürke rigó"
+      },
+      {
+        "lang": "nl",
+        "name": "Grand-Caymanlijster"
+      },
+      {
+        "lang": "no",
+        "name": "Caymantrost"
+      },
+      {
+        "lang": "pl",
+        "name": "Drozd reliktowy"
+      },
+      {
+        "lang": "sv",
+        "name": "caymantrast"
+      },
+      {
+        "lang": "zh",
+        "name": "大開曼鶇"
+      }
+    ]
   },
   {
     "scientific_name": "Turdus poliocephalus",
@@ -643,7 +918,7 @@
       },
       {
         "lang": "cs",
-        "name": "drozd rudonohý"
+        "name": "Drozd rudonohý"
       },
       {
         "lang": "da",
@@ -663,11 +938,11 @@
       },
       {
         "lang": "et",
-        "name": "punajalg-rästas"
+        "name": "Punajalg-rästas"
       },
       {
         "lang": "fi",
-        "name": "antillienrastas"
+        "name": "Antillienrastas"
       },
       {
         "lang": "fr",
@@ -683,7 +958,7 @@
       },
       {
         "lang": "hu",
-        "name": "vöröslábú rigó"
+        "name": "Vöröslábú rigó"
       },
       {
         "lang": "it",
@@ -706,7 +981,7 @@
       },
       {
         "lang": "pl",
-        "name": "drozd karaibski"
+        "name": "Drozd karaibski"
       },
       {
         "lang": "ru",
@@ -714,7 +989,7 @@
       },
       {
         "lang": "sk",
-        "name": "drozd bielobradý"
+        "name": "Drozd bielobradý"
       },
       {
         "lang": "sv",
@@ -731,7 +1006,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "drozd středoamerický"
+        "name": "Drozd středoamerický"
       },
       {
         "lang": "da",
@@ -755,11 +1030,11 @@
       },
       {
         "lang": "et",
-        "name": "udumetsa-rästas"
+        "name": "Udumetsa-rästas"
       },
       {
         "lang": "fi",
-        "name": "pilvimetsärastas"
+        "name": "Pilvimetsärastas"
       },
       {
         "lang": "fr",
@@ -767,7 +1042,7 @@
       },
       {
         "lang": "hu",
-        "name": "hegyi rigó"
+        "name": "Hegyi rigó"
       },
       {
         "lang": "it",
@@ -790,7 +1065,7 @@
       },
       {
         "lang": "pl",
-        "name": "drozd górski"
+        "name": "Drozd górski"
       },
       {
         "lang": "ru",
@@ -798,7 +1073,7 @@
       },
       {
         "lang": "sk",
-        "name": "drozd vrchovský"
+        "name": "Drozd vrchovský"
       },
       {
         "lang": "sv",
@@ -1034,6 +1309,10 @@
         "name": "Oxuyan qaratoyuq"
       },
       {
+        "lang": "ba",
+        "name": "Йырсы барҡылдаҡ"
+      },
+      {
         "lang": "bar",
         "name": "Kranewitter"
       },
@@ -1083,7 +1362,7 @@
       },
       {
         "lang": "el",
-        "name": "Τσίχλα"
+        "name": "Κελαηδότσιχλα"
       },
       {
         "lang": "en",
@@ -1146,6 +1425,10 @@
         "name": "Երգող կեռնեխ"
       },
       {
+        "lang": "is",
+        "name": "Söngþröstur"
+      },
+      {
         "lang": "it",
         "name": "Tordo bottaccio"
       },
@@ -1154,8 +1437,16 @@
         "name": "ウタツグミ"
       },
       {
+        "lang": "ka",
+        "name": "ჯიჯღი"
+      },
+      {
         "lang": "kbd",
         "name": "Бзуущхъуэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Әуезшіл сайрақ"
       },
       {
         "lang": "lt",
@@ -1190,6 +1481,10 @@
         "name": "Måltrost"
       },
       {
+        "lang": "olo",
+        "name": "Haugiračoi"
+      },
+      {
         "lang": "pcd",
         "name": "Lutrogne"
       },
@@ -1200,6 +1495,10 @@
       {
         "lang": "pt",
         "name": "Tordo-comum"
+      },
+      {
+        "lang": "ro",
+        "name": "Sturz cântător"
       },
       {
         "lang": "ru",
@@ -1224,6 +1523,10 @@
       {
         "lang": "sl",
         "name": "Cikovt"
+      },
+      {
+        "lang": "sr",
+        "name": "Дрозд певач"
       },
       {
         "lang": "sv",
@@ -1261,12 +1564,12 @@
       {
         "lang": "ja",
         "name": "シロハラ"
+      },
+      {
+        "lang": "ko",
+        "name": "흰배지빠귀"
       }
     ]
-  },
-  {
-    "scientific_name": "Turdus orpheus",
-    "common_names": []
   },
   {
     "scientific_name": "Turdus olivater",
@@ -1315,7 +1618,36 @@
   },
   {
     "scientific_name": "Turdus olivaceofuscus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "São Tomé thrush"
+      },
+      {
+        "lang": "fi",
+        "name": "Sãotoménrastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle de Sao Tomé"
+      },
+      {
+        "lang": "hu",
+        "name": "São Tomé-i rigó"
+      },
+      {
+        "lang": "nl",
+        "name": "Sãotomélijster"
+      },
+      {
+        "lang": "no",
+        "name": "oliventrost"
+      },
+      {
+        "lang": "sv",
+        "name": "sãotométrast"
+      }
+    ]
   },
   {
     "scientific_name": "Turdus obsoletus",
@@ -1349,7 +1681,12 @@
   },
   {
     "scientific_name": "Turdus nigrescens",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sooty Thrush"
+      }
+    ]
   },
   {
     "scientific_name": "Turdus naumanni",
@@ -1373,6 +1710,15 @@
       {
         "lang": "zh",
         "name": "斑鶇"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turdus murinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pantepui Thrush"
       }
     ]
   },
@@ -1654,7 +2000,10 @@
       },
       {
         "lang": "it",
-        "name": "Merlo"
+        "name": "Merlo",
+        "synonyms": [
+          "Merlo nero"
+        ]
       },
       {
         "lang": "ja",
@@ -1876,7 +2225,44 @@
   },
   {
     "scientific_name": "Turdus menachensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "nl",
+        "name": "Jemenlijster"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych Yemen"
+      },
+      {
+        "lang": "en",
+        "name": "Yemen thrush"
+      },
+      {
+        "lang": "fi",
+        "name": "Jemeninrastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle du Yémen"
+      },
+      {
+        "lang": "hu",
+        "name": "Jemeni rigó"
+      },
+      {
+        "lang": "no",
+        "name": "asirtrost"
+      },
+      {
+        "lang": "sv",
+        "name": "jementrast"
+      },
+      {
+        "lang": "zh",
+        "name": "葉門鶇"
+      }
+    ]
   },
   {
     "scientific_name": "Turdus maximus",
@@ -1904,8 +2290,62 @@
     "common_names": []
   },
   {
+    "scientific_name": "Turdus mandarinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chinese Blackbird"
+      }
+    ]
+  },
+  {
     "scientific_name": "Turdus maculirostris",
     "common_names": []
+  },
+  {
+    "scientific_name": "Turdus ludoviciae",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Somali qaratoyuğu"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych Somalia"
+      },
+      {
+        "lang": "de",
+        "name": "Somalidrossel"
+      },
+      {
+        "lang": "en",
+        "name": "Somali thrush"
+      },
+      {
+        "lang": "eo",
+        "name": "Somala turdo"
+      },
+      {
+        "lang": "es",
+        "name": "zorzal somalí"
+      },
+      {
+        "lang": "fi",
+        "name": "Somalianrastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle de Somalie"
+      },
+      {
+        "lang": "nl",
+        "name": "Somalische lijster"
+      },
+      {
+        "lang": "sv",
+        "name": "somaliatrast"
+      }
+    ]
   },
   {
     "scientific_name": "Turdus litsitsirupa",
@@ -2040,10 +2480,7 @@
       },
       {
         "lang": "pt",
-        "name": "Sabiá-barranco",
-        "synonyms": [
-          "Carachué"
-        ]
+        "name": "Sabiá-barranco"
       },
       {
         "lang": "ru",
@@ -2080,16 +2517,20 @@
     "scientific_name": "Turdus iliacus",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "Бзуущхъуэнабдзэху"
-      },
-      {
         "lang": "ar",
         "name": "سمنة حمراء الجناح"
       },
       {
+        "lang": "ast",
+        "name": "Malvís gallegu"
+      },
+      {
         "lang": "ba",
         "name": "Ҡыҙылбауыр барҡылдаҡ"
+      },
+      {
+        "lang": "be",
+        "name": "Белабровы дрозд"
       },
       {
         "lang": "bg",
@@ -2109,7 +2550,7 @@
       },
       {
         "lang": "cy",
-        "name": "Coch Dan-aden"
+        "name": "Coch dan adain"
       },
       {
         "lang": "da",
@@ -2120,27 +2561,32 @@
         "name": "Rotdrossel"
       },
       {
+        "lang": "el",
+        "name": "Κοκκινότσιχλα"
+      },
+      {
         "lang": "en",
         "name": "Redwing"
-      },
-      {
-        "lang": "et",
-        "name": "Vainurästas"
-      },
-      {
-        "lang": "es",
-        "name": "Malviz",
-        "synonyms": [
-          "Malvís"
-        ]
       },
       {
         "lang": "eo",
         "name": "Ruĝaksela turdo"
       },
       {
+        "lang": "es",
+        "name": "Zorzal alirrojo"
+      },
+      {
+        "lang": "et",
+        "name": "Vainurästas"
+      },
+      {
         "lang": "eu",
-        "name": "Birigarro txiki"
+        "name": "Birigarro hegal gorri"
+      },
+      {
+        "lang": "fa",
+        "name": "سرخ‌بال"
       },
       {
         "lang": "fi",
@@ -2159,8 +2605,20 @@
         "name": "Deargán sneachta"
       },
       {
+        "lang": "he",
+        "name": "קיכלי לבן גבות"
+      },
+      {
+        "lang": "hr",
+        "name": "Drozd gitkavac"
+      },
+      {
+        "lang": "hu",
+        "name": "Szőlőrigó"
+      },
+      {
         "lang": "hy",
-        "name": "Կեռնեխ սպիտակահոնք"
+        "name": "Սպիտակահոնք կեռնեխ"
       },
       {
         "lang": "is",
@@ -2171,8 +2629,20 @@
         "name": "Tordo sassello"
       },
       {
+        "lang": "ja",
+        "name": "ワキアカツグミ"
+      },
+      {
+        "lang": "ka",
+        "name": "თეთრწარბა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Бзуущхъуэнабдзэху"
+      },
+      {
         "lang": "kk",
-        "name": "Аққабақ"
+        "name": "Аққабақ сайрақ"
       },
       {
         "lang": "lt",
@@ -2183,32 +2653,28 @@
         "name": "Plukšķis"
       },
       {
-        "lang": "hu",
-        "name": "Szőlőrigó"
-      },
-      {
-        "lang": "nl",
-        "name": "Koperwiek"
-      },
-      {
-        "lang": "nds-nl",
-        "name": "Schatliester (Turdus iliacus)"
-      },
-      {
-        "lang": "ja",
-        "name": "ワキアカツグミ"
+        "lang": "mk",
+        "name": "Црвен дрозд"
       },
       {
         "lang": "nap",
         "name": "Marvizzo"
       },
       {
-        "lang": "no",
-        "name": "Rødvingetrost"
+        "lang": "nds-nl",
+        "name": "Schatliester"
+      },
+      {
+        "lang": "nl",
+        "name": "Koperwiek"
       },
       {
         "lang": "nn",
         "name": "Raudvengtrast"
+      },
+      {
+        "lang": "no",
+        "name": "Rødvingetrost"
       },
       {
         "lang": "pl",
@@ -2219,16 +2685,36 @@
         "name": "Tordo-ruivo"
       },
       {
-        "lang": "rue",
-        "name": "Дрозд виноградник"
-      },
-      {
         "lang": "ru",
         "name": "Белобровик"
       },
       {
+        "lang": "rue",
+        "name": "Дрозд виноградник"
+      },
+      {
         "lang": "sah",
         "name": "Өрүөстээх чаччыгыныар"
+      },
+      {
+        "lang": "se",
+        "name": "Ruksessoadjá"
+      },
+      {
+        "lang": "sk",
+        "name": "Drozd červenkastý"
+      },
+      {
+        "lang": "sl",
+        "name": "Vinski drozg"
+      },
+      {
+        "lang": "sq",
+        "name": "Tusha vetullbardhë"
+      },
+      {
+        "lang": "sr",
+        "name": "Mali drozd"
       },
       {
         "lang": "sv",
@@ -2237,6 +2723,14 @@
       {
         "lang": "tr",
         "name": "Kızıl ardıç kuşu"
+      },
+      {
+        "lang": "tt",
+        "name": "Ак кашлы баркылдык"
+      },
+      {
+        "lang": "uk",
+        "name": "Дрізд білобровий"
       },
       {
         "lang": "vec",
@@ -2279,11 +2773,64 @@
     ]
   },
   {
+    "scientific_name": "Turdus helleri",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Brych Taita"
+      },
+      {
+        "lang": "de",
+        "name": "Taita-Drossel"
+      },
+      {
+        "lang": "en",
+        "name": "Taita thrush"
+      },
+      {
+        "lang": "eo",
+        "name": "Kenja turdo"
+      },
+      {
+        "lang": "fi",
+        "name": "Taitanrastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle des Teita"
+      },
+      {
+        "lang": "nl",
+        "name": "Taitalijster"
+      },
+      {
+        "lang": "pl",
+        "name": "Drozd białobrzuchy"
+      },
+      {
+        "lang": "sv",
+        "name": "taitatrast"
+      },
+      {
+        "lang": "zh",
+        "name": "泰塔鶇"
+      }
+    ]
+  },
+  {
     "scientific_name": "Turdus hauxwelli",
     "common_names": [
       {
         "lang": "en",
         "name": "Hauxwell's Thrush"
+      },
+      {
+        "lang": "es",
+        "name": "Zorzal de Hauxwell"
+      },
+      {
+        "lang": "pt",
+        "name": "sabiá-bicolor"
       }
     ]
   },
@@ -2293,6 +2840,34 @@
       {
         "lang": "en",
         "name": "Unicoloured Thrush"
+      },
+      {
+        "lang": "es",
+        "name": "tordo unicolor"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych unlliw"
+      },
+      {
+        "lang": "fi",
+        "name": "Bolivianrastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle de Bolivie"
+      },
+      {
+        "lang": "nl",
+        "name": "Palmaritolijster"
+      },
+      {
+        "lang": "no",
+        "name": "Terrakottatrost"
+      },
+      {
+        "lang": "sv",
+        "name": "boliviatrast"
       }
     ]
   },
@@ -2339,7 +2914,7 @@
       },
       {
         "lang": "hu",
-        "name": "agyagszínű rigó"
+        "name": "Agyagszínű rigó"
       },
       {
         "lang": "it",
@@ -2366,7 +2941,7 @@
       },
       {
         "lang": "pl",
-        "name": "drozd brazowawy"
+        "name": "Drozd brazowawy"
       },
       {
         "lang": "ru",
@@ -2374,7 +2949,7 @@
       },
       {
         "lang": "sk",
-        "name": "drozd Grayov"
+        "name": "Drozd Grayov"
       },
       {
         "lang": "sv",
@@ -2392,6 +2967,10 @@
       {
         "lang": "en",
         "name": "Great Thrush"
+      },
+      {
+        "lang": "es",
+        "name": "Mirla Patinaranja"
       }
     ]
   },
@@ -2454,16 +3033,64 @@
     "scientific_name": "Turdus falcklandii",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Drozd falklandský"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych Magellan"
+      },
+      {
+        "lang": "da",
+        "name": "Syddrossel"
+      },
+      {
+        "lang": "de",
+        "name": "Magellandrossel"
+      },
+      {
         "lang": "en",
         "name": "Austral Thrush"
       },
       {
         "lang": "es",
-        "name": "zorzal"
+        "name": "Zorzal Patagón"
       },
       {
         "lang": "fi",
         "name": "Patagonianrastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle austral"
+      },
+      {
+        "lang": "it",
+        "name": "Tordo australe"
+      },
+      {
+        "lang": "ja",
+        "name": "フォークランドツグミ"
+      },
+      {
+        "lang": "nl",
+        "name": "Magelhaenlijster"
+      },
+      {
+        "lang": "no",
+        "name": "Umbratrost"
+      },
+      {
+        "lang": "ru",
+        "name": "Магелланов дрозд"
+      },
+      {
+        "lang": "pl",
+        "name": "Drozd malwiński"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydtrast"
       }
     ]
   },
@@ -2493,6 +3120,10 @@
       {
         "lang": "fi",
         "name": "Ruostesiipirastas"
+      },
+      {
+        "lang": "pt",
+        "name": "Tordo-de-coleira-preta"
       }
     ]
   },
@@ -2513,7 +3144,7 @@
       },
       {
         "lang": "it",
-        "name": "tordo delle Tristan"
+        "name": "Tordo delle Tristan"
       }
     ]
   },
@@ -2523,6 +3154,15 @@
       {
         "lang": "en",
         "name": "Black-breasted Thrush"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turdus daguae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dagua Thrush"
       }
     ]
   },
@@ -2566,6 +3206,38 @@
       {
         "lang": "ja",
         "name": "アカコッコ"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych Ynys Izu"
+      },
+      {
+        "lang": "de",
+        "name": "Kurodadrossel"
+      },
+      {
+        "lang": "fi",
+        "name": "Japaninhuppurastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Merle des Izu"
+      },
+      {
+        "lang": "nl",
+        "name": "Izulijster"
+      },
+      {
+        "lang": "no",
+        "name": "izutrost"
+      },
+      {
+        "lang": "sv",
+        "name": "izutrast"
+      },
+      {
+        "lang": "zh",
+        "name": "伊豆鶇"
       }
     ]
   },
@@ -2658,11 +3330,11 @@
       },
       {
         "lang": "no",
-        "name": "Svartstrupetrost"
+        "name": "svartstrupetrost"
       },
       {
         "lang": "sv",
-        "name": "Svarthalsad trast"
+        "name": "svarthalsad trast"
       },
       {
         "lang": "tr",
@@ -2675,7 +3347,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "drozd náhorní"
+        "name": "Drozd náhorní"
       },
       {
         "lang": "da",
@@ -2695,7 +3367,7 @@
       },
       {
         "lang": "fi",
-        "name": "lavertajarastas"
+        "name": "Lavertajarastas"
       },
       {
         "lang": "fr",
@@ -2703,7 +3375,7 @@
       },
       {
         "lang": "hu",
-        "name": "fehértorkú rigó"
+        "name": "Fehértorkú rigó"
       },
       {
         "lang": "it",
@@ -2726,7 +3398,7 @@
       },
       {
         "lang": "pl",
-        "name": "drozd białogardły"
+        "name": "Drozd białogardły"
       },
       {
         "lang": "ru",
@@ -2734,7 +3406,7 @@
       },
       {
         "lang": "sk",
-        "name": "drozd bielohrdlý"
+        "name": "Drozd bielohrdlý"
       },
       {
         "lang": "sv",
@@ -2743,6 +3415,19 @@
       {
         "lang": "zh",
         "name": "白喉鸫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Turdus arthuri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Campina Thrush"
+      },
+      {
+        "lang": "es",
+        "name": "Zorzal piquinegro guayanés"
       }
     ]
   },
@@ -2798,6 +3483,10 @@
       {
         "lang": "en",
         "name": "Abyssinian Thrush"
+      },
+      {
+        "lang": "eo",
+        "name": "Turdo abisenia"
       },
       {
         "lang": "fr",

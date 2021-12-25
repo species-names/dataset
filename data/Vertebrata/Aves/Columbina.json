@@ -3,8 +3,16 @@
     "scientific_name": "Columbina talpacoti",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Tórtora terrestre rogenca"
+      },
+      {
         "lang": "cs",
-        "name": "holoubek skořicový"
+        "name": "Holoubek skořicový"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ddaear goch"
       },
       {
         "lang": "da",
@@ -16,15 +24,23 @@
       },
       {
         "lang": "en",
-        "name": "Ruddy Ground-Dove"
+        "name": "Ruddy Ground Dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝeca grundokolombo"
       },
       {
         "lang": "es",
-        "name": "Columbina Colorada"
+        "name": "Columbina colorada"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر خاکی گلگون"
       },
       {
         "lang": "fi",
-        "name": "kastanjavarpuskyyhky"
+        "name": "Kastanjavarpuskyyhky"
       },
       {
         "lang": "fr",
@@ -36,10 +52,11 @@
       },
       {
         "lang": "ja",
-        "name": "ケアシスズメバト",
-        "synonyms": [
-          "keashisuzumebato"
-        ]
+        "name": "ケアシスズメバト"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹрӓн рок тыргӓдӹ"
       },
       {
         "lang": "nl",
@@ -50,20 +67,24 @@
         "name": "Kaneldue"
       },
       {
+        "lang": "nv",
+        "name": "Shádiʼááhdę́ę́ʼ hasbídí yázhí łichíʼígíí"
+      },
+      {
         "lang": "pl",
-        "name": "gołąbeczek cynamonowy"
+        "name": "Gołąbeczek cynamonowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "کولمبینا ٹالپاکوٹی"
+      },
+      {
+        "lang": "pt",
+        "name": "Rolinha-roxa"
       },
       {
         "lang": "pt-br",
         "name": "Rolinha-roxa"
-      },
-      {
-        "lang": "pt",
-        "name": "Rolinha-roxa",
-        "synonyms": [
-          "Rolinha",
-          "Rola-roxa"
-        ]
       },
       {
         "lang": "ru",
@@ -71,11 +92,15 @@
       },
       {
         "lang": "sk",
-        "name": "dudlavec škoricový"
+        "name": "Dudlavec škoricový"
       },
       {
         "lang": "sv",
         "name": "Rostmarkduva"
+      },
+      {
+        "lang": "vi",
+        "name": "Cu đất hung"
       },
       {
         "lang": "zh",
@@ -87,6 +112,18 @@
     "scientific_name": "Columbina squammata",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Tortoreta escatosa"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur gennog"
+      },
+      {
+        "lang": "de",
+        "name": "Schuppentäubchen"
+      },
+      {
         "lang": "en",
         "name": "Scaled Dove"
       },
@@ -95,21 +132,69 @@
         "name": "Skvamokolombo"
       },
       {
+        "lang": "es",
+        "name": "Tortolita escamosa"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر فلس‌دار"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe écaillée"
+      },
+      {
         "lang": "ja",
         "name": "サザナミインカバト"
       },
       {
+        "lang": "mrj",
+        "name": "Сӱмӓн рок тыргӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zuid-Amerikaanse Incaduif"
+      },
+      {
+        "lang": "nv",
+        "name": "Shádiʼááhdę́ę́ʼ hasbídí yázhí yistłʼinígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "چانیاںوالی کگی"
+      },
+      {
         "lang": "pt",
         "name": "Fogo-apagou"
+      },
+      {
+        "lang": "sv",
+        "name": "Fjällig sparvduva"
       }
     ]
+  },
+  {
+    "scientific_name": "Columbina picui strepitans",
+    "common_names": []
   },
   {
     "scientific_name": "Columbina picui",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Tórtora terrestre picuí"
+      },
+      {
         "lang": "cs",
         "name": "Holoubek pikui"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur Picui"
+      },
+      {
+        "lang": "de",
+        "name": "Picuitäubchen"
       },
       {
         "lang": "en",
@@ -118,6 +203,42 @@
       {
         "lang": "es",
         "name": "Torcacita"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر خاکی پیکوئی"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe picui"
+      },
+      {
+        "lang": "gn",
+        "name": "Pyku'i"
+      },
+      {
+        "lang": "hu",
+        "name": "Picui galambocska"
+      },
+      {
+        "lang": "mrj",
+        "name": "Луды сӹнзӓӓн рок тыргӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Picuiduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "کولمبینا پکوی"
+      },
+      {
+        "lang": "pt",
+        "name": "Rolinha-picui"
+      },
+      {
+        "lang": "sv",
+        "name": "Picuisparvduva"
       }
     ]
   },
@@ -126,7 +247,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "holoubek vrabčí"
+        "name": "Holoubek vrabčí"
       },
       {
         "lang": "da",
@@ -138,10 +259,7 @@
       },
       {
         "lang": "en",
-        "name": "Common Ground Dove",
-        "synonyms": [
-          "Common Ground-dove"
-        ]
+        "name": "Common Ground Dove"
       },
       {
         "lang": "eo",
@@ -149,16 +267,11 @@
       },
       {
         "lang": "es",
-        "name": "Columbina Común",
-        "synonyms": [
-          "Tortolita azul",
-          "cococha",
-          "columbita común"
-        ]
+        "name": "Columbina Común"
       },
       {
         "lang": "fi",
-        "name": "suomuvarpuskyyhky"
+        "name": "Suomuvarpuskyyhky"
       },
       {
         "lang": "fr",
@@ -174,10 +287,7 @@
       },
       {
         "lang": "ja",
-        "name": "スズメバト",
-        "synonyms": [
-          "suzumebato"
-        ]
+        "name": "スズメバト"
       },
       {
         "lang": "nl",
@@ -192,12 +302,12 @@
         "name": "Gołąbeczek malutki"
       },
       {
-        "lang": "pt-br (Brazil)",
-        "name": "Rolinha-cinzenta"
-      },
-      {
         "lang": "pt",
         "name": "Rola-pequena"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Rolinha-cinzenta"
       },
       {
         "lang": "ru",
@@ -205,7 +315,7 @@
       },
       {
         "lang": "sk",
-        "name": "dudlavec vrabčí"
+        "name": "Dudlavec vrabčí"
       },
       {
         "lang": "sv",
@@ -221,12 +331,64 @@
     "scientific_name": "Columbina minuta",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Tórtora terrestre menuda"
+      },
+      {
         "lang": "cs",
         "name": "Holoubek malý"
       },
       {
+        "lang": "cy",
+        "name": "Turtur ddaear blaen"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergtäubchen"
+      },
+      {
         "lang": "en",
         "name": "Plain-breasted Ground Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Columbina menuda"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر خاکی سینه‌صاف"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe pygmée"
+      },
+      {
+        "lang": "hu",
+        "name": "Homokszínű galambocska"
+      },
+      {
+        "lang": "mrj",
+        "name": "Изи рок тыргӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Dwergduif"
+      },
+      {
+        "lang": "nv",
+        "name": "Hasbídí yázhí bitéél łigaaígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "کولمبینا مائنیوٹا"
+      },
+      {
+        "lang": "pt",
+        "name": "Rolinha-de-asa-canela"
+      },
+      {
+        "lang": "sv",
+        "name": "Dvärgsparvduva"
       }
     ]
   },
@@ -234,8 +396,16 @@
     "scientific_name": "Columbina inca",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Tortoreta inca"
+      },
+      {
         "lang": "cs",
-        "name": "holoubek incký"
+        "name": "Holoubek incký"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur Inca"
       },
       {
         "lang": "da",
@@ -243,7 +413,7 @@
       },
       {
         "lang": "de",
-        "name": "Aztekentäubchen; Inkatäubchen"
+        "name": "Inkatäubchen"
       },
       {
         "lang": "en",
@@ -255,18 +425,15 @@
       },
       {
         "lang": "es",
-        "name": "Tortolita colilarga",
-        "synonyms": [
-          "Tortolita Mexicana"
-        ]
+        "name": "Tortolita mexicana"
       },
       {
         "lang": "et",
-        "name": "asteegi tuvi"
+        "name": "Asteegi tuvi"
       },
       {
         "lang": "fi",
-        "name": "inkakyyhky"
+        "name": "Inkakyyhky"
       },
       {
         "lang": "fr",
@@ -274,7 +441,7 @@
       },
       {
         "lang": "hu",
-        "name": "inkagalambocska"
+        "name": "Inkagalambocska"
       },
       {
         "lang": "it",
@@ -282,10 +449,15 @@
       },
       {
         "lang": "ja",
-        "name": "インカバト",
-        "synonyms": [
-          "inkabato"
-        ]
+        "name": "インカバト"
+      },
+      {
+        "lang": "mrj",
+        "name": "Инка рок тыргӓдӹ"
+      },
+      {
+        "lang": "nah",
+        "name": "Cocohtli"
       },
       {
         "lang": "nl",
@@ -296,8 +468,16 @@
         "name": "Kaktusdue"
       },
       {
+        "lang": "nv",
+        "name": "Hasbídí yázhí"
+      },
+      {
         "lang": "pl",
-        "name": "łuskowiak aztecki"
+        "name": "Łuskowiak aztecki"
+      },
+      {
+        "lang": "pnb",
+        "name": "انکا کگی"
       },
       {
         "lang": "pt",
@@ -305,11 +485,11 @@
       },
       {
         "lang": "ru",
-        "name": "Воробьиная земляная горлица"
+        "name": "Инкская горлица"
       },
       {
         "lang": "sk",
-        "name": "dudlavec škvrnitý"
+        "name": "Dudlavec škvrnitý"
       },
       {
         "lang": "sv",
@@ -331,6 +511,74 @@
       {
         "lang": "pt",
         "name": "Rolinha-do-planalto"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora terrestre ullblava"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ddaear lygatlas"
+      },
+      {
+        "lang": "de",
+        "name": "Blauaugentäubchen"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-eyed ground dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Bluokula kolombo"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر خاکی چشم‌آبی"
+      },
+      {
+        "lang": "fi",
+        "name": "Brasilianvarpuskyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe aux yeux bleus"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékszemű galambocska"
+      },
+      {
+        "lang": "mrj",
+        "name": "Симсӹ пӹлӹшӓн рок тыргӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwoogsteenduif"
+      },
+      {
+        "lang": "pl",
+        "name": "Gołąbeczek rdzawy"
+      },
+      {
+        "lang": "pnb",
+        "name": "کولمبینا سیانوپس"
+      },
+      {
+        "lang": "ru",
+        "name": "Синеухая земляная горлица"
+      },
+      {
+        "lang": "sv",
+        "name": "blåögd sparvduva"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝眼地鸠"
+      },
+      {
+        "lang": "es",
+        "name": "Columbina ojiazul"
       }
     ]
   },

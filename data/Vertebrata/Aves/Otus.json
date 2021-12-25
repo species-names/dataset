@@ -308,7 +308,7 @@
       },
       {
         "lang": "sv",
-        "name": "Siaudvärguv"
+        "name": "siaudvärguv"
       },
       {
         "lang": "zh",
@@ -334,6 +334,10 @@
       {
         "lang": "pt",
         "name": "Mocho-de-orelhas-africano"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse dwergooruil"
       }
     ]
   },
@@ -405,6 +409,10 @@
         ]
       },
       {
+        "lang": "eo",
+        "name": "Malgranda orelstrigo"
+      },
+      {
         "lang": "es",
         "name": "Autillo europeo"
       },
@@ -415,6 +423,10 @@
       {
         "lang": "fr",
         "name": "Petit-duc scops"
+      },
+      {
+        "lang": "gl",
+        "name": "Moucho de orellas"
       },
       {
         "lang": "he",
@@ -495,7 +507,7 @@
       },
       {
         "lang": "cs",
-        "name": "výreček běločelý"
+        "name": "Výreček běločelý"
       },
       {
         "lang": "da",
@@ -515,7 +527,7 @@
       },
       {
         "lang": "et",
-        "name": "laukpäll"
+        "name": "Laukpäll"
       },
       {
         "lang": "fa",
@@ -523,7 +535,7 @@
       },
       {
         "lang": "fi",
-        "name": "valko-otsapöllönen"
+        "name": "Valko-otsapöllönen"
       },
       {
         "lang": "fr",
@@ -531,7 +543,7 @@
       },
       {
         "lang": "hu",
-        "name": "fehérképű füleskuvik"
+        "name": "Fehérképű füleskuvik"
       },
       {
         "lang": "id",
@@ -559,7 +571,7 @@
       },
       {
         "lang": "pl",
-        "name": "syczek białoczelny"
+        "name": "Syczek białoczelny"
       },
       {
         "lang": "ru",
@@ -567,7 +579,7 @@
       },
       {
         "lang": "sk",
-        "name": "výrik bieločelý"
+        "name": "Výrik bieločelý"
       },
       {
         "lang": "sv",
@@ -1195,6 +1207,14 @@
     "scientific_name": "Otus lettia",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "কলার্ড স্কোপ্স পেঁচা"
+      },
+      {
+        "lang": "ca",
+        "name": "Xot de la Xina"
+      },
+      {
         "lang": "cs",
         "name": "Výreček čínský"
       },
@@ -1211,15 +1231,52 @@
         "name": "Hindia orelstrigo"
       },
       {
-        "lang": "zh-yue",
-        "name": "領角鴞"
+        "lang": "fa",
+        "name": "مرغ حق طوقی"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc à collier"
+      },
+      {
+        "lang": "my",
+        "name": "မြီးဝန်ငှက်"
+      },
+      {
+        "lang": "nl",
+        "name": "Gekraagde dwergooruil"
+      },
+      {
+        "lang": "nv",
+        "name": "Biʼééʼ Łigaii Bikéyahdę́ę́ʼ tsidiłdǫǫhii"
+      },
+      {
+        "lang": "pa",
+        "name": "ਕਾਲਰ ਵਾਲਾ ਉੱਲੂ"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-de-colar"
+      },
+      {
+        "lang": "sv",
+        "name": "Kinesisk dvärguv"
       },
       {
         "lang": "th",
-        "name": "นกเค้ากู่",
-        "synonyms": [
-          "นกฮูก"
-        ]
+        "name": "นกเค้ากู่"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú mèo khoang cổ"
+      },
+      {
+        "lang": "zh",
+        "name": "領角鴞"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "領角鴞"
       }
     ]
   },
@@ -1610,7 +1667,7 @@
       },
       {
         "lang": "hu",
-        "name": "Sangihe füleskuvik"
+        "name": "Sangihe-szigeti füleskuvik"
       }
     ]
   },
@@ -1628,6 +1685,38 @@
       {
         "lang": "es",
         "name": "Autillo de Anjouan"
+      },
+      {
+        "lang": "ca",
+        "name": "Xot d'Anjouan"
+      },
+      {
+        "lang": "de",
+        "name": "Anjouan-Zwergohreule"
+      },
+      {
+        "lang": "fi",
+        "name": "Nzwaninpöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc d'Anjouan"
+      },
+      {
+        "lang": "hu",
+        "name": "Anjouan-szigeti füleskuvik"
+      },
+      {
+        "lang": "nl",
+        "name": "Anjouandwergooruil"
+      },
+      {
+        "lang": "sv",
+        "name": "anjouandvärguv"
+      },
+      {
+        "lang": "zh",
+        "name": "烟色角鸮"
       }
     ]
   },
@@ -1657,6 +1746,10 @@
       {
         "lang": "en",
         "name": "Pallid Scops Owl"
+      },
+      {
+        "lang": "eo",
+        "name": "Stria orelstrigo"
       },
       {
         "lang": "es",
@@ -1754,11 +1847,39 @@
       },
       {
         "lang": "en",
-        "name": "Papuan Scops-Owl"
+        "name": "Biak scops owl"
       },
       {
         "lang": "es",
         "name": "Autillo de Biak"
+      },
+      {
+        "lang": "ca",
+        "name": "Xot de Biak"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan sgops Biak"
+      },
+      {
+        "lang": "fi",
+        "name": "Biakinpöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc de Beccari"
+      },
+      {
+        "lang": "id",
+        "name": "Celepuk biak"
+      },
+      {
+        "lang": "nl",
+        "name": "Biakdwergooruil"
+      },
+      {
+        "lang": "sv",
+        "name": "biakdvärguv"
       }
     ]
   },
@@ -1892,6 +2013,50 @@
       {
         "lang": "es",
         "name": "Autillo de Flores"
+      },
+      {
+        "lang": "ca",
+        "name": "Xot de l'illa de Flores"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan sgops Fflores"
+      },
+      {
+        "lang": "de",
+        "name": "Flores-Zwergohreule"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ حق فلورس"
+      },
+      {
+        "lang": "fi",
+        "name": "Floresinpöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc de Florès"
+      },
+      {
+        "lang": "id",
+        "name": "Celepuk flores"
+      },
+      {
+        "lang": "mrj",
+        "name": "Флорес шӱшкӓн тымана"
+      },
+      {
+        "lang": "nl",
+        "name": "Floresdwergooruil"
+      },
+      {
+        "lang": "sv",
+        "name": "floresdvärguv"
+      },
+      {
+        "lang": "uk",
+        "name": "Флореська совка"
       }
     ]
   }

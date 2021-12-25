@@ -3,29 +3,84 @@
     "scientific_name": "Ammomanes phoenicura",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Rufous-tailed Lark"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Ammomanes grayi",
-    "common_names": [
+        "lang": "ar",
+        "name": "قبرة صهباء الذيل"
+      },
       {
-        "lang": "af",
-        "name": "Namiblewerik"
+        "lang": "bg",
+        "name": "Червеноопашата чучулига"
+      },
+      {
+        "lang": "br",
+        "name": "Alc'hweder lost ruz"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd diffeithwch cynffongoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rødhalet Ørkenlærke"
+      },
+      {
+        "lang": "de",
+        "name": "Rotschwanzlerche"
       },
       {
         "lang": "en",
-        "name": "Gray's lark"
+        "name": "Rufous-tailed Lark"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝvosta dezertalaŭdo"
       },
       {
         "lang": "es",
-        "name": "Alondra de Gray"
+        "name": "Terrera colirroja"
+      },
+      {
+        "lang": "eu",
+        "name": "Txoriandre buztangorri"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک دم‌حنایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Intianaavikkokiuru"
+      },
+      {
+        "lang": "fr",
+        "name": "Ammomane à queue rouge"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörösfarkú pacsirta"
+      },
+      {
+        "lang": "ml",
+        "name": "ചെമ്പുവാലൻ വാനമ്പാടി"
+      },
+      {
+        "lang": "ne",
+        "name": "अग्नि भारद्वाज"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodstaartwoestijnleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Rusthalelerke"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödstjärtad ökenlärka"
       },
       {
         "lang": "zh",
-        "name": "格氏漠百灵"
+        "name": "棕尾漠百灵"
       }
     ]
   },
@@ -33,12 +88,100 @@
     "scientific_name": "Ammomanes deserti",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "قبرة صحراوية"
+      },
+      {
+        "lang": "bg",
+        "name": "Пустинна чучулига"
+      },
+      {
+        "lang": "br",
+        "name": "Alc'hweder arvelen"
+      },
+      {
+        "lang": "ca",
+        "name": "Terrerola del desert"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd diffeithwch"
+      },
+      {
+        "lang": "da",
+        "name": "Ørkenlærke"
+      },
+      {
+        "lang": "de",
+        "name": "Steinlerche"
+      },
+      {
         "lang": "en",
-        "name": "Desert lark"
+        "name": "Desert Lark"
+      },
+      {
+        "lang": "eo",
+        "name": "Dezertalaŭdo"
       },
       {
         "lang": "es",
         "name": "Terrera sahariana"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک سنگلاخ"
+      },
+      {
+        "lang": "fi",
+        "name": "Aavikkokiuru"
+      },
+      {
+        "lang": "fr",
+        "name": "Ammomane isabelline"
+      },
+      {
+        "lang": "he",
+        "name": "עפרוני מדבר"
+      },
+      {
+        "lang": "hu",
+        "name": "Sivatagi pacsirta"
+      },
+      {
+        "lang": "nl",
+        "name": "Woestijnleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Ørkenlerke"
+      },
+      {
+        "lang": "ru",
+        "name": "Пустынный жаворонок"
+      },
+      {
+        "lang": "sv",
+        "name": "Stenökenlärka"
+      },
+      {
+        "lang": "tg",
+        "name": "Жаврак"
+      },
+      {
+        "lang": "tr",
+        "name": "Çöl toygarı"
+      },
+      {
+        "lang": "tt",
+        "name": "Чүл тургае"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca sa mạc"
+      },
+      {
+        "lang": "zh",
+        "name": "漠百灵"
       }
     ]
   },
@@ -46,8 +189,76 @@
     "scientific_name": "Ammomanes cinctura",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "قنبرة بادية مصرية"
+      },
+      {
+        "lang": "br",
+        "name": "Alc'hweder tek"
+      },
+      {
+        "lang": "ca",
+        "name": "Terrerola cuabarrada"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd diffeithwch cynffonresog"
+      },
+      {
+        "lang": "da",
+        "name": "Lille Ørkenlærke"
+      },
+      {
+        "lang": "de",
+        "name": "Sandlerche"
+      },
+      {
         "lang": "en",
-        "name": "Bar-tailed lark"
+        "name": "Bar-tailed Lark"
+      },
+      {
+        "lang": "es",
+        "name": "Terrera Colinegra"
+      },
+      {
+        "lang": "eu",
+        "name": "Txoriandre buztanbeltz"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک سردم‌سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkuaavikkokiuru"
+      },
+      {
+        "lang": "fr",
+        "name": "Ammomane élégante"
+      },
+      {
+        "lang": "hu",
+        "name": "Homoki pacsirta"
+      },
+      {
+        "lang": "nl",
+        "name": "Rosse woestijnleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Mørkhalelerke"
+      },
+      {
+        "lang": "sv",
+        "name": "Sandökenlärka"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük çöl toygarı"
+      },
+      {
+        "lang": "zh",
+        "name": "斑尾漠百灵"
       }
     ]
   }

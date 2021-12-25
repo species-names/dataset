@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Aegotheles affinis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Aegotheles wallacii",
     "common_names": [
       {
@@ -38,6 +42,50 @@
       {
         "lang": "ja",
         "name": "ニューカレドニアズクヨタカ"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan-droellwr Caledonia Newydd"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzrückenschwalm"
+      },
+      {
+        "lang": "fa",
+        "name": "بوفچه-شبگرد کالدونیای جدید"
+      },
+      {
+        "lang": "fr",
+        "name": "Égothèle calédonien"
+      },
+      {
+        "lang": "hu",
+        "name": "Új-kaledón kuvikfecske"
+      },
+      {
+        "lang": "nl",
+        "name": "Nieuw-Caledonische dwergnachtzwaluw"
+      },
+      {
+        "lang": "pl",
+        "name": "Sownik nowokaledoński"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноспинный совиный козодой"
+      },
+      {
+        "lang": "sv",
+        "name": "Sotuggleskärra"
+      },
+      {
+        "lang": "uk",
+        "name": "Еготело новокаледонський"
+      },
+      {
+        "lang": "zh",
+        "name": "新喀里裸鼻鴟"
       }
     ]
   },

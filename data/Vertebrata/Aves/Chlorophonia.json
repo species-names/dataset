@@ -9,7 +9,16 @@
   },
   {
     "scientific_name": "Chlorophonia flavirostris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-collared chlorophonia"
+      },
+      {
+        "lang": "es",
+        "name": "Clorofonia acollarada"
+      }
+    ]
   },
   {
     "scientific_name": "Chlorophonia cyanea",

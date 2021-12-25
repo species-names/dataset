@@ -1,7 +1,16 @@
 [
   {
     "scientific_name": "Oreotrochilus stolzmanni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green-headed Hillstar"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Stolzmann"
+      }
+    ]
   },
   {
     "scientific_name": "Oreotrochilus melanogaster",
@@ -35,6 +44,19 @@
       {
         "lang": "hu",
         "name": "Csillagos tündérkolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oreotrochilus cyanolaemus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-throated hillstar"
+      },
+      {
+        "lang": "es",
+        "name": "Estrella de garganta azul"
       }
     ]
   },

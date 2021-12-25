@@ -1,10 +1,44 @@
 [
   {
-    "scientific_name": "Geospiza scandens",
+    "scientific_name": "Geospiza septentrionalis",
     "common_names": [
       {
         "lang": "en",
-        "name": "Common Cactus-finch"
+        "name": "Vampire Ground Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin chupasangre"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza scandens",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kaktus-Grundfink"
+      },
+      {
+        "lang": "en",
+        "name": "Common Cactus-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin de los cactos"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza propinqua",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Genovesa Cactus-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin de Genovesa picogrueso"
       }
     ]
   },
@@ -14,6 +48,10 @@
       {
         "lang": "en",
         "name": "Large Ground-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin picogordo"
       }
     ]
   },
@@ -23,6 +61,10 @@
       {
         "lang": "en",
         "name": "Small Ground-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin fuliginoso"
       }
     ]
   },
@@ -32,6 +74,10 @@
       {
         "lang": "en",
         "name": "Medium Ground-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin picomediano"
       }
     ]
   },
@@ -64,7 +110,7 @@
       },
       {
         "lang": "es",
-        "name": "Pinzón terrestre de pico afilado"
+        "name": "Pinzón de Darwin picofino"
       },
       {
         "lang": "fa",
@@ -170,6 +216,19 @@
       {
         "lang": "zh",
         "name": "大仙人掌地雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geospiza acutirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Genovesa Ground Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin picofino de Genovesa"
       }
     ]
   }

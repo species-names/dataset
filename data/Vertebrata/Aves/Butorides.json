@@ -3,6 +3,14 @@
     "scientific_name": "Butorides virescens",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بلشون أخضر"
+      },
+      {
+        "lang": "bg",
+        "name": "Зеленогърба чапла"
+      },
+      {
         "lang": "br",
         "name": "Kerc'heiz c'hlas"
       },
@@ -12,7 +20,11 @@
       },
       {
         "lang": "cs",
-        "name": "volovka zelenavá"
+        "name": "Volovka zelenavá"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr gwyrdd"
       },
       {
         "lang": "da",
@@ -27,19 +39,32 @@
         "name": "Green Heron"
       },
       {
+        "lang": "eo",
+        "name": "Verda ardeo"
+      },
+      {
         "lang": "es",
-        "name": "Garcita verde",
-        "synonyms": [
-          "Garcita verdosau"
-        ]
+        "name": "Garcita verdosa"
+      },
+      {
+        "lang": "eu",
+        "name": "Koartzatxo berde"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل سبز"
       },
       {
         "lang": "fi",
-        "name": "amerikankyyryhaikara"
+        "name": "Amerikankyyryhaikara"
       },
       {
         "lang": "fr",
         "name": "Héron vert"
+      },
+      {
+        "lang": "he",
+        "name": "אנפה ירוקה"
       },
       {
         "lang": "hu",
@@ -55,10 +80,7 @@
       },
       {
         "lang": "ja",
-        "name": "アメリカササゴイ",
-        "synonyms": [
-          "amerikasasagoi"
-        ]
+        "name": "アメリカササゴイ"
       },
       {
         "lang": "lt",
@@ -78,7 +100,11 @@
       },
       {
         "lang": "pl",
-        "name": "czapla zielona"
+        "name": "Czapla zielona"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہرا بگلا"
       },
       {
         "lang": "pt",
@@ -90,11 +116,15 @@
       },
       {
         "lang": "sk",
-        "name": "čaplička zelenkavá"
+        "name": "Čaplička zelenkavá"
       },
       {
         "lang": "sv",
-        "name": "Grönryggad häger"
+        "name": "Grönryggig häger"
+      },
+      {
+        "lang": "ur",
+        "name": "سبز بگلا"
       },
       {
         "lang": "zh",
@@ -106,14 +136,74 @@
     "scientific_name": "Butorides sundevalli",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Lavareiher"
+      },
+      {
         "lang": "en",
-        "name": "Galapagos Heron"
+        "name": "Lava Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Sundevala ardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garza enana de las Galápagos"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل گدازه‌ای"
+      },
+      {
+        "lang": "fi",
+        "name": "Galapagosinkyyryhaikara"
       },
       {
         "lang": "fr",
-        "name": "héron des Galapagos"
+        "name": "Héron des Galapagos"
+      },
+      {
+        "lang": "he",
+        "name": "אנפת לבה"
+      },
+      {
+        "lang": "hu",
+        "name": "Lávagém"
+      },
+      {
+        "lang": "it",
+        "name": "Airone lavico"
+      },
+      {
+        "lang": "ja",
+        "name": "ガラパゴスササゴイ"
+      },
+      {
+        "lang": "nl",
+        "name": "Galápagosreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Lavahegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla galapagoska"
+      },
+      {
+        "lang": "ru",
+        "name": "Галапагосская зелёная кваква"
+      },
+      {
+        "lang": "sv",
+        "name": "Galápagoshäger"
       }
     ]
+  },
+  {
+    "scientific_name": "Butorides striata javanica",
+    "common_names": []
   },
   {
     "scientific_name": "Butorides striata",
@@ -127,6 +217,14 @@
         "name": "بلشون أخضر الظهر"
       },
       {
+        "lang": "bg",
+        "name": "Ивичеста чапла"
+      },
+      {
+        "lang": "bh",
+        "name": "कांचा बकुला"
+      },
+      {
         "lang": "br",
         "name": "Kerc'heiz rizennek"
       },
@@ -135,16 +233,36 @@
         "name": "Martinet estriat"
       },
       {
+        "lang": "cy",
+        "name": "Crëyr cefnwyrdd"
+      },
+      {
         "lang": "de",
         "name": "Mangrovereiher"
+      },
+      {
+        "lang": "dty",
+        "name": "छोटाखुट्टे बकुल्ला"
       },
       {
         "lang": "en",
         "name": "Striated Heron"
       },
       {
+        "lang": "eo",
+        "name": "Striardeo"
+      },
+      {
         "lang": "es",
-        "name": "Garcita Azulada"
+        "name": "Garcita azulada"
+      },
+      {
+        "lang": "eu",
+        "name": "Koartzatxo marradun"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل حرا"
       },
       {
         "lang": "fi",
@@ -155,20 +273,40 @@
         "name": "Héron strié"
       },
       {
-        "lang": "ko",
-        "name": "검은댕기해오라기"
+        "lang": "gn",
+        "name": "Hoko'i"
+      },
+      {
+        "lang": "he",
+        "name": "אנפה ירוקת-גב"
+      },
+      {
+        "lang": "hu",
+        "name": "Mangrovegém"
+      },
+      {
+        "lang": "id",
+        "name": "Kokokan laut"
       },
       {
         "lang": "it",
         "name": "Airone striato"
       },
       {
-        "lang": "lt",
-        "name": "Žaliasis naktikovas"
+        "lang": "ja",
+        "name": "ササゴイ"
       },
       {
-        "lang": "hu",
-        "name": "Mangrovegém"
+        "lang": "ka",
+        "name": "მწვანე ყანჩა"
+      },
+      {
+        "lang": "ko",
+        "name": "검은댕기해오라기"
+      },
+      {
+        "lang": "lt",
+        "name": "Žaliasis naktikovas"
       },
       {
         "lang": "ml",
@@ -176,46 +314,43 @@
       },
       {
         "lang": "ms",
-        "name": "Burung Pucong Keladi"
+        "name": "Burung Puchong Keladi"
+      },
+      {
+        "lang": "ne",
+        "name": "छोटाखुट्टे बकुल्ला"
       },
       {
         "lang": "nl",
         "name": "Mangrovereiger"
       },
       {
-        "lang": "ja",
-        "name": "ササゴイ"
-      },
-      {
         "lang": "no",
         "name": "Krabbehegre"
-      },
-      {
-        "lang": "pnb",
-        "name": "ہری کمر آلا ہیرون"
       },
       {
         "lang": "pl",
         "name": "Czapla zielonawa"
       },
       {
+        "lang": "pnb",
+        "name": "ہری کمر آلا ہیرون"
+      },
+      {
         "lang": "pt",
-        "name": "Socozinho",
-        "synonyms": [
-          "Socó-í"
-        ]
+        "name": "Socozinho"
       },
       {
         "lang": "ru",
         "name": "Зелёная кваква"
       },
       {
-        "lang": "simple",
-        "name": "Striated Heron"
-      },
-      {
         "lang": "sv",
         "name": "Mangrovehäger"
+      },
+      {
+        "lang": "ta",
+        "name": "சிறிய பச்சைக் கொக்கு"
       },
       {
         "lang": "to",
@@ -224,6 +359,14 @@
       {
         "lang": "tr",
         "name": "Yeşil sırtlı balıkçıl"
+      },
+      {
+        "lang": "uk",
+        "name": "Чапля мангрова"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò xanh"
       },
       {
         "lang": "zh",

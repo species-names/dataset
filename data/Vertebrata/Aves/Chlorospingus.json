@@ -63,7 +63,16 @@
   },
   {
     "scientific_name": "Chlorospingus flavigularis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-throated Bush-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Clorospingo gorgiamarillo"
+      }
+    ]
   },
   {
     "scientific_name": "Chlorospingus canigularis",

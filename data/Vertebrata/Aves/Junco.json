@@ -67,6 +67,30 @@
       {
         "lang": "es",
         "name": "Junco de Guadalupe"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnadec guadalupský"
+      },
+      {
+        "lang": "de",
+        "name": "Guadalupe-Junko"
+      },
+      {
+        "lang": "eo",
+        "name": "Guadalupa junkulo"
+      },
+      {
+        "lang": "fa",
+        "name": "سازونشین گوآدالوپه"
+      },
+      {
+        "lang": "nl",
+        "name": "Guadalupejunco"
+      },
+      {
+        "lang": "sv",
+        "name": "guadalupejunco"
       }
     ]
   },
@@ -83,7 +107,7 @@
       },
       {
         "lang": "cs",
-        "name": "strnadec zimní"
+        "name": "Strnadec zimní"
       },
       {
         "lang": "da",
@@ -91,7 +115,10 @@
       },
       {
         "lang": "de",
-        "name": "Junko"
+        "name": "Winterammer",
+        "synonyms": [
+          "früher ''Junko''"
+        ]
       },
       {
         "lang": "en",
@@ -103,14 +130,11 @@
       },
       {
         "lang": "es",
-        "name": "Junco ojioscuro",
-        "synonyms": [
-          "Junco Pizarroso"
-        ]
+        "name": "Junco ojioscuro"
       },
       {
         "lang": "fi",
-        "name": "tummajunkko"
+        "name": "Tummajunkko"
       },
       {
         "lang": "fr",
@@ -130,10 +154,7 @@
       },
       {
         "lang": "ja",
-        "name": "ユキヒメドリ",
-        "synonyms": [
-          "yukihimedori"
-        ]
+        "name": "ユキヒメドリ"
       },
       {
         "lang": "nl",
@@ -145,7 +166,7 @@
       },
       {
         "lang": "pl",
-        "name": "Junko (zwyczajny)"
+        "name": "Junko"
       },
       {
         "lang": "pt",
@@ -157,7 +178,7 @@
       },
       {
         "lang": "sk",
-        "name": "strnádlik sivý"
+        "name": "Strnádlik sivý"
       },
       {
         "lang": "sv",

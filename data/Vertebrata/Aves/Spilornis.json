@@ -28,8 +28,16 @@
     "scientific_name": "Spilornis klossi",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Serpentari de les Nicobar"
+      },
+      {
         "lang": "cs",
         "name": "Orlík Klossův"
+      },
+      {
+        "lang": "bn",
+        "name": "গ্রেট নিকোবর সর্প ঈগল"
       },
       {
         "lang": "en",
@@ -65,6 +73,10 @@
       {
         "lang": "pl",
         "name": "Wężojad nikobarski"
+      },
+      {
+        "lang": "sv",
+        "name": "nikobarhjälmörn"
       }
     ]
   },
@@ -156,6 +168,50 @@
       {
         "lang": "pl",
         "name": "Wężojad andamański"
+      },
+      {
+        "lang": "bn",
+        "name": "আন্দামান সর্প ঈগল"
+      },
+      {
+        "lang": "ca",
+        "name": "Serpentari de les Andaman"
+      },
+      {
+        "lang": "cy",
+        "name": "Eryr nadroedd Andaman"
+      },
+      {
+        "lang": "eo",
+        "name": "Andamana serpentaglo"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب مارخور آندامان"
+      },
+      {
+        "lang": "fi",
+        "name": "Tummaharjakotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Serpentaire des Andaman"
+      },
+      {
+        "lang": "hu",
+        "name": "Andamáni kígyászsas"
+      },
+      {
+        "lang": "nl",
+        "name": "Andamanenslangenarend"
+      },
+      {
+        "lang": "pnb",
+        "name": "اینڈامین دا سپ مار عقاب"
+      },
+      {
+        "lang": "sv",
+        "name": "andamanhjälmörn"
       }
     ]
   },

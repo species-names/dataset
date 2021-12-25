@@ -12,7 +12,7 @@
       },
       {
         "lang": "cs",
-        "name": "páv zelený"
+        "name": "Páv zelený"
       },
       {
         "lang": "da",
@@ -36,11 +36,11 @@
       },
       {
         "lang": "et",
-        "name": "rohe-paabulind"
+        "name": "Rohe-paabulind"
       },
       {
         "lang": "fi",
-        "name": "viherriikinkukko"
+        "name": "Viherriikinkukko"
       },
       {
         "lang": "fr",
@@ -91,7 +91,7 @@
       },
       {
         "lang": "sk",
-        "name": "páv chochlatý"
+        "name": "Páv chochlatý"
       },
       {
         "lang": "sl",
@@ -290,7 +290,11 @@
         "name": "Påfågel"
       },
       {
-        "lang": "tr",
+        "lang": "te",
+        "name": "నెమలి"
+      },
+      {
+        "lang": " tr",
         "name": "Hint tavuskuşu"
       },
       {
@@ -300,6 +304,10 @@
       {
         "lang": "zh",
         "name": "蓝孔雀"
+      },
+      {
+        "lang": "hi",
+        "name": "मोर"
       }
     ]
   }

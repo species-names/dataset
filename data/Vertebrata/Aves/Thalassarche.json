@@ -1,7 +1,84 @@
 [
   {
-    "scientific_name": "Thalassarche eremita",
-    "common_names": []
+    "scientific_name": "Thalassarche salvini",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Salvinalbatros"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz Salvin"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros de Salvin"
+      },
+      {
+        "lang": "da",
+        "name": "Grårygget albatros"
+      },
+      {
+        "lang": "de",
+        "name": "Salvin-Albatros"
+      },
+      {
+        "lang": "en",
+        "name": "Salvin's albatross"
+      },
+      {
+        "lang": "eo",
+        "name": "Salvina albatroso"
+      },
+      {
+        "lang": "es",
+        "name": "albatros de Salvin"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس سلوین"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros de Salvin"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס סאלווין"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros salvin"
+      },
+      {
+        "lang": "mrj",
+        "name": "Сэльвин альбатрос"
+      },
+      {
+        "lang": "nl",
+        "name": "Salvins albatros"
+      },
+      {
+        "lang": "nn",
+        "name": "Sølvhovudalbatross"
+      },
+      {
+        "lang": "nv",
+        "name": "Tónteel tsídiitsoh bikʼos łibáhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "سالون البٹراس"
+      },
+      {
+        "lang": "sv",
+        "name": "salvinalbatross"
+      },
+      {
+        "lang": "uk",
+        "name": "Альбатрос Сальвіна"
+      }
+    ]
   },
   {
     "scientific_name": "Thalassarche melanophris",
@@ -17,6 +94,10 @@
       {
         "lang": "en",
         "name": "Black-browed Albatross"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrabrova albatroso"
       },
       {
         "lang": "es",
@@ -64,6 +145,156 @@
     ]
   },
   {
+    "scientific_name": "Thalassarche impavida",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Albatroz Campbell"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros de Campbell"
+      },
+      {
+        "lang": "en",
+        "name": "Campbell albatross"
+      },
+      {
+        "lang": "eo",
+        "name": "Kampbela albatroso"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس کمپ‌بل"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros de Campbell"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס קמפבל"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros campbell"
+      },
+      {
+        "lang": "mi",
+        "name": "Toroa (Motu Ihupuku)"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кэмпбелл альбатрос"
+      },
+      {
+        "lang": "nl",
+        "name": "Campbellalbatros"
+      },
+      {
+        "lang": "nv",
+        "name": "Tónteel tsídiitsoh bitʼaʼ łizhinígíí"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-de-campbell"
+      },
+      {
+        "lang": "sv",
+        "name": "campbellalbatross"
+      },
+      {
+        "lang": "uk",
+        "name": "Кемпбеллівський альбатрос"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalassarche eremita",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Chathamalbatros"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz Chatham"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros de les Chatham"
+      },
+      {
+        "lang": "da",
+        "name": "Chathamalbatros"
+      },
+      {
+        "lang": "de",
+        "name": "Chatham-Albatros"
+      },
+      {
+        "lang": "en",
+        "name": "Chatham albatross"
+      },
+      {
+        "lang": "eo",
+        "name": "Ĉathama albatroso"
+      },
+      {
+        "lang": "es",
+        "name": "albatros de Chatham"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس چتهام"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros des Chatham"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס צ'טהאם"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros chatham"
+      },
+      {
+        "lang": "mrj",
+        "name": "Чатем альбатрос"
+      },
+      {
+        "lang": "nl",
+        "name": "Chathamalbatros"
+      },
+      {
+        "lang": "nn",
+        "name": "Chathamalbatross"
+      },
+      {
+        "lang": "nv",
+        "name": "Tónteel tsídiitsoh łibáhígíí"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-das-chatham"
+      },
+      {
+        "lang": "sv",
+        "name": "chathamalbatross"
+      },
+      {
+        "lang": "uk",
+        "name": "Чатемський альбатрос"
+      },
+      {
+        "lang": "zh",
+        "name": "查塔姆島信天翁"
+      }
+    ]
+  },
+  {
     "scientific_name": "Thalassarche chrysostoma",
     "common_names": [
       {
@@ -83,12 +314,96 @@
         "name": "Szürkefejű albatrosz"
       },
       {
-        "lang": "pl",
-        "name": "albatros szarogłowy"
+        "lang": "sv",
+        "name": "gråhuvad albatross"
       },
       {
-        "lang": "sv",
-        "name": "Gråhuvad albatross"
+        "lang": "ar",
+        "name": "قطرس رأس رمادي"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz penn gris"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros capgrís"
+      },
+      {
+        "lang": "cy",
+        "name": "Albatros penllwyd"
+      },
+      {
+        "lang": "da",
+        "name": "Gråhovedet albatros"
+      },
+      {
+        "lang": "de",
+        "name": "Graukopfalbatros"
+      },
+      {
+        "lang": "eo",
+        "name": "Grizkapa albatroso"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس سرخاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaapääalbatrossi"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros à tête grise"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס אפור-ראש"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros kepala-abu-abu"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイガシラアホウドリ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Луды вуян альбатрос"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijskopalbatros"
+      },
+      {
+        "lang": "nn",
+        "name": "Gråhovudalbatross"
+      },
+      {
+        "lang": "no",
+        "name": "Gråhodealbatross"
+      },
+      {
+        "lang": "nv",
+        "name": "Tónteel tsídiitsoh bitsiiʼ łibáhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Albatros szarogłowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-de-cabeça-cinza"
+      },
+      {
+        "lang": "ru",
+        "name": "Сероголовый альбатрос"
+      },
+      {
+        "lang": "uk",
+        "name": "Сіроголовий альбатрос"
       }
     ]
   },
@@ -116,12 +431,100 @@
         "name": "மஞ்சள் மூக்கு ஆல்பட்ராசு"
       },
       {
-        "lang": "sv",
-        "name": "Mindre albatross"
+        "lang": "af",
+        "name": "Geelneusmalmok"
       },
       {
-        "lang": "af",
-        "name": "Atlantiese geelneusalbatros"
+        "lang": "ar",
+        "name": "قطرس أصفر الأنف أطلنطي"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълтоклюн албатрос"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz beg melen"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros becgroc atlàntic"
+      },
+      {
+        "lang": "cy",
+        "name": "Albatros ffroenfelyn"
+      },
+      {
+        "lang": "da",
+        "name": "Gulnæbbet albatros"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbnasenalbatros"
+      },
+      {
+        "lang": "eo",
+        "name": "Flavbeka albatroso"
+      },
+      {
+        "lang": "eu",
+        "name": "Albatros sudur-hori"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس بینی‌زرد اطلس"
+      },
+      {
+        "lang": "fi",
+        "name": "Hoikka-albatrossi"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros à nez jaune"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס צהוב-חרטום"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros hidung-kuning-atlantik"
+      },
+      {
+        "lang": "mrj",
+        "name": "Сарикӓ нерӓн альбатрос"
+      },
+      {
+        "lang": "nl",
+        "name": "Atlantische geelneusalbatros"
+      },
+      {
+        "lang": "nn",
+        "name": "Gulnasealbatross"
+      },
+      {
+        "lang": "no",
+        "name": "Tristanalbatross"
+      },
+      {
+        "lang": "nv",
+        "name": "Haʼaʼaahjí Tónteeldę́ę́ʼ tónteel tsídiitsoh bidaadzítsooígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Albatros żółtodzioby"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтоклювый альбатрос"
+      },
+      {
+        "lang": "sv",
+        "name": "mindre albatross"
+      },
+      {
+        "lang": "vi",
+        "name": "Hải âu vàng mỏ lớn Đại Tây Dương"
       }
     ]
   },
@@ -138,11 +541,160 @@
       },
       {
         "lang": "sv",
-        "name": "Gråkindad albatross"
+        "name": "gråkindad albatross"
       },
       {
         "lang": "af",
         "name": "Bloubekalbatros"
+      },
+      {
+        "lang": "ar",
+        "name": "قطرس خجول"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz abaf"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros tímid"
+      },
+      {
+        "lang": "cy",
+        "name": "Albatros swil"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidkronet albatros"
+      },
+      {
+        "lang": "de",
+        "name": "Weißkappenalbatros"
+      },
+      {
+        "lang": "eo",
+        "name": "Timema albatroso"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس خجالتی"
+      },
+      {
+        "lang": "fi",
+        "name": "Isoalbatrossi"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros à cape blanche"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס לבן-כיפה"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros pemalu"
+      },
+      {
+        "lang": "ja",
+        "name": "ハジロアホウドリ"
+      },
+      {
+        "lang": "mi",
+        "name": "Toroa (mokepūihi)"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ош калпакан альбатрос"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkapalbatros"
+      },
+      {
+        "lang": "nn",
+        "name": "Svartflekkalbatross"
+      },
+      {
+        "lang": "nv",
+        "name": "Tónteel tsídiitsoh bitsiitʼáád łigaaígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Albatros szarodzioby"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹسرا البٹراس"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-arisco"
+      },
+      {
+        "lang": "uk",
+        "name": "Білошапочний альбатрос"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thalassarche carteri",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Indiese geelneusalbatros"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz Indez"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros becgroc del Pacífic"
+      },
+      {
+        "lang": "en",
+        "name": "Indian yellow-nosed albatross"
+      },
+      {
+        "lang": "eo",
+        "name": "Hindoceana albatroso"
+      },
+      {
+        "lang": "es",
+        "name": "albatros pico amarillo del Índico"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس بینی‌زرد هند"
+      },
+      {
+        "lang": "fr",
+        "name": "Albatros de Carter"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס צהוב-חרטום הודי"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros hidung-kuning-hindia"
+      },
+      {
+        "lang": "mrj",
+        "name": "Инди сарикӓ нерӓн альбатрос"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische geelneusalbatros"
+      },
+      {
+        "lang": "nv",
+        "name": "Bitsįʼ Yishtłizhii Tónteeldę́ę́ʼ tónteel tsídiitsoh bidaadzítsooígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "gulnäbbad albatross"
       }
     ]
   },
@@ -171,7 +723,71 @@
       },
       {
         "lang": "sv",
-        "name": "Vitpannad albatross"
+        "name": "vitpannad albatross"
+      },
+      {
+        "lang": "br",
+        "name": "Albatroz Buller"
+      },
+      {
+        "lang": "ca",
+        "name": "Albatros de Buller"
+      },
+      {
+        "lang": "cy",
+        "name": "Albatros Buller"
+      },
+      {
+        "lang": "da",
+        "name": "Bullers albatros"
+      },
+      {
+        "lang": "eo",
+        "name": "Bulera albatroso"
+      },
+      {
+        "lang": "fa",
+        "name": "آلباتروس بولر"
+      },
+      {
+        "lang": "fi",
+        "name": "Uudenseelanninalbatrossi"
+      },
+      {
+        "lang": "he",
+        "name": "אלבטרוס בולר"
+      },
+      {
+        "lang": "id",
+        "name": "Albatros buller"
+      },
+      {
+        "lang": "mrj",
+        "name": "Буллер альбатрос"
+      },
+      {
+        "lang": "nl",
+        "name": "Bullers albatros"
+      },
+      {
+        "lang": "nn",
+        "name": "Kvitpannealbatross"
+      },
+      {
+        "lang": "nv",
+        "name": "Łeesdísí Bikéyahdę́ę́ʼ tónteel tsídiitsoh bidaadzítsooígíí"
+      },
+      {
+        "lang": "pt",
+        "name": "Albatroz-de-buller"
+      },
+      {
+        "lang": "ru",
+        "name": "Альбатрос Буллера"
+      },
+      {
+        "lang": "uk",
+        "name": "Альбатрос Буллера"
       }
     ]
   }

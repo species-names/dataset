@@ -14,11 +14,29 @@
   },
   {
     "scientific_name": "Sporophila torqueola",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon-rumped seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Espiguero de collar"
+      }
+    ]
   },
   {
     "scientific_name": "Sporophila telasco",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-throated Seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero gorjicastaño"
+      }
+    ]
   },
   {
     "scientific_name": "Sporophila simplex",
@@ -39,6 +57,18 @@
       {
         "lang": "pt",
         "name": "Cigarra-papa-arroz"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Cigarrinha-do-norte"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero pizarroso"
+      },
+      {
+        "lang": "en",
+        "name": "Slate-colored Seedeater"
       }
     ]
   },
@@ -72,7 +102,7 @@
       },
       {
         "lang": "es",
-        "name": "Espiguero plomizo; corbatita plomizo; semillero plomizo"
+        "name": "Semillero plomizo"
       }
     ]
   },
@@ -95,7 +125,16 @@
   },
   {
     "scientific_name": "Sporophila peruviana",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Parrot-billed Seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero peruano"
+      }
+    ]
   },
   {
     "scientific_name": "Sporophila palustris",
@@ -111,12 +150,65 @@
       {
         "lang": "pt",
         "name": "Caboclinho-de-papo-branco"
+      },
+      {
+        "lang": "bg",
+        "name": "Блатна чинка"
+      },
+      {
+        "lang": "cy",
+        "name": "Hadysor y gors"
+      },
+      {
+        "lang": "fa",
+        "name": "دانه‌خوار مرداب"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile des marais"
+      },
+      {
+        "lang": "lt",
+        "name": "Pelkinis sėklalesis"
+      },
+      {
+        "lang": "nl",
+        "name": "Moerasdikbekje"
+      },
+      {
+        "lang": "sv",
+        "name": "kärrfröfink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sporophila nuttingi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Nicaraguan Seed-finch"
+      },
+      {
+        "lang": "pt",
+        "name": "Curió"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero nicaragüense"
       }
     ]
   },
   {
     "scientific_name": "Sporophila nigrorufa",
     "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-and-tawny Seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero rojinegro"
+      },
       {
         "lang": "pt",
         "name": "Caboclinho-do-sertão"
@@ -132,10 +224,43 @@
       },
       {
         "lang": "pt",
-        "name": "Coleiro-baiano",
-        "synonyms": [
-          "Papa-campim-capuchinho"
-        ]
+        "name": "baiano"
+      },
+      {
+        "lang": "cy",
+        "name": "Hadysor torfelyn"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbbauchpfäffchen"
+      },
+      {
+        "lang": "fa",
+        "name": "دانه‌خوار شکم‌زرد"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile à ventre jaune"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelbuikdikbekje"
+      },
+      {
+        "lang": "nn",
+        "name": "Gulbukfrøetar"
+      },
+      {
+        "lang": "sv",
+        "name": "gulbukig fröfink"
+      },
+      {
+        "lang": "zh",
+        "name": "黃腹食籽雀"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero ventriamarillo"
       }
     ]
   },
@@ -153,6 +278,19 @@
       {
         "lang": "pt",
         "name": "Papa-capim-de-caquetá"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sporophila morelleti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-collared Seedeater; Morelet's Seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero cuelliblanco"
       }
     ]
   },
@@ -177,6 +315,10 @@
       {
         "lang": "pt",
         "name": "Caboclinho-de-barriga-vermelha"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Caboclinho-lindo"
       },
       {
         "lang": "sv",
@@ -211,6 +353,74 @@
       {
         "lang": "en",
         "name": "Black-bellied seedeater"
+      },
+      {
+        "lang": "cy",
+        "name": "Hadysor torddu"
+      },
+      {
+        "lang": "fa",
+        "name": "دانه‌خوار شکم‌سیاه"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile à ventre noir"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartbuikdikbekje"
+      },
+      {
+        "lang": "sv",
+        "name": "svartbukig fröfink"
+      },
+      {
+        "lang": "zh",
+        "name": "黑腹食籽雀"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sporophila maximiliani",
+    "common_names": [
+      {
+        "lang": "pt",
+        "name": "Bicudo",
+        "synonyms": [
+          "Bicudo-verdadeiro"
+        ]
+      },
+      {
+        "lang": "ar",
+        "name": "عصفور الأرز ضخم المنقار"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila hadau mawr"
+      },
+      {
+        "lang": "en",
+        "name": "Great-billed seed finch"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره دانه‌خوار نوک‌بزرگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Isosysisirkkunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile de Maximilien"
+      },
+      {
+        "lang": "nl",
+        "name": "Grootsnavelzaadkraker"
+      },
+      {
+        "lang": "sv",
+        "name": "maximilianfröfink"
       }
     ]
   },
@@ -220,6 +430,14 @@
       {
         "lang": "en",
         "name": "Black-and-white Seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero negriblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-capim-preto-e-branco"
       }
     ]
   },
@@ -271,7 +489,20 @@
   },
   {
     "scientific_name": "Sporophila intermedia",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey Seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero intermedio"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-capim-cinza"
+      }
+    ]
   },
   {
     "scientific_name": "Sporophila insulata",
@@ -308,6 +539,91 @@
       {
         "lang": "pt",
         "name": "caboclinho-de-sobre-ferrugem"
+      },
+      {
+        "lang": "bg",
+        "name": "Сивокафява чинка"
+      },
+      {
+        "lang": "cy",
+        "name": "Hadysor torwinau'r Gorllewin"
+      },
+      {
+        "lang": "fa",
+        "name": "دانه‌خوار ته‌حنایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile à croupion roux"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodstuitdikbekje"
+      },
+      {
+        "lang": "sv",
+        "name": "rostkindad fröfink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sporophila funerea",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "louskač dlaskozobý"
+      },
+      {
+        "lang": "da",
+        "name": "Tyknæbbet Frøfinke"
+      },
+      {
+        "lang": "de",
+        "name": "Dickschnabel-Reisknacker"
+      },
+      {
+        "lang": "en",
+        "name": "Thick-billed Seed-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero picogrueso"
+      },
+      {
+        "lang": "fi",
+        "name": "paksunokkasirkkunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile à bec fort"
+      },
+      {
+        "lang": "it",
+        "name": "Beccasemi beccospesso"
+      },
+      {
+        "lang": "nl",
+        "name": "Diksnavelzaadkraker"
+      },
+      {
+        "lang": "no",
+        "name": "Sørgefrøspurv"
+      },
+      {
+        "lang": "pl",
+        "name": "ziarnojadek żałobny"
+      },
+      {
+        "lang": "sk",
+        "name": "kňažík smútočný"
+      },
+      {
+        "lang": "sv",
+        "name": "Tjocknäbbad frösparv"
+      },
+      {
+        "lang": "zh",
+        "name": "厚嘴籽雀"
       }
     ]
   },
@@ -315,15 +631,53 @@
     "scientific_name": "Sporophila frontalis",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Белочела бразилска чинка"
+      },
+      {
+        "lang": "cy",
+        "name": "Hadysor talcenwyn"
+      },
+      {
+        "lang": "en",
+        "name": "Buffy-fronted seedeater"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile à front blanc"
+      },
+      {
+        "lang": "nl",
+        "name": "Reuzendikbekje"
+      },
+      {
+        "lang": "sv",
+        "name": "vitpannad fröfink"
+      },
+      {
         "lang": "es",
         "name": "Corbatita olivaceo"
       },
       {
         "lang": "pt",
-        "name": "Pixoxó",
-        "synonyms": [
-          "Chanchão"
-        ]
+        "name": "Pixoxó"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sporophila fringilloides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-naped seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero nuquiblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-capim-de-coleira"
       }
     ]
   },
@@ -331,8 +685,76 @@
     "scientific_name": "Sporophila falcirostris",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Теминкова чинка"
+      },
+      {
+        "lang": "cy",
+        "name": "Hadysor Temminck"
+      },
+      {
+        "lang": "en",
+        "name": "Temminck's seedeater"
+      },
+      {
+        "lang": "fa",
+        "name": "دانه‌خوار تمینک"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile de Temminck"
+      },
+      {
+        "lang": "hu",
+        "name": "Horonycsőrű törpepinty"
+      },
+      {
+        "lang": "nl",
+        "name": "Temmincks dikbekje"
+      },
+      {
         "lang": "pt",
         "name": "Cigarra-verdadeira"
+      },
+      {
+        "lang": "sv",
+        "name": "bambufröfink"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero picudo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sporophila crassirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Large-billed Seed-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero rastrojero"
+      },
+      {
+        "lang": "pl",
+        "name": "Ziarnojadek grubodzioby"
+      },
+      {
+        "lang": "pt",
+        "name": "Bicudinho-belenzinho"
+      },
+      {
+        "lang": "pt-br",
+        "name": "bicudinho"
+      },
+      {
+        "lang": "nl",
+        "name": "Dikbekzaadkraker",
+        "synonyms": [
+          "twatwa"
+        ]
       }
     ]
   },
@@ -418,6 +840,10 @@
       {
         "lang": "pt",
         "name": "Coleira-do-brejo"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero acollarado"
       }
     ]
   },
@@ -425,12 +851,40 @@
     "scientific_name": "Sporophila cinnamomea",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Hadysor gwinau"
+      },
+      {
         "lang": "en",
         "name": "Chestnut Seedeater"
       },
       {
+        "lang": "es",
+        "name": "Capuchino corona gris"
+      },
+      {
+        "lang": "fa",
+        "name": "دانه‌خوار بلوطی"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile cannelle"
+      },
+      {
+        "lang": "lt",
+        "name": "Kaštoninis sėklalesis"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaneeldikbekje"
+      },
+      {
         "lang": "pt",
         "name": "Caboclinho-de-chapéu-cinzento"
+      },
+      {
+        "lang": "sv",
+        "name": "kastanjefröfink"
       }
     ]
   },
@@ -460,7 +914,15 @@
     "common_names": [
       {
         "lang": "pt",
-        "name": "Coleiro-papa-capim"
+        "name": "Coleirinho"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero corbatita"
+      },
+      {
+        "lang": "en",
+        "name": "Double-collared Seedeater"
       }
     ]
   },
@@ -473,7 +935,11 @@
       },
       {
         "lang": "es",
-        "name": "Espiguero de Lesson"
+        "name": "Senillero de Lesson"
+      },
+      {
+        "lang": "pt",
+        "name": "estrela-do-norte"
       }
     ]
   },
@@ -520,6 +986,23 @@
     ]
   },
   {
+    "scientific_name": "Sporophila atrirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-billed Seed-finch"
+      },
+      {
+        "lang": "pt",
+        "name": "Curió"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero piquinegro"
+      }
+    ]
+  },
+  {
     "scientific_name": "Sporophila ardesiaca",
     "common_names": [
       {
@@ -533,6 +1016,23 @@
       {
         "lang": "es",
         "name": "Semillero de Dubois"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sporophila angolensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lesser Seed-finch"
+      },
+      {
+        "lang": "pt",
+        "name": "Curió"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero curió"
       }
     ]
   },
@@ -571,6 +1071,18 @@
       {
         "lang": "pt",
         "name": "Brejal"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Golinho"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero gorjiblanco"
+      },
+      {
+        "lang": "en",
+        "name": "White-throated Seedeater"
       }
     ]
   }

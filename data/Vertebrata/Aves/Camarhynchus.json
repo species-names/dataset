@@ -9,27 +9,155 @@
       {
         "lang": "fi",
         "name": "Isopuusirkku"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin lorito"
       }
     ]
   },
   {
     "scientific_name": "Camarhynchus pauper",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Medium Tree-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin modesto"
+      },
+      {
+        "lang": "bg",
+        "name": "Средна дървесна чинка"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila coed pryfysol Ynys Charles"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره درختی متوسط"
+      },
+      {
+        "lang": "fr",
+        "name": "Géospize modeste"
+      },
+      {
+        "lang": "hu",
+        "name": "Közepes rovarevő fapinty"
+      },
+      {
+        "lang": "lt",
+        "name": "Vidutinis miškinis kikilis"
+      },
+      {
+        "lang": "nl",
+        "name": "Charles' boomvink"
+      },
+      {
+        "lang": "nv",
+        "name": "Eʼeʼaahjí Tónteeldę́ę́ʼ tsinyiʼ daatsohí"
+      },
+      {
+        "lang": "sv",
+        "name": "mellanträdfink"
+      }
+    ]
   },
   {
     "scientific_name": "Camarhynchus parvulus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Small Tree-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin chico"
+      }
+    ]
   },
   {
     "scientific_name": "Camarhynchus pallidus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Harkálypinty"
+      },
+      {
+        "lang": "en",
+        "name": "Woodpecker Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin carpintero"
+      }
+    ]
   },
   {
     "scientific_name": "Camarhynchus heliobates",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Camarhynchus crassirostris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mangrove Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin manglero"
+      },
+      {
+        "lang": "bg",
+        "name": "Мангрова чинка"
+      },
+      {
+        "lang": "cs",
+        "name": "Pěnkavka mangrovová"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila coed mangrof"
+      },
+      {
+        "lang": "de",
+        "name": "Mangrovedarwinfink"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره حرا"
+      },
+      {
+        "lang": "fi",
+        "name": "Mangrovesirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Géospize des mangroves"
+      },
+      {
+        "lang": "hu",
+        "name": "Mangrovepinty"
+      },
+      {
+        "lang": "nl",
+        "name": "Mangrovevink"
+      },
+      {
+        "lang": "nv",
+        "name": "Eʼeʼaahjí Tónteeldę́ę́ʼ tábąąh daatsohí"
+      },
+      {
+        "lang": "pl",
+        "name": "Kłowacz namorzynowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Мангровый древесный вьюрок"
+      },
+      {
+        "lang": "sv",
+        "name": "mangrovefink"
+      }
+    ]
   }
 ]

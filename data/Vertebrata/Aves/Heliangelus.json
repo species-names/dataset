@@ -1,18 +1,5 @@
 [
   {
-    "scientific_name": "Heliangelus zusii",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Bogota Sunangel"
-      },
-      {
-        "lang": "pl",
-        "name": "lordzik czarny"
-      }
-    ]
-  },
-  {
     "scientific_name": "Heliangelus viola",
     "common_names": [
       {
@@ -31,6 +18,19 @@
     ]
   },
   {
+    "scientific_name": "Heliangelus spencei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Merida Sunangel"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Mérida"
+      }
+    ]
+  },
+  {
     "scientific_name": "Heliangelus regalis",
     "common_names": [
       {
@@ -44,6 +44,30 @@
       {
         "lang": "fr",
         "name": "Héliange Royale"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí àngel blau"
+      },
+      {
+        "lang": "cy",
+        "name": "Haulangel brenhinol"
+      },
+      {
+        "lang": "de",
+        "name": "Blaue Sonnennymphe"
+      },
+      {
+        "lang": "hu",
+        "name": "Királyi napfénykolibri"
+      },
+      {
+        "lang": "nl",
+        "name": "Peruaanse zonnekolibrie"
+      },
+      {
+        "lang": "sv",
+        "name": "kungssolängel"
       }
     ]
   },

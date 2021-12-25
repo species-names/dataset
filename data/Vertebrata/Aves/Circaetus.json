@@ -1,5 +1,26 @@
 [
   {
+    "scientific_name": "Circaetus spectabilis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Orlík jestřábovitý"
+      },
+      {
+        "lang": "en",
+        "name": "Congo Serpent Eagle"
+      },
+      {
+        "lang": "es",
+        "name": "Culebera congoleña"
+      },
+      {
+        "lang": "pl",
+        "name": "Wężojad kongijski"
+      }
+    ]
+  },
+  {
     "scientific_name": "Circaetus rhodopensis",
     "common_names": []
   },
@@ -101,7 +122,7 @@
       },
       {
         "lang": "br",
-        "name": "Ar skoulerer hañv"
+        "name": "Skoulerer-hañv"
       },
       {
         "lang": "ca",
@@ -129,18 +150,15 @@
       },
       {
         "lang": "en",
-        "name": "Short-toed Eagle",
-        "synonyms": [
-          "Short-toed Snake-Eagle"
-        ]
+        "name": "Short-toed Eagle"
       },
       {
         "lang": "eo",
-        "name": "Serpentaglo"
+        "name": "Komuna serpentaglo"
       },
       {
         "lang": "es",
-        "name": "Culebrera Europea"
+        "name": "Culebrera europea"
       },
       {
         "lang": "et",
@@ -152,7 +170,7 @@
       },
       {
         "lang": "fi",
-        "name": "käärmekotka"
+        "name": "Käärmekotka"
       },
       {
         "lang": "fr",
@@ -264,14 +282,11 @@
       },
       {
         "lang": "sq",
-        "name": "Shqiponja gjarperngrenese"
+        "name": "Shqiponja gjarpërngrënëse"
       },
       {
         "lang": "sr",
-        "name": "orao zmijar",
-        "synonyms": [
-          "Орао змијар"
-        ]
+        "name": "Orao zmijar - Орао змијар"
       },
       {
         "lang": "sv",
@@ -291,10 +306,7 @@
       },
       {
         "lang": "uk",
-        "name": "Змієїд",
-        "synonyms": [
-          "крачун"
-        ]
+        "name": "Змієїд"
       },
       {
         "lang": "vi",
@@ -478,7 +490,7 @@
       },
       {
         "lang": "en",
-        "name": "Beaudouin's Snake-eagle"
+        "name": "Beaudouin's Snake Eagle"
       },
       {
         "lang": "es",
@@ -487,6 +499,46 @@
       {
         "lang": "pl",
         "name": "Gadożer prążkowany"
+      },
+      {
+        "lang": "br",
+        "name": "Skoulerer Beaudouin"
+      },
+      {
+        "lang": "ca",
+        "name": "Sepentari del Sahel"
+      },
+      {
+        "lang": "de",
+        "name": "Beaudouin-Schlangenadler"
+      },
+      {
+        "lang": "eo",
+        "name": "Boduina serpentaglo"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب مارخور بودون"
+      },
+      {
+        "lang": "fi",
+        "name": "Sahelinkäärmekotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Circaète de Beaudouin"
+      },
+      {
+        "lang": "hu",
+        "name": "Beaudouin-kígyászölyv"
+      },
+      {
+        "lang": "nl",
+        "name": "Beaudouins Slangenarend"
+      },
+      {
+        "lang": "sv",
+        "name": "Sahelormörn"
       }
     ]
   }

@@ -3,20 +3,80 @@
     "scientific_name": "Arenaria melanocephala",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Morfedenn zu"
+      },
+      {
+        "lang": "ca",
+        "name": "Remena-rocs fosc"
+      },
+      {
         "lang": "cs",
         "name": "Kameňáček černohlavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiad du'r traeth"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkopf-Steinwälzer"
       },
       {
         "lang": "el",
         "name": "Μαύρος χαλικοκυλιστής"
       },
       {
+        "lang": "en",
+        "name": "Black Turnstone"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigra ŝtonturnulo"
+      },
+      {
+        "lang": "es",
+        "name": "Vuelvepiedras oscuro"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ ریگ سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Alaskankarikukko"
+      },
+      {
         "lang": "fr",
         "name": "Tournepierre noir"
       },
       {
+        "lang": "it",
+        "name": "Voltapietre nero"
+      },
+      {
         "lang": "ja",
         "name": "クロキョウジョシギ"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnais akmeņtārtiņš"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte steenloper"
+      },
+      {
+        "lang": "nn",
+        "name": "Svartsteinvendar"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsénáhideeníłí łizhinígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Kamusznik czarnogłowy"
       },
       {
         "lang": "sv",
@@ -41,7 +101,7 @@
       },
       {
         "lang": "az",
-        "name": "Daşçevirən cüllüt"
+        "name": "Sahil daşçevirəni"
       },
       {
         "lang": "be",
@@ -61,11 +121,11 @@
       },
       {
         "lang": "ca",
-        "name": "Picaplatges"
+        "name": "Remena-rocs comú"
       },
       {
         "lang": "ceb",
-        "name": "talingting"
+        "name": "Talingting"
       },
       {
         "lang": "cs",
@@ -77,7 +137,7 @@
       },
       {
         "lang": "cy",
-        "name": "Cwtaid y traeth"
+        "name": "Cwtaid y Traeth"
       },
       {
         "lang": "da",
@@ -93,7 +153,7 @@
       },
       {
         "lang": "el",
-        "name": "Βραχονεραλλίδα"
+        "name": "Χαλικοκυλιστής"
       },
       {
         "lang": "en",
@@ -101,11 +161,11 @@
       },
       {
         "lang": "eo",
-        "name": "Koluma ŝtonturnulo"
+        "name": "Bunta ŝtonturnulo"
       },
       {
         "lang": "es",
-        "name": "Vuelvepiedras Común"
+        "name": "Vuelvepiedras común"
       },
       {
         "lang": "et",
@@ -114,6 +174,10 @@
       {
         "lang": "eu",
         "name": "Harri-iraulari"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ ریگ سرخ"
       },
       {
         "lang": "fi",
@@ -141,14 +205,11 @@
       },
       {
         "lang": "gd",
-        "name": "Gobhlachan",
-        "synonyms": [
-          "Trìlleachan Beag"
-        ]
+        "name": "Gobhlachan"
       },
       {
         "lang": "gl",
-        "name": "Píldora raiada"
+        "name": "Píllara riscada"
       },
       {
         "lang": "gn",
@@ -156,7 +217,7 @@
       },
       {
         "lang": "gu",
-        "name": "ટિટોડી"
+        "name": "કાચબરંગી"
       },
       {
         "lang": "gv",
@@ -168,7 +229,7 @@
       },
       {
         "lang": "he",
-        "name": "ארנריה"
+        "name": "ארנריה אדמונית"
       },
       {
         "lang": "hi",
@@ -216,10 +277,7 @@
       },
       {
         "lang": "kk",
-        "name": "Қызғыш",
-        "synonyms": [
-          "Тасшарлаған"
-        ]
+        "name": "Тасшарлаған"
       },
       {
         "lang": "kl",
@@ -235,7 +293,7 @@
       },
       {
         "lang": "lt",
-        "name": "Akmenė (paukštis)"
+        "name": "Akmenė"
       },
       {
         "lang": "lv",
@@ -243,14 +301,15 @@
       },
       {
         "lang": "mk",
-        "name": "Црногушеста брмчалка"
+        "name": "Камењарче"
+      },
+      {
+        "lang": "ml",
+        "name": "കല്ലുരുട്ടിക്കാട"
       },
       {
         "lang": "mn",
-        "name": "Алаг хайргач",
-        "synonyms": [
-          "ᠠᠯᠠᠭ ᠬᠠᠢᠢᠷᠭᠣᠴᠢ"
-        ]
+        "name": "Алаг хайргач - ᠠᠯᠠᠭ ᠬᠠᠢᠢᠷᠭᠣᠴᠢ"
       },
       {
         "lang": "mr",
@@ -265,6 +324,14 @@
         "name": "Monakella Imperjali"
       },
       {
+        "lang": "myv",
+        "name": "Кевень велявтниця ведьчика"
+      },
+      {
+        "lang": "ne",
+        "name": "बगर ज्यामी"
+      },
+      {
         "lang": "nl",
         "name": "Steenloper"
       },
@@ -275,6 +342,10 @@
       {
         "lang": "no",
         "name": "Steinvender"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsénáhideeníłí łichíʼígíí"
       },
       {
         "lang": "pa",
@@ -302,7 +373,7 @@
       },
       {
         "lang": "rm",
-        "name": "rivarel mascra"
+        "name": "Rivarel mascra"
       },
       {
         "lang": "ro",
@@ -334,10 +405,7 @@
       },
       {
         "lang": "sr",
-        "name": "Prudnik kamenjar",
-        "synonyms": [
-          "Прудник камењар"
-        ]
+        "name": "Prudnik kamenjar - Прудник камењар"
       },
       {
         "lang": "sv",
@@ -349,7 +417,7 @@
       },
       {
         "lang": "ta",
-        "name": "Kalthiruppi Ullan"
+        "name": "கல்திருப்பி உள்ளான்"
       },
       {
         "lang": "th",
@@ -373,7 +441,7 @@
       },
       {
         "lang": "vi",
-        "name": "Chim Rẽ khoang"
+        "name": "Dẽ khoang"
       },
       {
         "lang": "zh",

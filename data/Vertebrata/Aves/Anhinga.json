@@ -11,16 +11,96 @@
         "name": "Slanghalsvoël"
       },
       {
+        "lang": "ar",
+        "name": "قاذف أفريقي"
+      },
+      {
+        "lang": "az",
+        "name": "Afrika ilanboyunu"
+      },
+      {
+        "lang": "bg",
+        "name": "Африканска змиешийка"
+      },
+      {
+        "lang": "br",
+        "name": "Evn-naer Afrika"
+      },
+      {
+        "lang": "ca",
+        "name": "Anhinga africana"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwanwr Affrica"
+      },
+      {
+        "lang": "da",
+        "name": "Afrikansk slangehalsfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Afrikanischer Schlangenhalsvogel"
+      },
+      {
         "lang": "en",
         "name": "African Darter"
+      },
+      {
+        "lang": "eo",
+        "name": "Afrika sagobirdo"
+      },
+      {
+        "lang": "es",
+        "name": "Aninga africana"
+      },
+      {
+        "lang": "fa",
+        "name": "مارگردن آفریقایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Anhinga d'Afrique"
       },
       {
         "lang": "he",
         "name": "נחשון אפריקאי"
       },
       {
+        "lang": "hu",
+        "name": "Afrikai kígyónyakúmadár"
+      },
+      {
+        "lang": "id",
+        "name": "Pecuk-ular afrika"
+      },
+      {
+        "lang": "it",
+        "name": "Anhinga africana"
+      },
+      {
+        "lang": "ka",
+        "name": "აფრიკული ანჰინგა"
+      },
+      {
+        "lang": "ln",
+        "name": "Lingɔngɔ"
+      },
+      {
         "lang": "nl",
         "name": "Afrikaanse slangehalsvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Afrikaslangehals"
+      },
+      {
+        "lang": "pl",
+        "name": "Wężówka afrykańska"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканская змеешейка"
       },
       {
         "lang": "sv",
@@ -28,10 +108,19 @@
       },
       {
         "lang": "th",
-        "name": "นกอ้ายงั่วแอฟริกัน",
-        "synonyms": [
-          "นกคองูแอฟริกัน"
-        ]
+        "name": "นกอ้ายงั่วแอฟริกัน"
+      },
+      {
+        "lang": "uk",
+        "name": "Змієшийка африканська"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim cổ rắn châu Phi"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "紅蛇鵜"
       }
     ]
   },
@@ -47,8 +136,28 @@
         "name": "Evn-naer Aostralia"
       },
       {
+        "lang": "ca",
+        "name": "Anhinga australiana"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwanwr Awstralia"
+      },
+      {
+        "lang": "da",
+        "name": "Australsk slangehalsfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Australischer Schlangenhalsvogel"
+      },
+      {
         "lang": "en",
         "name": "Australian Darter"
+      },
+      {
+        "lang": "eo",
+        "name": "Aŭstralazia sagobirdo"
       },
       {
         "lang": "es",
@@ -63,16 +172,36 @@
         "name": "Anhinga d'Australie"
       },
       {
+        "lang": "he",
+        "name": "נחשון אוסטרלי"
+      },
+      {
         "lang": "hu",
         "name": "Ausztrál kígyónyakúmadár"
+      },
+      {
+        "lang": "it",
+        "name": "Aninga australiana"
       },
       {
         "lang": "nl",
         "name": "Australische slangehalsvogel"
       },
       {
+        "lang": "no",
+        "name": "Australslangehals"
+      },
+      {
+        "lang": "ru",
+        "name": "Австралийская змеешейка"
+      },
+      {
         "lang": "sv",
         "name": "Australisk ormhalsfågel"
+      },
+      {
+        "lang": "uk",
+        "name": "Змієшийка австралійська"
       },
       {
         "lang": "vi",
@@ -84,24 +213,120 @@
     "scientific_name": "Anhinga melanogaster",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "قاذف أحمر"
+      },
+      {
+        "lang": "bg",
+        "name": "Индийска змиешийка"
+      },
+      {
+        "lang": "bh",
+        "name": "पनवा"
+      },
+      {
         "lang": "bn",
         "name": "গয়ার"
       },
       {
+        "lang": "br",
+        "name": "Evn-naer India"
+      },
+      {
+        "lang": "ca",
+        "name": "Anhinga asiàtica"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwanwr India"
+      },
+      {
+        "lang": "da",
+        "name": "Indisk slangehalsfugl"
+      },
+      {
         "lang": "de",
-        "name": "Indien-Schlangenhalsvogel"
+        "name": "Indischer Schlangenhalsvogel"
       },
       {
         "lang": "en",
         "name": "Oriental Darter"
       },
       {
+        "lang": "eo",
+        "name": "Orienta sagobirdo"
+      },
+      {
+        "lang": "es",
+        "name": "Pato aguja asiático"
+      },
+      {
+        "lang": "fa",
+        "name": "مارگردن شرقی"
+      },
+      {
+        "lang": "fi",
+        "name": "Käärmekaula"
+      },
+      {
+        "lang": "fr",
+        "name": "Anhinga roux"
+      },
+      {
+        "lang": "gu",
+        "name": "સર્પગ્રીવા"
+      },
+      {
+        "lang": "he",
+        "name": "נחשון הודי"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketehasú kígyónyakúmadár"
+      },
+      {
+        "lang": "id",
+        "name": "Pecuk-ular asia"
+      },
+      {
+        "lang": "it",
+        "name": "Aninga indiana"
+      },
+      {
+        "lang": "ml",
+        "name": "ചേരക്കോഴി"
+      },
+      {
         "lang": "ms",
         "name": "Burung Pependang Timur"
       },
       {
+        "lang": "my",
+        "name": "တင်ကျီးဥပန်း"
+      },
+      {
+        "lang": "ne",
+        "name": "सुइरोठुँडे"
+      },
+      {
         "lang": "nl",
         "name": "Indische slangehalsvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Skjeggslangehals"
+      },
+      {
+        "lang": "pl",
+        "name": "Wężówka indyjska"
+      },
+      {
+        "lang": "pnb",
+        "name": "ھندستانی ڈارٹر"
+      },
+      {
+        "lang": "ru",
+        "name": "Индийская змеешейка"
       },
       {
         "lang": "sk",
@@ -117,14 +342,23 @@
       },
       {
         "lang": "th",
-        "name": "นกอ้ายงั่ว",
-        "synonyms": [
-          "นกคองู"
-        ]
+        "name": "นกอ้ายงั่ว"
       },
       {
         "lang": "tr",
         "name": "Yılanboyun"
+      },
+      {
+        "lang": "uk",
+        "name": "Змієшийка чорночерева"
+      },
+      {
+        "lang": "vi",
+        "name": "Điên điển phương Đông"
+      },
+      {
+        "lang": "or",
+        "name": "ଖପର ଖାଇ"
       }
     ]
   },
@@ -132,8 +366,32 @@
     "scientific_name": "Anhinga anhinga",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "زقة أميركية"
+      },
+      {
+        "lang": "az",
+        "name": "Adi ilanboyun"
+      },
+      {
+        "lang": "bg",
+        "name": "Американска змиешийка"
+      },
+      {
+        "lang": "br",
+        "name": "Evn-naer Amerika"
+      },
+      {
+        "lang": "ca",
+        "name": "Anhinga americà"
+      },
+      {
         "lang": "cs",
-        "name": "anhinga americká"
+        "name": "Anhinga americká"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwanwr America"
       },
       {
         "lang": "da",
@@ -145,10 +403,7 @@
       },
       {
         "lang": "en",
-        "name": "Anhinga",
-        "synonyms": [
-          "American Darter"
-        ]
+        "name": "Anhinga"
       },
       {
         "lang": "eo",
@@ -156,18 +411,19 @@
       },
       {
         "lang": "es",
-        "name": "Aninga",
-        "synonyms": [
-          "Anhinga americana"
-        ]
+        "name": "Anhinga americana"
       },
       {
         "lang": "et",
-        "name": "ameerika madukael"
+        "name": "Ameerika madukael"
+      },
+      {
+        "lang": "fa",
+        "name": "مارگردن آمریکایی"
       },
       {
         "lang": "fi",
-        "name": "amerikankäärmekaula"
+        "name": "Amerikankäärmekaula"
       },
       {
         "lang": "fr",
@@ -182,8 +438,12 @@
         "name": "Aninga"
       },
       {
+        "lang": "he",
+        "name": "נחשון אמריקאי"
+      },
+      {
         "lang": "hu",
-        "name": "amerikai kígyónyakúmadár"
+        "name": "Amerikai kígyónyakúmadár"
       },
       {
         "lang": "it",
@@ -191,10 +451,11 @@
       },
       {
         "lang": "ja",
-        "name": "アメリカヘビウ",
-        "synonyms": [
-          "amerikahebiu"
-        ]
+        "name": "アメリカヘビウ"
+      },
+      {
+        "lang": "ka",
+        "name": "ამერიკული ანჰინგა"
       },
       {
         "lang": "lt",
@@ -205,6 +466,10 @@
         "name": "Burung Kosa"
       },
       {
+        "lang": "nah",
+        "name": "Acoyotl"
+      },
+      {
         "lang": "nl",
         "name": "Amerikaanse slangenhalsvogel"
       },
@@ -213,19 +478,20 @@
         "name": "Amerikaslangehals"
       },
       {
+        "lang": "nv",
+        "name": "Shádiʼááhdę́ę́ʼ tłʼiishkʼosí"
+      },
+      {
         "lang": "pl",
         "name": "Wężówka amerykańska"
       },
       {
-        "lang": "pt-br",
-        "name": "Biguatinga"
+        "lang": "pt",
+        "name": "Carará"
       },
       {
-        "lang": "pt",
-        "name": "Biguatinga",
-        "synonyms": [
-          "Carará"
-        ]
+        "lang": "pt-br",
+        "name": "Biguatinga"
       },
       {
         "lang": "ru",
@@ -233,11 +499,19 @@
       },
       {
         "lang": "sk",
-        "name": "anhinga jarabá"
+        "name": "Anhinga jarabá"
       },
       {
         "lang": "sv",
         "name": "Amerikansk ormhalsfågel"
+      },
+      {
+        "lang": "uk",
+        "name": "Змієшийка американська"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim cổ rắn châu Mỹ"
       },
       {
         "lang": "zh",

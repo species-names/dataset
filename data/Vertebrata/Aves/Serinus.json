@@ -164,8 +164,16 @@
         "name": "Sarı bülbül"
       },
       {
+        "lang": "azb",
+        "name": "ساری بولبول"
+      },
+      {
         "lang": "bg",
         "name": "Канарче"
+      },
+      {
+        "lang": "br",
+        "name": "Seran Kanariez"
       },
       {
         "lang": "ca",
@@ -174,6 +182,10 @@
       {
         "lang": "cs",
         "name": "Kanár divoký"
+      },
+      {
+        "lang": "cy",
+        "name": "Caneri"
       },
       {
         "lang": "da",
@@ -185,19 +197,19 @@
       },
       {
         "lang": "en",
-        "name": "Canary"
+        "name": "Atlantic Canary"
       },
       {
         "lang": "el",
         "name": "Καναρίνι"
       },
       {
-        "lang": "es",
-        "name": "Canario"
-      },
-      {
         "lang": "eo",
         "name": "Kanario"
+      },
+      {
+        "lang": "es",
+        "name": "Serín canario"
       },
       {
         "lang": "eu",
@@ -205,7 +217,7 @@
       },
       {
         "lang": "fa",
-        "name": "قناری"
+        "name": "قناری آتلانتیک"
       },
       {
         "lang": "fi",
@@ -220,25 +232,6 @@
         "name": "Canari"
       },
       {
-        "lang": "ko",
-        "name": "카나리아"
-      },
-      {
-        "lang": "io",
-        "name": "Kanario"
-      },
-      {
-        "lang": "id",
-        "name": "Burung kenari",
-        "synonyms": [
-          "Kenari"
-        ]
-      },
-      {
-        "lang": "it",
-        "name": "Canarino"
-      },
-      {
         "lang": "he",
         "name": "קנרית"
       },
@@ -247,12 +240,40 @@
         "name": "Kanárimadár"
       },
       {
+        "lang": "hy",
+        "name": "Դեղձանիկ"
+      },
+      {
+        "lang": "id",
+        "name": "Burung kenari"
+      },
+      {
+        "lang": "io",
+        "name": "Kanario"
+      },
+      {
+        "lang": "it",
+        "name": "Canarino selvatico"
+      },
+      {
+        "lang": "ja",
+        "name": "カナリア"
+      },
+      {
         "lang": "jv",
-        "name": "Manuk Kenari"
+        "name": "Kenari"
       },
       {
         "lang": "ka",
         "name": "კანარის ჩიტი"
+      },
+      {
+        "lang": "kk",
+        "name": "Қанар бұлбұлы"
+      },
+      {
+        "lang": "ko",
+        "name": "카나리아"
       },
       {
         "lang": "lb",
@@ -263,16 +284,20 @@
         "name": "Kanarėlė"
       },
       {
+        "lang": "mr",
+        "name": "कॅनरी पक्षी"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kenari"
+      },
+      {
         "lang": "my",
         "name": "ကနေရီငှက်"
       },
       {
         "lang": "nl",
         "name": "Kanarie"
-      },
-      {
-        "lang": "ja",
-        "name": "カナリア"
       },
       {
         "lang": "no",
@@ -283,56 +308,56 @@
         "name": "Kanarek"
       },
       {
-        "lang": "pt",
-        "name": "Canário",
-        "synonyms": [
-          "Canário-do-reino",
-          "Canário-belga"
-        ]
+        "lang": "ps",
+        "name": "اتلانتيکي کنري"
       },
       {
-        "lang": "rue",
-        "name": "Жовтогрудка"
+        "lang": "pt",
+        "name": "Canário"
       },
       {
         "lang": "ru",
         "name": "Канарский канареечный вьюрок"
       },
       {
+        "lang": "rue",
+        "name": "Жовтогрудка"
+      },
+      {
         "lang": "sc",
         "name": "Canarinu"
       },
       {
-        "lang": "simple",
-        "name": "Canary"
-      },
-      {
         "lang": "sr",
-        "name": "Дивљи канаринац",
-        "synonyms": [
-          "Divlji kanarinac, Острвски канаринац",
-          "Ostrvski kanarinac, Обични канаринац",
-          "Obični kanarinac"
-        ]
+        "name": "Дивљи канаринац - Divlji kanarinac"
       },
       {
         "lang": "sv",
-        "name": "Kanariesiska",
-        "synonyms": [
-          "Kanariefågel"
-        ]
-      },
-      {
-        "lang": "tl",
-        "name": "Kanaryo"
+        "name": "Kanariesiska"
       },
       {
         "lang": "th",
         "name": "นกคีรีบูน"
       },
       {
+        "lang": "tl",
+        "name": "Kanaryo"
+      },
+      {
         "lang": "tr",
         "name": "Kanarya"
+      },
+      {
+        "lang": "uk",
+        "name": "Канарка"
+      },
+      {
+        "lang": "uz",
+        "name": "Kanareyka"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim yến Đại Tây Dương"
       },
       {
         "lang": "zh",

@@ -40,7 +40,10 @@
       },
       {
         "lang": "el",
-        "name": "Φοινικοπερίστερο"
+        "name": "Φοινικοπερίστερο",
+        "synonyms": [
+          "φοινικοτρύγονο"
+        ]
       },
       {
         "lang": "en",
@@ -220,8 +223,24 @@
     "scientific_name": "Spilopelia chinensis",
     "common_names": [
       {
+        "lang": "ban",
+        "name": "ᬢᭂᬓᬸᬓᬸᬃ"
+      },
+      {
+        "lang": "bh",
+        "name": "चितकबरी पंडुक"
+      },
+      {
         "lang": "bn",
         "name": "তিলা ঘুঘু"
+      },
+      {
+        "lang": "ca",
+        "name": "Tórtora colltacada oriental"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur warfrech"
       },
       {
         "lang": "de",
@@ -269,7 +288,11 @@
       },
       {
         "lang": "kn",
-        "name": "ಚೋರೆ"
+        "name": "ಚೋರೆ ಹಕ್ಕಿ"
+      },
+      {
+        "lang": "ko",
+        "name": "목점박이비둘기"
       },
       {
         "lang": "ml",
@@ -300,6 +323,18 @@
         "name": "Perlekragedue"
       },
       {
+        "lang": "or",
+        "name": "ବଣକାପ୍ତା"
+      },
+      {
+        "lang": "pa",
+        "name": "ਚੀਨੀ ਘੁੱਗੀ"
+      },
+      {
+        "lang": "pl",
+        "name": "Synogarlica perłoszyja"
+      },
+      {
         "lang": "pnb",
         "name": "چتری کگی"
       },
@@ -312,8 +347,16 @@
         "name": "Пятнистая горлица"
       },
       {
+        "lang": "sd",
+        "name": "ڳيرو"
+      },
+      {
         "lang": "sv",
         "name": "Pärlhalsduva"
+      },
+      {
+        "lang": "ta",
+        "name": "மணிப்புறா"
       },
       {
         "lang": "th",

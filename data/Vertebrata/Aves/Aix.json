@@ -3,6 +3,10 @@
     "scientific_name": "Aix sponsa",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بطة الغياض"
+      },
+      {
         "lang": "bg",
         "name": "Каролинка"
       },
@@ -12,11 +16,15 @@
       },
       {
         "lang": "ca",
-        "name": "Ànec carolí"
+        "name": "Ànec de Carolina"
       },
       {
         "lang": "cs",
         "name": "Kachnička karolínská"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden coed"
       },
       {
         "lang": "da",
@@ -32,11 +40,15 @@
       },
       {
         "lang": "eo",
-        "name": "Arbanaso"
+        "name": "Karolina anaso"
       },
       {
         "lang": "es",
         "name": "Pato Joyuyo"
+      },
+      {
+        "lang": "fa",
+        "name": "اردک جنگلی"
       },
       {
         "lang": "fi",
@@ -45,6 +57,10 @@
       {
         "lang": "fr",
         "name": "Canard branchu"
+      },
+      {
+        "lang": "ga",
+        "name": "Lacha choille"
       },
       {
         "lang": "he",
@@ -83,6 +99,14 @@
         "name": "Miškinė antis"
       },
       {
+        "lang": "lv",
+        "name": "Koku pīle"
+      },
+      {
+        "lang": "mk",
+        "name": "Каролинка"
+      },
+      {
         "lang": "ms",
         "name": "Itik Kayu"
       },
@@ -107,8 +131,16 @@
         "name": "Pato-carolino"
       },
       {
+        "lang": "ro",
+        "name": "Rață cu ochi de șoim"
+      },
+      {
         "lang": "ru",
         "name": "Каролинская утка"
+      },
+      {
+        "lang": "sh",
+        "name": "Karolinka"
       },
       {
         "lang": "sk",
@@ -120,15 +152,15 @@
       },
       {
         "lang": "ta",
-        "name": "காட்டு வாத்து"
+        "name": "மர வாத்து"
       },
       {
         "lang": "uk",
-        "name": "Каролінська качка"
+        "name": "Каролінка"
       },
       {
         "lang": "vi",
-        "name": "Vịt Carolina"
+        "name": "Vịt gỗ"
       },
       {
         "lang": "zh",
@@ -185,7 +217,7 @@
       },
       {
         "lang": "eo",
-        "name": "Mandarenanaso"
+        "name": "Mandarena anaso"
       },
       {
         "lang": "es",
@@ -289,7 +321,7 @@
       },
       {
         "lang": "pl",
-        "name": "Mandarynka"
+        "name": "mandarynka"
       },
       {
         "lang": "pnb",

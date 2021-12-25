@@ -3,12 +3,44 @@
     "scientific_name": "Dendropicos stierlingi",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نقار الخشب ستيرلنج"
+      },
+      {
+        "lang": "ca",
+        "name": "Picot de Stierling"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell Stierling"
+      },
+      {
         "lang": "en",
         "name": "Stierling's Woodpecker"
       },
       {
+        "lang": "es",
+        "name": "Pito Stierling"
+      },
+      {
         "lang": "fi",
         "name": "Mosambikintikkanen"
+      },
+      {
+        "lang": "fr",
+        "name": "Pic de Stierling"
+      },
+      {
+        "lang": "nl",
+        "name": "Stierlings specht"
+      },
+      {
+        "lang": "pnb",
+        "name": "سٹرلنگ چڑی ترکھان"
+      },
+      {
+        "lang": "sv",
+        "name": "Malawispett"
       }
     ]
   },
@@ -29,6 +61,14 @@
     "scientific_name": "Dendropicos poecilolaemus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Picot de pit clapejat"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell fronfraith"
+      },
+      {
         "lang": "en",
         "name": "Speckle-breasted Woodpecker"
       },
@@ -39,6 +79,22 @@
       {
         "lang": "fi",
         "name": "Rokkorintatikkanen"
+      },
+      {
+        "lang": "fr",
+        "name": "Pic à poitrine tachetée"
+      },
+      {
+        "lang": "nl",
+        "name": "Vlekborstspecht"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈینڈروپیکوس پوسیلولامس"
+      },
+      {
+        "lang": "sv",
+        "name": "Beigebukig hackspett"
       }
     ]
   },
@@ -78,6 +134,10 @@
       {
         "lang": "fi",
         "name": "Vihertikkanen"
+      },
+      {
+        "lang": "pt",
+        "name": "Pica-pau-de-cabeça-cinzenta"
       }
     ]
   },

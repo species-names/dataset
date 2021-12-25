@@ -130,7 +130,48 @@
   },
   {
     "scientific_name": "Loriculus flosculus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Lloret ratpenat de l'illa Flores"
+      },
+      {
+        "lang": "cy",
+        "name": "Loricît Wallace"
+      },
+      {
+        "lang": "en",
+        "name": "Wallace's hanging parrot"
+      },
+      {
+        "lang": "fi",
+        "name": "Floresinriippukaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Coryllis de Wallace"
+      },
+      {
+        "lang": "mrj",
+        "name": "Флорес кечӹшӹ попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Floresvleermuisparkiet"
+      },
+      {
+        "lang": "pnb",
+        "name": "والس ٹنگنا طوطا"
+      },
+      {
+        "lang": "ru",
+        "name": "Флоресский висячий попугайчик"
+      },
+      {
+        "lang": "sv",
+        "name": "floreshängpapegoja"
+      }
+    ]
   },
   {
     "scientific_name": "Loriculus exilis",

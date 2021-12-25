@@ -3,20 +3,64 @@
     "scientific_name": "Yungipicus temminckii",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Picot garser de Sulawesi"
+      },
+      {
+        "lang": "cy",
+        "name": "Corgnocell Temminck"
+      },
+      {
+        "lang": "de",
+        "name": "Temminckspecht"
+      },
+      {
         "lang": "en",
-        "name": "Sulawesi Woodpecker"
+        "name": "Sulawesi woodpecker"
       },
       {
         "lang": "es",
         "name": "Pico de Célebes"
       },
       {
+        "lang": "fa",
+        "name": "دارکوب کوتوله سولاوسی"
+      },
+      {
+        "lang": "fi",
+        "name": "Celebesinpikkutikka"
+      },
+      {
         "lang": "fr",
         "name": "Pic de Temminck"
       },
       {
+        "lang": "id",
+        "name": "Caladi sulawesi"
+      },
+      {
+        "lang": "ja",
+        "name": "セレベスコゲラ"
+      },
+      {
+        "lang": "nl",
+        "name": "Temmincks specht"
+      },
+      {
+        "lang": "pnb",
+        "name": "سلاویسی ٹھمنا چڑی ترکھان"
+      },
+      {
+        "lang": "sv",
+        "name": "Sulawesispett"
+      },
+      {
         "lang": "tr",
         "name": "Sulawesi ağaçkakanı"
+      },
+      {
+        "lang": "udm",
+        "name": "Сулавесиысь сизь"
       }
     ]
   },
@@ -45,12 +89,60 @@
     "scientific_name": "Yungipicus nanus",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "বাদামিচাঁদি কাঠকুড়ালি"
+      },
+      {
+        "lang": "ca",
+        "name": "Picot garser de l'Índia"
+      },
+      {
+        "lang": "de",
+        "name": "Braunscheitelspecht"
+      },
+      {
         "lang": "en",
         "name": "Brown-capped Pygmy Woodpecker"
       },
       {
+        "lang": "es",
+        "name": "Pico crestipardo"
+      },
+      {
         "lang": "fr",
         "name": "Pic à calotte brune"
+      },
+      {
+        "lang": "ja",
+        "name": "チャガシラコゲラ"
+      },
+      {
+        "lang": "ml",
+        "name": "തണ്ടാൻ‌ മരംകൊത്തി"
+      },
+      {
+        "lang": "ne",
+        "name": "पुन्टे काष्ठकुट"
+      },
+      {
+        "lang": "nl",
+        "name": "Indiase bruinkapspecht"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzięcioł brązowogłowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "پوری ٹوپیوالا ٹھمنا چڑی ترکھان"
+      },
+      {
+        "lang": "sv",
+        "name": "Hinduspett"
+      },
+      {
+        "lang": "ta",
+        "name": "சின்ன மரங்கொத்தி"
       }
     ]
   },
@@ -132,12 +224,44 @@
     "scientific_name": "Yungipicus kizuki",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Picot garser kizuki"
+      },
+      {
+        "lang": "cs",
+        "name": "Strakapoud ussurijský"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell fraith Japan"
+      },
+      {
+        "lang": "da",
+        "name": "Lille Grå Flagspætte"
+      },
+      {
+        "lang": "de",
+        "name": "Kizukispecht"
+      },
+      {
         "lang": "en",
-        "name": "Pygmy Woodpecker"
+        "name": "Japanese Pygmy Woodpecker"
       },
       {
         "lang": "es",
         "name": "Pico kizuki"
+      },
+      {
+        "lang": "fi",
+        "name": "Japaninpikkutikka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pic kisuki"
+      },
+      {
+        "lang": "it",
+        "name": "Picchio Kiuzuki"
       },
       {
         "lang": "ja",
@@ -145,7 +269,35 @@
       },
       {
         "lang": "ko",
-        "name": "쇠딱따구리"
+        "name": "쇠딱다구리"
+      },
+      {
+        "lang": "lt",
+        "name": "Mažasis aétriasparnis genys"
+      },
+      {
+        "lang": "nl",
+        "name": "Kizukispecht"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzieciol brazowolicy"
+      },
+      {
+        "lang": "pnb",
+        "name": "جپانی ٹھمنا چڑی ترکھان"
+      },
+      {
+        "lang": "ru",
+        "name": "Карликовый дятел"
+      },
+      {
+        "lang": "sv",
+        "name": "Kizukispett"
+      },
+      {
+        "lang": "zh",
+        "name": "小星头啄木鸟"
       }
     ]
   },
@@ -153,12 +305,108 @@
     "scientific_name": "Yungipicus canicapillus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نقار خشب قزم رمادي التاج"
+      },
+      {
+        "lang": "ca",
+        "name": "Picot garser frontgrís"
+      },
+      {
+        "lang": "cs",
+        "name": "Strakapoud šedotemenný"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell gorunllwyd"
+      },
+      {
+        "lang": "da",
+        "name": "Gråisset Flagspætte"
+      },
+      {
+        "lang": "de",
+        "name": "Grauscheitelspecht"
+      },
+      {
         "lang": "en",
-        "name": "Grey-capped Woodpecker"
+        "name": "Grey-capped Pygmy Woodpecker"
+      },
+      {
+        "lang": "es",
+        "name": "Pico crestigrís"
+      },
+      {
+        "lang": "fi",
+        "name": "Aasianpikkutikka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pic à coiffe grise"
+      },
+      {
+        "lang": "id",
+        "name": "Caladi Belacan"
+      },
+      {
+        "lang": "it",
+        "name": "Picchio capogrigio"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイガシラコゲラ"
+      },
+      {
+        "lang": "ko",
+        "name": "아물쇠딱다구리"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Belatuk Belacan"
+      },
+      {
+        "lang": "my",
+        "name": "သစ်တောက်ကျား"
+      },
+      {
+        "lang": "ne",
+        "name": "फुस्रोटाउके काष्ठकुट"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine Grijskapspecht"
+      },
+      {
+        "lang": "no",
+        "name": "Akrobatspett"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzieciol drobny"
+      },
+      {
+        "lang": "pnb",
+        "name": "سانولاسرا ٹھمنا چڑی ترکھان"
+      },
+      {
+        "lang": "ru",
+        "name": "Большой острокрылый дятел"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråkronad hackspett"
       },
       {
         "lang": "th",
         "name": "นกหัวขวานด่างแคระ"
+      },
+      {
+        "lang": "vi",
+        "name": "Gõ kiến nhỏ nâu xám"
+      },
+      {
+        "lang": "zh",
+        "name": "小啄木"
       }
     ]
   }

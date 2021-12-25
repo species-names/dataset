@@ -1,11 +1,67 @@
 [
   {
+    "scientific_name": "Thlypopsis superciliaris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eyebrowed Hemispingus"
+      },
+      {
+        "lang": "es",
+        "name": "Hemispingo cejudo"
+      }
+    ]
+  },
+  {
     "scientific_name": "Thlypopsis sordida",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-headed Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara cabecinaranja"
+      },
+      {
+        "lang": "pt",
+        "name": "Saí-canario"
+      }
+    ]
   },
   {
     "scientific_name": "Thlypopsis ruficeps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rust-and-yellow Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara alisera"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Thlypopsis pyrrhocoma",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-headed Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Cabeçinha-castanha"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara à tête marron"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara pioró"
+      }
+    ]
   },
   {
     "scientific_name": "Thlypopsis pectoralis",
@@ -13,16 +69,38 @@
       {
         "lang": "en",
         "name": "Brown-flanked Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara pectoral"
       }
     ]
   },
   {
     "scientific_name": "Thlypopsis ornata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-chested Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara pechicanela"
+      }
+    ]
   },
   {
     "scientific_name": "Thlypopsis inornata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-bellied Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara sencilla"
+      }
+    ]
   },
   {
     "scientific_name": "Thlypopsis fulviceps",
@@ -30,6 +108,10 @@
       {
         "lang": "en",
         "name": "Fulvous-headed Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara cabecifulva"
       }
     ]
   }

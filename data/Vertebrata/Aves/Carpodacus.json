@@ -155,12 +155,84 @@
     "scientific_name": "Carpodacus sipahi",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "جزم قرمزي"
+      },
+      {
+        "lang": "cy",
+        "name": "Pinc ysgarlad"
+      },
+      {
+        "lang": "de",
+        "name": "Scharlachgimpel"
+      },
+      {
         "lang": "en",
         "name": "Scarlet Finch"
       },
       {
+        "lang": "eo",
+        "name": "Skarlata karpodako"
+      },
+      {
+        "lang": "es",
+        "name": "Camachuelo escarlata"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره سرخ"
+      },
+      {
+        "lang": "fi",
+        "name": "Tulitaviokuurna"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin cipaye"
+      },
+      {
+        "lang": "hu",
+        "name": "Vérsüvöltő"
+      },
+      {
+        "lang": "it",
+        "name": "Fringuello scarlatto"
+      },
+      {
         "lang": "ja",
         "name": "シュイロマシコ"
+      },
+      {
+        "lang": "ne",
+        "name": "सिपाही तितु"
+      },
+      {
+        "lang": "nl",
+        "name": "Scharlaken dikbek"
+      },
+      {
+        "lang": "pl",
+        "name": "Dziwonia szkarłatna"
+      },
+      {
+        "lang": "ru",
+        "name": "Алый вьюрок"
+      },
+      {
+        "lang": "sv",
+        "name": "Scharlakansrosenfink"
+      },
+      {
+        "lang": "th",
+        "name": "นกจาบปีกอ่อนสีแดง"
+      },
+      {
+        "lang": "vi",
+        "name": "Mỏ to lưng đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "血雀"
       }
     ]
   },
@@ -168,8 +240,32 @@
     "scientific_name": "Carpodacus sillemi",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Sillemgimpel"
+      },
+      {
         "lang": "en",
         "name": "Sillem's Mountain Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón montano de Sillem"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin de Sillem"
+      },
+      {
+        "lang": "it",
+        "name": "fanello rosato di Sillem"
+      },
+      {
+        "lang": "nl",
+        "name": "Sillems bergvink"
+      },
+      {
+        "lang": "pl",
+        "name": "Dziwonia tybetańska"
       }
     ]
   },
@@ -436,6 +532,58 @@
       {
         "lang": "ja",
         "name": "コウザンマシコ"
+      },
+      {
+        "lang": "ar",
+        "name": "جزم جميل"
+      },
+      {
+        "lang": "cy",
+        "name": "Llinos goch hardd"
+      },
+      {
+        "lang": "de",
+        "name": "Schmuckgimpel"
+      },
+      {
+        "lang": "en",
+        "name": "Himalayan beautiful rosefinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Bela karpodako"
+      },
+      {
+        "lang": "fa",
+        "name": "فنچ سرخ زیبا"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuoripunavarpunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin superbe"
+      },
+      {
+        "lang": "hu",
+        "name": "Pompás pirók"
+      },
+      {
+        "lang": "mn",
+        "name": "Бүлхэрээ бужмар"
+      },
+      {
+        "lang": "ne",
+        "name": "हिमाली झिबी तितु"
+      },
+      {
+        "lang": "nl",
+        "name": "Himalayaprachtroodmus"
+      },
+      {
+        "lang": "zh",
+        "name": "红眉朱雀"
       }
     ]
   },

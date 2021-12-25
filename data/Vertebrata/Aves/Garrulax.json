@@ -154,11 +154,19 @@
       },
       {
         "lang": "sv",
-        "name": "Rödpannad fnittertrast"
+        "name": "rödpannad fnittertrast"
       },
       {
         "lang": "zh",
         "name": "红额噪鹛"
+      },
+      {
+        "lang": "cy",
+        "name": "Chwarddwr talcengoch"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörösfejű álszajkó"
       }
     ]
   },
@@ -189,7 +197,7 @@
     "common_names": [
       {
         "lang": "fr",
-        "name": "garrulaxe masqué"
+        "name": "Garrulaxe masqué"
       }
     ]
   },
@@ -267,8 +275,12 @@
     "scientific_name": "Garrulax monileger",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Lätzchenhäherling"
+      },
+      {
         "lang": "en",
-        "name": "Lesser Necklaced Laughingthrush"
+        "name": "Lesser necklaced laughingthrush"
       }
     ]
   },
@@ -285,8 +297,12 @@
     "scientific_name": "Garrulax milleti",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Kapuzenhäherling"
+      },
+      {
         "lang": "en",
-        "name": "Black-hooded Laughingthrush"
+        "name": "Black-hooded laughingthrush"
       },
       {
         "lang": "es",
@@ -348,8 +364,12 @@
     "scientific_name": "Garrulax maesi",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Maeshäherling"
+      },
+      {
         "lang": "en",
-        "name": "Grey Laughingthrush"
+        "name": "Grey laughingthrush"
       }
     ]
   },
@@ -360,6 +380,10 @@
   {
     "scientific_name": "Garrulax lugubris",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Trauerhäherling"
+      },
       {
         "lang": "en",
         "name": "Black laughingthrush"
@@ -377,6 +401,10 @@
   {
     "scientific_name": "Garrulax leucolophus",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Weißhaubenhäherling"
+      },
       {
         "lang": "en",
         "name": "White-crested Laughingthrush"
@@ -536,6 +564,10 @@
     "scientific_name": "Garrulax courtoisi",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Sojkovec modrotemenný"
+      },
+      {
         "lang": "en",
         "name": "Blue-crowned Laughingthrush"
       },
@@ -549,7 +581,7 @@
       },
       {
         "lang": "sv",
-        "name": "Blåkronad fnittertrast"
+        "name": "blåkronad fnittertrast"
       },
       {
         "lang": "vi",
@@ -558,6 +590,22 @@
       {
         "lang": "zh",
         "name": "靛冠噪鹛"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékkoronás álszajkó"
+      },
+      {
+        "lang": "nl",
+        "name": "Ménégaux' lijstergaai"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídiidlohí bitsiitʼáád dootłʼizhígíí"
+      },
+      {
+        "lang": "ru",
+        "name": "Синеголовая тимелия"
       }
     ]
   },
@@ -648,8 +696,12 @@
     "scientific_name": "Garrulax castanotis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Rotwangenhäherling"
+      },
+      {
         "lang": "en",
-        "name": "Rufous-cheeked Laughingthrush"
+        "name": "Rufous-cheeked laughingthrush"
       },
       {
         "lang": "es",
@@ -668,6 +720,10 @@
   {
     "scientific_name": "Garrulax canorus",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Augenbrauenhäherling"
+      },
       {
         "lang": "en",
         "name": "Chinese Hwamei"
@@ -725,8 +781,40 @@
     "scientific_name": "Garrulax bicolor",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Sojkovec dvoubarvý"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzweißhäherling"
+      },
+      {
         "lang": "en",
         "name": "Sumatran Laughingthrush"
+      },
+      {
+        "lang": "fr",
+        "name": "Garrulaxe bicolore"
+      },
+      {
+        "lang": "hu",
+        "name": "Szumátrai álszajkó"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartwitte lijstergaai"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídiidlohí łizhin dóó łigaaígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "sumatrafnittertrast"
+      },
+      {
+        "lang": "zh",
+        "name": "黑白噪鹛"
       }
     ]
   },

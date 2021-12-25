@@ -9,6 +9,46 @@
       {
         "lang": "es",
         "name": "Francolín de Swierstra"
+      },
+      {
+        "lang": "ca",
+        "name": "Francolí de Swierstra"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffrancolin Swierstra"
+      },
+      {
+        "lang": "de",
+        "name": "Swierstrafrankolin"
+      },
+      {
+        "lang": "eo",
+        "name": "Svierstra frankolino"
+      },
+      {
+        "lang": "fa",
+        "name": "دراج سویرسترا"
+      },
+      {
+        "lang": "fr",
+        "name": "Francolin de Swierstra"
+      },
+      {
+        "lang": "nl",
+        "name": "Swierstra's frankolijn"
+      },
+      {
+        "lang": "pnb",
+        "name": "سویرسٹرا چکور"
+      },
+      {
+        "lang": "ru",
+        "name": "Ангольский турач"
+      },
+      {
+        "lang": "sv",
+        "name": "swierstrafrankolin"
       }
     ]
   },
@@ -352,6 +392,30 @@
     "scientific_name": "Francolinus pondicerianus",
     "common_names": [
       {
+        "lang": "azb",
+        "name": "فرانکولینوس پوندیسریانوس"
+      },
+      {
+        "lang": "bh",
+        "name": "सफ़ेद तीतर"
+      },
+      {
+        "lang": "bn",
+        "name": "মেটে তিতির"
+      },
+      {
+        "lang": "br",
+        "name": "Frankolin louet"
+      },
+      {
+        "lang": "ca",
+        "name": "Francolí gris"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffrancolin llwyd"
+      },
+      {
         "lang": "de",
         "name": "Wachtelfrankolin"
       },
@@ -360,8 +424,68 @@
         "name": "Grey Francolin"
       },
       {
+        "lang": "eo",
+        "name": "Griza frankolino"
+      },
+      {
+        "lang": "es",
+        "name": "Francolín gris"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ جیرفتی"
+      },
+      {
+        "lang": "fr",
+        "name": "Francolin gris"
+      },
+      {
+        "lang": "gu",
+        "name": "તીતર"
+      },
+      {
+        "lang": "hi",
+        "name": "सफ़ेद तीतर"
+      },
+      {
         "lang": "ja",
         "name": "シマシャコ"
+      },
+      {
+        "lang": "kn",
+        "name": "ಗೌಜಲ ಹಕ್ಕಿ"
+      },
+      {
+        "lang": "ml",
+        "name": "കൗതാരി"
+      },
+      {
+        "lang": "mr",
+        "name": "राखी तित्तीर"
+      },
+      {
+        "lang": "ne",
+        "name": "कपिञ्जल तित्रा"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze frankolijn"
+      },
+      {
+        "lang": "pl",
+        "name": "Frankolin indyjski"
+      },
+      {
+        "lang": "pnb",
+        "name": "گرے تتر"
+      },
+      {
+        "lang": "sv",
+        "name": "Grå frankolin"
+      },
+      {
+        "lang": "ta",
+        "name": "கௌதாரி"
       }
     ]
   },
@@ -450,11 +574,12 @@
         "name": "Francolí pintat"
       },
       {
+        "lang": "de",
+        "name": "Tropfenfrankolin"
+      },
+      {
         "lang": "en",
-        "name": "Painted Francolin",
-        "synonyms": [
-          "Painted Partridge"
-        ]
+        "name": "Painted Francolin"
       },
       {
         "lang": "es",
@@ -852,12 +977,56 @@
     "scientific_name": "Francolinus harwoodi",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Harwood's Francolin"
-      },
-      {
         "lang": "es",
         "name": "Francolín de Harwood"
+      },
+      {
+        "lang": "ca",
+        "name": "Francolí de Harwood"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffrancolin Harwood"
+      },
+      {
+        "lang": "de",
+        "name": "Harwoodfrankolin"
+      },
+      {
+        "lang": "en",
+        "name": "Harwood's spurfowl"
+      },
+      {
+        "lang": "eo",
+        "name": "Harvuda frankolino"
+      },
+      {
+        "lang": "fa",
+        "name": "دراج هاروود"
+      },
+      {
+        "lang": "fr",
+        "name": "Francolin de Harwood"
+      },
+      {
+        "lang": "hu",
+        "name": "Harwood-frankolin"
+      },
+      {
+        "lang": "nl",
+        "name": "Harwoods frankolijn"
+      },
+      {
+        "lang": "pl",
+        "name": "Szponiastonóg czerwonooki"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہاروڈ چکور"
+      },
+      {
+        "lang": "sv",
+        "name": "harwoodfrankolin"
       }
     ]
   },
@@ -900,6 +1069,78 @@
       {
         "lang": "ja",
         "name": "ヌマシャコ"
+      },
+      {
+        "lang": "bh",
+        "name": "जंगली तीतर"
+      },
+      {
+        "lang": "bn",
+        "name": "জলার তিতির"
+      },
+      {
+        "lang": "br",
+        "name": "Frankolin ar geunioù"
+      },
+      {
+        "lang": "ca",
+        "name": "Francolí d'aiguamoll"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffrancolin gors"
+      },
+      {
+        "lang": "dty",
+        "name": "सिम तित्रा"
+      },
+      {
+        "lang": "eo",
+        "name": "Gorĝomakula frankolino"
+      },
+      {
+        "lang": "fa",
+        "name": "دراج باتلاق"
+      },
+      {
+        "lang": "fr",
+        "name": "Francolin multiraie"
+      },
+      {
+        "lang": "hi",
+        "name": "जंगली तीतर"
+      },
+      {
+        "lang": "ne",
+        "name": "सिम तित्रा"
+      },
+      {
+        "lang": "nl",
+        "name": "Moerasfrankolijn"
+      },
+      {
+        "lang": "nv",
+        "name": "Biʼééʼ Łigaii Bikéyahdę́ę́ʼ naaʼahóóhaitʼą́ʼí yishtłizhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Frankolin bagienny"
+      },
+      {
+        "lang": "pnb",
+        "name": "چپھڑ دا تتر"
+      },
+      {
+        "lang": "ru",
+        "name": "Болотный турач"
+      },
+      {
+        "lang": "sv",
+        "name": "kärrfrankolin"
+      },
+      {
+        "lang": "ta",
+        "name": "சதுப்புநில கவுதாரி"
       }
     ]
   },
@@ -922,6 +1163,10 @@
       {
         "lang": "en",
         "name": "Black Francolin"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigra frankolino"
       },
       {
         "lang": "fr",
@@ -992,6 +1237,10 @@
       {
         "lang": "en",
         "name": "Erckel's Francolin"
+      },
+      {
+        "lang": "eo",
+        "name": "Sudana frankolino"
       }
     ]
   },
@@ -1156,6 +1405,46 @@
       {
         "lang": "es",
         "name": "Francolín de Camerún"
+      },
+      {
+        "lang": "ca",
+        "name": "Francolí del mont Camerun"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffrancolin y Camerŵn"
+      },
+      {
+        "lang": "de",
+        "name": "Kamerunfrankolin"
+      },
+      {
+        "lang": "eo",
+        "name": "Kameruna frankolino"
+      },
+      {
+        "lang": "fa",
+        "name": "دراج کوه کامرون"
+      },
+      {
+        "lang": "fr",
+        "name": "Francolin du Cameroun"
+      },
+      {
+        "lang": "nl",
+        "name": "Kameroenfrankolijn"
+      },
+      {
+        "lang": "pl",
+        "name": "Szponiastonóg kameruński"
+      },
+      {
+        "lang": "pnb",
+        "name": "ماؤنٹ کیمرون چکور"
+      },
+      {
+        "lang": "sv",
+        "name": "kamerunfrankolin"
       }
     ]
   },
@@ -1169,6 +1458,10 @@
       {
         "lang": "en",
         "name": "Double-spurred Francolin"
+      },
+      {
+        "lang": "eo",
+        "name": "Dusprona frankolino"
       },
       {
         "lang": "es",

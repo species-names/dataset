@@ -1,6 +1,39 @@
 [
   {
     "scientific_name": "Eminia lepida",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Telor mygydog y Gogledd"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-capped Warbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Eminio"
+      },
+      {
+        "lang": "es",
+        "name": "Eminia"
+      },
+      {
+        "lang": "fi",
+        "name": "Eminia"
+      },
+      {
+        "lang": "fr",
+        "name": "Eminia"
+      },
+      {
+        "lang": "nl",
+        "name": "Eminiazanger"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartnackad sångare"
+      }
+    ]
   }
 ]

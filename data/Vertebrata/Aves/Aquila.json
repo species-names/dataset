@@ -19,6 +19,10 @@
         "name": "Verreaux's Eagle"
       },
       {
+        "lang": "eo",
+        "name": "Nigra aglo"
+      },
+      {
         "lang": "es",
         "name": "Águila de Verreaux"
       },
@@ -101,6 +105,10 @@
         "name": "Roofarend"
       },
       {
+        "lang": "bn",
+        "name": "তামাটে ঈগল"
+      },
+      {
         "lang": "cs",
         "name": "Orel okrový"
       },
@@ -111,6 +119,10 @@
       {
         "lang": "en",
         "name": "Tawny Eagle"
+      },
+      {
+        "lang": "eo",
+        "name": "Rabema aglo"
       },
       {
         "lang": "es",
@@ -125,6 +137,10 @@
         "name": "Aquila rapace"
       },
       {
+        "lang": "hu",
+        "name": "Szavannasas"
+      },
+      {
         "lang": "ka",
         "name": "ველის არწივი"
       },
@@ -133,8 +149,16 @@
         "name": "초원수리"
       },
       {
-        "lang": "hu",
-        "name": "Szavannasas"
+        "lang": "mr",
+        "name": "पिंगट गरुड"
+      },
+      {
+        "lang": "ne",
+        "name": "राग महाचील"
+      },
+      {
+        "lang": "nl",
+        "name": "Savannnearend"
       },
       {
         "lang": "pl",
@@ -149,12 +173,12 @@
         "name": "Roparski orel"
       },
       {
-        "lang": "uk",
-        "name": "Орел степовий"
+        "lang": "tr",
+        "name": "Esmer kartal"
       },
       {
-        "lang": "bn",
-        "name": "তামাটে ঈগল"
+        "lang": "uk",
+        "name": "Орел степовий"
       }
     ]
   },
@@ -380,7 +404,7 @@
       },
       {
         "lang": "eo",
-        "name": "Blankŝultra aglo"
+        "name": "Imperia aglo"
       },
       {
         "lang": "es",
@@ -460,7 +484,7 @@
       },
       {
         "lang": "mn",
-        "name": "Хан бyргэд"
+        "name": "Хан бургэд"
       },
       {
         "lang": "ms",
@@ -600,7 +624,7 @@
       },
       {
         "lang": "az",
-        "name": "Uzunquyruq qartal"
+        "name": "Qırğı qartal"
       },
       {
         "lang": "bg",
@@ -612,11 +636,15 @@
       },
       {
         "lang": "ca",
-        "name": "Àguila perdiuera"
+        "name": "Àliga cuabarrada"
       },
       {
         "lang": "cs",
         "name": "Orel jestřábí"
+      },
+      {
+        "lang": "cy",
+        "name": "Eryr Bonelli"
       },
       {
         "lang": "da",
@@ -644,15 +672,19 @@
       },
       {
         "lang": "et",
-        "name": "haugaskotkas"
+        "name": "Haugaskotkas"
       },
       {
         "lang": "eu",
-        "name": "Àguila cuabarrada"
+        "name": "Aztore-arrano"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب دوبرادر"
       },
       {
         "lang": "fi",
-        "name": "vuorikotka"
+        "name": "Vuorikotka"
       },
       {
         "lang": "fr",
@@ -667,8 +699,16 @@
         "name": "עיט ניצי"
       },
       {
+        "lang": "hr",
+        "name": "Planinski orao"
+      },
+      {
         "lang": "hu",
         "name": "Héjasas"
+      },
+      {
+        "lang": "hy",
+        "name": "Ճուռականման արծիվ"
       },
       {
         "lang": "id",
@@ -692,11 +732,15 @@
       },
       {
         "lang": "kk",
-        "name": "Қырғи бүркіт"
+        "name": "Қаршығарақ қыран"
       },
       {
         "lang": "ko",
         "name": "흰배줄무늬수리"
+      },
+      {
+        "lang": "ky",
+        "name": "Сымал бүркүтү"
       },
       {
         "lang": "lt",
@@ -704,7 +748,23 @@
       },
       {
         "lang": "mk",
-        "name": "Јастребов (Пругаст) орел"
+        "name": "Планински орел"
+      },
+      {
+        "lang": "ml",
+        "name": "ബോണെല്ലിപ്പരുന്ത്"
+      },
+      {
+        "lang": "mn",
+        "name": "Харсун бүргэдэй"
+      },
+      {
+        "lang": "mr",
+        "name": "बोनेलीचा गरुड"
+      },
+      {
+        "lang": "ne",
+        "name": "मोरङ्गी चील"
       },
       {
         "lang": "nl",
@@ -715,16 +775,32 @@
         "name": "Haukørn"
       },
       {
+        "lang": "oc",
+        "name": "Aigla comuna"
+      },
+      {
         "lang": "pl",
-        "name": "Orzełek południowy"
+        "name": "Orzeł południowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "بونیلی دا عقاب"
       },
       {
         "lang": "pt",
         "name": "Águia-de-bonelli"
       },
       {
+        "lang": "ro",
+        "name": "Acvilă porumbacă"
+      },
+      {
         "lang": "ru",
         "name": "Ястребиный орёл"
+      },
+      {
+        "lang": "sh",
+        "name": "Planinski orao"
       },
       {
         "lang": "sk",
@@ -740,10 +816,7 @@
       },
       {
         "lang": "sr",
-        "name": "planinski orao",
-        "synonyms": [
-          "Планински орао"
-        ]
+        "name": "Planinski orao - Пругасти орао"
       },
       {
         "lang": "sv",
@@ -751,7 +824,7 @@
       },
       {
         "lang": "ta",
-        "name": "Raasali Parundhu"
+        "name": "இராசாளிப் பருந்து"
       },
       {
         "lang": "th",
@@ -763,7 +836,11 @@
       },
       {
         "lang": "uk",
-        "name": "Яструбовий орел"
+        "name": "Орел-карлик яструбиний"
+      },
+      {
+        "lang": "uz",
+        "name": "Qirgʻiyburgut"
       },
       {
         "lang": "vi",
@@ -968,7 +1045,7 @@
       },
       {
         "lang": "kjh",
-        "name": "Киикчiн"
+        "name": "Киикчін"
       },
       {
         "lang": "kk",
@@ -1287,7 +1364,7 @@
       },
       {
         "lang": "eo",
-        "name": "Iberimperia aglo"
+        "name": "Ibera aglo"
       },
       {
         "lang": "es",

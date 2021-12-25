@@ -7,6 +7,10 @@
         "name": "Afghan Snowfinch"
       },
       {
+        "lang": "eo",
+        "name": "Afgana neĝpasero"
+      },
+      {
         "lang": "hu",
         "name": "Afgán havasipinty"
       }
@@ -18,6 +22,10 @@
       {
         "lang": "en",
         "name": "White-rumped Snowfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankpuga neĝpasero"
       }
     ]
   },
@@ -27,6 +35,10 @@
       {
         "lang": "en",
         "name": "Rufous-necked Snowfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Rufkola neĝpasero"
       }
     ]
   },
@@ -36,6 +48,10 @@
       {
         "lang": "en",
         "name": "White-winged Snowfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Alpa neĝpasero"
       },
       {
         "lang": "fi",
@@ -90,6 +106,10 @@
       {
         "lang": "en",
         "name": "Père David's Snowfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Davida neĝpasero"
       }
     ]
   },
@@ -107,10 +127,11 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Black-winged Snowfinch",
-        "synonyms": [
-          "Tibetan Snowfinch"
-        ]
+        "name": "Tibeta neĝpasero"
+      },
+      {
+        "lang": "fr",
+        "name": "Niverolle du Tibet"
       }
     ]
   }

@@ -3,16 +3,40 @@
     "scientific_name": "Compsothraupis loricata",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Tanagr gyddfgoch y Gogledd"
+      },
+      {
         "lang": "en",
-        "name": "Scarlet-throated tanager"
+        "name": "Scarlet-throated Tanager"
       },
       {
         "lang": "es",
         "name": "Tangara gorjirroja"
       },
       {
+        "lang": "fr",
+        "name": "Tangara à gorge écarlate"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodborsttangare"
+      },
+      {
+        "lang": "no",
+        "name": "Rødstrupetanagar"
+      },
+      {
         "lang": "pt-br",
         "name": "Tiê-caburé"
+      },
+      {
+        "lang": "ru",
+        "name": "Красногрудая танагра"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödstrupig tangara"
       }
     ]
   }

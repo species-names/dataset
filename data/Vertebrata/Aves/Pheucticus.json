@@ -302,12 +302,36 @@
     "scientific_name": "Pheucticus aureoventris",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Tewbig cefnddu"
+      },
+      {
         "lang": "en",
         "name": "Black-backed Grosbeak"
       },
       {
+        "lang": "es",
+        "name": "Picogrueso dorsinegro"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustahuppukardinaali"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranyhasú magvágó"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartrugkardinaal"
+      },
+      {
         "lang": "pt",
         "name": "Rei-do-bosque"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartryggig kardinal"
       }
     ]
   }

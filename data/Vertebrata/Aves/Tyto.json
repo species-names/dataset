@@ -54,6 +54,62 @@
       {
         "lang": "tr",
         "name": "Madagaskar peçeli baykuşu"
+      },
+      {
+        "lang": "az",
+        "name": "Madaqaskar alabayquşu"
+      },
+      {
+        "lang": "bg",
+        "name": "Мадагаскарска забулена сова"
+      },
+      {
+        "lang": "ca",
+        "name": "Òliba de Madagascar"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan wen Madagasgar"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarintornipöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Effraie de Soumagne"
+      },
+      {
+        "lang": "ga",
+        "name": "Ulchabhán Soumagne"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskargrasuil"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-vermelha-de-madagascar"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарская сипуха"
+      },
+      {
+        "lang": "sr",
+        "name": "Мадагаскарска кукувија"
+      },
+      {
+        "lang": "sv",
+        "name": "madagaskartornuggla"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú lợn đỏ Madagascar"
+      },
+      {
+        "lang": "zh",
+        "name": "馬島草鴞"
       }
     ]
   },
@@ -203,8 +259,48 @@
         "name": "Lechuza de la Taliabu"
       },
       {
+        "lang": "az",
+        "name": "Talyabu alabayquşu"
+      },
+      {
+        "lang": "bg",
+        "name": "Талиабска забулена сова"
+      },
+      {
+        "lang": "ca",
+        "name": "Òliba de Taliabu"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan wen Taliabu"
+      },
+      {
+        "lang": "fi",
+        "name": "Sulantornipöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Effraie de Taliabu"
+      },
+      {
+        "lang": "id",
+        "name": "Serak taliabu"
+      },
+      {
         "lang": "nl",
-        "name": "Neumann kerkuil"
+        "name": "Neumanns kerkuil"
+      },
+      {
+        "lang": "ru",
+        "name": "Талиабуская сипуха"
+      },
+      {
+        "lang": "sv",
+        "name": "taliabutornuggla"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú lợn mặt nạ Taliabu"
       },
       {
         "lang": "tr",
@@ -281,12 +377,48 @@
         "name": "Lechuza de la Manus"
       },
       {
-        "lang": "nl",
-        "name": "Manus kerkuil"
-      },
-      {
         "lang": "tr",
         "name": "Manus peçeli baykuşu"
+      },
+      {
+        "lang": "az",
+        "name": "Manus alabayquşu"
+      },
+      {
+        "lang": "ca",
+        "name": "Òliba de Manus"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan wen Manus"
+      },
+      {
+        "lang": "de",
+        "name": "Manus-Schleiereule"
+      },
+      {
+        "lang": "fi",
+        "name": "Manusintornipöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Effraie de Manus"
+      },
+      {
+        "lang": "nl",
+        "name": "Manuskerkuil"
+      },
+      {
+        "lang": "ru",
+        "name": "Манусская сипуха"
+      },
+      {
+        "lang": "sv",
+        "name": "manustornuggla"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú lợn mặt nạ Manus"
       }
     ]
   },
@@ -294,12 +426,28 @@
     "scientific_name": "Tyto longimembris",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بومة أعشاب شرقية"
+      },
+      {
         "lang": "az",
         "name": "Otluq şərq alabayquşu"
       },
       {
+        "lang": "bg",
+        "name": "Източна забулена сова"
+      },
+      {
+        "lang": "ca",
+        "name": "Òliba camallarga oriental"
+      },
+      {
         "lang": "cs",
         "name": "Sova zlatočerná"
+      },
+      {
+        "lang": "da",
+        "name": "Græsslørugle"
       },
       {
         "lang": "de",
@@ -307,7 +455,7 @@
       },
       {
         "lang": "en",
-        "name": "Eastern Grass-owl"
+        "name": "Eastern Grass Owl"
       },
       {
         "lang": "es",
@@ -316,6 +464,14 @@
       {
         "lang": "fr",
         "name": "Effraie de prairie"
+      },
+      {
+        "lang": "it",
+        "name": "Barbagianni delle erbe orientale"
+      },
+      {
+        "lang": "ml",
+        "name": "പുൽമൂങ്ങ"
       },
       {
         "lang": "ms",
@@ -328,6 +484,10 @@
       {
         "lang": "nl",
         "name": "Aziatische grasuil"
+      },
+      {
+        "lang": "nv",
+        "name": "Chooyééł Dineʼé Bikéyahdę́ę́ʼ biniiʼłigaii"
       },
       {
         "lang": "ru",
@@ -344,6 +504,10 @@
       {
         "lang": "vi",
         "name": "Cú lợn đồng cỏ châu Úc"
+      },
+      {
+        "lang": "zh",
+        "name": "東方草鴞"
       }
     ]
   },
@@ -386,6 +550,42 @@
       {
         "lang": "tr",
         "name": "Minahassa peçeli baykuşu"
+      },
+      {
+        "lang": "az",
+        "name": "Minaxas alabayquşu"
+      },
+      {
+        "lang": "bg",
+        "name": "Минахаска забулена сова"
+      },
+      {
+        "lang": "ca",
+        "name": "Òliba de Minahassa"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan wen Minahassa"
+      },
+      {
+        "lang": "fi",
+        "name": "Minahassantornipöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Effraie de Minahassa"
+      },
+      {
+        "lang": "id",
+        "name": "Serak minahasa"
+      },
+      {
+        "lang": "ru",
+        "name": "Минахасская сипуха"
+      },
+      {
+        "lang": "sv",
+        "name": "minahassatornuggla"
       }
     ]
   },
@@ -412,7 +612,12 @@
   },
   {
     "scientific_name": "Tyto furcata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "American Barn Owl"
+      }
+    ]
   },
   {
     "scientific_name": "Tyto deroepstorffi",
@@ -520,6 +725,22 @@
     "scientific_name": "Tyto aurantia",
     "common_names": [
       {
+        "lang": "az",
+        "name": "Qızılı alabayquş"
+      },
+      {
+        "lang": "bg",
+        "name": "Златна забулена сова"
+      },
+      {
+        "lang": "ca",
+        "name": "Òliba daurada"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan wen Prydain Newydd"
+      },
+      {
         "lang": "de",
         "name": "Goldeule"
       },
@@ -532,12 +753,61 @@
         "name": "Lechuza dorada"
       },
       {
+        "lang": "fi",
+        "name": "Täplätornipöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Effraie dorée"
+      },
+      {
+        "lang": "it",
+        "name": "Barbagianni della Nuova Britannia"
+      },
+      {
         "lang": "nl",
-        "name": "New Britain kerkuil"
+        "name": "New-britainkerkuil"
+      },
+      {
+        "lang": "ru",
+        "name": "Золотистая сипуха"
+      },
+      {
+        "lang": "sv",
+        "name": "Gyllentornuggla"
       },
       {
         "lang": "tr",
         "name": "Altuni peçeli baykuş"
+      },
+      {
+        "lang": "uk",
+        "name": "Сипуха новобританська"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú lợn mặt nạ vàng"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Tyto almae",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Serameule"
+      },
+      {
+        "lang": "en",
+        "name": "Seram Masked-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Lechuza de Seram"
+      },
+      {
+        "lang": "fr",
+        "name": "Effraie de Céram"
       }
     ]
   },
@@ -650,7 +920,7 @@
       },
       {
         "lang": "eo",
-        "name": "Turstrigo"
+        "name": "Blanka turstrigo"
       },
       {
         "lang": "es",

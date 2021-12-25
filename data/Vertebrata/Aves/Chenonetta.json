@@ -3,6 +3,10 @@
     "scientific_name": "Chenonetta jubata",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بطة خشبية"
+      },
+      {
         "lang": "cs",
         "name": "Kachnička hřívnatá"
       },
@@ -12,23 +16,59 @@
       },
       {
         "lang": "en",
-        "name": "Australian Wood Duck"
+        "name": "Australian wood duck"
+      },
+      {
+        "lang": "es",
+        "name": "Pato de crin"
+      },
+      {
+        "lang": "fi",
+        "name": "Lyijysorsa"
       },
       {
         "lang": "fr",
         "name": "Canard à crinière"
       },
       {
+        "lang": "id",
+        "name": "Bebek kayu-australia"
+      },
+      {
+        "lang": "it",
+        "name": "Anatra arboricola australiana"
+      },
+      {
+        "lang": "ga",
+        "name": "Gé mhongach"
+      },
+      {
         "lang": "ja",
         "name": "タテガミガン"
+      },
+      {
+        "lang": "he",
+        "name": "ברווז עצים אוסטרלי"
       },
       {
         "lang": "hu",
         "name": "Sörényes lúd"
       },
       {
+        "lang": "nl",
+        "name": "Manengans"
+      },
+      {
         "lang": "no",
         "name": "Mankeand"
+      },
+      {
+        "lang": "pl",
+        "name": "Grzywienka zwyczajna"
+      },
+      {
+        "lang": "sv",
+        "name": "Manand"
       }
     ]
   },

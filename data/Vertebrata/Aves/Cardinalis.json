@@ -1,7 +1,36 @@
 [
   {
     "scientific_name": "Cardinalis sinuatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kardinál úzkozobý"
+      },
+      {
+        "lang": "en",
+        "name": "Pyrrhuloxia"
+      },
+      {
+        "lang": "es",
+        "name": "Cardenal pardo"
+      },
+      {
+        "lang": "fr",
+        "name": "Cardinal pyrrhuloxia"
+      },
+      {
+        "lang": "hu",
+        "name": "Kampóscsőrű kardinális"
+      },
+      {
+        "lang": "ja",
+        "name": "ムネアカコウカンチョウ"
+      },
+      {
+        "lang": "nv",
+        "name": "Tááʼyaʼniiltʼóshiiłbáhígíí"
+      }
+    ]
   },
   {
     "scientific_name": "Cardinalis phoeniceus",
@@ -16,6 +45,10 @@
     "scientific_name": "Cardinalis cardinalis",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Северен кардинал"
+      },
+      {
         "lang": "bn",
         "name": "নর্দার্ন কার্ডিনাল"
       },
@@ -25,7 +58,11 @@
       },
       {
         "lang": "cs",
-        "name": "kardinál červený"
+        "name": "Kardinál červený"
+      },
+      {
+        "lang": "cy",
+        "name": "Cardinal cyffredin"
       },
       {
         "lang": "da",
@@ -41,11 +78,19 @@
       },
       {
         "lang": "es",
-        "name": "Cardenal Norteño"
+        "name": "Cardenal norteño"
+      },
+      {
+        "lang": "eu",
+        "name": "Hegagorri"
+      },
+      {
+        "lang": "fa",
+        "name": "کاردینال شمالی"
       },
       {
         "lang": "fi",
-        "name": "punakardinaali"
+        "name": "Punakardinaali"
       },
       {
         "lang": "fr",
@@ -61,22 +106,15 @@
       },
       {
         "lang": "it",
-        "name": "Cardinale rosso",
-        "synonyms": [
-          "Cardinale della Virginia",
-          "Cardinale del Nord"
-        ]
+        "name": "Cardinale rosso"
       },
       {
         "lang": "ja",
-        "name": "ショウジョウコウカンチョウ",
-        "synonyms": [
-          "shoujoukoukanchou"
-        ]
+        "name": "ショウジョウコウカンチョウ"
       },
       {
         "lang": "ka",
-        "name": "კარდინალი (ფრინველი)"
+        "name": "კარდინალი"
       },
       {
         "lang": "kk",
@@ -85,6 +123,10 @@
       {
         "lang": "ml",
         "name": "നോർത്തേൺ കാർഡിനൽ"
+      },
+      {
+        "lang": "my",
+        "name": "မြောက်ပိုင်းကာဒင်နယ်ငှက်"
       },
       {
         "lang": "nl",
@@ -100,10 +142,7 @@
       },
       {
         "lang": "pt",
-        "name": "Cardeal",
-        "synonyms": [
-          "Cardeal-roxo"
-        ]
+        "name": "Cardeal-do-norte"
       },
       {
         "lang": "ru",
@@ -111,22 +150,31 @@
       },
       {
         "lang": "sk",
-        "name": "kardinál červený"
+        "name": "Kardinál červený"
+      },
+      {
+        "lang": "sl",
+        "name": "Severni kardinal"
       },
       {
         "lang": "sv",
         "name": "Röd kardinal"
       },
       {
+        "lang": "ta",
+        "name": "தென் கர்தினால்"
+      },
+      {
         "lang": "tr",
         "name": "Bayağı kardinal kuşu"
       },
       {
+        "lang": "uk",
+        "name": "Кардинал північний"
+      },
+      {
         "lang": "zh",
-        "name": "主红雀",
-        "synonyms": [
-          "北美紅雀"
-        ]
+        "name": "北美紅雀"
       }
     ]
   }

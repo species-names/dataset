@@ -1,5 +1,25 @@
 [
   {
+    "scientific_name": "Todiramphus tristrami",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Todiramphus sordidus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Todiramphus sacer",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Todiramphus reichenbachii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Todiramphus colonus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Todiramphus winchelli",
     "common_names": [
       {
@@ -17,6 +37,22 @@
       {
         "lang": "fr",
         "name": "Martin-chasseur de Winchell"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció de Winchell"
+      },
+      {
+        "lang": "nl",
+        "name": "Winchells ijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "جنگل مچھی مار"
+      },
+      {
+        "lang": "sv",
+        "name": "rostpannad kungsfiskar"
       }
     ]
   },
@@ -74,6 +110,10 @@
         "name": "Ledňáček bělohlavý"
       },
       {
+        "lang": "de",
+        "name": "Echsenliest"
+      },
+      {
         "lang": "en",
         "name": "Beach Kingfisher"
       },
@@ -84,6 +124,10 @@
       {
         "lang": "fr",
         "name": "Martin-chasseur à tête blanche"
+      },
+      {
+        "lang": "ja",
+        "name": "シロガシラショウビン"
       },
       {
         "lang": "tr",
@@ -121,7 +165,10 @@
       },
       {
         "lang": "en",
-        "name": "Mangaia Kingfisher"
+        "name": "Mangaia Kingfisher",
+        "synonyms": [
+          "Mewing kingfisher"
+        ]
       },
       {
         "lang": "es",
@@ -130,6 +177,22 @@
       {
         "lang": "fr",
         "name": "Martin-chasseur de Mangaia"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció de Mangaia"
+      },
+      {
+        "lang": "nl",
+        "name": "Mangaia-ijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹوڈیرامفس روفیکولارس"
+      },
+      {
+        "lang": "sv",
+        "name": "mangaiakungsfiskare"
       }
     ]
   },
@@ -232,6 +295,26 @@
       {
         "lang": "fr",
         "name": "Martin-chasseur lazuli"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció lapislàtzuli"
+      },
+      {
+        "lang": "cy",
+        "name": "Pysgotwr glasfaen"
+      },
+      {
+        "lang": "nl",
+        "name": "Zuid-Molukse ijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹوڈیرامفس لیوکوپائیگس"
+      },
+      {
+        "lang": "sv",
+        "name": "lazulikungsfiskare"
       }
     ]
   },
@@ -253,6 +336,51 @@
       {
         "lang": "fr",
         "name": "Martin-chasseur des Marquises"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció de les Marqueses"
+      },
+      {
+        "lang": "cy",
+        "name": "Pysgotwr y Marquesas"
+      },
+      {
+        "lang": "hu",
+        "name": "Marquises-szigeteki halción"
+      },
+      {
+        "lang": "nl",
+        "name": "Markiezenijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹوڈیرامفس گوڈفری"
+      },
+      {
+        "lang": "sv",
+        "name": "marquesaskungsfiskare"
+      },
+      {
+        "lang": "vi",
+        "name": "Bói cá Marquises"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Todiramphus gertrudae",
+    "common_names": [
+      {
+        "lang": "nl",
+        "name": "Niauijsvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Niau kingfisher"
+      },
+      {
+        "lang": "sv",
+        "name": "niaukungsfiskare"
       }
     ]
   },
@@ -262,12 +390,92 @@
       {
         "lang": "cs",
         "name": "Ledňáček tuamotský"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció de Niau"
+      },
+      {
+        "lang": "cy",
+        "name": "Pysgotwr Twamotw"
+      },
+      {
+        "lang": "de",
+        "name": "Tuamotuliest"
+      },
+      {
+        "lang": "en",
+        "name": "Mangareva kingfisher"
+      },
+      {
+        "lang": "fi",
+        "name": "Tuamotunkalastaja"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur des Gambier"
+      },
+      {
+        "lang": "hu",
+        "name": "Tuamotu-szigeteki halción"
+      },
+      {
+        "lang": "nl",
+        "name": "Mangarevaijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹواموٹو مچھی مار"
+      },
+      {
+        "lang": "sv",
+        "name": "mangarevakungsfiskare"
+      },
+      {
+        "lang": "vi",
+        "name": "Bói cá Mangareva"
       }
     ]
   },
   {
     "scientific_name": "Todiramphus funebris",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Alció fúnebre"
+      },
+      {
+        "lang": "cy",
+        "name": "Pysgotwr prudd"
+      },
+      {
+        "lang": "en",
+        "name": "Sombre kingfisher"
+      },
+      {
+        "lang": "fi",
+        "name": "Surukalastaja"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur funèbre"
+      },
+      {
+        "lang": "nl",
+        "name": "Halmahera-ijsvogel"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąąh naalzheehii binághah halzhinígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹوڈیرامفس فیونبرس"
+      },
+      {
+        "lang": "sv",
+        "name": "halmaherakungsfiskare"
+      },
       {
         "lang": "cs",
         "name": "Ledňáček halmaherský"
@@ -280,6 +488,30 @@
       {
         "lang": "cs",
         "name": "Ledňáček oranžovobřichý"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció de les Vanuatu"
+      },
+      {
+        "lang": "cy",
+        "name": "Pysgotwr bron winau"
+      },
+      {
+        "lang": "en",
+        "name": "Vanuatu kingfisher"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur à ventre roux"
+      },
+      {
+        "lang": "nl",
+        "name": "Kastanjebuikijsvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "vanuatukungsfiskare"
       }
     ]
   },
@@ -289,6 +521,38 @@
       {
         "lang": "cs",
         "name": "Ledňáček zelenohlavý"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció de les Talaud"
+      },
+      {
+        "lang": "cy",
+        "name": "Pysgotwr Ynys Talaud"
+      },
+      {
+        "lang": "en",
+        "name": "Talaud kingfisher"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-chasseur des Talaud"
+      },
+      {
+        "lang": "id",
+        "name": "Cekakak talaud"
+      },
+      {
+        "lang": "nl",
+        "name": "Talaudijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "تالود مچھی مار"
+      },
+      {
+        "lang": "sv",
+        "name": "talaudkungsfiskare"
       }
     ]
   },
@@ -448,6 +712,26 @@
       {
         "lang": "tr",
         "name": "Tarçın çizgili yalıçapkını"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció coronat"
+      },
+      {
+        "lang": "cy",
+        "name": "Pysgotwr Timor"
+      },
+      {
+        "lang": "nl",
+        "name": "Timorijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹوڈیرامفس اسٹریلیشیا"
+      },
+      {
+        "lang": "sv",
+        "name": "timorkungsfiskare"
       }
     ]
   },
@@ -469,6 +753,39 @@
       {
         "lang": "fr",
         "name": "Martin-chasseur à dos blanc"
+      },
+      {
+        "lang": "ca",
+        "name": "Alció dorsiblanc"
+      },
+      {
+        "lang": "cy",
+        "name": "Pysgotwr cefnwyn"
+      },
+      {
+        "lang": "nl",
+        "name": "Bismarckijsvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "لالمگروالا مچھی مار"
+      },
+      {
+        "lang": "sv",
+        "name": "vitryggig kungsfiskare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Todiramphus albicilla",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mariana Kingfisher"
+      },
+      {
+        "lang": "ja",
+        "name": "マリアナショウビン"
       }
     ]
   }

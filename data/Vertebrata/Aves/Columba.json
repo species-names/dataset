@@ -122,10 +122,6 @@
     ]
   },
   {
-    "scientific_name": "Columba turbita",
-    "common_names": []
-  },
-  {
     "scientific_name": "Columba trocaz",
     "common_names": [
       {
@@ -137,6 +133,10 @@
         "name": "Trocaz Pigeon"
       },
       {
+        "lang": "eo",
+        "name": "Madejra Kolombo"
+      },
+      {
         "lang": "es",
         "name": "Paloma de Madeira"
       },
@@ -145,10 +145,6 @@
         "name": "Madeirankyyhky"
       }
     ]
-  },
-  {
-    "scientific_name": "Columba tremula",
-    "common_names": []
   },
   {
     "scientific_name": "Columba torringtoniae",
@@ -213,15 +209,51 @@
       {
         "lang": "fi",
         "name": "Saotomenkyyhky"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom de São Tomé"
+      },
+      {
+        "lang": "de",
+        "name": "Langschwanz-Oliventaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر زیتونی سائو تومه"
+      },
+      {
+        "lang": "fr",
+        "name": "Pigeon de Sao Tomé"
+      },
+      {
+        "lang": "hu",
+        "name": "São Tomé-i olajgalamb"
+      },
+      {
+        "lang": "nl",
+        "name": "Sãotoméolijfduif"
+      },
+      {
+        "lang": "no",
+        "name": "Saotomédue"
+      },
+      {
+        "lang": "pl",
+        "name": "Gołąb kasztanowaty"
+      },
+      {
+        "lang": "pnb",
+        "name": "ساؤ ٹومی زیتونی کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "sãotoméduva"
       }
     ]
   },
   {
     "scientific_name": "Columba thiriouxi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Columba tabellaria",
     "common_names": []
   },
   {
@@ -236,10 +268,6 @@
         "name": "Kameruninkyyhky"
       }
     ]
-  },
-  {
-    "scientific_name": "Columba sinica",
-    "common_names": []
   },
   {
     "scientific_name": "Columba simplex",
@@ -332,7 +360,7 @@
       },
       {
         "lang": "sv",
-        "name": "Purpurduva"
+        "name": "purpurduva"
       },
       {
         "lang": "vi",
@@ -390,12 +418,16 @@
     "scientific_name": "Columba palumbus",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "Тхьэрыкъуэпщэху"
+        "lang": "ar",
+        "name": "ورشان مألوف"
       },
       {
-        "lang": "ar",
-        "name": "فاخته"
+        "lang": "ary",
+        "name": "أزطوط"
+      },
+      {
+        "lang": "az",
+        "name": "Alabaxta"
       },
       {
         "lang": "ba",
@@ -422,6 +454,14 @@
         "name": "Holub hřivnáč"
       },
       {
+        "lang": "csb",
+        "name": "Gruchôłk"
+      },
+      {
+        "lang": "cv",
+        "name": "Улаппа"
+      },
+      {
         "lang": "cy",
         "name": "Ysguthan"
       },
@@ -434,19 +474,24 @@
         "name": "Ringeltaube"
       },
       {
+        "lang": "el",
+        "name": "Φάσσα"
+      },
+      {
         "lang": "en",
         "name": "Common Wood Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Palumbo"
       },
       {
         "lang": "es",
         "name": "Paloma torcaz"
       },
       {
-        "lang": "eo",
-        "name": "Palumbo",
-        "synonyms": [
-          "ringokolombo"
-        ]
+        "lang": "et",
+        "name": "Kaelustuvi"
       },
       {
         "lang": "eu",
@@ -454,7 +499,7 @@
       },
       {
         "lang": "fa",
-        "name": "فاخته"
+        "name": "کبوتر جنگلی"
       },
       {
         "lang": "fi",
@@ -469,8 +514,32 @@
         "name": "Pigeon ramier"
       },
       {
+        "lang": "frr",
+        "name": "Holtdüüw"
+      },
+      {
+        "lang": "ga",
+        "name": "Colúr coille"
+      },
+      {
+        "lang": "gl",
+        "name": "Pombo torcaz"
+      },
+      {
+        "lang": "he",
+        "name": "יונת ענק"
+      },
+      {
+        "lang": "hr",
+        "name": "Golub grivnjaš"
+      },
+      {
+        "lang": "hu",
+        "name": "Örvös galamb"
+      },
+      {
         "lang": "hy",
-        "name": "Աղավնի անտառային"
+        "name": "Անտառային աղավնի"
       },
       {
         "lang": "io",
@@ -485,12 +554,24 @@
         "name": "Colombaccio"
       },
       {
-        "lang": "csb",
-        "name": "Gruchôłk"
+        "lang": "ja",
+        "name": "モリバト"
+      },
+      {
+        "lang": "ka",
+        "name": "ქედანი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Тхьэрыкъуэпщэху"
       },
       {
         "lang": "kk",
         "name": "Дыркептер"
+      },
+      {
+        "lang": "ko",
+        "name": "숲비둘기"
       },
       {
         "lang": "lt",
@@ -501,24 +582,24 @@
         "name": "Lauka balodis"
       },
       {
-        "lang": "hu",
-        "name": "Örvös galamb"
+        "lang": "mk",
+        "name": "Гулаб гривнаш"
       },
       {
         "lang": "mn",
         "name": "Ойн тагтаа"
       },
       {
+        "lang": "mrj",
+        "name": "Когогӓды"
+      },
+      {
+        "lang": "ne",
+        "name": "ठूलो वनपरेवा"
+      },
+      {
         "lang": "nl",
         "name": "Houtduif"
-      },
-      {
-        "lang": "ja",
-        "name": "モリバト"
-      },
-      {
-        "lang": "frr",
-        "name": "Holtdüüw"
       },
       {
         "lang": "no",
@@ -529,6 +610,14 @@
         "name": "Ringdue"
       },
       {
+        "lang": "pcd",
+        "name": "Biset"
+      },
+      {
+        "lang": "pl",
+        "name": "Grzywacz"
+      },
+      {
         "lang": "pnb",
         "name": "عام جنگلی کبوتر"
       },
@@ -537,35 +626,44 @@
         "name": "کومکۍ"
       },
       {
-        "lang": "pcd",
-        "name": "Biset"
-      },
-      {
-        "lang": "pl",
-        "name": "Grzywacz",
-        "synonyms": [
-          "Gołąb grzywacz"
-        ]
-      },
-      {
         "lang": "pt",
         "name": "Pombo-torcaz"
+      },
+      {
+        "lang": "ro",
+        "name": "Porumbel gulerat"
       },
       {
         "lang": "ru",
         "name": "Вяхирь"
       },
       {
+        "lang": "scn",
+        "name": "Palummu"
+      },
+      {
         "lang": "sco",
         "name": "Cushat"
       },
       {
-        "lang": "sq",
-        "name": "Gugashi"
+        "lang": "sh",
+        "name": "Golub grivnjaš"
+      },
+      {
+        "lang": "shi",
+        "name": "Aẓḍuḍ"
       },
       {
         "lang": "sk",
         "name": "Holub hrivnák"
+      },
+      {
+        "lang": "sl",
+        "name": "Grivar"
+      },
+      {
+        "lang": "sq",
+        "name": "Gugashi"
       },
       {
         "lang": "sr",
@@ -576,28 +674,44 @@
         "name": "Ringduva"
       },
       {
+        "lang": "tg",
+        "name": "Говкафтар"
+      },
+      {
         "lang": "tr",
         "name": "Tahtalı"
+      },
+      {
+        "lang": "tt",
+        "name": "Әберчен"
       },
       {
         "lang": "uk",
         "name": "Припутень"
       },
       {
+        "lang": "uz",
+        "name": "Govkaptar"
+      },
+      {
         "lang": "vec",
-        "name": "Colonbazzo",
-        "synonyms": [
-          "Favazzo",
-          "Palonba"
-        ]
+        "name": "Colonbazzo"
       },
       {
         "lang": "vls",
         "name": "Houtduve"
       },
       {
+        "lang": "wuu",
+        "name": "斑尾林鸽"
+      },
+      {
         "lang": "zh",
         "name": "斑尾林鸽"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "斑鳩"
       }
     ]
   },
@@ -607,6 +721,10 @@
       {
         "lang": "cs",
         "name": "Holub andamanský"
+      },
+      {
+        "lang": "en",
+        "name": "Andaman Wood Pigeon"
       },
       {
         "lang": "fi",
@@ -655,7 +773,7 @@
       },
       {
         "lang": "sv",
-        "name": "Gulfotad duva"
+        "name": "gulfotad duva"
       }
     ]
   },
@@ -684,6 +802,10 @@
         "name": "Урман күгәрсене"
       },
       {
+        "lang": "az",
+        "name": "Xırda meşə göyərçini"
+      },
+      {
         "lang": "be",
         "name": "Клінтух"
       },
@@ -693,7 +815,7 @@
       },
       {
         "lang": "br",
-        "name": "Koulm"
+        "name": "Koulm c'hlas"
       },
       {
         "lang": "ca",
@@ -704,12 +826,24 @@
         "name": "Holub doupňák"
       },
       {
+        "lang": "cv",
+        "name": "Ӳлтек"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen wyllt"
+      },
+      {
         "lang": "da",
         "name": "Huldue"
       },
       {
         "lang": "de",
         "name": "Hohltaube"
+      },
+      {
+        "lang": "el",
+        "name": "Φασσοπερίστερο"
       },
       {
         "lang": "en",
@@ -732,6 +866,10 @@
         "name": "Txoloma"
       },
       {
+        "lang": "fa",
+        "name": "کبوتر کوهپایه"
+      },
+      {
         "lang": "fi",
         "name": "Uuttukyyhky"
       },
@@ -748,12 +886,32 @@
         "name": "Dünemdüüw"
       },
       {
+        "lang": "ga",
+        "name": "Colm gorm"
+      },
+      {
+        "lang": "gl",
+        "name": "Pomba zura"
+      },
+      {
+        "lang": "he",
+        "name": "יונת עצים"
+      },
+      {
         "lang": "hr",
         "name": "Golub dupljaš"
       },
       {
         "lang": "hu",
         "name": "Kék galamb"
+      },
+      {
+        "lang": "hy",
+        "name": "Հոբալ"
+      },
+      {
+        "lang": "is",
+        "name": "Holudúfa"
       },
       {
         "lang": "it",
@@ -764,12 +922,24 @@
         "name": "ヒメモリバト"
       },
       {
+        "lang": "ka",
+        "name": "გვიძინი"
+      },
+      {
         "lang": "kbd",
         "name": "Тхьэрыкъуащхъуэ"
       },
       {
         "lang": "kk",
         "name": "Түзкептер"
+      },
+      {
+        "lang": "ko",
+        "name": "분홍가슴비둘기"
+      },
+      {
+        "lang": "ky",
+        "name": "Токой көгүчкөнү"
       },
       {
         "lang": "lt",
@@ -780,8 +950,16 @@
         "name": "Meža balodis"
       },
       {
+        "lang": "mk",
+        "name": "Планински гулаб"
+      },
+      {
         "lang": "mn",
         "name": "Хүнхэл тагтаа"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ӱлдӹк кӓдӹ"
       },
       {
         "lang": "nl",
@@ -800,28 +978,36 @@
         "name": "Siniak"
       },
       {
+        "lang": "pnb",
+        "name": "رکھ کگی"
+      },
+      {
         "lang": "pt",
-        "name": "Pombo-bravo"
+        "name": "Seixa"
       },
       {
         "lang": "ru",
         "name": "Клинтух"
       },
       {
-        "lang": "sq",
-        "name": "Pëllumbi i pyllit"
+        "lang": "sh",
+        "name": "Golub dupljaš"
       },
       {
         "lang": "sk",
         "name": "Holub plúžik"
       },
       {
-        "lang": "sr",
-        "name": "Голуб дупљаш"
+        "lang": "sl",
+        "name": "Duplar"
       },
       {
-        "lang": "sh",
-        "name": "Golub dupljaš"
+        "lang": "sq",
+        "name": "Pëllumbi i pyllit"
+      },
+      {
+        "lang": "sr",
+        "name": "Голуб дупљаш"
       },
       {
         "lang": "sv",
@@ -834,6 +1020,10 @@
       {
         "lang": "uk",
         "name": "Голуб-синяк"
+      },
+      {
+        "lang": "wuu",
+        "name": "欧鸽"
       },
       {
         "lang": "zh",
@@ -978,7 +1168,7 @@
       },
       {
         "lang": "eo",
-        "name": "Kolombo"
+        "name": "Rokkolombo"
       },
       {
         "lang": "es",
@@ -1367,10 +1557,6 @@
     ]
   },
   {
-    "scientific_name": "Columba leucoptera",
-    "common_names": []
-  },
-  {
     "scientific_name": "Columba leuconota",
     "common_names": [
       {
@@ -1435,7 +1621,11 @@
       },
       {
         "lang": "sv",
-        "name": "Snöduva uk Білогрудий голуб"
+        "name": "Snöduva"
+      },
+      {
+        "lang": "uk",
+        "name": "Білогрудий голуб"
       },
       {
         "lang": "zh",
@@ -1453,6 +1643,10 @@
       {
         "lang": "cs",
         "name": "Holub běloprsý"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbrusttaube"
       },
       {
         "lang": "en",
@@ -1520,8 +1714,12 @@
         "name": "Holub narůžovělý"
       },
       {
+        "lang": "de",
+        "name": "Zimttaube"
+      },
+      {
         "lang": "en",
-        "name": "Eastern Lemon Dove"
+        "name": "Lemon Dove"
       },
       {
         "lang": "es",
@@ -1569,6 +1767,14 @@
         "name": "Holub vavřínový"
       },
       {
+        "lang": "de",
+        "name": "Lorbeertaube"
+      },
+      {
+        "lang": "eo",
+        "name": "Laŭra kolombo"
+      },
+      {
         "lang": "es",
         "name": "Paloma rabiche"
       },
@@ -1586,6 +1792,22 @@
         "name": "Holub stříbropásý"
       },
       {
+        "lang": "de",
+        "name": "Silberbandtaube"
+      },
+      {
+        "lang": "en",
+        "name": "Ryukyu Woodpigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma de las Ryukyu"
+      },
+      {
+        "lang": "fr",
+        "name": "Pigeon à col d'argent"
+      },
+      {
         "lang": "ja",
         "name": "リュウキュウカラスバト"
       },
@@ -1601,6 +1823,10 @@
       {
         "lang": "cs",
         "name": "Holub černý"
+      },
+      {
+        "lang": "de",
+        "name": "Veilchentaube"
       },
       {
         "lang": "en",
@@ -1649,22 +1875,18 @@
         "name": "Holub černozobý"
       },
       {
+        "lang": "de",
+        "name": "Schwarzschnabel-Oliventaube"
+      },
+      {
+        "lang": "en",
+        "name": "Speckled wood pigeon"
+      },
+      {
         "lang": "fi",
         "name": "Himalajankyyhky"
       }
     ]
-  },
-  {
-    "scientific_name": "Columba hispida",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Columba hispanica",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Columba gutturosa",
-    "common_names": []
   },
   {
     "scientific_name": "Columba guinea",
@@ -1674,12 +1896,24 @@
         "name": "Kransduif"
       },
       {
+        "lang": "bg",
+        "name": "Гвинейски гълъб"
+      },
+      {
         "lang": "ca",
         "name": "Colom de Guinea"
       },
       {
         "lang": "cs",
         "name": "Holub skvrnitý"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen frech"
+      },
+      {
+        "lang": "da",
+        "name": "Guineadue"
       },
       {
         "lang": "de",
@@ -1696,6 +1930,10 @@
       {
         "lang": "es",
         "name": "Paloma de Guinea"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر خال‌خالی"
       },
       {
         "lang": "fi",
@@ -1718,8 +1956,32 @@
         "name": "Csíkosnyakú galamb"
       },
       {
+        "lang": "hy",
+        "name": "Խատուտիկ աղավնի"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione di Guinea"
+      },
+      {
+        "lang": "nl",
+        "name": "Gespikkelde duif"
+      },
+      {
         "lang": "no",
         "name": "Spragledue"
+      },
+      {
+        "lang": "pl",
+        "name": "Gołąb okularowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "گنی کبوتر"
+      },
+      {
+        "lang": "pt",
+        "name": "Pombo-malhado"
       },
       {
         "lang": "ru",
@@ -1731,7 +1993,11 @@
       },
       {
         "lang": "uk",
-        "name": "Веснянкуватий голуб"
+        "name": "Голуб цяткований"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "斑鴿"
       }
     ]
   },
@@ -1743,15 +2009,15 @@
         "name": "Holub západoasijský"
       },
       {
-        "lang": "de",
-        "name": "Ufertaube"
-      },
-      {
         "lang": "en",
         "name": "Yellow-eyed Pigeon",
         "synonyms": [
           "Pale-backed Pigeon"
         ]
+      },
+      {
+        "lang": "eo",
+        "name": "Flavokula kolombo"
       },
       {
         "lang": "es",
@@ -1772,12 +2038,152 @@
       {
         "lang": "zh",
         "name": "中亚鸽"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълтоок гълъб"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom d'Eversmann"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen lygadfelen"
+      },
+      {
+        "lang": "de",
+        "name": "Ufertaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر چشم زرد"
+      },
+      {
+        "lang": "fi",
+        "name": "Aasianuuttukyyhky"
+      },
+      {
+        "lang": "ky",
+        "name": "Эверсманндын көгүчкөнү"
+      },
+      {
+        "lang": "mn",
+        "name": "Хүрэвтэр тагтаа"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹрӓн кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Oosterse holenduif"
+      },
+      {
+        "lang": "no",
+        "name": "Morbærdue"
+      },
+      {
+        "lang": "nv",
+        "name": "Bilį́į́ʼ Ńdeiltihii Dineʼé Bikéyahdę́ę́ʼ hasbídí binááʼ łitsooígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Gołąb brunatny"
+      },
+      {
+        "lang": "pnb",
+        "name": "پیلی اکھوالا کبوتر"
+      },
+      {
+        "lang": "ru",
+        "name": "Бурый голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "turkestanduva"
+      },
+      {
+        "lang": "tr",
+        "name": "Türkmen güvercini"
       }
     ]
   },
   {
     "scientific_name": "Columba elphinstonii",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "নীলগিরি বনকপোত"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom dels Nilgiri"
+      },
+      {
+        "lang": "cy",
+        "name": "Ysguthan Nilgiri"
+      },
+      {
+        "lang": "da",
+        "name": "Nilgiridue"
+      },
+      {
+        "lang": "de",
+        "name": "Nilgiritaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر چوبی نیلگیری"
+      },
+      {
+        "lang": "fr",
+        "name": "Pigeon d'Elphinstone"
+      },
+      {
+        "lang": "hu",
+        "name": "Nilgiri galamb"
+      },
+      {
+        "lang": "ml",
+        "name": "നീലഗിരി മരപ്രാവ്"
+      },
+      {
+        "lang": "mrj",
+        "name": "Нилгири кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Nilgirihoutduif"
+      },
+      {
+        "lang": "no",
+        "name": "Nilgiridue"
+      },
+      {
+        "lang": "nv",
+        "name": "Biʼééʼ Łigaii Bikéyahdę́ę́ʼ hasbídí tsiiyahnoodǫ́zígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Gołąb brązowogrzbiety"
+      },
+      {
+        "lang": "pnb",
+        "name": "نلگری جنگلی کبوتر"
+      },
+      {
+        "lang": "ru",
+        "name": "Нильгирийский голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "nilgiriduva"
+      },
+      {
+        "lang": "ta",
+        "name": "கருப்பு புறா"
+      },
       {
         "lang": "cs",
         "name": "Holub nilgirský"
@@ -1804,6 +2210,10 @@
         "name": "Holub lesklý"
       },
       {
+        "lang": "de",
+        "name": "Bronzehalstaube"
+      },
+      {
         "lang": "en",
         "name": "Eastern Bronze-naped Pigeon"
       },
@@ -1814,10 +2224,6 @@
     ]
   },
   {
-    "scientific_name": "Columba cucullata",
-    "common_names": []
-  },
-  {
     "scientific_name": "Columba bollii",
     "common_names": [
       {
@@ -1825,8 +2231,16 @@
         "name": "Holub kanárský"
       },
       {
+        "lang": "de",
+        "name": "Bolles Lorbeertaube"
+      },
+      {
         "lang": "en",
         "name": "Bolle's Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Kanaria kolombo"
       },
       {
         "lang": "es",
@@ -1872,6 +2286,10 @@
       {
         "lang": "en",
         "name": "African Olive Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Oliva kolombo"
       },
       {
         "lang": "es",
@@ -1979,8 +2397,16 @@
         "name": "Holub stříbrný"
       },
       {
+        "lang": "de",
+        "name": "Silbertaube"
+      },
+      {
         "lang": "en",
         "name": "Silvery Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Arĝenta kolombo"
       },
       {
         "lang": "ja",
@@ -1989,6 +2415,54 @@
       {
         "lang": "zh",
         "name": "銀鴿"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom argentat"
+      },
+      {
+        "lang": "cy",
+        "name": "Ysguthan arian"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر نقره‌ای"
+      },
+      {
+        "lang": "fi",
+        "name": "Hopeakyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Pigeon argenté"
+      },
+      {
+        "lang": "hu",
+        "name": "Ezüstgalamb"
+      },
+      {
+        "lang": "id",
+        "name": "Merpati-hutan perak"
+      },
+      {
+        "lang": "nl",
+        "name": "Zilverduif"
+      },
+      {
+        "lang": "no",
+        "name": "Sølvdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "چاندی کبوتر"
+      },
+      {
+        "lang": "pt",
+        "name": "Pombo-prateado"
+      },
+      {
+        "lang": "sv",
+        "name": "silverduva"
       }
     ]
   },
@@ -2000,8 +2474,12 @@
         "name": "Holub etiopský"
       },
       {
+        "lang": "de",
+        "name": "Amharentaube"
+      },
+      {
         "lang": "en",
-        "name": "White-collared pigeon"
+        "name": "White-collared Pigeon"
       },
       {
         "lang": "eo",
@@ -2043,6 +2521,10 @@
       {
         "lang": "en",
         "name": "White-naped pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Blanknuka kolombo"
       },
       {
         "lang": "fi",

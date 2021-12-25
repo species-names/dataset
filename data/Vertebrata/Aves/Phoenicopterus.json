@@ -1,5 +1,21 @@
 [
   {
+    "scientific_name": "Phoenicopterus stocki",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Phoenicopterus minutus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Phoenicopterus croizeti",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Phoenicopterus copei",
+    "common_names": []
+  },
+  {
     "scientific_name": "Phoenicopterus ruber",
     "common_names": [
       {
@@ -95,7 +111,7 @@
       },
       {
         "lang": "gl",
-        "name": "Flamingo"
+        "name": "Flamengo do Caribe"
       },
       {
         "lang": "he",
@@ -306,7 +322,7 @@
       },
       {
         "lang": "eo",
-        "name": "Rozkolora flamengo"
+        "name": "Roza flamengo"
       },
       {
         "lang": "es",
@@ -443,19 +459,63 @@
       {
         "lang": "zh",
         "name": "大紅鸛"
+      },
+      {
+        "lang": "or",
+        "name": "ବଡ଼ ଏରା"
       }
     ]
+  },
+  {
+    "scientific_name": "Phoenicopterus novaehollandiae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Phoenicopterus floridanus",
+    "common_names": []
   },
   {
     "scientific_name": "Phoenicopterus chilensis",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نحام تشيلي"
+      },
+      {
+        "lang": "az",
+        "name": "Çili qızılqazı"
+      },
+      {
+        "lang": "bg",
+        "name": "Чилийско фламинго"
+      },
+      {
+        "lang": "br",
+        "name": "Flammeg Chile"
+      },
+      {
+        "lang": "ca",
+        "name": "Flamenc de Xile"
+      },
+      {
         "lang": "cs",
         "name": "Plameňák chilský"
       },
       {
-        "lang": " de",
+        "lang": "cy",
+        "name": "Fflamingo Tsile"
+      },
+      {
+        "lang": "da",
+        "name": "Chileflamingo"
+      },
+      {
+        "lang": "de",
         "name": "Chilenischer Flamingo"
+      },
+      {
+        "lang": "el",
+        "name": "Χιλιανό φλαμίνγκο"
       },
       {
         "lang": "en",
@@ -467,7 +527,11 @@
       },
       {
         "lang": "es",
-        "name": "Flamenco chileno o Austral"
+        "name": "Flamenco chileno"
+      },
+      {
+        "lang": "fa",
+        "name": "فلامینگوی شیلیایی"
       },
       {
         "lang": "fi",
@@ -478,16 +542,60 @@
         "name": "Flamant du Chili"
       },
       {
+        "lang": "he",
+        "name": "פלמינגו צ'יליאני"
+      },
+      {
+        "lang": "hr",
+        "name": "Čileanski plamenac"
+      },
+      {
+        "lang": "hu",
+        "name": "Chilei flamingó"
+      },
+      {
+        "lang": "is",
+        "name": "Roðaflæmingi"
+      },
+      {
+        "lang": "it",
+        "name": "Fenicottero del Cile"
+      },
+      {
         "lang": "ja",
         "name": "チリーフラミンゴ"
+      },
+      {
+        "lang": "lt",
+        "name": "Čilės flamingas"
+      },
+      {
+        "lang": "mrj",
+        "name": "Чили фламинго"
       },
       {
         "lang": "nl",
         "name": "Chileense flamingo"
       },
       {
+        "lang": "no",
+        "name": "Chileflamingo"
+      },
+      {
+        "lang": "pl",
+        "name": "Flaming chilijski"
+      },
+      {
+        "lang": "pnb",
+        "name": "چلی فلیمنگو"
+      },
+      {
         "lang": "pt",
         "name": "Flamingo chileno"
+      },
+      {
+        "lang": "qu",
+        "name": "Tukuku"
       },
       {
         "lang": "ru",
@@ -500,6 +608,22 @@
       {
         "lang": "tr",
         "name": "Şili flamingosu"
+      },
+      {
+        "lang": "udm",
+        "name": "Чилиысь фламинго"
+      },
+      {
+        "lang": "uk",
+        "name": "Фламінго чилійський"
+      },
+      {
+        "lang": "vi",
+        "name": "Hồng hạc Chile"
+      },
+      {
+        "lang": "zh",
+        "name": "智利火烈鳥"
       }
     ]
   }

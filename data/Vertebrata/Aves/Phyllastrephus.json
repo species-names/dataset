@@ -108,7 +108,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Sassi's greenbul"
+        "name": "Sassi's Greenbul"
       },
       {
         "lang": "cy",
@@ -132,40 +132,7 @@
       },
       {
         "lang": "sv",
-        "name": "kongogrönbulbyl"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Phyllastrephus leucolepis",
-    "common_names": [
-      {
-        "lang": "de",
-        "name": "Fleckflügelbülbül"
-      },
-      {
-        "lang": "en",
-        "name": "Liberian Greenbul"
-      },
-      {
-        "lang": "es",
-        "name": "Bulbul de Liberia"
-      },
-      {
-        "lang": "fi",
-        "name": "Liberianbulbuli"
-      },
-      {
-        "lang": "fr",
-        "name": "Bulbul du Libéria"
-      },
-      {
-        "lang": "nl",
-        "name": "Liberiaanse loofbuulbuul"
-      },
-      {
-        "lang": "sv",
-        "name": "Fläckvingad grönbulle"
+        "name": "Kongogrönbulbyl"
       }
     ]
   },
@@ -222,7 +189,11 @@
       },
       {
         "lang": "en",
-        "name": "Lowland tiny greenbul"
+        "name": "Lowland Tiny Greenbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul chico"
       },
       {
         "lang": "fa",
@@ -246,7 +217,7 @@
       },
       {
         "lang": "sv",
-        "name": "pygmégrönbulbyl"
+        "name": "Pygmégrönbulbyl"
       }
     ]
   },
@@ -282,5 +253,30 @@
   {
     "scientific_name": "Phyllastrephus albigularis",
     "common_names": []
+  },
+  {
+    "scientific_name": "Phyllastrephus albigula",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Montane Tiny Greenbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul de las Usambara"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبر کوچک کوهی"
+      },
+      {
+        "lang": "nl",
+        "name": "Bergloofbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "Usambaragrönbulbyl"
+      }
+    ]
   }
 ]

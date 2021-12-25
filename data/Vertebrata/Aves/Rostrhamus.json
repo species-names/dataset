@@ -3,8 +3,24 @@
     "scientific_name": "Rostrhamus sociabilis",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حدأة الحلزون"
+      },
+      {
+        "lang": "bg",
+        "name": "Охлювоядна каня"
+      },
+      {
+        "lang": "ca",
+        "name": "Caragoler comú"
+      },
+      {
         "lang": "cs",
-        "name": "luněc bažinný"
+        "name": "Luněc bažinný"
+      },
+      {
+        "lang": "cy",
+        "name": "Barcud malwod"
       },
       {
         "lang": "da",
@@ -19,16 +35,20 @@
         "name": "Snail Kite"
       },
       {
+        "lang": "eo",
+        "name": "Helikomilvo"
+      },
+      {
         "lang": "es",
         "name": "Caracolero común"
       },
       {
         "lang": "et",
-        "name": "teohaugas"
+        "name": "Teohaugas"
       },
       {
         "lang": "fi",
-        "name": "kotilohaukka"
+        "name": "Kotilohaukka"
       },
       {
         "lang": "fr",
@@ -39,8 +59,12 @@
         "name": "Taguato jatyta"
       },
       {
+        "lang": "he",
+        "name": "דיית החלזונות"
+      },
+      {
         "lang": "hu",
-        "name": "szalagos csigászkánya"
+        "name": "Szalagos csigászkánya"
       },
       {
         "lang": "it",
@@ -48,48 +72,43 @@
       },
       {
         "lang": "ja",
-        "name": "タンニシトビ",
-        "synonyms": [
-          "tanishitobi"
-        ]
-      },
-      {
-        "lang": "la",
-        "name": "Rosthramus sociabilis"
+        "name": "タンニシトビ"
       },
       {
         "lang": "nl",
-        "name": "Moeraswouw",
-        "synonyms": [
-          "Slakkenwouw"
-        ]
+        "name": "Slakkenwouw"
       },
       {
         "lang": "no",
         "name": "Snegleglente"
       },
       {
-        "lang": "pl",
-        "name": "Ślimakojad czerwonooki"
+        "lang": "nv",
+        "name": "Chʼiltaalkʼę́hé binááʼ łichíʼígíí"
       },
       {
-        "lang": "pt-br",
-        "name": "Gavião-caramujeiro"
+        "lang": "pl",
+        "name": "Ślimakojad czerwonooki"
       },
       {
         "lang": "pt",
         "name": "Gavião-caramujeiro"
       },
       {
+        "lang": "pt-br",
+        "name": "Gavião-caramujeiro"
+      },
+      {
+        "lang": "ro",
+        "name": "Uliul moluștelor"
+      },
+      {
         "lang": "ru",
-        "name": "Коршун-Слизнеед",
-        "synonyms": [
-          "Общественный коршун-слизеед"
-        ]
+        "name": "Коршун-слизнеед"
       },
       {
         "lang": "sk",
-        "name": "hákozobec družný"
+        "name": "Hákozobec družný"
       },
       {
         "lang": "sv",
@@ -100,29 +119,16 @@
         "name": "นกเหยี่ยวกินหอยทาก"
       },
       {
+        "lang": "uk",
+        "name": "Шуліка-слимакоїд червоноокий"
+      },
+      {
+        "lang": "vi",
+        "name": "Diều ăn sên"
+      },
+      {
         "lang": "zh",
         "name": "食螺鸢"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Rostrhamus hamatus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Slender-billed Kite"
-      },
-      {
-        "lang": "pl",
-        "name": "Ślimakojad żółtooki"
-      },
-      {
-        "lang": "pt",
-        "name": "Gavião-de-uruá"
-      },
-      {
-        "lang": "es",
-        "name": "Caracolero negro"
       }
     ]
   }

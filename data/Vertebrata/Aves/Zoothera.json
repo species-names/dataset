@@ -5,6 +5,22 @@
       {
         "lang": "en",
         "name": "Guadalcanal Thrush"
+      },
+      {
+        "lang": "es",
+        "name": "Zorzal de Guadalcanal"
+      },
+      {
+        "lang": "fr",
+        "name": "Grive de Guadalcanal"
+      },
+      {
+        "lang": "nl",
+        "name": "Guadalcanallijster"
+      },
+      {
+        "lang": "sv",
+        "name": "Guadalcanaltrast"
       }
     ]
   },
@@ -13,11 +29,15 @@
     "common_names": [
       {
         "lang": "de",
-        "name": "Bonin-Erddrossel"
+        "name": "Boninerddrossel"
       },
       {
         "lang": "en",
         "name": "Bonin Thrush"
+      },
+      {
+        "lang": "es",
+        "name": "Zorzal de las Bonin"
       },
       {
         "lang": "fr",
@@ -136,6 +156,26 @@
       {
         "lang": "en",
         "name": "Dark-sided Thrush"
+      },
+      {
+        "lang": "es",
+        "name": "Zorzal flanquioscuro"
+      },
+      {
+        "lang": "fr",
+        "name": "Grive à grand bec"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine langsnavellijster"
+      },
+      {
+        "lang": "sv",
+        "name": "Mörksidig trast"
+      },
+      {
+        "lang": "zh",
+        "name": "长嘴地鸫"
       }
     ]
   },
@@ -144,7 +184,23 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "San Cristobal Thrush"
+        "name": "Makira thrush"
+      },
+      {
+        "lang": "es",
+        "name": "Zorzal de San Cristóbal"
+      },
+      {
+        "lang": "fr",
+        "name": "Grive des Salomon"
+      },
+      {
+        "lang": "nl",
+        "name": "Makiragoudlijster"
+      },
+      {
+        "lang": "sv",
+        "name": "makiratrast"
       }
     ]
   },
@@ -183,6 +239,26 @@
       {
         "lang": "es",
         "name": "Zorzal de Tanimbar"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych Tanimbar"
+      },
+      {
+        "lang": "fi",
+        "name": "Tanimbarinkirjorastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Grive à poitrine fauve"
+      },
+      {
+        "lang": "nl",
+        "name": "Tanimbargoudlijster"
+      },
+      {
+        "lang": "sv",
+        "name": "gulbröstad trast"
       }
     ]
   },
@@ -300,6 +376,30 @@
       {
         "lang": "en",
         "name": "Everett's Thrush"
+      },
+      {
+        "lang": "es",
+        "name": "Zorzal de Everett"
+      },
+      {
+        "lang": "fi",
+        "name": "Borneonkirjorastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Grive d'Everett"
+      },
+      {
+        "lang": "nl",
+        "name": "Everetts lijster"
+      },
+      {
+        "lang": "hu",
+        "name": "Everett-földirigó"
+      },
+      {
+        "lang": "sv",
+        "name": "borneotrast"
       }
     ]
   },
@@ -320,8 +420,52 @@
     "scientific_name": "Zoothera dauma",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "রঙিলা দোয়েল"
+      },
+      {
+        "lang": "de",
+        "name": "Himalajaerddrossel"
+      },
+      {
         "lang": "en",
         "name": "Scaly Thrush"
+      },
+      {
+        "lang": "eo",
+        "name": "Daŭma turdo"
+      },
+      {
+        "lang": "es",
+        "name": "Zorzal dorado del Himalaya"
+      },
+      {
+        "lang": "fr",
+        "name": "Grive dama"
+      },
+      {
+        "lang": "hu",
+        "name": "Himalájai földirigó"
+      },
+      {
+        "lang": "id",
+        "name": "Anis sisik"
+      },
+      {
+        "lang": "ml",
+        "name": "കോഴിക്കിളി പൊന്നൻ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Murai Batu Putih"
+      },
+      {
+        "lang": "ne",
+        "name": "गोब्रे चाँचर"
+      },
+      {
+        "lang": "zh",
+        "name": "虎斑地鸫"
       }
     ]
   },
@@ -335,6 +479,10 @@
       {
         "lang": "en",
         "name": "White's Thrush"
+      },
+      {
+        "lang": "es",
+        "name": "zorzal de White"
       },
       {
         "lang": "fi",
@@ -363,6 +511,10 @@
       {
         "lang": "sv",
         "name": "Guldtrast"
+      },
+      {
+        "lang": "zh",
+        "name": "白氏地鶇"
       }
     ]
   },

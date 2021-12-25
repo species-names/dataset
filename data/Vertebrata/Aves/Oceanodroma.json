@@ -38,7 +38,23 @@
       },
       {
         "lang": "sv",
-        "name": "Monteirostormsvala"
+        "name": "monteirostormsvala"
+      },
+      {
+        "lang": "ca",
+        "name": "Ocell de tempesta de Monteiro"
+      },
+      {
+        "lang": "eo",
+        "name": "Montejra petrelo"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ طوفان مونتیرو"
+      },
+      {
+        "lang": "nn",
+        "name": "Asorstormsvale"
       }
     ]
   },
@@ -52,6 +68,10 @@
       {
         "lang": "en",
         "name": "Swinhoe's Storm-petrel"
+      },
+      {
+        "lang": "eo",
+        "name": "Ĉina ŝtormpetrelo"
       },
       {
         "lang": "es",
@@ -86,29 +106,16 @@
       {
         "lang": "en",
         "name": "Black Storm-petrel"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete viharfecske"
       }
     ]
   },
   {
     "scientific_name": "Oceanodroma matsudairae",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Matsudaira's Storm-Petrel"
-      },
-      {
-        "lang": "es",
-        "name": "Paíño de Matsudaira"
-      },
-      {
-        "lang": "ja",
-        "name": "クロウミツバメ"
-      },
-      {
-        "lang": "pt",
-        "name": "Painho-de-matsudaira"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Oceanodroma markhami",
@@ -129,6 +136,66 @@
       {
         "lang": "en",
         "name": "Guadalupe Storm-Petrel"
+      },
+      {
+        "lang": "br",
+        "name": "Satanig Guadalupe"
+      },
+      {
+        "lang": "de",
+        "name": "Guadalupe-Wellenläufer"
+      },
+      {
+        "lang": "eo",
+        "name": "Guadalupa petrelo"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ طوفان گوادلوپ"
+      },
+      {
+        "lang": "fi",
+        "name": "Guadalupenkeiju"
+      },
+      {
+        "lang": "fr",
+        "name": "Océanite de Guadalupe"
+      },
+      {
+        "lang": "ja",
+        "name": "グアダループウミツバメ"
+      },
+      {
+        "lang": "nl",
+        "name": "Guadalupestormvogeltje"
+      },
+      {
+        "lang": "nn",
+        "name": "Guadalupestormsvale"
+      },
+      {
+        "lang": "pl",
+        "name": "Nawałnik reliktowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Painho-de-guadalupe"
+      },
+      {
+        "lang": "ru",
+        "name": "Гуадалупская качурка"
+      },
+      {
+        "lang": "sv",
+        "name": "guadalupestormsvala"
+      },
+      {
+        "lang": "ta",
+        "name": "குவாதலூப் புயல் பறவை"
+      },
+      {
+        "lang": "zh",
+        "name": "瓜岛叉尾海燕"
       }
     ]
   },
@@ -157,7 +224,7 @@
       },
       {
         "lang": "eo",
-        "name": "Forkvosta petrelo"
+        "name": "Blankpuga ŝtormpetrelo"
       },
       {
         "lang": "es",
@@ -182,6 +249,10 @@
       {
         "lang": "he",
         "name": "יסעורון אטלנטי"
+      },
+      {
+        "lang": "hu",
+        "name": "Villás viharfecske"
       },
       {
         "lang": "is",
@@ -252,6 +323,50 @@
       {
         "lang": "en",
         "name": "Ashy Storm-petrel"
+      },
+      {
+        "lang": "br",
+        "name": "Satanig louet"
+      },
+      {
+        "lang": "ca",
+        "name": "Petrell cendrós"
+      },
+      {
+        "lang": "cy",
+        "name": "Pedryn drycin lludlwyd"
+      },
+      {
+        "lang": "eo",
+        "name": "Cindropetrelo"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ طوفان خاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaliforniankeiju"
+      },
+      {
+        "lang": "fr",
+        "name": "Océanite cendré"
+      },
+      {
+        "lang": "nl",
+        "name": "Californisch stormvogeltje"
+      },
+      {
+        "lang": "nv",
+        "name": "Níyol yiiʼ naatʼaʼí dinilbáhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Nawałnik bury"
+      },
+      {
+        "lang": "sv",
+        "name": "Kalifornisk stormsvala"
       }
     ]
   },
@@ -261,6 +376,10 @@
       {
         "lang": "en",
         "name": "Fork-tailed Storm-petrel"
+      },
+      {
+        "lang": "hu",
+        "name": "Hamvasszárnyú viharfecske"
       },
       {
         "lang": "ja",
@@ -278,6 +397,10 @@
       {
         "lang": "en",
         "name": "Band-rumped Storm-petrel"
+      },
+      {
+        "lang": "eo",
+        "name": "Madejra ŝtormpetrelo"
       },
       {
         "lang": "es",

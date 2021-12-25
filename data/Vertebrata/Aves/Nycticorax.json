@@ -1,5 +1,21 @@
 [
   {
+    "scientific_name": "Nycticorax olsoni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Nycticorax megacephalus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Nycticorax mauritianus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Nycticorax duboisi",
+    "common_names": []
+  },
+  {
     "scientific_name": "Nycticorax nycticorax",
     "common_names": [
       {
@@ -80,7 +96,7 @@
       },
       {
         "lang": "en",
-        "name": "Black-crowned Night Heron; Black-capped Night Heron"
+        "name": "Black-crowned Night Heron"
       },
       {
         "lang": "eo",
@@ -88,17 +104,7 @@
       },
       {
         "lang": "es",
-        "name": "Martinete común",
-        "synonyms": [
-          "aldorta",
-          "guaco",
-          "huaco",
-          "garza bruja",
-          "huairavo",
-          "martinete capinegro",
-          "rey congo cabeza negra",
-          "pedrete de corona negra"
-        ]
+        "name": "Martinete común"
       },
       {
         "lang": "et",
@@ -223,10 +229,6 @@
       {
         "lang": "kwn",
         "name": "Hakaruu Gomasiku"
-      },
-      {
-        "lang": "la",
-        "name": "Nycticorax"
       },
       {
         "lang": "lb",
@@ -414,12 +416,20 @@
         "name": "Kvakoš rezavý"
       },
       {
+        "lang": "cy",
+        "name": "Crëyr nancîn"
+      },
+      {
         "lang": "de",
         "name": "Rotrückenreiher"
       },
       {
         "lang": "en",
-        "name": "Nankeen Night Heron; Rufous night heron"
+        "name": "Nankeen Night Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Oceania noktardeo"
       },
       {
         "lang": "es",
@@ -430,6 +440,10 @@
         "name": "Bihoreau cannelle"
       },
       {
+        "lang": "he",
+        "name": "אנפת לילה אדמונית"
+      },
+      {
         "lang": "hu",
         "name": "Kaledón bakcsó"
       },
@@ -438,12 +452,28 @@
         "name": "Kowak-malam merah"
       },
       {
+        "lang": "it",
+        "name": "Nitticora rossiccia"
+      },
+      {
         "lang": "ja",
         "name": "ハシブトゴイ"
       },
       {
+        "lang": "lt",
+        "name": "Kaledoninis naktikovis"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Puchong Malam"
+      },
+      {
         "lang": "nl",
         "name": "Rosse kwak"
+      },
+      {
+        "lang": "no",
+        "name": "Nankinghegre"
       },
       {
         "lang": "pl",
@@ -467,7 +497,7 @@
       },
       {
         "lang": "zh",
-        "name": "紫花夜鷺"
+        "name": "棕夜鷺"
       }
     ]
   }

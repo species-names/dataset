@@ -1,22 +1,5 @@
 [
   {
-    "scientific_name": "Glaucidium tucumanum",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Kulíšek tucumanský"
-      },
-      {
-        "lang": "en",
-        "name": "Tucuman Pygmy-Owl"
-      },
-      {
-        "lang": "es",
-        "name": "Mochuelo tucumano"
-      }
-    ]
-  },
-  {
     "scientific_name": "Glaucidium tephronotum",
     "common_names": [
       {
@@ -30,6 +13,15 @@
       {
         "lang": "pl",
         "name": "sóweczka rdzawopierśna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Glaucidium sylvaticum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sunda Owlet"
       }
     ]
   },
@@ -148,6 +140,10 @@
       {
         "lang": "pl",
         "name": "sóweczka sawannowa"
+      },
+      {
+        "lang": "ta",
+        "name": "முத்துப் புள்ளி ஆந்தை"
       }
     ]
   },
@@ -155,16 +151,44 @@
     "scientific_name": "Glaucidium passerinum",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بومة قزمة أوراسية"
+      },
+      {
+        "lang": "ba",
+        "name": "Һаҡ"
+      },
+      {
         "lang": "be",
         "name": "Сыч вераб’іны"
       },
       {
+        "lang": "be-x-old",
+        "name": "Сыч вераб’іны"
+      },
+      {
         "lang": "bg",
-        "name": "Малка кукумявка"
+        "name": "Врабчова кукумявка"
+      },
+      {
+        "lang": "br",
+        "name": "Kaouenn gorr Eurazia"
+      },
+      {
+        "lang": "ca",
+        "name": "Mussolet eurasiàtic"
       },
       {
         "lang": "cs",
         "name": "Kulíšek nejmenší"
+      },
+      {
+        "lang": "cv",
+        "name": "Çерçи тăмани"
+      },
+      {
+        "lang": "cy",
+        "name": "Cordylluan"
       },
       {
         "lang": "da",
@@ -175,8 +199,32 @@
         "name": "Sperlingskauz"
       },
       {
+        "lang": "el",
+        "name": "Σπουργιτόγλαυκα"
+      },
+      {
         "lang": "en",
-        "name": "Eurasian Pygmy-Owl"
+        "name": "Eurasian Pygmy Owl"
+      },
+      {
+        "lang": "eo",
+        "name": "Paserstrigo"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo chico"
+      },
+      {
+        "lang": "et",
+        "name": "Värbkakk"
+      },
+      {
+        "lang": "eu",
+        "name": "Mozolo txiki"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد پیگمی اوراسیایی"
       },
       {
         "lang": "fi",
@@ -187,12 +235,44 @@
         "name": "Chevêchette d'Europe"
       },
       {
+        "lang": "ga",
+        "name": "Mionulchabhán Eoráiseach"
+      },
+      {
+        "lang": "gl",
+        "name": "Moucho pequeno"
+      },
+      {
+        "lang": "hr",
+        "name": "Mali ćuk"
+      },
+      {
+        "lang": "hu",
+        "name": "Európai törpekuvik"
+      },
+      {
         "lang": "it",
         "name": "Civetta nana"
       },
       {
         "lang": "ja",
         "name": "スズメフクロウ"
+      },
+      {
+        "lang": "ka",
+        "name": "ბუკნაჭოტი"
+      },
+      {
+        "lang": "kk",
+        "name": "Торғайдай байғызша"
+      },
+      {
+        "lang": "kv",
+        "name": "Дзоля сюзь"
+      },
+      {
+        "lang": "lld",
+        "name": "Ciuita"
       },
       {
         "lang": "lt",
@@ -203,12 +283,36 @@
         "name": "Apodziņš"
       },
       {
+        "lang": "mn",
+        "name": "Буслаг сүлиг"
+      },
+      {
+        "lang": "nl",
+        "name": "Dwerguil"
+      },
+      {
+        "lang": "nn",
+        "name": "Sporveugle"
+      },
+      {
+        "lang": "no",
+        "name": "Spurveugle"
+      },
+      {
         "lang": "pl",
-        "name": "sóweczka zwyczajna"
+        "name": "Sóweczka zwyczajna"
+      },
+      {
+        "lang": "pt",
+        "name": "Mocho-pigmeu"
       },
       {
         "lang": "ru",
         "name": "Воробьиный сыч"
+      },
+      {
+        "lang": "rue",
+        "name": "Сыч воробинный"
       },
       {
         "lang": "sah",
@@ -220,7 +324,15 @@
       },
       {
         "lang": "sk",
-        "name": "Kuvik vrabčí"
+        "name": "Kuvičok vrabčí"
+      },
+      {
+        "lang": "sl",
+        "name": "Mali skovik"
+      },
+      {
+        "lang": "sr",
+        "name": "Мала сова"
       },
       {
         "lang": "sv",
@@ -229,6 +341,10 @@
       {
         "lang": "uk",
         "name": "Сичик-горобець"
+      },
+      {
+        "lang": "zh",
+        "name": "花头鸺鹠"
       }
     ]
   },
@@ -284,19 +400,47 @@
     ]
   },
   {
-    "scientific_name": "Glaucidium nanum",
+    "scientific_name": "Glaucidium nana",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Mussolet de la Patagònia"
+      },
       {
         "lang": "cs",
         "name": "Kulíšek patagonský"
       },
       {
+        "lang": "cy",
+        "name": "Cordylluan Patagonia"
+      },
+      {
+        "lang": "de",
+        "name": "Patagonien-Sperlingskauz"
+      },
+      {
         "lang": "en",
-        "name": "Austral Pygmy-Owl"
+        "name": "Austral Pygmy Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Chuncho"
       },
       {
         "lang": "fi",
         "name": "Pampavarpuspöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêchette australe"
+      },
+      {
+        "lang": "nl",
+        "name": "Magelhaendwerguil"
+      },
+      {
+        "lang": "sv",
+        "name": "Magellansparvuggla"
       }
     ]
   },
@@ -318,6 +462,38 @@
       {
         "lang": "pt",
         "name": "Caburé de Pernambuco"
+      },
+      {
+        "lang": "ca",
+        "name": "Mussolet de Pernambuco"
+      },
+      {
+        "lang": "de",
+        "name": "Pernambuco-Zwergkauz"
+      },
+      {
+        "lang": "fi",
+        "name": "Pernambuconvarpuspöllö"
+      },
+      {
+        "lang": "nl",
+        "name": "Pernambucodwerguil"
+      },
+      {
+        "lang": "pl",
+        "name": "Sóweczka kasztanowata"
+      },
+      {
+        "lang": "sv",
+        "name": "pernambucosparvuggla"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú lùn Pernambuco"
+      },
+      {
+        "lang": "zh",
+        "name": "伯南布哥鵂鶹"
       }
     ]
   },
@@ -363,8 +539,32 @@
         "name": "Kulíšek kalifornský"
       },
       {
+        "lang": "de",
+        "name": "Hoskins-Sperlingskauz"
+      },
+      {
         "lang": "en",
-        "name": "Cape Pygmy-Owl"
+        "name": "Baja pygmy owl"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo de Hoskins"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêchette de Hoskins"
+      },
+      {
+        "lang": "nl",
+        "name": "Bajadwerguil"
+      },
+      {
+        "lang": "nv",
+        "name": "Ayaaí Ahééháshį́į́hdę́ę́ʼ biniiʼdootłʼizh"
+      },
+      {
+        "lang": "sv",
+        "name": "Californiasparvuggla"
       }
     ]
   },
@@ -431,6 +631,50 @@
       {
         "lang": "pl",
         "name": "sóweczka dwuplamista"
+      },
+      {
+        "lang": "ar",
+        "name": "بوم أقزم شمالي"
+      },
+      {
+        "lang": "ca",
+        "name": "Mussolet muntanyenc"
+      },
+      {
+        "lang": "cy",
+        "name": "Cordylluan y Gogledd"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêchette naine"
+      },
+      {
+        "lang": "nl",
+        "name": "Bergdwerguil"
+      },
+      {
+        "lang": "no",
+        "name": "Gnomugle"
+      },
+      {
+        "lang": "nv",
+        "name": "Dziłtah biniiʼdootłʼizh"
+      },
+      {
+        "lang": "pt",
+        "name": "Coruja-anã"
+      },
+      {
+        "lang": "ru",
+        "name": "Воробьиный сыч-гном"
+      },
+      {
+        "lang": "sq",
+        "name": "Huti i maleve"
+      },
+      {
+        "lang": "sv",
+        "name": "Mexikansk sparvuggla"
       }
     ]
   },
@@ -565,6 +809,55 @@
     ]
   },
   {
+    "scientific_name": "Glaucidium castanotum",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Mussolet de Sri Lanka"
+      },
+      {
+        "lang": "de",
+        "name": "Kastanienmantel-Zwergkauz"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut-backed Owlet"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo de Ceilán"
+      },
+      {
+        "lang": "fi",
+        "name": "Srilankanvarpuspöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêchette à dos marron"
+      },
+      {
+        "lang": "nl",
+        "name": "Ceylonese dwerguil"
+      },
+      {
+        "lang": "ru",
+        "name": "Буроспинный сычик"
+      },
+      {
+        "lang": "si",
+        "name": "පිටතඹල උපබස්සා"
+      },
+      {
+        "lang": "sk",
+        "name": "Kuvičok hnedochrbtý"
+      },
+      {
+        "lang": "sv",
+        "name": "Ceylonsparvuggla"
+      }
+    ]
+  },
+  {
     "scientific_name": "Glaucidium castanopterum",
     "common_names": [
       {
@@ -586,41 +879,27 @@
     ]
   },
   {
-    "scientific_name": "Glaucidium castanonotum",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Chestnut-backed Owlet"
-      },
-      {
-        "lang": "fi",
-        "name": "Srilankanvarpuspöllö"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Glaucidium castaneum",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Kulíšek iturský"
-      },
-      {
-        "lang": "en",
-        "name": "Chestnut Owlet"
-      },
-      {
-        "lang": "es",
-        "name": "Mochuelo castaño"
-      }
-    ]
-  },
-  {
     "scientific_name": "Glaucidium capense",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Gebande uil"
+      },
+      {
+        "lang": "br",
+        "name": "Kaouenn gorr ar C'hab"
+      },
+      {
+        "lang": "ca",
+        "name": "Mussolet del Cap"
+      },
+      {
         "lang": "cs",
         "name": "Kulíšek africký"
+      },
+      {
+        "lang": "cy",
+        "name": "Cordylluan resog Affrica"
       },
       {
         "lang": "de",
@@ -631,8 +910,40 @@
         "name": "African Barred Owlet"
       },
       {
+        "lang": "es",
+        "name": "Mochuelo de El Cabo"
+      },
+      {
         "lang": "fi",
-        "name": "Akaasiavarpuspöllö"
+        "name": "Akasiavarpuspöllö"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêchette du Cap"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapse dwerguil"
+      },
+      {
+        "lang": "no",
+        "name": "Dvergugle"
+      },
+      {
+        "lang": "pl",
+        "name": "Sóweczka plamobrzucha"
+      },
+      {
+        "lang": "pt",
+        "name": "Mocho-barrado"
+      },
+      {
+        "lang": "ru",
+        "name": "Капский воробьиный сыч"
+      },
+      {
+        "lang": "sv",
+        "name": "Akaciasparvuggla"
       }
     ]
   },
@@ -661,28 +972,88 @@
     "scientific_name": "Glaucidium brodiei",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Огърличеста кукумявка"
+      },
+      {
+        "lang": "ca",
+        "name": "Mussolet de collar"
+      },
+      {
         "lang": "cs",
         "name": "Kulíšek límcový"
+      },
+      {
+        "lang": "cy",
+        "name": "Cordylluan dorchog"
+      },
+      {
+        "lang": "de",
+        "name": "Wachtel-Sperlingskauz"
       },
       {
         "lang": "en",
         "name": "Collared Owlet"
       },
       {
-        "lang": "ms",
-        "name": "Burung Hantu Kerdil"
-      },
-      {
-        "lang": "th",
-        "name": "นกเค้าแคระ"
+        "lang": "es",
+        "name": "Mochuelo acollarado"
       },
       {
         "lang": "fi",
         "name": "Kaulusvarpuspöllö"
       },
       {
+        "lang": "fr",
+        "name": "Chevêchette à collier"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Hantu Kecil"
+      },
+      {
+        "lang": "my",
+        "name": "ဇီးကွက်လေး"
+      },
+      {
+        "lang": "ne",
+        "name": "सानो डुन्डुल"
+      },
+      {
+        "lang": "nl",
+        "name": "Gekraagde dwerguil"
+      },
+      {
+        "lang": "no",
+        "name": "Janusugle"
+      },
+      {
         "lang": "pl",
-        "name": "sóweczka obrożna"
+        "name": "Sóweczka obrożna"
+      },
+      {
+        "lang": "ru",
+        "name": "Ошейниковый воробьиный сыч"
+      },
+      {
+        "lang": "sk",
+        "name": "Kuvičok obojkový"
+      },
+      {
+        "lang": "sv",
+        "name": "Orientsparvuggla"
+      },
+      {
+        "lang": "th",
+        "name": "นกเค้าแคระ"
+      },
+      {
+        "lang": "vi",
+        "name": "Cú vọ mặt trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "領鵂鶹"
       }
     ]
   },
@@ -691,10 +1062,15 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "Kulíšek brazilský",
-        "synonyms": [
-          "kulíšek patagonský"
-        ]
+        "name": "Kulíšek brazilský"
+      },
+      {
+        "lang": "ca",
+        "name": "Mussolet ferruginós"
+      },
+      {
+        "lang": "cy",
+        "name": "Cordylluan Brasil"
       },
       {
         "lang": "da",
@@ -702,11 +1078,11 @@
       },
       {
         "lang": "de",
-        "name": "Brasilsperlingskauz"
+        "name": "Brasilzwergkauz"
       },
       {
         "lang": "en",
-        "name": "Ferruginous Pygmy-owl"
+        "name": "Ferruginous Pygmy Owl"
       },
       {
         "lang": "eo",
@@ -714,11 +1090,15 @@
       },
       {
         "lang": "es",
-        "name": "Caburé"
+        "name": "Tecolote bajeño"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد کوتوله آهنی‌رنگ"
       },
       {
         "lang": "fi",
-        "name": "ruostevarpuspöllö"
+        "name": "Ruostevarpuspöllö"
       },
       {
         "lang": "fr",
@@ -727,6 +1107,10 @@
       {
         "lang": "gn",
         "name": "Kavure'i"
+      },
+      {
+        "lang": "he",
+        "name": "ינשוף פנינה פרוגינוס"
       },
       {
         "lang": "hu",
@@ -738,10 +1122,7 @@
       },
       {
         "lang": "ja",
-        "name": "アカスズメフクロウ",
-        "synonyms": [
-          "akasuzumefukurou"
-        ]
+        "name": "アカスズメフクロウ"
       },
       {
         "lang": "nl",
@@ -752,20 +1133,20 @@
         "name": "Øgleugle"
       },
       {
+        "lang": "nv",
+        "name": "Biniiʼdootłʼizh łichíʼígíí"
+      },
+      {
         "lang": "pl",
-        "name": "sóweczka kreskowana"
+        "name": "Sóweczka kreskowana"
+      },
+      {
+        "lang": "pt",
+        "name": "Caburé"
       },
       {
         "lang": "pt-br",
         "name": "Caburé"
-      },
-      {
-        "lang": "pt",
-        "name": "Caburé",
-        "synonyms": [
-          "Caburé-ferrugem",
-          "Caburé-sol"
-        ]
       },
       {
         "lang": "ru",
@@ -773,7 +1154,7 @@
       },
       {
         "lang": "sk",
-        "name": "kuvicok hrdzavý"
+        "name": "Kuvicok hrdzavý"
       },
       {
         "lang": "sv",

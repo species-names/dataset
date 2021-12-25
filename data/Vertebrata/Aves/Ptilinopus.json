@@ -27,6 +27,10 @@
       {
         "lang": "ja",
         "name": "オレンジバト"
+      },
+      {
+        "lang": "pt",
+        "name": "Pombo-da-fruta-laranja"
       }
     ]
   },
@@ -93,6 +97,10 @@
       {
         "lang": "en",
         "name": "Superb Fruit-Dove"
+      },
+      {
+        "lang": "pt",
+        "name": "Pombo-da-fruta-pintado"
       }
     ]
   },
@@ -223,6 +231,10 @@
       {
         "lang": "eo",
         "name": "Rozkrona fruktokolombo"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-coroa-rosada"
       }
     ]
   },
@@ -285,6 +297,46 @@
       {
         "lang": "fr",
         "name": "Ptilope de la Société"
+      },
+      {
+        "lang": "ca",
+        "name": "Ptilinop de Tahití"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau lwydwerdd"
+      },
+      {
+        "lang": "da",
+        "name": "Tahitifrugtdue"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار خاکستری-سبز"
+      },
+      {
+        "lang": "nl",
+        "name": "Tahitiaanse jufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Tahitifruktdue"
+      },
+      {
+        "lang": "nv",
+        "name": "Hasbídí ałchozhí chʼilgo dootłʼizhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹیلونوپس پرپراٹس"
+      },
+      {
+        "lang": "ru",
+        "name": "Серо-зелёный пёстрый голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "tahitifruktduva"
       }
     ]
   },
@@ -326,6 +378,10 @@
       {
         "lang": "sv",
         "name": "Karmosinkronad fruktduva"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-barriga-laranja"
       }
     ]
   },
@@ -355,6 +411,10 @@
       {
         "lang": "ja",
         "name": "ベニガシラヒメアオバト"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-cabeça-rosa"
       }
     ]
   },
@@ -409,6 +469,10 @@
     "scientific_name": "Ptilinopus pelewensis",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Palau fruit dove"
+      },
+      {
         "lang": "cs",
         "name": "Holub anguarský"
       }
@@ -419,11 +483,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Ornate Fruit-Dove"
+        "name": "Ornate fruit dove"
       },
       {
         "lang": "eo",
         "name": "Ornata fruktokolombo"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-ornada"
       }
     ]
   },
@@ -612,20 +680,72 @@
     "scientific_name": "Ptilinopus melanospilus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Ptilinop de clatell negre"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau warddu"
+      },
+      {
+        "lang": "da",
+        "name": "Sortnakket Frugtdue"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarznacken-Fruchttaube"
+      },
+      {
         "lang": "en",
-        "name": "Black-naped Fruit-Dove"
+        "name": "Black-naped Fruit Dove"
       },
       {
         "lang": "eo",
         "name": "Nigronuka fruktokolombo"
       },
       {
+        "lang": "es",
+        "name": "Tilopo nuquinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope turgris"
+      },
+      {
         "lang": "id",
-        "name": "Walik Kembang"
+        "name": "Walik kembang"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora beccafrutta nucanera"
+      },
+      {
+        "lang": "ja",
+        "name": "カルカヤバト"
       },
       {
         "lang": "nl",
         "name": "Zwartnekjufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Svartnakkefruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "کلسری کگی"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-testa-negra"
+      },
+      {
+        "lang": "ru",
+        "name": "Чернозатылочный пёстрый голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartnackad fruktduva"
       }
     ]
   },
@@ -739,13 +859,6 @@
         ]
       },
       {
-        "lang": "la",
-        "name": "Ptilinopus magnificus",
-        "synonyms": [
-          "Megaloprepia magnifica"
-        ]
-      },
-      {
         "lang": "nl",
         "name": "Wompoejufferduif"
       },
@@ -759,7 +872,7 @@
       },
       {
         "lang": "pt",
-        "name": "Pomba-de-fruta-magnifica"
+        "name": "Pomba-da-fruta-magnífica"
       },
       {
         "lang": "ru",
@@ -862,7 +975,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "holub jambu"
+        "name": "Holub jambu"
       },
       {
         "lang": "da",
@@ -874,7 +987,7 @@
       },
       {
         "lang": "en",
-        "name": "Jambu Fruit-dove"
+        "name": "Jambu Fruit Dove"
       },
       {
         "lang": "eo",
@@ -886,11 +999,11 @@
       },
       {
         "lang": "et",
-        "name": "mask-rohetuvi"
+        "name": "Mask-rohetuvi"
       },
       {
         "lang": "fi",
-        "name": "punanaamakyyhky"
+        "name": "Punanaamakyyhky"
       },
       {
         "lang": "fr",
@@ -898,7 +1011,7 @@
       },
       {
         "lang": "hu",
-        "name": "jambu gyümölcsgalamb"
+        "name": "Jambu gyümölcsgalamb"
       },
       {
         "lang": "id",
@@ -910,10 +1023,7 @@
       },
       {
         "lang": "ja",
-        "name": "ボタンバト",
-        "synonyms": [
-          "botambato"
-        ]
+        "name": "ボタンバト"
       },
       {
         "lang": "ms",
@@ -929,11 +1039,11 @@
       },
       {
         "lang": "pl",
-        "name": "owocożer czerwonolicy"
+        "name": "Owocożer czerwonolicy"
       },
       {
         "lang": "pt",
-        "name": "Pomba-de-fruta-jamboo"
+        "name": "Pomba-da-fruta-de-jambu"
       },
       {
         "lang": "ru",
@@ -941,7 +1051,7 @@
       },
       {
         "lang": "sk",
-        "name": "pestroš jambu"
+        "name": "Pestroš jambu"
       },
       {
         "lang": "sv",
@@ -962,7 +1072,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Orange-bellied Fruit-Dove"
+        "name": "Orange-bellied Fruit Dove"
       },
       {
         "lang": "nl",
@@ -1035,6 +1145,46 @@
       {
         "lang": "en",
         "name": "Rapa Fruit-dove"
+      },
+      {
+        "lang": "ca",
+        "name": "Ptilinop de Rapa"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau Ynys Rapa"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Hutton"
+      },
+      {
+        "lang": "es",
+        "name": "tilopo de Rapa"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кужы нерӓн ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Rapajufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Rapafruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹیلونوپس ہٹونی"
+      },
+      {
+        "lang": "ru",
+        "name": "Длинноклювый пёстрый голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "rapafruktduva"
       }
     ]
   },
@@ -1243,7 +1393,7 @@
       },
       {
         "lang": "en",
-        "name": "Banded Fruit-Dove"
+        "name": "Banded Fruit Dove"
       }
     ]
   },
@@ -1302,6 +1452,54 @@
       {
         "lang": "es",
         "name": "Tilopo de Bernstein"
+      },
+      {
+        "lang": "ca",
+        "name": "Ptilinop de pit escarlata"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau frongoch"
+      },
+      {
+        "lang": "de",
+        "name": "Scharlachbrust-Fruchttaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار سینه‌سرخ"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope à poitrine écarlate"
+      },
+      {
+        "lang": "hu",
+        "name": "Skarlátmellű gyümölcsgalamb"
+      },
+      {
+        "lang": "id",
+        "name": "Walik dada-merah"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹнӓ онган ала кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Prachtjufferduif"
+      },
+      {
+        "lang": "no",
+        "name": "Bambusfruktdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "پٹیلینوپس برنسٹائینی"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödbröstad fruktduva"
       }
     ]
   },
@@ -1315,6 +1513,10 @@
       {
         "lang": "en",
         "name": "Orange-fronted Fruit-Dove"
+      },
+      {
+        "lang": "pt",
+        "name": "Pomba-da-fruta-de-fronte-laranja"
       }
     ]
   },

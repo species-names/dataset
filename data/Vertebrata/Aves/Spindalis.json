@@ -77,7 +77,16 @@
   },
   {
     "scientific_name": "Spindalis portoricensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Puerto Rican Spindalis"
+      },
+      {
+        "lang": "es",
+        "name": "Cigua puertorriqueña"
+      }
+    ]
   },
   {
     "scientific_name": "Spindalis nigricephala",
@@ -102,6 +111,27 @@
   },
   {
     "scientific_name": "Spindalis dominicensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hispaniolan spindalis"
+      },
+      {
+        "lang": "es",
+        "name": "cigua de La Española"
+      },
+      {
+        "lang": "fr",
+        "name": "Zéna d'Hispaniola"
+      },
+      {
+        "lang": "nl",
+        "name": "Hispaniolaspindalis"
+      },
+      {
+        "lang": "sv",
+        "name": "hispaniolaspindalia"
+      }
+    ]
   }
 ]

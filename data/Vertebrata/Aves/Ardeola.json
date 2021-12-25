@@ -3,8 +3,100 @@
     "scientific_name": "Ardeola speciosa",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بلشون البحيرات الجاوي"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet ros de Malàisia"
+      },
+      {
         "lang": "cs",
         "name": "Volavka nádherná"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr pyllau Jafa"
+      },
+      {
+        "lang": "de",
+        "name": "Prachtreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Javan Pond Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Indonezia ralardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garcilla indonesia"
+      },
+      {
+        "lang": "fr",
+        "name": "Crabier malais"
+      },
+      {
+        "lang": "id",
+        "name": "Blekok sawah"
+      },
+      {
+        "lang": "it",
+        "name": "Sgarza di Giava"
+      },
+      {
+        "lang": "jv",
+        "name": "Blekok sawah"
+      },
+      {
+        "lang": "lt",
+        "name": "Javinis kūdrinis garnys"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Puchong Jawa"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaanse ralreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Damhegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla okazała"
+      },
+      {
+        "lang": "pnb",
+        "name": "جاوی چھپڑ بگلا"
+      },
+      {
+        "lang": "ru",
+        "name": "Малайская жёлтая цапля"
+      },
+      {
+        "lang": "su",
+        "name": "Belekok"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartryggig häger"
+      },
+      {
+        "lang": "th",
+        "name": "นกยางกรอกพันธุ์ชวา"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò bợ Mã Lai"
+      },
+      {
+        "lang": "zh",
+        "name": "爪哇池鷺"
       }
     ]
   },
@@ -12,8 +104,80 @@
     "scientific_name": "Ardeola rufiventris",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Rooipensreier"
+      },
+      {
+        "lang": "ar",
+        "name": "بلشون البحيرات أحمر الذيل"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet ros ventre-roig"
+      },
+      {
         "lang": "cs",
         "name": "Volavka hnědobřichá"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr torgoch"
+      },
+      {
+        "lang": "de",
+        "name": "Rotbauchreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Rufous-bellied Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝventra ralardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garcilla de Vientre rojo"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل شکم‌حنایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Crabier à ventre roux"
+      },
+      {
+        "lang": "hu",
+        "name": "Vöröshasú gém"
+      },
+      {
+        "lang": "it",
+        "name": "Sgarza panciarossiccia"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudapilvis kūdrinis garnys"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodbuikreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Rustbukhegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla rudobrzucha"
+      },
+      {
+        "lang": "pnb",
+        "name": "رتے ٹڈوالا بگلا"
+      },
+      {
+        "lang": "sv",
+        "name": "Sammetshäger"
       }
     ]
   },
@@ -34,7 +198,7 @@
       },
       {
         "lang": "az",
-        "name": "Sarı vağ"
+        "name": "Sarı pırtlaşıqlələk"
       },
       {
         "lang": "be",
@@ -50,11 +214,11 @@
       },
       {
         "lang": "ca",
-        "name": "Martinet ros"
+        "name": "Martinet ros comú"
       },
       {
         "lang": "cs",
-        "name": "volavka vlasatá"
+        "name": "Volavka vlasatá"
       },
       {
         "lang": "cy",
@@ -93,8 +257,12 @@
         "name": "Lertxuntxo karramarrozalea"
       },
       {
+        "lang": "fa",
+        "name": "حواصیل اسکوآکو"
+      },
+      {
         "lang": "fi",
-        "name": "rääkkähaikara"
+        "name": "Rääkkähaikara"
       },
       {
         "lang": "fo",
@@ -114,7 +282,11 @@
       },
       {
         "lang": "gl",
-        "name": "Garza caranguexeira"
+        "name": "Garza amarela"
+      },
+      {
+        "lang": "ha",
+        "name": "Makwabo"
       },
       {
         "lang": "he",
@@ -130,7 +302,7 @@
       },
       {
         "lang": "hy",
-        "name": "Տառեղ դեղին"
+        "name": "Դեղին տառեղ"
       },
       {
         "lang": "is",
@@ -142,14 +314,15 @@
       },
       {
         "lang": "ja",
-        "name": "カンムリサギ",
-        "synonyms": [
-          "kammurisagi"
-        ]
+        "name": "カンムリサギ"
       },
       {
         "lang": "ka",
         "name": "ყვითელი ყანჩა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Псыхэуэгъуэжь"
       },
       {
         "lang": "kk",
@@ -169,7 +342,7 @@
       },
       {
         "lang": "mk",
-        "name": "Жолта (Гривеста) чапја"
+        "name": "Жолта чапја"
       },
       {
         "lang": "mt",
@@ -184,16 +357,24 @@
         "name": "Topphegre"
       },
       {
-        "lang": "pl",
-        "name": "czapla modronosa"
+        "lang": "olo",
+        "name": "Riäčkyhaigari"
       },
       {
-        "lang": "pt-br",
-        "name": "Garça-caranguejeira"
+        "lang": "pl",
+        "name": "Czapla modronosa"
+      },
+      {
+        "lang": "pnb",
+        "name": "سکواکو بگلا"
       },
       {
         "lang": "pt",
         "name": "Papa-ratos"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Garça-caranguejeira"
       },
       {
         "lang": "rm",
@@ -204,12 +385,16 @@
         "name": "Жёлтая цапля"
       },
       {
+        "lang": "rue",
+        "name": "Чапля шовкова"
+      },
+      {
         "lang": "sk",
-        "name": "Volavka vlasatá"
+        "name": "Čaplička vlasatá"
       },
       {
         "lang": "sl",
-        "name": "čopasta čaplja"
+        "name": "Čopasta čaplja"
       },
       {
         "lang": "sq",
@@ -217,10 +402,7 @@
       },
       {
         "lang": "sr",
-        "name": "žuta čaplja",
-        "synonyms": [
-          "Жута цаплја"
-        ]
+        "name": "Жута чапља"
       },
       {
         "lang": "st",
@@ -240,7 +422,7 @@
       },
       {
         "lang": "uk",
-        "name": "Жовта чапля"
+        "name": "Чапля жовта"
       },
       {
         "lang": "zh",
@@ -252,8 +434,92 @@
     "scientific_name": "Ardeola idae",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Madagaskar-ralreier"
+      },
+      {
+        "lang": "ar",
+        "name": "بلشون البحيرات المالاغاسي"
+      },
+      {
+        "lang": "bg",
+        "name": "Мадагаскарска жълта чапла"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet ros de Madagascar"
+      },
+      {
         "lang": "cs",
         "name": "Volavka modrozobá"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr melyn Madagasgar"
+      },
+      {
+        "lang": "de",
+        "name": "Dickschnabelreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Malagasy Pond Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Madagaskara ralardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garcilla malgache"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل ماداگاسکاری"
+      },
+      {
+        "lang": "fr",
+        "name": "Crabier blanc"
+      },
+      {
+        "lang": "hu",
+        "name": "Kékcsőrű gém"
+      },
+      {
+        "lang": "it",
+        "name": "Sgarza del Madagascar"
+      },
+      {
+        "lang": "lt",
+        "name": "Madagaskarinis kūdrinis garnys"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskarralreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Prydhegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla malgaska"
+      },
+      {
+        "lang": "pnb",
+        "name": "مالاگاسی چھپڑ بگلا"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-caranguejeira-de-madagascar"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарская жёлтая цапля"
+      },
+      {
+        "lang": "sv",
+        "name": "Madagaskarrallhäger"
       }
     ]
   },
@@ -261,31 +527,136 @@
     "scientific_name": "Ardeola grayii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بلشون البرك الهندي"
+      },
+      {
+        "lang": "as",
+        "name": "কণামুছৰি"
+      },
+      {
+        "lang": "bg",
+        "name": "Индийска гривеста чапла"
+      },
+      {
+        "lang": "bh",
+        "name": "अन्हबकुला"
+      },
+      {
+        "lang": "bn",
+        "name": "দেশি কানিবক"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet ros de l'Índia"
+      },
+      {
         "lang": "cs",
         "name": "Volavka hnědohřbetá"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr pyllau India"
       },
       {
         "lang": "de",
         "name": "Paddyreiher"
       },
       {
+        "lang": "dty",
+        "name": "आसकोटे बकुल्ला"
+      },
+      {
         "lang": "en",
-        "name": "Indian pond heron",
-        "synonyms": [
-          "Paddybird"
-        ]
+        "name": "Indian Pond Heron"
+      },
+      {
+        "lang": "eo",
+        "name": "Hinda ardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garcilla hindú"
+      },
+      {
+        "lang": "fa",
+        "name": "حواصیل برکه‌نشین هندی"
+      },
+      {
+        "lang": "fi",
+        "name": "Intianriisihaikara"
       },
       {
         "lang": "fr",
         "name": "Crabier de Gray"
       },
       {
+        "lang": "hu",
+        "name": "Indiai üstökösgém"
+      },
+      {
+        "lang": "it",
+        "name": "Sgarza indiana"
+      },
+      {
+        "lang": "lt",
+        "name": "Mangrovinis kūdrinis garnys"
+      },
+      {
         "lang": "ml",
         "name": "കുളക്കൊക്ക്"
       },
       {
+        "lang": "mnw",
+        "name": "ပံက်ကိုပ်၊ ဂစေံ"
+      },
+      {
+        "lang": "mr",
+        "name": "वंचक"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Pucong Bakau"
+      },
+      {
+        "lang": "ne",
+        "name": "आसकोटे बकुल्ला"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische ralreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Mangrovehegre"
+      },
+      {
+        "lang": "pa",
+        "name": "ਛੱਪੜੀ ਬਗਲਾ"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla siodłata"
+      },
+      {
+        "lang": "pnb",
+        "name": "چھپڑی بگلا"
+      },
+      {
+        "lang": "ru",
+        "name": "Индийская жёлтая цапля"
+      },
+      {
+        "lang": "sv",
+        "name": "Rishäger"
+      },
+      {
         "lang": "ta",
-        "name": "குருட்டுக் கொக்கு"
+        "name": "குளத்துக் கொக்கு"
+      },
+      {
+        "lang": "th",
+        "name": "นกยางกรอกพันธุ์อินเดีย"
       }
     ]
   },
@@ -293,8 +664,24 @@
     "scientific_name": "Ardeola bacchus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بلشون البحيرات الصيني"
+      },
+      {
+        "lang": "bh",
+        "name": "लम्पुरा बकुला"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet ros de la Xina"
+      },
+      {
         "lang": "cs",
-        "name": "volavka čínská"
+        "name": "Volavka čínská"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr pyllau Tsieina"
       },
       {
         "lang": "da",
@@ -309,12 +696,16 @@
         "name": "Chinese Pond Heron"
       },
       {
+        "lang": "eo",
+        "name": "Ĉina ralardeo"
+      },
+      {
         "lang": "es",
         "name": "Garcilla China"
       },
       {
         "lang": "fi",
-        "name": "kiinanriisihaikara"
+        "name": "Kiinanriisihaikara"
       },
       {
         "lang": "fr",
@@ -326,14 +717,14 @@
       },
       {
         "lang": "it",
-        "name": "Sgarza cinese"
+        "name": "Sgarza cinese",
+        "synonyms": [
+          "Sgarza della Cina"
+        ]
       },
       {
         "lang": "ja",
-        "name": "アカガシラサギ",
-        "synonyms": [
-          "akagashirasagi"
-        ]
+        "name": "アカガシラサギ"
       },
       {
         "lang": "ko",
@@ -344,12 +735,20 @@
         "name": "Baltasparnis garnys"
       },
       {
+        "lang": "ml",
+        "name": "ചീന കുളക്കൊക്ക്"
+      },
+      {
         "lang": "mn",
         "name": "Цагаан дэвлээ"
       },
       {
         "lang": "nl",
         "name": "Chinese Ralreiger"
+      },
+      {
+        "lang": "nn",
+        "name": "Vinhegre"
       },
       {
         "lang": "no",
@@ -373,11 +772,15 @@
       },
       {
         "lang": "sk",
-        "name": "čaplička bielokrídla"
+        "name": "Čaplička bielokrídla"
       },
       {
         "lang": "sv",
         "name": "Bacchushäger"
+      },
+      {
+        "lang": "th",
+        "name": "นกยางกรอกพันธุ์จีน"
       },
       {
         "lang": "vi",
@@ -385,10 +788,7 @@
       },
       {
         "lang": "zh",
-        "name": "池鷺",
-        "synonyms": [
-          "池鹭"
-        ]
+        "name": "池鹭"
       }
     ]
   }

@@ -3,8 +3,16 @@
     "scientific_name": "Xanthocephalus xanthocephalus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Merla de cap groc"
+      },
+      {
         "lang": "cs",
-        "name": "vlhovec žlutohlavý"
+        "name": "Vlhovec žlutohlavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Tresglen benfelen"
       },
       {
         "lang": "da",
@@ -12,7 +20,7 @@
       },
       {
         "lang": "de",
-        "name": "Brillenstärling"
+        "name": "Gelbkopf-Schwarzstärling"
       },
       {
         "lang": "en",
@@ -27,12 +35,20 @@
         "name": "Tordo Cabeciamarillo"
       },
       {
+        "lang": "fa",
+        "name": "سیاه‌مرغ سرزرد"
+      },
+      {
         "lang": "fi",
-        "name": "keltahupputurpiaali"
+        "name": "Keltahupputurpiaali"
       },
       {
         "lang": "fr",
         "name": "Carouge à tête jaune"
+      },
+      {
+        "lang": "hu",
+        "name": "Sárgafejű csiröge"
       },
       {
         "lang": "is",
@@ -44,10 +60,7 @@
       },
       {
         "lang": "ja",
-        "name": "キガシラムクドリモドキ",
-        "synonyms": [
-          "kigashiramukudorimodoki"
-        ]
+        "name": "キガシラムクドリモドキ"
       },
       {
         "lang": "lt",
@@ -67,7 +80,7 @@
       },
       {
         "lang": "pl",
-        "name": "kacyk żółtogłowy"
+        "name": "Kacyk żółtogłowy"
       },
       {
         "lang": "pt",
@@ -79,11 +92,11 @@
       },
       {
         "lang": "sk",
-        "name": "lúčnik žltohlavý"
+        "name": "Lúčnik žltohlavý"
       },
       {
         "lang": "sv",
-        "name": "Gulhuvad trupial"
+        "name": "Gulhuvad ängstrupial"
       },
       {
         "lang": "zh",

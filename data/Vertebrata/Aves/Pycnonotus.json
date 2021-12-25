@@ -216,26 +216,6 @@
     "scientific_name": "Pycnonotus tympanistrigus",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Spot-necked Bulbul"
-      },
-      {
-        "lang": "hu",
-        "name": "Aranyarcú bülbül"
-      },
-      {
-        "lang": "pl",
-        "name": "Bilbil sumatrzański"
-      },
-      {
-        "lang": "fi",
-        "name": "Oliivipääbulbuli"
-      },
-      {
-        "lang": "tp",
-        "name": "Raninghai Elli wachasumratzatta"
-      },
-      {
         "lang": "ar",
         "name": "بلبل منقط الرقبة"
       },
@@ -244,16 +224,36 @@
         "name": "Bwlbwl corunwyrdd"
       },
       {
+        "lang": "en",
+        "name": "Spot-necked Bulbul"
+      },
+      {
+        "lang": "fi",
+        "name": "Oliivipääbulbuli"
+      },
+      {
         "lang": "fr",
         "name": "Bulbul à cou tacheté"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranyarcú bülbül"
       },
       {
         "lang": "nl",
         "name": "Barusanbuulbuul"
       },
       {
+        "lang": "pl",
+        "name": "Bilbil sumatrzański"
+      },
+      {
         "lang": "sv",
         "name": "gulkindad bulbyl"
+      },
+      {
+        "lang": "tp",
+        "name": "Raninghai Elli wachasumratzatta"
       }
     ]
   },
@@ -261,16 +261,32 @@
     "scientific_name": "Pycnonotus tricolor",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بلبل ثلاثي الألوان"
+      },
+      {
         "lang": "en",
         "name": "Dark-capped Bulbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul tricolor"
       },
       {
         "lang": "fr",
         "name": "Bulbul tricolore"
       },
       {
+        "lang": "nl",
+        "name": "Driekleurbuulbuul"
+      },
+      {
         "lang": "pl",
         "name": "Bilbil okopcony"
+      },
+      {
+        "lang": "sv",
+        "name": "Trefärgad bulbyl"
       }
     ]
   },
@@ -282,28 +298,28 @@
         "name": "بلبل تايواني"
       },
       {
+        "lang": "cy",
+        "name": "Bwlbwl Fformosa"
+      },
+      {
         "lang": "en",
-        "name": "Styan's bulbul"
+        "name": "Styan's Bulbul"
       },
       {
         "lang": "es",
         "name": "Bulbul de Taiwán"
       },
       {
-        "lang": "fr",
-        "name": "Bulbul de Taïwan"
-      },
-      {
-        "lang": "zh",
-        "name": "烏頭翁"
-      },
-      {
-        "lang": "cy",
-        "name": "Bwlbwl Fformosa"
+        "lang": "fa",
+        "name": "بلبل تایوانی"
       },
       {
         "lang": "fi",
         "name": "Taiwaninbulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul de Taïwan"
       },
       {
         "lang": "hu",
@@ -319,7 +335,11 @@
       },
       {
         "lang": "sv",
-        "name": "taiwanbulbyl"
+        "name": "Taiwanbulbyl"
+      },
+      {
+        "lang": "zh",
+        "name": "烏頭翁"
       }
     ]
   },
@@ -521,8 +541,12 @@
         "name": "بلبل زيتوني الجناحين"
       },
       {
+        "lang": "cy",
+        "name": "Bwlbwl gwinau"
+      },
+      {
         "lang": "en",
-        "name": "Olive-winged bulbul"
+        "name": "Olive-winged Bulbul"
       },
       {
         "lang": "es",
@@ -551,6 +575,10 @@
       {
         "lang": "nl",
         "name": "Maleise buulbuul"
+      },
+      {
+        "lang": "pl",
+        "name": "Bilbil oliwkowy"
       },
       {
         "lang": "sv",
@@ -636,7 +664,7 @@
       },
       {
         "lang": "pl",
-        "name": "bilbil niebieskooki"
+        "name": "Bilbil niebieskooki"
       },
       {
         "lang": "sv",
@@ -1136,7 +1164,7 @@
       },
       {
         "lang": "en",
-        "name": "Grey-bellied bulbul"
+        "name": "Grey-bellied Bulbul"
       },
       {
         "lang": "es",
@@ -1164,7 +1192,11 @@
       },
       {
         "lang": "sv",
-        "name": "gråbukig bulbyl"
+        "name": "Gråbukig bulbyl"
+      },
+      {
+        "lang": "vi",
+        "name": "Chào mào bụng xám"
       }
     ]
   },
@@ -1293,6 +1325,10 @@
     "scientific_name": "Pycnonotus aurigaster",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Rußhaubenbülbül"
+      },
+      {
         "lang": "en",
         "name": "Sooty-headed Bulbul"
       },
@@ -1303,6 +1339,14 @@
       {
         "lang": "id",
         "name": "Kutilang"
+      },
+      {
+        "lang": "nl",
+        "name": "Roetkopbuulbuul"
+      },
+      {
+        "lang": "pl",
+        "name": "Bilbil złotoplamy"
       },
       {
         "lang": "th",

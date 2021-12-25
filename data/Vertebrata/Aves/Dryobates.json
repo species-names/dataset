@@ -32,8 +32,16 @@
     "scientific_name": "Dryobates pubescens",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Picot garser beccurt"
+      },
+      {
         "lang": "cs",
         "name": "Strakapoud osikový"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell wlanog"
       },
       {
         "lang": "da",
@@ -53,7 +61,11 @@
       },
       {
         "lang": "es",
-        "name": "Pico Pubescente"
+        "name": "Pico pubescente"
+      },
+      {
+        "lang": "fa",
+        "name": "دارکوب لطیف‌پر"
       },
       {
         "lang": "fi",
@@ -62,6 +74,10 @@
       {
         "lang": "fr",
         "name": "Pic mineur"
+      },
+      {
+        "lang": "hu",
+        "name": "Pehelyharkály"
       },
       {
         "lang": "it",
@@ -84,8 +100,16 @@
         "name": "Dunspett"
       },
       {
+        "lang": "nv",
+        "name": "Tsįįłkaałii yilzhólígíí"
+      },
+      {
         "lang": "pl",
         "name": "Dzięcioł kosmaty"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈاؤنی چڑی ترکھان"
       },
       {
         "lang": "ru",
@@ -98,6 +122,10 @@
       {
         "lang": "sv",
         "name": "Dunspett"
+      },
+      {
+        "lang": "uk",
+        "name": "Дятел пухнастий"
       },
       {
         "lang": "zh",
@@ -181,12 +209,12 @@
     "scientific_name": "Dryobates minor",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "ЖыгыуӀуцӀыкӀу"
-      },
-      {
         "lang": "ar",
         "name": "نقار خشب مرقط صغير"
+      },
+      {
+        "lang": "ast",
+        "name": "Picu menor"
       },
       {
         "lang": "az",
@@ -201,6 +229,10 @@
         "name": "Малы дзяцел"
       },
       {
+        "lang": "be-x-old",
+        "name": "Дзяцел малы"
+      },
+      {
         "lang": "bg",
         "name": "Малък пъстър кълвач"
       },
@@ -213,16 +245,20 @@
         "name": "Picot garser petit"
       },
       {
-        "lang": "cv",
-        "name": "Пĕчĕк улатакка"
+        "lang": "co",
+        "name": "Pichjettu"
       },
       {
         "lang": "cs",
         "name": "Strakapoud malý"
       },
       {
-        "lang": "co",
-        "name": "Pichjettu"
+        "lang": "csb",
+        "name": "Dzëcółk"
+      },
+      {
+        "lang": "cv",
+        "name": "Пĕчĕк улатакка"
       },
       {
         "lang": "cy",
@@ -241,20 +277,36 @@
         "name": "Lesser Spotted Woodpecker"
       },
       {
+        "lang": "eo",
+        "name": "Malgranda buntpego"
+      },
+      {
         "lang": "es",
         "name": "Pico menor"
       },
       {
-        "lang": "eo",
-        "name": "Malgranda buntpego"
+        "lang": "et",
+        "name": "Väike-kirjurähn"
       },
       {
         "lang": "eu",
         "name": "Okil txiki"
       },
       {
+        "lang": "fa",
+        "name": "دارکوب کوچک"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkutikka"
+      },
+      {
         "lang": "fr",
         "name": "Pic épeichette"
+      },
+      {
+        "lang": "ga",
+        "name": "Mionchnagaire breac"
       },
       {
         "lang": "gag",
@@ -265,56 +317,80 @@
         "name": "Peto pequeno"
       },
       {
+        "lang": "hu",
+        "name": "Kis fakopáncs"
+      },
+      {
         "lang": "hy",
-        "name": "Փայտփոր փոքր"
+        "name": "Փոքր խայտաբղետ փայտփոր"
       },
       {
         "lang": "it",
         "name": "Picchio rosso minore"
       },
       {
-        "lang": "csb",
-        "name": "Dzëcółk"
+        "lang": "ja",
+        "name": "コアカゲラ"
+      },
+      {
+        "lang": "kbd",
+        "name": "ЖыгыуӀуцӀыкӀу"
+      },
+      {
+        "lang": "kk",
+        "name": "Кіші тоқылдақ"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠오색딱따구리"
       },
       {
         "lang": "lt",
         "name": "Mažasis margasis genys"
       },
       {
-        "lang": "hu",
-        "name": "Kis fakopáncs"
+        "lang": "lv",
+        "name": "Mazais dzenis"
+      },
+      {
+        "lang": "mk",
+        "name": "Мал шарен клукајдрвец"
       },
       {
         "lang": "nl",
         "name": "Kleine bonte specht"
       },
       {
-        "lang": "ja",
-        "name": "コアカゲラ"
+        "lang": "nn",
+        "name": "Dvergspett"
       },
       {
         "lang": "no",
         "name": "Dvergspett"
       },
       {
-        "lang": "nn",
-        "name": "Dvergspett"
+        "lang": "olo",
+        "name": "Pikkutikku"
       },
       {
         "lang": "pl",
         "name": "Dzięciołek"
       },
       {
+        "lang": "pnb",
+        "name": "ڈینڈروکوپس مائنر"
+      },
+      {
         "lang": "pt",
         "name": "Pica-pau-malhado-pequeno"
       },
       {
-        "lang": "rue",
-        "name": "Малый довбач"
-      },
-      {
         "lang": "ru",
         "name": "Малый пёстрый дятел"
+      },
+      {
+        "lang": "rue",
+        "name": "Малый довбач"
       },
       {
         "lang": "sah",
@@ -329,8 +405,12 @@
         "name": "Ďateľ malý"
       },
       {
-        "lang": "fi",
-        "name": "Pikkutikka"
+        "lang": "sl",
+        "name": "Mali detel"
+      },
+      {
+        "lang": "sr",
+        "name": "Мали детлић"
       },
       {
         "lang": "sv",
@@ -346,7 +426,11 @@
       },
       {
         "lang": "uk",
-        "name": "Дятел малий строкатий"
+        "name": "Дятел малий"
+      },
+      {
+        "lang": "wuu",
+        "name": "小斑啄木鸟"
       },
       {
         "lang": "zh",

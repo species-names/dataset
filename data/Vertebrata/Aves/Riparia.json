@@ -364,19 +364,40 @@
         "name": "Afrikaanse oewerswael"
       },
       {
+        "lang": "az",
+        "name": "Kiçik sahil qaranquşu"
+      },
+      {
         "lang": "be",
         "name": "Малая берагавая ластаўка"
       },
       {
+        "lang": "be-x-old",
+        "name": "Малая берагавая ластаўка"
+      },
+      {
+        "lang": "cs",
+        "name": "Břehule hnědohrdlá"
+      },
+      {
         "lang": "en",
-        "name": "Brown-throated Sand Martin",
-        "synonyms": [
-          "Plain Martin"
-        ]
+        "name": "Brown-throated Martin"
+      },
+      {
+        "lang": "eo",
+        "name": "Brungorĝa bordhirundo"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkutörmäpääsky"
       },
       {
         "lang": "fr",
         "name": "Hirondelle paludicole"
+      },
+      {
+        "lang": "hu",
+        "name": "Barnatorkú partifecske"
       },
       {
         "lang": "ja",
@@ -385,6 +406,18 @@
       {
         "lang": "nl",
         "name": "Vale oeverzwaluw"
+      },
+      {
+        "lang": "pl",
+        "name": "Brzegówka mała"
+      },
+      {
+        "lang": "ru",
+        "name": "Малая береговая ласточка"
+      },
+      {
+        "lang": "zh",
+        "name": "棕沙燕"
       }
     ]
   },
@@ -392,21 +425,183 @@
     "scientific_name": "Riparia diluta",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Fahluferschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Pale Martin"
+      },
+      {
+        "lang": "es",
+        "name": "Avión pálido"
+      },
+      {
+        "lang": "fi",
+        "name": "Aasiantörmäpääsky"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle pâle"
+      },
+      {
+        "lang": "it",
+        "name": "Topino pallido"
+      },
+      {
+        "lang": "kk",
+        "name": "Қылаң қарлығаш"
+      },
+      {
+        "lang": "ne",
+        "name": "सेतोकण्ठे भित्तेगौंथली"
+      },
+      {
+        "lang": "nl",
+        "name": "Bleke Oeverzwaluw"
+      },
+      {
+        "lang": "ru",
+        "name": "Бледная береговушка"
+      },
+      {
         "lang": "sk",
         "name": "Brehuľa hnedá"
+      },
+      {
+        "lang": "sv",
+        "name": "Blek backsvala"
+      },
+      {
+        "lang": "zh",
+        "name": "淡色沙燕"
       }
     ]
   },
   {
     "scientific_name": "Riparia congica",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Congo Martin"
+      }
+    ]
   },
   {
     "scientific_name": "Riparia cincta",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Gebande Oewerswael"
+      },
+      {
+        "lang": "ca",
+        "name": "Oreneta de ribera cellablanca"
+      },
+      {
+        "lang": "cs",
+        "name": "Břehule africká"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbrauen-Uferschwalbe"
+      },
+      {
         "lang": "en",
         "name": "Banded Martin"
+      },
+      {
+        "lang": "es",
+        "name": "Avión cinchado"
+      },
+      {
+        "lang": "fi",
+        "name": "Isotörmäpääsky"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle à collier"
+      },
+      {
+        "lang": "it",
+        "name": "Topino dai sopraccigli bianchi"
+      },
+      {
+        "lang": "ja",
+        "name": "マユジロショウドウツバメ"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbrauwzwaluw"
+      },
+      {
+        "lang": "ru",
+        "name": "Белобровая береговая ласточка"
+      },
+      {
+        "lang": "sv",
+        "name": "Större backsvala"
+      },
+      {
+        "lang": "vi",
+        "name": "Én dải"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Riparia chinensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Graukehl-Uferschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-throated Martin"
+      },
+      {
+        "lang": "es",
+        "name": "Avión paludícola asiático"
+      },
+      {
+        "lang": "fa",
+        "name": "چلچله گلوخاکستری"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle à gorge grise"
+      },
+      {
+        "lang": "ja",
+        "name": "タイワンショウドウツバメ"
+      },
+      {
+        "lang": "ml",
+        "name": "വയൽ തവിടൻ കത്രിക"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische oeverzwaluw"
+      },
+      {
+        "lang": "ru",
+        "name": "Малая береговушка"
+      },
+      {
+        "lang": "sv",
+        "name": "Orientbacksvala"
+      },
+      {
+        "lang": "th",
+        "name": "นกนางแอ่นทรายสีน้ำตาล"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhạn nâu đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "棕沙燕"
       }
     ]
   }

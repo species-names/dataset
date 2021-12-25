@@ -34,7 +34,44 @@
   },
   {
     "scientific_name": "Paroreomyza maculata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Šatovník zlatoprsý"
+      },
+      {
+        "lang": "cy",
+        "name": "Mêl-gropiwr Oahu"
+      },
+      {
+        "lang": "de",
+        "name": "Oahu-Astläufer"
+      },
+      {
+        "lang": "en",
+        "name": "Oʻahu ʻalauahio"
+      },
+      {
+        "lang": "fi",
+        "name": "Oahunkiipijä"
+      },
+      {
+        "lang": "nl",
+        "name": "Oahukruiper"
+      },
+      {
+        "lang": "pt",
+        "name": "Alauaio-de-oahu"
+      },
+      {
+        "lang": "sv",
+        "name": "Oahu-alauahio"
+      },
+      {
+        "lang": "zh",
+        "name": "瓦島管舌雀"
+      }
+    ]
   },
   {
     "scientific_name": "Paroreomyza flammea",

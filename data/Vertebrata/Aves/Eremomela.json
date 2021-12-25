@@ -26,7 +26,28 @@
   },
   {
     "scientific_name": "Eremomela turneri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Turner's eremomela"
+      },
+      {
+        "lang": "eo",
+        "name": "Turnera eremomelo"
+      },
+      {
+        "lang": "fi",
+        "name": "Rusko-otsaeremomela"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinkoperemomela"
+      },
+      {
+        "lang": "sv",
+        "name": "rostpannad eremomela"
+      }
+    ]
   },
   {
     "scientific_name": "Eremomela scotops",

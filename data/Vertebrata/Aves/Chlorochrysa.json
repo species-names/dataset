@@ -5,12 +5,25 @@
       {
         "lang": "en",
         "name": "Glistening-green Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara verde"
       }
     ]
   },
   {
     "scientific_name": "Chlorochrysa nitidissima",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Multicolored Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara multicolor"
+      }
+    ]
   },
   {
     "scientific_name": "Chlorochrysa calliparaea",
@@ -22,6 +35,10 @@
       {
         "lang": "fi",
         "name": "sinivatsatangara"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara orejinaranja"
       }
     ]
   }

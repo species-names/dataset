@@ -17,8 +17,17 @@
     ]
   },
   {
-    "scientific_name": "Discosura longicauda",
-    "common_names": []
+    "scientific_name": "Discosura longicaudus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Racket-tailed Coquette"
+      },
+      {
+        "lang": "es",
+        "name": "Rabudito de raquetas"
+      }
+    ]
   },
   {
     "scientific_name": "Discosura letitiae",

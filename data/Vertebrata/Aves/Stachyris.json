@@ -53,6 +53,18 @@
     "scientific_name": "Stachyris speciosa",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Preblyn coed ysblennydd"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelkapboomtimalia"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈاسیکروٹوفا سپیسیاوسا"
+      },
+      {
         "lang": "en",
         "name": "Flame-templed babbler"
       },
@@ -62,7 +74,7 @@
       },
       {
         "lang": "sv",
-        "name": "Praktträdtimalia"
+        "name": "praktträdtimalia"
       }
     ]
   },
@@ -164,7 +176,32 @@
   },
   {
     "scientific_name": "Stachyris oglei",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Preblyn coed Austen"
+      },
+      {
+        "lang": "en",
+        "name": "Snowy-throated babbler"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkeelboomtimalia"
+      },
+      {
+        "lang": "sv",
+        "name": "vitstrupig timalia"
+      },
+      {
+        "lang": "zh",
+        "name": "奥氏穗鹛"
+      },
+      {
+        "lang": "my",
+        "name": "မျက်ခုံးဖြူစွေ့"
+      }
+    ]
   },
   {
     "scientific_name": "Stachyris nonggangensis",
@@ -237,11 +274,19 @@
       },
       {
         "lang": "sv",
-        "name": "Svartstrupig timalia"
+        "name": "svartstrupig timalia"
       },
       {
         "lang": "zh",
         "name": "黑喉穗鹛"
+      },
+      {
+        "lang": "cy",
+        "name": "Preblyn coed gyddfddu"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkeelboomtimalia"
       }
     ]
   },
@@ -303,12 +348,20 @@
         "name": "Timalí maculado"
       },
       {
+        "lang": "cy",
+        "name": "Preblyn coed tinwinau"
+      },
+      {
         "lang": "id",
         "name": "Tepus tunggir-merah"
       },
       {
+        "lang": "nl",
+        "name": "Roodstuitboomtimalia"
+      },
+      {
         "lang": "sv",
-        "name": "Fjällbröstad timalia"
+        "name": "fjällbröstad timalia"
       },
       {
         "lang": "vi",
@@ -349,6 +402,30 @@
     "scientific_name": "Stachyris herberti",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Preblyn coed tywyll"
+      },
+      {
+        "lang": "en",
+        "name": "Sooty babbler"
+      },
+      {
+        "lang": "nl",
+        "name": "Laotiaanse boomtimalia"
+      },
+      {
+        "lang": "sv",
+        "name": "sottimalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Khướu đá mun"
+      },
+      {
+        "lang": "zh",
+        "name": "乌穗鹛"
+      },
+      {
         "lang": "ja",
         "name": "ラオスモリチメドリ"
       }
@@ -368,6 +445,10 @@
       {
         "lang": "id",
         "name": "Tepus dada-putih"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijswangboomtimalia"
       },
       {
         "lang": "sv",
@@ -395,12 +476,16 @@
         "name": "Timalí coronidorado"
       },
       {
+        "lang": "nl",
+        "name": "Vuurkruinboomtimalia"
+      },
+      {
         "lang": "pnb",
         "name": "سٹیروپٹیلس ڈینسٹونی"
       },
       {
         "lang": "sv",
-        "name": "Gulkronad trädtimalia"
+        "name": "gulkronad trädtimalia"
       },
       {
         "lang": "zh",

@@ -5,7 +5,16 @@
   },
   {
     "scientific_name": "Bangsia melanochlamys",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-and-gold Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara negrigualda"
+      }
+    ]
   },
   {
     "scientific_name": "Bangsia flavovirens",
@@ -22,11 +31,53 @@
   },
   {
     "scientific_name": "Bangsia edwardsi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Moss-backed Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de Edwards"
+      }
+    ]
   },
   {
     "scientific_name": "Bangsia aureocincta",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Tanagr eurgylchog"
+      },
+      {
+        "lang": "en",
+        "name": "Gold-ringed tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara del Tatamá"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara à boucles d'or"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudringtangare"
+      },
+      {
+        "lang": "nn",
+        "name": "Gullringtanagar"
+      },
+      {
+        "lang": "nv",
+        "name": "Shádiʼááhdę́ę́ʼ tsinyiʼ tsídii bitʼaʼ yágo dootłʼizhígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "gulstrimmig tangara"
+      }
+    ]
   },
   {
     "scientific_name": "Bangsia arcaei",

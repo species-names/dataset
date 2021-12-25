@@ -33,7 +33,7 @@
       },
       {
         "lang": "cs",
-        "name": "výr virginský"
+        "name": "Výr virginský"
       },
       {
         "lang": "da",
@@ -45,7 +45,11 @@
       },
       {
         "lang": "en",
-        "name": "Great Horned Owl"
+        "name": "Great Horned Owl",
+        "synonyms": [
+          "Hoot Owl",
+          "Tiger Owl"
+        ]
       },
       {
         "lang": "eo",
@@ -53,18 +57,15 @@
       },
       {
         "lang": "es",
-        "name": "Búho Americano",
-        "synonyms": [
-          "Búho común"
-        ]
+        "name": "Búho Americano"
       },
       {
         "lang": "et",
-        "name": "ameerika kassikakk"
+        "name": "Ameerika kassikakk"
       },
       {
         "lang": "fi",
-        "name": "amerikanhuuhkaja"
+        "name": "Amerikanhuuhkaja"
       },
       {
         "lang": "fr",
@@ -75,33 +76,28 @@
         "name": "Mórulchabhán cluasach"
       },
       {
+        "lang": "gl",
+        "name": "Bufo americano"
+      },
+      {
         "lang": "gn",
         "name": "Ñakurutû guasu"
       },
       {
         "lang": "hu",
-        "name": "amerikai uhu"
+        "name": "Amerikai uhu"
       },
       {
         "lang": "it",
-        "name": "Gufo della Virginia razza scura",
-        "synonyms": [
-          "Gufo della Virginia"
-        ]
+        "name": "Gufo della Virginia"
       },
       {
         "lang": "ja",
-        "name": "アメリカワシミミズク",
-        "synonyms": [
-          "amerikawashimimizuku"
-        ]
+        "name": "アメリカワシミミズク"
       },
       {
         "lang": "lkt",
-        "name": "Hiŋháŋhetȟuŋla",
-        "synonyms": [
-          "Hiŋháŋ tȟáŋka"
-        ]
+        "name": "Hiŋháŋhetȟuŋla"
       },
       {
         "lang": "lt",
@@ -117,18 +113,15 @@
       },
       {
         "lang": "pl",
-        "name": "puchacz wirginijski"
+        "name": "Puchacz wirginijski"
+      },
+      {
+        "lang": "pt",
+        "name": "Corujão-orelhudo"
       },
       {
         "lang": "pt-br",
         "name": "Jacurutu"
-      },
-      {
-        "lang": "pt",
-        "name": "Corujão-orelhudo",
-        "synonyms": [
-          "Jacurutu"
-        ]
       },
       {
         "lang": "ru",
@@ -136,7 +129,7 @@
       },
       {
         "lang": "sk",
-        "name": "výr bielobradý"
+        "name": "Výr bielobradý"
       },
       {
         "lang": "sv",
@@ -652,7 +645,7 @@
     "common_names": [
       {
         "lang": "als",
-        "name": "Huheler"
+        "name": "Uhu"
       },
       {
         "lang": "an",
@@ -660,12 +653,7 @@
       },
       {
         "lang": "ar",
-        "name": "البومة النسارية",
-        "synonyms": [
-          "البوهة",
-          "البوهة بومة أم قرون",
-          "بومة نسّارية"
-        ]
+        "name": "بوم أوراسي"
       },
       {
         "lang": "ast",
@@ -673,10 +661,7 @@
       },
       {
         "lang": "az",
-        "name": "Adi yapalaq",
-        "synonyms": [
-          "Iri yapalaq"
-        ]
+        "name": "Adi yapalaq"
       },
       {
         "lang": "ba",
@@ -687,11 +672,16 @@
         "name": "Auf"
       },
       {
+        "lang": "bat-smg",
+        "name": "Īvs"
+      },
+      {
         "lang": "be",
-        "name": "Пугач",
-        "synonyms": [
-          "Філін"
-        ]
+        "name": "Пугач"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Пугач"
       },
       {
         "lang": "bg",
@@ -703,11 +693,15 @@
       },
       {
         "lang": "ca",
-        "name": "Gran duc"
+        "name": "Duc eurasiàtic"
       },
       {
         "lang": "cs",
         "name": "Výr velký"
+      },
+      {
+        "lang": "csb",
+        "name": "Pùchôcz zwëczajny"
       },
       {
         "lang": "cv",
@@ -715,7 +709,7 @@
       },
       {
         "lang": "cy",
-        "name": "Tylluan fawr"
+        "name": "Eryrdylluan Ewrop"
       },
       {
         "lang": "da",
@@ -727,22 +721,19 @@
       },
       {
         "lang": "dsb",
-        "name": "Šubut",
-        "synonyms": [
-          "Wjelika sowa"
-        ]
+        "name": "Šubut"
       },
       {
         "lang": "el",
-        "name": "Μπούφος"
+        "name": "Ευρασιατικός μπούφος"
       },
       {
         "lang": "en",
-        "name": "Northern Eagle Owl"
+        "name": "Eurasian Eagle-owl"
       },
       {
         "lang": "eo",
-        "name": "Gufo"
+        "name": "Eŭrazia gufo"
       },
       {
         "lang": "es",
@@ -778,7 +769,7 @@
       },
       {
         "lang": "ga",
-        "name": "Rí-ulchabhán"
+        "name": "Rí-ulchabhán Eoráiseach"
       },
       {
         "lang": "gd",
@@ -794,10 +785,7 @@
       },
       {
         "lang": "he",
-        "name": "אוח",
-        "synonyms": [
-          "אוח מצוי"
-        ]
+        "name": "אוח מצוי"
       },
       {
         "lang": "hi",
@@ -805,7 +793,7 @@
       },
       {
         "lang": "hr",
-        "name": "Ušara"
+        "name": "Sova ušara"
       },
       {
         "lang": "hsb",
@@ -817,7 +805,7 @@
       },
       {
         "lang": "hy",
-        "name": "Բվեճ (Bvech)"
+        "name": "Բվեճ"
       },
       {
         "lang": "io",
@@ -852,6 +840,10 @@
         "name": "Үкі"
       },
       {
+        "lang": "kn",
+        "name": "ಕೊಂಬಿನ ಗೂಬೆ"
+      },
+      {
         "lang": "ko",
         "name": "수리부엉이"
       },
@@ -866,6 +858,10 @@
       {
         "lang": "kw",
         "name": "Oula bras"
+      },
+      {
+        "lang": "ky",
+        "name": "Чоң үкү"
       },
       {
         "lang": "lb",
@@ -885,7 +881,7 @@
       },
       {
         "lang": "mk",
-        "name": "Голем був"
+        "name": "Голем ушест був"
       },
       {
         "lang": "mn",
@@ -908,6 +904,10 @@
         "name": "Uhu"
       },
       {
+        "lang": "ne",
+        "name": "हाप्सिलो"
+      },
+      {
         "lang": "nl",
         "name": "Oehoe"
       },
@@ -920,8 +920,16 @@
         "name": "Hubro"
       },
       {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ néʼéshjaatsoh"
+      },
+      {
         "lang": "oc",
         "name": "Ducàs"
+      },
+      {
+        "lang": "olo",
+        "name": "Hyybii"
       },
       {
         "lang": "pl",
@@ -965,7 +973,7 @@
       },
       {
         "lang": "sh",
-        "name": "Buljina"
+        "name": "Sova ušara"
       },
       {
         "lang": "sk",
@@ -997,7 +1005,7 @@
       },
       {
         "lang": "sr",
-        "name": "Велика ушара"
+        "name": "Буљина"
       },
       {
         "lang": "sv",
@@ -1008,6 +1016,10 @@
         "name": "Kungwi wa Ulaya"
       },
       {
+        "lang": "ta",
+        "name": "கொம்பன் ஆந்தை"
+      },
+      {
         "lang": "tk",
         "name": "Puhu"
       },
@@ -1016,33 +1028,28 @@
         "name": "Bayağı puhu"
       },
       {
+        "lang": "tt",
+        "name": "Өке"
+      },
+      {
         "lang": "tyv",
-        "name": "Кызыл үгү",
-        "synonyms": [
-          "Үгү",
-          "Ыйбааңгы"
-        ]
+        "name": "Кызыл үгү"
       },
       {
         "lang": "uk",
-        "name": "Пугач",
-        "synonyms": [
-          "Пугач звичайний"
-        ]
+        "name": "Пугач звичайний"
       },
       {
         "lang": "vep",
         "name": "Hübj"
       },
       {
+        "lang": "vi",
+        "name": "Cú đại bàng Á Âu"
+      },
+      {
         "lang": "zh",
-        "name": "雕鸮",
-        "synonyms": [
-          "恨狐",
-          "老兔",
-          "角鸱",
-          "雕号鸟"
-        ]
+        "name": "雕鸮"
       },
       {
         "lang": "zh-yue",
@@ -1084,6 +1091,62 @@
       {
         "lang": "fi",
         "name": "Äyriäishuuhkaja"
+      },
+      {
+        "lang": "be",
+        "name": "Пугач рыбны"
+      },
+      {
+        "lang": "ca",
+        "name": "Duc pescador de Blakiston"
+      },
+      {
+        "lang": "cy",
+        "name": "Eryrdylluan Blakiston"
+      },
+      {
+        "lang": "fa",
+        "name": "جغد ماهی‌خوار بلکیستن"
+      },
+      {
+        "lang": "fr",
+        "name": "Grand-duc de Blakiston"
+      },
+      {
+        "lang": "he",
+        "name": "אוח בלקיסטון"
+      },
+      {
+        "lang": "ka",
+        "name": "მეთევზე ზარნაშო"
+      },
+      {
+        "lang": "kbd",
+        "name": "Псыхъуэжьынду"
+      },
+      {
+        "lang": "lt",
+        "name": "Didysis apuokas žuvininkas"
+      },
+      {
+        "lang": "mrj",
+        "name": "Коллоэц ӱнгӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Blakistons visuil"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąąh néʼéshjaatsoh"
+      },
+      {
+        "lang": "sv",
+        "name": "Blakistons fiskuv"
+      },
+      {
+        "lang": "uk",
+        "name": "Пугач далекосхідний"
       }
     ]
   },
@@ -1163,6 +1226,10 @@
       {
         "lang": "af",
         "name": "Gevlekte ooruil"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse oehoe"
       },
       {
         "lang": "cs",

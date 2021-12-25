@@ -53,11 +53,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "crickets and katydids"
+        "name": "Crickets and katydids"
       },
       {
         "lang": "es",
-        "name": "grillos"
+        "name": "Grillos"
+      },
+      {
+        "lang": "fr",
+        "name": "Ensifères"
       },
       {
         "lang": "frr",
@@ -76,8 +80,12 @@
         "name": "長角亞目"
       },
       {
+        "lang": "pl",
+        "name": "Długoczułkowe"
+      },
+      {
         "lang": "pt",
-        "name": "grilos e esperanças"
+        "name": "Grilos e esperanças"
       }
     ]
   }

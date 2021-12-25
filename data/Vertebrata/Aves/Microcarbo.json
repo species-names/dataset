@@ -1,6 +1,6 @@
 [
   {
-    "scientific_name": "Microcarbo pygmeus",
+    "scientific_name": "Microcarbo pygmaeus",
     "common_names": [
       {
         "lang": "ar",
@@ -104,7 +104,7 @@
       },
       {
         "lang": "ka",
-        "name": "პატარა ჩვამა"
+        "name": "მცირე ჩვამა"
       },
       {
         "lang": "kk",
@@ -184,20 +184,140 @@
     "scientific_name": "Microcarbo niger",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "غاق أسود"
+      },
+      {
+        "lang": "as",
+        "name": "পানী কাউৰী"
+      },
+      {
+        "lang": "bh",
+        "name": "छोटका पनकउआ"
+      },
+      {
+        "lang": "bn",
+        "name": "ছোট পানকৌড়ি"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí de Vieillot"
+      },
+      {
+        "lang": "cy",
+        "name": "Mulfran Jafa"
+      },
+      {
+        "lang": "da",
+        "name": "Javaskarv"
+      },
+      {
+        "lang": "de",
+        "name": "Kleinscharbe"
+      },
+      {
         "lang": "en",
         "name": "Little Cormorant"
+      },
+      {
+        "lang": "eo",
+        "name": "Eta kormorano"
       },
       {
         "lang": "es",
         "name": "Cormorán de Java"
       },
       {
+        "lang": "fa",
+        "name": "باکلان کوچک"
+      },
+      {
+        "lang": "fi",
+        "name": "Jaavanmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Vieillot"
+      },
+      {
+        "lang": "gu",
+        "name": "નાનો જળ કાગડો"
+      },
+      {
+        "lang": "id",
+        "name": "Pecuk-padi kecil"
+      },
+      {
+        "lang": "it",
+        "name": "Cormorano minuto"
+      },
+      {
+        "lang": "ja",
+        "name": "アジアコビトウ"
+      },
+      {
+        "lang": "kn",
+        "name": "ನೀರು ಕಾಗೆ"
+      },
+      {
         "lang": "ml",
         "name": "ചെറിയ നീര്‍ക്കാക്ക"
       },
       {
+        "lang": "mr",
+        "name": "लहान पाणकावळा"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Dendang Kecil"
+      },
+      {
+        "lang": "my",
+        "name": "အော်ယောငှက်"
+      },
+      {
+        "lang": "ne",
+        "name": "सानो जलेवा"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische dwergaalscholver"
+      },
+      {
+        "lang": "no",
+        "name": "Orientdvergskarv"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran skromny"
+      },
+      {
+        "lang": "pnb",
+        "name": "نکا کورمینٹ"
+      },
+      {
+        "lang": "sv",
+        "name": "Småskarv"
+      },
+      {
+        "lang": "ta",
+        "name": "சின்ன நீர்க்காகம்"
+      },
+      {
         "lang": "th",
         "name": "นกกาน้ำเล็ก"
+      },
+      {
+        "lang": "uk",
+        "name": "Баклан яванський"
+      },
+      {
+        "lang": "vi",
+        "name": "Cốc đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑颈鸬鹚"
       }
     ]
   },
@@ -335,6 +455,10 @@
         "name": "Reed Cormorant"
       },
       {
+        "lang": "eo",
+        "name": "Longvosta kormorano"
+      },
+      {
         "lang": "es",
         "name": "Cormorán africano"
       },
@@ -356,7 +480,10 @@
       },
       {
         "lang": "hu",
-        "name": "Afrikai kárókatona"
+        "name": "Afrikai kárókatona",
+        "synonyms": [
+          "hosszúfarkú kárókatona"
+        ]
       },
       {
         "lang": "nl",

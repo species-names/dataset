@@ -3,6 +3,10 @@
     "scientific_name": "Dinopium shorii",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "হিমালয়ী কাঠঠোকরা"
+      },
+      {
         "lang": "en",
         "name": "Himalayan Flameback"
       },
@@ -13,6 +17,10 @@
       {
         "lang": "fi",
         "name": "Isotulitöyhtö"
+      },
+      {
+        "lang": "ne",
+        "name": "तीनऔंले लाहाँचे"
       }
     ]
   },
@@ -65,8 +73,16 @@
     "scientific_name": "Dinopium psarodes",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Picot ardent de Sri Lanka"
+      },
+      {
         "lang": "en",
         "name": "Red-backed Flameback"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödryggig flamspett"
       }
     ]
   },

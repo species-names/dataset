@@ -105,20 +105,52 @@
     "scientific_name": "Cardellina rubra",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "هازجة حمراء"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor coch"
+      },
+      {
         "lang": "de",
-        "name": "Purpurwaldsänger"
+        "name": "Purpur-Waldsänger"
       },
       {
         "lang": "en",
         "name": "Red Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Ruĝa parulio"
+      },
+      {
         "lang": "es",
         "name": "Reinita Roja"
       },
       {
+        "lang": "fi",
+        "name": "Tulikerttuli"
+      },
+      {
         "lang": "fr",
         "name": "Paruline rouge"
+      },
+      {
+        "lang": "nl",
+        "name": "Rode zanger"
+      },
+      {
+        "lang": "pt",
+        "name": "Toutinegra-vermelha"
+      },
+      {
+        "lang": "ru",
+        "name": "Пурпурный танагровый певун"
+      },
+      {
+        "lang": "sv",
+        "name": "Röd skogssångare"
       }
     ]
   },

@@ -3,23 +3,84 @@
     "scientific_name": "Rollandia rolland",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Белокичурест гмурец"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabusset de plomall blanc"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwyach gribwen"
+      },
+      {
+        "lang": "de",
+        "name": "Rolland-Taucher"
+      },
+      {
         "lang": "en",
         "name": "White-tufted Grebe"
       },
       {
+        "lang": "eo",
+        "name": "Blankatufa grebo"
+      },
+      {
         "lang": "es",
-        "name": "Zampullín pimpollo",
-        "synonyms": [
-          "Macá común (ARG)"
-        ]
+        "name": "Macá común"
+      },
+      {
+        "lang": "et",
+        "name": "Kõrvukpütt"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم رولاند"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkotöyhtöuikku"
       },
       {
         "lang": "fr",
         "name": "Grèbe de Rolland"
       },
       {
+        "lang": "hu",
+        "name": "Rolland-vöcsök"
+      },
+      {
+        "lang": "it",
+        "name": "Svasso ciuffibianchi"
+      },
+      {
+        "lang": "nl",
+        "name": "Witwangfuut"
+      },
+      {
+        "lang": "nv",
+        "name": "Shádiʼááhdę́ę́ʼ naalʼeełii keelóól"
+      },
+      {
+        "lang": "pl",
+        "name": "Perkoz białoczuby"
+      },
+      {
+        "lang": "pnb",
+        "name": "رولینڈ ڈبکنی"
+      },
+      {
         "lang": "pt",
         "name": "Mergulhão-de-orelha-branca"
+      },
+      {
+        "lang": "qu",
+        "name": "Chulla uywampullu"
+      },
+      {
+        "lang": "ru",
+        "name": "Белохохлая поганка"
       },
       {
         "lang": "sv",
@@ -30,22 +91,6 @@
   {
     "scientific_name": "Rollandia microptera",
     "common_names": [
-      {
-        "lang": "en",
-        "name": "Titicaca Flightless Grebe"
-      },
-      {
-        "lang": "fr",
-        "name": "Grèbe microptère"
-      },
-      {
-        "lang": "es",
-        "name": "Zampullín del Titicaca"
-      },
-      {
-        "lang": "sv",
-        "name": "Titicacadopping"
-      },
       {
         "lang": "ca",
         "name": "Cabusset del Titicaca"
@@ -63,8 +108,16 @@
         "name": "Titicaca-Taucher"
       },
       {
+        "lang": "en",
+        "name": "Titicaca Grebe"
+      },
+      {
         "lang": "eo",
         "name": "Titikaka grebo"
+      },
+      {
+        "lang": "es",
+        "name": "Zampullín del Titicaca"
       },
       {
         "lang": "fa",
@@ -75,12 +128,23 @@
         "name": "Titicacanuikku"
       },
       {
+        "lang": "fr",
+        "name": "Grèbe microptère"
+      },
+      {
         "lang": "hu",
-        "name": "Titicaca-vöcsök"
+        "name": "Titicaca-vöcsök",
+        "synonyms": [
+          "rövidszárnyú vöcsök"
+        ]
       },
       {
         "lang": "nl",
         "name": "Titicacafuut"
+      },
+      {
+        "lang": "no",
+        "name": "Titicacadykker"
       },
       {
         "lang": "pl",
@@ -93,6 +157,10 @@
       {
         "lang": "qu",
         "name": "K'ili"
+      },
+      {
+        "lang": "sv",
+        "name": "Titicacadopping"
       },
       {
         "lang": "uk",

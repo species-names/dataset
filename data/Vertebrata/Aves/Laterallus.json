@@ -37,86 +37,56 @@
     ]
   },
   {
-    "scientific_name": "Laterallus viridis",
+    "scientific_name": "Laterallus spiloptera",
     "common_names": [
       {
         "lang": "en",
-        "name": "Russet-crowned Crake"
+        "name": "Dot-winged Crake"
       },
       {
         "lang": "es",
-        "name": "Polluela coronirrufa"
+        "name": "Polluela overa",
+        "synonyms": [
+          "Burrito negruzco"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Pampahuitti"
       },
       {
         "lang": "fr",
-        "name": "Râle kiolo"
+        "name": "Marouette maillée"
       },
       {
         "lang": "it",
-        "name": "Rallo caporossiccio"
+        "name": "Schiribilla alimacchiate"
       },
       {
         "lang": "ja",
-        "name": "ズアカコクイナ"
-      },
-      {
-        "lang": "nl",
-        "name": "Roodkruinral"
+        "name": "アルゼンチンヒメクイナ"
       },
       {
         "lang": "pt",
-        "name": "Açanã-de-cabeça-castanha"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Sanã-castanha"
+        "name": "Sanã-cinza"
       },
       {
         "lang": "sv",
-        "name": "Cayennerall"
+        "name": "fläckvingad sumphöna"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen adeinfraith"
+      },
+      {
+        "lang": "nl",
+        "name": "Du(r)nfords dwergral"
       }
     ]
   },
   {
-    "scientific_name": "Laterallus spilonotus",
-    "common_names": [
-      {
-        "lang": "ca",
-        "name": "Rasclet de les Galápagos"
-      },
-      {
-        "lang": "en",
-        "name": "Galapagos Rail"
-      },
-      {
-        "lang": "es",
-        "name": "Polluela de las Galápagos"
-      },
-      {
-        "lang": "fi",
-        "name": "Galapagosinrääkkä"
-      },
-      {
-        "lang": "fr",
-        "name": "Râle des Galapagos"
-      },
-      {
-        "lang": "it",
-        "name": "Rallo delle Galápagos"
-      },
-      {
-        "lang": "ja",
-        "name": "ガラパゴスクイナ"
-      },
-      {
-        "lang": "nl",
-        "name": "Galápagosdwergral"
-      },
-      {
-        "lang": "sv",
-        "name": "Galapagosrall"
-      }
-    ]
+    "scientific_name": "Laterallus spilonota",
+    "common_names": []
   },
   {
     "scientific_name": "Laterallus ruber",
@@ -156,6 +126,98 @@
       {
         "lang": "sv",
         "name": "Koppardvärgrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Laterallus rogersi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "chřástal Rogersův"
+      },
+      {
+        "lang": "da",
+        "name": "Muserikse"
+      },
+      {
+        "lang": "de",
+        "name": "Atlantisralle"
+      },
+      {
+        "lang": "en",
+        "name": "Inaccessible Island Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rasconcillo de Tristan da Cunha"
+      },
+      {
+        "lang": "et",
+        "name": "hiirruik"
+      },
+      {
+        "lang": "fi",
+        "name": "erakkoluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle atlantis"
+      },
+      {
+        "lang": "hu",
+        "name": "Atlantisz-guvat"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo dell'isola Inaccessibile"
+      },
+      {
+        "lang": "ja",
+        "name": "マメクロクイナ",
+        "synonyms": [
+          "mamekurokuina"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Atlantizija"
+      },
+      {
+        "lang": "nl",
+        "name": "Inaccessible-eilandral"
+      },
+      {
+        "lang": "no",
+        "name": "Tristanrikse"
+      },
+      {
+        "lang": "pl",
+        "name": "Chruścielak karłowaty"
+      },
+      {
+        "lang": "pt",
+        "name": "Saracurinha-da-inacessível"
+      },
+      {
+        "lang": "ru",
+        "name": "Тристанский пастушок"
+      },
+      {
+        "lang": "sk",
+        "name": "chriašteľ krpatý"
+      },
+      {
+        "lang": "sv",
+        "name": "Atlantrall"
+      },
+      {
+        "lang": "zh",
+        "name": "荒岛秧鸡"
+      },
+      {
+        "lang": "af",
+        "name": "Inaccessable-eilandriethaan"
       }
     ]
   },
@@ -320,11 +382,15 @@
     ]
   },
   {
+    "scientific_name": "Laterallus flaviventer",
+    "common_names": []
+  },
+  {
     "scientific_name": "Laterallus fasciatus",
     "common_names": [
       {
         "lang": "en",
-        "name": "Black-banded Crake"
+        "name": "Black-Banded Crake"
       },
       {
         "lang": "es",

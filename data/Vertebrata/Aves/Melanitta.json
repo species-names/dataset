@@ -1,5 +1,26 @@
 [
   {
+    "scientific_name": "Melanitta stejnegeri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Stejneger's scoter"
+      },
+      {
+        "lang": "es",
+        "name": "Negrón siberiano"
+      },
+      {
+        "lang": "nl",
+        "name": "Aziatische grote zee-eend"
+      },
+      {
+        "lang": "sv",
+        "name": "Sibirisk knölsvärta"
+      }
+    ]
+  },
+  {
     "scientific_name": "Melanitta perspicillata",
     "common_names": [
       {
@@ -12,11 +33,11 @@
       },
       {
         "lang": "ca",
-        "name": "Ànec negre americà"
+        "name": "Ànec negre frontblanc"
       },
       {
         "lang": "cs",
-        "name": "turpan pestrozobý"
+        "name": "Turpan pestrozobý"
       },
       {
         "lang": "cy",
@@ -44,7 +65,7 @@
       },
       {
         "lang": "et",
-        "name": "prillvaeras"
+        "name": "Prillvaeras"
       },
       {
         "lang": "eu",
@@ -52,7 +73,7 @@
       },
       {
         "lang": "fi",
-        "name": "pilkkaniska"
+        "name": "Pilkkaniska"
       },
       {
         "lang": "fo",
@@ -88,10 +109,11 @@
       },
       {
         "lang": "ja",
-        "name": "アラナミキンクロ",
-        "synonyms": [
-          "aranamikinkuro"
-        ]
+        "name": "アラナミキンクロ"
+      },
+      {
+        "lang": "ka",
+        "name": "ჭრელნისკარტა გარიელი"
       },
       {
         "lang": "lt",
@@ -107,7 +129,7 @@
       },
       {
         "lang": "pl",
-        "name": "uhla pstrodzioba"
+        "name": "Uhla pstrodzioba"
       },
       {
         "lang": "pt",
@@ -119,11 +141,11 @@
       },
       {
         "lang": "sk",
-        "name": "turpan okuliarnatý"
+        "name": "Turpan okuliarnatý"
       },
       {
         "lang": "sl",
-        "name": "očalarka"
+        "name": "Očalarka"
       },
       {
         "lang": "sv",
@@ -240,10 +262,7 @@
       },
       {
         "lang": "gl",
-        "name": "Ànec negre",
-        "synonyms": [
-          "Parrulo pentumeiro"
-        ]
+        "name": "Parrulo pentumeiro"
       },
       {
         "lang": "gv",
@@ -567,7 +586,7 @@
       },
       {
         "lang": "et",
-        "name": "ameerika tõmmuvaeras"
+        "name": "Ameerika tõmmuvaeras"
       },
       {
         "lang": "fi",
@@ -583,7 +602,7 @@
       },
       {
         "lang": "hu",
-        "name": "tükrös réce"
+        "name": "Tükrös réce"
       },
       {
         "lang": "ik",
@@ -622,7 +641,7 @@
       },
       {
         "lang": "pl",
-        "name": "uhla amerykańska"
+        "name": "Uhla amerykańska"
       },
       {
         "lang": "ru",
@@ -630,7 +649,7 @@
       },
       {
         "lang": "sk",
-        "name": "turpan nosorohý"
+        "name": "Turpan nosorohý"
       },
       {
         "lang": "sv",

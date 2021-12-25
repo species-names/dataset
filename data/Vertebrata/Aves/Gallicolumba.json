@@ -1,14 +1,5 @@
 [
   {
-    "scientific_name": "Gallicolumba xanthonura",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub marianský"
-      }
-    ]
-  },
-  {
     "scientific_name": "Gallicolumba tristigmata",
     "common_names": [
       {
@@ -30,56 +21,6 @@
     ]
   },
   {
-    "scientific_name": "Gallicolumba stairi",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub pospolitý"
-      },
-      {
-        "lang": "en",
-        "name": "Shy Ground-dove",
-        "synonyms": [
-          "Friendly Ground-Dove"
-        ]
-      },
-      {
-        "lang": "pt",
-        "name": "Pomba-de-stair"
-      },
-      {
-        "lang": "to",
-        "name": "tu"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Gallicolumba sanctaecrucis",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub santacruzský"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Gallicolumba salamonis",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub tlustozobý"
-      },
-      {
-        "lang": "en",
-        "name": "Thick-billed Ground-Dove"
-      },
-      {
-        "lang": "pl",
-        "name": "Wyspiarek grubodzioby"
-      }
-    ]
-  },
-  {
     "scientific_name": "Gallicolumba rufigula",
     "common_names": [
       {
@@ -89,23 +30,6 @@
       {
         "lang": "en",
         "name": "Cinnamon Ground-Dove"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Gallicolumba rubescens",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub marqueský"
-      },
-      {
-        "lang": "en",
-        "name": "[[:en:Marquesan Ground-Dove"
-      },
-      {
-        "lang": "fr",
-        "name": "[[:fr:Gallicolombe des Marquises"
       }
     ]
   },
@@ -150,7 +74,7 @@
       },
       {
         "lang": "sv",
-        "name": "Mindoromarkduva"
+        "name": "mindoromarkduva"
       },
       {
         "lang": "tl",
@@ -299,120 +223,63 @@
     "common_names": []
   },
   {
-    "scientific_name": "Gallicolumba kubaryi",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub ponapeský"
-      },
-      {
-        "lang": "de",
-        "name": "Ponape-Erdtaube"
-      },
-      {
-        "lang": "en",
-        "name": "White-fronted ground dove"
-      }
-    ]
-  },
-  {
     "scientific_name": "Gallicolumba keayi",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Colom ferit de Negros"
+      },
+      {
         "lang": "cs",
         "name": "Holub negroský"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn calonwaedlyd Negros"
+      },
+      {
+        "lang": "de",
+        "name": "Negros-Dolchstichtaube"
       },
       {
         "lang": "en",
         "name": "Negros Bleeding-heart"
       },
       {
-        "lang": "nl",
-        "name": "Negrosdolksteekduif"
+        "lang": "es",
+        "name": "Paloma apuñalada de Negros"
       },
       {
         "lang": "fi",
         "name": "Negrosinhaavakyyhky"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Gallicolumba jobiensis",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub jobijský"
-      },
-      {
-        "lang": "en",
-        "name": "White-bibbed Ground-dove"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Gallicolumba hoedtii",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub wetarský"
-      },
-      {
-        "lang": "en",
-        "name": "Wetar Ground-Dove"
-      },
-      {
-        "lang": "es",
-        "name": "Paloma-perdiz de la Wetar"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Gallicolumba ferruginea",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub tannský"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Gallicolumba erythroptera",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub tahitský"
-      },
-      {
-        "lang": "de",
-        "name": "Polynesische Erdtaube"
-      },
-      {
-        "lang": "en",
-        "name": "Polynesian Ground-dove"
-      },
-      {
-        "lang": "es",
-        "name": "Paloma perdiz de Tuamotu"
       },
       {
         "lang": "fr",
-        "name": "Gallicolombe érythroptère"
+        "name": "Gallicolombe de Negros"
+      },
+      {
+        "lang": "hu",
+        "name": "Negrosi csillagosgalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Colomba pugnalata di Kaey"
       },
       {
         "lang": "mrj",
-        "name": "Якшар шылдыран цӹвӹ кӓдӹ"
+        "name": "Негрос цӹвӹ кӓдӹ"
       },
       {
         "lang": "nl",
-        "name": "Tahitiaanse patrijsduif"
+        "name": "Negrosdolksteekduif"
       },
       {
         "lang": "pnb",
-        "name": "پولینیشی کگی"
+        "name": "نیگرو روندا دل"
       },
       {
         "lang": "sv",
-        "name": "Tuamotumarkduva"
+        "name": "negrosmarkduva"
       }
     ]
   },
@@ -501,28 +368,6 @@
       {
         "lang": "zh",
         "name": "巴氏鸡鸠"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Gallicolumba canifrons",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub palauský"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Gallicolumba beccarii",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Holub šedoprsý"
-      },
-      {
-        "lang": "en",
-        "name": "Bronze Ground-dove"
       }
     ]
   }

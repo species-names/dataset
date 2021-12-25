@@ -3,6 +3,10 @@
     "scientific_name": "Nemosia rourei",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Rubinkehltangare"
+      },
+      {
         "lang": "en",
         "name": "Cherry-throated Tanager"
       },
@@ -13,11 +17,44 @@
       {
         "lang": "pt",
         "name": "Saíra-apunhalada"
+      },
+      {
+        "lang": "cy",
+        "name": "Tanagr gyddfgoch y De"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara rougegorge"
+      },
+      {
+        "lang": "nl",
+        "name": "Robijnkeeltangare"
+      },
+      {
+        "lang": "no",
+        "name": "Rubinstrupetanagar"
+      },
+      {
+        "lang": "sv",
+        "name": "rubinstrupig tangara"
       }
     ]
   },
   {
     "scientific_name": "Nemosia pileata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hooded Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara encapuchada"
+      },
+      {
+        "lang": "pt",
+        "name": "Saíra-de-chapéu-preto"
+      }
+    ]
   }
 ]

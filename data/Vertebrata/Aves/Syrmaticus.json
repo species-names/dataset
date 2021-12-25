@@ -48,7 +48,7 @@
       },
       {
         "lang": "sv",
-        "name": "Kopparfasan"
+        "name": "kopparfasan"
       },
       {
         "lang": "zh",
@@ -81,7 +81,7 @@
       },
       {
         "lang": "eo",
-        "name": "Longvosta fazano"
+        "name": "Reĝa fazano"
       },
       {
         "lang": "es",
@@ -185,6 +185,54 @@
     "scientific_name": "Syrmaticus mikado",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Микадо"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan mikado"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà mikado"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Mikado"
+      },
+      {
+        "lang": "da",
+        "name": "Mikadofasan"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan mikado"
+      },
+      {
+        "lang": "hu",
+        "name": "Mikádófácán"
+      },
+      {
+        "lang": "ja",
+        "name": "ミカドキジ"
+      },
+      {
+        "lang": "nl",
+        "name": "Mikadofazant"
+      },
+      {
+        "lang": "pl",
+        "name": "Bażant tajwański"
+      },
+      {
+        "lang": "pnb",
+        "name": "میکاڈو بن ککڑ"
+      },
+      {
+        "lang": "sv",
+        "name": "mikadofasan"
+      },
+      {
         "lang": "de",
         "name": "Mikadofasan"
       },
@@ -207,11 +255,75 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Hume's Pheasant"
+        "name": "Mrs Hume's Pheasant"
       },
       {
         "lang": "th",
         "name": "ไก่ฟ้าหางลายขวาง"
+      },
+      {
+        "lang": "bg",
+        "name": "Фазан на Юм"
+      },
+      {
+        "lang": "bh",
+        "name": "सिरामैटिकस ह्यूमाई"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan Hume"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà de Hume"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant Humeové"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Hume"
+      },
+      {
+        "lang": "de",
+        "name": "Burmafasan"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrakola longvosta fazano"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan de Hume"
+      },
+      {
+        "lang": "hi",
+        "name": "धारीदार पूँछ वाला तीतर"
+      },
+      {
+        "lang": "hu",
+        "name": "Burmai fácán"
+      },
+      {
+        "lang": "ja",
+        "name": "ビルマカラヤマドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Hume's fazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہیوم دا ککڑ"
+      },
+      {
+        "lang": "sv",
+        "name": "Humes fasan"
+      },
+      {
+        "lang": "zh",
+        "name": "黑颈长尾雉"
       }
     ]
   },
@@ -233,6 +345,70 @@
       {
         "lang": "hu",
         "name": "Elliot-fácán"
+      },
+      {
+        "lang": "bg",
+        "name": "Елиотов фазан"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan Elliot"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà d'Elliot"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant Elliotův"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Elliot"
+      },
+      {
+        "lang": "da",
+        "name": "Elliotts fasan"
+      },
+      {
+        "lang": "de",
+        "name": "Elliotfasan"
+      },
+      {
+        "lang": "fa",
+        "name": "قرقاول الیوت"
+      },
+      {
+        "lang": "ja",
+        "name": "カラヤマドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Elliots fazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "ایلیٹ بن ککڑ"
+      },
+      {
+        "lang": "ru",
+        "name": "Пёстрый фазан Эллиота"
+      },
+      {
+        "lang": "simple",
+        "name": "Elliot's Pheasant"
+      },
+      {
+        "lang": "sk",
+        "name": "Bažant pásavý"
+      },
+      {
+        "lang": "sv",
+        "name": "elliotfasan"
+      },
+      {
+        "lang": "zh",
+        "name": "白颈长尾雉"
       }
     ]
   }

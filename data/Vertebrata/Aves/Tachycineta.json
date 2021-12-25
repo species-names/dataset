@@ -3,16 +3,48 @@
     "scientific_name": "Tachycineta thalassina",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Gwennol werdd"
+      },
+      {
+        "lang": "de",
+        "name": "Veilchenschwalbe"
+      },
+      {
         "lang": "en",
         "name": "Violet-green Swallow"
+      },
+      {
+        "lang": "es",
+        "name": "Golondrina verdemar"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی بنفش و سبز"
       },
       {
         "lang": "fr",
         "name": "Hirondelle à face blanche"
       },
       {
+        "lang": "hu",
+        "name": "Karolinai fecske"
+      },
+      {
+        "lang": "nl",
+        "name": "Groene zwaluw"
+      },
+      {
+        "lang": "nv",
+        "name": "Táshchozhii binághah chʼilgo dootłʼizhígíí"
+      },
+      {
         "lang": "sv",
         "name": "Violettgrön svala"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhạn xanh tím"
       }
     ]
   },
@@ -24,38 +56,221 @@
         "name": "Tumbes Swallow"
       },
       {
+        "lang": "es",
+        "name": "Golondrina de Tumbes"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی زولتسمان"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle de Stolzmann"
+      },
+      {
+        "lang": "hu",
+        "name": "Tumbesi fecske"
+      },
+      {
+        "lang": "nl",
+        "name": "Stolzmanns zwaluw"
+      },
+      {
         "lang": "sv",
         "name": "Tumbessvala"
       }
     ]
   },
   {
-    "scientific_name": "Tachycineta meyeni",
-    "common_names": []
+    "scientific_name": "Tachycineta leucorrhoa",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Vlaštovka bělokostřecová"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol dinwen"
+      },
+      {
+        "lang": "en",
+        "name": "White-rumped Swallow"
+      },
+      {
+        "lang": "es",
+        "name": "Golondrina cejiblanca"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دمگاه‌سفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle à diadème"
+      },
+      {
+        "lang": "nl",
+        "name": "Witstuitzwaluw"
+      },
+      {
+        "lang": "pt",
+        "name": "Andorinha-de-sobre-branco"
+      },
+      {
+        "lang": "ru",
+        "name": "Белопоясничная американская ласточка"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitgumpsvala"
+      }
+    ]
   },
   {
-    "scientific_name": "Tachycineta leucorrhoa",
-    "common_names": []
+    "scientific_name": "Tachycineta leucopyga",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Gwennol dinwen y De"
+      },
+      {
+        "lang": "de",
+        "name": "Chileschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Chilean Swallow"
+      },
+      {
+        "lang": "es",
+        "name": "Golondrina Chilena"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی شیلی"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle du Chili"
+      },
+      {
+        "lang": "hu",
+        "name": "Chilei fecske"
+      },
+      {
+        "lang": "nl",
+        "name": "Chileense zwaluw"
+      },
+      {
+        "lang": "pt",
+        "name": "Andorinha-chilena"
+      },
+      {
+        "lang": "sv",
+        "name": "Chilesvala"
+      }
+    ]
   },
   {
     "scientific_name": "Tachycineta euchrysea",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Gwennol euraid"
+      },
+      {
         "lang": "en",
         "name": "Golden Swallow"
+      },
+      {
+        "lang": "es",
+        "name": "Golondrina dorada"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی طلایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle dorée"
+      },
+      {
+        "lang": "hu",
+        "name": "Aranyfecske"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudzwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "Bronssvala"
       }
     ]
   },
   {
     "scientific_name": "Tachycineta cyaneoviridis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Бахамска лястовица"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol y Bahamas"
+      },
+      {
+        "lang": "en",
+        "name": "Bahama Swallow"
+      },
+      {
+        "lang": "eo",
+        "name": "Bluverda hirundo"
+      },
+      {
+        "lang": "es",
+        "name": "Golondrina de las Bahamas"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی باهاما"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle des Bahamas"
+      },
+      {
+        "lang": "hu",
+        "name": "Bahamai fecske"
+      },
+      {
+        "lang": "nl",
+        "name": "Bahamazwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "Bahamasvala"
+      }
+    ]
   },
   {
     "scientific_name": "Tachycineta bicolor",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "سنونو الشجرة"
+      },
+      {
+        "lang": "ca",
+        "name": "Oreneta bicolor"
+      },
+      {
         "lang": "cs",
-        "name": "vlaštovka stromová"
+        "name": "Vlaštovka stromová"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol coed America"
       },
       {
         "lang": "da",
@@ -67,10 +282,7 @@
       },
       {
         "lang": "en",
-        "name": "Tree Swallow",
-        "synonyms": [
-          "American Tree Swallow"
-        ]
+        "name": "Tree Swallow"
       },
       {
         "lang": "eo",
@@ -78,18 +290,23 @@
       },
       {
         "lang": "es",
-        "name": "Golondrina bicolor",
-        "synonyms": [
-          "Golondrina de árboles"
-        ]
+        "name": "Golondrina bicolor"
       },
       {
         "lang": "et",
-        "name": "õõnepääsuke"
+        "name": "Õõnepääsuke"
+      },
+      {
+        "lang": "eu",
+        "name": "Zuhaitz-enara"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی درختی"
       },
       {
         "lang": "fi",
-        "name": "kelopääsky"
+        "name": "Kelopääsky"
       },
       {
         "lang": "fr",
@@ -100,8 +317,12 @@
         "name": "Irondèl pye bwa"
       },
       {
+        "lang": "he",
+        "name": "סנונית עצים"
+      },
+      {
         "lang": "hu",
-        "name": "odúfecske"
+        "name": "Odúfecske"
       },
       {
         "lang": "is",
@@ -113,14 +334,15 @@
       },
       {
         "lang": "ja",
-        "name": "ミドリツバメ",
-        "synonyms": [
-          "midoritsubame"
-        ]
+        "name": "ミドリツバメ"
       },
       {
         "lang": "lt",
         "name": "Medkregždė"
+      },
+      {
+        "lang": "ml",
+        "name": "ട്രീ സ്വാല്ലോ"
       },
       {
         "lang": "nl",
@@ -131,6 +353,14 @@
         "name": "Tresvale"
       },
       {
+        "lang": "nv",
+        "name": "Tsinyiʼ táshchozhii dootłʼizhígíí"
+      },
+      {
+        "lang": "ny",
+        "name": "Mtengo ukumeza"
+      },
+      {
         "lang": "oj",
         "name": "ᔕᔕᐊᐧᓂᐱᓯ",
         "synonyms": [
@@ -139,7 +369,7 @@
       },
       {
         "lang": "pl",
-        "name": "nadobniczka drzewna"
+        "name": "Nadobniczka drzewna"
       },
       {
         "lang": "pt",
@@ -151,11 +381,11 @@
       },
       {
         "lang": "sk",
-        "name": "lastovička dvojfarebná"
+        "name": "Lastovička dvojfarebná"
       },
       {
         "lang": "sl",
-        "name": "drevesna lastovka"
+        "name": "Drevesna lastovka"
       },
       {
         "lang": "sv",
@@ -164,6 +394,10 @@
       {
         "lang": "tr",
         "name": "Ağaç Kırlangıcı"
+      },
+      {
+        "lang": "uk",
+        "name": "Білозорка річкова"
       },
       {
         "lang": "zh",
@@ -175,12 +409,32 @@
     "scientific_name": "Tachycineta albiventer",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Белокрила лястовица"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol adeinwen"
+      },
+      {
         "lang": "en",
         "name": "White-winged Swallow"
       },
       {
         "lang": "pt",
         "name": "Andorinha-do-rio"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی بال‌سفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle à ailes blanches"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbuikzwaluw"
       },
       {
         "lang": "sv",
@@ -192,12 +446,52 @@
     "scientific_name": "Tachycineta albilinea",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "سنونو الأيكات"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol mangrôf"
+      },
+      {
         "lang": "en",
         "name": "Mangrove Swallow"
       },
       {
+        "lang": "eo",
+        "name": "Mangleja hirundo"
+      },
+      {
+        "lang": "es",
+        "name": "Golondrina de manglar"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی حرا"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle des mangroves"
+      },
+      {
+        "lang": "hu",
+        "name": "Mangrovefecske"
+      },
+      {
+        "lang": "id",
+        "name": "Walet bakau"
+      },
+      {
+        "lang": "nl",
+        "name": "Mangrovezwaluw"
+      },
+      {
         "lang": "sv",
         "name": "Mangrovesvala"
+      },
+      {
+        "lang": "uk",
+        "name": "Ластівка мангрова"
       }
     ]
   }

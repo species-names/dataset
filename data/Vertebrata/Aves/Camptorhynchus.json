@@ -3,6 +3,18 @@
     "scientific_name": "Camptorhynchus labradorius",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بط لابرادور"
+      },
+      {
+        "lang": "az",
+        "name": "Labrador qaqası"
+      },
+      {
+        "lang": "cs",
+        "name": "Kačka labradorská"
+      },
+      {
         "lang": "de",
         "name": "Labradorente"
       },
@@ -11,24 +23,88 @@
         "name": "Labrador Duck"
       },
       {
+        "lang": "eo",
+        "name": "Labradora anaso"
+      },
+      {
+        "lang": "es",
+        "name": "Pato del Labrador"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغابی لابرادور"
+      },
+      {
+        "lang": "fi",
+        "name": "Labradorinsorsa"
+      },
+      {
         "lang": "fr",
         "name": "Eider du Labrador"
+      },
+      {
+        "lang": "he",
+        "name": "ברווז לברדור"
       },
       {
         "lang": "hu",
         "name": "Labradori réce"
       },
       {
+        "lang": "it",
+        "name": "Anatra del Labrador"
+      },
+      {
         "lang": "ja",
         "name": "カササギガモ"
+      },
+      {
+        "lang": "ko",
+        "name": "까치오리"
+      },
+      {
+        "lang": "lv",
+        "name": "Labradoras pīle"
+      },
+      {
+        "lang": "mn",
+        "name": "Лабрадор нугас"
       },
       {
         "lang": "nl",
         "name": "Labradoreend"
       },
       {
+        "lang": "no",
+        "name": "Labradorand"
+      },
+      {
+        "lang": "pl",
+        "name": "Kaczka labradorska"
+      },
+      {
         "lang": "pt",
         "name": "Pato-do-labrador"
+      },
+      {
+        "lang": "ru",
+        "name": "Лабрадорская гага"
+      },
+      {
+        "lang": "sv",
+        "name": "Labradorand"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt Labrador"
+      },
+      {
+        "lang": "zh",
+        "name": "拉布拉多鴨"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "拉布拉多鴨"
       }
     ]
   }

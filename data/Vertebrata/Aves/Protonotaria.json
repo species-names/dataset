@@ -3,8 +3,28 @@
     "scientific_name": "Protonotaria citrea",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "هازجة أساسية"
+      },
+      {
+        "lang": "arz",
+        "name": "هازجه اساسيه"
+      },
+      {
+        "lang": "bg",
+        "name": "Лимонен певач"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola protonotària"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček zlatý"
+        "name": "Lesňáček zlatý"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor melyn y gwerni"
       },
       {
         "lang": "da",
@@ -19,16 +39,20 @@
         "name": "Prothonotary Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Protonotario"
+      },
+      {
         "lang": "es",
-        "name": "Reinita Protonotaria"
+        "name": "Reinita protonotaria"
       },
       {
         "lang": "et",
-        "name": "õõnesäälik"
+        "name": "Õõnesäälik"
       },
       {
         "lang": "fi",
-        "name": "kolokerttuli"
+        "name": "Kolokerttuli"
       },
       {
         "lang": "fr",
@@ -40,14 +64,11 @@
       },
       {
         "lang": "it",
-        "name": "Protonotaria citrina"
+        "name": "Parula protonotaria"
       },
       {
         "lang": "ja",
-        "name": "オウゴンアメリカムシクイ",
-        "synonyms": [
-          "ougon'amerikamushikui"
-        ]
+        "name": "オウゴンアメリカムシクイ"
       },
       {
         "lang": "lb",
@@ -67,14 +88,14 @@
       },
       {
         "lang": "pl",
-        "name": "bursztynka"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Mariquita-protonotária"
+        "name": "Bursztynka"
       },
       {
         "lang": "pt",
+        "name": "Mariquita-protonotária"
+      },
+      {
+        "lang": "pt-br",
         "name": "Mariquita-protonotária"
       },
       {
@@ -83,11 +104,15 @@
       },
       {
         "lang": "sk",
-        "name": "horárik pomarančový"
+        "name": "Horárik pomarančový"
       },
       {
         "lang": "sv",
         "name": "Gyllenskogssångare"
+      },
+      {
+        "lang": "ta",
+        "name": "பொன் கதிர்க்குருவி"
       },
       {
         "lang": "zh",

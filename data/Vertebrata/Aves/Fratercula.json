@@ -11,6 +11,10 @@
         "name": "Horned Puffin"
       },
       {
+        "lang": "eo",
+        "name": "Kornita fraterculo"
+      },
+      {
         "lang": "ja",
         "name": "ツノメドリ"
       },
@@ -30,6 +34,30 @@
       {
         "lang": "cs",
         "name": "Papuchalk chocholatý"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbschopflund"
+      },
+      {
+        "lang": "en",
+        "name": "Tufted puffin"
+      },
+      {
+        "lang": "eo",
+        "name": "Tufa fraterkulo"
+      },
+      {
+        "lang": "fr",
+        "name": "Macareux huppé"
+      },
+      {
+        "lang": "hu",
+        "name": "Kontyos lunda"
+      },
+      {
+        "lang": "it",
+        "name": "Pulcinella dai ciuffi"
       },
       {
         "lang": "ja",
@@ -74,7 +102,10 @@
       },
       {
         "lang": "de",
-        "name": "Papageitaucher"
+        "name": "Papageitaucher",
+        "synonyms": [
+          "auch Papageientaucher oder Puffin"
+        ]
       },
       {
         "lang": "en",

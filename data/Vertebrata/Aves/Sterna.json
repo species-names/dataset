@@ -15,6 +15,10 @@
         "name": "Antarctic Tern"
       },
       {
+        "lang": "eo",
+        "name": "Antarkta ŝterno"
+      },
+      {
         "lang": "es",
         "name": "Charrán Antárctico"
       },
@@ -36,8 +40,40 @@
     "scientific_name": "Sterna virgata",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Kerguelenseeswael"
+      },
+      {
+        "lang": "ar",
+        "name": "خرشنة كيرغولينية"
+      },
+      {
+        "lang": "az",
+        "name": "Kergelen susüpürəni"
+      },
+      {
+        "lang": "bg",
+        "name": "Кергеленска рибарка"
+      },
+      {
+        "lang": "br",
+        "name": "Skravig Kergelenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac de les Kerguelen"
+      },
+      {
         "lang": "cs",
         "name": "Rybák kerguelenský"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol Kerguelen"
+      },
+      {
+        "lang": "da",
+        "name": "Kerguelenterne"
       },
       {
         "lang": "de",
@@ -48,16 +84,60 @@
         "name": "Kerguelen Tern"
       },
       {
+        "lang": "eo",
+        "name": "Kergelena ŝterno"
+      },
+      {
         "lang": "es",
         "name": "Charrán de las Kerguelen"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی کرگولن"
+      },
+      {
+        "lang": "fi",
+        "name": "Kerguelenintiira"
       },
       {
         "lang": "fr",
         "name": "Sterne de Kerguelen"
       },
       {
-        "lang": "af",
-        "name": "Kerguelensterretjie"
+        "lang": "hu",
+        "name": "Kerguelen-szigeteki csér"
+      },
+      {
+        "lang": "it",
+        "name": "Sterna delle Kerguelen"
+      },
+      {
+        "lang": "ja",
+        "name": "ケルゲレンアジサシ"
+      },
+      {
+        "lang": "nl",
+        "name": "Kerguelenstern"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa kergueleńska"
+      },
+      {
+        "lang": "pt",
+        "name": "Trinta-réis-das-kerguelen"
+      },
+      {
+        "lang": "ru",
+        "name": "Кергеленская крачка"
+      },
+      {
+        "lang": "sv",
+        "name": "Kerguelentärna"
+      },
+      {
+        "lang": "uk",
+        "name": "Крячок кергеленський"
       }
     ]
   },
@@ -75,6 +155,10 @@
       {
         "lang": "en",
         "name": "Snowy-crowned Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankkrona ŝterno"
       },
       {
         "lang": "es",
@@ -116,6 +200,10 @@
       {
         "lang": "en",
         "name": "Black-naped Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Sumatra ŝterno"
       },
       {
         "lang": "es",
@@ -167,12 +255,20 @@
         "name": "White-fronted Tern"
       },
       {
+        "lang": "eo",
+        "name": "Maoria ŝterno"
+      },
+      {
         "lang": "es",
         "name": "Charrán Maorí"
       },
       {
         "lang": "fr",
         "name": "Sterne tara"
+      },
+      {
+        "lang": "mi",
+        "name": "Tara"
       }
     ]
   },
@@ -180,24 +276,56 @@
     "scientific_name": "Sterna repressa",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Witwangsterretjie"
+      },
+      {
         "lang": "ar",
-        "name": "خطاف البحر أبو بطن"
+        "name": "خرشنة بيضاء الخدود"
+      },
+      {
+        "lang": "az",
+        "name": "Ağyanaq susüpürən"
+      },
+      {
+        "lang": "bg",
+        "name": "Арабска рибарка"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac galtablanc"
       },
       {
         "lang": "cs",
         "name": "Rybák bělolící"
       },
       {
+        "lang": "cy",
+        "name": "Môr-wennol fochwen"
+      },
+      {
         "lang": "de",
-        "name": "Weißwangen-Seeschwalbe"
+        "name": "Weißwangenseeschwalbe"
       },
       {
         "lang": "en",
         "name": "White-cheeked Tern"
       },
       {
+        "lang": "eo",
+        "name": "Blankvizaĝa ŝterno"
+      },
+      {
         "lang": "es",
-        "name": "Charrán Arábigo"
+        "name": "Charrán arábigo"
+      },
+      {
+        "lang": "eu",
+        "name": "Txenada musuzuri"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی گونه‌سفید"
       },
       {
         "lang": "fi",
@@ -212,8 +340,32 @@
         "name": "Fehérarcú csér"
       },
       {
+        "lang": "it",
+        "name": "Sterna guancebiache"
+      },
+      {
+        "lang": "ml",
+        "name": "വെൺകവിളൻ ആള"
+      },
+      {
+        "lang": "nl",
+        "name": "Arabische stern"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa arabska"
+      },
+      {
         "lang": "pnb",
         "name": "چٹی چیک آلی ٹرن"
+      },
+      {
+        "lang": "ru",
+        "name": "Аравийская крачка"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitkindad tärna"
       }
     ]
   },
@@ -486,6 +638,10 @@
         "name": "Common Tern"
       },
       {
+        "lang": "eo",
+        "name": "Hirunda ŝterno"
+      },
+      {
         "lang": "es",
         "name": "Charrán común"
       },
@@ -574,6 +730,10 @@
         "name": "Bayağı sumru"
       },
       {
+        "lang": "zea",
+        "name": "Nikke"
+      },
+      {
         "lang": "zh",
         "name": "普通燕鷗"
       },
@@ -603,6 +763,10 @@
         "name": "South American Tern"
       },
       {
+        "lang": "eo",
+        "name": "Sudamerika ŝterno"
+      },
+      {
         "lang": "es",
         "name": "Charrán Suramericano"
       },
@@ -620,6 +784,18 @@
     "scientific_name": "Sterna forsteri",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "خرشنة فورسترية"
+      },
+      {
+        "lang": "az",
+        "name": "Forsterov susüpürəni"
+      },
+      {
+        "lang": "br",
+        "name": "Skravig Forster"
+      },
+      {
         "lang": "ca",
         "name": "Xatrac de Forster"
       },
@@ -629,7 +805,7 @@
       },
       {
         "lang": "cy",
-        "name": "Morwennol Forster"
+        "name": "Môr-wennol Forster"
       },
       {
         "lang": "da",
@@ -645,7 +821,7 @@
       },
       {
         "lang": "eo",
-        "name": "Forstera ŝterno"
+        "name": "Marĉa ŝterno"
       },
       {
         "lang": "es",
@@ -657,7 +833,11 @@
       },
       {
         "lang": "eu",
-        "name": "Xatrac de Forster"
+        "name": "Forster txenada"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی فورستر"
       },
       {
         "lang": "fi",
@@ -716,12 +896,16 @@
         "name": "Prærieterne"
       },
       {
+        "lang": "nv",
+        "name": "Tónteel táshchozhii binákʼee dah jíljinígíí"
+      },
+      {
         "lang": "pl",
         "name": "Rybitwa czarnoucha"
       },
       {
         "lang": "pt",
-        "name": "Gaivina de Forster"
+        "name": "Gaivina-de-Forster"
       },
       {
         "lang": "ru",
@@ -775,6 +959,10 @@
       {
         "lang": "en",
         "name": "Roseate Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Roza ŝterno"
       },
       {
         "lang": "es",
@@ -838,12 +1026,36 @@
     "scientific_name": "Sterna aurantia",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "خرشنة برتقالية"
+      },
+      {
+        "lang": "as",
+        "name": "গঙা চিলনী"
+      },
+      {
         "lang": "az",
         "name": "Hindistan adi susüpürəni"
       },
       {
+        "lang": "bg",
+        "name": "Индийска рибарка"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac fluvial"
+      },
+      {
         "lang": "cs",
         "name": "Rybák říční"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol afon"
+      },
+      {
+        "lang": "da",
+        "name": "Flodterne"
       },
       {
         "lang": "de",
@@ -854,8 +1066,16 @@
         "name": "River Tern"
       },
       {
+        "lang": "eo",
+        "name": "Rivera ŝterno"
+      },
+      {
         "lang": "es",
         "name": "Charrán indio"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستودریایی رودخانه‌ای"
       },
       {
         "lang": "fi",
@@ -866,8 +1086,24 @@
         "name": "Sterne de rivière"
       },
       {
+        "lang": "hu",
+        "name": "Folyómenti csér"
+      },
+      {
+        "lang": "hy",
+        "name": "Հնդկական ջրածիծառ"
+      },
+      {
+        "lang": "it",
+        "name": "Sterna di fiume"
+      },
+      {
         "lang": "ja",
         "name": "カワアジサシ"
+      },
+      {
+        "lang": "ml",
+        "name": "പുഴ ആള"
       },
       {
         "lang": "mr",
@@ -876,6 +1112,34 @@
       {
         "lang": "my",
         "name": "မြစ်ထွေး၊"
+      },
+      {
+        "lang": "ne",
+        "name": "कुरारी फ्यालफ्याले"
+      },
+      {
+        "lang": "nl",
+        "name": "Rivierstern"
+      },
+      {
+        "lang": "pa",
+        "name": "ਦਰਿਆਈ ਤੇਹਾੜੀ"
+      },
+      {
+        "lang": "ru",
+        "name": "Индийская крачка"
+      },
+      {
+        "lang": "sv",
+        "name": "Flodtärna"
+      },
+      {
+        "lang": "ta",
+        "name": "ஆற்று ஆலா"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhàn sông"
       },
       {
         "lang": "zh",
@@ -887,16 +1151,84 @@
     "scientific_name": "Sterna acuticauda",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "خرشنة سوداءة البطن"
+      },
+      {
+        "lang": "az",
+        "name": "Qaraqarın susüpürən"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac ventrenegre"
+      },
+      {
         "lang": "cs",
         "name": "Rybák ostroocasý"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol dorddu"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzbauchseeschwalbe"
       },
       {
         "lang": "en",
         "name": "Black-bellied Tern"
       },
       {
+        "lang": "eo",
+        "name": "Nigraventra ŝterno"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی شکم‌سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustavatsatiira"
+      },
+      {
         "lang": "fr",
         "name": "Sterne à ventre noir"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketehasú csér"
+      },
+      {
+        "lang": "ml",
+        "name": "കരിവയറൻ ആള"
+      },
+      {
+        "lang": "ne",
+        "name": "उत्क्रोशी फ्यालफ्याले"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartbuikstern"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالے ٹڈ آلا ٹرن"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartbukig tärna"
+      },
+      {
+        "lang": "ta",
+        "name": "கருப்பு வயிற்று ஆலா"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhàn bụng đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑腹燕鸥"
       }
     ]
   }

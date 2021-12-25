@@ -1,15 +1,24 @@
 [
   {
     "scientific_name": "Geothlypis velata",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Geothlypis chiriquensis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Geothlypis auricularis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Südliches Gelbkehlchen"
+      },
+      {
+        "lang": "en",
+        "name": "Southern Yellowthroat"
+      },
+      {
+        "lang": "es",
+        "name": "Mascarita sureña"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline voilée"
+      }
+    ]
   },
   {
     "scientific_name": "Geothlypis trichas",
@@ -162,6 +171,42 @@
       {
         "lang": "en",
         "name": "Black-polled Yellowthroat"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn gyddf-felyn penddu"
+      },
+      {
+        "lang": "de",
+        "name": "Ockerbrust-Gelbkehlchen"
+      },
+      {
+        "lang": "eo",
+        "name": "Meksika parulio"
+      },
+      {
+        "lang": "es",
+        "name": "mascarita transvolcánica"
+      },
+      {
+        "lang": "fi",
+        "name": "Nokiotsakerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline à face noire"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkruinmaskerzanger"
+      },
+      {
+        "lang": "nv",
+        "name": "Yaayááhaltsoii bitsiiʼ łizhinígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "lermagulhake"
       }
     ]
   },
@@ -339,11 +384,100 @@
     ]
   },
   {
+    "scientific_name": "Geothlypis chiriquensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "lesňáček panamský"
+      },
+      {
+        "lang": "da",
+        "name": "Chiriquígulstrube"
+      },
+      {
+        "lang": "de",
+        "name": "Panamagelbkehlchen"
+      },
+      {
+        "lang": "en",
+        "name": "Chiriqui Yellowthroat"
+      },
+      {
+        "lang": "es",
+        "name": "Mascarita de Chiriquí"
+      },
+      {
+        "lang": "fi",
+        "name": "panamankerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline du Chiriqui"
+      },
+      {
+        "lang": "it",
+        "name": "Parula golagialla di Chiriqui"
+      },
+      {
+        "lang": "ja",
+        "name": "パナマカオグロムシクイ",
+        "synonyms": [
+          "panamakaoguromushikui"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Panamese Maskerzanger"
+      },
+      {
+        "lang": "pl",
+        "name": "Cytrynka kraterowa"
+      },
+      {
+        "lang": "ru",
+        "name": "Панамский масковый певун"
+      },
+      {
+        "lang": "sk",
+        "name": "Horárik vulkánový"
+      },
+      {
+        "lang": "sv",
+        "name": "Chiriquígulhake"
+      },
+      {
+        "lang": "zh",
+        "name": "巴拿马黄喉地莺"
+      }
+    ]
+  },
+  {
     "scientific_name": "Geothlypis beldingi",
     "common_names": [
       {
         "lang": "en",
         "name": "Belding's Yellowthroat"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Geothlypis auricularis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Schwarzaugen-Gelbkehlchen"
+      },
+      {
+        "lang": "en",
+        "name": "Black-lored Yellowthroat"
+      },
+      {
+        "lang": "es",
+        "name": "Mascarita embridada"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline à lores noirs"
       }
     ]
   },

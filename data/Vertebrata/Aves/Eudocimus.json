@@ -3,12 +3,12 @@
     "scientific_name": "Eudocimus ruber",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "Мысырбзууплъ"
-      },
-      {
         "lang": "ar",
         "name": "أبو منجل القرمزي"
+      },
+      {
+        "lang": "bg",
+        "name": "Червен ибис"
       },
       {
         "lang": "br",
@@ -23,6 +23,14 @@
         "name": "Ibis rudý"
       },
       {
+        "lang": "cy",
+        "name": "Ibis coch"
+      },
+      {
+        "lang": "da",
+        "name": "Rød ibis"
+      },
+      {
         "lang": "de",
         "name": "Scharlachsichler"
       },
@@ -31,12 +39,12 @@
         "name": "Scarlet Ibis"
       },
       {
-        "lang": "es",
-        "name": "Corocoro rojo"
-      },
-      {
         "lang": "eo",
         "name": "Skarlata ibiso"
+      },
+      {
+        "lang": "es",
+        "name": "Corocoro rojo"
       },
       {
         "lang": "fa",
@@ -47,31 +55,36 @@
         "name": "Ibis rouge"
       },
       {
-        "lang": "it",
-        "name": "Ibis rosso",
-        "synonyms": [
-          "ibis scarlatto"
-        ]
+        "lang": "gl",
+        "name": "Ibis escarlata"
       },
       {
         "lang": "he",
         "name": "מגלן שני"
       },
       {
-        "lang": "lt",
-        "name": "Raudonasis ibis"
-      },
-      {
         "lang": "hu",
         "name": "Skarlátbatla"
       },
       {
-        "lang": "nl",
-        "name": "Rode ibis"
+        "lang": "it",
+        "name": "Ibis scarlatto"
       },
       {
         "lang": "ja",
         "name": "ショウジョウトキ"
+      },
+      {
+        "lang": "kbd",
+        "name": "Мысырбзууплъ"
+      },
+      {
+        "lang": "lt",
+        "name": "Raudonasis ibis"
+      },
+      {
+        "lang": "nl",
+        "name": "Rode ibis"
       },
       {
         "lang": "pl",

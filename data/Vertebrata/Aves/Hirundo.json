@@ -68,6 +68,10 @@
         "name": "Draadstertswael"
       },
       {
+        "lang": "bg",
+        "name": "Нишкоопашата лястовица"
+      },
+      {
         "lang": "bn",
         "name": "তারলেজা আবাবিল"
       },
@@ -80,8 +84,16 @@
         "name": "Vlaštovka dlouhoocasá"
       },
       {
+        "lang": "cy",
+        "name": "Gwennol lostfain"
+      },
+      {
         "lang": "en",
         "name": "Wire-tailed swallow"
+      },
+      {
+        "lang": "eo",
+        "name": "Dratvosta hirundo"
       },
       {
         "lang": "es",
@@ -104,6 +116,10 @@
         "name": "കമ്പിവാലൻ കത്രിക"
       },
       {
+        "lang": "ne",
+        "name": "सुइरोपुच्छ्रे गौंथली"
+      },
+      {
         "lang": "nl",
         "name": "Roodkruinzwaluw"
       },
@@ -116,12 +132,24 @@
         "name": "Jaskółka rdzawogłowa"
       },
       {
+        "lang": "pnb",
+        "name": "تارپونجھا ابابیل"
+      },
+      {
         "lang": "ru",
         "name": "Нитехвостая ласточка"
       },
       {
         "lang": "sv",
         "name": "Trådstjärtsvala"
+      },
+      {
+        "lang": "ta",
+        "name": "கம்பிவால் தகைவிலான்"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhạn đầu hung"
       },
       {
         "lang": "zh",
@@ -182,11 +210,11 @@
       },
       {
         "lang": "ca",
-        "name": "Oreneta"
+        "name": "Oreneta comuna"
       },
       {
         "lang": "cs",
-        "name": "vlaštovka obecná"
+        "name": "Vlaštovka obecná"
       },
       {
         "lang": "csb",
@@ -198,10 +226,7 @@
       },
       {
         "lang": "cw",
-        "name": "gwennel",
-        "synonyms": [
-          "Gwennol"
-        ]
+        "name": "Gwennel"
       },
       {
         "lang": "cy",
@@ -261,7 +286,7 @@
       },
       {
         "lang": "fo",
-        "name": "svala"
+        "name": "Svala"
       },
       {
         "lang": "fr",
@@ -301,7 +326,7 @@
       },
       {
         "lang": "gv",
-        "name": "gollan geayee"
+        "name": "Gollan geayee"
       },
       {
         "lang": "he",
@@ -317,7 +342,7 @@
       },
       {
         "lang": "hsb",
-        "name": "łastojčka"
+        "name": "Łastojčka"
       },
       {
         "lang": "ht",
@@ -349,10 +374,7 @@
       },
       {
         "lang": "ja",
-        "name": "ツバメ",
-        "synonyms": [
-          "tsubame"
-        ]
+        "name": "ツバメ"
       },
       {
         "lang": "ka",
@@ -391,10 +413,6 @@
         "name": "Sisampamema"
       },
       {
-        "lang": "la",
-        "name": "Hirundo"
-      },
-      {
         "lang": "lb",
         "name": "Kamäinschmuebel"
       },
@@ -416,7 +434,7 @@
       },
       {
         "lang": "ml",
-        "name": "വയല്‍്ക്കോതി  കത്രികപ്പക്ഷി"
+        "name": "വയല്‍്ക്കോതി കത്രികപ്പക്ഷി"
       },
       {
         "lang": "mk",
@@ -432,7 +450,7 @@
       },
       {
         "lang": "mt",
-        "name": "ħuttafa"
+        "name": "Ħuttafa"
       },
       {
         "lang": "nds-nl",
@@ -543,10 +561,7 @@
       },
       {
         "lang": "sr",
-        "name": "Сеоска ласта",
-        "synonyms": [
-          "Seoska lasta"
-        ]
+        "name": "Сеоска ласта - Seoska lasta"
       },
       {
         "lang": "ss",
@@ -570,7 +585,10 @@
       },
       {
         "lang": "ta",
-        "name": "தகைவிலான்"
+        "name": "தகைவிலான்",
+        "synonyms": [
+          "தைலான் குருவி"
+        ]
       },
       {
         "lang": "th",
@@ -578,7 +596,7 @@
       },
       {
         "lang": "tk",
-        "name": "kır kırlangıcı"
+        "name": "Kır kırlangıcı"
       },
       {
         "lang": "tn",
@@ -621,12 +639,12 @@
         "name": "Zwalum"
       },
       {
-        "lang": "zh-min-nan",
-        "name": "Ìⁿ-á"
-      },
-      {
         "lang": "zh",
         "name": "家燕"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Ìⁿ-á"
       },
       {
         "lang": "zu",
@@ -869,6 +887,10 @@
       {
         "lang": "fr",
         "name": "Hirondelle à ailes tachetées"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete-fehér fecske"
       },
       {
         "lang": "nl",

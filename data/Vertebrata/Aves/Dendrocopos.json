@@ -7,8 +7,48 @@
     "scientific_name": "Dendrocopos syriacus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نقار الخشب السوري"
+      },
+      {
+        "lang": "ast",
+        "name": "Picu siriu"
+      },
+      {
+        "lang": "az",
+        "name": "Suriya ağacdələni"
+      },
+      {
         "lang": "be",
         "name": "Сірыйскі дзяцел"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Дзяцел сырыйскі"
+      },
+      {
+        "lang": "bg",
+        "name": "Сирийски пъстър кълвач"
+      },
+      {
+        "lang": "br",
+        "name": "Speg siriat"
+      },
+      {
+        "lang": "ca",
+        "name": "Picot garser siríac"
+      },
+      {
+        "lang": "cs",
+        "name": "Strakapoud jižní"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell Syria"
+      },
+      {
+        "lang": "da",
+        "name": "Syrisk Flagspætte"
       },
       {
         "lang": "de",
@@ -19,35 +59,104 @@
         "name": "Syrian Woodpecker"
       },
       {
+        "lang": "eo",
+        "name": "Siria buntpego"
+      },
+      {
         "lang": "es",
         "name": "Pico sirio"
+      },
+      {
+        "lang": "fa",
+        "name": "دارکوب سوری"
+      },
+      {
+        "lang": "fi",
+        "name": "Syyriantikka"
       },
       {
         "lang": "fr",
         "name": "Pic syriaque"
       },
       {
+        "lang": "ga",
+        "name": "Cnagaire Siriach"
+      },
+      {
+        "lang": "he",
+        "name": "נקר סורי"
+      },
+      {
         "lang": "hu",
-        "name": "Balkáni fakopáncs",
-        "synonyms": [
-          "balkáni tarkaharkály"
-        ]
+        "name": "Balkáni fakopáncs"
       },
       {
         "lang": "hy",
         "name": "Փայտփոր սիրիական"
       },
       {
+        "lang": "it",
+        "name": "Picchio di Siria"
+      },
+      {
+        "lang": "kbd",
+        "name": "ЩамжыгыуӀу"
+      },
+      {
+        "lang": "mk",
+        "name": "Сириски клукајдрвец"
+      },
+      {
         "lang": "nl",
         "name": "Syrische bonte specht"
       },
       {
-        "lang": "cs",
-        "name": "Strakapoud jižní"
+        "lang": "no",
+        "name": "Syriaspett"
       },
       {
-        "lang": "fi",
-        "name": "Syyriantikka"
+        "lang": "olo",
+        "name": "Syrientikku"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzięcioł białoszyi"
+      },
+      {
+        "lang": "pnb",
+        "name": "شامی چڑی ترکھان"
+      },
+      {
+        "lang": "ro",
+        "name": "Ciocănitoare de grădină"
+      },
+      {
+        "lang": "ru",
+        "name": "Сирийский дятел"
+      },
+      {
+        "lang": "sk",
+        "name": "Ďateľ hnedkavý"
+      },
+      {
+        "lang": "sr",
+        "name": "Сеоски детлић"
+      },
+      {
+        "lang": "sv",
+        "name": "Balkanspett"
+      },
+      {
+        "lang": "tr",
+        "name": "Alaca ağaçkakan"
+      },
+      {
+        "lang": "udm",
+        "name": "Сириысь сизь"
+      },
+      {
+        "lang": "uk",
+        "name": "Дятел сирійський"
       }
     ]
   },
@@ -85,6 +194,34 @@
       {
         "lang": "ko",
         "name": "오키나와딱다구리"
+      },
+      {
+        "lang": "ca",
+        "name": "Picot d'Okinawa"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell Okinawa"
+      },
+      {
+        "lang": "fa",
+        "name": "دارکوب اوکیناوا"
+      },
+      {
+        "lang": "nl",
+        "name": "Okinawaspecht"
+      },
+      {
+        "lang": "ru",
+        "name": "Окинавский дятел"
+      },
+      {
+        "lang": "sv",
+        "name": "okinawaspett"
+      },
+      {
+        "lang": "vi",
+        "name": "Gõ kiến Okinawa"
       }
     ]
   },
@@ -128,6 +265,10 @@
         "name": "Вялікі дзяцел"
       },
       {
+        "lang": "be-x-old",
+        "name": "Дзяцел вялікі"
+      },
+      {
         "lang": "bg",
         "name": "Голям пъстър кълвач"
       },
@@ -161,12 +302,7 @@
       },
       {
         "lang": "de",
-        "name": "Großer Buntspecht",
-        "synonyms": [
-          "Bandspecht",
-          "Rotspecht",
-          "Schildspecht"
-        ]
+        "name": "Buntspecht"
       },
       {
         "lang": "en",
@@ -189,6 +325,10 @@
         "name": "Okil handi"
       },
       {
+        "lang": "fa",
+        "name": "دارکوب خالدار بزرگ"
+      },
+      {
         "lang": "fi",
         "name": "Käpytikka"
       },
@@ -209,19 +349,24 @@
         "name": "Grutte Eksterspjocht"
       },
       {
+        "lang": "ga",
+        "name": "Mórchnagaire breac"
+      },
+      {
         "lang": "gl",
         "name": "Peto real"
       },
       {
         "lang": "hu",
-        "name": "Nagy fakopáncs",
-        "synonyms": [
-          "tarka harkály"
-        ]
+        "name": "Nagy fakopáncs"
       },
       {
         "lang": "hy",
         "name": "Փայտփոր խայտաբղետ"
+      },
+      {
+        "lang": "is",
+        "name": "Barrspæta"
       },
       {
         "lang": "it",
@@ -232,8 +377,20 @@
         "name": "アカゲラ"
       },
       {
+        "lang": "kk",
+        "name": "Шұбар тоқылдақ"
+      },
+      {
         "lang": "ko",
         "name": "오색딱따구리"
+      },
+      {
+        "lang": "ky",
+        "name": "Чоң чаар тонкулдак"
+      },
+      {
+        "lang": "ln",
+        "name": "Nkotemesi mɔkɛ́"
       },
       {
         "lang": "lt",
@@ -242,6 +399,10 @@
       {
         "lang": "lv",
         "name": "Dižraibais dzenis"
+      },
+      {
+        "lang": "mk",
+        "name": "Голем шарен клукајдрвец"
       },
       {
         "lang": "mrj",
@@ -268,20 +429,32 @@
         "name": "Dzięcioł duży"
       },
       {
+        "lang": "pnb",
+        "name": "ڈینڈروکوپس میجر"
+      },
+      {
         "lang": "pt",
         "name": "Pica-pau-malhado-grande"
       },
       {
-        "lang": "rue",
-        "name": "Довбач великый"
+        "lang": "ro",
+        "name": "Ciocănitoare pestriță mare"
       },
       {
         "lang": "ru",
         "name": "Большой пёстрый дятел"
       },
       {
+        "lang": "rue",
+        "name": "Довбач великый"
+      },
+      {
         "lang": "sah",
         "name": "Бэс тоҥсоҕойо"
+      },
+      {
+        "lang": "sco",
+        "name": "Norawa widpecker"
       },
       {
         "lang": "se",
@@ -290,6 +463,10 @@
       {
         "lang": "sk",
         "name": "Ďateľ veľký"
+      },
+      {
+        "lang": "sr",
+        "name": "Велики детлић"
       },
       {
         "lang": "sv",
@@ -308,6 +485,10 @@
         "name": "Великий строкатий дятел"
       },
       {
+        "lang": "vi",
+        "name": "Gõ kiến nhỏ sườn đỏ"
+      },
+      {
         "lang": "zh",
         "name": "大斑啄木鸟"
       }
@@ -324,6 +505,10 @@
   {
     "scientific_name": "Dendrocopos macei",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "পাকড়া কাঠকুড়ালি"
+      },
       {
         "lang": "de",
         "name": "Isabellbrustspecht"
@@ -382,8 +567,52 @@
     "scientific_name": "Dendrocopos leucotos",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نقار خشب أبيض الظهر"
+      },
+      {
+        "lang": "ast",
+        "name": "Picu dorsiblanco"
+      },
+      {
+        "lang": "az",
+        "name": "Ağbel ağacdələn"
+      },
+      {
+        "lang": "ba",
+        "name": "Аҡ ала тумыртҡа"
+      },
+      {
         "lang": "be",
         "name": "Беласпінны дзяцел"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Дзяцел беласьпінны"
+      },
+      {
+        "lang": "bg",
+        "name": "Белогръб кълвач"
+      },
+      {
+        "lang": "br",
+        "name": "Speg kein gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Picot garser dorsiblanc"
+      },
+      {
+        "lang": "cs",
+        "name": "Strakapoud bělohřbetý"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell gefnwen"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidrygget Flagspætte"
       },
       {
         "lang": "de",
@@ -394,6 +623,26 @@
         "name": "White-backed Woodpecker"
       },
       {
+        "lang": "eo",
+        "name": "Blankdorsa buntpego"
+      },
+      {
+        "lang": "es",
+        "name": "Pico dorsiblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Valgeselg-kirjurähn"
+      },
+      {
+        "lang": "eu",
+        "name": "Okil gibelnabar"
+      },
+      {
+        "lang": "fa",
+        "name": "دارکوب پشت‌سفید"
+      },
+      {
         "lang": "fi",
         "name": "Valkoselkätikka"
       },
@@ -402,19 +651,116 @@
         "name": "Pic à dos blanc"
       },
       {
+        "lang": "ga",
+        "name": "Cnagaire droimgheal"
+      },
+      {
+        "lang": "gl",
+        "name": "Peto de dorso branco"
+      },
+      {
         "lang": "hu",
-        "name": "Fehérhátú fakopáncs",
-        "synonyms": [
-          "fehérhátú harkály"
-        ]
+        "name": "Fehérhátú fakopáncs"
       },
       {
         "lang": "hy",
         "name": "Փայտփոր սպիտակամեջք"
       },
       {
+        "lang": "it",
+        "name": "Picchio dorsobianco"
+      },
+      {
         "lang": "ja",
         "name": "オオアカゲラ"
+      },
+      {
+        "lang": "kbd",
+        "name": "ПсыхъуэжыгыуӀу"
+      },
+      {
+        "lang": "kk",
+        "name": "Ақжон тоқылдақ"
+      },
+      {
+        "lang": "ko",
+        "name": "큰오색딱따구리"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltnugaris genys"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltmugurdzenis"
+      },
+      {
+        "lang": "mk",
+        "name": "Белокрстен шарен клукајдрвец"
+      },
+      {
+        "lang": "myv",
+        "name": "Ашо кутьмере шекшата"
+      },
+      {
+        "lang": "nl",
+        "name": "Witrugspecht"
+      },
+      {
+        "lang": "nn",
+        "name": "Kvitryggspett"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitryggspett"
+      },
+      {
+        "lang": "olo",
+        "name": "Valgeiselgytikku"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzięcioł białogrzbiety"
+      },
+      {
+        "lang": "ru",
+        "name": "Белоспинный дятел"
+      },
+      {
+        "lang": "rue",
+        "name": "Сорокопуд"
+      },
+      {
+        "lang": "se",
+        "name": "Vilgessealčáihni"
+      },
+      {
+        "lang": "sk",
+        "name": "Ďateľ bielochrbtý"
+      },
+      {
+        "lang": "sr",
+        "name": "Планински детлић"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitryggig hackspett"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak sırtlı ağaçkakan"
+      },
+      {
+        "lang": "tt",
+        "name": "Аксыртлы тукран"
+      },
+      {
+        "lang": "uk",
+        "name": "Дятел білоспинний"
+      },
+      {
+        "lang": "zh",
+        "name": "白背啄木鸟"
       }
     ]
   },
@@ -432,6 +778,10 @@
       {
         "lang": "fr",
         "name": "Pic à ailes blanches"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérszárnyú fakopáncs"
       },
       {
         "lang": "tr",

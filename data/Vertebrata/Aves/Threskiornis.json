@@ -11,8 +11,19 @@
         "name": "Ibis žlutokrký"
       },
       {
+        "lang": "de",
+        "name": "Strohhalsibis",
+        "synonyms": [
+          "Stachelibis"
+        ]
+      },
+      {
         "lang": "tr",
         "name": "Hasır boyunlu aynak"
+      },
+      {
+        "lang": "pt",
+        "name": "Íbis-pescoço-de-palha"
       }
     ]
   },
@@ -24,20 +35,103 @@
     "scientific_name": "Threskiornis melanocephalus",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "কাস্তেচরা"
+      },
+      {
         "lang": "cs",
         "name": "Ibis černohlavý"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkopfibis",
+        "synonyms": [
+          "Schwarzhalsibis"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Black-headed Ibis"
+      },
+      {
+        "lang": "fa",
+        "name": "اکراس سرسیاه"
+      },
+      {
+        "lang": "fr",
+        "name": "Ibis à tête noire"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketefejű íbisz"
+      },
+      {
+        "lang": "ja",
+        "name": "クロトキ"
+      },
+      {
+        "lang": "kn",
+        "name": "ಕಂಚಗಾರ ಕೊಕ್ಕರೆ"
       },
       {
         "lang": "ko",
         "name": "검은머리흰따오기"
       },
       {
-        "lang": "tr",
-        "name": "Kara başlı aynak"
+        "lang": "lt",
+        "name": "Juodagalvis ibis"
       },
       {
-        "lang": "en",
-        "name": "Black-headed Ibis"
+        "lang": "ml",
+        "name": "കഷണ്ടിക്കൊക്ക്"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шим вуян ибис"
+      },
+      {
+        "lang": "mr",
+        "name": "काळ्या डोक्याचा शराटी"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Sekendi Kepala Hitam"
+      },
+      {
+        "lang": "ne",
+        "name": "सेतो साँवरी"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische witte ibis"
+      },
+      {
+        "lang": "nv",
+        "name": "Naakaii Dootłʼizhii Bikéyahdę́ę́ʼ tsídiidaashiyishí bitsiiʼ halzhinígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Ibis siwopióry"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالے سر آلا آئیبس"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноголовый ибис"
+      },
+      {
+        "lang": "sah",
+        "name": "Индия иибиһэ"
+      },
+      {
+        "lang": "sv",
+        "name": "orientibis"
+      },
+      {
+        "lang": "ta",
+        "name": "வெள்ளை அரிவாள் மூக்கன்"
       },
       {
         "lang": "th",
@@ -45,6 +139,22 @@
         "synonyms": [
           "นกกุลาขาว"
         ]
+      },
+      {
+        "lang": "tr",
+        "name": "Kara başlı aynak"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò quăm đầu đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑頭白鹮"
+      },
+      {
+        "lang": "or",
+        "name": "ଧଳା ବାଜୁଣି"
       }
     ]
   },
@@ -52,16 +162,76 @@
     "scientific_name": "Threskiornis bernieri",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "أبو منجل المقدس المدغشقري"
+      },
+      {
+        "lang": "br",
+        "name": "Ibiz sakr Madagaskar"
+      },
+      {
+        "lang": "ca",
+        "name": "Ibis sagrat de Madagascar"
+      },
+      {
+        "lang": "da",
+        "name": "Madagaskaribis"
+      },
+      {
+        "lang": "de",
+        "name": "Hellaugenibis"
+      },
+      {
         "lang": "en",
         "name": "Malagasy Sacred Ibis"
+      },
+      {
+        "lang": "eo",
+        "name": "Madagaskara ibiso"
+      },
+      {
+        "lang": "fa",
+        "name": "اکراس مقدس مالاگاسی"
       },
       {
         "lang": "fr",
         "name": "Ibis malgache"
       },
       {
+        "lang": "hu",
+        "name": "Madagaszkári íbisz"
+      },
+      {
+        "lang": "lt",
+        "name": "Madagaskarinis šventasis ibis"
+      },
+      {
+        "lang": "mrj",
+        "name": "Мадагаскар ибис"
+      },
+      {
         "lang": "nl",
         "name": "Madagaskaribis"
+      },
+      {
+        "lang": "nv",
+        "name": "Mágí Bitseeʼ Noodǫ́zí Bikéyahdę́ę́ʼ tsídiidaashiyishí bitsiiʼ halzhinígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "مالاگاسی پوتر آئیبیس"
+      },
+      {
+        "lang": "pt",
+        "name": "Íbis-sagrado-de-madagascar"
+      },
+      {
+        "lang": "sv",
+        "name": "madagaskaribis"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò quăm Madagscar"
       }
     ]
   },
@@ -98,7 +268,7 @@
       },
       {
         "lang": "cs",
-        "name": "ibis posvátný"
+        "name": "Ibis posvátný"
       },
       {
         "lang": "da",
@@ -110,22 +280,19 @@
       },
       {
         "lang": "en",
-        "name": "African Sacred Ibis",
-        "synonyms": [
-          "Sacred Ibis"
-        ]
+        "name": "African Sacred Ibis"
       },
       {
         "lang": "eo",
-        "name": "Blanka ibiso"
+        "name": "Sankta ibiso"
       },
       {
         "lang": "es",
-        "name": "ibis sagrado"
+        "name": "Ibis sagrado"
       },
       {
         "lang": "et",
-        "name": "pühaiibis"
+        "name": "Pühaiibis"
       },
       {
         "lang": "eu",
@@ -133,7 +300,7 @@
       },
       {
         "lang": "fi",
-        "name": "pyhäiibis"
+        "name": "Pyhäiibis"
       },
       {
         "lang": "fr",
@@ -141,7 +308,7 @@
       },
       {
         "lang": "ga",
-        "name": "íbis bheannaithe"
+        "name": "Íbis bheannaithe"
       },
       {
         "lang": "he",
@@ -149,7 +316,7 @@
       },
       {
         "lang": "hu",
-        "name": "szent íbisz"
+        "name": "Azent íbisz"
       },
       {
         "lang": "id",
@@ -204,7 +371,7 @@
       },
       {
         "lang": "pl",
-        "name": "ibis czczony"
+        "name": "Ibis czczony"
       },
       {
         "lang": "pt",
@@ -216,7 +383,7 @@
       },
       {
         "lang": "sk",
-        "name": "ibis posvätný"
+        "name": "Ibis posvätný"
       },
       {
         "lang": "sl",

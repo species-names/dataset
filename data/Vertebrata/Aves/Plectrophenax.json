@@ -4,7 +4,11 @@
     "common_names": [
       {
         "lang": "ar",
-        "name": "صياد الثلج"
+        "name": "درسة الثلوج"
+      },
+      {
+        "lang": "az",
+        "name": "Şimal sərçəsi"
       },
       {
         "lang": "ba",
@@ -28,7 +32,11 @@
       },
       {
         "lang": "cs",
-        "name": "sněhule severní"
+        "name": "Sněhule severní"
+      },
+      {
+        "lang": "csb",
+        "name": "Zwëczajnô sniegùlka"
       },
       {
         "lang": "cy",
@@ -44,7 +52,7 @@
       },
       {
         "lang": "el",
-        "name": "Χιονοτσίχλονο"
+        "name": "Χιονοτσίχλον"
       },
       {
         "lang": "en",
@@ -67,8 +75,12 @@
         "name": "Elur-berdantza"
       },
       {
+        "lang": "fa",
+        "name": "زردپره برفی"
+      },
+      {
         "lang": "fi",
-        "name": "pulmunen"
+        "name": "Pulmunen"
       },
       {
         "lang": "fo",
@@ -87,8 +99,16 @@
         "name": "Sniefink"
       },
       {
+        "lang": "ga",
+        "name": "Gealóg sneachta"
+      },
+      {
         "lang": "gl",
         "name": "Escribenta das neves"
+      },
+      {
+        "lang": "he",
+        "name": "גיבתון השלג"
       },
       {
         "lang": "hu",
@@ -108,10 +128,7 @@
       },
       {
         "lang": "ja",
-        "name": "ユキホオジロ",
-        "synonyms": [
-          "yukihoojiro"
-        ]
+        "name": "ユキホオジロ"
       },
       {
         "lang": "kbd",
@@ -123,19 +140,23 @@
       },
       {
         "lang": "ku",
-        "name": "Çivîka berfê"
-      },
-      {
-        "lang": "lv",
-        "name": "Sniedze"
+        "name": "Çirçiroka berfê"
       },
       {
         "lang": "lt",
         "name": "Sniegstartė"
       },
       {
+        "lang": "lv",
+        "name": "Sniedze"
+      },
+      {
         "lang": "mn",
         "name": "Туйлын цасчхөмрөг"
+      },
+      {
+        "lang": "mrj",
+        "name": "Поран кек"
       },
       {
         "lang": "nl",
@@ -148,6 +169,10 @@
       {
         "lang": "no",
         "name": "Snøspurv"
+      },
+      {
+        "lang": "olo",
+        "name": "Punaine"
       },
       {
         "lang": "pl",
@@ -171,14 +196,11 @@
       },
       {
         "lang": "sk",
-        "name": "snehuľka severská"
+        "name": "Snehuľka severská"
       },
       {
         "lang": "sr",
-        "name": "Снежна стрнадица",
-        "synonyms": [
-          "Snežna strnadica"
-        ]
+        "name": "Снежна стрнадица - Snežna strnadica"
       },
       {
         "lang": "sv",
@@ -187,6 +209,18 @@
       {
         "lang": "tr",
         "name": "Kar kiraz kuşu"
+      },
+      {
+        "lang": "tt",
+        "name": "Акбаш чыпчык"
+      },
+      {
+        "lang": "uk",
+        "name": "Пуночка"
+      },
+      {
+        "lang": "wuu",
+        "name": "雪鹀"
       },
       {
         "lang": "zh",

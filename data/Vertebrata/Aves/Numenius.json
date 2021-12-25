@@ -3,12 +3,76 @@
     "scientific_name": "Numenius tenuirostris",
     "common_names": [
       {
+        "lang": "az",
+        "name": "Kiçik əyridimdik"
+      },
+      {
+        "lang": "ba",
+        "name": "Яр көйөлдөһө"
+      },
+      {
+        "lang": "bg",
+        "name": "Тънкоклюн свирец"
+      },
+      {
+        "lang": "br",
+        "name": "Kefeleg beg moan"
+      },
+      {
+        "lang": "ca",
+        "name": "Polit becfí"
+      },
+      {
         "lang": "cs",
         "name": "Koliha tenkozobá"
       },
       {
+        "lang": "cy",
+        "name": "Gylfinir pigfain"
+      },
+      {
+        "lang": "da",
+        "name": "Tyndnæbbet Spove"
+      },
+      {
+        "lang": "de",
+        "name": "Dünnschnabel-Brachvogel"
+      },
+      {
+        "lang": "el",
+        "name": "Λεπτομύτα"
+      },
+      {
         "lang": "en",
         "name": "Slender-billed Curlew"
+      },
+      {
+        "lang": "eo",
+        "name": "Maldikbeka kurlo"
+      },
+      {
+        "lang": "es",
+        "name": "Zarapito fino"
+      },
+      {
+        "lang": "eu",
+        "name": "Kurlinta mokomehe"
+      },
+      {
+        "lang": "fa",
+        "name": "گیلان‌شاه خال‌دار"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaitanokkakuovi"
+      },
+      {
+        "lang": "fr",
+        "name": "Courlis à bec grêle"
+      },
+      {
+        "lang": "hu",
+        "name": "Vékonycsőrű póling"
       },
       {
         "lang": "it",
@@ -19,24 +83,64 @@
         "name": "シロハラチュウシャクシギ"
       },
       {
+        "lang": "kk",
+        "name": "Сүйір тұмсықты шалшықшы"
+      },
+      {
+        "lang": "ko",
+        "name": "흰배중부리도요"
+      },
+      {
+        "lang": "ky",
+        "name": "Ичке тумшуктуу төөчулдук"
+      },
+      {
         "lang": "lv",
         "name": "Tievknābja kuitala"
       },
       {
+        "lang": "mk",
+        "name": "Тенкоклуна српоклуна шлука"
+      },
+      {
+        "lang": "nl",
+        "name": "Dunbekwulp"
+      },
+      {
+        "lang": "nn",
+        "name": "Smalnebbspove"
+      },
+      {
         "lang": "pl",
-        "name": "kulik cienkodzioby"
+        "name": "Kulik cienkodzioby"
+      },
+      {
+        "lang": "pt",
+        "name": "Maçarico-de-bico-fino"
       },
       {
         "lang": "ru",
         "name": "Тонкоклювый кроншнеп"
       },
       {
+        "lang": "sv",
+        "name": "Smalnäbbad spov"
+      },
+      {
+        "lang": "sk",
+        "name": "Hvizdák tenkozobý"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük kervan çulluğu"
+      },
+      {
         "lang": "uk",
         "name": "Кроншнеп тонкодзьобий"
       },
       {
-        "lang": "sv",
-        "name": "Smalnäbbad spov"
+        "lang": "zh",
+        "name": "細嘴杓鷸"
       }
     ]
   },
@@ -50,6 +154,10 @@
       {
         "lang": "en",
         "name": "Bristle-thighed Curlew"
+      },
+      {
+        "lang": "eo",
+        "name": "Alaska kurlo"
       },
       {
         "lang": "fr",
@@ -138,7 +246,7 @@
       },
       {
         "lang": "en",
-        "name": "Whimbrel"
+        "name": "Eurasian Whimbrel"
       },
       {
         "lang": "eo",
@@ -238,7 +346,7 @@
       },
       {
         "lang": "kjn",
-        "name": "Орта көгiлбей"
+        "name": "Орта көгілбей"
       },
       {
         "lang": "kk",
@@ -386,6 +494,10 @@
         "name": "Little Curlew"
       },
       {
+        "lang": "eo",
+        "name": "Pigmea kurlo"
+      },
+      {
         "lang": "fi",
         "name": "Taigakuovi"
       },
@@ -407,12 +519,40 @@
     "scientific_name": "Numenius madagascariensis",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Kefeleg ar reter"
+      },
+      {
+        "lang": "ca",
+        "name": "Becut siberià"
+      },
+      {
         "lang": "cs",
         "name": "Koliha východní"
       },
       {
+        "lang": "cy",
+        "name": "Gylfinir y Dwyrain"
+      },
+      {
         "lang": "en",
         "name": "Far Eastern Curlew"
+      },
+      {
+        "lang": "eo",
+        "name": "Orienta kurlo"
+      },
+      {
+        "lang": "fa",
+        "name": "گیلان‌شاه شرقی"
+      },
+      {
+        "lang": "fi",
+        "name": "Ohotankuovi"
+      },
+      {
+        "lang": "fr",
+        "name": "Courlis de Sibérie"
       },
       {
         "lang": "ja",
@@ -423,8 +563,77 @@
         "name": "알락꼬리마도요"
       },
       {
+        "lang": "mn",
+        "name": "Мадагаскар тутгалжин"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kedidi Timor"
+      },
+      {
+        "lang": "nl",
+        "name": "Siberische wulp"
+      },
+      {
+        "lang": "nn",
+        "name": "Austspove"
+      },
+      {
+        "lang": "nv",
+        "name": "Chʼah Diʼilii Bikéyahdę́ę́ʼ daakʼį́į́ʼ"
+      },
+      {
+        "lang": "pl",
+        "name": "Kulik syberyjski"
+      },
+      {
+        "lang": "pnb",
+        "name": "چڑدا کرلیو"
+      },
+      {
+        "lang": "ru",
+        "name": "Дальневосточный кроншнеп"
+      },
+      {
+        "lang": "sah",
+        "name": "Дьиэрэҥ"
+      },
+      {
         "lang": "sv",
         "name": "Orientspov"
+      },
+      {
+        "lang": "zh",
+        "name": "大杓鹬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Numenius hudsonicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hudsonian Whimbrel"
+      },
+      {
+        "lang": "eo",
+        "name": "Hudsona kurlo"
+      },
+      {
+        "lang": "es",
+        "name": "Zarapito de Hudson"
+      },
+      {
+        "lang": "fr",
+        "name": "Courlis hudsonien"
+      },
+      {
+        "lang": "ja",
+        "name": "チュウシャクシギ"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-de-bico-torto"
       }
     ]
   },
@@ -441,7 +650,7 @@
       },
       {
         "lang": "eo",
-        "name": "Malgranda numenio"
+        "name": "Eskima kurlo"
       },
       {
         "lang": "fi",
@@ -456,12 +665,16 @@
         "name": "エスキモーコシャクシギ"
       },
       {
+        "lang": "nl",
+        "name": "Eskimowulp"
+      },
+      {
         "lang": "pt",
         "name": "Maçarico-esquimó"
       },
       {
         "lang": "sv",
-        "name": "Eskimåspov"
+        "name": "eskimåspov"
       }
     ]
   },
@@ -650,11 +863,11 @@
       },
       {
         "lang": "kjh",
-        "name": "Көгiлбей"
+        "name": "Көгілбей"
       },
       {
         "lang": "kjn",
-        "name": "Көгiлбей"
+        "name": "Көгілбей"
       },
       {
         "lang": "kk",

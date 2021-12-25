@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Batrachostomus chaseni",
+    "common_names": []
+  },
+  {
     "scientific_name": "Batrachostomus stellatus",
     "common_names": [
       {
@@ -63,6 +67,10 @@
     "common_names": []
   },
   {
+    "scientific_name": "Batrachostomus mixtus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Batrachostomus javensis",
     "common_names": [
       {
@@ -120,6 +128,15 @@
       {
         "lang": "es",
         "name": "Podargo orejudo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Batrachostomus affinis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blyth's Frogmouth"
       }
     ]
   }

@@ -3,6 +3,10 @@
     "scientific_name": "Arborophila torqueola",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Koroptev rudohlavá"
+      },
+      {
         "lang": "en",
         "name": "Hill Partridge"
       },
@@ -31,6 +35,10 @@
         "name": "Gewone bospatrijs"
       },
       {
+        "lang": "sk",
+        "name": "Kurička himalájska"
+      },
+      {
         "lang": "sv",
         "name": "Brunkronad sånghöna"
       },
@@ -41,6 +49,10 @@
       {
         "lang": "zh",
         "name": "环颈山鹧鸪"
+      },
+      {
+        "lang": "pt",
+        "name": "Perdiz-montesa-mascarada"
       }
     ]
   },
@@ -57,8 +69,16 @@
     "scientific_name": "Arborophila rufogularis",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Koroptev oranžovohrdlá"
+      },
+      {
         "lang": "en",
         "name": "Rufous-throated Partridge"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička hrdzavokrká"
       }
     ]
   },
@@ -68,12 +88,64 @@
       {
         "lang": "en",
         "name": "Sichuan Partridge"
+      },
+      {
+        "lang": "ar",
+        "name": "حجل سيتشوان"
+      },
+      {
+        "lang": "ca",
+        "name": "Perdiu boscana de Sichuan"
+      },
+      {
+        "lang": "cs",
+        "name": "Koroptev hnědoprsá"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen fynydd Boulton"
+      },
+      {
+        "lang": "eo",
+        "name": "Rufabrusta perdriko"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک سیچوان"
+      },
+      {
+        "lang": "fr",
+        "name": "Torquéole de Boulton"
+      },
+      {
+        "lang": "nl",
+        "name": "Boultons bospatrijs"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička hnedoprsá"
+      },
+      {
+        "lang": "sv",
+        "name": "sichuansånghöna"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà so Tứ Xuyên"
+      },
+      {
+        "lang": "zh",
+        "name": "四川山鹧鸪"
       }
     ]
   },
   {
     "scientific_name": "Arborophila rubrirostris",
     "common_names": [
+      {
+        "lang": "cs",
+        "name": "Koroptev červenozobá"
+      },
       {
         "lang": "en",
         "name": "Red-billed Partridge"
@@ -89,6 +161,10 @@
       {
         "lang": "nl",
         "name": "Roodsnavelbospatrijs"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička červenozobá"
       },
       {
         "lang": "sv",
@@ -109,7 +185,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "koroptev sumaterská"
+        "name": "Koroptev sumaterská"
       },
       {
         "lang": "da",
@@ -134,11 +210,11 @@
       },
       {
         "lang": "et",
-        "name": "mustkiird-künkakana"
+        "name": "Mustkiird-KüNkakana"
       },
       {
-        "lang": "fi",
-        "name": "vuoriviidakkopyy"
+        "lang": "Fi",
+        "name": "Vuoriviidakkopyy"
       },
       {
         "lang": "fr",
@@ -146,7 +222,7 @@
       },
       {
         "lang": "hu",
-        "name": "fehérarcú hegyifogoly"
+        "name": "Fehérarcú hegyifogoly"
       },
       {
         "lang": "id",
@@ -173,7 +249,7 @@
       },
       {
         "lang": "pl",
-        "name": "pstropiór białouchy"
+        "name": "Pstropiór białouchy"
       },
       {
         "lang": "pt",
@@ -185,7 +261,7 @@
       },
       {
         "lang": "sk",
-        "name": "kurička jávska"
+        "name": "Kurička jávska"
       },
       {
         "lang": "sv",
@@ -204,6 +280,10 @@
   {
     "scientific_name": "Arborophila merlini",
     "common_names": [
+      {
+        "lang": "cs",
+        "name": "Koroptev žlutonohá"
+      },
       {
         "lang": "en",
         "name": "Annam Hill-partridge",
@@ -235,12 +315,80 @@
       {
         "lang": "en",
         "name": "Chestnut-breasted Partridge"
+      },
+      {
+        "lang": "ar",
+        "name": "حجل كستنائي الصدر"
+      },
+      {
+        "lang": "ca",
+        "name": "Perdiu boscana pit-roja"
+      },
+      {
+        "lang": "cs",
+        "name": "Koroptev kaštanovoprsá"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen fynydd frongoch"
+      },
+      {
+        "lang": "eo",
+        "name": "Brunbrusta perdriko"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک سینه‌بلوطی"
+      },
+      {
+        "lang": "fi",
+        "name": "Punarintapyy"
+      },
+      {
+        "lang": "fr",
+        "name": "Torquéole de Mandelli"
+      },
+      {
+        "lang": "hi",
+        "name": "भूरी छाती वाला तीतर"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodborstbospatrijs"
+      },
+      {
+        "lang": "nv",
+        "name": "Naaʼahóóhaiłbáhí bitéél halchíʼí"
+      },
+      {
+        "lang": "pnb",
+        "name": "پعاڑی تتر"
+      },
+      {
+        "lang": "ru",
+        "name": "Красногрудая кустарниковая куропатка"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička hrdzavohrdlá"
+      },
+      {
+        "lang": "sv",
+        "name": "sikkimsånghöna"
+      },
+      {
+        "lang": "zh",
+        "name": "红胸山鹧鸪"
       }
     ]
   },
   {
     "scientific_name": "Arborophila javanica",
     "common_names": [
+      {
+        "lang": "cs",
+        "name": "Koroptev jávská"
+      },
       {
         "lang": "en",
         "name": "Chestnut-bellied Partridge"
@@ -266,6 +414,10 @@
         "name": "Javaanse bospatrijs"
       },
       {
+        "lang": "sk",
+        "name": "Kurička hnedobruchá"
+      },
+      {
         "lang": "sv",
         "name": "Javasånghöna"
       },
@@ -278,6 +430,10 @@
   {
     "scientific_name": "Arborophila hyperythra",
     "common_names": [
+      {
+        "lang": "cs",
+        "name": "Koroptev bornejská"
+      },
       {
         "lang": "en",
         "name": "Red-breasted Partridge"
@@ -299,6 +455,10 @@
         "name": "Borneo-bospatrijs"
       },
       {
+        "lang": "sk",
+        "name": "Kurička tmavoboká"
+      },
+      {
         "lang": "sv",
         "name": "Borneosånghöna"
       },
@@ -312,8 +472,16 @@
     "scientific_name": "Arborophila gingica",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Koroptev límcová"
+      },
+      {
         "lang": "en",
         "name": "White-necklaced Partridge"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička bieločelá"
       }
     ]
   },
@@ -325,12 +493,20 @@
     "scientific_name": "Arborophila davidi",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Koroptev Davidova"
+      },
+      {
         "lang": "en",
         "name": "Orange-necked Partridge"
       },
       {
         "lang": "es",
         "name": "Arborófila de David"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička Davidova"
       }
     ]
   },
@@ -338,8 +514,16 @@
     "scientific_name": "Arborophila crudigularis",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Koroptev tchaiwanská"
+      },
+      {
         "lang": "en",
         "name": "Taiwan Partridge"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička bielobradá"
       }
     ]
   },
@@ -347,8 +531,16 @@
     "scientific_name": "Arborophila chloropus",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Koroptev zelenonohá"
+      },
+      {
         "lang": "en",
         "name": "Scaly-breasted Partridge"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička zelenonohá"
       }
     ]
   },
@@ -358,6 +550,10 @@
       {
         "lang": "bg",
         "name": "Кестенявогърда горска яребица"
+      },
+      {
+        "lang": "cs",
+        "name": "Koroptev malajská"
       },
       {
         "lang": "en",
@@ -388,6 +584,10 @@
         "name": "Charltons bospatrijs"
       },
       {
+        "lang": "sk",
+        "name": "Kurička goliernatá"
+      },
+      {
         "lang": "sv",
         "name": "Charltonsånghöna"
       },
@@ -409,8 +609,16 @@
     "scientific_name": "Arborophila cambodiana",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Koroptev rezavohlavá"
+      },
+      {
         "lang": "en",
         "name": "Chestnut-headed Partridge"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička tmavochrbtá"
       }
     ]
   },
@@ -418,8 +626,16 @@
     "scientific_name": "Arborophila brunneopectus",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Koroptev pruhokřídlá"
+      },
+      {
         "lang": "en",
         "name": "Bar-backed Partridge"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička plavá"
       }
     ]
   },
@@ -427,8 +643,88 @@
     "scientific_name": "Arborophila atrogularis",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حجل أبيض الخدين"
+      },
+      {
+        "lang": "bn",
+        "name": "সাদাচিবুক তিতির"
+      },
+      {
+        "lang": "ca",
+        "name": "Perdiu boscana galtablanca"
+      },
+      {
+        "lang": "cs",
+        "name": "Koroptev bělolící"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen fynydd fochwen"
+      },
+      {
+        "lang": "da",
+        "name": "Burmaskovhøne"
+      },
+      {
+        "lang": "de",
+        "name": "Weißwangen-Buschwachtel"
+      },
+      {
         "lang": "en",
         "name": "White-cheeked Partridge"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigragorĝa perdriko"
+      },
+      {
+        "lang": "es",
+        "name": "Arborófila cariblanca"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک گونه‌سفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Torquéole à joues blanches"
+      },
+      {
+        "lang": "hi",
+        "name": "सफ़ेद गाल वाला तीतर"
+      },
+      {
+        "lang": "it",
+        "name": "Pernice guancebianche"
+      },
+      {
+        "lang": "my",
+        "name": "ပါးဖြူတောင်ခါ"
+      },
+      {
+        "lang": "nl",
+        "name": "Witwangbospatrijs"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹے چیک آلا تتر"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička bielolíca"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitkindad sånghöna"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà so má trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "白颊山鹧鸪"
       }
     ]
   },
@@ -436,8 +732,56 @@
     "scientific_name": "Arborophila ardens",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Perdiu boscana de Hainan"
+      },
+      {
+        "lang": "cs",
+        "name": "Koroptev hainanská"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen fynydd Hainan"
+      },
+      {
         "lang": "en",
         "name": "Hainan Partridge"
+      },
+      {
+        "lang": "eo",
+        "name": "Hajnana perdriko"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک هاینان"
+      },
+      {
+        "lang": "fr",
+        "name": "Torquéole de Hainan"
+      },
+      {
+        "lang": "nl",
+        "name": "Hainanbospatrijs"
+      },
+      {
+        "lang": "ru",
+        "name": "Хайнаньская кустарниковая куропатка"
+      },
+      {
+        "lang": "sk",
+        "name": "Kurička hainanská"
+      },
+      {
+        "lang": "sv",
+        "name": "hainansånghöna"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà so Hải Nam"
+      },
+      {
+        "lang": "zh",
+        "name": "海南山鹧鸪"
       }
     ]
   }

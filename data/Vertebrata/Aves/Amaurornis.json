@@ -17,45 +17,11 @@
     ]
   },
   {
-    "scientific_name": "Amaurornis olivieri",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Sakalava Rail"
-      },
-      {
-        "lang": "fi",
-        "name": "Madagaskarinhuitti"
-      },
-      {
-        "lang": "es",
-        "name": "Polluela negra malgache"
-      }
-    ]
+    "scientific_name": "Amaurornis olivacea",
+    "common_names": []
   },
   {
-    "scientific_name": "Amaurornis olivaceus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Bush-hen"
-      },
-      {
-        "lang": "es",
-        "name": "Gallineta filipina"
-      },
-      {
-        "lang": "fi",
-        "name": "Naukusuokana"
-      },
-      {
-        "lang": "nl",
-        "name": "Olijfbruin waterhoen"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Amaurornis moluccanus",
+    "scientific_name": "Amaurornis moluccana",
     "common_names": []
   },
   {
@@ -68,11 +34,39 @@
       {
         "lang": "es",
         "name": "Gallineta de las Talaud"
+      },
+      {
+        "lang": "ca",
+        "name": "Polla becgrossa"
+      },
+      {
+        "lang": "de",
+        "name": "Karakelongkielralle"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle à gros bec"
+      },
+      {
+        "lang": "id",
+        "name": "Kareo talaud"
+      },
+      {
+        "lang": "nl",
+        "name": "Talaudwaterhoen"
+      },
+      {
+        "lang": "pl",
+        "name": "Bagiewnik ciemnobrzuchy"
+      },
+      {
+        "lang": "sv",
+        "name": "talaudsumphöna"
       }
     ]
   },
   {
-    "scientific_name": "Amaurornis isabellinus",
+    "scientific_name": "Amaurornis isabellina",
     "common_names": [
       {
         "lang": "en",
@@ -86,163 +80,10 @@
   },
   {
     "scientific_name": "Amaurornis flavirostra",
-    "common_names": [
-      {
-        "lang": "af",
-        "name": "Swartriethaan"
-      },
-      {
-        "lang": "cs",
-        "name": "chřástal žlutozobý"
-      },
-      {
-        "lang": "da",
-        "name": "Sort Rørvagtel"
-      },
-      {
-        "lang": "de",
-        "name": "Mohrensumpfhuhn"
-      },
-      {
-        "lang": "en",
-        "name": "Black Crake"
-      },
-      {
-        "lang": "es",
-        "name": "Polluela Negra Africana"
-      },
-      {
-        "lang": "et",
-        "name": "musthuik"
-      },
-      {
-        "lang": "fi",
-        "name": "mustahuitti"
-      },
-      {
-        "lang": "fr",
-        "name": "Râle à bec jaune"
-      },
-      {
-        "lang": "hu",
-        "name": "mór vízicsibe"
-      },
-      {
-        "lang": "is",
-        "name": "Sótrella"
-      },
-      {
-        "lang": "it",
-        "name": "Schiribilla nera africana"
-      },
-      {
-        "lang": "ja",
-        "name": "アフリカクロクイナ",
-        "synonyms": [
-          "afurikakurokuina"
-        ]
-      },
-      {
-        "lang": "kwn",
-        "name": "Katukutuku"
-      },
-      {
-        "lang": "la",
-        "name": "Amaurornis flavirostra",
-        "synonyms": [
-          "Zapornia flavirostra"
-        ]
-      },
-      {
-        "lang": "lt",
-        "name": "Afrikinė juodvištė"
-      },
-      {
-        "lang": "nl",
-        "name": "Zwart Porseleinhoen"
-      },
-      {
-        "lang": "no",
-        "name": "Svartrikse"
-      },
-      {
-        "lang": "pl",
-        "name": "kureczka czarna"
-      },
-      {
-        "lang": "pt",
-        "name": "Franga-d'água-preta"
-      },
-      {
-        "lang": "ru",
-        "name": "Африканский чёрный пастушок"
-      },
-      {
-        "lang": "sk",
-        "name": "chriašť mníšsky"
-      },
-      {
-        "lang": "sl",
-        "name": "vranja tukalica"
-      },
-      {
-        "lang": "sn",
-        "name": "Nhapata"
-      },
-      {
-        "lang": "sv",
-        "name": "Korprall"
-      },
-      {
-        "lang": "sw",
-        "name": "Kiluwiri Mweusi"
-      },
-      {
-        "lang": "tr",
-        "name": "Kara Suyelvesi"
-      },
-      {
-        "lang": "ts",
-        "name": "Hukunambu"
-      },
-      {
-        "lang": "zh",
-        "name": "黑苦恶鸟"
-      },
-      {
-        "lang": "zu",
-        "name": "umJekejeke"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Amaurornis bicolor",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Black-tailed Crake"
-      },
-      {
-        "lang": "es",
-        "name": "Polluela bicolor"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Amaurornis akool",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Brown Crake"
-      },
-      {
-        "lang": "es",
-        "name": "Gallineta akool"
-      },
-      {
-        "lang": "fi",
-        "name": "Ruskosuokana"
-      }
-    ]
+    "common_names": []
   }
 ]

@@ -12,7 +12,7 @@
       },
       {
         "lang": "es",
-        "name": "Cardenilla enmasquerada"
+        "name": "Cardenilla enmascarada"
       },
       {
         "lang": "fr",
@@ -32,16 +32,48 @@
     "scientific_name": "Paroaria gularis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit cardenal d'ulleres"
+      },
+      {
+        "lang": "cy",
+        "name": "Cardinal pengoch"
+      },
+      {
+        "lang": "da",
+        "name": "Brunstrubet Kardinal"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkehltangare"
+      },
+      {
         "lang": "en",
         "name": "Red-capped Cardinal"
       },
       {
         "lang": "es",
-        "name": "Cardenal bandera alemana"
+        "name": "Cardenilla capirroja"
+      },
+      {
+        "lang": "fi",
+        "name": "Savannikardinaali"
       },
       {
         "lang": "fr",
         "name": "Paroare rougecap"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörössapkás kardinális"
+      },
+      {
+        "lang": "it",
+        "name": "Cardinale capirosso"
+      },
+      {
+        "lang": "ja",
+        "name": "ノドグロコウカンチョウ"
       },
       {
         "lang": "nl",
@@ -58,6 +90,10 @@
       {
         "lang": "pt",
         "name": "Cardeal-da-amazônia"
+      },
+      {
+        "lang": "ru",
+        "name": "Черногорлая кардиналовая овсянка"
       },
       {
         "lang": "sv",
@@ -78,7 +114,7 @@
       },
       {
         "lang": "es",
-        "name": "Cardenal de Capucha Roja"
+        "name": "Cardenilla dominica"
       },
       {
         "lang": "fr",
@@ -130,7 +166,7 @@
       },
       {
         "lang": "es",
-        "name": "Cardenilla crestada"
+        "name": "Cardenilla crestada; cardenal"
       },
       {
         "lang": "fr",
@@ -166,7 +202,11 @@
       },
       {
         "lang": "pt",
-        "name": "Cardeal-de-topete-vermelho"
+        "name": "Cardeal-do-sul"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Cardeal"
       },
       {
         "lang": "ru",
@@ -174,7 +214,7 @@
       },
       {
         "lang": "sv",
-        "name": "Rödtofsad kardinaltangara"
+        "name": "rödtofsad kardinaltangara"
       },
       {
         "lang": "zh",
@@ -203,7 +243,7 @@
       },
       {
         "lang": "es",
-        "name": "Cardenilla"
+        "name": "Cardenilla piquigualda"
       },
       {
         "lang": "fa",
@@ -234,8 +274,16 @@
         "name": "Gulnebbkardinal"
       },
       {
+        "lang": "pl",
+        "name": "Kardynałek żółtodzioby"
+      },
+      {
         "lang": "pt",
         "name": "Cardeal-do-pantanal"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Cavalaria"
       },
       {
         "lang": "sv",

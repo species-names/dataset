@@ -8,7 +8,7 @@
       },
       {
         "lang": "ar",
-        "name": "نورس أسود القدم"
+        "name": "نورس أسود الساق"
       },
       {
         "lang": "ast",
@@ -16,11 +16,15 @@
       },
       {
         "lang": "be",
-        "name": "Трохпалая чайка"
+        "name": "Чайка трохпальцая"
       },
       {
         "lang": "bg",
         "name": "Трипръста чайка"
+      },
+      {
+        "lang": "bn",
+        "name": "কালো–পা কিডিওয়েক"
       },
       {
         "lang": "br",
@@ -40,7 +44,7 @@
       },
       {
         "lang": "cy",
-        "name": "Gwylan Goesddu"
+        "name": "Gwylan goesddu"
       },
       {
         "lang": "da",
@@ -73,6 +77,10 @@
       {
         "lang": "eu",
         "name": "Antxeta hankabeltz"
+      },
+      {
+        "lang": "fa",
+        "name": "کاکایی صخره‌نشین پاسیاه"
       },
       {
         "lang": "fi",
@@ -112,7 +120,7 @@
       },
       {
         "lang": "he",
-        "name": "ריסה"
+        "name": "ריסה שחורת-רגל"
       },
       {
         "lang": "hr",
@@ -136,10 +144,7 @@
       },
       {
         "lang": "iu",
-        "name": "Nowyavah",
-        "synonyms": [
-          "Taateraaq"
-        ]
+        "name": "Nowyavah"
       },
       {
         "lang": "ja",
@@ -151,10 +156,7 @@
       },
       {
         "lang": "kl",
-        "name": "Nowyavah",
-        "synonyms": [
-          "Taateraaq"
-        ]
+        "name": "Nowyavah"
       },
       {
         "lang": "ko",
@@ -177,15 +179,20 @@
         "name": "Тропски галеб"
       },
       {
+        "lang": "ml",
+        "name": "കിറ്റിവേക്ക് കടൽകാക്ക"
+      },
+      {
         "lang": "mn",
-        "name": "Гурванхуруут захлай",
-        "synonyms": [
-          "ᠭᠣᠷᠪᠠᠨ ᠬᠣᠷᠣᠭᠣᠲᠣ ᠵᠠᠬᠠᠯᠠᠢ"
-        ]
+        "name": "Гурванхуруут захлай - ᠭᠣᠷᠪᠠᠨ ᠬᠣᠷᠣᠭᠣᠲᠣ ᠵᠠᠬᠠᠯᠠᠢ"
       },
       {
         "lang": "mt",
         "name": "Gawwija ta' l-Ingilterra"
+      },
+      {
+        "lang": "nds",
+        "name": "Dreetöhnmöwe"
       },
       {
         "lang": "nl",
@@ -198,6 +205,10 @@
       {
         "lang": "no",
         "name": "Krykkje"
+      },
+      {
+        "lang": "nv",
+        "name": "Tónteel tsídii bijáád łizhinígíí"
       },
       {
         "lang": "pl",
@@ -241,10 +252,7 @@
       },
       {
         "lang": "sr",
-        "name": "Troprsti galeb",
-        "synonyms": [
-          "Тропрсти галеб"
-        ]
+        "name": "Troprsti galeb - Тропрсти галеб"
       },
       {
         "lang": "sv",
@@ -252,10 +260,7 @@
       },
       {
         "lang": "th",
-        "name": "นกคิตติเวกขาดำ",
-        "synonyms": [
-          "นกคิตติเวคขาดำ"
-        ]
+        "name": "นกคิตติเวกขาดำ"
       },
       {
         "lang": "tr",
@@ -267,7 +272,7 @@
       },
       {
         "lang": "uk",
-        "name": "Трипалий мартин"
+        "name": "Мартин трипалий"
       },
       {
         "lang": "zh",
@@ -278,18 +283,6 @@
   {
     "scientific_name": "Rissa brevirostris",
     "common_names": [
-      {
-        "lang": "cs",
-        "name": "Racek krátkozobý"
-      },
-      {
-        "lang": "en",
-        "name": "Red-legged Kittiwake"
-      },
-      {
-        "lang": "ja",
-        "name": "アカアシミツユビカモメ"
-      },
       {
         "lang": "ar",
         "name": "نورس أحمر الساق"
@@ -303,12 +296,28 @@
         "name": "Gavineta beccurta"
       },
       {
+        "lang": "cs",
+        "name": "Racek krátkozobý"
+      },
+      {
         "lang": "cy",
         "name": "Gwylan goesgoch"
       },
       {
         "lang": "de",
         "name": "Klippenmöwe"
+      },
+      {
+        "lang": "en",
+        "name": "Red-legged Kittiwake"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝkrura mevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota piquicorta"
       },
       {
         "lang": "fa",
@@ -331,6 +340,14 @@
         "name": "ריסה אדומת-רגל"
       },
       {
+        "lang": "it",
+        "name": "Gabbiano tridattilo zamperosse"
+      },
+      {
+        "lang": "ja",
+        "name": "アカアシミツユビカモメ"
+      },
+      {
         "lang": "ky",
         "name": "Кызыл бут бабыр"
       },
@@ -343,6 +360,10 @@
         "name": "Rødfotkrykkje"
       },
       {
+        "lang": "nv",
+        "name": "Tónteel tsídii bijáád łichíʼígíí"
+      },
+      {
         "lang": "pl",
         "name": "Mewa krótkodzioba"
       },
@@ -352,7 +373,11 @@
       },
       {
         "lang": "sv",
-        "name": "beringmås"
+        "name": "Beringmås"
+      },
+      {
+        "lang": "uk",
+        "name": "Мартин червононогий"
       }
     ]
   }

@@ -1,6 +1,82 @@
 [
   {
+    "scientific_name": "Idiopsar speculifer",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Spiegelammer"
+      },
+      {
+        "lang": "en",
+        "name": "White-winged Diuca Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Diuca aliblanca"
+      },
+      {
+        "lang": "fr",
+        "name": "Diuca leucoptère"
+      },
+      {
+        "lang": "it",
+        "name": "Diuca alibianche"
+      },
+      {
+        "lang": "ja",
+        "name": "ハジロジュウカチョウ"
+      },
+      {
+        "lang": "ru",
+        "name": "Чилийский белокрылый вьюрок"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitvingad diukafink"
+      },
+      {
+        "lang": "tr",
+        "name": "Buzulkuşu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Idiopsar erythronotus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Sierra-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Yal gorjiblanco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Idiopsar dorsalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-backed sierra finch"
+      },
+      {
+        "lang": "es",
+        "name": "Comesebo puneño; cometocino de dorso castaño; yal dorsirrojo"
+      }
+    ]
+  },
+  {
     "scientific_name": "Idiopsar brachyurus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Short-tailed Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Yal colicorto"
+      }
+    ]
   }
 ]

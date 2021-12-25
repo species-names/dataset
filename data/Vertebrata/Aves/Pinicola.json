@@ -3,8 +3,16 @@
     "scientific_name": "Pinicola enucleator",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "خداش مبذول"
+      },
+      {
         "lang": "be",
         "name": "Шчурок"
+      },
+      {
+        "lang": "bg",
+        "name": "Обикновена тъпочовка"
       },
       {
         "lang": "br",
@@ -16,7 +24,11 @@
       },
       {
         "lang": "cs",
-        "name": "hýl křivčí"
+        "name": "Hýl křivčí"
+      },
+      {
+        "lang": "cy",
+        "name": "Tewbig pinwydd"
       },
       {
         "lang": "da",
@@ -43,8 +55,16 @@
         "name": "Männileevike"
       },
       {
+        "lang": "eu",
+        "name": "Pinu-gailupa"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌پهن کاج‌نشین"
+      },
+      {
         "lang": "fi",
-        "name": "taviokuurna"
+        "name": "Taviokuurna"
       },
       {
         "lang": "fr",
@@ -68,14 +88,19 @@
       },
       {
         "lang": "ja",
-        "name": "ギンザンマシコ",
-        "synonyms": [
-          "ginzammashiko"
-        ]
+        "name": "ギンザンマシコ"
+      },
+      {
+        "lang": "kk",
+        "name": "Орманқунақ"
       },
       {
         "lang": "lt",
         "name": "Pušinė sniegena"
+      },
+      {
+        "lang": "lv",
+        "name": "Ziemeļu svilpis"
       },
       {
         "lang": "mn",
@@ -103,10 +128,7 @@
       },
       {
         "lang": "ru",
-        "name": "Обыкновенный щур",
-        "synonyms": [
-          "Щур"
-        ]
+        "name": "Обыкновенный щур"
       },
       {
         "lang": "sah",
@@ -118,7 +140,11 @@
       },
       {
         "lang": "sk",
-        "name": "smrečiar krivonosí"
+        "name": "Smrečiar krivonosí"
+      },
+      {
+        "lang": "sl",
+        "name": "Smrekov kalin"
       },
       {
         "lang": "sv",
@@ -127,6 +153,10 @@
       {
         "lang": "tr",
         "name": "Tayga çütresi"
+      },
+      {
+        "lang": "uk",
+        "name": "Смеречнюк"
       },
       {
         "lang": "zh",

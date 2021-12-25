@@ -1,11 +1,23 @@
 [
   {
-    "scientific_name": "Podilymbus podiceps podiceps",
+    "scientific_name": "Podilymbus podiceps magnus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Podilymbus magnus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Podilymbus wetmorei",
     "common_names": []
   },
   {
     "scientific_name": "Podilymbus podiceps",
     "common_names": [
+      {
+        "lang": "bg",
+        "name": "Пъстроклюн гмурец"
+      },
       {
         "lang": "br",
         "name": "Plomer beg tev"
@@ -16,7 +28,7 @@
       },
       {
         "lang": "cs",
-        "name": "potápka americká"
+        "name": "Potápka americká"
       },
       {
         "lang": "cy",
@@ -35,26 +47,28 @@
         "name": "Pied-billed Grebe"
       },
       {
+        "lang": "eo",
+        "name": "Makulbeka grebo"
+      },
+      {
         "lang": "es",
-        "name": "Zampullín Picogrueso",
-        "synonyms": [
-          "Macá pico grueso"
-        ]
+        "name": "Zampullín Picogrueso"
       },
       {
         "lang": "et",
-        "name": "vöötnokk-pütt"
+        "name": "Vöötnokk-pütt"
       },
       {
         "lang": "eu",
-        "name": "Cabusset becgròs",
-        "synonyms": [
-          "Txilinporta mokolodi"
-        ]
+        "name": "Txilinporta mokolodi"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم نوک‌ابلق"
       },
       {
         "lang": "fi",
-        "name": "paksunokkauikku"
+        "name": "Paksunokkauikku"
       },
       {
         "lang": "fo",
@@ -62,11 +76,11 @@
       },
       {
         "lang": "fr",
-        "name": "grèbe à bec bigarré"
+        "name": "Grèbe à bec bigarré"
       },
       {
         "lang": "ga",
-        "name": "Foitheach Gob-Alabhreac"
+        "name": "Foitheach Gob-alabhreac"
       },
       {
         "lang": "gcf",
@@ -78,17 +92,15 @@
       },
       {
         "lang": "gn",
-        "name": "Myaka",
-        "synonyms": [
-          "Ype apa"
-        ]
+        "name": "Myaka"
       },
       {
         "lang": "he",
-        "name": "טבלן עקוד-מקור",
-        "synonyms": [
-          "טבלן עקור־מקור"
-        ]
+        "name": "טבלן עקוד-מקור"
+      },
+      {
+        "lang": "hr",
+        "name": "Šarenokljuni gnjurac"
       },
       {
         "lang": "ht",
@@ -96,7 +108,7 @@
       },
       {
         "lang": "hu",
-        "name": "gyűrűscsőrű vöcsök"
+        "name": "Gyűrűscsőrű vöcsök"
       },
       {
         "lang": "is",
@@ -108,10 +120,7 @@
       },
       {
         "lang": "ja",
-        "name": "オビハシカイツブリ",
-        "synonyms": [
-          "obihashikaitsuburi"
-        ]
+        "name": "オビハシカイツブリ"
       },
       {
         "lang": "lt",
@@ -123,11 +132,15 @@
       },
       {
         "lang": "nn",
-        "name": "Ringnebbdykkar"
+        "name": "Ringnebbdukkar"
       },
       {
         "lang": "no",
         "name": "Ringnebbdykker"
+      },
+      {
+        "lang": "nv",
+        "name": "Naalʼeełii keelóól yázhí"
       },
       {
         "lang": "oj",
@@ -135,14 +148,19 @@
       },
       {
         "lang": "pl",
-        "name": "perkoz grubodzioby"
+        "name": "Perkozek grubodzioby"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڈبکھڑبی چنج ڈبکنی"
+      },
+      {
+        "lang": "pt",
+        "name": "Mergulhão-caçador"
       },
       {
         "lang": "pt-br",
-        "name": "Mergulhão-caçador",
-        "synonyms": [
-          "Mergulhão-grande"
-        ]
+        "name": "Mergulhão-caçador"
       },
       {
         "lang": "ru",
@@ -150,18 +168,15 @@
       },
       {
         "lang": "sh",
-        "name": "Šarenokljuni gnjurac",
-        "synonyms": [
-          "шаренокљуни гњурац"
-        ]
+        "name": "Šarenokljuni gnjurac - шаренокљуни гњурац"
       },
       {
         "lang": "sk",
-        "name": "potápka škvrnitozobá"
+        "name": "Potápka škvrnitozobá"
       },
       {
         "lang": "sl",
-        "name": "progastokljuni ponirek"
+        "name": "Progastokljuni ponirek"
       },
       {
         "lang": "sv",
@@ -169,11 +184,11 @@
       },
       {
         "lang": "tr",
-        "name": "kalın gagalı batağan"
+        "name": "Kalın gagalı batağan"
       },
       {
         "lang": "uk",
-        "name": "Мала строкатодзьоба пірникоза"
+        "name": "Пірникоза рябодзьоба"
       },
       {
         "lang": "zh",
@@ -182,20 +197,12 @@
     ]
   },
   {
+    "scientific_name": "Podilymbus majusculus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Podilymbus gigas",
     "common_names": [
-      {
-        "lang": "en",
-        "name": "Atitlán Grebe"
-      },
-      {
-        "lang": "es",
-        "name": "Zampullín del Atlitlán"
-      },
-      {
-        "lang": "sv",
-        "name": "atitlandopping"
-      },
       {
         "lang": "bg",
         "name": "Атитлан"
@@ -217,8 +224,16 @@
         "name": "Atitlántaucher"
       },
       {
+        "lang": "en",
+        "name": "Atitlán Grebe"
+      },
+      {
         "lang": "eo",
         "name": "Atitlana grebo"
+      },
+      {
+        "lang": "es",
+        "name": "Zampullín del Atlitlán"
       },
       {
         "lang": "fa",
@@ -235,6 +250,10 @@
       {
         "lang": "hu",
         "name": "Óriásvöcsök"
+      },
+      {
+        "lang": "ja",
+        "name": "オオオビハシカイツブリ"
       },
       {
         "lang": "nl",
@@ -255,6 +274,10 @@
       {
         "lang": "ru",
         "name": "Атитланская поганка"
+      },
+      {
+        "lang": "sv",
+        "name": "atitlandopping"
       },
       {
         "lang": "zh",

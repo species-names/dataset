@@ -50,8 +50,16 @@
     "scientific_name": "Coturnix japonica",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Japanwachtel"
+      },
+      {
         "lang": "en",
         "name": "Japanese Quail"
+      },
+      {
+        "lang": "es",
+        "name": "Codorniz japonesa"
       },
       {
         "lang": "fr",
@@ -72,6 +80,10 @@
       {
         "lang": "sv",
         "name": "Japansk vaktel"
+      },
+      {
+        "lang": "zh",
+        "name": "日本鵪鶉"
       }
     ]
   },
@@ -197,7 +209,7 @@
       },
       {
         "lang": "eo",
-        "name": "Koturno"
+        "name": "Komuna koturno"
       },
       {
         "lang": "es",
@@ -381,7 +393,7 @@
       },
       {
         "lang": "mk",
-        "name": "Пoтполошка"
+        "name": "Потполошка"
       },
       {
         "lang": "ml",

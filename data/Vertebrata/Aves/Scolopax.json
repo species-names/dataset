@@ -4,6 +4,10 @@
     "common_names": []
   },
   {
+    "scientific_name": "Scolopax anthonyi",
+    "common_names": []
+  },
+  {
     "scientific_name": "Scolopax saturata",
     "common_names": [
       {
@@ -36,7 +40,7 @@
       },
       {
         "lang": "eo",
-        "name": "Malhela skolopo"
+        "name": "Java skolopo"
       },
       {
         "lang": "fa",
@@ -73,11 +77,15 @@
       },
       {
         "lang": "az",
-        "name": "Meşə cüllütü"
+        "name": "Cüllüt"
       },
       {
         "lang": "ba",
         "name": "Ҡурпысыҡ"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Slonks"
       },
       {
         "lang": "be-x-old",
@@ -101,7 +109,7 @@
       },
       {
         "lang": "ca",
-        "name": "Becada"
+        "name": "Becada eurasiàtica"
       },
       {
         "lang": "cs",
@@ -133,14 +141,11 @@
       },
       {
         "lang": "el",
-        "name": "μπεκάτσα"
+        "name": "Μπεκάτσα"
       },
       {
         "lang": "en",
-        "name": "Eurasian Woodcock",
-        "synonyms": [
-          "Woodcock"
-        ]
+        "name": "Eurasian Woodcock"
       },
       {
         "lang": "eo",
@@ -148,10 +153,7 @@
       },
       {
         "lang": "es",
-        "name": "Becada",
-        "synonyms": [
-          "Chocha perdiz"
-        ]
+        "name": "Becada"
       },
       {
         "lang": "et",
@@ -160,6 +162,10 @@
       {
         "lang": "eu",
         "name": "Oilagor"
+      },
+      {
+        "lang": "fa",
+        "name": "ابیای اوراسیایی"
       },
       {
         "lang": "fi",
@@ -199,7 +205,7 @@
       },
       {
         "lang": "he",
-        "name": "חרטומן"
+        "name": "חרטומן יערות"
       },
       {
         "lang": "hr",
@@ -230,6 +236,10 @@
         "name": "ტყის ქათამი"
       },
       {
+        "lang": "kbd",
+        "name": "ЩӀупхъ"
+      },
+      {
         "lang": "kjn",
         "name": "Хорымчых"
       },
@@ -251,18 +261,19 @@
       },
       {
         "lang": "lv",
-        "name": "Sloka"
+        "name": "Eirāzijas sloka"
       },
       {
         "lang": "mk",
         "name": "Шумска шлука"
       },
       {
+        "lang": "ml",
+        "name": "പ്രാക്കാട"
+      },
+      {
         "lang": "mn",
-        "name": "Буурал хомноот",
-        "synonyms": [
-          "ᠪᠣᠭᠣᠷᠣᠯ ᠬᠣᠮᠨᠣᠭᠠᠲᠣ"
-        ]
+        "name": "Буурал хомноот - ᠪᠣᠭᠣᠷᠣᠯ ᠬᠣᠮᠨᠣᠭᠠᠲᠣ"
       },
       {
         "lang": "ms",
@@ -271,6 +282,10 @@
       {
         "lang": "mt",
         "name": "Gallina"
+      },
+      {
+        "lang": "ne",
+        "name": "ठूलो चाहा"
       },
       {
         "lang": "nl",
@@ -283,6 +298,14 @@
       {
         "lang": "no",
         "name": "Rugde"
+      },
+      {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ tsintasdísí"
+      },
+      {
+        "lang": "os",
+        "name": "Хъæды мæга"
       },
       {
         "lang": "pcd",
@@ -306,7 +329,7 @@
       },
       {
         "lang": "ro",
-        "name": "Sitar"
+        "name": "Sitar de pădure"
       },
       {
         "lang": "ru",
@@ -330,10 +353,7 @@
       },
       {
         "lang": "sk",
-        "name": "Sluka hôrna",
-        "synonyms": [
-          "Sluka lesná"
-        ]
+        "name": "Sluka hôrna"
       },
       {
         "lang": "sl",
@@ -345,10 +365,7 @@
       },
       {
         "lang": "sr",
-        "name": "Šumska šljuka",
-        "synonyms": [
-          "Шумска шлјука"
-        ]
+        "name": "Šumska šljuka - Шумска шлјука"
       },
       {
         "lang": "sv",
@@ -360,14 +377,15 @@
       },
       {
         "lang": "th",
-        "name": "นกปากซ่อมดง",
-        "synonyms": [
-          "นกปากส้อมดง"
-        ]
+        "name": "นกปากซ่อมดง"
       },
       {
         "lang": "tr",
         "name": "Avrasya çulluğu"
+      },
+      {
+        "lang": "tt",
+        "name": "Тәлләтәвеч"
       },
       {
         "lang": "tyv",
@@ -383,7 +401,7 @@
       },
       {
         "lang": "vi",
-        "name": "Chim Nhát bà"
+        "name": "Dẽ gà"
       },
       {
         "lang": "xmf",
@@ -397,7 +415,16 @@
   },
   {
     "scientific_name": "Scolopax rosenbergii",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "eo",
+        "name": "Novginea skolopo"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasse de Nouvelle-Guinée"
+      }
+    ]
   },
   {
     "scientific_name": "Scolopax rochussenii",
@@ -464,12 +491,24 @@
         "name": "Sluka japonská"
       },
       {
+        "lang": "de",
+        "name": "Amamischnepfe"
+      },
+      {
         "lang": "en",
         "name": "Amami Woodcock"
       },
       {
+        "lang": "eo",
+        "name": "Okinava skolopo"
+      },
+      {
         "lang": "es",
         "name": "Chocha de Amami"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasse d'Amami"
       },
       {
         "lang": "ja",
@@ -485,16 +524,72 @@
     "scientific_name": "Scolopax minor",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Kefeleg-koad Amerika"
+      },
+      {
+        "lang": "ca",
+        "name": "Becada americana"
+      },
+      {
         "lang": "cs",
         "name": "Sluka americká"
+      },
+      {
+        "lang": "cy",
+        "name": "Cyffylog America"
       },
       {
         "lang": "en",
         "name": "American Woodcock"
       },
       {
+        "lang": "eo",
+        "name": "Amerika skolopo"
+      },
+      {
+        "lang": "es",
+        "name": "Agachadiza americana"
+      },
+      {
+        "lang": "fa",
+        "name": "ابیای آمریکایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikanlehtokurppa"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécasse d'Amérique"
+      },
+      {
+        "lang": "hu",
+        "name": "Amerikai szalonka"
+      },
+      {
+        "lang": "id",
+        "name": "Berkik-gunung amerika"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia americana"
+      },
+      {
         "lang": "nl",
         "name": "Amerikaanse houtsnip"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsintasdísí"
+      },
+      {
+        "lang": "pt",
+        "name": "Galinhola americana"
+      },
+      {
+        "lang": "ru",
+        "name": "Американский вальдшнеп"
       },
       {
         "lang": "sv",

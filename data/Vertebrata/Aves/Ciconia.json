@@ -7,6 +7,10 @@
         "name": "Čáp pestrý"
       },
       {
+        "lang": "de",
+        "name": "Höckerstorch"
+      },
+      {
         "lang": "en",
         "name": "Storm's stork"
       },
@@ -22,8 +26,76 @@
         "lang": "sv",
         "name": "Storms stork",
         "synonyms": [
-          "Rödnäbbad ullhalsstork"
+          "rödnäbbad ullhalsstork"
         ]
+      },
+      {
+        "lang": "ar",
+        "name": "لقلق العاصفة"
+      },
+      {
+        "lang": "bg",
+        "name": "Щъркел на Сторм"
+      },
+      {
+        "lang": "bn",
+        "name": "স্টর্মের মানিকজোড়"
+      },
+      {
+        "lang": "br",
+        "name": "C'hwibon Storm"
+      },
+      {
+        "lang": "ca",
+        "name": "Cigonya de Storm"
+      },
+      {
+        "lang": "eo",
+        "name": "Storma cikonio"
+      },
+      {
+        "lang": "fa",
+        "name": "لک‌لک توفان"
+      },
+      {
+        "lang": "fi",
+        "name": "Borneonpiispahaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Cigogne de Storm"
+      },
+      {
+        "lang": "he",
+        "name": "חסידת סטורם"
+      },
+      {
+        "lang": "hu",
+        "name": "Pápaszemes gólya"
+      },
+      {
+        "lang": "lt",
+        "name": "Štormo gandras"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Botak Hutan"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídiidaanézí bitsiitʼáád halzhinígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Bocian garbaty"
+      },
+      {
+        "lang": "ru",
+        "name": "Малайский шерстистошейный аист"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระสาคอขาวปากแดง"
       }
     ]
   },
@@ -304,7 +376,7 @@
       },
       {
         "lang": "se",
-        "name": "Cáhppesháigir"
+        "name": "Čáhppesháigir"
       },
       {
         "lang": "sh",
@@ -388,6 +460,10 @@
         "name": "Čáp jihoamerický"
       },
       {
+        "lang": "de",
+        "name": "Maguaristorch"
+      },
+      {
         "lang": "en",
         "name": "Maguari Stork"
       },
@@ -415,6 +491,10 @@
       {
         "lang": "cs",
         "name": "Čáp bělokrký"
+      },
+      {
+        "lang": "de",
+        "name": "Wollhalsstorch"
       },
       {
         "lang": "en",
@@ -614,19 +694,15 @@
       },
       {
         "lang": "hu",
-        "name": "Fehér gólya",
-        "synonyms": [
-          "gólya",
-          "gilice",
-          "cakó",
-          "koszta",
-          "gagó",
-          "eszterág"
-        ]
+        "name": "Fehér gólya"
       },
       {
         "lang": "hy",
         "name": "Սպիտակ արագիլ"
+      },
+      {
+        "lang": "id",
+        "name": "Bangau putih"
       },
       {
         "lang": "is",
@@ -658,10 +734,7 @@
       },
       {
         "lang": "ku",
-        "name": "Legleg",
-        "synonyms": [
-          "Hacîleqleq"
-        ]
+        "name": "Hacîleqleq"
       },
       {
         "lang": "kw",
@@ -670,10 +743,6 @@
       {
         "lang": "kwn",
         "name": "Nkumbinkumbi"
-      },
-      {
-        "lang": "la",
-        "name": "Ciconia"
       },
       {
         "lang": "lb",
@@ -788,19 +857,12 @@
         "name": "Cicňnnia"
       },
       {
-        "lang": "sco",
-        "name": "Stork"
-      },
-      {
         "lang": "se",
         "name": "Vilgesháigir"
       },
       {
         "lang": "sh",
-        "name": "Bijela roda",
-        "synonyms": [
-          "бијела рода"
-        ]
+        "name": "Bijela roda - бијела рода"
       },
       {
         "lang": "sk",
@@ -876,10 +938,7 @@
       },
       {
         "lang": "zh",
-        "name": "白 鹳",
-        "synonyms": [
-          "白鹳"
-        ]
+        "name": "白 鹳"
       },
       {
         "lang": "zu",
@@ -934,6 +993,10 @@
       {
         "lang": "cs",
         "name": "Čáp simbil"
+      },
+      {
+        "lang": "de",
+        "name": "Abdimstorch"
       },
       {
         "lang": "es",

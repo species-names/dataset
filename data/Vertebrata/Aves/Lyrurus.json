@@ -76,7 +76,7 @@
       },
       {
         "lang": "eo",
-        "name": "Tetro"
+        "name": "Lira tetro"
       },
       {
         "lang": "es",
@@ -324,16 +324,92 @@
     "scientific_name": "Lyrurus mlokosiewiczi",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "طيهوج قوقازي"
+      },
+      {
+        "lang": "az",
+        "name": "Qafqaz tetrası"
+      },
+      {
+        "lang": "bg",
+        "name": "Кавказки тетрев"
+      },
+      {
+        "lang": "br",
+        "name": "Skilgog-Kaokaz"
+      },
+      {
+        "lang": "ca",
+        "name": "Gall del Caucas"
+      },
+      {
+        "lang": "cy",
+        "name": "Grugiar Cawcasia"
+      },
+      {
+        "lang": "de",
+        "name": "Kaukasus-Birkhuhn"
+      },
+      {
         "lang": "en",
-        "name": "Caucasian Black Grouse"
+        "name": "Caucasian Grouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Kaŭkaza tetro"
+      },
+      {
+        "lang": "fa",
+        "name": "سیاه‌خروس قفقازی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaukasianteeri"
       },
       {
         "lang": "fr",
         "name": "Tétras du Caucase"
       },
       {
+        "lang": "hu",
+        "name": "Kaukázusi nyírfajd"
+      },
+      {
         "lang": "hy",
-        "name": "Մայրեհավ կովակասյան"
+        "name": "Կովկասյան մայրեհավ"
+      },
+      {
+        "lang": "ka",
+        "name": "კავკასიური როჭო"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къушъхьэджэд"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кавкази кӹдӹр"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaukasisch korhoen"
+      },
+      {
+        "lang": "no",
+        "name": "Kaukasusorrfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Cietrzew kaukaski"
+      },
+      {
+        "lang": "ru",
+        "name": "Кавказский тетерев"
+      },
+      {
+        "lang": "sr",
+        "name": "Кавкаски тетреб"
       },
       {
         "lang": "sv",
@@ -341,7 +417,11 @@
       },
       {
         "lang": "tr",
-        "name": "Huş Tavuğu"
+        "name": "Kafkas kara orman tavuğu"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà gô Kavkaz"
       }
     ]
   }

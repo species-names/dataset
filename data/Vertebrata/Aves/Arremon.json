@@ -30,6 +30,26 @@
         "synonyms": [
           "Tico-tico-da-mata"
         ]
+      },
+      {
+        "lang": "cy",
+        "name": "Bras tawedog"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrabeka aremono"
+      },
+      {
+        "lang": "nl",
+        "name": "Olijfruggors"
+      },
+      {
+        "lang": "no",
+        "name": "Gulknokespurv"
+      },
+      {
+        "lang": "sv",
+        "name": "halsbandssparv"
       }
     ]
   },
@@ -84,6 +104,10 @@
         "name": "Perija Brush Finch"
       },
       {
+        "lang": "es",
+        "name": "Cerquero de Perijá"
+      },
+      {
         "lang": "nl",
         "name": "Perijástruikgors"
       },
@@ -99,14 +123,44 @@
   },
   {
     "scientific_name": "Arremon franciscanus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "San Francisco sparrow"
+      },
+      {
+        "lang": "pt",
+        "name": "Tico-tico-do-são-francisco"
+      }
+    ]
   },
   {
     "scientific_name": "Arremon flavirostris",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Saffron-billed sparrow"
+      },
+      {
         "lang": "pt",
-        "name": "Tico-tico-da-mata"
+        "name": "Tico-tico-de-bico-amarelo"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero piquiamarillo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Arremon dorbignii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "moss-backed sparrow"
+      },
+      {
+        "lang": "nl",
+        "name": "wenkbrauwgeelsnavelgors"
       }
     ]
   },
@@ -164,6 +218,10 @@
       {
         "lang": "en",
         "name": "Sierra Nevada Brush Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero de Bangs"
       }
     ]
   },

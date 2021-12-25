@@ -1,19 +1,59 @@
 [
   {
     "scientific_name": "Conirostrum tamarugense",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tamarugo Conebill"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro de tamarugal"
+      }
+    ]
   },
   {
     "scientific_name": "Conirostrum speciosum",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-vented Conebill"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro culirrufo"
+      },
+      {
+        "lang": "pt",
+        "name": "Figuinha-de-rabo-castanho"
+      }
+    ]
   },
   {
     "scientific_name": "Conirostrum sitticolor",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-backed Conebill"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro dorsiazul"
+      }
+    ]
   },
   {
     "scientific_name": "Conirostrum rufum",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-browed Conebill"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro rufo"
+      }
+    ]
   },
   {
     "scientific_name": "Conirostrum margaritae",
@@ -25,6 +65,10 @@
       {
         "lang": "pt",
         "name": "Figuinha-amazônica"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro pechigrís"
       }
     ]
   },
@@ -34,12 +78,25 @@
       {
         "lang": "en",
         "name": "White-eared Conebill"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro orejiblanco"
       }
     ]
   },
   {
     "scientific_name": "Conirostrum ferrugineiventre",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-browed Conebill"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro cejiblanco"
+      }
+    ]
   },
   {
     "scientific_name": "Conirostrum cinereum",
@@ -47,6 +104,23 @@
       {
         "lang": "en",
         "name": "Cinereous Conebill"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro cinéreo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Conirostrum binghami",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Giant Conebill"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro gigante"
       }
     ]
   },
@@ -60,6 +134,14 @@
       {
         "lang": "tr",
         "name": "İki renkli konigaga"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro bicolor"
+      },
+      {
+        "lang": "pt",
+        "name": "Figuinha-do-mangue"
       }
     ]
   },
@@ -69,6 +151,10 @@
       {
         "lang": "en",
         "name": "Capped Conebill"
+      },
+      {
+        "lang": "es",
+        "name": "Conirrostro coronado"
       }
     ]
   }

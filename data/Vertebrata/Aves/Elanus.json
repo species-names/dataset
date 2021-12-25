@@ -32,10 +32,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élanion écrit",
-        "synonyms": [
-          "Élanion lettré"
-        ]
+        "name": "Élanion écrit"
       },
       {
         "lang": "hu",
@@ -43,10 +40,7 @@
       },
       {
         "lang": "it",
-        "name": "Nibbio bianco alisegnate",
-        "synonyms": [
-          "Nibbio scritto"
-        ]
+        "name": "Nibbio bianco alisegnate"
       },
       {
         "lang": "ja",
@@ -73,17 +67,11 @@
       },
       {
         "lang": "ru",
-        "name": "Буквокрылый дымчатый коршун",
-        "synonyms": [
-          "Буквокрылый коршун"
-        ]
+        "name": "Буквокрылый дымчатый коршун"
       },
       {
         "lang": "sk",
-        "name": "Luniak popolavý",
-        "synonyms": [
-          "Luniak striebristý"
-        ]
+        "name": "Luniak popolavý"
       },
       {
         "lang": "sv",
@@ -209,6 +197,10 @@
         "name": "Пепелява каня"
       },
       {
+        "lang": "bn",
+        "name": "কালো ডানা চিল"
+      },
+      {
         "lang": "br",
         "name": "Elan glas"
       },
@@ -266,6 +258,10 @@
       {
         "lang": "gl",
         "name": "Peneireiro cincento"
+      },
+      {
+        "lang": "gu",
+        "name": "કપાસી"
       },
       {
         "lang": "he",

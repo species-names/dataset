@@ -52,7 +52,7 @@
       },
       {
         "lang": "de",
-        "name": "Brandseeschwalbe-sandvicensis"
+        "name": "Brandseeschwalbe"
       },
       {
         "lang": "el",
@@ -64,14 +64,11 @@
       },
       {
         "lang": "eo",
-        "name": "Sandviĉa ŝterno"
+        "name": "Kresta ŝterno"
       },
       {
         "lang": "es",
-        "name": "Gaviotín Pico Amarillo",
-        "synonyms": [
-          "Gaviotín Brasilero"
-        ]
+        "name": "Gaviotín Pico Amarillo"
       },
       {
         "lang": "et",
@@ -123,7 +120,7 @@
       },
       {
         "lang": "hu",
-        "name": "kenti csér"
+        "name": "Kenti csér"
       },
       {
         "lang": "is",
@@ -178,11 +175,11 @@
         "name": "Rybitwa czubata"
       },
       {
-        "lang": "pt-br",
+        "lang": "pt",
         "name": "Trinta-réis-de-bando"
       },
       {
-        "lang": "pt",
+        "lang": "pt-br",
         "name": "Trinta-réis-de-bando"
       },
       {
@@ -248,7 +245,7 @@
       },
       {
         "lang": "cs",
-        "name": "rybák královský"
+        "name": "Rybák královský"
       },
       {
         "lang": "cy",
@@ -268,7 +265,7 @@
       },
       {
         "lang": "eo",
-        "name": "Pleja krestoŝterno"
+        "name": "Reĝa ŝterno"
       },
       {
         "lang": "es",
@@ -276,18 +273,15 @@
       },
       {
         "lang": "et",
-        "name": "kuningtiir"
+        "name": "Kuningtiir"
       },
       {
         "lang": "eu",
-        "name": "Txenada handia",
-        "synonyms": [
-          "Xatrac reial"
-        ]
+        "name": "Txenada handia"
       },
       {
         "lang": "fi",
-        "name": "kuningastiira"
+        "name": "Kuningastiira"
       },
       {
         "lang": "fr",
@@ -295,10 +289,7 @@
       },
       {
         "lang": "gcf",
-        "name": "Foquette",
-        "synonyms": [
-          "Mauve"
-        ]
+        "name": "Foquette"
       },
       {
         "lang": "gl",
@@ -318,7 +309,7 @@
       },
       {
         "lang": "hu",
-        "name": "királycsér"
+        "name": "Királycsér"
       },
       {
         "lang": "is",
@@ -330,10 +321,7 @@
       },
       {
         "lang": "ja",
-        "name": "アメリカオオアジサシ",
-        "synonyms": [
-          "amerikaooajisashi"
-        ]
+        "name": "アメリカオオアジサシ"
       },
       {
         "lang": "lt",
@@ -349,7 +337,7 @@
       },
       {
         "lang": "pl",
-        "name": "rybitwa królewska"
+        "name": "Rybitwa królewska"
       },
       {
         "lang": "pt-br",
@@ -365,11 +353,11 @@
       },
       {
         "lang": "sk",
-        "name": "rybár veľký"
+        "name": "Rybár veľký"
       },
       {
         "lang": "sl",
-        "name": "kraljeva čigra"
+        "name": "Kraljeva čigra"
       },
       {
         "lang": "sv",
@@ -389,8 +377,32 @@
     "scientific_name": "Thalasseus elegans",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Elegante sterretjie"
+      },
+      {
+        "lang": "az",
+        "name": "Eleqant susüpürən"
+      },
+      {
+        "lang": "bg",
+        "name": "Южноамериканска рибарка"
+      },
+      {
+        "lang": "br",
+        "name": "Skrav tek"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac elegant"
+      },
+      {
         "lang": "cs",
         "name": "Rybák západní"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol gain"
       },
       {
         "lang": "de",
@@ -401,16 +413,36 @@
         "name": "Elegant Tern"
       },
       {
+        "lang": "eo",
+        "name": "Eleganta ŝterno"
+      },
+      {
         "lang": "es",
-        "name": "Charrán Elegante"
+        "name": "Charrán elegante"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی ظریف"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaunotiira"
       },
       {
         "lang": "fr",
         "name": "Sterne élégante"
       },
       {
+        "lang": "he",
+        "name": "שחפית הדורה"
+      },
+      {
         "lang": "hu",
         "name": "Pompás csér"
+      },
+      {
+        "lang": "it",
+        "name": "Sterna elegante"
       },
       {
         "lang": "ja",
@@ -418,11 +450,19 @@
       },
       {
         "lang": "nl",
-        "name": "Californische kuifstern"
+        "name": "Sierlijke stern"
+      },
+      {
+        "lang": "ru",
+        "name": "Элегантная крачка"
+      },
+      {
+        "lang": "sv",
+        "name": "Aztektärna"
       },
       {
         "lang": "uk",
-        "name": "Елегантний крячок"
+        "name": "Крячок каліфорнійський"
       }
     ]
   },
@@ -440,6 +480,10 @@
       {
         "lang": "en",
         "name": "Chinese Crested Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Ĉina ŝterno"
       },
       {
         "lang": "es",
@@ -462,6 +506,54 @@
         "name": "Burung Camar Cina Berjambul"
       },
       {
+        "lang": "az",
+        "name": "Çin kəkilli susüpürəni"
+      },
+      {
+        "lang": "br",
+        "name": "Skrav Bernstein"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac de la Xina"
+      },
+      {
+        "lang": "cdo",
+        "name": "Háik-cuōi-duăng hông-tàu iéng-ĕu"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol Tsieina"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی کاکلی چینی"
+      },
+      {
+        "lang": "nl",
+        "name": "Chinese kuifstern"
+      },
+      {
+        "lang": "nv",
+        "name": "Náátsʼózídę́ę́ʼ tónteel táshchozhii tsiiyahwozhí"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa chińska"
+      },
+      {
+        "lang": "ru",
+        "name": "Китайская крачка"
+      },
+      {
+        "lang": "sv",
+        "name": "mingtärna"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhào mào Trung Quốc"
+      },
+      {
         "lang": "zh",
         "name": "黑嘴端鳳頭燕鷗"
       }
@@ -471,8 +563,36 @@
     "scientific_name": "Thalasseus bergii",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Geelbeksterretjie"
+      },
+      {
+        "lang": "ar",
+        "name": "خرشنة خطافية"
+      },
+      {
+        "lang": "az",
+        "name": "Böyük kəkilli susüpürən"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълтоклюна рибарка"
+      },
+      {
+        "lang": "br",
+        "name": "Skrav kuchenn bras"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac reial becgroc"
+      },
+      {
         "lang": "cs",
         "name": "Rybák chocholatý"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol bigfelen"
       },
       {
         "lang": "da",
@@ -487,8 +607,20 @@
         "name": "Greater Crested Tern"
       },
       {
+        "lang": "eo",
+        "name": "Granda krestoŝterno"
+      },
+      {
         "lang": "es",
-        "name": "Charrán Piquigualdo"
+        "name": "Charrán piquigualdo"
+      },
+      {
+        "lang": "eu",
+        "name": "Txenada mottodun"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی کاکلی بزرگ"
       },
       {
         "lang": "fi",
@@ -507,8 +639,12 @@
         "name": "Üstökös csér"
       },
       {
+        "lang": "id",
+        "name": "Dara-laut jambul"
+      },
+      {
         "lang": "it",
-        "name": "Beccapesci veloce"
+        "name": "Sterna di Bergius"
       },
       {
         "lang": "ja",
@@ -519,16 +655,32 @@
         "name": "큰제비갈매기"
       },
       {
+        "lang": "ml",
+        "name": "വലിയ കടൽ ആള"
+      },
+      {
         "lang": "ms",
         "name": "Burung Camar Berjambul Besar"
       },
       {
         "lang": "nl",
-        "name": "Geelsnavelstern"
+        "name": "Grote kuifstern"
+      },
+      {
+        "lang": "no",
+        "name": "Hinduterne"
+      },
+      {
+        "lang": "pnb",
+        "name": "وڈے تاج آلا ٹرن"
       },
       {
         "lang": "ru",
-        "name": "Большая хохлатая крачка"
+        "name": "Крачка Берга"
+      },
+      {
+        "lang": "sv",
+        "name": "Tofstärna"
       },
       {
         "lang": "th",
@@ -537,6 +689,10 @@
       {
         "lang": "to",
         "name": "Tala lalahi"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhàn mào"
       },
       {
         "lang": "zh",
@@ -548,6 +704,38 @@
     "scientific_name": "Thalasseus bengalensis",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Kuifkopsterretjie"
+      },
+      {
+        "lang": "ar",
+        "name": "خرشنة بنغالية"
+      },
+      {
+        "lang": "az",
+        "name": "Kiçik kəkilli susüpürən"
+      },
+      {
+        "lang": "bg",
+        "name": "Бенгалска рибарка"
+      },
+      {
+        "lang": "br",
+        "name": "Skrav Bengal"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac bengalí"
+      },
+      {
+        "lang": "cs",
+        "name": "Rybák oranžovozobý"
+      },
+      {
+        "lang": "cy",
+        "name": "Môr-wennol gribog fach"
+      },
+      {
         "lang": "de",
         "name": "Rüppellseeschwalbe"
       },
@@ -556,8 +744,20 @@
         "name": "Lesser Crested Tern"
       },
       {
+        "lang": "eo",
+        "name": "Bengala krestoŝterno"
+      },
+      {
         "lang": "es",
-        "name": "Charrán Bengali"
+        "name": "Charrán bengali"
+      },
+      {
+        "lang": "eu",
+        "name": "Bengalako txenada"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی کاکلی کوچک"
       },
       {
         "lang": "fi",
@@ -568,12 +768,36 @@
         "name": "Sterne voyageuse"
       },
       {
+        "lang": "gl",
+        "name": "Carrán bengalés"
+      },
+      {
+        "lang": "hu",
+        "name": "Bengáliai csér"
+      },
+      {
+        "lang": "id",
+        "name": "Dara-laut bengala"
+      },
+      {
+        "lang": "it",
+        "name": "Sterna del Ruppel"
+      },
+      {
         "lang": "ja",
         "name": "ベンガルアジサシ"
       },
       {
+        "lang": "ml",
+        "name": "ചെറിയ കടലാള"
+      },
+      {
         "lang": "ms",
         "name": "Burung Camar Berjambul Kecil"
+      },
+      {
+        "lang": "nl",
+        "name": "Bengaalse stern"
       },
       {
         "lang": "pl",
@@ -592,8 +816,16 @@
         "name": "Бенгальская крачка"
       },
       {
+        "lang": "sv",
+        "name": "Iltärna"
+      },
+      {
         "lang": "tr",
         "name": "Tepeli sumru"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhàn mào nhỏ"
       },
       {
         "lang": "zh",
@@ -602,11 +834,52 @@
     ]
   },
   {
+    "scientific_name": "Thalasseus albididorsalis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Guineaseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "West African Crested Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Heldorsa ŝterno"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne d'Afrique"
+      },
+      {
+        "lang": "it",
+        "name": "Sterna reale africana"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse koningsstern"
+      },
+      {
+        "lang": "sv",
+        "name": "Guineatärna"
+      }
+    ]
+  },
+  {
     "scientific_name": "Thalasseus acuflavidus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Amerikanische Brandseeschwalbe"
+      },
+      {
         "lang": "en",
         "name": "Cabot's Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika krestoŝterno"
       },
       {
         "lang": "es",
@@ -615,6 +888,22 @@
       {
         "lang": "fr",
         "name": "Sterne de Cabot"
+      },
+      {
+        "lang": "it",
+        "name": "Beccapesci americano"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse grote stern"
+      },
+      {
+        "lang": "pt",
+        "name": "Trinta-réis-de-bando"
+      },
+      {
+        "lang": "sv",
+        "name": "Cabots tärna"
       }
     ]
   }

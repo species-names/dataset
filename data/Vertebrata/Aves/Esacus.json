@@ -3,16 +3,84 @@
     "scientific_name": "Esacus recurvirostris",
     "common_names": [
       {
+        "lang": "az",
+        "name": "Böyük pərttəgöz"
+      },
+      {
+        "lang": "br",
+        "name": "Bourlagad meur"
+      },
+      {
+        "lang": "ca",
+        "name": "Torlit becgròs de l'Índia"
+      },
+      {
         "lang": "cs",
         "name": "Dytík křivozobý"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhedwr mawr y moelydd"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda trielo"
+      },
+      {
+        "lang": "es",
+        "name": "Alcaraván indio de pico grueso"
+      },
+      {
+        "lang": "fa",
+        "name": "چاخ‌لق هندی"
       },
       {
         "lang": "fi",
         "name": "Intianpaksujalka"
       },
       {
+        "lang": "fr",
+        "name": "Grand Œdicnème"
+      },
+      {
+        "lang": "it",
+        "name": "Occhione maggiore indiano"
+      },
+      {
+        "lang": "ml",
+        "name": "പെരുങ്കൊക്കൻ പ്ലോവർ"
+      },
+      {
+        "lang": "my",
+        "name": "မိန်ဇိမ်ငှက်"
+      },
+      {
+        "lang": "ne",
+        "name": "ठूलो बगरबट्टाई"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote griel"
+      },
+      {
+        "lang": "nv",
+        "name": "Goditání ntsaaígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "وڈا پتھر کرلیو"
+      },
+      {
         "lang": "sv",
         "name": "Strandtjockfot"
+      },
+      {
+        "lang": "ta",
+        "name": "முசல் கின்னாத்தி"
+      },
+      {
+        "lang": "vi",
+        "name": "Burin lớn"
       }
     ]
   },
@@ -20,8 +88,36 @@
     "scientific_name": "Esacus magnirostris",
     "common_names": [
       {
+        "lang": "az",
+        "name": "Rif pərttəgözü"
+      },
+      {
+        "lang": "bg",
+        "name": "Крайбрежен совоок дъждосвирец"
+      },
+      {
+        "lang": "br",
+        "name": "Bourlagad-aod"
+      },
+      {
+        "lang": "ca",
+        "name": "Torlit becgròs dels esculls"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhedwr y traeth"
+      },
+      {
+        "lang": "de",
+        "name": "Rifftriel"
+      },
+      {
         "lang": "en",
         "name": "Beach Stone-curlew"
+      },
+      {
+        "lang": "eo",
+        "name": "Giganta trielo"
       },
       {
         "lang": "es",
@@ -32,12 +128,52 @@
         "name": "Riuttapaksujalka"
       },
       {
+        "lang": "fr",
+        "name": "Œdicnème des récifs"
+      },
+      {
+        "lang": "hu",
+        "name": "Parti rákásztyúk"
+      },
+      {
+        "lang": "id",
+        "name": "Wili-wili besar"
+      },
+      {
+        "lang": "it",
+        "name": "Occhione maggiore australiano"
+      },
+      {
         "lang": "ms",
-        "name": "Burung Lutut Tebal"
+        "name": "Burung Sisir Air"
+      },
+      {
+        "lang": "nl",
+        "name": "Rifgriel"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąąh goditání"
+      },
+      {
+        "lang": "pl",
+        "name": "Kulon plażowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "وڈی کروانک"
+      },
+      {
+        "lang": "ru",
+        "name": "Рифовая авдотка"
       },
       {
         "lang": "sv",
         "name": "Kusttjockfot"
+      },
+      {
+        "lang": "zh",
+        "name": "大石鸻"
       }
     ]
   }

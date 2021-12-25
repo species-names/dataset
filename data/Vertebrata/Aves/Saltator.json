@@ -20,7 +20,7 @@
       },
       {
         "lang": "es",
-        "name": "Pepitero Listado"
+        "name": "Pepitero listado"
       },
       {
         "lang": "fi",
@@ -81,23 +81,54 @@
       {
         "lang": "pt",
         "name": "Trinca-ferro"
+      },
+      {
+        "lang": "es",
+        "name": "Pepitero verdoso"
       }
     ]
   },
   {
     "scientific_name": "Saltator orenocensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orinocan Saltator"
+      },
+      {
+        "lang": "es",
+        "name": "Pepitero del Orinoco"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Saltator olivascens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Olivaceous Saltator"
+      }
+    ]
   },
   {
     "scientific_name": "Saltator nigriceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-cowled Saltator"
+      },
+      {
+        "lang": "es",
+        "name": "Pepitero capuchinegro"
+      }
+    ]
   },
   {
     "scientific_name": "Saltator maximus",
     "common_names": [
       {
         "lang": "cs",
-        "name": "saltator velký"
+        "name": "Saltator velký"
       },
       {
         "lang": "da",
@@ -113,14 +144,11 @@
       },
       {
         "lang": "es",
-        "name": "Pepitero Gorjicanelo",
-        "synonyms": [
-          "Saltador de garganta canela"
-        ]
+        "name": "Pepitero gorjicanelo"
       },
       {
         "lang": "fi",
-        "name": "viherkardinaali"
+        "name": "Viherkardinaali"
       },
       {
         "lang": "fr",
@@ -132,7 +160,7 @@
       },
       {
         "lang": "hu",
-        "name": "fakó szaltator"
+        "name": "Fakó szaltator"
       },
       {
         "lang": "it",
@@ -155,7 +183,7 @@
       },
       {
         "lang": "pl",
-        "name": "ziarnołusk płowogardły"
+        "name": "Ziarnołusk płowogardły"
       },
       {
         "lang": "pt-br",
@@ -174,7 +202,7 @@
       },
       {
         "lang": "sk",
-        "name": "tanečník pestrohrdlý"
+        "name": "Tanečník pestrohrdlý"
       },
       {
         "lang": "sv",
@@ -195,7 +223,7 @@
       },
       {
         "lang": "es",
-        "name": "Saltador de pico grueso"
+        "name": "Pepitero picudo"
       },
       {
         "lang": "pt",
@@ -212,11 +240,20 @@
       },
       {
         "lang": "es",
-        "name": "Piquigordo de garganta blanca"
+        "name": "Pepitero pizarroso"
       },
       {
         "lang": "pt",
         "name": "Bico-encarnado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Saltator grandis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinnamon-bellied Saltator"
       }
     ]
   },
@@ -230,6 +267,10 @@
       {
         "lang": "pt",
         "name": "Bico-de-pimenta"
+      },
+      {
+        "lang": "es",
+        "name": "Pepitero fuliginoso"
       }
     ]
   },
@@ -242,14 +283,11 @@
       },
       {
         "lang": "es",
-        "name": "Picurero grisáceo"
+        "name": "Pepitero grisáceo"
       },
       {
         "lang": "pt",
-        "name": "Trinca-ferro-cinza",
-        "synonyms": [
-          "Trinca-ferro-da-Amazônia"
-        ]
+        "name": "sabiá-gonga"
       }
     ]
   },
@@ -262,7 +300,7 @@
       },
       {
         "lang": "es",
-        "name": "Saltador enmascarado"
+        "name": "Pepitero enmascarado"
       },
       {
         "lang": "cy",
@@ -299,7 +337,7 @@
       },
       {
         "lang": "es",
-        "name": "Saltador de pico dorado"
+        "name": "Pepitero piquigualdo"
       },
       {
         "lang": "pt",
@@ -309,24 +347,20 @@
   },
   {
     "scientific_name": "Saltator atripennis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Saltator atricollis",
     "common_names": [
       {
         "lang": "en",
-        "name": "Black-throated Saltator"
-      },
-      {
-        "lang": "pt",
-        "name": "Batuqueiro; bico-de-pimenta"
+        "name": "Black-winged Saltator"
       },
       {
         "lang": "es",
-        "name": "Pepitero gorginegro; pepitero de corbata"
+        "name": "Pepitero alinegro"
       }
     ]
+  },
+  {
+    "scientific_name": "Saltator atricollis",
+    "common_names": []
   },
   {
     "scientific_name": "Saltator atriceps",
@@ -349,7 +383,7 @@
       },
       {
         "lang": "es",
-        "name": "Pepitero Cabecinegro"
+        "name": "Pepitero cabecinegro"
       },
       {
         "lang": "fi",

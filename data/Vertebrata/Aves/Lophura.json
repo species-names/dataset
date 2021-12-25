@@ -3,6 +3,30 @@
     "scientific_name": "Lophura swinhoii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "تدرج سوينهو"
+      },
+      {
+        "lang": "bg",
+        "name": "Седлат фазан"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan Swinhoe"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà de Swinhoe"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant Swinhoeův"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Swinhoe"
+      },
+      {
         "lang": "de",
         "name": "Swinhoefasan"
       },
@@ -11,8 +35,32 @@
         "name": "Swinhoe's Pheasant"
       },
       {
+        "lang": "eo",
+        "name": "Blua fazano"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán de Swinhoe"
+      },
+      {
         "lang": "fr",
         "name": "Faisan de Swinhoe"
+      },
+      {
+        "lang": "he",
+        "name": "פסיון סווינו"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyerges fácán"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano di Swinhoe"
+      },
+      {
+        "lang": "ja",
+        "name": "サンケイ"
       },
       {
         "lang": "ko",
@@ -23,12 +71,36 @@
         "name": "Тајвански фазан"
       },
       {
-        "lang": "ja",
-        "name": "サンケイ"
+        "lang": "nl",
+        "name": "Swinhoes fazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "سونہو بن ککڑ"
+      },
+      {
+        "lang": "pt",
+        "name": "Faisão-de-swinhoe"
+      },
+      {
+        "lang": "ru",
+        "name": "Свайнова лофура"
+      },
+      {
+        "lang": "sv",
+        "name": "Swinhoefasan"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà lôi lam lưng trắng"
       },
       {
         "lang": "zh",
-        "name": "藍腹鷳"
+        "name": "蓝鹇"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Hôa-ke"
       }
     ]
   },
@@ -56,28 +128,36 @@
         "name": "Silver Pheasant"
       },
       {
-        "lang": "es",
-        "name": "Faisán plateado"
-      },
-      {
         "lang": "eo",
         "name": "Arĝenta fazano"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán plateado"
       },
       {
         "lang": "fr",
         "name": "Faisan argenté"
       },
       {
+        "lang": "hu",
+        "name": "Ezüstfácán"
+      },
+      {
         "lang": "it",
         "name": "Fagiano argentato"
+      },
+      {
+        "lang": "ja",
+        "name": "ハッカン"
       },
       {
         "lang": "kk",
         "name": "Күміс қырғауыл"
       },
       {
-        "lang": "hu",
-        "name": "Ezüstfácán"
+        "lang": "ko",
+        "name": "백한(白鷳)"
       },
       {
         "lang": "mk",
@@ -86,14 +166,6 @@
       {
         "lang": "nl",
         "name": "Zilverfazant"
-      },
-      {
-        "lang": "ko",
-        "name": "백한(白鷳)"
-      },
-      {
-        "lang": "ja",
-        "name": "ハッカン"
       },
       {
         "lang": "pl",
@@ -129,12 +201,108 @@
     "scientific_name": "Lophura leucomelanos",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "تدرج كاليج"
+      },
+      {
+        "lang": "bg",
+        "name": "Непалски фазан"
+      },
+      {
+        "lang": "bn",
+        "name": "কালো মথুরা"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan kalij"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà de Latham"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant kalij"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Kalij"
+      },
+      {
+        "lang": "de",
+        "name": "Kalifasan"
+      },
+      {
         "lang": "en",
         "name": "Kalij Pheasant"
       },
       {
+        "lang": "eo",
+        "name": "Kalifazano"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán Kalij"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan leucomèle"
+      },
+      {
+        "lang": "hi",
+        "name": "कालिज"
+      },
+      {
+        "lang": "hu",
+        "name": "Ördögfácán"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano kalij"
+      },
+      {
         "lang": "ja",
         "name": "ミヤマハッカン"
+      },
+      {
+        "lang": "mai",
+        "name": "वनमुर्गी"
+      },
+      {
+        "lang": "my",
+        "name": "ရစ်ရင်မဲ"
+      },
+      {
+        "lang": "ne",
+        "name": "कालिज"
+      },
+      {
+        "lang": "nl",
+        "name": "Nepalfazant"
+      },
+      {
+        "lang": "pl",
+        "name": "Kiściec nepalski"
+      },
+      {
+        "lang": "pnb",
+        "name": "بن ککڑ"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрная лофура"
+      },
+      {
+        "lang": "sv",
+        "name": "Kalijfasan"
+      },
+      {
+        "lang": "th",
+        "name": "ไก่ฟ้าหลังเทา"
+      },
+      {
+        "lang": "zh",
+        "name": "黑鹇"
       }
     ]
   },
@@ -142,17 +310,76 @@
     "scientific_name": "Lophura inornata",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Salvadori's Pheasant"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Lophura imperialis",
-    "common_names": [
+        "lang": "bg",
+        "name": "Салвадоров фазан"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan Salvadori"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà de Salvadori"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant černý"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Salvadori"
+      },
+      {
+        "lang": "de",
+        "name": "Salvadorifasan"
+      },
       {
         "lang": "en",
-        "name": "Imperial Pheasant"
+        "name": "Salvadori's Pheasant"
+      },
+      {
+        "lang": "eo",
+        "name": "Salvadoria fazano"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán de Salvadori"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan de Salvadori"
+      },
+      {
+        "lang": "hu",
+        "name": "Salvadori-fácán"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano di Salvadori"
+      },
+      {
+        "lang": "ja",
+        "name": "クロウチワキジ"
+      },
+      {
+        "lang": "nl",
+        "name": "Salvadori's fazant"
+      },
+      {
+        "lang": "pl",
+        "name": "Kiściec czarny"
+      },
+      {
+        "lang": "pnb",
+        "name": "تاجی اگپچھا"
+      },
+      {
+        "lang": "ru",
+        "name": "Суматранская лофура"
+      },
+      {
+        "lang": "sv",
+        "name": "Salvadorifasan"
       }
     ]
   },
@@ -160,46 +387,185 @@
     "scientific_name": "Lophura ignita",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "ترار ذو عرف"
+      },
+      {
+        "lang": "bg",
+        "name": "Качулат огненокръст фазан"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan kuch"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà crestat de Borneo"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant gefngoch gribog"
+      },
+      {
+        "lang": "de",
+        "name": "Feuerrückenfasan"
+      },
+      {
         "lang": "en",
         "name": "Crested Fireback"
       },
       {
-        "lang": "th",
-        "name": "ไก่ฟ้าหน้าเขียว"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Lophura hoogerwerfi",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Aceh Pheasant"
+        "lang": "eo",
+        "name": "Krestofazano"
       },
       {
         "lang": "es",
-        "name": "Faisán de Sumatra"
+        "name": "Faisán noble"
+      },
+      {
+        "lang": "fa",
+        "name": "پشت‌آتشی کاکلی"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan noble"
+      },
+      {
+        "lang": "he",
+        "name": "פסיון מצויץ"
+      },
+      {
+        "lang": "hu",
+        "name": "Tűzfácán"
+      },
+      {
+        "lang": "id",
+        "name": "Sempidan biru"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano di Vieillot"
+      },
+      {
+        "lang": "ja",
+        "name": "コシアカキジ"
+      },
+      {
+        "lang": "ms",
+        "name": "Ayam Pegar"
+      },
+      {
+        "lang": "my",
+        "name": "မျက်နှာဖုံးပါရစ်"
+      },
+      {
+        "lang": "nl",
+        "name": "Gekuifde vuurrugfazant"
+      },
+      {
+        "lang": "ru",
+        "name": "Огненноспинная лофура"
+      },
+      {
+        "lang": "sv",
+        "name": "Tofseldrygg"
+      },
+      {
+        "lang": "th",
+        "name": "ไก่ฟ้าหน้าเขียว"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà lôi mào Sumatra"
+      },
+      {
+        "lang": "zh",
+        "name": "鳳冠火背鷴"
       }
     ]
-  },
-  {
-    "scientific_name": "Lophura hatinhensis",
-    "common_names": []
   },
   {
     "scientific_name": "Lophura erythrophthalma",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Безгребенест огненокръст фазан"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan lost melen"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà cuadaurat de Malàisia"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant červenolící"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant gefngoch"
+      },
+      {
+        "lang": "da",
+        "name": "Okkerhalet Ildryg"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbschwanzfasan"
+      },
+      {
         "lang": "en",
         "name": "Crestless Fireback"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝokula fazano"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán colicanelo"
+      },
+      {
+        "lang": "fa",
+        "name": "پشت‌آتشی بی‌کاکل"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan à queue rousse"
+      },
+      {
+        "lang": "hu",
+        "name": "Sárgafarkú fácán"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano occhirossi"
       },
       {
         "lang": "ja",
         "name": "ウチワキジ"
       },
       {
+        "lang": "ms",
+        "name": "Ayam Mata Merah"
+      },
+      {
+        "lang": "nl",
+        "name": "Vuurrugfazant"
+      },
+      {
+        "lang": "ru",
+        "name": "Вилохвостая лофура"
+      },
+      {
         "lang": "sv",
         "name": "Släthuvad eldrygg"
+      },
+      {
+        "lang": "zh",
+        "name": "棕尾火背鷴"
       }
     ]
   },
@@ -207,12 +573,108 @@
     "scientific_name": "Lophura edwardsi",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "تدرج إدواردس"
+      },
+      {
+        "lang": "bg",
+        "name": "Едуардов фазан"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan Edwards"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà d'Edwards"
+      },
+      {
+        "lang": "cs",
+        "name": "Bažant Edwardsův"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Edwards"
+      },
+      {
+        "lang": "de",
+        "name": "Edwardsfasan"
+      },
+      {
         "lang": "en",
         "name": "Edwards's Pheasant"
       },
       {
+        "lang": "eo",
+        "name": "Eduarda fazano"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán de Edwards"
+      },
+      {
+        "lang": "fa",
+        "name": "قرقاول ادوارد"
+      },
+      {
+        "lang": "fi",
+        "name": "Annaminfasaani"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan d'Edwards"
+      },
+      {
+        "lang": "hu",
+        "name": "Vietnámi fácán"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano di Edwards"
+      },
+      {
+        "lang": "ja",
+        "name": "コサンケイ"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠산계"
+      },
+      {
+        "lang": "nl",
+        "name": "Edwards' fazant"
+      },
+      {
+        "lang": "pl",
+        "name": "Kiściec annamski"
+      },
+      {
+        "lang": "pnb",
+        "name": "ایڈورڈ بن ککڑ"
+      },
+      {
+        "lang": "pt",
+        "name": "Faisão-de-eduardo"
+      },
+      {
+        "lang": "ru",
+        "name": "Лофура Эдвардса"
+      },
+      {
+        "lang": "sk",
+        "name": "Bažant pestrý"
+      },
+      {
         "lang": "sv",
         "name": "Edwardfasan"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà lôi lam mào trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "愛氏鷴"
       }
     ]
   },
@@ -220,8 +682,84 @@
     "scientific_name": "Lophura diardi",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "تدرج سيامي"
+      },
+      {
+        "lang": "bg",
+        "name": "Сиамски фазан"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan Siam"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà fumat"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant gefngoch Siam"
+      },
+      {
+        "lang": "da",
+        "name": "Siamildryg"
+      },
+      {
+        "lang": "de",
+        "name": "Prälatfasan"
+      },
+      {
         "lang": "en",
         "name": "Siamese Fireback"
+      },
+      {
+        "lang": "eo",
+        "name": "Siama fazano"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán siamés"
+      },
+      {
+        "lang": "fa",
+        "name": "پشت‌آتشی سیامی"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan prélat"
+      },
+      {
+        "lang": "he",
+        "name": "פסיון אדום-גב סיאמי"
+      },
+      {
+        "lang": "hu",
+        "name": "Hamvas fácán"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano prelato"
+      },
+      {
+        "lang": "ja",
+        "name": "シマハッカン"
+      },
+      {
+        "lang": "nl",
+        "name": "Kuifloze prelaatfazant"
+      },
+      {
+        "lang": "pl",
+        "name": "Kiściec syjamski"
+      },
+      {
+        "lang": "pnb",
+        "name": "سیامی اگپچھا"
+      },
+      {
+        "lang": "ru",
+        "name": "Сиамская лофура"
       },
       {
         "lang": "sv",
@@ -230,6 +768,18 @@
       {
         "lang": "th",
         "name": "ไก่ฟ้าพญาลอ"
+      },
+      {
+        "lang": "uk",
+        "name": "Сіамська лофура"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà lôi hông tía"
+      },
+      {
+        "lang": "zh",
+        "name": "戴氏鷴"
       }
     ]
   },
@@ -237,8 +787,92 @@
     "scientific_name": "Lophura bulweri",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "تدرج بولوير"
+      },
+      {
+        "lang": "bg",
+        "name": "Булверов фазан"
+      },
+      {
+        "lang": "br",
+        "name": "Fazan Bulwer"
+      },
+      {
+        "lang": "ca",
+        "name": "Faisà de Bulwer"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffesant Bulwer"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidhalet Fasan"
+      },
+      {
+        "lang": "de",
+        "name": "Bulwerfasan"
+      },
+      {
         "lang": "en",
         "name": "Bulwer's Pheasant"
+      },
+      {
+        "lang": "eo",
+        "name": "Bridofazano"
+      },
+      {
+        "lang": "es",
+        "name": "Faisán coliblanco"
+      },
+      {
+        "lang": "fa",
+        "name": "قرقاول بالور"
+      },
+      {
+        "lang": "fr",
+        "name": "Faisan de Bulwer"
+      },
+      {
+        "lang": "he",
+        "name": "פסיון בולוור"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfarkú fácán"
+      },
+      {
+        "lang": "id",
+        "name": "Sempidan kalimantan"
+      },
+      {
+        "lang": "it",
+        "name": "Fagiano di Bulwer"
+      },
+      {
+        "lang": "ja",
+        "name": "オジロウチワキジ"
+      },
+      {
+        "lang": "min",
+        "name": "Sempidan kalimantan"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Pakiak"
+      },
+      {
+        "lang": "nl",
+        "name": "Bulwers fazant"
+      },
+      {
+        "lang": "pnb",
+        "name": "بلویر بن ککڑ"
+      },
+      {
+        "lang": "ru",
+        "name": "Бульверова лофура"
       },
       {
         "lang": "sv",

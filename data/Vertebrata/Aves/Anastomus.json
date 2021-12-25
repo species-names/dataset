@@ -3,12 +3,48 @@
     "scientific_name": "Anastomus oscitans",
     "common_names": [
       {
+        "lang": "as",
+        "name": "শামুকভঙা"
+      },
+      {
+        "lang": "bh",
+        "name": "गंगला"
+      },
+      {
+        "lang": "bn",
+        "name": "শামুকখোল"
+      },
+      {
         "lang": "cs",
         "name": "Zejozob asijský"
       },
       {
+        "lang": "de",
+        "name": "Silberklaffschnabel"
+      },
+      {
         "lang": "en",
         "name": "Asian Openbill"
+      },
+      {
+        "lang": "hi",
+        "name": "घोंघिल"
+      },
+      {
+        "lang": "mr",
+        "name": "मुग्धबलाक"
+      },
+      {
+        "lang": "ne",
+        "name": "घुँगीफोर गरुड"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische gaper"
+      },
+      {
+        "lang": "or",
+        "name": "ଗେଣ୍ଡାଳିଆ"
       },
       {
         "lang": "sv",
@@ -17,6 +53,13 @@
       {
         "lang": "th",
         "name": "นกปากห่าง"
+      },
+      {
+        "lang": "ta",
+        "name": "நத்தை குத்தி நாரை",
+        "synonyms": [
+          "அகலவாயன்"
+        ]
       }
     ]
   },
@@ -46,6 +89,10 @@
       {
         "lang": "en",
         "name": "African openbill"
+      },
+      {
+        "lang": "eo",
+        "name": "Bekfenda cikonio"
       },
       {
         "lang": "fr",

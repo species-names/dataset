@@ -116,10 +116,6 @@
     "scientific_name": "Chrysolophus amherstiae",
     "common_names": [
       {
-        "lang": "ko",
-        "name": "은계"
-      },
-      {
         "lang": "cs",
         "name": "Bažant diamantový"
       },
@@ -133,11 +129,19 @@
       },
       {
         "lang": "eo",
-        "name": "Blankventra fazano"
+        "name": "Diamanta fazano"
       },
       {
         "lang": "hu",
         "name": "Gyémántfácán"
+      },
+      {
+        "lang": "ja",
+        "name": "ギンケイ"
+      },
+      {
+        "lang": "ko",
+        "name": "은계"
       },
       {
         "lang": "pl",
@@ -146,10 +150,6 @@
       {
         "lang": "ru",
         "name": "Алмазный фазан"
-      },
-      {
-        "lang": "ja",
-        "name": "ギンケイ"
       },
       {
         "lang": "zh",

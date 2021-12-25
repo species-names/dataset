@@ -187,8 +187,32 @@
     "scientific_name": "Icterus northropi",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Oriol de les Bahames"
+      },
+      {
+        "lang": "de",
+        "name": "Bahamatrupial"
+      },
+      {
         "lang": "en",
-        "name": "Bahama Oriole"
+        "name": "Bahama oriole"
+      },
+      {
+        "lang": "fa",
+        "name": "پری‌شاهرخ باهاما"
+      },
+      {
+        "lang": "hu",
+        "name": "Bahamai trupiál"
+      },
+      {
+        "lang": "nl",
+        "name": "Bahamatroepiaal"
+      },
+      {
+        "lang": "sv",
+        "name": "bahamatrupial"
       }
     ]
   },
@@ -777,7 +801,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "trupiál oranžovobrvý"
+        "name": "Trupiál oranžovobrvý"
       },
       {
         "lang": "da",
@@ -785,11 +809,15 @@
       },
       {
         "lang": "de",
-        "name": "Bullocktrupial"
+        "name": "Bullock-Trupial"
       },
       {
         "lang": "en",
         "name": "Bullock's Oriole"
+      },
+      {
+        "lang": "eo",
+        "name": "Buloka iktero"
       },
       {
         "lang": "es",
@@ -797,7 +825,7 @@
       },
       {
         "lang": "fi",
-        "name": "lännenlehtoturpiaali"
+        "name": "Lännenlehtoturpiaali"
       },
       {
         "lang": "fr",
@@ -813,10 +841,7 @@
       },
       {
         "lang": "ja",
-        "name": "ボルチモアムクドリモドキ",
-        "synonyms": [
-          "boruchimoamukudorimodoki"
-        ]
+        "name": "ボルチモアムクドリモドキ"
       },
       {
         "lang": "nl",
@@ -827,8 +852,12 @@
         "name": "Gullbryntrupial"
       },
       {
+        "lang": "nv",
+        "name": "Choozhghalii"
+      },
+      {
         "lang": "pl",
-        "name": "kacyk złotobrewy"
+        "name": "Kacyk złotobrewy"
       },
       {
         "lang": "pt",
@@ -840,11 +869,11 @@
       },
       {
         "lang": "sk",
-        "name": "trupiál bielokrídly"
+        "name": "Trupiál bielokrídly"
       },
       {
         "lang": "sv",
-        "name": "Bullocks trupial"
+        "name": "Bullocktrupial"
       },
       {
         "lang": "zh",

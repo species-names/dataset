@@ -30,6 +30,10 @@
         "name": "Purple-winged Roller"
       },
       {
+        "lang": "eo",
+        "name": "Celebesa koracio"
+      },
+      {
         "lang": "es",
         "name": "Carraca de Célebes"
       },
@@ -95,6 +99,10 @@
         "name": "Racket-tailed Roller"
       },
       {
+        "lang": "eo",
+        "name": "Rakedvosta koracio"
+      },
+      {
         "lang": "es",
         "name": "Carraca de raquetas"
       },
@@ -128,6 +136,10 @@
         "name": "Rufous-crowned Roller"
       },
       {
+        "lang": "eo",
+        "name": "Bunta koracio"
+      },
+      {
         "lang": "fr",
         "name": "Rollier varié"
       },
@@ -146,11 +158,19 @@
       },
       {
         "lang": "ar",
-        "name": "الخضيري"
+        "name": "شقراق أوروبي"
+      },
+      {
+        "lang": "az",
+        "name": "Dra-dra göycəqarğa"
       },
       {
         "lang": "ba",
         "name": "Күк ҡарға"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Šilvarnis"
       },
       {
         "lang": "be",
@@ -170,7 +190,7 @@
       },
       {
         "lang": "ca",
-        "name": "Gaig blau"
+        "name": "Gaig blau comú"
       },
       {
         "lang": "cs",
@@ -181,12 +201,28 @@
         "name": "Кăвак курак"
       },
       {
+        "lang": "cy",
+        "name": "Rholydd"
+      },
+      {
+        "lang": "da",
+        "name": "Ellekrage"
+      },
+      {
         "lang": "de",
         "name": "Blauracke"
       },
       {
+        "lang": "el",
+        "name": "Χαλκοκουρούνα"
+      },
+      {
         "lang": "en",
         "name": "European Roller"
+      },
+      {
+        "lang": "eo",
+        "name": "Eŭropa koracio"
       },
       {
         "lang": "es",
@@ -197,8 +233,20 @@
         "name": "Siniraag"
       },
       {
+        "lang": "eu",
+        "name": "Karraka"
+      },
+      {
+        "lang": "fa",
+        "name": "سبزقبای وراج"
+      },
+      {
         "lang": "fi",
         "name": "Sininärhi"
+      },
+      {
+        "lang": "fo",
+        "name": "Bláfjatla"
       },
       {
         "lang": "fr",
@@ -206,7 +254,19 @@
       },
       {
         "lang": "gl",
-        "name": "Carraca"
+        "name": "Gaio azul"
+      },
+      {
+        "lang": "he",
+        "name": "כחל מצוי"
+      },
+      {
+        "lang": "hr",
+        "name": "Zlatovrana"
+      },
+      {
+        "lang": "hu",
+        "name": "Európai szalakóta"
       },
       {
         "lang": "hy",
@@ -221,16 +281,64 @@
         "name": "ニシブッポウソウ"
       },
       {
+        "lang": "ka",
+        "name": "ჩვეულებრივი ყაპყაპი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къуаргъкъащхъуэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Көкқарға"
+      },
+      {
+        "lang": "ku",
+        "name": "Qelaşînk"
+      },
+      {
         "lang": "lt",
         "name": "Žalvarnis"
       },
       {
+        "lang": "lv",
+        "name": "Zaļā vārna"
+      },
+      {
+        "lang": "mk",
+        "name": "Модроврана"
+      },
+      {
         "lang": "nl",
-        "name": "Europese scharrelaar"
+        "name": "Scharrelaar"
+      },
+      {
+        "lang": "nn",
+        "name": "Blåråke"
+      },
+      {
+        "lang": "no",
+        "name": "Blåråke"
+      },
+      {
+        "lang": "olo",
+        "name": "Sininärhi"
       },
       {
         "lang": "pl",
-        "name": "Kraska"
+        "name": "Kraska zwyczajna"
+      },
+      {
+        "lang": "ps",
+        "name": "ټغ"
+      },
+      {
+        "lang": "pt",
+        "name": "Rolieiro-europeu"
+      },
+      {
+        "lang": "ro",
+        "name": "Dumbrăveancă"
       },
       {
         "lang": "ru",
@@ -245,8 +353,32 @@
         "name": "Zlatovranka"
       },
       {
+        "lang": "sr",
+        "name": "Модроврана"
+      },
+      {
         "lang": "sv",
         "name": "Blåkråka"
+      },
+      {
+        "lang": "ta",
+        "name": "ஐரோப்பிய பனங்காடை"
+      },
+      {
+        "lang": "tr",
+        "name": "Gökkuzgun"
+      },
+      {
+        "lang": "uk",
+        "name": "Сиворакша"
+      },
+      {
+        "lang": "vi",
+        "name": "Sả châu Âu"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝胸佛法僧"
       }
     ]
   },
@@ -307,6 +439,10 @@
         "name": "ライラックニシブッポウソウ"
       },
       {
+        "lang": "pl",
+        "name": "kraska liliowopierśna"
+      },
+      {
         "lang": "tr",
         "name": "Eflatun göğüslü gökkuzgun"
       },
@@ -356,7 +492,7 @@
       },
       {
         "lang": "eo",
-        "name": "Azia koracio"
+        "name": "Hinda koracio"
       },
       {
         "lang": "es",
@@ -400,7 +536,10 @@
       },
       {
         "lang": "or",
-        "name": "ଭଦଳଭଦଳିଆ"
+        "name": "ଭଦଭଦଳିଆ",
+        "synonyms": [
+          "ନୀଳକଣ୍ଠ"
+        ]
       },
       {
         "lang": "pnb",
@@ -424,11 +563,7 @@
       },
       {
         "lang": "th",
-        "name": "นกตะขาบทุ่ง",
-        "synonyms": [
-          "นกตะขาบ",
-          "นกขาบ"
-        ]
+        "name": "นกตะขาบทุ่ง"
       },
       {
         "lang": "tr",
@@ -445,6 +580,15 @@
     ]
   },
   {
+    "scientific_name": "Coracias affinis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indochinese Roller"
+      }
+    ]
+  },
+  {
     "scientific_name": "Coracias abyssinicus",
     "common_names": [
       {
@@ -454,6 +598,10 @@
       {
         "lang": "en",
         "name": "Abyssinian Roller"
+      },
+      {
+        "lang": "eo",
+        "name": "Abisena koracio"
       },
       {
         "lang": "es",

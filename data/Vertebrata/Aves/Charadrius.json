@@ -215,6 +215,10 @@
         "name": "Oriental Plover"
       },
       {
+        "lang": "eo",
+        "name": "Orienta pluvio"
+      },
+      {
         "lang": "es",
         "name": "Chorlito asiático grande"
       },
@@ -331,6 +335,10 @@
         "name": "Three-banded plover"
       },
       {
+        "lang": "eo",
+        "name": "Trizona pluvio"
+      },
+      {
         "lang": "es",
         "name": "Chorlitejo tricollar"
       }
@@ -374,7 +382,7 @@
       },
       {
         "lang": "eo",
-        "name": "Duonreta pluvio"
+        "name": "Duonpalmpieda pluvio"
       },
       {
         "lang": "es",
@@ -601,6 +609,10 @@
         "name": "Kittlitz's Plover"
       },
       {
+        "lang": "eo",
+        "name": "Paŝtista pluvio"
+      },
+      {
         "lang": "es",
         "name": "Chorlitejo pecuario"
       },
@@ -669,7 +681,7 @@
       },
       {
         "lang": "en",
-        "name": "Snowy plover"
+        "name": "Snowy Plover"
       },
       {
         "lang": "es",
@@ -721,7 +733,7 @@
       },
       {
         "lang": "pt",
-        "name": "borrelho de coleira interrompida"
+        "name": "Borrelho de coleira interrompida"
       },
       {
         "lang": "ru",
@@ -754,7 +766,7 @@
     "common_names": [
       {
         "lang": "ar",
-        "name": "قطقاط أوراسي"
+        "name": "زقزاق أوراسي"
       },
       {
         "lang": "ast",
@@ -794,7 +806,7 @@
       },
       {
         "lang": "cy",
-        "name": "Hutan y mynydd"
+        "name": "Hutan mynydd"
       },
       {
         "lang": "da",
@@ -827,6 +839,10 @@
       {
         "lang": "eu",
         "name": "Txirri lepokodun"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم اوراسیایی"
       },
       {
         "lang": "fi",
@@ -914,14 +930,11 @@
       },
       {
         "lang": "mk",
-        "name": "Зујавец"
+        "name": "Жолтоного блатарче"
       },
       {
         "lang": "mn",
-        "name": "Урианхай сүвээ цагаан",
-        "synonyms": [
-          "ᠣᠷᠢᠶᠠᠩᠬᠠᠢ ᠶᠢᠨ ᠴᠠᠭᠠᠨ ᠬᠢᠵᠠᠲᠣ"
-        ]
+        "name": "Урианхай сүвээ цагаан - ᠣᠷᠢᠶᠠᠩᠬᠠᠢ ᠶᠢᠨ ᠴᠠᠭᠠᠨ ᠬᠢᠵᠠᠲᠣ"
       },
       {
         "lang": "mt",
@@ -938,6 +951,10 @@
       {
         "lang": "no",
         "name": "Boltit"
+      },
+      {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ halgaiisdísí"
       },
       {
         "lang": "pl",
@@ -968,6 +985,10 @@
         "name": "Алтан түөс"
       },
       {
+        "lang": "sco",
+        "name": "Doiterel"
+      },
+      {
         "lang": "se",
         "name": "Láfol"
       },
@@ -981,10 +1002,7 @@
       },
       {
         "lang": "sr",
-        "name": "Planinski zujavac",
-        "synonyms": [
-          "Планински зуjaвац"
-        ]
+        "name": "Planinski zujavac - Планински зујавац"
       },
       {
         "lang": "sv",
@@ -1030,6 +1048,10 @@
       {
         "lang": "fr",
         "name": "Pluvier montagnard"
+      },
+      {
+        "lang": "de",
+        "name": "Bergregenpfeifer"
       }
     ]
   },
@@ -1047,6 +1069,10 @@
       {
         "lang": "en",
         "name": "Lesser Sand Plover"
+      },
+      {
+        "lang": "eo",
+        "name": "Mongola pluvio"
       },
       {
         "lang": "ja",
@@ -1088,7 +1114,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "kulík hvízdavý"
+        "name": "Kulík hvízdavý"
       },
       {
         "lang": "da",
@@ -1096,10 +1122,7 @@
       },
       {
         "lang": "de",
-        "name": "Flötenregenpfeifer",
-        "synonyms": [
-          "Gelbfuß-Regenpfeifer"
-        ]
+        "name": "Flötenregenpfeifer"
       },
       {
         "lang": "en",
@@ -1111,7 +1134,7 @@
       },
       {
         "lang": "et",
-        "name": "hõbetüll"
+        "name": "Hõbetüll"
       },
       {
         "lang": "fa",
@@ -1119,7 +1142,7 @@
       },
       {
         "lang": "fi",
-        "name": "huilutylli"
+        "name": "Huilutylli"
       },
       {
         "lang": "fr",
@@ -1139,10 +1162,7 @@
       },
       {
         "lang": "ja",
-        "name": "フエコチドリ",
-        "synonyms": [
-          "fuekochidori"
-        ]
+        "name": "フエコチドリ"
       },
       {
         "lang": "nl",
@@ -1154,14 +1174,14 @@
       },
       {
         "lang": "pl",
-        "name": "sieweczka blada"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Batuíra-melodiosa"
+        "name": "Sieweczka blada"
       },
       {
         "lang": "pt",
+        "name": "Batuíra-melodiosa"
+      },
+      {
+        "lang": "pt-br",
         "name": "Batuíra-melodiosa"
       },
       {
@@ -1170,7 +1190,7 @@
       },
       {
         "lang": "sk",
-        "name": "kulík pískavý"
+        "name": "Kulík pískavý"
       },
       {
         "lang": "sv",
@@ -1243,6 +1263,10 @@
         "name": "Greater Sand Plover"
       },
       {
+        "lang": "eo",
+        "name": "Dezertpluvio"
+      },
+      {
         "lang": "ja",
         "name": "オオメダイチドリ"
       },
@@ -1274,6 +1298,10 @@
       {
         "lang": "en",
         "name": "Javan Plover"
+      },
+      {
+        "lang": "eo",
+        "name": "Java pluvio"
       },
       {
         "lang": "es",
@@ -1374,7 +1402,7 @@
       },
       {
         "lang": "eo",
-        "name": "Granda pluvio"
+        "name": "Kolumpluvio"
       },
       {
         "lang": "es",
@@ -1619,7 +1647,7 @@
       },
       {
         "lang": "en",
-        "name": "Forbes's plover"
+        "name": "Forbes's Plover"
       },
       {
         "lang": "es",
@@ -1635,7 +1663,7 @@
       },
       {
         "lang": "it",
-        "name": "corriere di Forbes"
+        "name": "Corriere di Forbes"
       },
       {
         "lang": "sv",
@@ -1693,12 +1721,7 @@
       },
       {
         "lang": "ca",
-        "name": "Corriol anellat petit",
-        "synonyms": [
-          "Corriol gros",
-          "Corriol petit",
-          "Picaplatges petit"
-        ]
+        "name": "Corriol anellat petit"
       },
       {
         "lang": "cs",
@@ -1842,14 +1865,11 @@
       },
       {
         "lang": "ml",
-        "name": "ആറ്റു  മണല്‍ക്കോഴി"
+        "name": "ആറ്റു മണല്‍ക്കോഴി"
       },
       {
         "lang": "mn",
-        "name": "Нарийн хиазат",
-        "synonyms": [
-          "ᠨᠠᠷᠢᠨ ᠬᠢᠵᠠᠲᠣ"
-        ]
+        "name": "Нарийн хиазат - ᠨᠠᠷᠢᠨ ᠬᠢᠵᠠᠲᠣ"
       },
       {
         "lang": "ms",
@@ -1869,7 +1889,7 @@
       },
       {
         "lang": "pl",
-        "name": "sieweczka rzeczna"
+        "name": "Sieweczka rzeczna"
       },
       {
         "lang": "pt",
@@ -1901,10 +1921,7 @@
       },
       {
         "lang": "sr",
-        "name": "Mali zujavac",
-        "synonyms": [
-          "Мали зујавац"
-        ]
+        "name": "Mali zujavac - Мали зујавац"
       },
       {
         "lang": "sv",
@@ -1945,6 +1962,47 @@
     ]
   },
   {
+    "scientific_name": "Charadrius dealbatus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Corriol carablanc"
+      },
+      {
+        "lang": "de",
+        "name": "Weißgesicht-Regenpfeifer"
+      },
+      {
+        "lang": "en",
+        "name": "White-faced Plover"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo cariblanco"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم صورت‌سفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier de Swinhoe"
+      },
+      {
+        "lang": "nl",
+        "name": "Witwangstrandplevier"
+      },
+      {
+        "lang": "pl",
+        "name": "Sieweczka japońska"
+      },
+      {
+        "lang": "sv",
+        "name": "Sandstrandpipare"
+      }
+    ]
+  },
+  {
     "scientific_name": "Charadrius cristatus",
     "common_names": []
   },
@@ -1960,12 +2018,12 @@
         "name": "Collared Plover"
       },
       {
-        "lang": "pt",
-        "name": "Batuíra-de-coleira"
-      },
-      {
         "lang": "es",
         "name": "Chorlitejo de Azara"
+      },
+      {
+        "lang": "pt",
+        "name": "Batuíra-de-coleira"
       }
     ]
   },
@@ -1987,10 +2045,7 @@
       },
       {
         "lang": "ar",
-        "name": "زقزاق قزويني، الدحروج، حميرة صدور، بوزهيرة",
-        "synonyms": [
-          "الزقزاق القزويني"
-        ]
+        "name": "زقزاق قزويني"
       },
       {
         "lang": "az",
@@ -2002,7 +2057,7 @@
       },
       {
         "lang": "br",
-        "name": "Nouelig Kaspia"
+        "name": "Nouelig Azia"
       },
       {
         "lang": "ca",
@@ -2013,27 +2068,28 @@
         "name": "Kulík kaspický"
       },
       {
+        "lang": "cy",
+        "name": "Cwtiad Caspia"
+      },
+      {
         "lang": "da",
         "name": "Kaspisk præstekrave"
       },
       {
         "lang": "de",
-        "name": "Kaspischer Regenpfeifer",
-        "synonyms": [
-          "Wermutregenpfeifer"
-        ]
+        "name": "Kaspischer Regenpfeifer"
       },
       {
         "lang": "el",
-        "name": "Αψινθοσφυριχτής",
-        "synonyms": [
-          "Στεποπλουμίδι",
-          "Στεποσφυριχτής"
-        ]
+        "name": "Αψινθοσφυριχτής"
       },
       {
         "lang": "en",
         "name": "Caspian Plover"
+      },
+      {
+        "lang": "eo",
+        "name": "Kaspia pluvio"
       },
       {
         "lang": "es",
@@ -2057,17 +2113,11 @@
       },
       {
         "lang": "fr",
-        "name": "Pluvier asiatique",
-        "synonyms": [
-          "Gravelot asiatique"
-        ]
+        "name": "Pluvier asiatique"
       },
       {
         "lang": "he",
-        "name": "חופמי אסיה",
-        "synonyms": [
-          "חופמי אסיני"
-        ]
+        "name": "חופמי אסיה"
       },
       {
         "lang": "hu",
@@ -2091,18 +2141,11 @@
       },
       {
         "lang": "ja",
-        "name": "ニシオオチドリ [nishioochidori",
-        "synonyms": [
-          "ou-chidori]"
-        ]
+        "name": "ニシオオチドリ"
       },
       {
         "lang": "kk",
-        "name": "Сарысағақ шүрілдегі",
-        "synonyms": [
-          "Шүрілдек",
-          "Шығыс шүрілдек торғай"
-        ]
+        "name": "Сарысағақ шүрілдегі"
       },
       {
         "lang": "ko",
@@ -2111,6 +2154,14 @@
       {
         "lang": "lt",
         "name": "Kaspijinis kirlikas"
+      },
+      {
+        "lang": "ml",
+        "name": "കാസ്പിയൻ മണൽക്കോഴി"
+      },
+      {
+        "lang": "mr",
+        "name": "कॅस्पिअन चिखल्या"
       },
       {
         "lang": "mt",
@@ -2125,21 +2176,16 @@
         "name": "Rødbrystlo"
       },
       {
+        "lang": "nv",
+        "name": "Bilį́į́ʼ Ńdeiltihii Dineʼé Bikéyahdę́ę́ʼ tábąądijádíłbáhí"
+      },
+      {
         "lang": "pl",
-        "name": "Sieweczka dlugonoga",
-        "synonyms": [
-          "Sieweczka długonoga",
-          "Siewka długonoga"
-        ]
+        "name": "Sieweczka dlugonoga"
       },
       {
         "lang": "pt",
-        "name": "Borrelho asiatico",
-        "synonyms": [
-          "Borrelho do Cáspio",
-          "Borrelho-asiatico",
-          "Borrelho-asiático"
-        ]
+        "name": "Borrelho asiatico"
       },
       {
         "lang": "pnb",
@@ -2147,11 +2193,7 @@
       },
       {
         "lang": "ru",
-        "name": "Каспийский зуёк",
-        "synonyms": [
-          "Kaspiysky Zuyok",
-          "Зуек каспийский"
-        ]
+        "name": "Каспийский зуёк"
       },
       {
         "lang": "sk",
@@ -2175,20 +2217,11 @@
       },
       {
         "lang": "tr",
-        "name": "Doğu cılıbıtı",
-        "synonyms": [
-          "Asya Yağmurkuşu",
-          "Doğu Cılıbıt",
-          "Doğu cylybyty",
-          "Doşu Cılıbıtı"
-        ]
+        "name": "Doğu cılıbıtı"
       },
       {
         "lang": "uk",
-        "name": "Каспійський зуйок",
-        "synonyms": [
-          "Пісочник каспійський"
-        ]
+        "name": "Каспійський зуйок"
       },
       {
         "lang": "vi",
@@ -2289,12 +2322,12 @@
         "name": "Kentish Plover"
       },
       {
-        "lang": "es",
-        "name": "Chorlitejo patinegro"
-      },
-      {
         "lang": "eo",
         "name": "Marborda pluvio"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo patinegro"
       },
       {
         "lang": "eu",
@@ -2305,15 +2338,20 @@
         "name": "سلیم کوچک"
       },
       {
+        "lang": "fi",
+        "name": "Mustajalkatylli"
+      },
+      {
         "lang": "fo",
         "name": "Hvíthálsa"
       },
       {
         "lang": "fr",
-        "name": "Gravelot à collier interrompu",
-        "synonyms": [
-          "Pluvier à collier interrompu"
-        ]
+        "name": "Pluvier à collier interrompu"
+      },
+      {
+        "lang": "frr",
+        "name": "Mösk"
       },
       {
         "lang": "fy",
@@ -2324,28 +2362,20 @@
         "name": "Píllara papuda"
       },
       {
-        "lang": "hy",
-        "name": "Քարադր ծովային"
-      },
-      {
-        "lang": "it",
-        "name": "Fratino"
-      },
-      {
-        "lang": "lt",
-        "name": "Juodakojis kirlikas"
+        "lang": "he",
+        "name": "חופמי אלכסנדרי"
       },
       {
         "lang": "hu",
         "name": "Széki lile"
       },
       {
-        "lang": "ms",
-        "name": "Burung Rapang Pantai"
+        "lang": "hy",
+        "name": "Քարադր ծովային"
       },
       {
-        "lang": "nl",
-        "name": "Strandplevier"
+        "lang": "it",
+        "name": "Fratino"
       },
       {
         "lang": "ja",
@@ -2356,20 +2386,28 @@
         "name": "흰물떼새"
       },
       {
-        "lang": "frr",
-        "name": "Mösk"
+        "lang": "lt",
+        "name": "Juodakojis kirlikas"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Rapang Pantai"
+      },
+      {
+        "lang": "nl",
+        "name": "Strandplevier"
       },
       {
         "lang": "no",
         "name": "Hvitbrystlo"
       },
       {
-        "lang": "pnb",
-        "name": "کینٹش پلوور"
-      },
-      {
         "lang": "pl",
         "name": "Sieweczka morska"
+      },
+      {
+        "lang": "pnb",
+        "name": "کینٹش پلوور"
       },
       {
         "lang": "pt",
@@ -2382,10 +2420,6 @@
       {
         "lang": "sl",
         "name": "Beločeli deževnik"
-      },
-      {
-        "lang": "fi",
-        "name": "Mustajalkatylli"
       },
       {
         "lang": "sv",

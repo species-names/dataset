@@ -1,5 +1,89 @@
 [
   {
+    "scientific_name": "Zosterops winifredae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops virens",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops tetiparius",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops stuhlmanni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops stenocricotus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops socotranus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops semiflavus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops ponapensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops melanurus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops melanocephalus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops mbuluensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops mauritianus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops lugubris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops leucophaeus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops flavissimus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops flavilateralis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops eurycricotus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops emiliae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops dehaani",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops brunneus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops auriventer",
+    "common_names": []
+  },
+  {
     "scientific_name": "Zosterops xanthochroa",
     "common_names": [
       {
@@ -43,6 +127,22 @@
       {
         "lang": "fi",
         "name": "Vellalavellanrilli"
+      },
+      {
+        "lang": "de",
+        "name": "Bänderbrillenvogel"
+      },
+      {
+        "lang": "nl",
+        "name": "Vellalavellabrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ولالاولا چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "vellalavellaglasögonfågel"
       }
     ]
   },
@@ -73,15 +173,22 @@
       {
         "lang": "fi",
         "name": "Kultavatsarilli"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Zosterops tephropleurus",
-    "common_names": [
+      },
       {
-        "lang": "en",
-        "name": "Lord Howe Island White-eye"
+        "lang": "cy",
+        "name": "Llygadwyn toreurog"
+      },
+      {
+        "lang": "nl",
+        "name": "Toealbrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "سنہری ٹڈوالی چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "kaikecilglasögonfågel"
       }
     ]
   },
@@ -95,6 +202,38 @@
       {
         "lang": "fi",
         "name": "Norfolkinsaarenrilli"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn pigfain"
+      },
+      {
+        "lang": "de",
+        "name": "Dünnschnabel-Brillenvogel"
+      },
+      {
+        "lang": "fa",
+        "name": "چشم‌سفید نوک‌باریک"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops à bec fin"
+      },
+      {
+        "lang": "hu",
+        "name": "Vékonycsőrű pápaszemesmadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Dunsnavelbrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "پتلی چنجوالی چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "norfolkglasögonfågel"
       }
     ]
   },
@@ -168,6 +307,10 @@
         "name": "Zostérops de Céram"
       },
       {
+        "lang": "hu",
+        "name": "Seram-szigeti pápaszemesmadár"
+      },
+      {
         "lang": "nl",
         "name": "Cerambrilvogel"
       },
@@ -191,6 +334,22 @@
       {
         "lang": "es",
         "name": "Anteojitos espléndido"
+      },
+      {
+        "lang": "de",
+        "name": "Ranongga-Brillenvogel"
+      },
+      {
+        "lang": "nl",
+        "name": "Ganongabrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "راننگا چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "ranonggaglasögonfågel"
       }
     ]
   },
@@ -202,8 +361,37 @@
         "name": "Togian White-eye"
       },
       {
+        "lang": "hu",
+        "name": "Togian-szigeteki pápaszemesmadár"
+      },
+      {
         "lang": "pl",
         "name": "Szlarnik maskowy"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zosterops simplex",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Zosterops silvanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Taita white-eye"
+      },
+      {
+        "lang": "es",
+        "name": "anteojitos de los Taita"
+      },
+      {
+        "lang": "nl",
+        "name": "Taitabrilvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "taitaglasögonfågel"
       }
     ]
   },
@@ -211,12 +399,44 @@
     "scientific_name": "Zosterops senegalensis",
     "common_names": [
       {
-        "lang": "en",
-        "name": "African Yellow White-eye"
+        "lang": "af",
+        "name": "Geelglasogie"
       },
       {
-        "lang": "fi",
-        "name": "Afrikankeltarilli"
+        "lang": "cy",
+        "name": "Llygadwyn melyn Affrica"
+      },
+      {
+        "lang": "en",
+        "name": "Northern yellow white-eye"
+      },
+      {
+        "lang": "fa",
+        "name": "چشم‌سفید سنگالی"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops jaune"
+      },
+      {
+        "lang": "nl",
+        "name": "Noordelijke Afrikaanse brilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "افریقی پیلی چٹی اکھ"
+      },
+      {
+        "lang": "ru",
+        "name": "Сенегальская белоглазка"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk glasögonfågel"
+      },
+      {
+        "lang": "vi",
+        "name": "Vành khuyên vàng châu Phi"
       }
     ]
   },
@@ -262,29 +482,12 @@
         "name": "Samoanrilli"
       },
       {
+        "lang": "nl",
+        "name": "Savaibrilvogel"
+      },
+      {
         "lang": "sv",
         "name": "Samoaglasögonfågel"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Zosterops salvadorii",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Enggano White-eye"
-      },
-      {
-        "lang": "es",
-        "name": "Anteojitos de Enggano"
-      },
-      {
-        "lang": "fi",
-        "name": "Engganonrilli"
-      },
-      {
-        "lang": "ja",
-        "name": "エンガノメジロ"
       }
     ]
   },
@@ -292,12 +495,40 @@
     "scientific_name": "Zosterops rotensis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Rotabrillenvogel"
+      },
+      {
         "lang": "en",
         "name": "Rota Bridled White-eye"
       },
       {
+        "lang": "es",
+        "name": "Anteojitos de Rota"
+      },
+      {
         "lang": "fi",
         "name": "Rotasaarenrilli"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops de Rota"
+      },
+      {
+        "lang": "ja",
+        "name": "マリアナキメジロ"
+      },
+      {
+        "lang": "nl",
+        "name": "Rotabrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "روٹا چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "rotaglasögonfågel"
       }
     ]
   },
@@ -328,21 +559,8 @@
     ]
   },
   {
-    "scientific_name": "Zosterops poliogaster",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Montane White-eye"
-      },
-      {
-        "lang": "fi",
-        "name": "Etiopianrilli"
-      },
-      {
-        "lang": "nl",
-        "name": "Breedringbrilvogel"
-      }
-    ]
+    "scientific_name": "Zosterops poliogastrus",
+    "common_names": []
   },
   {
     "scientific_name": "Zosterops palpebrosus",
@@ -404,7 +622,26 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Yap Olive White-eye"
+        "name": "Yap Olive White-eye",
+        "synonyms": [
+          "Olive-colored white-eye"
+        ]
+      },
+      {
+        "lang": "de",
+        "name": "Yapbrillenvogel"
+      },
+      {
+        "lang": "nl",
+        "name": "Yapbrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "زیتونی چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "yapglasögonfågel"
       }
     ]
   },
@@ -460,6 +697,42 @@
       {
         "lang": "fi",
         "name": "Sangihenrilli"
+      },
+      {
+        "lang": "de",
+        "name": "Sangihe-Brillenvogel"
+      },
+      {
+        "lang": "fa",
+        "name": "چشم‌سفید سانگیهه"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops de Sangihe"
+      },
+      {
+        "lang": "hu",
+        "name": "Sangihe-szigeti pápaszemesmadár"
+      },
+      {
+        "lang": "id",
+        "name": "Kacamata sangihe"
+      },
+      {
+        "lang": "jv",
+        "name": "Kacamata sangihe"
+      },
+      {
+        "lang": "nl",
+        "name": "Sangirbrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالے تاجوالی چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "Sangiheglasögonfågel"
       }
     ]
   },
@@ -477,6 +750,26 @@
       {
         "lang": "fi",
         "name": "Joulusaarenrilli"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn Ynys y Nadolig"
+      },
+      {
+        "lang": "da",
+        "name": "Juleø-brillefugl"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops de Christmas"
+      },
+      {
+        "lang": "nl",
+        "name": "Christmas-Islandbrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "کرسمس چٹی اکھ"
       }
     ]
   },
@@ -494,6 +787,22 @@
       {
         "lang": "fi",
         "name": "Biakinrilli"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn Biak"
+      },
+      {
+        "lang": "nl",
+        "name": "Biakbrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "بیاک چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "biakglasögonfågel"
       }
     ]
   },
@@ -520,27 +829,30 @@
       {
         "lang": "fi",
         "name": "Komorienisorilli"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Zosterops montanus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Mountain White-eye"
       },
       {
-        "lang": "es",
-        "name": "Anteojitos montano"
+        "lang": "cy",
+        "name": "Llygadwyn Grand Comoro"
       },
       {
-        "lang": "fi",
-        "name": "Vuoririlli"
+        "lang": "de",
+        "name": "Karthalabrillenvogel"
       },
       {
-        "lang": "id",
-        "name": "Kacamata gunung"
+        "lang": "nl",
+        "name": "Karthalabrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "کرتھالا چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "karthalaglasögonfågel"
+      },
+      {
+        "lang": "zh",
+        "name": "科摩罗绣眼鸟"
       }
     ]
   },
@@ -562,6 +874,22 @@
       {
         "lang": "fi",
         "name": "Seychellienrilli"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn y Seychelles"
+      },
+      {
+        "lang": "nl",
+        "name": "Mahébrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "سشلز چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "mahéglasögonfågel"
       }
     ]
   },
@@ -707,6 +1035,18 @@
       {
         "lang": "fi",
         "name": "Keltanokkarilli"
+      },
+      {
+        "lang": "nl",
+        "name": "Gizobrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "گیزو چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "gizoglasögonfågel"
       }
     ]
   },
@@ -806,6 +1146,26 @@
       {
         "lang": "fi",
         "name": "Amboninrilli"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn Ambon"
+      },
+      {
+        "lang": "de",
+        "name": "Ambonbrillenvogel"
+      },
+      {
+        "lang": "nl",
+        "name": "Ambonese brilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ایمبون چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "ambonglasögonfågel"
       }
     ]
   },
@@ -815,6 +1175,24 @@
       {
         "lang": "en",
         "name": "Kirk's White-eye"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zosterops kikuyuensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Broad Ringed White-Eye",
+        "synonyms": [
+          "Broad-Ringed White-Eye",
+          "Kikuyu White-Eye",
+          "Montane White-Eye"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Breedringbrilvogel"
       }
     ]
   },
@@ -848,6 +1226,10 @@
       {
         "lang": "zh",
         "name": "暗綠繡眼鳥"
+      },
+      {
+        "lang": "id",
+        "name": "pleci"
       }
     ]
   },
@@ -899,6 +1281,22 @@
       {
         "lang": "fi",
         "name": "Yapinpikkurilli"
+      },
+      {
+        "lang": "de",
+        "name": "Schlichtbrillenvogel"
+      },
+      {
+        "lang": "nl",
+        "name": "Effen brilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "سادھ چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "vitögd glasögonfågel"
       }
     ]
   },
@@ -912,6 +1310,26 @@
       {
         "lang": "fi",
         "name": "Annoboninrilli"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn Annobon"
+      },
+      {
+        "lang": "de",
+        "name": "Annobón-Brillenvogel"
+      },
+      {
+        "lang": "nl",
+        "name": "Annobonbrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "انوبون چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "annobónglasögonfågel"
       }
     ]
   },
@@ -946,6 +1364,30 @@
       {
         "lang": "fi",
         "name": "Hopeavatsarilli"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn torwyn"
+      },
+      {
+        "lang": "de",
+        "name": "Graybrillenvogel"
+      },
+      {
+        "lang": "fa",
+        "name": "چشم‌سفید گری"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaibrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "نمبو ٹڈوالی چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "kaibesarglasögonfågel"
       }
     ]
   },
@@ -1030,16 +1472,53 @@
     "scientific_name": "Zosterops ficedulinus",
     "common_names": [
       {
-        "lang": "en",
-        "name": "São Tomé White-eye"
-      },
-      {
         "lang": "es",
         "name": "Ojiblanco de Príncipe"
       },
       {
-        "lang": "fi",
-        "name": "Guineanrilli"
+        "lang": "cy",
+        "name": "Llygadwyn Principé"
+      },
+      {
+        "lang": "en",
+        "name": "Príncipe white-eye"
+      },
+      {
+        "lang": "nl",
+        "name": "Principebrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ساؤ ٹوم چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "príncipeglasögonfågel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zosterops feae",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "São-Tomé-Brillenvogel"
+      },
+      {
+        "lang": "en",
+        "name": "São Tomé white-eye"
+      },
+      {
+        "lang": "nl",
+        "name": "Saotomébrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "پرنسپ چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "sãotoméglasögonfågel"
       }
     ]
   },
@@ -1100,6 +1579,42 @@
       {
         "lang": "fi",
         "name": "Pohjoismikronesianrilli"
+      },
+      {
+        "lang": "ca",
+        "name": "Zostèrops de brides"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn ffrwynog"
+      },
+      {
+        "lang": "fa",
+        "name": "چشم‌سفید لگام‌دار"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops bridé"
+      },
+      {
+        "lang": "hu",
+        "name": "Semper-pápaszemesmadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Marianenbrilvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Szlarnik pacyficzny"
+      },
+      {
+        "lang": "pnb",
+        "name": "زوسٹیروپس کونسپاکالس"
+      },
+      {
+        "lang": "sv",
+        "name": "marianerglasögonfågel"
       }
     ]
   },
@@ -1164,6 +1679,30 @@
       {
         "lang": "fi",
         "name": "Mauritiuksenrilli"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn Mauritius"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops de Maurice"
+      },
+      {
+        "lang": "lv",
+        "name": "Maurīcijas olīvzaļā baltactiņa"
+      },
+      {
+        "lang": "nl",
+        "name": "Olijfgroene mauritiusbrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "ماریشس چٹی اکھ"
+      },
+      {
+        "lang": "sv",
+        "name": "mauritiusglasögonfågel"
       }
     ]
   },
@@ -1307,6 +1846,56 @@
     ]
   },
   {
+    "scientific_name": "Zosterops anderssoni",
+    "common_names": [
+      {
+        "lang": "nl",
+        "name": "Zuidelijke Afrikaanse brilvogel"
+      },
+      {
+        "lang": "en",
+        "name": "Southern yellow white-eye"
+      },
+      {
+        "lang": "sv",
+        "name": "anderssonglasögonfågel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zosterops aldabrensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Aldabra White-eye"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinrilli"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops d'Aldabra"
+      },
+      {
+        "lang": "ja",
+        "name": "アルダブラメジロ"
+      },
+      {
+        "lang": "nl",
+        "name": "Aldabrabrilvogel"
+      },
+      {
+        "lang": "no",
+        "name": "aldabrabrillefugl"
+      },
+      {
+        "lang": "pl",
+        "name": "szlarnik aldabrański"
+      }
+    ]
+  },
+  {
     "scientific_name": "Zosterops albogularis",
     "common_names": [
       {
@@ -1324,6 +1913,46 @@
       {
         "lang": "ja",
         "name": "ノーフォークメジロ"
+      },
+      {
+        "lang": "bg",
+        "name": "Белогърда белоочка"
+      },
+      {
+        "lang": "cy",
+        "name": "Llygadwyn bronwyn Ynys Norfolk"
+      },
+      {
+        "lang": "fa",
+        "name": "چشم‌سفید گلوسفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Zostérops à poitrine blanche"
+      },
+      {
+        "lang": "hu",
+        "name": "Ezüstbegyű pápaszemesmadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Norfolkbrilvogel"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹی چھاتیوالی چٹی اکھ"
+      },
+      {
+        "lang": "ru",
+        "name": "Норфолкская белоглазка"
+      },
+      {
+        "lang": "sv",
+        "name": "vitbröstad glasögonfågel"
+      },
+      {
+        "lang": "zh",
+        "name": "白胸繡眼鳥"
       }
     ]
   },

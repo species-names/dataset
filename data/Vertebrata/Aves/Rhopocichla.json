@@ -1,6 +1,39 @@
 [
   {
     "scientific_name": "Rhopocichla atriceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Preblyn penddu India"
+      },
+      {
+        "lang": "en",
+        "name": "Dark-fronted Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí frentinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Timalie à tête noire"
+      },
+      {
+        "lang": "ml",
+        "name": "പൊടിച്ചിലപ്പൻ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartvoorhoofdbabbelaar"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноголовый бабблер"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthuvad timalia"
+      }
+    ]
   }
 ]

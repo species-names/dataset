@@ -12,10 +12,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Coenocorypha huegeli",
-    "common_names": []
-  },
-  {
     "scientific_name": "Coenocorypha pusilla",
     "common_names": [
       {
@@ -73,11 +69,56 @@
     "common_names": []
   },
   {
+    "scientific_name": "Coenocorypha huegeli",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Becada de les Snares"
+      },
+      {
+        "lang": "en",
+        "name": "Snares snipe"
+      },
+      {
+        "lang": "fa",
+        "name": "پاشلک جزیره اسنرز"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécassine des Snares"
+      },
+      {
+        "lang": "nl",
+        "name": "Snaressnip"
+      },
+      {
+        "lang": "nv",
+        "name": "Łeesdísí Bikéyahdę́ę́ʼ tábąąsdísí yázhí"
+      },
+      {
+        "lang": "pl",
+        "name": "Bekas jarzębaty"
+      },
+      {
+        "lang": "sv",
+        "name": "snaresbeckasin"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim dẽ giun Snares"
+      }
+    ]
+  },
+  {
     "scientific_name": "Coenocorypha aucklandica",
     "common_names": [
       {
         "lang": "cs",
         "name": "Bekasina malá"
+      },
+      {
+        "lang": "en",
+        "name": "Subantarctic Snipe"
       },
       {
         "lang": "sv",

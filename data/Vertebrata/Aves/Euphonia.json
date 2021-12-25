@@ -68,14 +68,39 @@
     "scientific_name": "Euphonia rufiventris",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Rufous-bellied euphonia"
+      },
+      {
         "lang": "pt",
         "name": "Tom-tom"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Gaturamo-do-norte"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia ventrirrufa"
       }
     ]
   },
   {
     "scientific_name": "Euphonia plumbea",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Plumbeous euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia plúmbea"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaturamo-anão"
+      }
+    ]
   },
   {
     "scientific_name": "Euphonia pectoralis",
@@ -339,6 +364,10 @@
       {
         "lang": "es",
         "name": "Fruterito elegante"
+      },
+      {
+        "lang": "en",
+        "name": "Elegant Euphonia"
       }
     ]
   },
@@ -348,6 +377,14 @@
       {
         "lang": "pt",
         "name": "Gaturamo-rei"
+      },
+      {
+        "lang": "en",
+        "name": "Golden-rumped Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia Culidorada"
       }
     ]
   },

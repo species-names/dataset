@@ -3,12 +3,28 @@
     "scientific_name": "Hesperiphona vespertina",
     "common_names": [
       {
+        "lang": "atj",
+        "name": "Tcari"
+      },
+      {
+        "lang": "bg",
+        "name": "Вечерна тъпочовка"
+      },
+      {
         "lang": "br",
         "name": "Beg-tev tal melen"
       },
       {
+        "lang": "ca",
+        "name": "Durbec groc"
+      },
+      {
         "lang": "cs",
         "name": "Dlask žlutočelý"
+      },
+      {
+        "lang": "cy",
+        "name": "Tewbig cyfnos"
       },
       {
         "lang": "da",
@@ -23,12 +39,20 @@
         "name": "Evening Grosbeak"
       },
       {
+        "lang": "eo",
+        "name": "Vespera kokotraŭsto"
+      },
+      {
         "lang": "es",
-        "name": "Picogordo Vespertino"
+        "name": "Picogordo vespertino"
       },
       {
         "lang": "et",
         "name": "Ameerika suurnokk-vint"
+      },
+      {
+        "lang": "eu",
+        "name": "Mokolodi hori"
       },
       {
         "lang": "fi",
@@ -56,18 +80,11 @@
       },
       {
         "lang": "it",
-        "name": "Frosone vespertino"
+        "name": "Frosone vespertino americano"
       },
       {
         "lang": "ja",
         "name": "キビタイシメ"
-      },
-      {
-        "lang": "la",
-        "name": "Coccothraustes vespertinus",
-        "synonyms": [
-          "Hesperiphona vespertina"
-        ]
       },
       {
         "lang": "lkt",
@@ -115,7 +132,7 @@
       },
       {
         "lang": "zh",
-        "name": "黄昏锡嘴雀"
+        "name": "黄昏雀"
       }
     ]
   },

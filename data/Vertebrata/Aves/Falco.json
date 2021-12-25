@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Falco bulgaricus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Falco zoniventris",
     "common_names": [
       {
@@ -392,7 +388,7 @@
       },
       {
         "lang": "eo",
-        "name": "Turfalko"
+        "name": "Komuna turfalko"
       },
       {
         "lang": "es",
@@ -520,7 +516,7 @@
       },
       {
         "lang": "lez",
-        "name": "ГьакIан тIегъерхъан"
+        "name": "Гьакӏан тӏегъерхъан"
       },
       {
         "lang": "li",
@@ -544,7 +540,7 @@
       },
       {
         "lang": "ml",
-        "name": "വിറയന്‍  പുള്ള്"
+        "name": "വിറയന്‍ പുള്ള്"
       },
       {
         "lang": "mn",
@@ -588,7 +584,10 @@
       },
       {
         "lang": "pl",
-        "name": "Pustułka"
+        "name": "Pustułka zwyczajna",
+        "synonyms": [
+          "pustułka"
+        ]
       },
       {
         "lang": "pms",
@@ -1096,7 +1095,7 @@
       },
       {
         "lang": "cs",
-        "name": "poštolka pestrá"
+        "name": "Poštolka pestrá"
       },
       {
         "lang": "da",
@@ -1116,14 +1115,11 @@
       },
       {
         "lang": "es",
-        "name": "cernícalo americano",
-        "synonyms": [
-          "Halconcito Común (Argentina)"
-        ]
+        "name": "Cernícalo americano"
       },
       {
         "lang": "fi",
-        "name": "amerikantuulihaukka"
+        "name": "Amerikantuulihaukka"
       },
       {
         "lang": "fr",
@@ -1143,10 +1139,7 @@
       },
       {
         "lang": "ja",
-        "name": "アメリカチョウゲンボウ",
-        "synonyms": [
-          "amerikachougembou"
-        ]
+        "name": "アメリカチョウゲンボウ"
       },
       {
         "lang": "lkt",
@@ -1182,7 +1175,7 @@
       },
       {
         "lang": "sk",
-        "name": "sokol pestrý"
+        "name": "Sokol pestrý"
       },
       {
         "lang": "sv",
@@ -1328,7 +1321,10 @@
       },
       {
         "lang": "hu",
-        "name": "Északi sólyom"
+        "name": "Északi sólyom",
+        "synonyms": [
+          "vadászsólyom"
+        ]
       },
       {
         "lang": "io",
@@ -1529,10 +1525,6 @@
         "name": "Crécerelle de Maurice"
       },
       {
-        "lang": "hu",
-        "name": "Mauritiusi vércse"
-      },
-      {
         "lang": "ja",
         "name": "モーリシャスチョウゲンボウ"
       },
@@ -1547,6 +1539,70 @@
       {
         "lang": "uk",
         "name": "Сокіл"
+      },
+      {
+        "lang": "bg",
+        "name": "Маврицийска ветрушка"
+      },
+      {
+        "lang": "ca",
+        "name": "Xoriguer de l'illa de Maurici"
+      },
+      {
+        "lang": "cy",
+        "name": "Cudyll coch Mauritius"
+      },
+      {
+        "lang": "da",
+        "name": "Mauritiustårnfalk"
+      },
+      {
+        "lang": "fa",
+        "name": "دلیجه موریس"
+      },
+      {
+        "lang": "he",
+        "name": "בז מאוריציוס"
+      },
+      {
+        "lang": "hu",
+        "name": "Mauritiusi vércse"
+      },
+      {
+        "lang": "lez",
+        "name": "Маврикийдин тӀегъерхъан"
+      },
+      {
+        "lang": "lv",
+        "name": "Maurīcijas piekūns"
+      },
+      {
+        "lang": "nl",
+        "name": "Mauritiaanse torenvalk"
+      },
+      {
+        "lang": "nv",
+        "name": "Bitsįʼ Yishtłizhii Tónteeldę́ę́ʼ giní dootłʼizhí"
+      },
+      {
+        "lang": "pl",
+        "name": "Pustułka maskareńska"
+      },
+      {
+        "lang": "ru",
+        "name": "Маврикийская пустельга"
+      },
+      {
+        "lang": "sv",
+        "name": "mauritiusfalk"
+      },
+      {
+        "lang": "vi",
+        "name": "Cắt Mauritius"
+      },
+      {
+        "lang": "zh",
+        "name": "毛里裘斯隼"
       }
     ]
   },
@@ -1779,7 +1835,7 @@
       },
       {
         "lang": "lez",
-        "name": "ГьакIан кард"
+        "name": "Гьакӏан кард"
       },
       {
         "lang": "li",
@@ -1976,35 +2032,6 @@
     ]
   },
   {
-    "scientific_name": "Falco pelegrinoides",
-    "common_names": [
-      {
-        "lang": "de",
-        "name": "Wüstenfalke"
-      },
-      {
-        "lang": "en",
-        "name": "Barbary Falcon"
-      },
-      {
-        "lang": "fi",
-        "name": "Arabihaukka"
-      },
-      {
-        "lang": "sv",
-        "name": "Berberfalk"
-      },
-      {
-        "lang": "tr",
-        "name": "Kızıl enseli doğan"
-      },
-      {
-        "lang": "zh",
-        "name": "擬游隼"
-      }
-    ]
-  },
-  {
     "scientific_name": "Falco novaeseelandiae",
     "common_names": [
       {
@@ -2128,6 +2155,10 @@
       {
         "lang": "et",
         "name": "Stepi-tuuletallaja"
+      },
+      {
+        "lang": "ext",
+        "name": "Mícal"
       },
       {
         "lang": "eu",
@@ -2343,6 +2374,10 @@
         "name": "Prairie Falcon"
       },
       {
+        "lang": "eo",
+        "name": "Preria falko"
+      },
+      {
         "lang": "fi",
         "name": "Preeriahaukka"
       },
@@ -2450,7 +2485,7 @@
       },
       {
         "lang": "fr",
-        "name": "faucon gris"
+        "name": "Faucon gris"
       },
       {
         "lang": "fi",
@@ -2807,6 +2842,10 @@
         "name": "Sooty Falcon"
       },
       {
+        "lang": "eo",
+        "name": "Fulga falko"
+      },
+      {
         "lang": "fi",
         "name": "Nokihaukka"
       },
@@ -2885,7 +2924,7 @@
       },
       {
         "lang": "eo",
-        "name": "Kolombfalko"
+        "name": "Kolombofalko"
       },
       {
         "lang": "es",
@@ -3166,7 +3205,7 @@
       },
       {
         "lang": "eo",
-        "name": "Tatarfalko"
+        "name": "Tatara falko"
       },
       {
         "lang": "es",
@@ -3330,7 +3369,7 @@
       },
       {
         "lang": "fr",
-        "name": "crécerelle d'Australie"
+        "name": "Crécerelle d'Australie"
       },
       {
         "lang": "fi",
@@ -3341,6 +3380,10 @@
         "name": "Avustralya kerkenezi"
       }
     ]
+  },
+  {
+    "scientific_name": "Falco bulgaricus",
+    "common_names": []
   },
   {
     "scientific_name": "Falco biarmicus",
@@ -3391,7 +3434,7 @@
       },
       {
         "lang": "eo",
-        "name": "Balkanfalko"
+        "name": "Balkana falko"
       },
       {
         "lang": "es",
@@ -3571,7 +3614,7 @@
       },
       {
         "lang": "fr",
-        "name": "faucon bérigora"
+        "name": "Faucon bérigora"
       },
       {
         "lang": "fi",
@@ -3665,6 +3708,10 @@
         "name": "Amur Falcon"
       },
       {
+        "lang": "eo",
+        "name": "Amura falko"
+      },
+      {
         "lang": "es",
         "name": "Cernícalo del Amur"
       },
@@ -3722,7 +3769,10 @@
       },
       {
         "lang": "zh",
-        "name": "紅足隼"
+        "name": "阿穆尔隼",
+        "synonyms": [
+          "东紅脚隼"
+        ]
       }
     ]
   },

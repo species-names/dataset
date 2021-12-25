@@ -28,16 +28,36 @@
     "scientific_name": "Zenaida macroura",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حمامة الحداد"
+      },
+      {
+        "lang": "arz",
+        "name": "حمامة الحداد"
+      },
+      {
         "lang": "bg",
         "name": "Плачеща гургулица"
       },
       {
+        "lang": "br",
+        "name": "Turzhunell drist"
+      },
+      {
         "lang": "ca",
-        "name": "Tortoreta cuallarga"
+        "name": "Tórtora nord-americana"
+      },
+      {
+        "lang": "ckb",
+        "name": "کۆترەباریکە"
       },
       {
         "lang": "cs",
         "name": "Hrdlička karolinská"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen alarus"
       },
       {
         "lang": "da",
@@ -57,7 +77,7 @@
       },
       {
         "lang": "es",
-        "name": "Zenaida Huilota"
+        "name": "Zenaida huilota"
       },
       {
         "lang": "fa",
@@ -89,7 +109,7 @@
       },
       {
         "lang": "it",
-        "name": "Tortora luttuosa"
+        "name": "Tortora americana"
       },
       {
         "lang": "ja",
@@ -110,6 +130,10 @@
       {
         "lang": "no",
         "name": "Sørgedue"
+      },
+      {
+        "lang": "nv",
+        "name": "Hasbídí łibáhígíí"
       },
       {
         "lang": "pl",
@@ -138,6 +162,10 @@
       {
         "lang": "ta",
         "name": "ஆமைப் புறா"
+      },
+      {
+        "lang": "uk",
+        "name": "Зенаїда північна"
       },
       {
         "lang": "vi",
@@ -252,15 +280,31 @@
     ]
   },
   {
+    "scientific_name": "Zenaida aurita zenaida",
+    "common_names": []
+  },
+  {
     "scientific_name": "Zenaida aurita",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Tórtora del Carib"
+      },
       {
         "lang": "cs",
         "name": "Hrdlička karibská"
       },
       {
+        "lang": "cy",
+        "name": "Turtur Zenaida"
+      },
+      {
+        "lang": "da",
+        "name": "Zenaidadue"
+      },
+      {
         "lang": "de",
-        "name": "Küstentaube"
+        "name": "Liebestaube"
       },
       {
         "lang": "en",
@@ -275,16 +319,40 @@
         "name": "Zenaida caribeña"
       },
       {
+        "lang": "fa",
+        "name": "کبوتر زنایدا"
+      },
+      {
         "lang": "fr",
         "name": "Tourterelle à queue carrée"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora di Zenaide"
       },
       {
         "lang": "ja",
         "name": "シマハジロバト"
       },
       {
+        "lang": "mrj",
+        "name": "Антил тыргӓдӹ"
+      },
+      {
         "lang": "nl",
-        "name": "Antilliaanse treurduif"
+        "name": "Antilliaanse Treurduif"
+      },
+      {
+        "lang": "no",
+        "name": "Vestindiadue"
+      },
+      {
+        "lang": "pnb",
+        "name": "زنیدا کگی"
+      },
+      {
+        "lang": "ru",
+        "name": "Антильская горлица"
       },
       {
         "lang": "sv",

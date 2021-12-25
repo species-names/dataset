@@ -1,5 +1,17 @@
 [
   {
+    "scientific_name": "Cisticola lugubris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cisticola luapula",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cisticola haematocephalus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Cisticola woosnami",
     "common_names": [
       {
@@ -14,11 +26,101 @@
   },
   {
     "scientific_name": "Cisticola tinniens",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Vleitinktinkie"
+      },
+      {
+        "lang": "ca",
+        "name": "Cistícola de Levaillant"
+      },
+      {
+        "lang": "cs",
+        "name": "Cistovník štíhlý"
+      },
+      {
+        "lang": "cy",
+        "name": "Sisticola Levaillant"
+      },
+      {
+        "lang": "da",
+        "name": "Sydafrikansk Cisticola"
+      },
+      {
+        "lang": "de",
+        "name": "Vleyzistensänger"
+      },
+      {
+        "lang": "en",
+        "name": "Levaillant's Cisticola"
+      },
+      {
+        "lang": "eo",
+        "name": "Levajanta cistikolo"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola de Levaillant"
+      },
+      {
+        "lang": "fa",
+        "name": "سبدنشین لوایان"
+      },
+      {
+        "lang": "fi",
+        "name": "Lampiherttu"
+      },
+      {
+        "lang": "fr",
+        "name": "Cisticole à sonnette"
+      },
+      {
+        "lang": "nl",
+        "name": "Valleigraszanger"
+      },
+      {
+        "lang": "sv",
+        "name": "Sonettcistikola"
+      }
+    ]
   },
   {
     "scientific_name": "Cisticola textrix",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Gevlekte klopkloppie"
+      },
+      {
+        "lang": "cy",
+        "name": "Sisticola tinc-tinc"
+      },
+      {
+        "lang": "en",
+        "name": "Cloud Cisticola"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola pinc-pinc"
+      },
+      {
+        "lang": "fa",
+        "name": "سبدنشین ابری"
+      },
+      {
+        "lang": "fi",
+        "name": "Pilviherttu"
+      },
+      {
+        "lang": "nl",
+        "name": "Tinktinkgraszanger"
+      },
+      {
+        "lang": "sv",
+        "name": "Molncistikola"
+      }
+    ]
   },
   {
     "scientific_name": "Cisticola subruficapilla",
@@ -32,8 +134,40 @@
     "scientific_name": "Cisticola rufilatus",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Rooitinktinkie"
+      },
+      {
+        "lang": "cy",
+        "name": "Sisticola tinciog"
+      },
+      {
         "lang": "en",
-        "name": "Grey Cisticola"
+        "name": "Tinkling Cisticola"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola gris"
+      },
+      {
+        "lang": "fa",
+        "name": "سبدنشین جیرینگی"
+      },
+      {
+        "lang": "fi",
+        "name": "Tiukuherttu"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodstaartgraszanger"
+      },
+      {
+        "lang": "pt",
+        "name": "Fuinha-rabirruiva"
+      },
+      {
+        "lang": "sv",
+        "name": "Kalaharicistikola"
       }
     ]
   },
@@ -52,7 +186,48 @@
   },
   {
     "scientific_name": "Cisticola restrictus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Sisticola Afon Tana"
+      },
+      {
+        "lang": "de",
+        "name": "Tanazistensänger"
+      },
+      {
+        "lang": "en",
+        "name": "Tana River Cisticola"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola del Tana"
+      },
+      {
+        "lang": "fa",
+        "name": "سبدنشین رودخانه تانا"
+      },
+      {
+        "lang": "fi",
+        "name": "Tanajoenherttu"
+      },
+      {
+        "lang": "nl",
+        "name": "Tanagraszanger"
+      },
+      {
+        "lang": "pl",
+        "name": "Chwastówka rzeczna"
+      },
+      {
+        "lang": "sv",
+        "name": "Tanacistikola"
+      },
+      {
+        "lang": "zh",
+        "name": "塔那河扇尾鶯"
+      }
+    ]
   },
   {
     "scientific_name": "Cisticola pipiens",
@@ -72,7 +247,23 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Black-lored cisticola"
+        "name": "Black-lored Cisticola"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola enmascarado"
+      },
+      {
+        "lang": "fi",
+        "name": "Pensasherttu"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartteugelgraszanger"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarttyglad cistikola"
       }
     ]
   },
@@ -90,8 +281,13 @@
     ]
   },
   {
-    "scientific_name": "Cisticola nanus",
-    "common_names": []
+    "scientific_name": "Cisticola nana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tiny Cisticola"
+      }
+    ]
   },
   {
     "scientific_name": "Cisticola mongalla",
@@ -100,6 +296,35 @@
   {
     "scientific_name": "Cisticola melanurus",
     "common_names": []
+  },
+  {
+    "scientific_name": "Cisticola marginatus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Heuglinzistensänger"
+      },
+      {
+        "lang": "en",
+        "name": "Winding Cisticola"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola del Nilo"
+      },
+      {
+        "lang": "fr",
+        "name": "Cisticole du Nil"
+      },
+      {
+        "lang": "nl",
+        "name": "Heuglins graszanger"
+      },
+      {
+        "lang": "sv",
+        "name": "Mörkryggig cistikola"
+      }
+    ]
   },
   {
     "scientific_name": "Cisticola lepe",
@@ -111,7 +336,96 @@
   },
   {
     "scientific_name": "Cisticola lais",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Huiltinktinkie"
+      },
+      {
+        "lang": "cs",
+        "name": "Cistovník naříkavý"
+      },
+      {
+        "lang": "da",
+        "name": "Klagesicticola"
+      },
+      {
+        "lang": "de",
+        "name": "Trauerzistensänger"
+      },
+      {
+        "lang": "en",
+        "name": "Wailing Cisticola"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola plañidero"
+      },
+      {
+        "lang": "fi",
+        "name": "Vaikertajaherttu"
+      },
+      {
+        "lang": "fr",
+        "name": "Cisticole plaintive"
+      },
+      {
+        "lang": "it",
+        "name": "Cisticola lamentosa"
+      },
+      {
+        "lang": "ja",
+        "name": "シロハラセッカ"
+      },
+      {
+        "lang": "nl",
+        "name": "Jammergraszanger"
+      },
+      {
+        "lang": "no",
+        "name": "Jamregressanger"
+      },
+      {
+        "lang": "pl",
+        "name": "Chwastówka placzliwa"
+      },
+      {
+        "lang": "pt",
+        "name": "Fuinha-chorona"
+      },
+      {
+        "lang": "ru",
+        "name": "Траурная цистикола"
+      },
+      {
+        "lang": "sk",
+        "name": "Cistovník trávový"
+      },
+      {
+        "lang": "sn",
+        "name": "Kadhi-idhi-i"
+      },
+      {
+        "lang": "sv",
+        "name": "Jämmercistikola"
+      },
+      {
+        "lang": "sw",
+        "name": "Kidenenda Mwombolezaji"
+      },
+      {
+        "lang": "ts",
+        "name": "Ngonhavarimi"
+      },
+      {
+        "lang": "xh",
+        "name": "Iqobo"
+      },
+      {
+        "lang": "zh",
+        "name": "啸声扇尾莺"
+      }
+    ]
   },
   {
     "scientific_name": "Cisticola juncidis",
@@ -239,18 +553,120 @@
   },
   {
     "scientific_name": "Cisticola hunteri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Sisticola Hunter"
+      },
+      {
+        "lang": "en",
+        "name": "Hunter's Cisticola"
+      },
+      {
+        "lang": "eo",
+        "name": "Huntera cistikolo"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola de Hunter"
+      },
+      {
+        "lang": "fa",
+        "name": "سبدنشین هانتر"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuoriherttu"
+      },
+      {
+        "lang": "nl",
+        "name": "Hunters graszanger"
+      },
+      {
+        "lang": "sv",
+        "name": "Kilimanjarocistikola"
+      }
+    ]
   },
   {
     "scientific_name": "Cisticola haesitatus",
     "common_names": []
   },
   {
+    "scientific_name": "Cisticola guinea",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Sisticola cynffonhir"
+      },
+      {
+        "lang": "en",
+        "name": "Dorst's Cisticola"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola de Dorst"
+      },
+      {
+        "lang": "fa",
+        "name": "سبدنشین دورست"
+      },
+      {
+        "lang": "nl",
+        "name": "Klaaggraszanger"
+      },
+      {
+        "lang": "sv",
+        "name": "Guineacistikola"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cisticola galactotes",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Swartrugtinktinkie"
+      },
+      {
+        "lang": "ca",
+        "name": "Cistícola d'ales rogenques"
+      },
+      {
+        "lang": "cy",
+        "name": "Sisticola cleciog"
+      },
+      {
+        "lang": "de",
+        "name": "Temminckzistensänger"
+      },
+      {
         "lang": "en",
-        "name": "Winding Cisticola"
+        "name": "Rufous-winged Cisticola"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola alirrojo"
+      },
+      {
+        "lang": "fa",
+        "name": "سبدنشین پیچان"
+      },
+      {
+        "lang": "fi",
+        "name": "Luhtaherttu"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartruggraszanger"
+      },
+      {
+        "lang": "pt",
+        "name": "Fuinha-de-dorso-preto"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostvingad cistikola"
       }
     ]
   },
@@ -272,7 +688,60 @@
   },
   {
     "scientific_name": "Cisticola exilis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "as",
+        "name": "টিক টিক চৰাই"
+      },
+      {
+        "lang": "en",
+        "name": "Golden-headed Cisticola"
+      },
+      {
+        "lang": "es",
+        "name": "Cistícola cabecidorado"
+      },
+      {
+        "lang": "fr",
+        "name": "Cisticole à couronne dorée"
+      },
+      {
+        "lang": "id",
+        "name": "Cici merah"
+      },
+      {
+        "lang": "ml",
+        "name": "നെൽപ്പൊട്ടൻ"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudkopgraszanger"
+      },
+      {
+        "lang": "ne",
+        "name": "सुनटाउके फिर्फिरे"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultapääherttu"
+      },
+      {
+        "lang": "ja",
+        "name": "タイワンセッカ"
+      },
+      {
+        "lang": "sv",
+        "name": "Gyllencistikola"
+      },
+      {
+        "lang": "vi",
+        "name": "Chiền chiện đồng vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "金头扇尾莺"
+      }
+    ]
   },
   {
     "scientific_name": "Cisticola erythrops",
@@ -281,15 +750,6 @@
   {
     "scientific_name": "Cisticola emini",
     "common_names": []
-  },
-  {
-    "scientific_name": "Cisticola dorsti",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Dorst's Cisticola"
-      }
-    ]
   },
   {
     "scientific_name": "Cisticola distinctus",

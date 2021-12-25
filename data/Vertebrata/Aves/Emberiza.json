@@ -40,6 +40,10 @@
       {
         "lang": "ja",
         "name": "シロハラホオジロ"
+      },
+      {
+        "lang": "ko",
+        "name": "흰배멧새"
       }
     ]
   },
@@ -109,6 +113,10 @@
   {
     "scientific_name": "Emberiza sulphurata",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Schwefelammer"
+      },
       {
         "lang": "en",
         "name": "Yellow Bunting"
@@ -207,6 +215,10 @@
       {
         "lang": "ja",
         "name": "アオジ"
+      },
+      {
+        "lang": "ko",
+        "name": "촉새"
       },
       {
         "lang": "zh",
@@ -443,6 +455,10 @@
       {
         "lang": "ja",
         "name": "シマノジコ"
+      },
+      {
+        "lang": "ko",
+        "name": "꼬까참새"
       }
     ]
   },
@@ -488,6 +504,10 @@
       {
         "lang": "ja",
         "name": "カシラダカ"
+      },
+      {
+        "lang": "ko",
+        "name": "쑥새"
       },
       {
         "lang": "sv",
@@ -561,6 +581,10 @@
       {
         "lang": "ja",
         "name": "コホオアカ"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠붉은뺨멧새"
       },
       {
         "lang": "lt",
@@ -655,6 +679,10 @@
       {
         "lang": "ja",
         "name": "シベリアジュリン"
+      },
+      {
+        "lang": "ko",
+        "name": "북방검은머리쑥새"
       }
     ]
   },
@@ -748,7 +776,7 @@
       },
       {
         "lang": "tr",
-        "name": "Ak başlı çinte - Ak başlı kiraz kuşu"
+        "name": "Ak başlı çinte"
       }
     ]
   },
@@ -826,8 +854,56 @@
     "scientific_name": "Emberiza jankowskii",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Bras Jankowski"
+      },
+      {
+        "lang": "en",
+        "name": "Jankowski's bunting"
+      },
+      {
+        "lang": "eo",
+        "name": "Jankovska emberizo"
+      },
+      {
+        "lang": "fa",
+        "name": "زردپره یانکوفسکی"
+      },
+      {
         "lang": "fi",
         "name": "Mäkisirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant de Jankowski"
+      },
+      {
+        "lang": "hu",
+        "name": "Barkós sármány"
+      },
+      {
+        "lang": "mn",
+        "name": "Янковскийн хөмрөг"
+      },
+      {
+        "lang": "nl",
+        "name": "Jankowski's gors"
+      },
+      {
+        "lang": "pl",
+        "name": "Trznadel Jankowskiego"
+      },
+      {
+        "lang": "ru",
+        "name": "Овсянка Янковского"
+      },
+      {
+        "lang": "sv",
+        "name": "jankowskisparv"
+      },
+      {
+        "lang": "zh",
+        "name": "栗斑腹鹀"
       }
     ]
   },
@@ -1096,16 +1172,36 @@
     "scientific_name": "Emberiza elegans",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Gelbkehlammer"
+      },
+      {
         "lang": "en",
         "name": "Yellow-throated Bunting"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultatöyhtösirkku"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant élégant"
       },
       {
         "lang": "ja",
         "name": "ミヤマホオジロ"
       },
       {
-        "lang": "fi",
-        "name": "Kultatöyhtösirkku"
+        "lang": "ko",
+        "name": "노랑턱멧새"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelkeelgors"
+      },
+      {
+        "lang": "sv",
+        "name": "Praktsparv"
       }
     ]
   },
@@ -1503,6 +1599,10 @@
       {
         "lang": "ja",
         "name": "キマユホオジロ"
+      },
+      {
+        "lang": "ko",
+        "name": "노랑눈썹멧새"
       }
     ]
   },

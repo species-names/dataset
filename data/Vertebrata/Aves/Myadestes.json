@@ -42,6 +42,30 @@
       {
         "lang": "fi",
         "name": "Kauainpikkurastuli"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych bach Kauai"
+      },
+      {
+        "lang": "eo",
+        "name": "Puaiohi"
+      },
+      {
+        "lang": "fr",
+        "name": "Solitaire puaïohi"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine kauailijster"
+      },
+      {
+        "lang": "nv",
+        "name": "Kéyah Ałkééʼ Naaznilgo Dah Ndaaʼeełídę́ę́ʼ dóliiłbáhí yázhí"
+      },
+      {
+        "lang": "sv",
+        "name": "puaiohi"
       }
     ]
   },
@@ -165,7 +189,44 @@
   },
   {
     "scientific_name": "Myadestes lanaiensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Brych Lanai"
+      },
+      {
+        "lang": "en",
+        "name": "Olomaʻo"
+      },
+      {
+        "lang": "eo",
+        "name": "Olomao"
+      },
+      {
+        "lang": "fi",
+        "name": "Lanainrastuli"
+      },
+      {
+        "lang": "hu",
+        "name": "Lanai klarinétmadár"
+      },
+      {
+        "lang": "nl",
+        "name": "Lanailijster"
+      },
+      {
+        "lang": "pl",
+        "name": "Klarnetnik blady"
+      },
+      {
+        "lang": "sv",
+        "name": "olomao"
+      },
+      {
+        "lang": "zh",
+        "name": "拉奈孤鶇"
+      }
+    ]
   },
   {
     "scientific_name": "Myadestes genibarbis",

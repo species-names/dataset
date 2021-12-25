@@ -4,10 +4,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Struthio orlovi",
-    "common_names": []
-  },
-  {
     "scientific_name": "Struthio mongolicus",
     "common_names": []
   },
@@ -21,6 +17,10 @@
   },
   {
     "scientific_name": "Struthio anderssoni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Struthio orlovi",
     "common_names": []
   },
   {
@@ -99,6 +99,10 @@
         "name": "นกกระจอกเทศโซมาลี"
       }
     ]
+  },
+  {
+    "scientific_name": "Struthio coppensi",
+    "common_names": []
   },
   {
     "scientific_name": "Struthio camelus massaicus",
@@ -246,7 +250,7 @@
       },
       {
         "lang": "eo",
-        "name": "Struto"
+        "name": "Komuna struto"
       },
       {
         "lang": "es",

@@ -4,10 +4,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Hierococcyx nisicolor",
-    "common_names": []
-  },
-  {
     "scientific_name": "Hierococcyx hyperythrus",
     "common_names": []
   },
@@ -95,6 +91,43 @@
       {
         "lang": "zh",
         "name": "鹰鹃"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hierococcyx nisicolor",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "وقواق صقري شمالي"
+      },
+      {
+        "lang": "ca",
+        "name": "Cucut xiulador"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalch-gog swil"
+      },
+      {
+        "lang": "en",
+        "name": "Hodgson's hawk-cuckoo"
+      },
+      {
+        "lang": "fr",
+        "name": "Coucou de Hodgson"
+      },
+      {
+        "lang": "nl",
+        "name": "Hodgsons sperwerkoekoek"
+      },
+      {
+        "lang": "nv",
+        "name": "Náátsʼózídę́ę́ʼ gógooʼii tsįyaalzhahígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "hodgsonhökgök"
       }
     ]
   },

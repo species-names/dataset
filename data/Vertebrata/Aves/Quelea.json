@@ -7,12 +7,24 @@
         "name": "Rooibekkwelea"
       },
       {
+        "lang": "ar",
+        "name": "صعب أحمر المنقار"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеноклюн тъкач"
+      },
+      {
         "lang": "ca",
         "name": "Quelea de bec vermell"
       },
       {
         "lang": "cs",
         "name": "Snovač rudozobý"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwelea picoch"
       },
       {
         "lang": "da",
@@ -28,11 +40,15 @@
       },
       {
         "lang": "eo",
-        "name": "Ruĝbeka teks-birdo"
+        "name": "Ruĝbeka teksbirdo"
       },
       {
         "lang": "es",
         "name": "Quelea común"
+      },
+      {
+        "lang": "fa",
+        "name": "سرخ‌پرک نوک‌سرخ"
       },
       {
         "lang": "fi",
@@ -47,11 +63,27 @@
         "name": "Jan baki"
       },
       {
+        "lang": "he",
+        "name": "שתאי אדום-מקור"
+      },
+      {
         "lang": "hu",
         "name": "Piroscsőrű szövőmadár",
         "synonyms": [
           "vöröscsőrű szövőmadár"
         ]
+      },
+      {
+        "lang": "ja",
+        "name": "コウヨウチョウ"
+      },
+      {
+        "lang": "ko",
+        "name": "홍엽조"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар нерӓн кошыгек"
       },
       {
         "lang": "nl",
@@ -66,20 +98,28 @@
         "name": "Wikłacz czerwonodzioby"
       },
       {
-        "lang": "ru",
-        "name": "Красноклювый ткач"
+        "lang": "pt",
+        "name": "Tecelão-de-bico-vermelho"
       },
       {
-        "lang": "simple",
-        "name": "Red billed Quelea"
+        "lang": "ru",
+        "name": "Красноклювый ткач"
       },
       {
         "lang": "sv",
         "name": "Blodnäbbsvävare"
       },
       {
+        "lang": "ta",
+        "name": "செவ்வலகு ஆப்பிரிக்கத் தூக்கணாங்குருவி"
+      },
+      {
         "lang": "tr",
         "name": "Küela"
+      },
+      {
+        "lang": "zh",
+        "name": "紅嘴奎利亞雀"
       }
     ]
   },

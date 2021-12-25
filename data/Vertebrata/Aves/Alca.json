@@ -3,6 +3,10 @@
     "scientific_name": "Alca torda",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "أبو موس"
+      },
+      {
         "lang": "ast",
         "name": "Alca"
       },
@@ -20,7 +24,7 @@
       },
       {
         "lang": "cs",
-        "name": "alka malá"
+        "name": "Alka malá"
       },
       {
         "lang": "cw",
@@ -39,6 +43,10 @@
         "name": "Tordalk"
       },
       {
+        "lang": "el",
+        "name": "Κοινή άλκα"
+      },
+      {
         "lang": "en",
         "name": "Razorbill"
       },
@@ -48,7 +56,7 @@
       },
       {
         "lang": "es",
-        "name": "Alca Común"
+        "name": "Alca común"
       },
       {
         "lang": "et",
@@ -59,8 +67,12 @@
         "name": "Pottorro arrunt"
       },
       {
+        "lang": "fa",
+        "name": "تیغ‌منقار"
+      },
+      {
         "lang": "fi",
-        "name": "ruokki"
+        "name": "Ruokki"
       },
       {
         "lang": "fo",
@@ -96,11 +108,11 @@
       },
       {
         "lang": "he",
-        "name": "אלקה"
+        "name": "אלקה חדת-מקור"
       },
       {
         "lang": "hr",
-        "name": "Mala njorka"
+        "name": "Plosnatokljuna njorka"
       },
       {
         "lang": "hsb",
@@ -109,6 +121,10 @@
       {
         "lang": "hu",
         "name": "Alka"
+      },
+      {
+        "lang": "hy",
+        "name": "Թանձրահավ"
       },
       {
         "lang": "is",
@@ -120,10 +136,7 @@
       },
       {
         "lang": "ja",
-        "name": "オオハシウミガラス",
-        "synonyms": [
-          "Oohashiumigarasu"
-        ]
+        "name": "オオハシウミガラス"
       },
       {
         "lang": "ka",
@@ -150,6 +163,10 @@
         "name": "Mus tal-Baħar"
       },
       {
+        "lang": "nds",
+        "name": "Dogger"
+      },
+      {
         "lang": "nl",
         "name": "Alk"
       },
@@ -166,12 +183,20 @@
         "name": "Godîn"
       },
       {
+        "lang": "olo",
+        "name": "Ruokki"
+      },
+      {
         "lang": "pcd",
         "name": "Gaude"
       },
       {
         "lang": "pl",
-        "name": "Alka krzywonosa"
+        "name": "Alka zwyczajna"
+      },
+      {
+        "lang": "pnb",
+        "name": "الکا ٹورڈا"
       },
       {
         "lang": "pt",
@@ -179,7 +204,7 @@
       },
       {
         "lang": "ro",
-        "name": "Alca"
+        "name": "Alca mică"
       },
       {
         "lang": "ru",
@@ -199,7 +224,7 @@
       },
       {
         "lang": "sk",
-        "name": "alka vrúbkozobá"
+        "name": "Alka vrúbkozobá"
       },
       {
         "lang": "sl",
@@ -207,10 +232,7 @@
       },
       {
         "lang": "sr",
-        "name": "Алк",
-        "synonyms": [
-          "Alk"
-        ]
+        "name": "Оштрокљуна њорка"
       },
       {
         "lang": "sv",
@@ -225,11 +247,31 @@
         "name": "Usturagaga"
       },
       {
+        "lang": "tyv",
+        "name": "Гагарка"
+      },
+      {
         "lang": "uk",
         "name": "Гагарка"
       },
       {
+        "lang": "uz",
+        "name": "Gagarka"
+      },
+      {
+        "lang": "vi",
+        "name": "Chim Alca"
+      },
+      {
+        "lang": "wuu",
+        "name": "刀嘴海雀"
+      },
+      {
         "lang": "zh",
+        "name": "刀嘴海雀"
+      },
+      {
+        "lang": "zh-yue",
         "name": "刀嘴海雀"
       }
     ]

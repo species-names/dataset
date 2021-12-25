@@ -14,7 +14,12 @@
   },
   {
     "scientific_name": "Mirafra sharpii",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sharpe's Lark"
+      }
+    ]
   },
   {
     "scientific_name": "Mirafra sabota",
@@ -101,7 +106,72 @@
   },
   {
     "scientific_name": "Mirafra cantillans",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Храстова чучулига"
+      },
+      {
+        "lang": "ca",
+        "name": "Alosa cantaire"
+      },
+      {
+        "lang": "cy",
+        "name": "Llwyn-ehedydd gorllewinol"
+      },
+      {
+        "lang": "de",
+        "name": "Buschlerche"
+      },
+      {
+        "lang": "en",
+        "name": "Singing Bush Lark"
+      },
+      {
+        "lang": "es",
+        "name": "Alondra Cantarina"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک جنگلی آوازه‌خوان"
+      },
+      {
+        "lang": "fi",
+        "name": "Savannikiuru"
+      },
+      {
+        "lang": "fr",
+        "name": "Alouette chanteuse"
+      },
+      {
+        "lang": "mr",
+        "name": "भट चंडोल"
+      },
+      {
+        "lang": "ne",
+        "name": "गाइने भारद्वाज"
+      },
+      {
+        "lang": "nl",
+        "name": "Struikleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Savannelerke"
+      },
+      {
+        "lang": "sv",
+        "name": "Sångbusklärka"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca bụi Nam Á"
+      },
+      {
+        "lang": "zh",
+        "name": "北非歌百灵"
+      }
+    ]
   },
   {
     "scientific_name": "Mirafra assamica",
@@ -109,7 +179,56 @@
   },
   {
     "scientific_name": "Mirafra ashi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Ehedydd Ash"
+      },
+      {
+        "lang": "de",
+        "name": "Ashlerche"
+      },
+      {
+        "lang": "en",
+        "name": "Ash's lark"
+      },
+      {
+        "lang": "es",
+        "name": "alondra de Ash"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک اش"
+      },
+      {
+        "lang": "fi",
+        "name": "Jubankiuru"
+      },
+      {
+        "lang": "fr",
+        "name": "Alouette d'Ash"
+      },
+      {
+        "lang": "nl",
+        "name": "Ash' leeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Strandlerke"
+      },
+      {
+        "lang": "sv",
+        "name": "ashlärka"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca Ash"
+      },
+      {
+        "lang": "zh",
+        "name": "阿氏歌百灵"
+      }
+    ]
   },
   {
     "scientific_name": "Mirafra apiata",
@@ -153,6 +272,46 @@
       {
         "lang": "fr",
         "name": "Alouette à nuque rousse"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd gwargoch"
+      },
+      {
+        "lang": "fa",
+        "name": "چکاوک گردن‌حنایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Punaniskakiuru"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörösnyakú bokorpacsirta"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodnekleeuwerik"
+      },
+      {
+        "lang": "no",
+        "name": "Melankolilerke"
+      },
+      {
+        "lang": "nv",
+        "name": "Hodíłchʼiltah dijádídlǫ́ʼí bitsiiyah halchíʼígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "rödnackad lärka"
+      },
+      {
+        "lang": "vi",
+        "name": "Sơn ca gáy hung"
+      },
+      {
+        "lang": "zh",
+        "name": "棕颈歌百灵"
       }
     ]
   }

@@ -99,27 +99,6 @@
     ]
   },
   {
-    "scientific_name": "Nothura chacoensis",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Tinama pampová"
-      },
-      {
-        "lang": "en",
-        "name": "Chaco Nothura"
-      },
-      {
-        "lang": "es",
-        "name": "Tinamú chaqueño"
-      },
-      {
-        "lang": "lt",
-        "name": "Čakinė norura"
-      }
-    ]
-  },
-  {
     "scientific_name": "Nothura boraquira",
     "common_names": [
       {
@@ -141,6 +120,10 @@
       {
         "lang": "sv",
         "name": "Vitbukad tinamo"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Codorna-do-nordeste"
       }
     ]
   }

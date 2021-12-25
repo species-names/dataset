@@ -3,6 +3,78 @@
     "scientific_name": "Leptotila wellsi",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حمامة غرينادا"
+      },
+      {
+        "lang": "bg",
+        "name": "Гренадски гълъб"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom feréstec de l'illa de Grenada"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur Grenada"
+      },
+      {
+        "lang": "da",
+        "name": "Grenadajorddue"
+      },
+      {
+        "lang": "de",
+        "name": "Grenadataube"
+      },
+      {
+        "lang": "en",
+        "name": "Grenada dove"
+      },
+      {
+        "lang": "eo",
+        "name": "Grenada kolombo"
+      },
+      {
+        "lang": "fi",
+        "name": "Grenadanjuoksukyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe de Grenade"
+      },
+      {
+        "lang": "hu",
+        "name": "Grenadai pufókgerle"
+      },
+      {
+        "lang": "ko",
+        "name": "그레나다비둘기"
+      },
+      {
+        "lang": "nl",
+        "name": "Grenadaduif"
+      },
+      {
+        "lang": "no",
+        "name": "Grenadadue"
+      },
+      {
+        "lang": "pl",
+        "name": "Gołębik grenadyjski"
+      },
+      {
+        "lang": "pnb",
+        "name": "غرناطہ کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "grenadaduva"
+      },
+      {
+        "lang": "zh",
+        "name": "格林納達棕翅鳩"
+      },
+      {
         "lang": "cs",
         "name": "Holub Wellsův"
       },
@@ -17,7 +89,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "holub samotářský"
+        "name": "Holub samotářský"
       },
       {
         "lang": "da",
@@ -44,11 +116,11 @@
       },
       {
         "lang": "et",
-        "name": "võsa-manteltuvi"
+        "name": "Võsa-manteltuvi"
       },
       {
         "lang": "fi",
-        "name": "juoksukyyhky"
+        "name": "Juoksukyyhky"
       },
       {
         "lang": "fr",
@@ -60,7 +132,7 @@
       },
       {
         "lang": "hu",
-        "name": "pufókgerle"
+        "name": "Pufókgerle"
       },
       {
         "lang": "it",
@@ -83,7 +155,7 @@
       },
       {
         "lang": "pl",
-        "name": "gołębik białosterny"
+        "name": "Gołębik białosterny"
       },
       {
         "lang": "pt-br",
@@ -99,7 +171,7 @@
       },
       {
         "lang": "sk",
-        "name": "holubec kráčavý"
+        "name": "Holubec kráčavý"
       },
       {
         "lang": "sv",
@@ -176,6 +248,42 @@
       {
         "lang": "es",
         "name": "Paloma montaraz ventriocre"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom feréstec de coure"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur dorfelen"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbbauchtaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر شکم‌اخرایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe de Chapman"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelbuikduif"
+      },
+      {
+        "lang": "no",
+        "name": "Okerbukdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "لپٹوٹیلا اوکراسیونٹرس"
+      },
+      {
+        "lang": "sv",
+        "name": "ockrabukig duva"
       }
     ]
   },
@@ -215,6 +323,46 @@
       {
         "lang": "en",
         "name": "Tolima dove"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom feréstec de Tolima"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur Tolima"
+      },
+      {
+        "lang": "de",
+        "name": "Tolimataube"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر تولیما"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe de Conover"
+      },
+      {
+        "lang": "nl",
+        "name": "Tolimaduif"
+      },
+      {
+        "lang": "nn",
+        "name": "Tolimadue"
+      },
+      {
+        "lang": "no",
+        "name": "Tolimadue"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹولیما کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "tolimaduva"
       }
     ]
   },
@@ -231,7 +379,46 @@
       },
       {
         "lang": "en",
-        "name": "Brown-backed Dove"
+        "name": "Brown-backed Dove",
+        "synonyms": [
+          "Azuero dove"
+        ]
+      },
+      {
+        "lang": "ca",
+        "name": "Colom feréstec de Panamà"
+      },
+      {
+        "lang": "de",
+        "name": "Braunrückentaube"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر آزوئرو"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombe du Panama"
+      },
+      {
+        "lang": "nl",
+        "name": "Batty's duif"
+      },
+      {
+        "lang": "no",
+        "name": "Panamadue"
+      },
+      {
+        "lang": "nv",
+        "name": "Hasbídí binághah yishtłizhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "لیپٹوٹلا بٹیا"
+      },
+      {
+        "lang": "sv",
+        "name": "panamaduva"
       }
     ]
   }

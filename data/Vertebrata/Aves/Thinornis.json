@@ -3,15 +3,68 @@
     "scientific_name": "Thinornis novaeseelandiae",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Corriol de Rangatira"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiad hirbig"
+      },
+      {
+        "lang": "da",
+        "name": "Chathambrokfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Chathamregenpfeifer"
+      },
+      {
         "lang": "en",
-        "name": "New Zealand shore plover",
-        "synonyms": [
-          "shore dotterel"
-        ]
+        "name": "Shore Dotterel"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlitejo de las Chatham"
+      },
+      {
+        "lang": "et",
+        "name": "Urutüll"
+      },
+      {
+        "lang": "fi",
+        "name": "Kolotylli"
+      },
+      {
+        "lang": "hu",
+        "name": "Üregi lile"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere ripario"
       },
       {
         "lang": "ja",
         "name": "ノドグロチドリ"
+      },
+      {
+        "lang": "mi",
+        "name": "Tuturuatu"
+      },
+      {
+        "lang": "nl",
+        "name": "Nieuw-Zeelandse Plevier"
+      },
+      {
+        "lang": "nn",
+        "name": "Fjærelo"
+      },
+      {
+        "lang": "ru",
+        "name": "Новозеландский зуёк"
+      },
+      {
+        "lang": "sv",
+        "name": "Chathampipare"
       }
     ]
   },
@@ -19,8 +72,56 @@
     "scientific_name": "Thinornis cucullatus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Corriol capnegre"
+      },
+      {
+        "lang": "cy",
+        "name": "Cwtiad cycyllog"
+      },
+      {
+        "lang": "da",
+        "name": "Hættepræstekrave"
+      },
+      {
+        "lang": "de",
+        "name": "Kappenregenpfeifer"
+      },
+      {
         "lang": "en",
-        "name": "Hooded Plover"
+        "name": "Hooded Dotterel"
+      },
+      {
+        "lang": "es",
+        "name": "Chorlito encapuchado"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustapäätylli"
+      },
+      {
+        "lang": "fr",
+        "name": "Pluvier à camail"
+      },
+      {
+        "lang": "it",
+        "name": "Corriere monaco"
+      },
+      {
+        "lang": "ja",
+        "name": "ズグロチドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkopplevier"
+      },
+      {
+        "lang": "ru",
+        "name": "Австралийский зуёк"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthuvad pipare"
       }
     ]
   }

@@ -3,10 +3,6 @@
     "scientific_name": "Haliaeetus vociferoides",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Orel madagaskarský"
-      },
-      {
         "lang": "de",
         "name": "Madagaskarseeadler"
       },
@@ -41,6 +37,58 @@
       {
         "lang": "zh",
         "name": "马达加斯加海雕"
+      },
+      {
+        "lang": "ca",
+        "name": "Pigarg de Madagascar"
+      },
+      {
+        "lang": "cs",
+        "name": "Orel madagaskarský"
+      },
+      {
+        "lang": "cy",
+        "name": "Pysgeryr Madagasgar"
+      },
+      {
+        "lang": "eo",
+        "name": "Madagaskara maraglo"
+      },
+      {
+        "lang": "fa",
+        "name": "عقاب دریایی ماداگاسکاری"
+      },
+      {
+        "lang": "he",
+        "name": "עיטם מדגסקרי"
+      },
+      {
+        "lang": "hu",
+        "name": "Madagaszkári rétisas"
+      },
+      {
+        "lang": "mn",
+        "name": "Мадагаскар нөмрөг бүргэд"
+      },
+      {
+        "lang": "mrj",
+        "name": "Мадагаскар колгучкыж"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskarzeearend"
+      },
+      {
+        "lang": "nv",
+        "name": "Mágí Bitseeʼ Noodǫ́zí Bikéyahdę́ę́ʼ atsátsoh"
+      },
+      {
+        "lang": "sv",
+        "name": "madagaskarhavsörn"
+      },
+      {
+        "lang": "vi",
+        "name": "Đại bàng ăn cá Madagascar"
       }
     ]
   },
@@ -308,7 +356,7 @@
       },
       {
         "lang": "eo",
-        "name": "Blankstriovosta maraglo"
+        "name": "Strivosta maraglo"
       },
       {
         "lang": "es",
@@ -377,7 +425,7 @@
       },
       {
         "lang": "fr",
-        "name": "pygargue blagre"
+        "name": "Pygargue blagre"
       },
       {
         "lang": "hu",
@@ -414,6 +462,14 @@
       {
         "lang": "zh-yue",
         "name": "白腹海鵰"
+      },
+      {
+        "lang": "ta",
+        "name": "வெள்ளை ஆழிக்கழுகு"
+      },
+      {
+        "lang": "or",
+        "name": "କୁରୁବଳ"
       }
     ]
   },
@@ -422,7 +478,7 @@
     "common_names": [
       {
         "lang": "ar",
-        "name": "نسر أمريكي"
+        "name": "العُقاب الرخماء"
       },
       {
         "lang": "atj",
@@ -653,6 +709,10 @@
     "scientific_name": "Haliaeetus ichthyaetus",
     "common_names": [
       {
+        "lang": "as",
+        "name": "উকাহ"
+      },
+      {
         "lang": "cs",
         "name": "Orel šedohlavý"
       },
@@ -872,7 +932,7 @@
       },
       {
         "lang": "ka",
-        "name": "ანუ ფსოვი"
+        "name": "თეთრკუდა ფსოვი"
       },
       {
         "lang": "kjn",
@@ -904,7 +964,7 @@
       },
       {
         "lang": "mn",
-        "name": "Усны цагаан сyyлт бyргэд"
+        "name": "Усны цагаан суулт бургэд"
       },
       {
         "lang": "mr",

@@ -7,8 +7,20 @@
     "scientific_name": "Sturnella neglecta",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Alosa pradenca de l'oest"
+      },
+      {
+        "lang": "chy",
+        "name": "Honóxeäse"
+      },
+      {
         "lang": "cs",
-        "name": "vlhovec západní"
+        "name": "Vlhovec západní"
+      },
+      {
+        "lang": "cy",
+        "name": "Ehedydd maes y Gorllewin"
       },
       {
         "lang": "da",
@@ -16,37 +28,47 @@
       },
       {
         "lang": "de",
-        "name": "Wiesenstärling",
-        "synonyms": [
-          "Westlicher Lerchenstärling"
-        ]
+        "name": "Westlicher Lerchenstärling"
       },
       {
         "lang": "en",
         "name": "Western Meadowlark"
       },
       {
+        "lang": "eo",
+        "name": "Okcidenta sturnelo"
+      },
+      {
         "lang": "es",
         "name": "Loica Occidental"
       },
       {
+        "lang": "fa",
+        "name": "چکاوک مرغزار غربی"
+      },
+      {
         "lang": "fi",
-        "name": "huilupreeriaturpiaali"
+        "name": "Huilupreeriaturpiaali"
       },
       {
         "lang": "fr",
         "name": "Sturnelle de l'Ouest"
       },
       {
+        "lang": "he",
+        "name": "סטורנלה נגלקטה"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyugati réticsiröge"
+      },
+      {
         "lang": "it",
-        "name": "Sturnella allodola occidentale"
+        "name": "Sturnella occidentale"
       },
       {
         "lang": "ja",
-        "name": "ニシマキバドリ",
-        "synonyms": [
-          "nishimakibadori"
-        ]
+        "name": "ニシマキバドリ"
       },
       {
         "lang": "lt",
@@ -61,6 +83,10 @@
         "name": "Prærielerketrupial"
       },
       {
+        "lang": "nv",
+        "name": "Tsiiyah wozhii"
+      },
+      {
         "lang": "pl",
         "name": "Wojak żółtogardły"
       },
@@ -70,7 +96,7 @@
       },
       {
         "lang": "sk",
-        "name": "lúčnik žltohrdlý"
+        "name": "Lúčnik žltohrdlý"
       },
       {
         "lang": "sv",

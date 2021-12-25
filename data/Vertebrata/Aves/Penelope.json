@@ -115,6 +115,58 @@
         "synonyms": [
           "Jacupiranga"
         ]
+      },
+      {
+        "lang": "ar",
+        "name": "غوان أبيض العرف"
+      },
+      {
+        "lang": "bg",
+        "name": "Белокачулат хуан"
+      },
+      {
+        "lang": "ca",
+        "name": "Guan pit-roig"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwân cribwyn"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankakrona penelopo"
+      },
+      {
+        "lang": "fa",
+        "name": "شب‌خروش کاکل‌سفید"
+      },
+      {
+        "lang": "fr",
+        "name": "Pénélope à poitrine rousse"
+      },
+      {
+        "lang": "he",
+        "name": "פנלופה לבנת-ציצה"
+      },
+      {
+        "lang": "hr",
+        "name": "Riđoprsi guan"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérkontyos sakutyúk"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkuifsjakohoen"
+      },
+      {
+        "lang": "sr",
+        "name": "Риђогруди гуан"
+      },
+      {
+        "lang": "sv",
+        "name": "vitkronad guan"
       }
     ]
   },
@@ -235,6 +287,10 @@
       {
         "lang": "pt",
         "name": "Jacuaçu"
+      },
+      {
+        "lang": "es",
+        "name": "Pava oscura"
       }
     ]
   },
@@ -253,6 +309,14 @@
       {
         "lang": "en",
         "name": "Marail Guan"
+      },
+      {
+        "lang": "es",
+        "name": "Pava marail"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Jacumirim"
       }
     ]
   },
@@ -289,7 +353,7 @@
       },
       {
         "lang": "sv",
-        "name": "Vitbrynad guan"
+        "name": "vitbrynad guan"
       }
     ]
   },
@@ -318,6 +382,10 @@
         "name": "Pava carirroja"
       }
     ]
+  },
+  {
+    "scientific_name": "Penelope bridgesi",
+    "common_names": []
   },
   {
     "scientific_name": "Penelope barbata",

@@ -23,8 +23,20 @@
         "name": "Speg krenn"
       },
       {
+        "lang": "ca",
+        "name": "Picot garser mitjà"
+      },
+      {
         "lang": "cs",
         "name": "Strakapoud prostřední"
+      },
+      {
+        "lang": "csb",
+        "name": "Strzédny dzëdzón"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell fraith ganolig"
       },
       {
         "lang": "da",
@@ -39,16 +51,28 @@
         "name": "Middle Spotted Woodpecker"
       },
       {
-        "lang": "es",
-        "name": "Pico mediano"
-      },
-      {
         "lang": "eo",
         "name": "Mezgranda buntpego"
       },
       {
+        "lang": "es",
+        "name": "Pico mediano"
+      },
+      {
+        "lang": "et",
+        "name": "Tamme-kirjurähn"
+      },
+      {
         "lang": "eu",
         "name": "Okil ertain"
+      },
+      {
+        "lang": "fa",
+        "name": "دارکوب سر سرخ"
+      },
+      {
+        "lang": "fi",
+        "name": "Tammitikka"
       },
       {
         "lang": "fr",
@@ -59,6 +83,10 @@
         "name": "Peto mediano"
       },
       {
+        "lang": "hu",
+        "name": "Közép fakopáncs"
+      },
+      {
         "lang": "hy",
         "name": "Փայտփոր միջին"
       },
@@ -67,52 +95,52 @@
         "name": "Picchio rosso mezzano"
       },
       {
-        "lang": "lv",
-        "name": "Vidējais dzenis"
+        "lang": "ja",
+        "name": "ヒメアカゲラ"
       },
       {
         "lang": "lt",
         "name": "Vidutinis margasis genys"
       },
       {
-        "lang": "hu",
-        "name": "Közép fakopáncs"
+        "lang": "lv",
+        "name": "Vidējais dzenis"
+      },
+      {
+        "lang": "mk",
+        "name": "Среден шарен клукајдрвец"
       },
       {
         "lang": "nl",
         "name": "Middelste bonte specht"
       },
       {
-        "lang": "ja",
-        "name": "ヒメアカゲラ"
-      },
-      {
         "lang": "no",
         "name": "Mellomspett"
-      },
-      {
-        "lang": "pms",
-        "name": "Dendrocopos medius"
       },
       {
         "lang": "pl",
         "name": "Dzięcioł średni"
       },
       {
-        "lang": "rue",
-        "name": "Середнїй довбач"
+        "lang": "pnb",
+        "name": "ڈینڈروکوپس میڈیس"
       },
       {
         "lang": "ru",
         "name": "Средний пёстрый дятел"
       },
       {
+        "lang": "rue",
+        "name": "Середнїй довбач"
+      },
+      {
         "lang": "sk",
         "name": "Ďateľ prostredný"
       },
       {
-        "lang": "fi",
-        "name": "Tammitikka"
+        "lang": "sl",
+        "name": "Srednji detel"
       },
       {
         "lang": "sv",
@@ -121,6 +149,10 @@
       {
         "lang": "tr",
         "name": "Ortanca ağaçkakan"
+      },
+      {
+        "lang": "uk",
+        "name": "Дятел середній"
       }
     ]
   },

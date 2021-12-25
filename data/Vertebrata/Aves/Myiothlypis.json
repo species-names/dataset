@@ -1,15 +1,28 @@
 [
   {
-    "scientific_name": "Myiothlypis roraimae",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Myiothlypis basilica",
-    "common_names": []
-  },
-  {
     "scientific_name": "Myiothlypis signata",
     "common_names": []
+  },
+  {
+    "scientific_name": "Myiothlypis roraimae",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Roraimawaldsänger"
+      },
+      {
+        "lang": "en",
+        "name": "Roraima Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita del Roraima"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline du Roraima"
+      }
+    ]
   },
   {
     "scientific_name": "Myiothlypis rivularis",
@@ -90,6 +103,34 @@
       {
         "lang": "es",
         "name": "Reinita cabecigrís"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor penllwyd"
+      },
+      {
+        "lang": "de",
+        "name": "Grauwangen-Waldsänger"
+      },
+      {
+        "lang": "eo",
+        "name": "Grizkapa parulio"
+      },
+      {
+        "lang": "fi",
+        "name": "Venezuelankerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline à tête grise"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijswangzanger"
+      },
+      {
+        "lang": "sv",
+        "name": "caripeskogssångare"
       }
     ]
   },
@@ -263,6 +304,19 @@
       {
         "lang": "en",
         "name": "Two-banded warbler"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Myiothlypis basilica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Santa Marta Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita de Santa Marta"
       }
     ]
   }

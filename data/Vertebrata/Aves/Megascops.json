@@ -129,7 +129,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Roraima Screech-Owl"
+        "name": "Roraima screech-owl; Foothill screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo de Roraima"
+      },
+      {
+        "lang": "pt",
+        "name": "Corujinha-de-roraima"
       }
     ]
   },
@@ -189,19 +197,6 @@
       {
         "lang": "es",
         "name": "Autillo puertorriqueño; mucarito"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Megascops napensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Rio Napo Screech-Owl"
-      },
-      {
-        "lang": "es",
-        "name": "Autillo de Río Napo"
       }
     ]
   },
@@ -380,23 +375,6 @@
     ]
   },
   {
-    "scientific_name": "Megascops colombianus",
-    "common_names": [
-      {
-        "lang": "de",
-        "name": "Kolumbien-Kreischeule"
-      },
-      {
-        "lang": "en",
-        "name": "Colombian Screech-owl"
-      },
-      {
-        "lang": "es",
-        "name": "Autillo colombiano"
-      }
-    ]
-  },
-  {
     "scientific_name": "Megascops clarkii",
     "common_names": [
       {
@@ -536,7 +514,10 @@
       },
       {
         "lang": "hu",
-        "name": "Lármás füleskuvik"
+        "name": "Lármás füleskuvik",
+        "synonyms": [
+          "keleti lármás kuvik"
+        ]
       },
       {
         "lang": "it",

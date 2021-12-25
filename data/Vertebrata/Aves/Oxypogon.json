@@ -1,30 +1,26 @@
 [
   {
-    "scientific_name": "Oxypogon lindenii",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Oxypogon cyanolaemus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Oxypogon stuebelii",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Oxypogon guerinii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "طنان أخضر اللحية"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí emplomallat de Bogotà"
+      },
+      {
+        "lang": "cy",
+        "name": "Helmgrib farfog"
+      },
+      {
         "lang": "de",
-        "name": "Helmkolibri"
+        "name": "Grünbart-Helmkolibri"
       },
       {
         "lang": "en",
-        "name": "Bearded Helmetcrest"
-      },
-      {
-        "lang": "es",
-        "name": "Colibrí chivito"
+        "name": "Green-bearded helmetcrest"
       },
       {
         "lang": "fi",
@@ -39,12 +35,139 @@
         "name": "Groenbaardhelmkolibrie"
       },
       {
+        "lang": "nn",
+        "name": "Grønskjegghjelmkolibri"
+      },
+      {
         "lang": "sv",
-        "name": "Hjälmkolibri"
+        "name": "grönskäggig hjälmkolibri"
       },
       {
         "lang": "uk",
-        "name": "Шоломоносний колібрі"
+        "name": "Колібрі строкаточубий"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oxypogon lindenii",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colibrí emplomallat de Linden"
+      },
+      {
+        "lang": "en",
+        "name": "White-bearded helmetcrest"
+      },
+      {
+        "lang": "es",
+        "name": "chivito de páramo"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri de Linden"
+      },
+      {
+        "lang": "nl",
+        "name": "Witbaardhelmkolibrie"
+      },
+      {
+        "lang": "sv",
+        "name": "vitskäggig hjälmkolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oxypogon guerinii",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "طنان أخضر اللحية"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí emplomallat de Bogotà"
+      },
+      {
+        "lang": "cy",
+        "name": "Helmgrib farfog"
+      },
+      {
+        "lang": "de",
+        "name": "Grünbart-Helmkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Green-bearded helmetcrest"
+      },
+      {
+        "lang": "es",
+        "name": "barbudito paramuno",
+        "synonyms": [
+          "quinchita de páramo",
+          "barbudito cascocrestado"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Kypäräkolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri casqué"
+      },
+      {
+        "lang": "nl",
+        "name": "Groenbaardhelmkolibrie"
+      },
+      {
+        "lang": "nn",
+        "name": "Grønskjegghjelmkolibri"
+      },
+      {
+        "lang": "sv",
+        "name": "grönskäggig hjälmkolibri"
+      },
+      {
+        "lang": "uk",
+        "name": "Колібрі строкаточубий"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oxypogon cyanolaemus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colibrí emplomallat de Santa Marta"
+      },
+      {
+        "lang": "de",
+        "name": "Blaubart-Helmkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-bearded helmetcrest"
+      },
+      {
+        "lang": "es",
+        "name": "barbudito azul paramuno"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri à barbe bleue"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwbaardhelmkolibrie"
+      },
+      {
+        "lang": "sv",
+        "name": "blåskäggig hjälmkolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "Hełmik purpurowobrody"
       }
     ]
   }

@@ -3,12 +3,28 @@
     "scientific_name": "Lagopus muta",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "ترمجان الصخر"
+      },
+      {
+        "lang": "bg",
+        "name": "Тундрова яребица"
+      },
+      {
         "lang": "br",
         "name": "Brugyar-erc'hegi"
       },
       {
         "lang": "ca",
         "name": "Perdiu blanca"
+      },
+      {
+        "lang": "cs",
+        "name": "Bělokur horský"
+      },
+      {
+        "lang": "cy",
+        "name": "Grugiar wen"
       },
       {
         "lang": "da",
@@ -31,16 +47,48 @@
         "name": "Monta lagopo"
       },
       {
+        "lang": "es",
+        "name": "Lagópodo alpino"
+      },
+      {
         "lang": "et",
         "name": "Lumepüü"
+      },
+      {
+        "lang": "eu",
+        "name": "Eper zuri"
+      },
+      {
+        "lang": "fa",
+        "name": "باقرقره پرپای صخره"
       },
       {
         "lang": "fi",
         "name": "Kiiruna"
       },
       {
+        "lang": "fo",
+        "name": "Fjallarýpa"
+      },
+      {
         "lang": "fr",
         "name": "Lagopède alpin"
+      },
+      {
+        "lang": "frp",
+        "name": "Èrbena de les Ârpes"
+      },
+      {
+        "lang": "ga",
+        "name": "Tarmachan"
+      },
+      {
+        "lang": "gd",
+        "name": "Tàrmachan"
+      },
+      {
+        "lang": "he",
+        "name": "שכווי השלג"
       },
       {
         "lang": "hu",
@@ -51,12 +99,44 @@
         "name": "Rjúpa"
       },
       {
+        "lang": "it",
+        "name": "Pernice bianca"
+      },
+      {
         "lang": "ja",
         "name": "ライチョウ"
       },
       {
+        "lang": "ka",
+        "name": "ტუნდრის გნოლი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къуршадэжынэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Тундралық аққұр"
+      },
+      {
+        "lang": "ko",
+        "name": "뇌조"
+      },
+      {
+        "lang": "lld",
+        "name": "Iarina de munt"
+      },
+      {
         "lang": "lt",
         "name": "Tundrinė žvyrė"
+      },
+      {
+        "lang": "ml",
+        "name": "റോക്ക് പ്ടാർമിഗൻ"
+      },
+      {
+        "lang": "mn",
+        "name": "Цэвдгийн ахууна"
       },
       {
         "lang": "nl",
@@ -71,12 +151,24 @@
         "name": "Fjellrype"
       },
       {
+        "lang": "nv",
+        "name": "Tsétah hakʼaz naaʼahóóhai"
+      },
+      {
+        "lang": "olo",
+        "name": "Tundrumeččykana"
+      },
+      {
         "lang": "pl",
         "name": "Pardwa górska"
       },
       {
+        "lang": "pnb",
+        "name": "پڑی گروس"
+      },
+      {
         "lang": "pt",
-        "name": "Lagópode-branco"
+        "name": "Lagopo-cinzento"
       },
       {
         "lang": "ru",
@@ -87,12 +179,20 @@
         "name": "Хара дьабадьы"
       },
       {
+        "lang": "sco",
+        "name": "Tarmigan"
+      },
+      {
         "lang": "se",
         "name": "Giron"
       },
       {
         "lang": "sl",
         "name": "Belka"
+      },
+      {
+        "lang": "smn",
+        "name": "Kiärun"
       },
       {
         "lang": "sv",
@@ -104,11 +204,11 @@
       },
       {
         "lang": "uk",
-        "name": "Полярна куріпка"
+        "name": "Куріпка тундрова"
       },
       {
         "lang": "zh",
-        "name": "岩雷鳥"
+        "name": "岩雷鸟"
       }
     ]
   },
@@ -198,7 +298,7 @@
       },
       {
         "lang": "eo",
-        "name": "Lagopo"
+        "name": "Salika lagopo"
       },
       {
         "lang": "eu",

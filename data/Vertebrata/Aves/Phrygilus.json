@@ -1,20 +1,7 @@
 [
   {
     "scientific_name": "Phrygilus unicolor",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Plumbeous sierra-finch"
-      },
-      {
-        "lang": "es",
-        "name": "Yal plomizo"
-      },
-      {
-        "lang": "ay",
-        "name": "Sunichicta"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Phrygilus punensis",
@@ -31,16 +18,7 @@
   },
   {
     "scientific_name": "Phrygilus plebejus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Ash-breasted Sierra-finch"
-      },
-      {
-        "lang": "es",
-        "name": "Yal plebeyo"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Phrygilus patagonicus",
@@ -51,7 +29,7 @@
       },
       {
         "lang": "es",
-        "name": "Comesebo patagónico; cometocino patagónico"
+        "name": "Yal patagón"
       }
     ]
   },
@@ -70,55 +48,19 @@
   },
   {
     "scientific_name": "Phrygilus fruticeti",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Mourning Sierra-finch"
-      },
-      {
-        "lang": "es",
-        "name": "Yal pechinegro"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Phrygilus erythronotus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "White-throated Sierra-finch"
-      },
-      {
-        "lang": "es",
-        "name": "Yal gorjiblanco"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Phrygilus dorsalis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Red-backed sierra finch"
-      },
-      {
-        "lang": "es",
-        "name": "Comesebo puneño; cometocino de dorso castaño; yal dorsirrojo"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Phrygilus carbonarius",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Carbonated sierra-finch"
-      },
-      {
-        "lang": "es",
-        "name": "Yal carbonero"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Phrygilus atriceps",
@@ -135,19 +77,6 @@
   },
   {
     "scientific_name": "Phrygilus alaudinus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Band-tailed Sierra Finch"
-      },
-      {
-        "lang": "es",
-        "name": "Yal platero"
-      },
-      {
-        "lang": "fr",
-        "name": "Phrygile à queue barrée"
-      }
-    ]
+    "common_names": []
   }
 ]

@@ -3,8 +3,72 @@
     "scientific_name": "Petrophassa rufipennis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Colom bru ala-roig"
+      },
+      {
         "lang": "cs",
         "name": "Holub arnhemský"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen graig adeingoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rødvinget Stendue"
+      },
+      {
+        "lang": "de",
+        "name": "Rotspiegeltaube"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut-quilled Rock Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Avelpluma rokarkolombo"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma roquera alirrufa"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombine rufipenne"
+      },
+      {
+        "lang": "hu",
+        "name": "Vöröstükrös galamb"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione di roccia alicastane"
+      },
+      {
+        "lang": "ja",
+        "name": "チャバネイワバト"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodvleugelkwartelduif"
+      },
+      {
+        "lang": "no",
+        "name": "Juvdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "پیٹروفاےا روفیپینس"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснокрылый каменный голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Arnhemduva"
       }
     ]
   },
@@ -12,12 +76,56 @@
     "scientific_name": "Petrophassa albipennis",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Holub kimberleyský"
+        "lang": "ca",
+        "name": "Colom bru alablanc"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen graig adeinwen"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidvinget Stendue"
+      },
+      {
+        "lang": "de",
+        "name": "Weißspiegeltaube"
       },
       {
         "lang": "en",
-        "name": "White-quilled Rock-Pigeon"
+        "name": "White-quilled Rock Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankpluma rokarkolombo"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma roquera aliblanca"
+      },
+      {
+        "lang": "fi",
+        "name": "Suomukivikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombine des rochers"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione di roccia alibianche"
+      },
+      {
+        "lang": "nl",
+        "name": "Witvleugelkwartelduif"
+      },
+      {
+        "lang": "ru",
+        "name": "Белокрылый каменный голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Kimberleyduva"
       }
     ]
   }

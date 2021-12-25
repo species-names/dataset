@@ -3,8 +3,118 @@
     "scientific_name": "Ocreatus underwoodii",
     "common_names": [
       {
+        "lang": "avk",
+        "name": "Peang"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí cua de fulla"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn bacsiog llwygynffon"
+      },
+      {
+        "lang": "de",
+        "name": "Flaggensylphe"
+      },
+      {
         "lang": "en",
-        "name": "Booted Racket-tail"
+        "name": "White-booted Racket-tail"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Raquetas"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌پارویی پاپر"
+      },
+      {
+        "lang": "fi",
+        "name": "Lippupyrstökolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Haut-de-chausses à palettes"
+      },
+      {
+        "lang": "hu",
+        "name": "Lobogós kolibri"
+      },
+      {
+        "lang": "nl",
+        "name": "Vlagstaartwitpluimbroekje"
+      },
+      {
+        "lang": "pl",
+        "name": "Furczak"
+      },
+      {
+        "lang": "ru",
+        "name": "Знаменщик Ундервуда"
+      },
+      {
+        "lang": "sv",
+        "name": "Vittofsad flaggkolibri"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ocreatus peruanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Peruvian Racket-tail"
+      },
+      {
+        "lang": "nl",
+        "name": "Peruaans vlagstaartpluimbroekje"
+      },
+      {
+        "lang": "sv",
+        "name": "Peruflaggkolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de raquetas peruano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ocreatus addae",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Rustkvastet Spatelhale"
+      },
+      {
+        "lang": "de",
+        "name": "Rotschenkel-Flaggensylphe"
+      },
+      {
+        "lang": "en",
+        "name": "Rufous-booted Racket-tail"
+      },
+      {
+        "lang": "fr",
+        "name": "Haut-de-chausses de Bolivie"
+      },
+      {
+        "lang": "nl",
+        "name": "Vlagstaartroestpluimbroekje"
+      },
+      {
+        "lang": "pl",
+        "name": "Furczak krótkopióry"
+      },
+      {
+        "lang": "sl",
+        "name": "Papučkavec hrdzavonohý"
+      },
+      {
+        "lang": "sv",
+        "name": "Boliviaflaggkolibri"
       }
     ]
   }

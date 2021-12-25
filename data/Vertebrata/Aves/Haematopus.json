@@ -24,8 +24,28 @@
     "scientific_name": "Haematopus palliatus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "صائد المحار الأمريكي"
+      },
+      {
+        "lang": "br",
+        "name": "Morbig Amerika"
+      },
+      {
+        "lang": "ca",
+        "name": "Garsa de mar americana"
+      },
+      {
         "lang": "cs",
         "name": "Ústřičník americký"
+      },
+      {
+        "lang": "cy",
+        "name": "Pioden fôr America"
+      },
+      {
+        "lang": "de",
+        "name": "Braunmantel-Austernfischer"
       },
       {
         "lang": "en",
@@ -36,16 +56,64 @@
         "name": "Amerika hematopo"
       },
       {
+        "lang": "es",
+        "name": "Ostrero americano"
+      },
+      {
+        "lang": "fa",
+        "name": "صدف‌خوار آمریکایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikanmeriharakka"
+      },
+      {
+        "lang": "fr",
+        "name": "Huîtrier d'Amérique"
+      },
+      {
+        "lang": "he",
+        "name": "שלצדף אמריקני"
+      },
+      {
+        "lang": "hu",
+        "name": "Amerikai csigaforgató"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia di mare americana"
+      },
+      {
         "lang": "ja",
         "name": "アメリカミヤコドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse bonte scholekster"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąąh chʼosh haalzheehii bikʼos halzhinígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Ostrygojad brunatny"
       },
       {
         "lang": "pt",
         "name": "Pirupiru"
       },
       {
+        "lang": "ru",
+        "name": "Американский кулик-сорока"
+      },
+      {
         "lang": "sv",
         "name": "Amerikansk strandskata"
+      },
+      {
+        "lang": "uk",
+        "name": "Кулик-сорока американський"
       }
     ]
   },
@@ -58,7 +126,7 @@
       },
       {
         "lang": "ar",
-        "name": "أكل المحار"
+        "name": "صائد المحار الأوراسي"
       },
       {
         "lang": "ast",
@@ -66,7 +134,7 @@
       },
       {
         "lang": "az",
-        "name": "Sağ-sağan cüllüt"
+        "name": "Sağsağanı alacüllüt"
       },
       {
         "lang": "ba",
@@ -74,6 +142,10 @@
       },
       {
         "lang": "be",
+        "name": "Крывок"
+      },
+      {
+        "lang": "be-x-old",
         "name": "Крывок"
       },
       {
@@ -86,7 +158,7 @@
       },
       {
         "lang": "ca",
-        "name": "Garsa de mar"
+        "name": "Garsa de mar eurasiàtica"
       },
       {
         "lang": "cs",
@@ -98,7 +170,7 @@
       },
       {
         "lang": "cy",
-        "name": "Pioden y Môr"
+        "name": "Pioden fôr"
       },
       {
         "lang": "da",
@@ -118,7 +190,7 @@
       },
       {
         "lang": "eo",
-        "name": "hematopo"
+        "name": "Eŭrazia hematopo"
       },
       {
         "lang": "es",
@@ -133,8 +205,12 @@
         "name": "Itsas mika"
       },
       {
+        "lang": "fa",
+        "name": "صدف‌خوار اوراسیایی"
+      },
+      {
         "lang": "fi",
-        "name": "meriharakka"
+        "name": "Meriharakka"
       },
       {
         "lang": "fo",
@@ -154,10 +230,7 @@
       },
       {
         "lang": "ga",
-        "name": "Gobadán",
-        "synonyms": [
-          "Roilleach"
-        ]
+        "name": "Gobadán"
       },
       {
         "lang": "gd",
@@ -165,14 +238,15 @@
       },
       {
         "lang": "gl",
-        "name": "Gabita",
-        "synonyms": [
-          "gavita"
-        ]
+        "name": "Gabita"
       },
       {
         "lang": "gv",
         "name": "Bridgeen"
+      },
+      {
+        "lang": "gu",
+        "name": "અબલખ"
       },
       {
         "lang": "he",
@@ -196,10 +270,7 @@
       },
       {
         "lang": "it",
-        "name": "Beccaccia di mare",
-        "synonyms": [
-          "ostrichiere"
-        ]
+        "name": "Beccaccia di mare"
       },
       {
         "lang": "ja",
@@ -211,27 +282,27 @@
       },
       {
         "lang": "kk",
-        "name": "Бізтұмсық"
+        "name": "Қараала балшықшы"
       },
       {
         "lang": "ko",
         "name": "검은머리물떼새"
       },
       {
-        "lang": "lt",
-        "name": "Jūrinė šarka"
+        "lang": "kv",
+        "name": "Катша бордъя утка"
       },
       {
         "lang": "lb",
         "name": "Mierkréi"
       },
       {
-        "lang": "lv",
-        "name": "Jūras žagata"
+        "lang": "lt",
+        "name": "Jūrinė šarka"
       },
       {
-        "lang": "mi",
-        "name": "Torea"
+        "lang": "lv",
+        "name": "Jūras žagata"
       },
       {
         "lang": "mk",
@@ -239,15 +310,31 @@
       },
       {
         "lang": "ml",
-        "name": "മണ്ണാത്തിപ്പക്ഷി"
+        "name": "കടൽമണ്ണാത്തി"
+      },
+      {
+        "lang": "mr",
+        "name": "शंखिनी"
       },
       {
         "lang": "mrj",
         "name": "Алавӹтельӹ"
       },
       {
+        "lang": "ms",
+        "name": "Burung Tetiram"
+      },
+      {
         "lang": "mt",
         "name": "Gallina tal-Baħar"
+      },
+      {
+        "lang": "nds",
+        "name": "Liewe"
+      },
+      {
+        "lang": "ne",
+        "name": "सिपी चरा"
       },
       {
         "lang": "nl",
@@ -260,6 +347,14 @@
       {
         "lang": "no",
         "name": "Tjeld"
+      },
+      {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ tábąąh chʼosh haalzheehii"
+      },
+      {
+        "lang": "olo",
+        "name": "Meriharakku"
       },
       {
         "lang": "pl",
@@ -282,6 +377,10 @@
         "name": "Кулик-сорока"
       },
       {
+        "lang": "sco",
+        "name": "Sea-pyot"
+      },
+      {
         "lang": "se",
         "name": "Cagán"
       },
@@ -291,7 +390,7 @@
       },
       {
         "lang": "sl",
-        "name": "školjkarica"
+        "name": "Školjkarica"
       },
       {
         "lang": "sq",
@@ -299,10 +398,7 @@
       },
       {
         "lang": "sr",
-        "name": "Ostrigar",
-        "synonyms": [
-          "Остригар"
-        ]
+        "name": "Ostrigar - Остригар"
       },
       {
         "lang": "sv",
@@ -311,6 +407,10 @@
       {
         "lang": "sw",
         "name": "Kizamichaza"
+      },
+      {
+        "lang": "ta",
+        "name": "ஐரோவாசியா சிப்பிபிடிப்பான்"
       },
       {
         "lang": "tr",
@@ -364,7 +464,11 @@
       },
       {
         "lang": "en",
-        "name": "Canarian Black Oystercatcher"
+        "name": "Canary Islands Oystercatcher"
+      },
+      {
+        "lang": "eo",
+        "name": "Kanaria hematopo"
       },
       {
         "lang": "fi",
@@ -390,6 +494,10 @@
       {
         "lang": "en",
         "name": "Pied Oystercatcher"
+      },
+      {
+        "lang": "eo",
+        "name": "Aŭstralia hematopo"
       },
       {
         "lang": "es",
@@ -496,16 +604,32 @@
     "scientific_name": "Haematopus chathamensis",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Morbig Chatham"
+      },
+      {
+        "lang": "ca",
+        "name": "Garsa de mar de les Chatham"
+      },
+      {
         "lang": "cs",
         "name": "Ústřičník chathamský"
       },
       {
+        "lang": "cy",
+        "name": "Pioden fôr Ynys Chatham"
+      },
+      {
         "lang": "de",
-        "name": "Chatham-Austernfischer"
+        "name": "Chathamausternfischer"
       },
       {
         "lang": "en",
-        "name": "Chatham Island oystercatcher"
+        "name": "Chatham Oystercatcher"
+      },
+      {
+        "lang": "eo",
+        "name": "Hematopo de insulo Chatham"
       },
       {
         "lang": "es",
@@ -516,12 +640,24 @@
         "name": "صدف‌خوار چاتهام"
       },
       {
+        "lang": "fi",
+        "name": "Chathaminmeriharakka"
+      },
+      {
         "lang": "fr",
         "name": "Huîtrier des Chatham"
       },
       {
+        "lang": "hu",
+        "name": "Chatham-szigeteki csigaforgató"
+      },
+      {
         "lang": "it",
-        "name": "Beccaccia di mare delle isole Chatham"
+        "name": "Beccaccia di mare delle Chatham"
+      },
+      {
+        "lang": "nl",
+        "name": "Chathamscholekster"
       },
       {
         "lang": "sv",
@@ -533,8 +669,80 @@
     "scientific_name": "Haematopus bachmani",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "صائد المحار الأسود"
+      },
+      {
+        "lang": "br",
+        "name": "Morbig Bachman"
+      },
+      {
+        "lang": "ca",
+        "name": "Garsa de mar negra nord-americana"
+      },
+      {
         "lang": "cs",
         "name": "Ústřičník západní"
+      },
+      {
+        "lang": "cy",
+        "name": "Pioden fôr ddu America"
+      },
+      {
+        "lang": "de",
+        "name": "Klippen-Austernfischer"
+      },
+      {
+        "lang": "en",
+        "name": "Black Oystercatcher"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika nigra hematopo"
+      },
+      {
+        "lang": "es",
+        "name": "Ostrero negro norteamericano"
+      },
+      {
+        "lang": "fa",
+        "name": "صدف‌خوار سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Alaskanmeriharakka"
+      },
+      {
+        "lang": "fr",
+        "name": "Huîtrier de Bachman"
+      },
+      {
+        "lang": "hu",
+        "name": "Alaszkai csigaforgató"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia di mare nera del Nordamerica"
+      },
+      {
+        "lang": "ja",
+        "name": "クロミヤコドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Noord-Amerikaanse zwarte scholekster"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikasvarttjeld"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąąh chʼosh haalzheehii łizhinígíí"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрный кулик-сорока"
       },
       {
         "lang": "sv",
@@ -546,20 +754,88 @@
     "scientific_name": "Haematopus ater",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Black oystercatcher"
+        "lang": "ar",
+        "name": "صائد المحار المسود"
       },
       {
-        "lang": "es",
-        "name": "Ostrero negro"
+        "lang": "br",
+        "name": "Morbig zu"
+      },
+      {
+        "lang": "ca",
+        "name": "Garsa de mar negra sud-americana"
       },
       {
         "lang": "cs",
         "name": "Ústřičník tmavý"
       },
       {
+        "lang": "cy",
+        "name": "Pioden fôr dywyll"
+      },
+      {
+        "lang": "da",
+        "name": "Grovnæbbet Strandskade"
+      },
+      {
+        "lang": "de",
+        "name": "Chileausternfischer"
+      },
+      {
+        "lang": "en",
+        "name": "Blackish Oystercatcher"
+      },
+      {
+        "lang": "es",
+        "name": "Ostrero negro americano"
+      },
+      {
+        "lang": "fa",
+        "name": "صدف‌خوار سیاه‌گون"
+      },
+      {
+        "lang": "fi",
+        "name": "Chilenmeriharakka"
+      },
+      {
+        "lang": "fr",
+        "name": "Huîtrier noir"
+      },
+      {
+        "lang": "hu",
+        "name": "Vastagcsőrű csigaforgató"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia di mare nerastra"
+      },
+      {
+        "lang": "ja",
+        "name": "ミナミクロミヤコドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zuid-Amerikaanse Zwarte Scholekster"
+      },
+      {
+        "lang": "no",
+        "name": "Tykknebbsvarttjeld"
+      },
+      {
+        "lang": "pt",
+        "name": "Piru-piru-preto-sulamericano"
+      },
+      {
+        "lang": "ru",
+        "name": "Тёмный кулик-сорока"
+      },
+      {
         "lang": "sv",
         "name": "Sydamerikansk strandskata"
+      },
+      {
+        "lang": "uk",
+        "name": "Кулик-сорока південний"
       }
     ]
   }

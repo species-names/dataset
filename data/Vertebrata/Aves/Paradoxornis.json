@@ -1,76 +1,5 @@
 [
   {
-    "scientific_name": "Paradoxornis zappeyi",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Grey-hooded Parrotbill"
-      },
-      {
-        "lang": "es",
-        "name": "Picoloro encapuchado"
-      },
-      {
-        "lang": "zh",
-        "name": "暗色鸦雀"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Paradoxornis webbianus",
-    "common_names": [
-      {
-        "lang": "de",
-        "name": "Braunkopf-Papageischnabel"
-      },
-      {
-        "lang": "en",
-        "name": "Vinous-throated Parrotbill"
-      },
-      {
-        "lang": "es",
-        "name": "Picoloro de Webb"
-      },
-      {
-        "lang": "ja",
-        "name": "ダルマエナガ"
-      },
-      {
-        "lang": "ko",
-        "name": "붉은머리오목눈이"
-      },
-      {
-        "lang": "zh",
-        "name": "棕头鸦雀"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Paradoxornis verreauxi",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Golden Parrotbill"
-      },
-      {
-        "lang": "es",
-        "name": "Picoloro dorado"
-      },
-      {
-        "lang": "fi",
-        "name": "Kultanokkatimali"
-      },
-      {
-        "lang": "fr",
-        "name": "Paradoxornis de Verreaux"
-      },
-      {
-        "lang": "zh",
-        "name": "金色鴉雀"
-      }
-    ]
-  },
-  {
     "scientific_name": "Paradoxornis unicolor",
     "common_names": [
       {
@@ -96,23 +25,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Paradoxornis przewalskii",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Rusty-throated Parrotbill"
-      },
-      {
-        "lang": "es",
-        "name": "Picoloro de Przevalski"
-      },
-      {
-        "lang": "zh",
-        "name": "灰冠鸦雀"
-      }
-    ]
-  },
-  {
     "scientific_name": "Paradoxornis polivanovi",
     "common_names": []
   },
@@ -130,31 +42,6 @@
       {
         "lang": "zh",
         "name": "三趾鸦雀"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Paradoxornis nipalensis",
-    "common_names": [
-      {
-        "lang": "de",
-        "name": "Grauohr-Papageischnabel"
-      },
-      {
-        "lang": "en",
-        "name": "Black-throated Parrotbill"
-      },
-      {
-        "lang": "fr",
-        "name": "Paradoxornis à menton noir"
-      },
-      {
-        "lang": "nl",
-        "name": "Grijswangdiksnavelmees"
-      },
-      {
-        "lang": "zh",
-        "name": "橙额鸦雀"
       }
     ]
   },
@@ -197,23 +84,6 @@
     ]
   },
   {
-    "scientific_name": "Paradoxornis fulvifrons",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Fulvous Parrotbill"
-      },
-      {
-        "lang": "es",
-        "name": "Picoloro leonado"
-      },
-      {
-        "lang": "zh",
-        "name": "黄额鸦雀"
-      }
-    ]
-  },
-  {
     "scientific_name": "Paradoxornis flavirostris",
     "common_names": [
       {
@@ -248,40 +118,6 @@
     ]
   },
   {
-    "scientific_name": "Paradoxornis conspicillatus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Spectacled Parrotbill"
-      },
-      {
-        "lang": "es",
-        "name": "Picoloro de anteojos"
-      },
-      {
-        "lang": "zh",
-        "name": "白眶鸦雀"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Paradoxornis brunneus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Brown-winged Parrotbill"
-      },
-      {
-        "lang": "es",
-        "name": "Picoloro alipardo"
-      },
-      {
-        "lang": "zh",
-        "name": "褐翅鸦雀"
-      }
-    ]
-  },
-  {
     "scientific_name": "Paradoxornis atrosuperciliaris",
     "common_names": [
       {
@@ -291,15 +127,6 @@
       {
         "lang": "es",
         "name": "Picoloro cejinegro"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Paradoxornis alphonsianus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Ashy-throated Parrotbill"
       }
     ]
   }

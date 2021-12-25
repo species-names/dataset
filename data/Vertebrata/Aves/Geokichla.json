@@ -26,6 +26,26 @@
       {
         "lang": "fr",
         "name": "Grive à ailes tachetées"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych daear adeinfannog"
+      },
+      {
+        "lang": "fi",
+        "name": "Srilankankirjorastas"
+      },
+      {
+        "lang": "nl",
+        "name": "Vlekvleugellijster"
+      },
+      {
+        "lang": "si",
+        "name": "තිත්පිය තිරාසිකයා"
+      },
+      {
+        "lang": "sv",
+        "name": "fläckvingad trast"
       }
     ]
   },
@@ -192,6 +212,30 @@
       {
         "lang": "fr",
         "name": "Grive schistacée"
+      },
+      {
+        "lang": "az",
+        "name": "Qarabel qaratoyuq"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych daear cefnllwyd"
+      },
+      {
+        "lang": "fi",
+        "name": "Liuskekirjorastas"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfülű földirigó"
+      },
+      {
+        "lang": "nl",
+        "name": "Tanimbarlijster"
+      },
+      {
+        "lang": "sv",
+        "name": "tanimbartrast"
       }
     ]
   },
@@ -226,6 +270,30 @@
       {
         "lang": "en",
         "name": "Abyssinian Ground Thrush"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych daear Abysinia"
+      },
+      {
+        "lang": "fi",
+        "name": "Abessiniankirjorastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Grive de Piaggia"
+      },
+      {
+        "lang": "hu",
+        "name": "Narancsszínű földirigó"
+      },
+      {
+        "lang": "nl",
+        "name": "Ethiopische lijster"
+      },
+      {
+        "lang": "sv",
+        "name": "orangebröstad trast"
       }
     ]
   },
@@ -247,6 +315,22 @@
       {
         "lang": "fr",
         "name": "Grive de Péron"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych daear ystlysoren"
+      },
+      {
+        "lang": "fi",
+        "name": "Timorinrastas"
+      },
+      {
+        "lang": "nl",
+        "name": "Timorlijster"
+      },
+      {
+        "lang": "sv",
+        "name": "tmortrast"
       }
     ]
   },
@@ -297,6 +381,18 @@
       {
         "lang": "fr",
         "name": "Grive de Menden"
+      },
+      {
+        "lang": "de",
+        "name": "Pelengdrossel"
+      },
+      {
+        "lang": "nl",
+        "name": "Pelinglijster"
+      },
+      {
+        "lang": "sv",
+        "name": "vitörad trast"
       }
     ]
   },
@@ -397,6 +493,14 @@
       {
         "lang": "nl",
         "name": "Natallijster"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych daear mannog"
+      },
+      {
+        "lang": "sv",
+        "name": "fläcktrast"
       }
     ]
   },
@@ -452,6 +556,26 @@
       {
         "lang": "id",
         "name": "Anis buru"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych daear Molwcaidd"
+      },
+      {
+        "lang": "de",
+        "name": "Burudrossel"
+      },
+      {
+        "lang": "fi",
+        "name": "Molukkienrastas"
+      },
+      {
+        "lang": "nl",
+        "name": "Molukse lijster"
+      },
+      {
+        "lang": "sv",
+        "name": "burutrast"
       }
     ]
   },
@@ -461,6 +585,34 @@
       {
         "lang": "en",
         "name": "Chestnut-backed Thrush"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych daear cefnwinau"
+      },
+      {
+        "lang": "fi",
+        "name": "Lombokinkirjorastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Grive de Doherty"
+      },
+      {
+        "lang": "hu",
+        "name": "Szumbawai földirigó"
+      },
+      {
+        "lang": "nl",
+        "name": "Soembawalijster"
+      },
+      {
+        "lang": "pl",
+        "name": "Drozdaczek czarnoszyi"
+      },
+      {
+        "lang": "sv",
+        "name": "harlekintrast"
       },
       {
         "lang": "uk",
@@ -489,7 +641,19 @@
       },
       {
         "lang": "sv",
-        "name": "Svartkindad trast"
+        "name": "svartkindad trast"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych daear Crossley"
+      },
+      {
+        "lang": "fi",
+        "name": "Kupenkirjorastas"
+      },
+      {
+        "lang": "nl",
+        "name": "Crossleys lijster"
       }
     ]
   },
@@ -505,6 +669,10 @@
         "name": "Drozd oranžovohlavý"
       },
       {
+        "lang": "cy",
+        "name": "Brych daear penoren"
+      },
+      {
         "lang": "da",
         "name": "Orangedrossel"
       },
@@ -517,11 +685,12 @@
         "name": "Orange-headed Thrush"
       },
       {
+        "lang": "eo",
+        "name": "Oranĝakapa turdo"
+      },
+      {
         "lang": "es",
-        "name": "Zorzal citrino",
-        "synonyms": [
-          "zorzal dama"
-        ]
+        "name": "Zorzal citrino"
       },
       {
         "lang": "fi",
@@ -541,7 +710,7 @@
       },
       {
         "lang": "id",
-        "name": "Burung anis merah"
+        "name": "Anis merah"
       },
       {
         "lang": "it",
@@ -556,23 +725,48 @@
         "name": "കുറിക്കണ്ണൻ കാട്ടുപുള്ള്"
       },
       {
+        "lang": "mr",
+        "name": "केशरी डोक्याचा कस्तूर"
+      },
+      {
         "lang": "ms",
-        "name": "Burung Murai Belanda",
-        "synonyms": [
-          "Murai Dada Oren"
-        ]
+        "name": "Burung Murai Belanda"
+      },
+      {
+        "lang": "ne",
+        "name": "सुन्तले चाँचर"
       },
       {
         "lang": "nl",
-        "name": "Dama-lijster"
+        "name": "Damalijster"
       },
       {
         "lang": "no",
         "name": "Damatrost"
       },
       {
+        "lang": "or",
+        "name": "ଭୂଇଁଖୁଣ୍ଟି ଚଢ଼େଇ"
+      },
+      {
         "lang": "pl",
         "name": "Drozdoń ognistogłowy"
+      },
+      {
+        "lang": "sv",
+        "name": "Orangehuvad trast"
+      },
+      {
+        "lang": "ta",
+        "name": "செந்தலைப் பூங்குருவி"
+      },
+      {
+        "lang": "uk",
+        "name": "Квічаль вогнистоголовий"
+      },
+      {
+        "lang": "vi",
+        "name": "Sáo đất đầu cam"
       },
       {
         "lang": "th",
@@ -606,6 +800,22 @@
       {
         "lang": "fr",
         "name": "Grive cendrée"
+      },
+      {
+        "lang": "cy",
+        "name": "Brych daear llwyd"
+      },
+      {
+        "lang": "fi",
+        "name": "Tuhkarastas"
+      },
+      {
+        "lang": "nl",
+        "name": "Mindoro-lijster"
+      },
+      {
+        "lang": "sv",
+        "name": "filippintrast"
       }
     ]
   },

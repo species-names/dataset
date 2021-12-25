@@ -3,16 +3,92 @@
     "scientific_name": "Chloris spinoides",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Verdum de l'Himàlaia"
+      },
+      {
+        "lang": "cs",
+        "name": "Zvonek žlutoprsý"
+      },
+      {
+        "lang": "cy",
+        "name": "Llinos werdd benddu"
+      },
+      {
+        "lang": "da",
+        "name": "Himalayagrønirisk"
+      },
+      {
+        "lang": "de",
+        "name": "Himalayagrünfink"
+      },
+      {
         "lang": "en",
         "name": "Yellow-breasted Greenfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Flavbrusta fringo"
+      },
+      {
+        "lang": "es",
+        "name": "Verderón del Himalaya"
+      },
+      {
+        "lang": "et",
+        "name": "Mägi-rohevint"
+      },
+      {
+        "lang": "fi",
+        "name": "Aasianvihervarpunen"
       },
       {
         "lang": "fr",
         "name": "Verdier de l'Himalaya"
       },
       {
+        "lang": "it",
+        "name": "Verdone pettogiallo"
+      },
+      {
         "lang": "ja",
         "name": "キバラカワラヒワ"
+      },
+      {
+        "lang": "my",
+        "name": "တောင်ပေါ်စာဗိုက်ဝါ"
+      },
+      {
+        "lang": "ne",
+        "name": "गाजले पीतचरी"
+      },
+      {
+        "lang": "nl",
+        "name": "Himalajagroenling"
+      },
+      {
+        "lang": "no",
+        "name": "Himalayafink"
+      },
+      {
+        "lang": "pt",
+        "name": "Verdilhão-de-peito-amarelo"
+      },
+      {
+        "lang": "ru",
+        "name": "Гималайская зеленушка"
+      },
+      {
+        "lang": "sv",
+        "name": "Himalayagrönfink"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ thông ngực vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "高山金翅雀"
       }
     ]
   },
@@ -20,15 +96,96 @@
     "scientific_name": "Chloris sinica",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Ориенталска зеленика"
+      },
+      {
+        "lang": "ca",
+        "name": "Verdum oriental"
+      },
+      {
+        "lang": "cy",
+        "name": "Llinos werdd y Dwyrain"
+      },
+      {
+        "lang": "da",
+        "name": "Brunirisk"
+      },
+      {
+        "lang": "de",
+        "name": "Chinagrünfink"
+      },
+      {
         "lang": "en",
-        "name": "Oriental Greenfinch"
+        "name": "Grey-capped Greenfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Ĉina fringo"
+      },
+      {
+        "lang": "es",
+        "name": "Verderón chino"
+      },
+      {
+        "lang": "fi",
+        "name": "Idänviherpeippo"
+      },
+      {
+        "lang": "fr",
+        "name": "Verdier de Chine"
+      },
+      {
+        "lang": "hu",
+        "name": "Szalagos zöldike"
+      },
+      {
+        "lang": "it",
+        "name": "Verdone orientale"
       },
       {
         "lang": "ja",
-        "name": "カワラヒワ (河原鶸",
-        "synonyms": [
-          "''Kawarahiwa'')"
-        ]
+        "name": "カワラヒワ"
+      },
+      {
+        "lang": "ko",
+        "name": "방울새"
+      },
+      {
+        "lang": "mn",
+        "name": "Нангиад ногоолдой"
+      },
+      {
+        "lang": "mrj",
+        "name": "Китай ыжарвирӹк"
+      },
+      {
+        "lang": "nl",
+        "name": "Chinese groenling"
+      },
+      {
+        "lang": "no",
+        "name": "Orientfink"
+      },
+      {
+        "lang": "pt",
+        "name": "Verdilhão-oriental"
+      },
+      {
+        "lang": "ru",
+        "name": "Китайская зеленушка"
+      },
+      {
+        "lang": "sv",
+        "name": "Orientgrönfink"
+      },
+      {
+        "lang": "tr",
+        "name": "Doğu floryası"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ thông Trung Quốc"
       },
       {
         "lang": "zh",
@@ -40,16 +197,64 @@
     "scientific_name": "Chloris monguilloti",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Verdum vietnamita"
+      },
+      {
+        "lang": "da",
+        "name": "Da Lat-grønirisk"
+      },
+      {
+        "lang": "de",
+        "name": "Annamgrünfink"
+      },
+      {
         "lang": "en",
         "name": "Vietnamese Greenfinch"
       },
       {
+        "lang": "eo",
+        "name": "Vjetnama fringo"
+      },
+      {
+        "lang": "es",
+        "name": "Verderón vietnamita"
+      },
+      {
+        "lang": "fi",
+        "name": "Vietnaminvihervarpunen"
+      },
+      {
         "lang": "fr",
-        "name": "Verdier du Viêt Nam"
+        "name": "Verdier du Vietnam"
+      },
+      {
+        "lang": "it",
+        "name": "Verdone del Vietnam"
       },
       {
         "lang": "ja",
         "name": "ベトナムカワラヒワ"
+      },
+      {
+        "lang": "nl",
+        "name": "Vietnamese Groenling"
+      },
+      {
+        "lang": "no",
+        "name": "Vietnamfink"
+      },
+      {
+        "lang": "pt",
+        "name": "Verdilhão-vietnamita"
+      },
+      {
+        "lang": "ru",
+        "name": "Вьетнамская зеленушка"
+      },
+      {
+        "lang": "sv",
+        "name": "Vietnamgrönfink"
       },
       {
         "lang": "vi",
@@ -62,10 +267,7 @@
     "common_names": [
       {
         "lang": "als",
-        "name": "Grüelig",
-        "synonyms": [
-          "Grööfink"
-        ]
+        "name": "Grüelig"
       },
       {
         "lang": "ar",
@@ -396,20 +598,56 @@
     "scientific_name": "Chloris ambigua",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Черноглав щиглец"
+      },
+      {
+        "lang": "ca",
+        "name": "Verdum capnegre"
+      },
+      {
         "lang": "cs",
         "name": "Zvonek černohlavý"
       },
       {
+        "lang": "cy",
+        "name": "Llinos werdd Yunnan"
+      },
+      {
         "lang": "da",
-        "name": "Sorthovedet Grønfinke"
+        "name": "Sorthovedet Grønirisk"
       },
       {
         "lang": "de",
-        "name": "Schwarzkopfgrünling"
+        "name": "Schwarzkopf-Grünfink"
       },
       {
         "lang": "en",
         "name": "Black-headed Greenfinch"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrakapa fringo"
+      },
+      {
+        "lang": "es",
+        "name": "Verderón cabecinegro"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره سبز سرسیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Kiinanvihervarpunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Verdier d'Oustalet"
+      },
+      {
+        "lang": "it",
+        "name": "Verdone testanera"
       },
       {
         "lang": "ja",
@@ -420,8 +658,40 @@
         "name": "Dzwoniec ubogi"
       },
       {
+        "lang": "my",
+        "name": "တောင်ပေါ်စာခေါင်းမဲ"
+      },
+      {
+        "lang": "nl",
+        "name": "Yunnangroenling"
+      },
+      {
+        "lang": "pt",
+        "name": "Verdilhão-de-cabeça-preta"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноголовая зеленушка"
+      },
+      {
         "lang": "sv",
         "name": "Svarthuvad grönfink"
+      },
+      {
+        "lang": "th",
+        "name": "นกจาบปีกอ่อนเขียว"
+      },
+      {
+        "lang": "uk",
+        "name": "Зеленяк чорноголовий"
+      },
+      {
+        "lang": "vi",
+        "name": "Sẻ thông đầu đen"
+      },
+      {
+        "lang": "zh",
+        "name": "黑头金翅雀"
       }
     ]
   }

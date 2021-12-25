@@ -12,8 +12,60 @@
     "scientific_name": "Calcarius ornatus",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Bras bronddu’r Gogledd"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbkehl-Spornammer"
+      },
+      {
         "lang": "en",
         "name": "Chestnut-collared Longspur"
+      },
+      {
+        "lang": "eo",
+        "name": "Brunnuka emberizo"
+      },
+      {
+        "lang": "es",
+        "name": "Escribano collarejo"
+      },
+      {
+        "lang": "fa",
+        "name": "پنجه‌بلند طوق‌بلوطی"
+      },
+      {
+        "lang": "fr",
+        "name": "Plectrophane à ventre noir"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketebegyű sarkantyússármány"
+      },
+      {
+        "lang": "it",
+        "name": "Zigolo ornato"
+      },
+      {
+        "lang": "ja",
+        "name": "アカエリツメナガホオジロ"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodhalsgors"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídiiłbáhí késhgaaní bitsiiyah halchíʼígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "Praktlappsparv"
+      },
+      {
+        "lang": "uk",
+        "name": "Подорожник чорногрудий"
       }
     ]
   },
@@ -46,11 +98,11 @@
       },
       {
         "lang": "cs",
-        "name": "strnad severní"
+        "name": "Strnad severní"
       },
       {
         "lang": "cy",
-        "name": "Bras y gogledd"
+        "name": "Bras y Gogledd"
       },
       {
         "lang": "da",
@@ -62,11 +114,15 @@
       },
       {
         "lang": "en",
+        "name": "Lapland Bunting"
+      },
+      {
+        "lang": "en-us",
         "name": "Lapland Longspur"
       },
       {
         "lang": "eo",
-        "name": "laponemberizo"
+        "name": "Laponemberizo"
       },
       {
         "lang": "es",
@@ -81,8 +137,12 @@
         "name": "Ipar-berdantza"
       },
       {
+        "lang": "fa",
+        "name": "پنجه‌بلند لاپلند"
+      },
+      {
         "lang": "fi",
-        "name": "lapinsirkku"
+        "name": "Lapinsirkku"
       },
       {
         "lang": "fo",
@@ -110,18 +170,19 @@
       },
       {
         "lang": "he",
-        "name": "גבתון לפלנדי"
+        "name": "גיבתון לפלנד"
       },
       {
         "lang": "hr",
-        "name": "Laponska strnadica",
-        "synonyms": [
-          "Laponski ostrugaš"
-        ]
+        "name": "Laponska strnadica"
       },
       {
         "lang": "hu",
         "name": "Sarkantyús sármány"
+      },
+      {
+        "lang": "ik",
+        "name": "Qupałuk"
       },
       {
         "lang": "is",
@@ -133,17 +194,11 @@
       },
       {
         "lang": "iu",
-        "name": "Kowlegak",
-        "synonyms": [
-          "Narsarmiutaq"
-        ]
+        "name": "Kowlegak"
       },
       {
         "lang": "ja",
-        "name": "ツメナガホオジロ",
-        "synonyms": [
-          "tsumenagahoojiro"
-        ]
+        "name": "ツメナガホオジロ"
       },
       {
         "lang": "ka",
@@ -155,10 +210,7 @@
       },
       {
         "lang": "kl",
-        "name": "Kowlegak",
-        "synonyms": [
-          "Narsarmiutaq"
-        ]
+        "name": "Narsarmiutaq"
       },
       {
         "lang": "ko",
@@ -170,10 +222,11 @@
       },
       {
         "lang": "lv",
-        "name": "Lapzemes piešstērste",
-        "synonyms": [
-          "Lapzemes stērste"
-        ]
+        "name": "Lapzemes stērste"
+      },
+      {
+        "lang": "mdf",
+        "name": "Тундрань цифтаз"
       },
       {
         "lang": "mn",
@@ -194,6 +247,10 @@
       {
         "lang": "no",
         "name": "Lappspurv"
+      },
+      {
+        "lang": "nv",
+        "name": "Náhookǫs biyaadę́ę́ʼ tsídiiłbáhí késhgaaní"
       },
       {
         "lang": "pl",
@@ -221,7 +278,7 @@
       },
       {
         "lang": "sk",
-        "name": "ostrohárka severská"
+        "name": "Ostrohárka severská"
       },
       {
         "lang": "sl",
@@ -237,7 +294,7 @@
       },
       {
         "lang": "tr",
-        "name": "Lapon çintesi"
+        "name": "Mahmuzlu çinte"
       },
       {
         "lang": "tyv",
@@ -245,7 +302,7 @@
       },
       {
         "lang": "uk",
-        "name": "Лапландський подорожник"
+        "name": "Подорожник лапландський"
       },
       {
         "lang": "zh",

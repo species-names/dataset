@@ -3,6 +3,22 @@
     "scientific_name": "Gallinula tenebrosa",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "دجاجة الماء الداكنة"
+      },
+      {
+        "lang": "ca",
+        "name": "Polla endolada"
+      },
+      {
+        "lang": "cy",
+        "name": "Iâr ddŵr dywyll"
+      },
+      {
+        "lang": "de",
+        "name": "Papua-Teichhuhn"
+      },
+      {
         "lang": "en",
         "name": "Dusky Moorhen"
       },
@@ -15,8 +31,36 @@
         "name": "Gallineta enlutada"
       },
       {
+        "lang": "fi",
+        "name": "Tummaliejukana"
+      },
+      {
+        "lang": "fr",
+        "name": "Gallinule sombre"
+      },
+      {
+        "lang": "he",
+        "name": "סופית כהה"
+      },
+      {
         "lang": "hu",
         "name": "Pápua vízityúk"
+      },
+      {
+        "lang": "id",
+        "name": "Mandar kelam"
+      },
+      {
+        "lang": "it",
+        "name": "Gallinella fosca"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwart waterhoen"
+      },
+      {
+        "lang": "sv",
+        "name": "Mörk rörhöna"
       }
     ]
   },
@@ -45,7 +89,7 @@
       },
       {
         "lang": "nl",
-        "name": "San-Cristobalwaterhoen"
+        "name": "Makirawaterhoen"
       },
       {
         "lang": "sv",
@@ -124,12 +168,16 @@
       {
         "lang": "af",
         "name": "Gough-eilandwaterhoender"
+      },
+      {
+        "lang": "es",
+        "name": "Gallineta de Tristán de Acuña"
+      },
+      {
+        "lang": "pt",
+        "name": "Frango-d'água-de-tristão-da-cunha"
       }
     ]
-  },
-  {
-    "scientific_name": "Gallinula melanops",
-    "common_names": []
   },
   {
     "scientific_name": "Gallinula galeata",
@@ -198,6 +246,46 @@
       {
         "lang": "en",
         "name": "Gough Moorhen"
+      },
+      {
+        "lang": "af",
+        "name": "Goughwaterhoender"
+      },
+      {
+        "lang": "ar",
+        "name": "دجاجة الماء الغوفية"
+      },
+      {
+        "lang": "ca",
+        "name": "Polla de Gough"
+      },
+      {
+        "lang": "de",
+        "name": "Gough-Teichhuhn"
+      },
+      {
+        "lang": "eo",
+        "name": "Galinolo de insulo Gough"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelänliejukana"
+      },
+      {
+        "lang": "fr",
+        "name": "Gallinule de Gough"
+      },
+      {
+        "lang": "he",
+        "name": "סופית גוף"
+      },
+      {
+        "lang": "nl",
+        "name": "Goughwaterhoen"
+      },
+      {
+        "lang": "sv",
+        "name": "goughrörhöna"
       }
     ]
   },
@@ -214,18 +302,27 @@
       },
       {
         "lang": "ar",
-        "name": "دجاجة الماء"
+        "name": "دجاجة الماء خضراء الأقدام"
+      },
+      {
+        "lang": "as",
+        "name": "পানীডাউক"
       },
       {
         "lang": "ast",
-        "name": "Gallineta",
-        "synonyms": [
-          "Pita"
-        ]
+        "name": "Gallineta"
+      },
+      {
+        "lang": "ay",
+        "name": "Tikitiki"
       },
       {
         "lang": "az",
         "name": "Qamış toyuğu"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡамыш тауығы"
       },
       {
         "lang": "be",
@@ -236,16 +333,28 @@
         "name": "Зеленоножка"
       },
       {
+        "lang": "bh",
+        "name": "बोडोर"
+      },
+      {
+        "lang": "bn",
+        "name": "পাতি জলমুরগি"
+      },
+      {
         "lang": "br",
         "name": "Douryar voutin"
       },
       {
         "lang": "ca",
-        "name": "Polla d'aigua"
+        "name": "Polla d'aigua comuna"
       },
       {
         "lang": "ceb",
         "name": "Ituman"
+      },
+      {
+        "lang": "co",
+        "name": "Ghjallinetta"
       },
       {
         "lang": "cpf",
@@ -265,7 +374,7 @@
       },
       {
         "lang": "de",
-        "name": "Teichhuhn"
+        "name": "Teichralle"
       },
       {
         "lang": "dv",
@@ -277,7 +386,7 @@
       },
       {
         "lang": "en",
-        "name": "Common moorhen"
+        "name": "Common Moorhen"
       },
       {
         "lang": "eo",
@@ -294,6 +403,10 @@
       {
         "lang": "eu",
         "name": "Uroilo arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "چارخوی مرداب"
       },
       {
         "lang": "fi",
@@ -329,7 +442,7 @@
       },
       {
         "lang": "gl",
-        "name": "Galiñola"
+        "name": "Galiña de río"
       },
       {
         "lang": "gn",
@@ -341,7 +454,7 @@
       },
       {
         "lang": "he",
-        "name": "סופית"
+        "name": "סופית מצויה"
       },
       {
         "lang": "hi",
@@ -393,7 +506,7 @@
       },
       {
         "lang": "kk",
-        "name": "Қызылқасқа сутартар"
+        "name": "Сутартар"
       },
       {
         "lang": "ko",
@@ -401,7 +514,7 @@
       },
       {
         "lang": "ku",
-        "name": "Mirîşka avî ya enîsor"
+        "name": "Mirîşka zelkav"
       },
       {
         "lang": "kw",
@@ -412,8 +525,8 @@
         "name": "Edenene"
       },
       {
-        "lang": "la",
-        "name": "Gallinula"
+        "lang": "ky",
+        "name": "Кызыл чеке кашкалдак"
       },
       {
         "lang": "lb",
@@ -437,7 +550,11 @@
       },
       {
         "lang": "mk",
-        "name": "Зелено коковче"
+        "name": "Црвеноклуна блатна кокошка"
+      },
+      {
+        "lang": "ml",
+        "name": "പട്ടക്കോഴി"
       },
       {
         "lang": "mn",
@@ -460,8 +577,20 @@
         "name": "Gallozz Iswed"
       },
       {
+        "lang": "my",
+        "name": "ရေကြက်"
+      },
+      {
         "lang": "nds",
         "name": "Reetküken"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Waoterkiep"
+      },
+      {
+        "lang": "ne",
+        "name": "बगाले सिमकुखुरा"
       },
       {
         "lang": "nl",
@@ -473,7 +602,7 @@
       },
       {
         "lang": "no",
-        "name": "Sivhøna"
+        "name": "Sivhøne"
       },
       {
         "lang": "nrm",
@@ -484,8 +613,16 @@
         "name": "Kgogomeetse"
       },
       {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ tóidoozohii bidaaʼ łichíʼígíí"
+      },
+      {
         "lang": "pau",
         "name": "Debar"
+      },
+      {
+        "lang": "olo",
+        "name": "Liivukana"
       },
       {
         "lang": "pcd",
@@ -493,7 +630,7 @@
       },
       {
         "lang": "pl",
-        "name": "Kokoszka wodna"
+        "name": "Kokoszka zwyczajna"
       },
       {
         "lang": "pms",
@@ -561,9 +698,9 @@
       },
       {
         "lang": "sr",
-        "name": "Barska koka",
+        "name": "Барска кокица",
         "synonyms": [
-          "Барска кока"
+          "Barska kokica"
         ]
       },
       {
@@ -581,6 +718,10 @@
       {
         "lang": "sw",
         "name": "Kukuziwa wa kawaida"
+      },
+      {
+        "lang": "ta",
+        "name": "தாழைக் கோழி"
       },
       {
         "lang": "th",
@@ -604,10 +745,7 @@
       },
       {
         "lang": "vec",
-        "name": "Garàtola",
-        "synonyms": [
-          "Viatara"
-        ]
+        "name": "Garàtola"
       },
       {
         "lang": "vi",
@@ -623,12 +761,8 @@
       },
       {
         "lang": "zh",
-        "name": "小鷭"
+        "name": "黑水鸡"
       }
     ]
-  },
-  {
-    "scientific_name": "Gallinula angulata",
-    "common_names": []
   }
 ]

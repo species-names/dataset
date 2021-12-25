@@ -1,11 +1,29 @@
 [
   {
     "scientific_name": "Dacnis viguieri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Viridian Dacnis"
+      },
+      {
+        "lang": "es",
+        "name": "Dacnis verdoso"
+      }
+    ]
   },
   {
     "scientific_name": "Dacnis venusta",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scarlet-thighed Dacnis"
+      },
+      {
+        "lang": "es",
+        "name": "Dacnis muslirrojo"
+      }
+    ]
   },
   {
     "scientific_name": "Dacnis nigripes",
@@ -13,19 +31,70 @@
       {
         "lang": "pt",
         "name": "Saí-de-pernas-pretas"
+      },
+      {
+        "lang": "en",
+        "name": "Black-legged Dacnis"
       }
     ]
   },
   {
     "scientific_name": "Dacnis lineata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-faced Dacnis"
+      },
+      {
+        "lang": "es",
+        "name": "Dacnis carinegro"
+      },
+      {
+        "lang": "pt",
+        "name": "Saí-de-máscara-preta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dacnis hartlaubi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Turquoise Dacnis-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Dacnis turquesa"
+      }
+    ]
   },
   {
     "scientific_name": "Dacnis flaviventer",
     "common_names": [
       {
         "lang": "pt",
-        "name": "Saíra"
+        "name": "Saí-amarela"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-bellied Dacnis"
+      },
+      {
+        "lang": "es",
+        "name": "Dacnis ventriamarillo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dacnis egregia",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-tufted Dacnis"
+      },
+      {
+        "lang": "es",
+        "name": "Dacnis egregio"
       }
     ]
   },
@@ -35,15 +104,69 @@
       {
         "lang": "pt",
         "name": "Saí-azul"
+      },
+      {
+        "lang": "es",
+        "name": "Dacnis azul"
+      },
+      {
+        "lang": "en",
+        "name": "Blue Dacnis"
       }
     ]
   },
   {
     "scientific_name": "Dacnis berlepschi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "dacnis pechirrojo"
+      },
+      {
+        "lang": "cy",
+        "name": "Dacnis brongoch"
+      },
+      {
+        "lang": "en",
+        "name": "Scarlet-breasted dacnis"
+      },
+      {
+        "lang": "fa",
+        "name": "توت‌خوار سینه‌سرخ"
+      },
+      {
+        "lang": "fr",
+        "name": "Dacnis à poitrine rouge"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар онган дакнис"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodborstpitpit"
+      },
+      {
+        "lang": "sv",
+        "name": "trefärgad daknis"
+      }
+    ]
   },
   {
     "scientific_name": "Dacnis albiventris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Dacnis"
+      },
+      {
+        "lang": "es",
+        "name": "Dacnis ventriblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "Saí-de-barriga-branca"
+      }
+    ]
   }
 ]

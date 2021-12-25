@@ -9,6 +9,10 @@
       {
         "lang": "tr",
         "name": "Porto Riko kertenkele guguğu"
+      },
+      {
+        "lang": "es",
+        "name": "Cuco lagartero portorriqueño"
       }
     ]
   },
@@ -32,6 +36,42 @@
   {
     "scientific_name": "Coccyzus rufigularis",
     "common_names": [
+      {
+        "lang": "ar",
+        "name": "وقواق أكمت الصدر"
+      },
+      {
+        "lang": "ca",
+        "name": "Cucut becgròs de la Hispaniola"
+      },
+      {
+        "lang": "cy",
+        "name": "Cog frongoch Hispaniola"
+      },
+      {
+        "lang": "en",
+        "name": "Bay-breasted cuckoo"
+      },
+      {
+        "lang": "es",
+        "name": "cuco picogordo de la Española"
+      },
+      {
+        "lang": "fr",
+        "name": "Tacco cabrite"
+      },
+      {
+        "lang": "nl",
+        "name": "Mantero"
+      },
+      {
+        "lang": "nn",
+        "name": "Brunbrystgauk"
+      },
+      {
+        "lang": "sv",
+        "name": "hispaniolaregngök"
+      },
       {
         "lang": "tr",
         "name": "Defne göğüslü guguk"
@@ -65,6 +105,10 @@
       {
         "lang": "tr",
         "name": "Mangrov guguğu"
+      },
+      {
+        "lang": "es",
+        "name": "Cuclillo de manglar"
       }
     ]
   },
@@ -181,6 +225,10 @@
         "name": "Hispaniolan Lizard Cuckoo"
       },
       {
+        "lang": "es",
+        "name": "Cuco lagartero de La Española"
+      },
+      {
         "lang": "tr",
         "name": "İspanya kertenkele guguğu"
       }
@@ -210,7 +258,20 @@
   },
   {
     "scientific_name": "Coccyzus euleri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pearly-breasted Cuckoo"
+      },
+      {
+        "lang": "es",
+        "name": "Cuclillo ventriblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "Papa-lagarta-de-euler"
+      }
+    ]
   },
   {
     "scientific_name": "Coccyzus erythropthalmus",
@@ -221,7 +282,7 @@
       },
       {
         "lang": "cs",
-        "name": "kukačka černozobá"
+        "name": "Kukačka černozobá"
       },
       {
         "lang": "cy",
@@ -249,11 +310,11 @@
       },
       {
         "lang": "et",
-        "name": "põhja-vihmakägu"
+        "name": "Põhja-vihmakägu"
       },
       {
         "lang": "fi",
-        "name": "mississipinkäki"
+        "name": "Mississipinkäki"
       },
       {
         "lang": "fo",
@@ -281,7 +342,7 @@
       },
       {
         "lang": "hu",
-        "name": "feketecsőrű esőkakukk"
+        "name": "Feketecsőrű esőkakukk"
       },
       {
         "lang": "is",
@@ -328,11 +389,11 @@
       },
       {
         "lang": "sk",
-        "name": "kukavka čiernozobá"
+        "name": "Kukavka čiernozobá"
       },
       {
         "lang": "sl",
-        "name": "črnokljuni kukavec"
+        "name": "Črnokljuni kukavec"
       },
       {
         "lang": "sv",

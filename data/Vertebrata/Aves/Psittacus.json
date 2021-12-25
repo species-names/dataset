@@ -1,30 +1,62 @@
 [
   {
-    "scientific_name": "Psittacus rufirostris",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Psittacus paradisi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Psittacus obscurus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Psittacus erythroleucus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Psittacus erithacus erithacus",
+    "scientific_name": "Psittacus timneh",
     "common_names": [
       {
         "lang": "en",
-        "name": "Congo African Grey Parrot"
+        "name": "Timneh Parrot"
       },
       {
         "lang": "zh",
         "name": "非洲灰鸚鵡"
+      },
+      {
+        "lang": "ca",
+        "name": "Lloro gris cua de vinagre"
+      },
+      {
+        "lang": "de",
+        "name": "Timneh-Graupapagei"
+      },
+      {
+        "lang": "es",
+        "name": "Loro timneh"
+      },
+      {
+        "lang": "fr",
+        "name": "Perroquet timneh"
+      },
+      {
+        "lang": "ml",
+        "name": "ടിംനെഹ് പാരറ്റ്"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӱрен пачан жако"
+      },
+      {
+        "lang": "nl",
+        "name": "Timnehpapegaai"
+      },
+      {
+        "lang": "no",
+        "name": "Vestlig jako"
+      },
+      {
+        "lang": "nv",
+        "name": "Eʼeʼaahjí Naakaii Łizhiní Bikéyahdę́ę́ʼ tsídii yáłtiʼí łibáhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "ٹمنے طوطا"
+      },
+      {
+        "lang": "sk",
+        "name": "Papagáj sivý timneh"
+      },
+      {
+        "lang": "sv",
+        "name": "Västlig jako"
       }
     ]
   },
@@ -32,8 +64,12 @@
     "scientific_name": "Psittacus erithacus",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Gryspapegaai"
+      },
+      {
         "lang": "ar",
-        "name": "الببغاء الرمادي الأفريقي"
+        "name": "ببغاء رمادي أفريقي"
       },
       {
         "lang": "be",
@@ -48,12 +84,20 @@
         "name": "Жако"
       },
       {
+        "lang": "br",
+        "name": "Peroked gris Afrika"
+      },
+      {
         "lang": "ca",
-        "name": "Lloro gris africà"
+        "name": "Lloro gris cuavermell"
       },
       {
         "lang": "cs",
         "name": "Papoušek šedý"
+      },
+      {
+        "lang": "cy",
+        "name": "Parot llwyd"
       },
       {
         "lang": "da",
@@ -64,24 +108,20 @@
         "name": "Graupapagei"
       },
       {
-        "lang": "en",
-        "name": "African Grey Parrot"
-      },
-      {
         "lang": "el",
-        "name": "Αφρικανικός Γκρίζος Παπαγάλος"
+        "name": "Αφρικανικός γκρίζος παπαγάλος"
       },
       {
-        "lang": "es",
-        "name": "Yaco",
-        "synonyms": [
-          "loro gris",
-          "loro gris de cola roja"
-        ]
+        "lang": "en",
+        "name": "Grey Parrot"
       },
       {
         "lang": "eo",
         "name": "Griza papago"
+      },
+      {
+        "lang": "es",
+        "name": "Loro yaco"
       },
       {
         "lang": "fa",
@@ -96,27 +136,44 @@
         "name": "Perroquet jaco"
       },
       {
-        "lang": "hr",
-        "name": "Žako",
-        "synonyms": [
-          "afrička siva papiga"
-        ]
-      },
-      {
-        "lang": "it",
-        "name": "Pappagallo cenerino"
+        "lang": "ga",
+        "name": "Pearóid Afracach"
       },
       {
         "lang": "he",
         "name": "אפרור אפריקני"
       },
       {
-        "lang": "ka",
-        "name": "ჟაკო"
+        "lang": "hr",
+        "name": "Žako"
       },
       {
         "lang": "hu",
         "name": "Jákópapagáj"
+      },
+      {
+        "lang": "hy",
+        "name": "Աֆրիկյան մոխրագույն թութակ"
+      },
+      {
+        "lang": "it",
+        "name": "Pappagallo cenerino"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨウム"
+      },
+      {
+        "lang": "ka",
+        "name": "ჟაკო"
+      },
+      {
+        "lang": "lv",
+        "name": "Pelēkais papagailis"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар пачан жако"
       },
       {
         "lang": "ms",
@@ -124,22 +181,23 @@
       },
       {
         "lang": "nl",
-        "name": "Grijze roodstaartpapegaai",
-        "synonyms": [
-          "Grijze roodstaart"
-        ]
-      },
-      {
-        "lang": "ja",
-        "name": "ヨウム"
+        "name": "Grijze roodstaartpapegaai"
       },
       {
         "lang": "no",
-        "name": "Gråpapegøye"
+        "name": "Jako"
+      },
+      {
+        "lang": "nv",
+        "name": "Naakaii Łizhiní Bikéyahdę́ę́ʼ tsídii yáłtiʼí łibáhígíí"
       },
       {
         "lang": "pl",
         "name": "Żako"
+      },
+      {
+        "lang": "pnb",
+        "name": "افریقی سانول طوطا"
       },
       {
         "lang": "pt",
@@ -154,16 +212,16 @@
         "name": "Жако"
       },
       {
-        "lang": "sk",
-        "name": "Psittacus"
-      },
-      {
         "lang": "sh",
         "name": "Žako"
       },
       {
+        "lang": "sk",
+        "name": "Papagáj sivý konžský"
+      },
+      {
         "lang": "sv",
-        "name": "Grå jako"
+        "name": "Gråjako"
       },
       {
         "lang": "tr",
@@ -171,24 +229,24 @@
       },
       {
         "lang": "uk",
-        "name": "Африканський сірий папуга"
+        "name": "Папуга сірий"
+      },
+      {
+        "lang": "uz",
+        "name": "Jako"
+      },
+      {
+        "lang": "vi",
+        "name": "Vẹt xám châu Phi"
       },
       {
         "lang": "zh",
         "name": "非洲灰鹦鹉"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Hui-chiu phú eng-ko"
       }
     ]
-  },
-  {
-    "scientific_name": "Psittacus cristatus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Psittacus caerulocephalus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Psittacus aurorae",
-    "common_names": []
   }
 ]

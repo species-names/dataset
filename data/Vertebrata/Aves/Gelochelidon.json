@@ -68,11 +68,11 @@
       },
       {
         "lang": "eo",
-        "name": "mevbeka ^sterno"
+        "name": "Mevbeka sterno"
       },
       {
         "lang": "es",
-        "name": "Pagaza Piconegra"
+        "name": "Pagaza piconegra"
       },
       {
         "lang": "et",
@@ -164,7 +164,7 @@
       },
       {
         "lang": "mk",
-        "name": "Галебоклуна морска (Дебелоклуна) рибарка"
+        "name": "Галебоклуна морска рибарка"
       },
       {
         "lang": "ml",
@@ -172,10 +172,7 @@
       },
       {
         "lang": "mn",
-        "name": "Бахим амуулай",
-        "synonyms": [
-          "ᠪᠠᠬᠢᠮ ᠠᠮᠣᠯᠠᠢ"
-        ]
+        "name": "Бахим амуулай - ᠪᠠᠬᠢᠮ ᠠᠮᠣᠯᠠᠢ"
       },
       {
         "lang": "ms",
@@ -202,12 +199,12 @@
         "name": "گل دی چنج آلی ٹرن"
       },
       {
-        "lang": "pt-br",
-        "name": "Trinta-réis-de-bico-preto"
-      },
-      {
         "lang": "pt",
         "name": "Gaivina-de-bico-preto"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Trinta-réis-de-bico-preto"
       },
       {
         "lang": "rm",
@@ -235,10 +232,7 @@
       },
       {
         "lang": "sr",
-        "name": "debelokljuna cigra",
-        "synonyms": [
-          "Дебелоклјуна чигра"
-        ]
+        "name": "debelokljuna cigra - Дебелоклјуна чигра"
       },
       {
         "lang": "sv",
@@ -271,6 +265,47 @@
       {
         "lang": "zh",
         "name": "鸥嘴噪鸥"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gelochelidon macrotarsa",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Australische Lachseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Australian Tern"
+      },
+      {
+        "lang": "es",
+        "name": "Pagaza australiana"
+      },
+      {
+        "lang": "eo",
+        "name": "Longkrura ŝterno"
+      },
+      {
+        "lang": "fr",
+        "name": "Sterne à longues pattes"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシブトアジサシ"
+      },
+      {
+        "lang": "pl",
+        "name": "Rybitwa czarnodzioba"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk sandtärna"
+      },
+      {
+        "lang": "zh",
+        "name": "澳洲鸥嘴噪鸥"
       }
     ]
   }

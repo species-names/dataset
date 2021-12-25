@@ -11,8 +11,16 @@
         "name": "Holub harlekýn"
       },
       {
+        "lang": "da",
+        "name": "Harlekindue"
+      },
+      {
+        "lang": "de",
+        "name": "Harlekintaube"
+      },
+      {
         "lang": "en",
-        "name": "Flock bronzewing"
+        "name": "Flock Bronzewing"
       },
       {
         "lang": "es",
@@ -23,8 +31,16 @@
         "name": "Colombine arlequin"
       },
       {
+        "lang": "it",
+        "name": "Alabronzo arlecchino"
+      },
+      {
         "lang": "mrj",
         "name": "Арлекин той шылдыран кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Harlekijnduif"
       },
       {
         "lang": "no",
@@ -39,6 +55,10 @@
         "name": "Rola-arlequim"
       },
       {
+        "lang": "ru",
+        "name": "Бронзовокрылый фапс-арлекин"
+      },
+      {
         "lang": "sv",
         "name": "Flockspegelduva"
       }
@@ -48,8 +68,32 @@
     "scientific_name": "Phaps elegans",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "فقعى دغلية"
+      },
+      {
+        "lang": "br",
+        "name": "Turzhunell vistr"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom bronzat elegant"
+      },
+      {
         "lang": "cs",
         "name": "Holub pokřovní"
+      },
+      {
+        "lang": "cy",
+        "name": "Adeinefydd bach"
+      },
+      {
+        "lang": "da",
+        "name": "Brunrygget Bronzevinge"
+      },
+      {
+        "lang": "de",
+        "name": "Buschtaube"
       },
       {
         "lang": "en",
@@ -60,8 +104,48 @@
         "name": "Eleganta bronzflugilulo"
       },
       {
+        "lang": "es",
+        "name": "Paloma bronce elegante"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombine élégante"
+      },
+      {
         "lang": "hu",
         "name": "Vörhenyes bronzgalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Alabronzo di macchia"
+      },
+      {
+        "lang": "mrj",
+        "name": "Тӹшкӓ той шылдыран кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Struikbronsvleugelduif"
+      },
+      {
+        "lang": "no",
+        "name": "Krattglansdue"
+      },
+      {
+        "lang": "pnb",
+        "name": "چاڑی کانسی کھمب"
+      },
+      {
+        "lang": "pt",
+        "name": "Rola-elegante"
+      },
+      {
+        "lang": "ru",
+        "name": "Кустарниковый бронзовокрылый голубь-фапс"
+      },
+      {
+        "lang": "sv",
+        "name": "Grönvingad spegelduva"
       }
     ]
   },
@@ -71,6 +155,10 @@
       {
         "lang": "cs",
         "name": "Holub bronzovokřídlý"
+      },
+      {
+        "lang": "da",
+        "name": "Bronzevinge"
       },
       {
         "lang": "de",
@@ -89,6 +177,10 @@
         "name": "Colombine lumachelle"
       },
       {
+        "lang": "it",
+        "name": "Alabronzo comune"
+      },
+      {
         "lang": "ja",
         "name": "ニジハバト"
       },
@@ -97,8 +189,16 @@
         "name": "Burung Punai Siul"
       },
       {
+        "lang": "nl",
+        "name": "Bronsvleugelduif"
+      },
+      {
         "lang": "no",
         "name": "Skogglansdue"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенный бронзовокрылый голубь-фапс"
       },
       {
         "lang": "sv",

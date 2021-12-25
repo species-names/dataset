@@ -8,7 +8,10 @@
       },
       {
         "lang": "en",
-        "name": "Chinese Merganser"
+        "name": "Chinese Merganser",
+        "synonyms": [
+          "Scaly-sided merganser"
+        ]
       },
       {
         "lang": "fi",
@@ -37,6 +40,50 @@
       {
         "lang": "sv",
         "name": "Amurskrake"
+      },
+      {
+        "lang": "ar",
+        "name": "بلقشة محرشفة الجوانب"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden gribog Tsieina"
+      },
+      {
+        "lang": "de",
+        "name": "Schuppensäger"
+      },
+      {
+        "lang": "eo",
+        "name": "Skvamomerĝo"
+      },
+      {
+        "lang": "fa",
+        "name": "اردک ماهی‌خوار پهلوپولکی"
+      },
+      {
+        "lang": "hu",
+        "name": "Csuklyás bukó"
+      },
+      {
+        "lang": "nl",
+        "name": "Chinese zaagbek"
+      },
+      {
+        "lang": "no",
+        "name": "Skjellfiskand"
+      },
+      {
+        "lang": "olo",
+        "name": "Amurankoskelo"
+      },
+      {
+        "lang": "uk",
+        "name": "Крех китайський"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt cát Trung Hoa"
       }
     ]
   },
@@ -352,6 +399,10 @@
         "name": "Harle huppard"
       },
       {
+        "lang": "nl",
+        "name": "Braziliaanse zaagbek"
+      },
+      {
         "lang": "pt",
         "name": "Pato-mergulhão"
       },
@@ -543,6 +594,13 @@
       {
         "lang": "sk",
         "name": "Potápač veľký"
+      },
+      {
+        "lang": "sr",
+        "name": "Велики ронац",
+        "synonyms": [
+          "Veliki ronac"
+        ]
       },
       {
         "lang": "sv",

@@ -16,12 +16,28 @@
     "scientific_name": "Cacomantis sonneratii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "وقواق كستنائي مخطط"
+      },
+      {
+        "lang": "ca",
+        "name": "Cucut barrat"
+      },
+      {
         "lang": "cs",
         "name": "Kukačka vavřínová"
       },
       {
+        "lang": "cy",
+        "name": "Cog winau"
+      },
+      {
         "lang": "en",
         "name": "Banded Bay Cuckoo"
+      },
+      {
+        "lang": "eo",
+        "name": "Strinigra kukolo"
       },
       {
         "lang": "es",
@@ -36,12 +52,48 @@
         "name": "Coucou de Sonnerat"
       },
       {
+        "lang": "id",
+        "name": "Wiwik lurik"
+      },
+      {
+        "lang": "it",
+        "name": "Cuculo baio"
+      },
+      {
+        "lang": "ml",
+        "name": "ചെങ്കുയിൽ"
+      },
+      {
         "lang": "ms",
         "name": "Burung Sewah Takuweh"
       },
       {
+        "lang": "ne",
+        "name": "धर्के खैरो कोइली"
+      },
+      {
+        "lang": "nl",
+        "name": "Gestreepte Piet-van-Vliet"
+      },
+      {
+        "lang": "sv",
+        "name": "Bandad buskgök"
+      },
+      {
+        "lang": "ta",
+        "name": "செங்குயில்"
+      },
+      {
         "lang": "tr",
         "name": "Çizgili defne guguğu"
+      },
+      {
+        "lang": "vi",
+        "name": "Tìm vịt hồng sọc"
+      },
+      {
+        "lang": "zh",
+        "name": "栗斑杜鹃"
       }
     ]
   },
@@ -97,6 +149,10 @@
       {
         "lang": "fr",
         "name": "Coucou plaintif"
+      },
+      {
+        "lang": "id",
+        "name": "Wiwik kelabu"
       },
       {
         "lang": "tl",

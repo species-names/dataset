@@ -3,16 +3,40 @@
     "scientific_name": "Leucophaeus scoresbii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نورس الدلفين"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavina de Magallanes"
+      },
+      {
         "lang": "cs",
         "name": "Racek magellanský"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan Magellan"
+      },
+      {
+        "lang": "de",
+        "name": "Blutschnabelmöwe"
       },
       {
         "lang": "en",
         "name": "Dolphin Gull"
       },
       {
+        "lang": "eo",
+        "name": "Magelana mevo"
+      },
+      {
         "lang": "es",
-        "name": "Gaviota Patagona"
+        "name": "Gaviota gris"
+      },
+      {
+        "lang": "fa",
+        "name": "کاکایی دلفین"
       },
       {
         "lang": "fi",
@@ -23,14 +47,58 @@
         "name": "Goéland de Scoresby"
       },
       {
+        "lang": "hy",
+        "name": "Մագելանի որոր"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano di Magellano"
+      },
+      {
         "lang": "ja",
         "name": "マゼランカモメ"
+      },
+      {
+        "lang": "nl",
+        "name": "Dolfijnmeeuw"
+      },
+      {
+        "lang": "nv",
+        "name": "Tónteel tsídii bidaaʼ kʼíjíchiiʼígíí"
+      },
+      {
+        "lang": "ru",
+        "name": "Магелланова чайка"
+      },
+      {
+        "lang": "sv",
+        "name": "Delfinmås"
+      },
+      {
+        "lang": "vi",
+        "name": "Mòng biển cá heo"
+      },
+      {
+        "lang": "zh",
+        "name": "海豚鷗"
       }
     ]
   },
   {
     "scientific_name": "Leucophaeus pipixcan",
     "common_names": [
+      {
+        "lang": "af",
+        "name": "Franklinse meeu"
+      },
+      {
+        "lang": "ar",
+        "name": "نورس فرانكلين"
+      },
+      {
+        "lang": "bg",
+        "name": "Прерийна чайка"
+      },
       {
         "lang": "br",
         "name": "Gouelanig Franklin"
@@ -44,6 +112,14 @@
         "name": "Racek vnitrozemský"
       },
       {
+        "lang": "cy",
+        "name": "Gwylan Franklin"
+      },
+      {
+        "lang": "da",
+        "name": "Præriemåge"
+      },
+      {
         "lang": "de",
         "name": "Präriemöwe"
       },
@@ -52,12 +128,20 @@
         "name": "Franklin's Gull"
       },
       {
+        "lang": "eo",
+        "name": "Preria mevo"
+      },
+      {
         "lang": "es",
-        "name": "Gaviota Pipizcan"
+        "name": "Gaviota de Franklin"
       },
       {
         "lang": "eu",
         "name": "Franklin antxeta"
+      },
+      {
+        "lang": "fa",
+        "name": "کاکایی فرانکلین"
       },
       {
         "lang": "fi",
@@ -70,6 +154,10 @@
       {
         "lang": "fr",
         "name": "Mouette de Franklin"
+      },
+      {
+        "lang": "gl",
+        "name": "Gaivota de Franklin"
       },
       {
         "lang": "hu",
@@ -88,8 +176,16 @@
         "name": "Āpipipitzcatl"
       },
       {
+        "lang": "nl",
+        "name": "Franklins meeuw"
+      },
+      {
         "lang": "no",
         "name": "Franklinmåke"
+      },
+      {
+        "lang": "nv",
+        "name": "Náhookǫsdę́ę́ʼ tónteel tsídii"
       },
       {
         "lang": "pl",
@@ -109,7 +205,11 @@
       },
       {
         "lang": "vi",
-        "name": "Mòng Franklin"
+        "name": "Mòng biển Franklin"
+      },
+      {
+        "lang": "zh",
+        "name": "弗氏鷗"
       }
     ]
   },
@@ -117,8 +217,20 @@
     "scientific_name": "Leucophaeus modestus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نورس رمادي"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavina grisa"
+      },
+      {
         "lang": "cs",
         "name": "Racek tmavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan lwyd"
       },
       {
         "lang": "de",
@@ -129,18 +241,62 @@
         "name": "Grey Gull"
       },
       {
+        "lang": "eo",
+        "name": "Griza mevo"
+      },
+      {
         "lang": "es",
-        "name": "Gaviota Garuma"
+        "name": "Gaviota garuma"
+      },
+      {
+        "lang": "fa",
+        "name": "کاکایی خاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "Aavikkolokki"
       },
       {
         "lang": "fr",
         "name": "Goéland gris"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano grigio"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze meeuw"
+      },
+      {
+        "lang": "nv",
+        "name": "Tónteel tsídii łibáhígíí"
+      },
+      {
+        "lang": "ru",
+        "name": "Серая чайка"
+      },
+      {
+        "lang": "sv",
+        "name": "Ökenmås"
+      },
+      {
+        "lang": "uk",
+        "name": "Мартин сірий"
+      },
+      {
+        "lang": "vi",
+        "name": "Mòng biển xám"
       }
     ]
   },
   {
     "scientific_name": "Leucophaeus fuliginosus",
     "common_names": [
+      {
+        "lang": "br",
+        "name": "Gouelan kazugel"
+      },
       {
         "lang": "ca",
         "name": "Gavina de lava"
@@ -150,30 +306,94 @@
         "name": "Racek lávový"
       },
       {
+        "lang": "cy",
+        "name": "Gwylan dywyll"
+      },
+      {
+        "lang": "da",
+        "name": "Lavamåge"
+      },
+      {
+        "lang": "de",
+        "name": "Lavamöwe"
+      },
+      {
         "lang": "en",
         "name": "Lava Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Lafa mevo"
       },
       {
         "lang": "es",
         "name": "Gaviota negruzca"
       },
       {
-        "lang": "eo",
-        "name": "Nigreca mevo"
+        "lang": "fa",
+        "name": "کاکایی گدازه"
+      },
+      {
+        "lang": "fi",
+        "name": "Laavalokki"
       },
       {
         "lang": "fr",
         "name": "Mouette obscure"
       },
       {
+        "lang": "he",
+        "name": "שחף לבה"
+      },
+      {
+        "lang": "hu",
+        "name": "Lávasirály"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano fuligginoso"
+      },
+      {
+        "lang": "ja",
+        "name": "イワカモメ"
+      },
+      {
+        "lang": "ko",
+        "name": "용암갈매기"
+      },
+      {
         "lang": "nl",
-        "name": "Lachmeeuw"
+        "name": "Lavameeuw"
+      },
+      {
+        "lang": "oc",
+        "name": "Gabian sorn"
+      },
+      {
+        "lang": "ru",
+        "name": "Тёмная чайка"
+      },
+      {
+        "lang": "sv",
+        "name": "Lavatrut"
+      },
+      {
+        "lang": "vi",
+        "name": "Mòng biển dung nham"
       }
     ]
   },
   {
     "scientific_name": "Leucophaeus atricilla",
     "common_names": [
+      {
+        "lang": "ar",
+        "name": "نورس ضاحك"
+      },
+      {
+        "lang": "bg",
+        "name": "Карибска чайка"
+      },
       {
         "lang": "br",
         "name": "Gouelan c'hoarzher"
@@ -184,10 +404,7 @@
       },
       {
         "lang": "cs",
-        "name": "Racek atlantický",
-        "synonyms": [
-          "Racek aztécký"
-        ]
+        "name": "Racek atlantický"
       },
       {
         "lang": "cy",
@@ -215,22 +432,23 @@
       },
       {
         "lang": "es",
-        "name": "Gaviota Guanaguanare",
-        "synonyms": [
-          "Gaviota reidora americana"
-        ]
+        "name": "Gaviota reidora americana"
       },
       {
         "lang": "et",
-        "name": "randkajakas"
+        "name": "Randkajakas"
       },
       {
         "lang": "eu",
         "name": "Gavina capnegra americana"
       },
       {
+        "lang": "fa",
+        "name": "کاکایی خندان"
+      },
+      {
         "lang": "fi",
-        "name": "nokisiipilokki"
+        "name": "Nokisiipilokki"
       },
       {
         "lang": "fo",
@@ -250,7 +468,7 @@
       },
       {
         "lang": "gl",
-        "name": "Gaivota alegre"
+        "name": "Gaivota chorona americana"
       },
       {
         "lang": "gn",
@@ -269,6 +487,10 @@
         "name": "Kacagó sirály"
       },
       {
+        "lang": "id",
+        "name": "Camar tertawa"
+      },
+      {
         "lang": "is",
         "name": "Hláturmáfur"
       },
@@ -278,10 +500,7 @@
       },
       {
         "lang": "ja",
-        "name": "ワライカモメ",
-        "synonyms": [
-          "waraikamome"
-        ]
+        "name": "ワライカモメ"
       },
       {
         "lang": "lt",
@@ -304,19 +523,20 @@
         "name": "Lattermåke"
       },
       {
+        "lang": "nv",
+        "name": "Tónteel tsídii yidlohí"
+      },
+      {
         "lang": "pl",
-        "name": "mewa karaibska"
+        "name": "Mewa karaibska"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-alegre"
       },
       {
         "lang": "pt-br",
         "name": "Gaivota-alegre"
-      },
-      {
-        "lang": "pt",
-        "name": "Gaivota-alegre",
-        "synonyms": [
-          "Guincho-americano"
-        ]
       },
       {
         "lang": "ru",
@@ -324,11 +544,11 @@
       },
       {
         "lang": "sk",
-        "name": "čajka aztécka"
+        "name": "Čajka aztécka"
       },
       {
         "lang": "sl",
-        "name": "azteški galeb"
+        "name": "Azteški galeb"
       },
       {
         "lang": "sv",
@@ -336,11 +556,15 @@
       },
       {
         "lang": "tr",
-        "name": "gülen martı"
+        "name": "Gülen martı"
+      },
+      {
+        "lang": "vi",
+        "name": "Mòng biển cười"
       },
       {
         "lang": "zh",
-        "name": "笑鸥"
+        "name": "笑鷗"
       }
     ]
   }

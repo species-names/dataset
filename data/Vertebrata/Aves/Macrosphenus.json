@@ -1,7 +1,32 @@
 [
   {
     "scientific_name": "Macrosphenus pulitzeri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Telor hirbig Pulitzer"
+      },
+      {
+        "lang": "en",
+        "name": "Pulitzer's longbill"
+      },
+      {
+        "lang": "fi",
+        "name": "Angolanhuiskukerttu"
+      },
+      {
+        "lang": "fr",
+        "name": "Nasique de Pulitzer"
+      },
+      {
+        "lang": "nl",
+        "name": "Angolalangsnavelzanger"
+      },
+      {
+        "lang": "sv",
+        "name": "angolalångnäbb"
+      }
+    ]
   },
   {
     "scientific_name": "Macrosphenus kretschmeri",

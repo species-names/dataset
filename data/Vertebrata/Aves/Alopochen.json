@@ -1,5 +1,26 @@
 [
   {
+    "scientific_name": "Alopochen tarabukini",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Alopochen sirabensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Alopochen mauritianus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Alopochen kervazoi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Reunion Sheldgoose"
+      }
+    ]
+  },
+  {
     "scientific_name": "Alopochen aegyptiaca",
     "common_names": [
       {
@@ -120,7 +141,11 @@
       },
       {
         "lang": "pl",
-        "name": "Gęsiówka egipska"
+        "name": "Kazarka egipska",
+        "synonyms": [
+          "Gęsiówka egipska",
+          "Gęś egipska"
+        ]
       },
       {
         "lang": "pt",

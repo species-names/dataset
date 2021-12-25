@@ -1,10 +1,34 @@
 [
   {
+    "scientific_name": "Spheniscus urbinai",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spheniscus megaramphus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spheniscus chilensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spheniscus anglicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spheniscus muizoni",
+    "common_names": []
+  },
+  {
     "scientific_name": "Spheniscus mendiculus",
     "common_names": [
       {
         "lang": "cs",
         "name": "Tučňák galapážský"
+      },
+      {
+        "lang": "de",
+        "name": "Galapagospinguin"
       },
       {
         "lang": "en",
@@ -48,7 +72,7 @@
       },
       {
         "lang": "sv",
-        "name": "Galapagospingvin"
+        "name": "galapagospingvin"
       }
     ]
   },
@@ -156,6 +180,10 @@
       {
         "lang": "fr",
         "name": "Manchot de Humboldt"
+      },
+      {
+        "lang": "gl",
+        "name": "Pingüín de Humboldt"
       },
       {
         "lang": "he",

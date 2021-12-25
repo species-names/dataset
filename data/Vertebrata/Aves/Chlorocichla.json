@@ -1,11 +1,81 @@
 [
   {
     "scientific_name": "Chlorocichla simplex",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Bwlbwl wyneb tywyll"
+      },
+      {
+        "lang": "en",
+        "name": "Simple Greenbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul sencillo"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبر ساده"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkoluomibulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul modeste"
+      },
+      {
+        "lang": "hu",
+        "name": "Hartlaub-bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Hartlaubs buulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "Umbragrönbulbyl"
+      }
+    ]
   },
   {
     "scientific_name": "Chlorocichla prigoginei",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Bwlbwl Prigogine"
+      },
+      {
+        "lang": "en",
+        "name": "Prigogine's greenbul"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبر پریگوگین"
+      },
+      {
+        "lang": "fi",
+        "name": "Edwardjärvenbulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul de Prigogine"
+      },
+      {
+        "lang": "hu",
+        "name": "Prigogine-bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Prigogines buulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "prigoginegrönbulbyl"
+      }
+    ]
   },
   {
     "scientific_name": "Chlorocichla laetissima",
@@ -20,8 +90,44 @@
     "scientific_name": "Chlorocichla flaviventris",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Geelborswillie"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl torfelyn"
+      },
+      {
         "lang": "en",
         "name": "Yellow-bellied Greenbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul pechiamarillo"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبر شکم‌زرد"
+      },
+      {
+        "lang": "fi",
+        "name": "Idänruskobulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul à poitrine jaune"
+      },
+      {
+        "lang": "hu",
+        "name": "Sárgahasú bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelborstbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulbukig grönbulbyl"
       }
     ]
   },
@@ -38,8 +144,44 @@
     "scientific_name": "Chlorocichla falkensteini",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Bulbul de Falkenstein"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl gwarfelyn"
+      },
+      {
         "lang": "en",
-        "name": "Yellow-necked Greenbul"
+        "name": "Falkenstein's Greenbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul de Falkenstein"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبر گردن‌زرد"
+      },
+      {
+        "lang": "fi",
+        "name": "Kongonruskobulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul de Falkenstein"
+      },
+      {
+        "lang": "hu",
+        "name": "Falkenstein-bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelnekbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödögd grönbulbyl"
       }
     ]
   }

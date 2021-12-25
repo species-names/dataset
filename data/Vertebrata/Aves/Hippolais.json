@@ -1,25 +1,296 @@
 [
   {
     "scientific_name": "Hippolais polyglotta",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "هازجة ايقاعية"
+      },
+      {
+        "lang": "ast",
+        "name": "Papoxa mariella"
+      },
+      {
+        "lang": "bg",
+        "name": "Бъбрив присмехулник"
+      },
+      {
+        "lang": "br",
+        "name": "Goapaer-Orfeüs"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosqueta vulgar"
+      },
+      {
+        "lang": "cs",
+        "name": "Sedmihlásek švitořivý"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor pêr"
+      },
+      {
+        "lang": "da",
+        "name": "Spottesanger"
+      },
+      {
+        "lang": "de",
+        "name": "Orpheusspötter"
+      },
+      {
+        "lang": "en",
+        "name": "Melodious Warbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Melodia hipolao"
+      },
+      {
+        "lang": "es",
+        "name": "Zarcero común"
+      },
+      {
+        "lang": "et",
+        "name": "Lääne-käosulane"
+      },
+      {
+        "lang": "eu",
+        "name": "Sasi-txori arrunt"
+      },
+      {
+        "lang": "fi",
+        "name": "Taiturikultarinta"
+      },
+      {
+        "lang": "fo",
+        "name": "Hermiljómari"
+      },
+      {
+        "lang": "fr",
+        "name": "Hypolaïs polyglotte"
+      },
+      {
+        "lang": "fy",
+        "name": "Spaanske hôfsjonger"
+      },
+      {
+        "lang": "gl",
+        "name": "Folosa amarela"
+      },
+      {
+        "lang": "hu",
+        "name": "Déli geze"
+      },
+      {
+        "lang": "it",
+        "name": "Canapino"
+      },
+      {
+        "lang": "nl",
+        "name": "Orpheusspotvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Spottesanger"
+      },
+      {
+        "lang": "pl",
+        "name": "Zaganiacz szczebiotliwy"
+      },
+      {
+        "lang": "pt",
+        "name": "Felosa-poliglota"
+      },
+      {
+        "lang": "ru",
+        "name": "Многоголосая пересмешка"
+      },
+      {
+        "lang": "sv",
+        "name": "Polyglottsångare"
+      },
+      {
+        "lang": "tr",
+        "name": "Kısa kanatlı sarı mukallit"
+      }
+    ]
   },
   {
     "scientific_name": "Hippolais olivetorum",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Olyfboomsanger"
+      },
+      {
+        "lang": "ar",
+        "name": "خنشع الزيتون الكبير"
+      },
+      {
+        "lang": "ast",
+        "name": "Zarcero grande"
+      },
+      {
+        "lang": "bg",
+        "name": "Голям маслинов присмехулник"
+      },
+      {
+        "lang": "br",
+        "name": "Goapaer-olivezeg"
+      },
+      {
+        "lang": "ca",
+        "name": "Busqueta dels olivers"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor olewydd"
+      },
+      {
+        "lang": "de",
+        "name": "Olivenspötter"
+      },
+      {
+        "lang": "en",
+        "name": "Olive-tree Warbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Olivhipolao"
+      },
+      {
+        "lang": "es",
+        "name": "Zarcero grande"
+      },
+      {
+        "lang": "et",
+        "name": "Õlipuu-käosulane"
+      },
+      {
+        "lang": "eu",
+        "name": "Sasi-txori handi"
+      },
+      {
+        "lang": "fa",
+        "name": "سسک درخت زیتون"
+      },
+      {
+        "lang": "fi",
+        "name": "Oliivikultarinta"
+      },
+      {
+        "lang": "fr",
+        "name": "Hypolaïs des oliviers"
+      },
+      {
+        "lang": "he",
+        "name": "שיחנית הזית"
+      },
+      {
+        "lang": "hu",
+        "name": "Olívgeze"
+      },
+      {
+        "lang": "mk",
+        "name": "Големо гушанче"
+      },
+      {
+        "lang": "nl",
+        "name": "Griekse spotvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Zaganiacz oliwny"
+      },
+      {
+        "lang": "pt",
+        "name": "Felosa-das-oliveiras"
+      },
+      {
+        "lang": "ru",
+        "name": "Средиземноморская пересмешка"
+      },
+      {
+        "lang": "sv",
+        "name": "Olivsångare"
+      },
+      {
+        "lang": "tr",
+        "name": "Büyük mukallit"
+      }
+    ]
   },
   {
     "scientific_name": "Hippolais languida",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "خنشع الشجر"
+      },
+      {
+        "lang": "bg",
+        "name": "Пустинен присмехулник"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosqueta d'Upcher"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor Upcher"
+      },
+      {
         "lang": "en",
         "name": "Upcher's Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Griza hipolao"
+      },
+      {
+        "lang": "es",
+        "name": "Zarcero lánguido"
+      },
+      {
+        "lang": "et",
+        "name": "Kõnnu-käosulane"
+      },
+      {
+        "lang": "fa",
+        "name": "سسک آپچر"
+      },
+      {
+        "lang": "fi",
+        "name": "Harmaakultarinta"
+      },
+      {
+        "lang": "fr",
+        "name": "Hypolaïs d'Upcher"
+      },
+      {
+        "lang": "ga",
+        "name": "Ceolaire Upcher"
+      },
+      {
+        "lang": "hu",
+        "name": "Bozótgeze"
+      },
+      {
         "lang": "hy",
-        "name": "Մորեհավ անապատային",
-        "synonyms": [
-          "մորեհավ դալուկ"
-        ]
+        "name": "Անապատային մորահավ"
+      },
+      {
+        "lang": "kk",
+        "name": "Үлкен міңгірлек"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote vale spotvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "Orientsångare"
       },
       {
         "lang": "tr",
@@ -31,6 +302,54 @@
     "scientific_name": "Hippolais icterina",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Spotsanger"
+      },
+      {
+        "lang": "ar",
+        "name": "خنشع ليموني"
+      },
+      {
+        "lang": "ast",
+        "name": "Zarcero icterino"
+      },
+      {
+        "lang": "ba",
+        "name": "Әберсә турғайы"
+      },
+      {
+        "lang": "be",
+        "name": "Перасмешка зялёная"
+      },
+      {
+        "lang": "bg",
+        "name": "Градински присмехулник"
+      },
+      {
+        "lang": "br",
+        "name": "Goapaer melen"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosqueta icterina"
+      },
+      {
+        "lang": "cs",
+        "name": "Sedmihlásek hajní"
+      },
+      {
+        "lang": "cv",
+        "name": "Симĕс йĕкĕлти кайăк"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor aur"
+      },
+      {
+        "lang": "da",
+        "name": "Gulbug"
+      },
+      {
         "lang": "de",
         "name": "Gelbspötter"
       },
@@ -39,16 +358,56 @@
         "name": "Icterine Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Flava hipolao"
+      },
+      {
         "lang": "es",
         "name": "Zarcero icterino"
+      },
+      {
+        "lang": "et",
+        "name": "Käosulane"
+      },
+      {
+        "lang": "eu",
+        "name": "Sasi-txori horizta"
+      },
+      {
+        "lang": "fa",
+        "name": "سسک یرقانی"
       },
       {
         "lang": "fi",
         "name": "Kultarinta"
       },
       {
+        "lang": "fo",
+        "name": "Gulljómari"
+      },
+      {
+        "lang": "fr",
+        "name": "Hypolaïs ictérine"
+      },
+      {
         "lang": "frr",
         "name": "Seesje"
+      },
+      {
+        "lang": "fy",
+        "name": "Giele hôfsjonger"
+      },
+      {
+        "lang": "ga",
+        "name": "Ceolaire ictireach"
+      },
+      {
+        "lang": "gl",
+        "name": "Folosa icterina"
+      },
+      {
+        "lang": "hu",
+        "name": "Kerti geze"
       },
       {
         "lang": "hy",
@@ -59,20 +418,52 @@
         "name": "Canapino maggiore"
       },
       {
+        "lang": "ja",
+        "name": "キイロウタムシクイ"
+      },
+      {
+        "lang": "kk",
+        "name": "Әжуан"
+      },
+      {
+        "lang": "lt",
+        "name": "Tošinukė"
+      },
+      {
         "lang": "lv",
         "name": "Iedzeltenais ķauķis"
       },
       {
+        "lang": "mk",
+        "name": "Жолто гушанче"
+      },
+      {
+        "lang": "nl",
+        "name": "Spotvogel"
+      },
+      {
+        "lang": "nn",
+        "name": "Gulsongar"
+      },
+      {
+        "lang": "no",
+        "name": "Gulsanger"
+      },
+      {
         "lang": "oc",
-        "name": "bosqueta"
+        "name": "Bosqueta"
       },
       {
         "lang": "pl",
-        "name": "Zaganiacz"
+        "name": "Zaganiacz zwyczajny"
       },
       {
         "lang": "pt",
         "name": "Felosa-icterina"
+      },
+      {
+        "lang": "ro",
+        "name": "Frunzăriță galbenă"
       },
       {
         "lang": "ru",
@@ -80,11 +471,19 @@
       },
       {
         "lang": "sk",
-        "name": "Sedmohlások hájový"
+        "name": "Sedmohlások obyčajný"
       },
       {
-        "lang": "tl",
-        "name": "Tošinukė"
+        "lang": "sv",
+        "name": "Härmsångare"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarı mukallit"
+      },
+      {
+        "lang": "uk",
+        "name": "Берестянка звичайна"
       }
     ]
   }

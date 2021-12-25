@@ -31,8 +31,24 @@
     "scientific_name": "Piranga rubra",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "تناجر الصيف"
+      },
+      {
+        "lang": "bg",
+        "name": "Алена пиранга"
+      },
+      {
+        "lang": "ca",
+        "name": "Piranga roja"
+      },
+      {
         "lang": "cs",
-        "name": "tangara ohnivá"
+        "name": "Tangara ohnivá"
+      },
+      {
+        "lang": "cy",
+        "name": "Tanagr haf"
       },
       {
         "lang": "da",
@@ -48,14 +64,11 @@
       },
       {
         "lang": "es",
-        "name": "Piranga Roja",
-        "synonyms": [
-          "Tángara roja migratoria"
-        ]
+        "name": "Piranga roja"
       },
       {
         "lang": "fi",
-        "name": "kesätangara"
+        "name": "Kesätangara"
       },
       {
         "lang": "fr",
@@ -75,10 +88,7 @@
       },
       {
         "lang": "ja",
-        "name": "ナツフウキンチョウ",
-        "synonyms": [
-          "natsufuukinchou"
-        ]
+        "name": "ナツフウキンチョウ"
       },
       {
         "lang": "nl",
@@ -89,19 +99,20 @@
         "name": "Sommertanagar"
       },
       {
+        "lang": "nv",
+        "name": "Chʼoozhlaahalchííʼ"
+      },
+      {
         "lang": "pl",
         "name": "Piranga pąsowa"
       },
       {
-        "lang": "pt-br",
+        "lang": "pt",
         "name": "Sanhaçu-vermelho"
       },
       {
-        "lang": "pt",
-        "name": "Sanhaçu-vermelho",
-        "synonyms": [
-          "sanhaçu-verão"
-        ]
+        "lang": "pt-br",
+        "name": "Sanhaçu-vermelho"
       },
       {
         "lang": "ru",
@@ -109,11 +120,11 @@
       },
       {
         "lang": "sk",
-        "name": "piranga červená"
+        "name": "Piranga červená"
       },
       {
         "lang": "sv",
-        "name": "Sommartangara"
+        "name": "Sommarkardinal"
       },
       {
         "lang": "tr",
@@ -133,8 +144,24 @@
     "scientific_name": "Piranga olivacea",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "تناجر قرمزي"
+      },
+      {
+        "lang": "bg",
+        "name": "Червена пиранга"
+      },
+      {
+        "lang": "ca",
+        "name": "Piranga alanegra"
+      },
+      {
         "lang": "cs",
-        "name": "tangara šarlatová"
+        "name": "Tangara šarlatová"
+      },
+      {
+        "lang": "cy",
+        "name": "Tanagr coch"
       },
       {
         "lang": "da",
@@ -150,11 +177,11 @@
       },
       {
         "lang": "es",
-        "name": "Piranga Escarlata"
+        "name": "Piranga escarlata"
       },
       {
         "lang": "fi",
-        "name": "tulitangara"
+        "name": "Tulitangara"
       },
       {
         "lang": "fr",
@@ -174,10 +201,7 @@
       },
       {
         "lang": "ja",
-        "name": "アカフウキンチョウ",
-        "synonyms": [
-          "akafuukinchou"
-        ]
+        "name": "アカフウキンチョウ"
       },
       {
         "lang": "nl",
@@ -188,15 +212,19 @@
         "name": "Rødtanagar"
       },
       {
+        "lang": "nv",
+        "name": "Chʼoozhlaahalzhiin łichxíʼígíí"
+      },
+      {
         "lang": "pl",
         "name": "Piranga szkarłatna"
       },
       {
-        "lang": "pt-br",
+        "lang": "pt",
         "name": "Sanhaçu-escarlate"
       },
       {
-        "lang": "pt",
+        "lang": "pt-br",
         "name": "Sanhaçu-escarlate"
       },
       {
@@ -205,11 +233,15 @@
       },
       {
         "lang": "sk",
-        "name": "piranga šarlátová"
+        "name": "Piranga šarlátová"
       },
       {
         "lang": "sv",
         "name": "Scharlakanstangara"
+      },
+      {
+        "lang": "uk",
+        "name": "Піранга кармінова"
       },
       {
         "lang": "zh",
@@ -231,7 +263,11 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "tangara červenohlavá"
+        "name": "Tangara červenohlavá"
+      },
+      {
+        "lang": "cy",
+        "name": "Tanagr y Gorllewin"
       },
       {
         "lang": "da",
@@ -251,11 +287,11 @@
       },
       {
         "lang": "et",
-        "name": "loode-leektangara"
+        "name": "Loode-leektangara"
       },
       {
         "lang": "fi",
-        "name": "tammitangara"
+        "name": "Tammitangara"
       },
       {
         "lang": "fr",
@@ -266,15 +302,16 @@
         "name": "Tangara tèt wouj"
       },
       {
+        "lang": "hu",
+        "name": "Sáfránytangara"
+      },
+      {
         "lang": "it",
         "name": "Piranga occidentale"
       },
       {
         "lang": "ja",
-        "name": "ニシフウキンチョウ",
-        "synonyms": [
-          "nishifuukinchou"
-        ]
+        "name": "ニシフウキンチョウ"
       },
       {
         "lang": "nl",
@@ -285,8 +322,12 @@
         "name": "Vesttanagar"
       },
       {
+        "lang": "nv",
+        "name": "Chʼoozhlaahalzhiin íiyisígíí"
+      },
+      {
         "lang": "pl",
-        "name": "piranga żółtorzytna"
+        "name": "Piranga żółtorzytna"
       },
       {
         "lang": "pt",
@@ -298,7 +339,7 @@
       },
       {
         "lang": "sk",
-        "name": "piranga čiernochrbtá"
+        "name": "Piranga čiernochrbtá"
       },
       {
         "lang": "sv",

@@ -1,5 +1,26 @@
 [
   {
+    "scientific_name": "Eleothreptus candicans",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Lelek bělokřídlý"
+      },
+      {
+        "lang": "pt",
+        "name": "Bacurau-de-rabo-branco"
+      },
+      {
+        "lang": "en",
+        "name": "White-winged Nightjar"
+      },
+      {
+        "lang": "es",
+        "name": "Chotacabras aliblanco"
+      }
+    ]
+  },
+  {
     "scientific_name": "Eleothreptus anomalus",
     "common_names": [
       {
@@ -13,6 +34,10 @@
       {
         "lang": "es",
         "name": "Chotacabras pantanero"
+      },
+      {
+        "lang": "pt-br",
+        "name": "curiango-do-banhado"
       }
     ]
   }

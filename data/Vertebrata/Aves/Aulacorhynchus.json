@@ -1,5 +1,22 @@
 [
   {
+    "scientific_name": "Aulacorhynchus whitelianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Whitely's Toucanet"
+      },
+      {
+        "lang": "es",
+        "name": "Tucanete de tepuy"
+      },
+      {
+        "lang": "pt-br",
+        "name": "tucaninho-verde"
+      }
+    ]
+  },
+  {
     "scientific_name": "Aulacorhynchus wagleri",
     "common_names": [
       {
@@ -26,7 +43,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "arassari smaragdový"
+        "name": "Arassari smaragdový"
       },
       {
         "lang": "da",
@@ -46,15 +63,15 @@
       },
       {
         "lang": "es",
-        "name": "tucaneta verde"
+        "name": "Tucaneta verde"
       },
       {
         "lang": "et",
-        "name": "smaragdtuukan"
+        "name": "Smaragdtuukan"
       },
       {
         "lang": "fi",
-        "name": "smaragditukaani"
+        "name": "Smaragditukaani"
       },
       {
         "lang": "fr",
@@ -66,7 +83,7 @@
       },
       {
         "lang": "hu",
-        "name": "hagymazöld tukán"
+        "name": "Hagymazöld tukán"
       },
       {
         "lang": "it",
@@ -80,10 +97,6 @@
         ]
       },
       {
-        "lang": "nah",
-        "name": "Xōchitēnācal"
-      },
-      {
         "lang": "nl",
         "name": "Smaragdarassari"
       },
@@ -93,7 +106,7 @@
       },
       {
         "lang": "pl",
-        "name": "pieprzojad szmaragdowy"
+        "name": "Pieprzojad szmaragdowy"
       },
       {
         "lang": "pt-br",
@@ -109,7 +122,7 @@
       },
       {
         "lang": "sk",
-        "name": "tukaník smaragdový"
+        "name": "Tukaník smaragdový"
       },
       {
         "lang": "sv",
@@ -135,7 +148,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "arassari žlutobrvý"
+        "name": "Arassari žlutobrvý"
       },
       {
         "lang": "da",
@@ -159,11 +172,11 @@
       },
       {
         "lang": "et",
-        "name": "peruu rohetuukan"
+        "name": "Peruu rohetuukan"
       },
       {
         "lang": "fi",
-        "name": "peruntukaani"
+        "name": "Peruntukaani"
       },
       {
         "lang": "fr",
@@ -171,7 +184,7 @@
       },
       {
         "lang": "hu",
-        "name": "perui zöldtukán"
+        "name": "Perui zöldtukán"
       },
       {
         "lang": "it",
@@ -194,7 +207,7 @@
       },
       {
         "lang": "pl",
-        "name": "pieprzojad żółtobrewy"
+        "name": "Pieprzojad żółtobrewy"
       },
       {
         "lang": "pt",
@@ -206,11 +219,11 @@
       },
       {
         "lang": "sk",
-        "name": "tukaník peruánsky"
+        "name": "Tukaník peruánsky"
       },
       {
         "lang": "sv",
-        "name": "Gulbrynad tukanett"
+        "name": "gulbrynad tukanett"
       },
       {
         "lang": "zh",

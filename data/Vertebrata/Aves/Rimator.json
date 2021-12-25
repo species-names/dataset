@@ -1,6 +1,77 @@
 [
   {
+    "scientific_name": "Rimator pasquieri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated wren-babbler"
+      },
+      {
+        "lang": "nl",
+        "name": "Vietnamese dwergkruiplijster"
+      },
+      {
+        "lang": "sv",
+        "name": "vitstrupig skärtimalia"
+      }
+    ]
+  },
+  {
     "scientific_name": "Rimator malacoptilus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Drywbreblyn hirbig"
+      },
+      {
+        "lang": "en",
+        "name": "Long-billed wren-babbler"
+      },
+      {
+        "lang": "hu",
+        "name": "Hosszúcsőrű ökörszembujkáló"
+      },
+      {
+        "lang": "ne",
+        "name": "लामोठुँडे डिकुरेभ्याकुर"
+      },
+      {
+        "lang": "nl",
+        "name": "Assamdwergkruiplijster"
+      },
+      {
+        "lang": "nv",
+        "name": "Chʼizhaazhii bidaaʼ nineezígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Sierpotymalek cienkodzioby"
+      },
+      {
+        "lang": "sv",
+        "name": "assamskärtimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "长嘴鹩鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rimator albostriatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sumatran wren-babbler"
+      },
+      {
+        "lang": "nl",
+        "name": "Sumatraanse dwergkruiplijster"
+      },
+      {
+        "lang": "sv",
+        "name": "sumatraskärtimalia"
+      }
+    ]
   }
 ]

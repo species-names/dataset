@@ -9,6 +9,23 @@
     ]
   },
   {
+    "scientific_name": "Atlapetes tibialis",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Keltahoususirkku"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-thighed Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero musliamarillo"
+      }
+    ]
+  },
+  {
     "scientific_name": "Atlapetes terborghi",
     "common_names": [
       {
@@ -123,6 +140,29 @@
       {
         "lang": "en",
         "name": "Pale-headed Brush-finch"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila prysgoed penwelw"
+      },
+      {
+        "lang": "es",
+        "name": "atlapetes cabecipálido",
+        "synonyms": [
+          "saltón cabecipálido"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Azuaynsirkku"
+      },
+      {
+        "lang": "nl",
+        "name": "Bleekkopstruikgors"
+      },
+      {
+        "lang": "sv",
+        "name": "ljushuvad snårsparv"
       }
     ]
   },
@@ -167,6 +207,14 @@
       {
         "lang": "en",
         "name": "Black-spectacled Brush-finch"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartbrilstruikgors"
+      },
+      {
+        "lang": "sv",
+        "name": "svartmaskad snårsparv"
       }
     ]
   },
@@ -189,6 +237,35 @@
       {
         "lang": "en",
         "name": "Santa Marta Brush-finch"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Atlapetes luteoviridis",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Bras gwyrddfelyn"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-green finch"
+      },
+      {
+        "lang": "es",
+        "name": "cerquero verdiamarillo"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelgroene struikgors"
+      },
+      {
+        "lang": "no",
+        "name": "Sitronbuksespurv"
+      },
+      {
+        "lang": "sv",
+        "name": "gulgrön snårsparv"
       }
     ]
   },
@@ -235,6 +312,10 @@
       {
         "lang": "en",
         "name": "Yellow-breasted Brush-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes pechiamarillo"
       }
     ]
   },
@@ -266,6 +347,10 @@
       {
         "lang": "en",
         "name": "Apurímac Brush-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes de Apurímac"
       }
     ]
   },
@@ -282,6 +367,26 @@
       {
         "lang": "es",
         "name": "Gorrión-montés de anteojos"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila prysgoed penfelynwyrdd"
+      },
+      {
+        "lang": "fr",
+        "name": "Tohi à tête olive"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudkopstruikgors"
+      },
+      {
+        "lang": "nn",
+        "name": "Gulhovudkjerrsporv"
+      },
+      {
+        "lang": "sv",
+        "name": "gulhuvad snårsparv"
       }
     ]
   },

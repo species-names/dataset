@@ -1,14 +1,70 @@
 [
   {
+    "scientific_name": "Chrysomma sinense hypoleucum",
+    "common_names": []
+  },
+  {
     "scientific_name": "Chrysomma sinense",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "হলদে চোখ ছাতারে"
+      },
+      {
+        "lang": "cy",
+        "name": "Preblyn llygadfelyn"
+      },
       {
         "lang": "en",
         "name": "Yellow-eyed Babbler"
       },
       {
+        "lang": "eo",
+        "name": "Flavokula silvio"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí ojigualdo"
+      },
+      {
+        "lang": "fa",
+        "name": "لیکویی چشم‌زرد"
+      },
+      {
         "lang": "fr",
-        "name": "Timalie aux yeux d'or"
+        "name": "Moupinie aux yeux d'or"
+      },
+      {
+        "lang": "ml",
+        "name": "മഞ്ഞക്കണ്ണിച്ചിലപ്പൻ"
+      },
+      {
+        "lang": "my",
+        "name": "မျက်လုံးဝါဇွေး"
+      },
+      {
+        "lang": "ne",
+        "name": "तामे घाँसेभ्याकुर"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudoogtimalia"
+      },
+      {
+        "lang": "nv",
+        "name": "Chʼizhaazhii binááʼ łitsooígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "Eldögonsångare"
+      },
+      {
+        "lang": "ta",
+        "name": "மஞ்சள் கண் சிலம்பன்"
+      },
+      {
+        "lang": "vi",
+        "name": "Họa mi mắt vàng"
       },
       {
         "lang": "zh",
@@ -22,6 +78,47 @@
   },
   {
     "scientific_name": "Chrysomma altirostre",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Preblyn Jerdon"
+      },
+      {
+        "lang": "en",
+        "name": "Jerdon's Babbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Jerdona silvio"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí de Jerdon"
+      },
+      {
+        "lang": "fa",
+        "name": "لیکویی جردان"
+      },
+      {
+        "lang": "fr",
+        "name": "Moupinie de Jerdon"
+      },
+      {
+        "lang": "ne",
+        "name": "नर्कट भ्याकुर"
+      },
+      {
+        "lang": "nl",
+        "name": "Jerdons timalia"
+      },
+      {
+        "lang": "pl",
+        "name": "Rdzawolotek ciemnolicy"
+      },
+      {
+        "lang": "sv",
+        "name": "Jerdonsångare"
+      }
+    ]
   }
 ]

@@ -48,24 +48,100 @@
     "scientific_name": "Cettia cetti",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "هازجة سيتي"
+      },
+      {
+        "lang": "az",
+        "name": "Qamış bülbülü"
+      },
+      {
+        "lang": "ba",
+        "name": "Йырсы ҡурҙай"
+      },
+      {
+        "lang": "bg",
+        "name": "Свилено шаварче"
+      },
+      {
+        "lang": "br",
+        "name": "Gourmenig-Cetti"
+      },
+      {
+        "lang": "ca",
+        "name": "Rossinyol bord"
+      },
+      {
+        "lang": "cs",
+        "name": "Cetie jižní"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor Cetti"
+      },
+      {
+        "lang": "de",
+        "name": "Seidensänger"
+      },
+      {
+        "lang": "el",
+        "name": "Ψευταηδόνι"
+      },
+      {
         "lang": "en",
         "name": "Cetti's Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Ĉetio"
+      },
+      {
         "lang": "es",
-        "name": "Ruiseñor bastardo"
+        "name": "Cetia ruiseñor"
+      },
+      {
+        "lang": "eu",
+        "name": "Errekatxindor"
+      },
+      {
+        "lang": "fa",
+        "name": "سسک چتی"
+      },
+      {
+        "lang": "fi",
+        "name": "Silkkikerttunen"
       },
       {
         "lang": "fr",
         "name": "Bouscarle de Cetti"
       },
       {
+        "lang": "gl",
+        "name": "Reiseñor da auga"
+      },
+      {
+        "lang": "hu",
+        "name": "Berki poszáta"
+      },
+      {
         "lang": "hy",
-        "name": "Եղեգնաթռչնակ լայնապոչ"
+        "name": "Լայնապոչ եղեգնաթռչնակ"
       },
       {
         "lang": "it",
         "name": "Usignolo di fiume"
+      },
+      {
+        "lang": "kk",
+        "name": "Жалпаққұйрық бұлбұлша"
+      },
+      {
+        "lang": "mk",
+        "name": "Свиларче"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кымдапач"
       },
       {
         "lang": "nl",
@@ -73,10 +149,19 @@
       },
       {
         "lang": "pl",
-        "name": "Wierzbówka zwyczajna",
-        "synonyms": [
-          "Świerszczak jedwabisty"
-        ]
+        "name": "Wierzbówka zwyczajna"
+      },
+      {
+        "lang": "pt",
+        "name": "Rouxinol-bravo"
+      },
+      {
+        "lang": "ru",
+        "name": "Широкохвостая камышовка"
+      },
+      {
+        "lang": "sv",
+        "name": "Cettisångare"
       },
       {
         "lang": "tr",
@@ -85,6 +170,14 @@
       {
         "lang": "vec",
         "name": "Rossignòl de val"
+      },
+      {
+        "lang": "uk",
+        "name": "Очеретянка середземноморська"
+      },
+      {
+        "lang": "zh",
+        "name": "宽尾树莺"
       }
     ]
   },
@@ -113,8 +206,64 @@
     "scientific_name": "Cettia brunnifrons",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Llwyndelor pengoch"
+      },
+      {
+        "lang": "de",
+        "name": "Himalajaseidensänger"
+      },
+      {
         "lang": "en",
         "name": "Grey-sided Bush Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Cetia capirotada"
+      },
+      {
+        "lang": "fi",
+        "name": "Himalajansilkkikerttunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Bouscarle à couronne brune"
+      },
+      {
+        "lang": "hu",
+        "name": "Vörösfejű berkiposzáta"
+      },
+      {
+        "lang": "it",
+        "name": "Cettia fianchigrigi"
+      },
+      {
+        "lang": "ja",
+        "name": "チャガシラコウグイス"
+      },
+      {
+        "lang": "ne",
+        "name": "रातोटाउके झाडीफिस्टो"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkopstruikzanger"
+      },
+      {
+        "lang": "ru",
+        "name": "Рыжеголовая короткокрылая камышевка"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråsidig cettia"
+      },
+      {
+        "lang": "uk",
+        "name": "Очеретянка рудоголова"
+      },
+      {
+        "lang": "zh",
+        "name": "棕顶树莺"
       }
     ]
   },

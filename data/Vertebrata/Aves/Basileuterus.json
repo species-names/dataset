@@ -14,7 +14,16 @@
   },
   {
     "scientific_name": "Basileuterus trifasciatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Reinita de Cajamarca"
+      },
+      {
+        "lang": "en",
+        "name": "Three-banded Warbler"
+      }
+    ]
   },
   {
     "scientific_name": "Basileuterus tacarcunae",
@@ -54,7 +63,7 @@
       },
       {
         "lang": "es",
-        "name": "Reinita cabecicastaña"
+        "name": "Reinita coronirrufa"
       },
       {
         "lang": "et",
@@ -173,10 +182,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Basileuterus hypoleucus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Basileuterus griseiceps",
     "common_names": []
   },
@@ -187,6 +192,15 @@
   {
     "scientific_name": "Basileuterus flaveolus",
     "common_names": []
+  },
+  {
+    "scientific_name": "Basileuterus delattrii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-capped Warbler"
+      }
+    ]
   },
   {
     "scientific_name": "Basileuterus culicivorus",
@@ -237,10 +251,6 @@
         "synonyms": [
           "kin'itadakiamerikamushikui"
         ]
-      },
-      {
-        "lang": "la",
-        "name": "Basileuterus culicivorous"
       },
       {
         "lang": "nl",

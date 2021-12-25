@@ -3,28 +3,184 @@
     "scientific_name": "Ptyonoprogne rupestris",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "سنونو الجرف الأوراسي"
+      },
+      {
+        "lang": "az",
+        "name": "Dağ qaranquşu"
+      },
+      {
+        "lang": "azb",
+        "name": "داغ قارانقۇشو"
+      },
+      {
+        "lang": "bg",
+        "name": "Скална лястовица"
+      },
+      {
+        "lang": "bn",
+        "name": "ক্রেগ মার্টিন"
+      },
+      {
+        "lang": "br",
+        "name": "Gwennili-garreg"
+      },
+      {
+        "lang": "ca",
+        "name": "Roquerol"
+      },
+      {
+        "lang": "cs",
+        "name": "Břehule skalní"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol y clogwyn"
+      },
+      {
+        "lang": "da",
+        "name": "Klippesvale"
+      },
+      {
+        "lang": "de",
+        "name": "Felsenschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Crag Martin"
+      },
+      {
+        "lang": "eo",
+        "name": "Rokhirundo"
+      },
+      {
         "lang": "es",
         "name": "Avión roquero"
+      },
+      {
+        "lang": "et",
+        "name": "Kivipääsuke"
       },
       {
         "lang": "eu",
         "name": "Haitz-enara"
       },
       {
+        "lang": "fa",
+        "name": "چلچله کوهی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalliopääsky"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle de rochers"
+      },
+      {
+        "lang": "gl",
+        "name": "Andoriña dos penedos"
+      },
+      {
+        "lang": "he",
+        "name": "סנונית סלעים"
+      },
+      {
+        "lang": "hr",
+        "name": "Hridna lastavica"
+      },
+      {
+        "lang": "hu",
+        "name": "Szirtifecske"
+      },
+      {
         "lang": "hy",
-        "name": "Ծիծեռնակ ժայռային"
+        "name": "Ժայռային ծիծեռնակ"
+      },
+      {
+        "lang": "it",
+        "name": "Rondine montana"
+      },
+      {
+        "lang": "kbd",
+        "name": "КъуршпцӀащхъуэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Құз қарлығашы"
+      },
+      {
+        "lang": "ku",
+        "name": "Hechecikê zinaran"
+      },
+      {
+        "lang": "lij",
+        "name": "Çenentun"
+      },
+      {
+        "lang": "mk",
+        "name": "Карпеста ластовичка"
+      },
+      {
+        "lang": "ml",
+        "name": "പാറക്കത്രികക്കിളി"
+      },
+      {
+        "lang": "ne",
+        "name": "नहिकुटी गौंथली"
+      },
+      {
+        "lang": "nl",
+        "name": "Rotszwaluw"
+      },
+      {
+        "lang": "nn",
+        "name": "Klippesvale"
+      },
+      {
+        "lang": "no",
+        "name": "Klippesvale"
+      },
+      {
+        "lang": "olo",
+        "name": "Kallivopiäčköi"
       },
       {
         "lang": "pl",
         "name": "Jaskółka skalna"
       },
       {
+        "lang": "pt",
+        "name": "Andorinha-das-rochas"
+      },
+      {
+        "lang": "ru",
+        "name": "Скалистая ласточка"
+      },
+      {
         "lang": "sl",
         "name": "Skalna lastovka"
       },
       {
+        "lang": "sv",
+        "name": "Klippsvala"
+      },
+      {
         "lang": "tr",
         "name": "Kaya kırlangıcı"
+      },
+      {
+        "lang": "uk",
+        "name": "Ластівка скельна"
+      },
+      {
+        "lang": "vi",
+        "name": "Én núi đá"
+      },
+      {
+        "lang": "zh",
+        "name": "岩燕"
       }
     ]
   },
@@ -32,12 +188,48 @@
     "scientific_name": "Ptyonoprogne obsoleta",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "سنونو شاحب الزور"
+      },
+      {
+        "lang": "azb",
+        "name": "هیروندو اوبسولتا"
+      },
+      {
+        "lang": "bn",
+        "name": "টিয়ানোপ্রোন অবসোলেটা"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol glogwyn welw"
+      },
+      {
         "lang": "en",
-        "name": "Pale Crag-Martin"
+        "name": "Pale Crag Martin"
+      },
+      {
+        "lang": "es",
+        "name": "Avión pálido"
+      },
+      {
+        "lang": "eu",
+        "name": "Basamortuko enara"
+      },
+      {
+        "lang": "fa",
+        "name": "چلچله بیابانی"
       },
       {
         "lang": "fr",
         "name": "Hirondelle du désert"
+      },
+      {
+        "lang": "nl",
+        "name": "Vale rotszwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "Blek klippsvala"
       }
     ]
   },
@@ -45,12 +237,64 @@
     "scientific_name": "Ptyonoprogne fuligula",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Kransswael"
+      },
+      {
+        "lang": "ar",
+        "name": "سنونو الصخر"
+      },
+      {
+        "lang": "bg",
+        "name": "Африканска лястовица"
+      },
+      {
+        "lang": "ca",
+        "name": "Roquerol africà"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol y graig"
+      },
+      {
         "lang": "en",
         "name": "Rock Martin"
       },
       {
+        "lang": "eo",
+        "name": "Malhela rokhirundo"
+      },
+      {
+        "lang": "es",
+        "name": "Avión isabelino"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikankalliopääsky"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle isabelline"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaapse rotszwaluw"
+      },
+      {
+        "lang": "pl",
+        "name": "Jaskółka blada"
+      },
+      {
         "lang": "ru",
         "name": "Африканская скалистая ласточка"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk klippsvala"
+      },
+      {
+        "lang": "tr",
+        "name": "Küçük kaya kırlangıcı"
       }
     ]
   },
@@ -58,8 +302,56 @@
     "scientific_name": "Ptyonoprogne concolor",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "سنونو الجرف الداكن"
+      },
+      {
         "lang": "cs",
         "name": "Vlaštovka tmavá"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol graig dywyll"
+      },
+      {
+        "lang": "en",
+        "name": "Dusky Crag Martin"
+      },
+      {
+        "lang": "es",
+        "name": "Avión oscuro"
+      },
+      {
+        "lang": "fa",
+        "name": "چلچله سربی"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle concolore"
+      },
+      {
+        "lang": "ml",
+        "name": "തവിടൻ കത്രികക്കിളി"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische rotszwaluw"
+      },
+      {
+        "lang": "sv",
+        "name": "Mörk klippsvala"
+      },
+      {
+        "lang": "ta",
+        "name": "பாறை தகைவிலான்"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhạn nâu hung"
+      },
+      {
+        "lang": "zh",
+        "name": "纯色岩燕"
       }
     ]
   }

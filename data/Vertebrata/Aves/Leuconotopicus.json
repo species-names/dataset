@@ -95,6 +95,18 @@
     "scientific_name": "Leuconotopicus stricklandi",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Picot garser de Strickland"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell Strickland"
+      },
+      {
+        "lang": "de",
+        "name": "Strickland-Specht"
+      },
+      {
         "lang": "en",
         "name": "Strickland's Woodpecker"
       },
@@ -103,12 +115,28 @@
         "name": "Pico de Strickland"
       },
       {
-        "lang": "fr",
-        "name": "Pic de Strickland"
+        "lang": "fa",
+        "name": "دارکوب استریکلند"
       },
       {
         "lang": "fi",
         "name": "Mäntytikka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pic de Strickland"
+      },
+      {
+        "lang": "nl",
+        "name": "Stricklands specht"
+      },
+      {
+        "lang": "pnb",
+        "name": "سٹرکلینڈ چڑی ترکھان"
+      },
+      {
+        "lang": "sv",
+        "name": "Stricklandspett"
       }
     ]
   },
@@ -137,6 +165,14 @@
     "scientific_name": "Leuconotopicus borealis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Picot garser de Florida"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell fochwen"
+      },
+      {
         "lang": "de",
         "name": "Kokardenspecht"
       },
@@ -145,12 +181,52 @@
         "name": "Red-cockaded Woodpecker"
       },
       {
-        "lang": "fr",
-        "name": "Pic à face blanche"
+        "lang": "es",
+        "name": "Pico de Florida"
+      },
+      {
+        "lang": "fa",
+        "name": "دارکوب شمالی"
       },
       {
         "lang": "fi",
         "name": "Pihkatikka"
+      },
+      {
+        "lang": "fr",
+        "name": "Pic à face blanche"
+      },
+      {
+        "lang": "he",
+        "name": "נקר אדום ציץ"
+      },
+      {
+        "lang": "hu",
+        "name": "Kokárdás harkály"
+      },
+      {
+        "lang": "it",
+        "name": "Picchio della coccarda"
+      },
+      {
+        "lang": "nl",
+        "name": "Kokardespecht"
+      },
+      {
+        "lang": "pnb",
+        "name": "پکوایڈس بوریالس"
+      },
+      {
+        "lang": "ru",
+        "name": "Кокардовый дятел"
+      },
+      {
+        "lang": "sv",
+        "name": "Tallspett"
+      },
+      {
+        "lang": "zh",
+        "name": "红顶啄木鸟"
       }
     ]
   },
@@ -158,16 +234,48 @@
     "scientific_name": "Leuconotopicus arizonae",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Picot garser d'Arizona"
+      },
+      {
+        "lang": "de",
+        "name": "Arizonaspecht"
+      },
+      {
         "lang": "en",
         "name": "Arizona Woodpecker"
+      },
+      {
+        "lang": "es",
+        "name": "Carpintero de Arizona"
+      },
+      {
+        "lang": "fa",
+        "name": "دارکوب آریزونا"
+      },
+      {
+        "lang": "fi",
+        "name": "Sierramadrentikka"
       },
       {
         "lang": "fr",
         "name": "Pic d'Arizona"
       },
       {
-        "lang": "fi",
-        "name": "Sierramadrentikka"
+        "lang": "gag",
+        "name": "Arizona aaçkakanı"
+      },
+      {
+        "lang": "nl",
+        "name": "Arizonaspecht"
+      },
+      {
+        "lang": "pnb",
+        "name": "اریزونا چڑی ترکھان"
+      },
+      {
+        "lang": "sv",
+        "name": "Arizonaspett"
       }
     ]
   },

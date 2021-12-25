@@ -126,6 +126,10 @@
         "name": "Jestřáb západoafrický"
       },
       {
+        "lang": "eo",
+        "name": "Akcipitro okcidentafrika"
+      },
+      {
         "lang": "es",
         "name": "Azor de Toussenel"
       },
@@ -145,6 +149,10 @@
       {
         "lang": "cs",
         "name": "Jestřáb tachiro"
+      },
+      {
+        "lang": "eo",
+        "name": "akcipitro taĥiro"
       },
       {
         "lang": "es",
@@ -168,6 +176,10 @@
         "name": "Tiny Hawk"
       },
       {
+        "lang": "eo",
+        "name": "akcipitro malgranda"
+      },
+      {
         "lang": "es",
         "name": "Azor menor americano"
       },
@@ -186,7 +198,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "krahujec americký"
+        "name": "Krahujec americký"
       },
       {
         "lang": "da",
@@ -209,11 +221,11 @@
       },
       {
         "lang": "et",
-        "name": "ameerika raudkull"
+        "name": "Ameerika raudkull"
       },
       {
         "lang": "fi",
-        "name": "amerikanvarpushaukka"
+        "name": "Amerikanvarpushaukka"
       },
       {
         "lang": "fr",
@@ -225,7 +237,7 @@
       },
       {
         "lang": "hu",
-        "name": "csíkos karvaly"
+        "name": "Csíkos karvaly"
       },
       {
         "lang": "it",
@@ -252,11 +264,11 @@
       },
       {
         "lang": "pl",
-        "name": "krogulec zmienny"
+        "name": "Krogulec zmienny"
       },
       {
         "lang": "pt-br",
-        "name": "gavião-miúdo"
+        "name": "Gavião-miúdo"
       },
       {
         "lang": "pt",
@@ -268,7 +280,7 @@
       },
       {
         "lang": "sk",
-        "name": "jastrab čiarkový"
+        "name": "Jastrab čiarkový"
       },
       {
         "lang": "sv",
@@ -661,7 +673,7 @@
       },
       {
         "lang": "eo",
-        "name": "Nizo"
+        "name": "Eŭropa Nizo"
       },
       {
         "lang": "es",
@@ -1138,6 +1150,10 @@
         "name": "Krahujec tmavohřbetý"
       },
       {
+        "lang": "en",
+        "name": "Slaty-mantled goshawk"
+      },
+      {
         "lang": "es",
         "name": "Gavilán de Nueva Bretaña"
       },
@@ -1148,6 +1164,14 @@
       {
         "lang": "pl",
         "name": "Krogulec białogardły"
+      },
+      {
+        "lang": "nl",
+        "name": "Grauwe sperwer"
+      },
+      {
+        "lang": "sv",
+        "name": "blågrå hök"
       }
     ]
   },
@@ -1159,12 +1183,60 @@
         "name": "Krahujec černobílý"
       },
       {
+        "lang": "cy",
+        "name": "Gwalch Ynys Choiseul"
+      },
+      {
+        "lang": "en",
+        "name": "Imitator Goshawk"
+      },
+      {
+        "lang": "eo",
+        "name": "Imita akcipitro"
+      },
+      {
         "lang": "es",
         "name": "Gavilán imitador"
       },
       {
+        "lang": "fi",
+        "name": "Matkijalintuhaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Autour imitateur"
+      },
+      {
+        "lang": "hu",
+        "name": "Melanéz karvaly"
+      },
+      {
+        "lang": "nl",
+        "name": "Bonte sperwer"
+      },
+      {
         "lang": "pl",
         "name": "Krogulec żałobny"
+      },
+      {
+        "lang": "ru",
+        "name": "Ястреб-пересмешник"
+      },
+      {
+        "lang": "sr",
+        "name": "Јастреб имитатор"
+      },
+      {
+        "lang": "sv",
+        "name": "Härmhök"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб-імітатор"
+      },
+      {
+        "lang": "vi",
+        "name": "Bồ cắt giả"
       }
     ]
   },
@@ -1215,6 +1287,50 @@
       {
         "lang": "pl",
         "name": "Jastrząb brunatny"
+      },
+      {
+        "lang": "ca",
+        "name": "Astor de Madagascar"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwyddwalch Henst"
+      },
+      {
+        "lang": "de",
+        "name": "Madagaskarhabicht"
+      },
+      {
+        "lang": "en",
+        "name": "Henst's goshawk"
+      },
+      {
+        "lang": "eo",
+        "name": "Hensta akcipitro"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinkanahaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Autour de Henst"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskarhavik"
+      },
+      {
+        "lang": "sv",
+        "name": "madagaskarduvhök"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб брунатний"
+      },
+      {
+        "lang": "vi",
+        "name": "Ó Henst"
       }
     ]
   },
@@ -1278,6 +1394,54 @@
       {
         "lang": "pl",
         "name": "Krogulec kubański"
+      },
+      {
+        "lang": "nl",
+        "name": "Cubaanse sperwer"
+      },
+      {
+        "lang": "ca",
+        "name": "Astor de Cuba"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalch Gundlach"
+      },
+      {
+        "lang": "eo",
+        "name": "Gundlaĉa akcipitro"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuubanlintuhaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Épervier de Cuba"
+      },
+      {
+        "lang": "hu",
+        "name": "Kubai héja"
+      },
+      {
+        "lang": "ka",
+        "name": "კუბური ქორი"
+      },
+      {
+        "lang": "ru",
+        "name": "Кубинский ястреб"
+      },
+      {
+        "lang": "sv",
+        "name": "kubahök"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб кубинський"
+      },
+      {
+        "lang": "vi",
+        "name": "Diều hâu Gundlach"
       }
     ]
   },
@@ -1444,7 +1608,7 @@
       },
       {
         "lang": "eo",
-        "name": "Akcipitro"
+        "name": "Norda akcipitro"
       },
       {
         "lang": "es",
@@ -1719,7 +1883,7 @@
       },
       {
         "lang": "sr",
-        "name": "Jaстреб кокошар",
+        "name": "Јастреб кокошар",
         "synonyms": [
           "Jastreb kokošar"
         ]
@@ -2196,7 +2360,7 @@
       },
       {
         "lang": "eo",
-        "name": "Mallongkrura akcipitro"
+        "name": "Orienta nizo"
       },
       {
         "lang": "es",
@@ -2304,10 +2468,7 @@
       },
       {
         "lang": "sr",
-        "name": "Kratkoprsti kobac",
-        "synonyms": [
-          "Краткопрсти кобац"
-        ]
+        "name": "Kratkoprsti kobac - Краткопрсти кобац"
       },
       {
         "lang": "sv",
@@ -2353,6 +2514,50 @@
       {
         "lang": "pl",
         "name": "Krogulec trójbarwny"
+      },
+      {
+        "lang": "br",
+        "name": "Sparfell Preden-Nevez"
+      },
+      {
+        "lang": "ca",
+        "name": "Esparver menut de Nova Bretanya"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalch torchog Prydain Newydd"
+      },
+      {
+        "lang": "eo",
+        "name": "Longfingra akcipitro"
+      },
+      {
+        "lang": "fi",
+        "name": "Nokilintuhaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Épervier de Nouvelle-Bretagne"
+      },
+      {
+        "lang": "nl",
+        "name": "New-britainsperwer"
+      },
+      {
+        "lang": "sv",
+        "name": "bismarckhök"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeni Britanya atmacası"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб новобританський"
+      },
+      {
+        "lang": "vi",
+        "name": "Cắt New Britain"
       }
     ]
   },
@@ -2391,6 +2596,10 @@
       {
         "lang": "en",
         "name": "Shikra"
+      },
+      {
+        "lang": "eo",
+        "name": "Stepa nizo"
       },
       {
         "lang": "es",
@@ -2435,6 +2644,54 @@
       {
         "lang": "tr",
         "name": "Alaca çakır kuşu"
+      },
+      {
+        "lang": "ca",
+        "name": "Astor emmantellat"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalch brith"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankagorĝa akcipitro"
+      },
+      {
+        "lang": "fa",
+        "name": "باز ابلق"
+      },
+      {
+        "lang": "fi",
+        "name": "Salomoninhaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Autour pie"
+      },
+      {
+        "lang": "hu",
+        "name": "Tarka héja"
+      },
+      {
+        "lang": "nl",
+        "name": "Bonte havik"
+      },
+      {
+        "lang": "ru",
+        "name": "Сорочий ястреб"
+      },
+      {
+        "lang": "sv",
+        "name": "skathök"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб строкатий"
+      },
+      {
+        "lang": "vi",
+        "name": "Ó ác là"
       }
     ]
   }

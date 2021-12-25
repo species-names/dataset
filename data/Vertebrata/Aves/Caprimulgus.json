@@ -1,29 +1,11 @@
 [
   {
     "scientific_name": "Caprimulgus whitelyi",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek Whitelyův"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus vociferus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek křiklavý"
-      },
-      {
-        "lang": "en",
-        "name": "Whip-poor-wil"
-      },
-      {
-        "lang": "zh",
-        "name": "三聲夜鷹"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus vexillarius",
@@ -75,30 +57,15 @@
   },
   {
     "scientific_name": "Caprimulgus sericocaudatus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek hedvábný"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus saturatus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek šerý"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus salvini",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek Salvinův"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus ruwenzorii",
@@ -115,16 +82,7 @@
   },
   {
     "scientific_name": "Caprimulgus rufus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek červenavý"
-      },
-      {
-        "lang": "en",
-        "name": "Rufous Nightjar"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus rufigena",
@@ -177,6 +135,10 @@
       {
         "lang": "en",
         "name": "Red-necked Nightjar"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝkola kaprimulgo"
       },
       {
         "lang": "es",
@@ -236,16 +198,7 @@
   },
   {
     "scientific_name": "Caprimulgus ridgwayi",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek Ridgwayův"
-      },
-      {
-        "lang": "en",
-        "name": "Buff-collared Nightjar"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus pulchellus",
@@ -266,6 +219,38 @@
       {
         "lang": "cs",
         "name": "Lelek Prigogineův"
+      },
+      {
+        "lang": "cy",
+        "name": "Troellwr Prigogine"
+      },
+      {
+        "lang": "de",
+        "name": "Prigogine-Nachtschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Prigogine's nightjar"
+      },
+      {
+        "lang": "fa",
+        "name": "شبگرد پریگوگاین"
+      },
+      {
+        "lang": "fr",
+        "name": "Engoulevent de Prigogine"
+      },
+      {
+        "lang": "nl",
+        "name": "Louettes nachtzwaluw"
+      },
+      {
+        "lang": "pl",
+        "name": "Lelek kongijski"
+      },
+      {
+        "lang": "sv",
+        "name": "itombwenattskärra"
       }
     ]
   },
@@ -314,12 +299,7 @@
   },
   {
     "scientific_name": "Caprimulgus parvulus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek malý"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus nubicus",
@@ -327,17 +307,16 @@
       {
         "lang": "cs",
         "name": "Lelek núbijský"
+      },
+      {
+        "lang": "eo",
+        "name": "Nubia kaprimulgo"
       }
     ]
   },
   {
     "scientific_name": "Caprimulgus noctitherus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek portorický"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus nigriscapularis",
@@ -351,16 +330,28 @@
         "name": "Lelek černotemenný"
       },
       {
+        "lang": "cy",
+        "name": "Troellwr jyngl Affrica"
+      },
+      {
         "lang": "en",
-        "name": "Black-shouldered nightjar"
+        "name": "Black-shouldered Nightjar"
       },
       {
         "lang": "es",
         "name": "Chotacabras hombrinegro"
       },
       {
+        "lang": "fa",
+        "name": "شبگرد دوش‌سیاه"
+      },
+      {
         "lang": "fr",
         "name": "Engoulevent à épaulettes noires"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartschoudernachtzwaluw"
       },
       {
         "lang": "sv",
@@ -370,20 +361,7 @@
   },
   {
     "scientific_name": "Caprimulgus nigrescens",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek černavý"
-      },
-      {
-        "lang": "en",
-        "name": "Blackish Nightjar"
-      },
-      {
-        "lang": "pt",
-        "name": "Bacurau-preto"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus natalensis",
@@ -452,12 +430,7 @@
   },
   {
     "scientific_name": "Caprimulgus maculosus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek skvrnitý"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus macrurus",
@@ -518,16 +491,7 @@
   },
   {
     "scientific_name": "Caprimulgus longirostris",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek pruhokřídlý"
-      },
-      {
-        "lang": "en",
-        "name": "Band-winged Nightjar"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus longipennis",
@@ -558,12 +522,28 @@
     "scientific_name": "Caprimulgus jotaka",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Graunachtschwalbe"
+      },
+      {
         "lang": "en",
         "name": "Grey Nightjar"
       },
       {
+        "lang": "es",
+        "name": "Chotacabras jotaka"
+      },
+      {
+        "lang": "fr",
+        "name": "Engoulevent jotaka"
+      },
+      {
         "lang": "ja",
         "name": "ヨタカ"
+      },
+      {
+        "lang": "zh",
+        "name": "日本夜鷹"
       }
     ]
   },
@@ -615,16 +595,7 @@
   },
   {
     "scientific_name": "Caprimulgus hirundinaceus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek vlaštovčí"
-      },
-      {
-        "lang": "en",
-        "name": "Pygmy Nightjar"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus fraenatus",
@@ -722,7 +693,7 @@
       },
       {
         "lang": "eo",
-        "name": "Kaprimulgo"
+        "name": "Eŭropa kaprimulgo"
       },
       {
         "lang": "es",
@@ -849,12 +820,7 @@
   },
   {
     "scientific_name": "Caprimulgus ekmani",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek hispaniolský"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus donaldsoni",
@@ -871,12 +837,7 @@
   },
   {
     "scientific_name": "Caprimulgus cubanensis",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek kubánský"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus concretus",
@@ -933,7 +894,7 @@
       },
       {
         "lang": "en",
-        "name": "Vaurie's nightjar"
+        "name": "Vaurie's Nightjar"
       },
       {
         "lang": "es",
@@ -945,7 +906,7 @@
       },
       {
         "lang": "it",
-        "name": "succiacapre di Vaurie"
+        "name": "Succiacapre di Vaurie"
       },
       {
         "lang": "pl",
@@ -976,29 +937,11 @@
   },
   {
     "scientific_name": "Caprimulgus carolinensis",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek karolinský"
-      },
-      {
-        "lang": "en",
-        "name": "Chuck-will's-widow"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus candicans",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek bělokřídlý"
-      },
-      {
-        "lang": "pt",
-        "name": "Bacurau-de-rabo-branco"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus batesi",
@@ -1011,12 +954,7 @@
   },
   {
     "scientific_name": "Caprimulgus badius",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Lelek yukatanský"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Caprimulgus atripennis",
@@ -1071,6 +1009,10 @@
       {
         "lang": "cs",
         "name": "Lelek světlý"
+      },
+      {
+        "lang": "eo",
+        "name": "Egipta kaprimulgo"
       },
       {
         "lang": "nl",

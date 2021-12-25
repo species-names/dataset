@@ -41,6 +41,10 @@
       {
         "lang": "sv",
         "name": "Paradisgravand"
+      },
+      {
+        "lang": "pt",
+        "name": "Tadorna-paraíso"
       }
     ]
   },
@@ -58,6 +62,10 @@
       {
         "lang": "en",
         "name": "Australian Shelduck"
+      },
+      {
+        "lang": "eo",
+        "name": "Aŭstralia tadorno"
       },
       {
         "lang": "es",
@@ -158,7 +166,7 @@
       },
       {
         "lang": "eo",
-        "name": "Ordinara tadorno"
+        "name": "Verdkapa tadorno"
       },
       {
         "lang": "es",
@@ -354,10 +362,7 @@
       },
       {
         "lang": "sr",
-        "name": "Šarena utva",
-        "synonyms": [
-          "Шарена утва"
-        ]
+        "name": "Šarena utva - Шарена утва"
       },
       {
         "lang": "sv",
@@ -394,78 +399,43 @@
     ]
   },
   {
-    "scientific_name": "Tadorna radjah",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Husice královská"
-      },
-      {
-        "lang": "de",
-        "name": "Radjahgans"
-      },
-      {
-        "lang": "en",
-        "name": "Radjah Shelduck"
-      },
-      {
-        "lang": "es",
-        "name": "Tarro Rajá"
-      },
-      {
-        "lang": "fr",
-        "name": "Tadorne radjah"
-      },
-      {
-        "lang": "hu",
-        "name": "Radjah ásólúd"
-      },
-      {
-        "lang": "ja",
-        "name": "シロガシラツクシガモ"
-      },
-      {
-        "lang": "nl",
-        "name": "Radjah-eend"
-      },
-      {
-        "lang": "ru",
-        "name": "Пеганка-раджа"
-      },
-      {
-        "lang": "sv",
-        "name": "Vithuvad gravand"
-      }
-    ]
-  },
-  {
     "scientific_name": "Tadorna ferruginea",
     "common_names": [
       {
         "lang": "ar",
-        "name": "النحام",
-        "synonyms": [
-          "النحام بط"
-        ]
+        "name": "بط أبو فروة"
+      },
+      {
+        "lang": "as",
+        "name": "চাকৈ-চকোৱা"
       },
       {
         "lang": "az",
-        "name": "Anqut",
-        "synonyms": [
-          "Qırmızı ördək"
-        ]
+        "name": "Qırmızı anqut"
+      },
+      {
+        "lang": "azb",
+        "name": "قیرمیزی آنقوت"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡыҙыл өйрәк"
       },
       {
         "lang": "be",
-        "name": "Качка-огар"
+        "name": "Агар"
       },
       {
         "lang": "bg",
         "name": "Червен ангъч"
       },
       {
+        "lang": "bn",
+        "name": "চখাচখি"
+      },
+      {
         "lang": "br",
-        "name": "An tadorn ruz"
+        "name": "Tadorn rous"
       },
       {
         "lang": "ca",
@@ -473,7 +443,7 @@
       },
       {
         "lang": "cs",
-        "name": "husice rezavá"
+        "name": "Husice rezavá"
       },
       {
         "lang": "cy",
@@ -509,11 +479,15 @@
       },
       {
         "lang": "eu",
-        "name": "Ànec canyella"
+        "name": "Paita gorrizta"
+      },
+      {
+        "lang": "fa",
+        "name": "آنقوت"
       },
       {
         "lang": "fi",
-        "name": "ruostesorsa"
+        "name": "Ruostesorsa"
       },
       {
         "lang": "fo",
@@ -525,22 +499,23 @@
       },
       {
         "lang": "ga",
-        "name": "Seil-Lacha Rua"
+        "name": "Seil-lacha Rua"
       },
       {
         "lang": "gl",
-        "name": "Ànec canyella",
-        "synonyms": [
-          "Pato canelo"
-        ]
+        "name": "Pato canelo"
       },
       {
         "lang": "he",
-        "name": "קזרקה"
+        "name": "קזרקה חלודית"
       },
       {
         "lang": "hr",
         "name": "Zlatokrila utva"
+      },
+      {
+        "lang": "hi",
+        "name": "चकवा"
       },
       {
         "lang": "hu",
@@ -548,7 +523,7 @@
       },
       {
         "lang": "hy",
-        "name": "Բադ կարմիր"
+        "name": "Կարմիր բադ"
       },
       {
         "lang": "is",
@@ -560,14 +535,15 @@
       },
       {
         "lang": "ja",
-        "name": "アカツクシガモ",
-        "synonyms": [
-          "akatsukushigamo"
-        ]
+        "name": "アカツクシガモ"
       },
       {
         "lang": "ka",
         "name": "წითელი იხვი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Къазплъыфэ"
       },
       {
         "lang": "kjn",
@@ -575,14 +551,19 @@
       },
       {
         "lang": "kk",
-        "name": "Отүйрек",
-        "synonyms": [
-          "Сарыалақаз"
-        ]
+        "name": "Қызыл үйрек"
+      },
+      {
+        "lang": "kn",
+        "name": "ಚಕ್ರವಾಕ"
       },
       {
         "lang": "ko",
         "name": "황오리"
+      },
+      {
+        "lang": "ky",
+        "name": "Аңыр"
       },
       {
         "lang": "lt",
@@ -593,16 +574,36 @@
         "name": "Rudā dižpīle"
       },
       {
+        "lang": "mk",
+        "name": "Лисеста гусковидна патка"
+      },
+      {
+        "lang": "ml",
+        "name": "ചക്രവാകം"
+      },
+      {
         "lang": "mn",
-        "name": "Ангир"
+        "name": "Хондон ангир"
       },
       {
         "lang": "mr",
-        "name": "ब्राम्हणी बदक"
+        "name": "चक्रवाक"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшарлыды"
       },
       {
         "lang": "mt",
         "name": "Kuluvert Aħmar"
+      },
+      {
+        "lang": "nds",
+        "name": "Rostgoos"
+      },
+      {
+        "lang": "ne",
+        "name": "चखेवा"
       },
       {
         "lang": "nl",
@@ -613,8 +614,24 @@
         "name": "Rustand"
       },
       {
+        "lang": "olo",
+        "name": "Ruozmesorzu"
+      },
+      {
+        "lang": "or",
+        "name": "ପଣ୍ଡା ହଂସ"
+      },
+      {
+        "lang": "pa",
+        "name": "ਸੁਰਖ਼ਾਬ"
+      },
+      {
         "lang": "pl",
-        "name": "kazarka rdzawa"
+        "name": "Kazarka rdzawa"
+      },
+      {
+        "lang": "pnb",
+        "name": "سرخاب"
       },
       {
         "lang": "pt",
@@ -626,15 +643,19 @@
       },
       {
         "lang": "ru",
-        "name": "Красная утка"
+        "name": "Огарь"
+      },
+      {
+        "lang": "sah",
+        "name": "Кугас кус"
       },
       {
         "lang": "sk",
-        "name": "kazarka hrdzavá"
+        "name": "Kazarka hrdzavá"
       },
       {
         "lang": "sl",
-        "name": "rjasta kozarka"
+        "name": "Rjasta kozarka"
       },
       {
         "lang": "sq",
@@ -642,10 +663,7 @@
       },
       {
         "lang": "sr",
-        "name": "zlatokrila utva",
-        "synonyms": [
-          "Златокрила утва"
-        ]
+        "name": "Zlatokrila utva - Златокрила утва"
       },
       {
         "lang": "sv",
@@ -653,7 +671,11 @@
       },
       {
         "lang": "ta",
-        "name": "Garuda Thara"
+        "name": "சிவப்புத்தாரா"
+      },
+      {
+        "lang": "te",
+        "name": "చక్రవాకము"
       },
       {
         "lang": "th",
@@ -672,6 +694,14 @@
         "name": "Огар"
       },
       {
+        "lang": "ur",
+        "name": "سرخاب"
+      },
+      {
+        "lang": "uz",
+        "name": "Angʻirt"
+      },
+      {
         "lang": "vi",
         "name": "Vịt vàng"
       },
@@ -685,8 +715,24 @@
     "scientific_name": "Tadorna cristata",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Качулат ангъч"
+      },
+      {
+        "lang": "br",
+        "name": "Tadorn Korea"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec encaputxat"
+      },
+      {
         "lang": "cs",
         "name": "Husice chocholatá"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden fraith gribog"
       },
       {
         "lang": "de",
@@ -699,6 +745,14 @@
       {
         "lang": "eo",
         "name": "Kresta tadorno"
+      },
+      {
+        "lang": "es",
+        "name": "Tarro crestado"
+      },
+      {
+        "lang": "fa",
+        "name": "تنجه کاکلی"
       },
       {
         "lang": "fi",
@@ -721,6 +775,18 @@
         "name": "원앙사촌"
       },
       {
+        "lang": "nds",
+        "name": "Zopp-Buntgoos"
+      },
+      {
+        "lang": "nl",
+        "name": "Kuifcasarca"
+      },
+      {
+        "lang": "pl",
+        "name": "Kazarka czubata"
+      },
+      {
         "lang": "pt",
         "name": "Pato-de-crista-da-coreia"
       },
@@ -730,7 +796,7 @@
       },
       {
         "lang": "sv",
-        "name": "Tofsgravand"
+        "name": "tofsgravand"
       },
       {
         "lang": "zh",

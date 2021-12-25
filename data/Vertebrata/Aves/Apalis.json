@@ -1,6 +1,6 @@
 [
   {
-    "scientific_name": "Apalis viridiceps",
+    "scientific_name": "Apalis lynesi",
     "common_names": []
   },
   {
@@ -13,15 +13,39 @@
       {
         "lang": "en",
         "name": "Bar-throated Apalis"
+      },
+      {
+        "lang": "cy",
+        "name": "Apalis cyffredin"
+      },
+      {
+        "lang": "fi",
+        "name": "Jokiapali"
+      },
+      {
+        "lang": "fr",
+        "name": "Apalis à collier"
+      },
+      {
+        "lang": "nl",
+        "name": "Halsbandapalis"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsintah ńdiitsʼį́įhii bitsiiyah halbáhígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Nikornik obrożny"
+      },
+      {
+        "lang": "sv",
+        "name": "ringapalis"
       }
     ]
   },
   {
     "scientific_name": "Apalis sharpei",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Apalis ruwenzorii",
     "common_names": []
   },
   {
@@ -38,15 +62,6 @@
     ]
   },
   {
-    "scientific_name": "Apalis pulchra",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Black-collared Apalis"
-      }
-    ]
-  },
-  {
     "scientific_name": "Apalis porphyrolaema",
     "common_names": [
       {
@@ -57,11 +72,49 @@
   },
   {
     "scientific_name": "Apalis personata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mountain masked apalis"
+      },
+      {
+        "lang": "es",
+        "name": "Apalis carinegro"
+      },
+      {
+        "lang": "nl",
+        "name": "Kivu-apalis"
+      },
+      {
+        "lang": "sv",
+        "name": "Albertineapalis"
+      }
+    ]
   },
   {
     "scientific_name": "Apalis nigriceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-capped apalis"
+      },
+      {
+        "lang": "es",
+        "name": "Apalis capirotado"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltakaulusapali"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkapapalis"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartkronad apalis"
+      }
+    ]
   },
   {
     "scientific_name": "Apalis melanocephala",
@@ -77,7 +130,28 @@
   },
   {
     "scientific_name": "Apalis jacksoni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-throated apalis"
+      },
+      {
+        "lang": "es",
+        "name": "Apalis gorginegro"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkoviiksiapali"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkeelapalis"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartstrupig apalis"
+      }
+    ]
   },
   {
     "scientific_name": "Apalis goslingi",
@@ -89,11 +163,89 @@
     ]
   },
   {
-    "scientific_name": "Apalis flavida",
+    "scientific_name": "Apalis fuscigularis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Taita-Feinsänger"
+      },
+      {
+        "lang": "en",
+        "name": "Taita apalis"
+      },
+      {
+        "lang": "fa",
+        "name": "نازک‌مرغ تایتا"
+      },
+      {
+        "lang": "fr",
+        "name": "Apalis des Taita"
+      },
+      {
+        "lang": "nl",
+        "name": "Taita-apalis"
+      },
+      {
+        "lang": "sv",
+        "name": "taitaapalis"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apalis flavigularis",
     "common_names": [
       {
         "lang": "en",
-        "name": "Yellow-breasted Apalis"
+        "name": "Yellow-throated apalis"
+      },
+      {
+        "lang": "fr",
+        "name": "Apalis noir et jaune"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelkeelapalis"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsintah ńdiitsʼį́įhii bizééʼ łitsooígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "gulstrupig apalis"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Apalis flavida",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Geelborskleinjantjie"
+      },
+      {
+        "lang": "cy",
+        "name": "Apalis bronfelyn"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-breasted apalis"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltarinta-apali"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelborstapalis"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsintah ńdiitsʼį́įhii bitéél łitsooígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "gulbröstad apalis"
       }
     ]
   },
@@ -116,7 +268,32 @@
   },
   {
     "scientific_name": "Apalis chapini",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chapin's apalis"
+      },
+      {
+        "lang": "es",
+        "name": "Apalis de Chapin"
+      },
+      {
+        "lang": "fi",
+        "name": "Tansanianapali"
+      },
+      {
+        "lang": "fr",
+        "name": "Apalis de Chapin"
+      },
+      {
+        "lang": "nl",
+        "name": "Chapins apalis"
+      },
+      {
+        "lang": "sv",
+        "name": "Chapinapalis"
+      }
+    ]
   },
   {
     "scientific_name": "Apalis binotata",

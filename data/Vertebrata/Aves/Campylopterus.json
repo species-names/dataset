@@ -9,37 +9,47 @@
     ]
   },
   {
-    "scientific_name": "Campylopterus rufus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Rufous Sabrewing"
-      },
-      {
-        "lang": "es",
-        "name": "Colibrí rojizo mexicano"
-      }
-    ]
-  },
-  {
     "scientific_name": "Campylopterus phainopeplus",
     "common_names": [
       {
         "lang": "en",
         "name": "Santa Marta Sabrewing"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Campylopterus pampa",
-    "common_names": [
+      },
       {
-        "lang": "en",
-        "name": "Wedge-tailed Sabrewing"
+        "lang": "ca",
+        "name": "Colibrí de Santa Marta"
+      },
+      {
+        "lang": "cy",
+        "name": "Cleddasgell Santa Marta"
+      },
+      {
+        "lang": "de",
+        "name": "Santa-Marta-Degenflügel"
       },
       {
         "lang": "es",
-        "name": "Colibrí pampa"
+        "name": "colibrí de Santa Marta"
+      },
+      {
+        "lang": "fi",
+        "name": "Kolumbiansapelikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Campyloptère des Santa Marta"
+      },
+      {
+        "lang": "nl",
+        "name": "Santamartasabelvleugel"
+      },
+      {
+        "lang": "nn",
+        "name": "Santamartasabelveng"
+      },
+      {
+        "lang": "sv",
+        "name": "santamartasabelvinge"
       }
     ]
   },
@@ -78,7 +88,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "kolibřík fialkový"
+        "name": "Kolibřík fialkový"
       },
       {
         "lang": "da",
@@ -98,11 +108,11 @@
       },
       {
         "lang": "et",
-        "name": "sini-saabelkoolibri"
+        "name": "Sini-saabelkoolibri"
       },
       {
         "lang": "fi",
-        "name": "violettisapelikolibri"
+        "name": "Violettisapelikolibri"
       },
       {
         "lang": "fr",
@@ -110,7 +120,7 @@
       },
       {
         "lang": "hu",
-        "name": "lila kardoskolibri"
+        "name": "Lila kardoskolibri"
       },
       {
         "lang": "it",
@@ -133,7 +143,7 @@
       },
       {
         "lang": "pl",
-        "name": "zapylak fioletowy"
+        "name": "Zapylak fioletowy"
       },
       {
         "lang": "ru",
@@ -141,7 +151,7 @@
       },
       {
         "lang": "sk",
-        "name": "kolibrík svietivý"
+        "name": "Kolibrík svietivý"
       },
       {
         "lang": "sv",
@@ -226,15 +236,6 @@
     ]
   },
   {
-    "scientific_name": "Campylopterus excellens",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Long-tailed Sabrewing"
-      }
-    ]
-  },
-  {
     "scientific_name": "Campylopterus ensipennis",
     "common_names": [
       {
@@ -277,15 +278,15 @@
     ]
   },
   {
-    "scientific_name": "Campylopterus curvipennis",
+    "scientific_name": "Campylopterus diamantinensis",
     "common_names": [
       {
-        "lang": "es",
-        "name": "Colibrí ruiseñor"
+        "lang": "en",
+        "name": "Diamantina Sabrewing"
       },
       {
-        "lang": "en",
-        "name": "Curve-winged sabrewing"
+        "lang": "pt-br",
+        "name": "Asa-de-sabre-do-espinhaço"
       }
     ]
   },
@@ -299,6 +300,10 @@
       {
         "lang": "pl",
         "name": "Zapylak zaroślowy"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Asa-de-sabre-da-mata-seca"
       }
     ]
   }

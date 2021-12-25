@@ -8,10 +8,11 @@
       },
       {
         "lang": "ast",
-        "name": "Pardina",
-        "synonyms": [
-          "Pardiña"
-        ]
+        "name": "Pardiña"
+      },
+      {
+        "lang": "atj",
+        "name": "Pirew"
       },
       {
         "lang": "az",
@@ -22,15 +23,20 @@
         "name": "Reebhendel"
       },
       {
+        "lang": "bat-smg",
+        "name": "Korapka"
+      },
+      {
         "lang": "be",
-        "name": "Шэрая курапатка",
-        "synonyms": [
-          "курапатка"
-        ]
+        "name": "Шэрая курапатка"
       },
       {
         "lang": "bg",
         "name": "Яребица"
+      },
+      {
+        "lang": "bo",
+        "name": "སྲེག་ཆུང་།"
       },
       {
         "lang": "br",
@@ -46,7 +52,7 @@
       },
       {
         "lang": "cs",
-        "name": "koroptev polní"
+        "name": "Koroptev polní"
       },
       {
         "lang": "csb",
@@ -58,7 +64,7 @@
       },
       {
         "lang": "cw",
-        "name": "grugyar"
+        "name": "Grugyar"
       },
       {
         "lang": "cy",
@@ -70,11 +76,11 @@
       },
       {
         "lang": "de",
-        "name": "Rebhuhn (Art)"
+        "name": "Rebhuhn"
       },
       {
-        "lang": "dsb, Lower",
-        "name": "kurwota"
+        "lang": "dsb",
+        "name": "Kurwota"
       },
       {
         "lang": "el",
@@ -82,12 +88,7 @@
       },
       {
         "lang": "en",
-        "name": "Gray Partridge",
-        "synonyms": [
-          "Grey Partridge",
-          "Hungarian partridge",
-          "Partridge"
-        ]
+        "name": "Grey Partridge"
       },
       {
         "lang": "eo",
@@ -99,7 +100,7 @@
       },
       {
         "lang": "et",
-        "name": "hallfrankoliin"
+        "name": "Nurmkana"
       },
       {
         "lang": "eu",
@@ -107,15 +108,15 @@
       },
       {
         "lang": "fa",
-        "name": "کبک (پرنده)"
+        "name": "کبک خاکستری"
       },
       {
         "lang": "fi",
-        "name": "peltopyy"
+        "name": "Peltopyy"
       },
       {
         "lang": "fo",
-        "name": "akurhøna"
+        "name": "Akurhøna"
       },
       {
         "lang": "fr",
@@ -127,11 +128,11 @@
       },
       {
         "lang": "fur",
-        "name": "pernîs"
+        "name": "Pernîs"
       },
       {
         "lang": "fy",
-        "name": "patriis"
+        "name": "Patriis"
       },
       {
         "lang": "ga",
@@ -147,22 +148,19 @@
       },
       {
         "lang": "gv",
-        "name": "Kiark Rennee",
-        "synonyms": [
-          "patrag"
-        ]
+        "name": "Kiark Rennee"
       },
       {
         "lang": "he",
-        "name": "חגלית"
+        "name": "חוגלית אפורה"
       },
       {
         "lang": "hr",
-        "name": "skvržulja"
+        "name": "Skvržulja"
       },
       {
-        "lang": "hsb, Upper",
-        "name": "kurotwa"
+        "lang": "hsb",
+        "name": "Kurotwa"
       },
       {
         "lang": "hu",
@@ -170,7 +168,7 @@
       },
       {
         "lang": "hy",
-        "name": "Կաքավ մոխրագույն"
+        "name": "Մոխրագույն կաքավ"
       },
       {
         "lang": "io",
@@ -186,10 +184,7 @@
       },
       {
         "lang": "ja",
-        "name": "ヨーロッパヤマウズラ",
-        "synonyms": [
-          "yoaroppayamauzura"
-        ]
+        "name": "ヨーロッパヤマウズラ"
       },
       {
         "lang": "ka",
@@ -208,8 +203,12 @@
         "name": "Сұр шіл"
       },
       {
+        "lang": "ko",
+        "name": "유럽자고새"
+      },
+      {
         "lang": "ks",
-        "name": "[Chakor]"
+        "name": "Chakor"
       },
       {
         "lang": "ku",
@@ -217,7 +216,7 @@
       },
       {
         "lang": "lad",
-        "name": "gialina da mont"
+        "name": "Gialina da mont"
       },
       {
         "lang": "lt",
@@ -225,11 +224,15 @@
       },
       {
         "lang": "lv",
-        "name": "laukirbe"
+        "name": "Laukirbe"
       },
       {
         "lang": "mk",
         "name": "еребица"
+      },
+      {
+        "lang": "ml",
+        "name": "ഗ്രേ പാർഡ്രിഡ്ജ്"
       },
       {
         "lang": "mn",
@@ -237,10 +240,7 @@
       },
       {
         "lang": "mt",
-        "name": "ħaġla",
-        "synonyms": [
-          "îaġla"
-        ]
+        "name": "ħaġla"
       },
       {
         "lang": "myv",
@@ -272,7 +272,7 @@
       },
       {
         "lang": "pl",
-        "name": "Kuropatwa"
+        "name": "Kuropatwa zwyczajna"
       },
       {
         "lang": "pt",
@@ -280,10 +280,7 @@
       },
       {
         "lang": "rm",
-        "name": "Pernisch",
-        "synonyms": [
-          "pernisch grischa"
-        ]
+        "name": "Pernisch grischa"
       },
       {
         "lang": "ro",
@@ -295,27 +292,27 @@
       },
       {
         "lang": "sc",
-        "name": "istarna"
+        "name": "Istarna"
       },
       {
         "lang": "se",
-        "name": "bealdobakku"
+        "name": "Bealdobakku"
       },
       {
         "lang": "sk",
-        "name": "jarabica poľná"
+        "name": "Jarabica poľná"
       },
       {
         "lang": "sl",
-        "name": "Jerebica (ptica)"
+        "name": "Jerebica"
       },
       {
         "lang": "sq",
-        "name": "thëllëza e fushës"
+        "name": "Thëllëza e fushës"
       },
       {
         "lang": "sr",
-        "name": "Пољска јаребица"
+        "name": "Јаребица"
       },
       {
         "lang": "stq",
@@ -326,16 +323,20 @@
         "name": "Rapphöna"
       },
       {
-        "lang": "tk",
-        "name": "çilkeklik"
-      },
-      {
         "lang": "tl",
         "name": "Pugong labuyo"
       },
       {
+        "lang": "tk",
+        "name": "Çil keklik"
+      },
+      {
         "lang": "tr",
         "name": "Çil keklik"
+      },
+      {
+        "lang": "tt",
+        "name": "Соры көртлек"
       },
       {
         "lang": "tyv",
@@ -354,6 +355,10 @@
         "name": "Pöudpü"
       },
       {
+        "lang": "vi",
+        "name": "Gà so xám"
+      },
+      {
         "lang": "vls",
         "name": "Patryze"
       },
@@ -367,12 +372,24 @@
     "scientific_name": "Perdix hodgsoniae",
     "common_names": [
       {
+        "lang": "bh",
+        "name": "तिब्बती तीतर"
+      },
+      {
         "lang": "bn",
         "name": "तिब्बती तीतर"
       },
       {
+        "lang": "ca",
+        "name": "Perdiu del Tibet"
+      },
+      {
         "lang": "cs",
         "name": "Koroptev tibetská"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen Tibet"
       },
       {
         "lang": "da",
@@ -387,29 +404,28 @@
         "name": "Tibetan Partridge"
       },
       {
+        "lang": "eo",
+        "name": "Tibeta perdriko"
+      },
+      {
         "lang": "es",
         "name": "Perdiz tibetana"
       },
       {
         "lang": "et",
-        "name": "Koldkurk-mägikana",
-        "synonyms": [
-          "Tiibeti nurmkana"
-        ]
+        "name": "Koldkurk-mägikana"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک تبتی"
       },
       {
         "lang": "fi",
-        "name": "Tiibetinpeltopyy",
-        "synonyms": [
-          "tiibetinpyy"
-        ]
+        "name": "Tiibetinpeltopyy"
       },
       {
         "lang": "fr",
-        "name": "Perdrix de Hodgson",
-        "synonyms": [
-          "Perdrix du Tibet"
-        ]
+        "name": "Perdrix de Hodgson"
       },
       {
         "lang": "hi",
@@ -417,19 +433,15 @@
       },
       {
         "lang": "hu",
-        "name": "tibeti fogoly"
+        "name": "Tibeti fogoly"
       },
       {
         "lang": "it",
-        "name": "Starna del Tibet",
-        "synonyms": [
-          "Starna di Hodgson",
-          "Starna tibetana"
-        ]
+        "name": "Starna del Tibet"
       },
       {
         "lang": "ja",
-        "name": "チベットヤマウズラ [chibettoyamauzura]"
+        "name": "チベットヤマウズラ"
       },
       {
         "lang": "ne",
@@ -441,17 +453,11 @@
       },
       {
         "lang": "no",
-        "name": "Fjallrapphøne",
-        "synonyms": [
-          "Fjellrapphøne"
-        ]
+        "name": "Fjallrapphøne"
       },
       {
         "lang": "pl",
-        "name": "Kuropatwa tybetanska",
-        "synonyms": [
-          "Kuropatwa tybetańska"
-        ]
+        "name": "Kuropatwa tybetańska"
       },
       {
         "lang": "pnb",
@@ -463,21 +469,15 @@
       },
       {
         "lang": "ru",
-        "name": "Тибетская куропатка",
-        "synonyms": [
-          "Центральноазиатская Куропатка"
-        ]
+        "name": "Тибетская куропатка"
       },
       {
         "lang": "sk",
-        "name": "jarabica vrchovská"
+        "name": "Jarabica vrchovská"
       },
       {
         "lang": "sv",
-        "name": "Tibetansk rapphöna",
-        "synonyms": [
-          "Tibetrapphöna"
-        ]
+        "name": "Tibetansk rapphöna"
       },
       {
         "lang": "zh",
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "scientific_name": "Perdix dauuricae",
+    "scientific_name": "Perdix dauurica",
     "common_names": [
       {
         "lang": "be",
@@ -497,6 +497,14 @@
         "name": "Perdiu dàurica"
       },
       {
+        "lang": "cs",
+        "name": "Koroptev vousatá"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen Dawria"
+      },
+      {
         "lang": "de",
         "name": "Bartrebhuhn"
       },
@@ -505,8 +513,20 @@
         "name": "Daurian Partridge"
       },
       {
+        "lang": "eo",
+        "name": "Dauria perdriko"
+      },
+      {
         "lang": "es",
         "name": "Perdiz dáurica"
+      },
+      {
+        "lang": "eu",
+        "name": "Eper bizardun"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک دوری"
       },
       {
         "lang": "fr",
@@ -525,6 +545,10 @@
         "name": "Сақалды кекілік"
       },
       {
+        "lang": "mn",
+        "name": "Дагуур ятуу"
+      },
+      {
         "lang": "nl",
         "name": "Baardpatrijs"
       },
@@ -533,8 +557,16 @@
         "name": "Бородатая куропатка"
       },
       {
+        "lang": "sk",
+        "name": "Jarabica bradatá"
+      },
+      {
         "lang": "sv",
         "name": "Stäpprapphöna"
+      },
+      {
+        "lang": "zh",
+        "name": "斑翅山鹑"
       }
     ]
   }

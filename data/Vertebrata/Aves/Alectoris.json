@@ -3,6 +3,14 @@
     "scientific_name": "Alectoris rufa",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حجل أحمر الساقين"
+      },
+      {
+        "lang": "bg",
+        "name": "Червен кеклик"
+      },
+      {
         "lang": "br",
         "name": "Klujar ruz"
       },
@@ -12,11 +20,11 @@
       },
       {
         "lang": "cs",
-        "name": "orebice rudá"
+        "name": "Orebice rudá"
       },
       {
         "lang": "cy",
-        "name": "Petrisen Goesgoch"
+        "name": "Petrisen goesgoch"
       },
       {
         "lang": "da",
@@ -43,8 +51,12 @@
         "name": "Eper gorri"
       },
       {
+        "lang": "fa",
+        "name": "کبک پاسرخ"
+      },
+      {
         "lang": "fi",
-        "name": "punapyy"
+        "name": "Punapyy"
       },
       {
         "lang": "fo",
@@ -55,8 +67,16 @@
         "name": "Perdrix rouge"
       },
       {
+        "lang": "ga",
+        "name": "Patraisc chosdearg"
+      },
+      {
         "lang": "gl",
         "name": "Perdiz común"
+      },
+      {
+        "lang": "he",
+        "name": "חוגלה אדמונית"
       },
       {
         "lang": "hu",
@@ -72,10 +92,15 @@
       },
       {
         "lang": "ja",
-        "name": "アカアシイワシャコ",
-        "synonyms": [
-          "akaashiiwashako"
-        ]
+        "name": "アカアシイワシャコ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар кеклик"
+      },
+      {
+        "lang": "ms",
+        "name": "Siul Kaki Merah"
       },
       {
         "lang": "nl",
@@ -87,14 +112,15 @@
       },
       {
         "lang": "pl",
-        "name": "góropatwa czerwona"
+        "name": "Góropatwa czerwona"
+      },
+      {
+        "lang": "pnb",
+        "name": "لال لتا چکور"
       },
       {
         "lang": "pt",
-        "name": "Perdiz-comum",
-        "synonyms": [
-          "Perdiz-vermelha"
-        ]
+        "name": "Perdiz-vermelha"
       },
       {
         "lang": "ru",
@@ -102,7 +128,7 @@
       },
       {
         "lang": "sk",
-        "name": "kuropta červená"
+        "name": "Kuropta červená"
       },
       {
         "lang": "sv",
@@ -181,36 +207,156 @@
     "scientific_name": "Alectoris graeca",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حجل الصخر"
+      },
+      {
+        "lang": "bg",
+        "name": "Планински кеклик"
+      },
+      {
+        "lang": "br",
+        "name": "Klujar-roc'h"
+      },
+      {
+        "lang": "ca",
+        "name": "Perdiu de roca"
+      },
+      {
+        "lang": "cs",
+        "name": "Orebice horská"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen graig"
+      },
+      {
         "lang": "de",
-        "name": "Alpensteinhuhn"
+        "name": "Steinhuhn"
+      },
+      {
+        "lang": "el",
+        "name": "Πετροπέρδικα"
       },
       {
         "lang": "en",
         "name": "Rock Partridge"
       },
       {
+        "lang": "eo",
+        "name": "Rokperdriko"
+      },
+      {
+        "lang": "es",
+        "name": "Perdiz griega"
+      },
+      {
+        "lang": "eu",
+        "name": "Greziar eper"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک صخره"
+      },
+      {
+        "lang": "fi",
+        "name": "Kivikkopyy"
+      },
+      {
         "lang": "fr",
-        "name": "Bartavelle"
+        "name": "Perdrix bartavelle"
+      },
+      {
+        "lang": "gl",
+        "name": "Perdiz grega"
+      },
+      {
+        "lang": "hu",
+        "name": "Szirtifogoly"
       },
       {
         "lang": "it",
-        "name": "Coturnice"
+        "name": "Coturnìce"
       },
       {
         "lang": "ja",
         "name": "ハイイロイワシャコ"
       },
       {
+        "lang": "ka",
+        "name": "კაკაბი"
+      },
+      {
+        "lang": "mk",
+        "name": "Еребица камењарка"
+      },
+      {
+        "lang": "mrj",
+        "name": "Европа кеклик"
+      },
+      {
+        "lang": "nap",
+        "name": "Pernice"
+      },
+      {
         "lang": "nl",
-        "name": "Europese steenpatrijs"
+        "name": "Steenpatrijs"
+      },
+      {
+        "lang": "no",
+        "name": "Steinhøne"
       },
       {
         "lang": "pl",
         "name": "Góropatwa skalna"
       },
       {
+        "lang": "pnb",
+        "name": "پڑی چکور"
+      },
+      {
+        "lang": "pt",
+        "name": "Perdiz-grega"
+      },
+      {
+        "lang": "ro",
+        "name": "Potârniche de stâncă"
+      },
+      {
+        "lang": "ru",
+        "name": "Европейский кеклик"
+      },
+      {
+        "lang": "sl",
+        "name": "Kotorna"
+      },
+      {
+        "lang": "sq",
+        "name": "Thëllëza e malit"
+      },
+      {
+        "lang": "sr",
+        "name": "Јаребица камењарка"
+      },
+      {
         "lang": "sv",
         "name": "Stenhöna"
+      },
+      {
+        "lang": "tr",
+        "name": "Kaya kekliği"
+      },
+      {
+        "lang": "uk",
+        "name": "Кеклик європейський"
+      },
+      {
+        "lang": "xmf",
+        "name": "კოკობე"
+      },
+      {
+        "lang": "zh",
+        "name": "欧石鸡"
       }
     ]
   },
@@ -218,12 +364,44 @@
     "scientific_name": "Alectoris chukar",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Asiatiese patrys"
+      },
+      {
+        "lang": "ar",
+        "name": "حجل شوكار"
+      },
+      {
+        "lang": "azb",
+        "name": "خینالی ککلیک"
+      },
+      {
+        "lang": "az",
+        "name": "Xınalı kəklik"
+      },
+      {
         "lang": "bg",
         "name": "Тракийски кеклик"
       },
       {
+        "lang": "bh",
+        "name": "चकोर"
+      },
+      {
         "lang": "br",
         "name": "Klujar choukar"
+      },
+      {
+        "lang": "ca",
+        "name": "Perdiu chukar"
+      },
+      {
+        "lang": "ckb",
+        "name": "کەو"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen siwcar"
       },
       {
         "lang": "de",
@@ -231,15 +409,23 @@
       },
       {
         "lang": "en",
-        "name": "Chukar"
+        "name": "Chukar Partridge"
       },
       {
         "lang": "eo",
-        "name": "Ĉukaro"
+        "name": "Ĉukara perdriko"
       },
       {
         "lang": "es",
-        "name": "Perdiz Chucar"
+        "name": "Perdiz chucar"
+      },
+      {
+        "lang": "eu",
+        "name": "Turkiar eper"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک چوکار"
       },
       {
         "lang": "fi",
@@ -252,6 +438,10 @@
       {
         "lang": "he",
         "name": "חוגלת סלעים"
+      },
+      {
+        "lang": "hi",
+        "name": "चकोर"
       },
       {
         "lang": "hu",
@@ -270,16 +460,60 @@
         "name": "イワシャコ"
       },
       {
+        "lang": "kbd",
+        "name": "Къуршджэд"
+      },
+      {
+        "lang": "kk",
+        "name": "Кекілік"
+      },
+      {
+        "lang": "ko",
+        "name": "추카"
+      },
+      {
         "lang": "ku",
-        "name": "Kew"
+        "name": "Kewê sor"
+      },
+      {
+        "lang": "mn",
+        "name": "Эрээнхавирга хахилаг"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ази кеклик"
+      },
+      {
+        "lang": "ne",
+        "name": "च्याखुरा"
+      },
+      {
+        "lang": "nl",
+        "name": "Aziatische steenpatrijs"
+      },
+      {
+        "lang": "nn",
+        "name": "Berghøne"
       },
       {
         "lang": "no",
         "name": "Berghøne"
       },
       {
+        "lang": "nv",
+        "name": "Naaʼahóóhai noodǫ́zígíí"
+      },
+      {
+        "lang": "pa",
+        "name": "ਚਕੋਰ"
+      },
+      {
         "lang": "pl",
         "name": "Góropatwa azjatycka"
+      },
+      {
+        "lang": "pnb",
+        "name": "چکور"
       },
       {
         "lang": "pt",
@@ -287,7 +521,11 @@
       },
       {
         "lang": "ru",
-        "name": "Кеклик"
+        "name": "Азиатский кеклик"
+      },
+      {
+        "lang": "sd",
+        "name": "چڪور"
       },
       {
         "lang": "sv",
@@ -296,6 +534,18 @@
       {
         "lang": "tr",
         "name": "Kınalı keklik"
+      },
+      {
+        "lang": "uk",
+        "name": "Кеклик азійський"
+      },
+      {
+        "lang": "ur",
+        "name": "چکور"
+      },
+      {
+        "lang": "uz",
+        "name": "Kaklik"
       },
       {
         "lang": "zh",
@@ -307,32 +557,108 @@
     "scientific_name": "Alectoris barbara",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حجل بربري"
+      },
+      {
+        "lang": "bg",
+        "name": "Берберски кеклик"
+      },
+      {
+        "lang": "br",
+        "name": "Klujar gakelik"
+      },
+      {
+        "lang": "ca",
+        "name": "Perdiu nord-africana"
+      },
+      {
+        "lang": "cs",
+        "name": "Orebice berberská"
+      },
+      {
+        "lang": "cy",
+        "name": "Petrisen Barbari"
+      },
+      {
+        "lang": "da",
+        "name": "Berberhøne"
+      },
+      {
         "lang": "de",
-        "name": "Alpensteinhuhn"
+        "name": "Felsenhuhn"
       },
       {
         "lang": "en",
         "name": "Barbary Partridge"
       },
       {
+        "lang": "eo",
+        "name": "Berbera perdriko"
+      },
+      {
         "lang": "es",
         "name": "Perdiz moruna"
       },
       {
+        "lang": "eu",
+        "name": "Afrikar eper"
+      },
+      {
+        "lang": "fa",
+        "name": "کبک بربری"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalliopyy"
+      },
+      {
         "lang": "fr",
-        "name": "Perdrix rouge de Barbarie"
+        "name": "Perdrix gambra"
       },
       {
         "lang": "gl",
         "name": "Perdiz moura"
       },
       {
-        "lang": "ca",
-        "name": "Perdiu d'Àfrica"
+        "lang": "hu",
+        "name": "Barnanyakú szirtifogoly"
       },
       {
-        "lang": "eu",
-        "name": "Eper afrikarra"
+        "lang": "it",
+        "name": "Pernice sarda"
+      },
+      {
+        "lang": "mrj",
+        "name": "Бербери кеклик"
+      },
+      {
+        "lang": "nl",
+        "name": "Barbarijse patrijs"
+      },
+      {
+        "lang": "no",
+        "name": "Berberhøne"
+      },
+      {
+        "lang": "pl",
+        "name": "Góropatwa berberyjska"
+      },
+      {
+        "lang": "pnb",
+        "name": "بربری چکور"
+      },
+      {
+        "lang": "ru",
+        "name": "Берберийская каменная куропатка"
+      },
+      {
+        "lang": "sc",
+        "name": "Perdija"
+      },
+      {
+        "lang": "sr",
+        "name": "Афричка камењарка"
       },
       {
         "lang": "sv",

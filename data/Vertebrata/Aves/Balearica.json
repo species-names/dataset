@@ -92,10 +92,6 @@
     "scientific_name": "Balearica pavonina",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "Кърухьэгуагуэ"
-      },
-      {
         "lang": "ar",
         "name": "كركي متوج"
       },
@@ -121,7 +117,7 @@
       },
       {
         "lang": "es",
-        "name": "grulla coronada cuellinegra"
+        "name": "Grulla coronada cuellinegra"
       },
       {
         "lang": "eu",
@@ -144,12 +140,24 @@
         "name": "עגור כתר שחור"
       },
       {
+        "lang": "hu",
+        "name": "Feketenyakú koronásdaru"
+      },
+      {
         "lang": "it",
         "name": "Gru coronata nera"
       },
       {
+        "lang": "ja",
+        "name": "カンムリヅル"
+      },
+      {
         "lang": "ka",
         "name": "გვირგვინოსანი წერო"
+      },
+      {
+        "lang": "kbd",
+        "name": "Кърухьэгуагуэ"
       },
       {
         "lang": "kk",
@@ -160,24 +168,16 @@
         "name": "Karūnuotoji gervė"
       },
       {
-        "lang": "hu",
-        "name": "Feketenyakú koronásdaru"
-      },
-      {
         "lang": "mn",
         "name": "Хар залаат тогоруу"
-      },
-      {
-        "lang": "nl",
-        "name": "Zwarte kroonkraan"
       },
       {
         "lang": "nds",
         "name": "Swart Kronenkraan"
       },
       {
-        "lang": "ja",
-        "name": "カンムリヅル"
+        "lang": "nl",
+        "name": "Zwarte kroonkraan"
       },
       {
         "lang": "pl",

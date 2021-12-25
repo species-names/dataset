@@ -5,6 +5,10 @@
       {
         "lang": "en",
         "name": "Blue-winged Mountain-tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara aliazul"
       }
     ]
   },
@@ -14,6 +18,10 @@
       {
         "lang": "en",
         "name": "Black-chinned Mountain-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara barbinegra"
       }
     ]
   },
@@ -23,15 +31,37 @@
       {
         "lang": "en",
         "name": "Santa Marta Mountain-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de Santa Marta"
       }
     ]
   },
   {
     "scientific_name": "Anisognathus lacrymosus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lacrimose Mountain-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara lacrimosa"
+      }
+    ]
   },
   {
     "scientific_name": "Anisognathus igniventris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Fire-bellied Mountain-tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara ventrinaranja"
+      }
+    ]
   }
 ]

@@ -55,7 +55,16 @@
   },
   {
     "scientific_name": "Incaspiza personata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-backed Inca-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Incaspiza dorsirrufo"
+      }
+    ]
   },
   {
     "scientific_name": "Incaspiza ortizi",
@@ -66,7 +75,7 @@
       },
       {
         "lang": "en",
-        "name": "Grey-winged Inca finch"
+        "name": "Grey-winged Inca-finch"
       },
       {
         "lang": "es",
@@ -88,6 +97,15 @@
   },
   {
     "scientific_name": "Incaspiza laeta",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-bridled Inca-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Incaspiza bigotudo"
+      }
+    ]
   }
 ]

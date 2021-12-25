@@ -66,8 +66,40 @@
     "scientific_name": "Leucosticte australis",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Llinos wridog y De"
+      },
+      {
+        "lang": "en",
+        "name": "Brown-capped rosy finch"
+      },
+      {
+        "lang": "eo",
+        "name": "Brunkapa leŭkostikto"
+      },
+      {
+        "lang": "fi",
+        "name": "Coloradonvuoripeippo"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin à tête brune"
+      },
+      {
         "lang": "ja",
         "name": "チャボウシハギマシコ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinkapbergvink"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídiishzhiin dinilchííʼí bitsiitʼáád dibéłchíʼígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "brunkronad alpfink"
       }
     ]
   },
@@ -77,6 +109,38 @@
       {
         "lang": "ja",
         "name": "クロハギマシコ"
+      },
+      {
+        "lang": "cy",
+        "name": "Llinos wridog ddu"
+      },
+      {
+        "lang": "en",
+        "name": "Black rosy finch"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigra leŭkostikto"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustavuoripeippo"
+      },
+      {
+        "lang": "fr",
+        "name": "Roselin noir"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte bergvink"
+      },
+      {
+        "lang": "nv",
+        "name": "Dził Ashdlaʼiidę́ę́ʼ tsídiishzhiin dinilchíʼígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "svart alpfink"
       }
     ]
   },

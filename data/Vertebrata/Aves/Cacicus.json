@@ -1,7 +1,16 @@
 [
   {
     "scientific_name": "Cacicus uropygialis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scarlet-rumped Cacique"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique subtropical"
+      }
+    ]
   },
   {
     "scientific_name": "Cacicus solitarius",
@@ -85,6 +94,46 @@
       {
         "lang": "es",
         "name": "Cacique de Koepcke"
+      },
+      {
+        "lang": "ar",
+        "name": "كاسيك سيلفا"
+      },
+      {
+        "lang": "cy",
+        "name": "Casig y goedwig law"
+      },
+      {
+        "lang": "de",
+        "name": "Koepckekassike"
+      },
+      {
+        "lang": "eo",
+        "name": "Perua kaciko"
+      },
+      {
+        "lang": "fr",
+        "name": "Cassique de Koepcke"
+      },
+      {
+        "lang": "hu",
+        "name": "Erdei kacika"
+      },
+      {
+        "lang": "nl",
+        "name": "Loretobuidelspreeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Selvaskasik"
+      },
+      {
+        "lang": "pt",
+        "name": "Tecelão-do-acre"
+      },
+      {
+        "lang": "sv",
+        "name": "flodkasik"
       }
     ]
   },
@@ -148,14 +197,35 @@
   },
   {
     "scientific_name": "Cacicus chrysonotus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "mountain cacique"
+      },
+      {
+        "lang": "eo",
+        "name": "montokaciko"
+      },
+      {
+        "lang": "es",
+        "name": "cacique montano sureñofr"
+      }
+    ]
   },
   {
     "scientific_name": "Cacicus cela",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "كاسيك أصفر الزمكى"
+      },
+      {
+        "lang": "cy",
+        "name": "Casig tinfelyn"
+      },
+      {
         "lang": "de",
-        "name": "Gelbrücken-Stirnvogel"
+        "name": "Gelbbürzelkassike"
       },
       {
         "lang": "en",
@@ -166,6 +236,10 @@
         "name": "Flavpuga kaciko"
       },
       {
+        "lang": "es",
+        "name": "Cacique lomiamarillo"
+      },
+      {
         "lang": "fi",
         "name": "Kultaperäkasikki"
       },
@@ -174,20 +248,20 @@
         "name": "Cassique cul-jaune"
       },
       {
+        "lang": "hu",
+        "name": "Sárgafarkú kacika"
+      },
+      {
         "lang": "nl",
         "name": "Geelstuitbuidelspreeuw"
       },
       {
+        "lang": "no",
+        "name": "Gulgumpkasik"
+      },
+      {
         "lang": "pt",
-        "name": "Xexéu",
-        "synonyms": [
-          "japi",
-          "japim",
-          "japiim",
-          "baguá",
-          "bom-é",
-          "joão-conguinho"
-        ]
+        "name": "Xexéu"
       },
       {
         "lang": "ru",
@@ -195,7 +269,7 @@
       },
       {
         "lang": "sv",
-        "name": "Gulgumpkasik"
+        "name": "Gulgumpad kasik"
       }
     ]
   }

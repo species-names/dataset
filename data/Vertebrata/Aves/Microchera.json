@@ -1,10 +1,103 @@
 [
   {
+    "scientific_name": "Microchera cupreiceps",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kolibřík měděnohlavý"
+      },
+      {
+        "lang": "da",
+        "name": "Kobberisset Smaragd"
+      },
+      {
+        "lang": "de",
+        "name": "Bronzekopf-Elvirakolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Coppery-headed Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda Capirotada"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuparitaskukolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri à tête cuivrée"
+      },
+      {
+        "lang": "hu",
+        "name": "Rezes smaragdkolibri"
+      },
+      {
+        "lang": "it",
+        "name": "Colibrì testa di rame"
+      },
+      {
+        "lang": "ja",
+        "name": "ドウボウシハチドリ",
+        "synonyms": [
+          "douboushihachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Koperkopsmaragdkolibrie"
+      },
+      {
+        "lang": "no",
+        "name": "Kobberkronekolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "Diamencik kostarykański"
+      },
+      {
+        "lang": "ru",
+        "name": "Медноголовая эльвира"
+      },
+      {
+        "lang": "sk",
+        "name": "Kolibrík medenohlavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Kopparhuvad smaragd"
+      },
+      {
+        "lang": "zh",
+        "name": "铜头丽蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Microchera chionura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-tailed Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda de Elvira"
+      }
+    ]
+  },
+  {
     "scientific_name": "Microchera albocoronata",
     "common_names": [
       {
         "lang": "en",
         "name": "Snowcap"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí coroniblanco"
       }
     ]
   }

@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Ortalis remota",
-    "common_names": []
-  },
-  {
     "scientific_name": "Ortalis wagleri",
     "common_names": [
       {
@@ -110,12 +106,30 @@
         "name": "Buff-browed Chachalaca"
       },
       {
-        "lang": "pt",
-        "name": "Aracuã"
+        "lang": "pt-br",
+        "name": "Aracuã-de-sobrancelhas"
       },
       {
         "lang": "sv",
         "name": "Beigebrynad chachalaca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ortalis squamata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scaled Chachalaca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ortalis ruficeps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-headed Chachalaca"
       }
     ]
   },
@@ -189,6 +203,14 @@
       {
         "lang": "sv",
         "name": "Spräcklig chachalaca"
+      },
+      {
+        "lang": "es",
+        "name": "Chachalaca moteada"
+      },
+      {
+        "lang": "pt",
+        "name": "aracuã-pintado"
       }
     ]
   },
@@ -214,7 +236,52 @@
       },
       {
         "lang": "sv",
-        "name": "Rosthuvad chachalaca"
+        "name": "rosthuvad chachalaca"
+      },
+      {
+        "lang": "ar",
+        "name": "شاشالاكا أصهب الرأس"
+      },
+      {
+        "lang": "ca",
+        "name": "Txatxalaca cap-roig"
+      },
+      {
+        "lang": "cy",
+        "name": "Cacalaca pengoch"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝflugila ortalo"
+      },
+      {
+        "lang": "fr",
+        "name": "Ortalide à tête rousse"
+      },
+      {
+        "lang": "ja",
+        "name": "ズアカヒメシャクケイ"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkopchachalaca"
+      },
+      {
+        "lang": "nv",
+        "name": "Atseentélí bítááʼ halchíʼí"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ortalis columbiana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Colombian Chachalaca"
+      },
+      {
+        "lang": "es",
+        "name": "Chachalaca colombiana"
       }
     ]
   },
@@ -243,11 +310,11 @@
       },
       {
         "lang": "et",
-        "name": "panama tšatšalaka"
+        "name": "Panama tšatšalaka"
       },
       {
         "lang": "fi",
-        "name": "panamankaklattaja"
+        "name": "Panamankaklattaja"
       },
       {
         "lang": "fr",
@@ -255,7 +322,7 @@
       },
       {
         "lang": "hu",
-        "name": "szürkefejű erdeityúk"
+        "name": "Szürkefejű erdeityúk"
       },
       {
         "lang": "it",
@@ -278,7 +345,7 @@
       },
       {
         "lang": "pl",
-        "name": "czakalaka szarogłowa"
+        "name": "Czakalaka szarogłowa"
       },
       {
         "lang": "pt",
@@ -312,6 +379,15 @@
       {
         "lang": "sv",
         "name": "Gråhalsad chachalaca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ortalis araucuan",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "East Brazilian Chachalaca"
       }
     ]
   }

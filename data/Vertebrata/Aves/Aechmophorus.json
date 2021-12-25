@@ -3,12 +3,28 @@
     "scientific_name": "Aechmophorus occidentalis",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "غطاس غربي"
+      },
+      {
+        "lang": "bg",
+        "name": "Западен гмурец"
+      },
+      {
         "lang": "br",
         "name": "Plomer ar c'hornôg"
       },
       {
+        "lang": "ca",
+        "name": "Cabussó nord-americà comú"
+      },
+      {
         "lang": "cs",
-        "name": "potápka západní"
+        "name": "Potápka západní"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwyach y Gorllewin"
       },
       {
         "lang": "da",
@@ -23,16 +39,32 @@
         "name": "Western Grebe"
       },
       {
+        "lang": "eo",
+        "name": "Okcidenta grebo"
+      },
+      {
         "lang": "es",
         "name": "Achichilique Común"
       },
       {
+        "lang": "et",
+        "name": "Suurpütt"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم غربی"
+      },
+      {
         "lang": "fi",
-        "name": "pitkäkaulauikku"
+        "name": "Pitkäkaulauikku"
       },
       {
         "lang": "fr",
         "name": "Grèbe élégant"
+      },
+      {
+        "lang": "he",
+        "name": "טבלן מערבי"
       },
       {
         "lang": "hu",
@@ -44,10 +76,11 @@
       },
       {
         "lang": "ja",
-        "name": "クビナガカイツブリ",
-        "synonyms": [
-          "amerikakaitsuburi"
-        ]
+        "name": "クビナガカイツブリ"
+      },
+      {
+        "lang": "nah",
+        "name": "Ācachichictli"
       },
       {
         "lang": "nl",
@@ -58,8 +91,16 @@
         "name": "Svanedykker"
       },
       {
+        "lang": "nv",
+        "name": "Naalʼeełii keelóóltsoh biniiʼ łizhinígíí"
+      },
+      {
         "lang": "pl",
         "name": "Perkoz wielki"
+      },
+      {
+        "lang": "pnb",
+        "name": "لیندی ڈبکنی"
       },
       {
         "lang": "pt",
@@ -67,21 +108,15 @@
       },
       {
         "lang": "ru",
-        "name": "Западная поганка",
-        "synonyms": [
-          "Западноамериканская поганка"
-        ]
+        "name": "Западноамериканская поганка"
       },
       {
         "lang": "sk",
-        "name": "potápka ostrozobá"
+        "name": "Potápka ostrozobá"
       },
       {
         "lang": "sv",
-        "name": "Mörk svandopping",
-        "synonyms": [
-          "Svartbrynad svandopping"
-        ]
+        "name": "Mörk svandopping"
       },
       {
         "lang": "zh",
@@ -90,19 +125,91 @@
     ]
   },
   {
+    "scientific_name": "Aechmophorus elasson",
+    "common_names": []
+  },
+  {
     "scientific_name": "Aechmophorus clarkii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "غطاس كلارك"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabussó nord-americà carablanc"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwyach Clark"
+      },
+      {
+        "lang": "de",
+        "name": "Clarktaucher"
+      },
+      {
         "lang": "en",
         "name": "Clark's Grebe"
+      },
+      {
+        "lang": "eo",
+        "name": "Klarka grebo"
       },
       {
         "lang": "es",
         "name": "Achichilique de Clark"
       },
       {
+        "lang": "fa",
+        "name": "کشیم کلارک"
+      },
+      {
+        "lang": "fi",
+        "name": "Meksikonuikku"
+      },
+      {
         "lang": "fr",
-        "name": "grèbe à face blanche"
+        "name": "Grèbe à face blanche"
+      },
+      {
+        "lang": "he",
+        "name": "טבלן קלארק"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérarcú vöcsök"
+      },
+      {
+        "lang": "it",
+        "name": "Svasso cigno di Clark"
+      },
+      {
+        "lang": "ja",
+        "name": "クラークカイツブリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Clarks fuut"
+      },
+      {
+        "lang": "no",
+        "name": "Gulnebbdykker"
+      },
+      {
+        "lang": "nv",
+        "name": "Naalʼeełii keelóóltsoh bitsiitʼáád halzhinígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Perkoz żółtodzioby"
+      },
+      {
+        "lang": "pnb",
+        "name": "کلارک ڈبکنی"
+      },
+      {
+        "lang": "ru",
+        "name": "Поганка Кларка"
       },
       {
         "lang": "sv",

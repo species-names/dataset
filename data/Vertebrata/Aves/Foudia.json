@@ -53,7 +53,7 @@
       },
       {
         "lang": "sv",
-        "name": "Mauritiusfody"
+        "name": "mauritiusfody"
       },
       {
         "lang": "zh",
@@ -153,7 +153,55 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Red-headed Fody"
+        "name": "Red-headed Fody",
+        "synonyms": [
+          "Comoros fody"
+        ]
+      },
+      {
+        "lang": "cy",
+        "name": "Ffwdi Masgarîn"
+      },
+      {
+        "lang": "fa",
+        "name": "گنجشک یخ‌دربهشت سرسرخ"
+      },
+      {
+        "lang": "fi",
+        "name": "Maskareenienkutoja"
+      },
+      {
+        "lang": "fr",
+        "name": "Foudi des Comores"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар вуян фуди"
+      },
+      {
+        "lang": "nl",
+        "name": "Comorenwever"
+      },
+      {
+        "lang": "sv",
+        "name": "komorfody"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Foudia aldabrana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Aldabra fody"
+      },
+      {
+        "lang": "nl",
+        "name": "Aldabrawever"
+      },
+      {
+        "lang": "sv",
+        "name": "aldabrafody"
       }
     ]
   }

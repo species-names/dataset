@@ -305,47 +305,204 @@
     "scientific_name": "Motacilla citreola",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Sitrienkwikkie"
+      },
+      {
+        "lang": "ar",
+        "name": "ذعرة صفراء الرأس"
+      },
+      {
         "lang": "be",
         "name": "Жоўтагаловая сітаўка"
       },
       {
+        "lang": "bg",
+        "name": "Лимонена стърчиопашка"
+      },
+      {
+        "lang": "bh",
+        "name": "पानी के पिलकिया"
+      },
+      {
+        "lang": "br",
+        "name": "Kannerez sitroñs"
+      },
+      {
+        "lang": "ca",
+        "name": "Cuereta citrina"
+      },
+      {
+        "lang": "csb",
+        "name": "Cytrónowô plëszka"
+      },
+      {
+        "lang": "cs",
+        "name": "Konipas citronový"
+      },
+      {
+        "lang": "cv",
+        "name": "Сарă пуçлă пăрчăкан"
+      },
+      {
+        "lang": "cy",
+        "name": "Siglen sitraidd"
+      },
+      {
+        "lang": "de",
+        "name": "Zitronenstelze"
+      },
+      {
         "lang": "en",
-        "name": "Citrine Wagtail",
-        "synonyms": [
-          "Yellow-headed Wagtail"
-        ]
+        "name": "Citrine Wagtail"
+      },
+      {
+        "lang": "eo",
+        "name": "Citronmotacilo"
+      },
+      {
+        "lang": "es",
+        "name": "Lavandera cetrina"
       },
       {
         "lang": "et",
         "name": "Kuldhänilane"
       },
       {
+        "lang": "eu",
+        "name": "Buztanikara zitrino"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌جنبانک سیترین"
+      },
+      {
         "lang": "fi",
         "name": "Sitruunavästäräkki"
       },
       {
+        "lang": "fo",
+        "name": "Mýrierla"
+      },
+      {
+        "lang": "fr",
+        "name": "Bergeronnette citrine"
+      },
+      {
+        "lang": "he",
+        "name": "נחליאלי לימוני"
+      },
+      {
+        "lang": "hu",
+        "name": "Citrombillegető"
+      },
+      {
         "lang": "hy",
-        "name": "Խաղտտնիկ դեղնագլուխ"
+        "name": "Դեղնագլուխ խաղտտնիկ"
+      },
+      {
+        "lang": "ja",
+        "name": "キガシラセキレイ"
+      },
+      {
+        "lang": "kbd",
+        "name": "МывэкӀэпысщхьэгъуэжь"
+      },
+      {
+        "lang": "kk",
+        "name": "Сарыбас шақшақай"
+      },
+      {
+        "lang": "lt",
+        "name": "Geltongalvė kielė"
       },
       {
         "lang": "lv",
-        "name": "Dzeltengalvas cielava"
+        "name": "Citroncielava"
+      },
+      {
+        "lang": "ml",
+        "name": "മഞ്ഞത്തലയൻ വാലുകുലുക്കി"
+      },
+      {
+        "lang": "mn",
+        "name": "Шартүрүүт цэгцгий"
+      },
+      {
+        "lang": "ne",
+        "name": "बेसारे टिकटिके"
+      },
+      {
+        "lang": "nl",
+        "name": "Citroenkwikstaart"
+      },
+      {
+        "lang": "nn",
+        "name": "Sitronerle"
+      },
+      {
+        "lang": "no",
+        "name": "Sitronerle"
+      },
+      {
+        "lang": "pa",
+        "name": "ਪੀਲਾ ਮਮੋਲਾ"
       },
       {
         "lang": "pl",
         "name": "Pliszka cytrynowa"
       },
       {
-        "lang": "sr",
-        "name": "Жутоглава плиска (Žutoglava pliska)"
+        "lang": "pnb",
+        "name": "پیلا سر ممولہ"
+      },
+      {
+        "lang": "ps",
+        "name": "هندواڼۍ"
+      },
+      {
+        "lang": "pt",
+        "name": "Alvéola-citrina"
       },
       {
         "lang": "ru",
         "name": "Желтоголовая трясогузка"
       },
       {
+        "lang": "sah",
+        "name": "Маҥаас сылгычыай"
+      },
+      {
+        "lang": "sk",
+        "name": "Trasochvost žltohlavý"
+      },
+      {
+        "lang": "sr",
+        "name": "Жутоглава плиска - Žutoglava pliska"
+      },
+      {
+        "lang": "sv",
+        "name": "Citronärla"
+      },
+      {
         "lang": "tr",
-        "name": "Sarı Başlı Kuyruksallayan"
+        "name": "Sarı başlı kuyruksallayan"
+      },
+      {
+        "lang": "udm",
+        "name": "Ӵуж йыро йӧгылтӥсь"
+      },
+      {
+        "lang": "uk",
+        "name": "Плиска жовтоголова"
+      },
+      {
+        "lang": "vi",
+        "name": "Chìa vôi đầu vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "黄头鹡鸰"
       }
     ]
   },
@@ -353,16 +510,48 @@
     "scientific_name": "Motacilla cinerea",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Gryskwikkie"
+      },
+      {
+        "lang": "ar",
+        "name": "ذعرة رمادية"
+      },
+      {
+        "lang": "ba",
+        "name": "Тау сәпсеге"
+      },
+      {
         "lang": "be",
         "name": "Горная сітаўка"
+      },
+      {
+        "lang": "bg",
+        "name": "Планинска стърчиопашка"
+      },
+      {
+        "lang": "bh",
+        "name": "स्लेटी खड़िच्ची"
+      },
+      {
+        "lang": "br",
+        "name": "Kannerez louet"
       },
       {
         "lang": "ca",
         "name": "Cuereta torrentera"
       },
       {
-        "lang": "cz",
+        "lang": "cs",
         "name": "Konipas horský"
+      },
+      {
+        "lang": "cy",
+        "name": "Siglen lwyd"
+      },
+      {
+        "lang": "da",
+        "name": "Bjergvipstjert"
       },
       {
         "lang": "de",
@@ -373,24 +562,60 @@
         "name": "Grey Wagtail"
       },
       {
+        "lang": "eo",
+        "name": "Montarmotacilo"
+      },
+      {
         "lang": "es",
         "name": "Lavandera cascadeña"
       },
       {
+        "lang": "et",
+        "name": "Jõgivästrik"
+      },
+      {
         "lang": "eu",
-        "name": "Buztanikara horia"
+        "name": "Buztanikara hori"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌جنبانک خاکستری"
       },
       {
         "lang": "fi",
         "name": "Virtavästäräkki"
       },
       {
+        "lang": "fo",
+        "name": "Áarerla"
+      },
+      {
+        "lang": "fr",
+        "name": "Bergeronnette des ruisseaux"
+      },
+      {
+        "lang": "ga",
+        "name": "Glasóg liath"
+      },
+      {
         "lang": "gl",
         "name": "Lavandeira real"
       },
       {
+        "lang": "he",
+        "name": "נחליאלי זנבתן"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyi billegető"
+      },
+      {
         "lang": "hy",
-        "name": "Խաղտտնիկ լեռնային"
+        "name": "Լեռնային խաղտտնիկ"
+      },
+      {
+        "lang": "id",
+        "name": "Kicuit batu"
       },
       {
         "lang": "it",
@@ -401,8 +626,52 @@
         "name": "キセキレイ"
       },
       {
+        "lang": "ka",
+        "name": "ბზეწვია"
+      },
+      {
+        "lang": "kbd",
+        "name": "КъуршмывэкӀэпыс"
+      },
+      {
+        "lang": "kk",
+        "name": "Тау шақшақайы"
+      },
+      {
+        "lang": "ko",
+        "name": "노랑할미새"
+      },
+      {
+        "lang": "lt",
+        "name": "Kalninė kielė"
+      },
+      {
         "lang": "lv",
         "name": "Pelēkā cielava"
+      },
+      {
+        "lang": "mk",
+        "name": "Планинска тресиопашка"
+      },
+      {
+        "lang": "ml",
+        "name": "വഴികുലുക്കി"
+      },
+      {
+        "lang": "ne",
+        "name": "फुस्रो टिकटिके"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote gele kwikstaart"
+      },
+      {
+        "lang": "nn",
+        "name": "Vintererle"
+      },
+      {
+        "lang": "no",
+        "name": "Vintererle"
       },
       {
         "lang": "pl",
@@ -421,12 +690,40 @@
         "name": "Trasochvost horský"
       },
       {
+        "lang": "sr",
+        "name": "Поточна плиска"
+      },
+      {
+        "lang": "sv",
+        "name": "Forsärla"
+      },
+      {
+        "lang": "ta",
+        "name": "சாம்பல்நிற வாலாட்டிக் குருவி"
+      },
+      {
         "lang": "tr",
         "name": "Dağ kuyruksallayanı"
       },
       {
+        "lang": "uk",
+        "name": "Плиска гірська"
+      },
+      {
         "lang": "vec",
         "name": "Baticoa"
+      },
+      {
+        "lang": "vi",
+        "name": "Chìa vôi xám"
+      },
+      {
+        "lang": "wa",
+        "name": "Hosse-cou d' aiwe"
+      },
+      {
+        "lang": "zh",
+        "name": "灰鶺鴒"
       }
     ]
   },
@@ -476,6 +773,47 @@
       {
         "lang": "sv",
         "name": "Kapärla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Motacilla bocagii",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Telor hirbig Bocage"
+      },
+      {
+        "lang": "de",
+        "name": "Bräunling"
+      },
+      {
+        "lang": "en",
+        "name": "São Tomé Shorttail"
+      },
+      {
+        "lang": "es",
+        "name": "Picolargo de Bocage"
+      },
+      {
+        "lang": "fi",
+        "name": "Sãotoménkerttu"
+      },
+      {
+        "lang": "nl",
+        "name": "Bocages langsnavelzanger"
+      },
+      {
+        "lang": "pl",
+        "name": "Kusopliszka"
+      },
+      {
+        "lang": "sv",
+        "name": "Sãotoméärla"
+      },
+      {
+        "lang": "zh",
+        "name": "包氏短尾雀"
       }
     ]
   },
@@ -536,7 +874,7 @@
       },
       {
         "lang": "ce",
-        "name": "Ḱayn H̗úrćáldig - КIайн ХIуьрцIалдиг"
+        "name": "Ḱayn H̗úrćáldig - Кӏайн Хӏуьрцӏалдиг"
       },
       {
         "lang": "co",
@@ -584,7 +922,10 @@
       },
       {
         "lang": "es",
-        "name": "Lavandera Blanca"
+        "name": "Lavandera Blanca",
+        "synonyms": [
+          "aguzanieves"
+        ]
       },
       {
         "lang": "et",

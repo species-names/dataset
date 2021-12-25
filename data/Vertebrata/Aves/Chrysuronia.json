@@ -1,10 +1,213 @@
 [
   {
+    "scientific_name": "Chrysuronia versicolor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Versicoloured Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia versicolor"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-de-banda-branca"
+      }
+    ]
+  },
+  {
     "scientific_name": "Chrysuronia oenone",
     "common_names": [
       {
         "lang": "en",
         "name": "Golden-tailed Sapphire"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-de-cauda-dourada"
+      },
+      {
+        "lang": "es",
+        "name": "Zafiro colidorado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chrysuronia lilliae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sapphire-bellied Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí ventrizafiro"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí de ventre safir"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn torsaffir"
+      },
+      {
+        "lang": "de",
+        "name": "Blaubauchkolibri"
+      },
+      {
+        "lang": "fi",
+        "name": "Kolumbianruohokolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri de Lillie"
+      },
+      {
+        "lang": "nl",
+        "name": "Lillies kolibrie"
+      },
+      {
+        "lang": "nn",
+        "name": "Safirbukkolibri"
+      },
+      {
+        "lang": "sv",
+        "name": "safirbukig smaragd"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chrysuronia leucogaster",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Plain-bellied Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia ventriblanca"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-de-barriga-branca"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chrysuronia humboldtii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chrysuronia grayi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-headed Sapphire"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia cabeciazul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chrysuronia goudoti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Shining-green Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Goudot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chrysuronia coeruleogularis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kolibřík safírovohrdlý"
+      },
+      {
+        "lang": "da",
+        "name": "Safirstrubet Kolibri"
+      },
+      {
+        "lang": "de",
+        "name": "Blaukehlkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Sapphire-throated Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí gorgizafiro"
+      },
+      {
+        "lang": "fi",
+        "name": "Siniruohokolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri faux-saphir"
+      },
+      {
+        "lang": "it",
+        "name": "Colibrì gola di zaffiro"
+      },
+      {
+        "lang": "ja",
+        "name": "ルリノドハチドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Saffierkeelkolibrie"
+      },
+      {
+        "lang": "no",
+        "name": "Safirstrupekolibri"
+      },
+      {
+        "lang": "pl",
+        "name": "Miłek niebieskogardły"
+      },
+      {
+        "lang": "ru",
+        "name": "Синегорлая лепидопига"
+      },
+      {
+        "lang": "sk",
+        "name": "Kolibrík modrohrdlý"
+      },
+      {
+        "lang": "sv",
+        "name": "Safirstrupig kolibri"
+      },
+      {
+        "lang": "zh",
+        "name": "青喉蜂鸟"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chrysuronia brevirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-chested Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Amazilia pechiblanca"
+      },
+      {
+        "lang": "pt-br",
+        "name": "beija-flor-de-bico-preto"
       }
     ]
   }

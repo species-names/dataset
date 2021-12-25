@@ -1,5 +1,17 @@
 [
   {
+    "scientific_name": "Trogon ramonianus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Trogon mesurus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Trogon chionurus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Trogon viridis",
     "common_names": [
       {
@@ -24,16 +36,56 @@
     "scientific_name": "Trogon violaceus",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Trogon limestra"
+      },
+      {
+        "lang": "ca",
+        "name": "Trogon violaci"
+      },
+      {
         "lang": "da",
         "name": "Blågul trogon"
       },
       {
         "lang": "en",
-        "name": "Violaceous Trogon"
+        "name": "Guianan Trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón violáceo"
+      },
+      {
+        "lang": "fa",
+        "name": "لانه‌کن گینه"
+      },
+      {
+        "lang": "fi",
+        "name": "Pikkutrogoni"
+      },
+      {
+        "lang": "fr",
+        "name": "Trogon violacé"
+      },
+      {
+        "lang": "hu",
+        "name": "Lilafejű aranytrogon"
+      },
+      {
+        "lang": "nl",
+        "name": "Guyanatrogon"
+      },
+      {
+        "lang": "pnb",
+        "name": "ویولیسز ٹروگن"
       },
       {
         "lang": "pt",
         "name": "Surucuá-miudinho"
+      },
+      {
+        "lang": "sv",
+        "name": "Guyanatrogon"
       }
     ]
   },
@@ -279,6 +331,10 @@
     "scientific_name": "Trogon curucui",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Blauscheiteltrogon"
+      },
+      {
         "lang": "en",
         "name": "Blue-crowned Trogon"
       }
@@ -298,7 +354,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "trogon limcový"
+        "name": "trogon límcový"
       },
       {
         "lang": "da",
@@ -400,87 +456,88 @@
     ]
   },
   {
+    "scientific_name": "Trogon caligatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gartered Trogon"
+      },
+      {
+        "lang": "da",
+        "name": "Violethovedet Trogon"
+      },
+      {
+        "lang": "fr",
+        "name": "Trogon pattu"
+      },
+      {
+        "lang": "it",
+        "name": "Trogone violaceo settentrionale"
+      },
+      {
+        "lang": "nl",
+        "name": "Goulds Trogon"
+      },
+      {
+        "lang": "pl",
+        "name": "trogon wyżynny"
+      },
+      {
+        "lang": "sk",
+        "name": "trogón stužkatý"
+      },
+      {
+        "lang": "sv",
+        "name": "Nordlig Violetthuvad trogon"
+      }
+    ]
+  },
+  {
     "scientific_name": "Trogon bairdii",
     "common_names": [
       {
         "lang": "en",
         "name": "Baird's Trogon"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Trogon aurantiiventris",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "trogon zlatobrichý"
       },
       {
-        "lang": "da",
-        "name": "Orangebuget Trogon"
+        "lang": "ca",
+        "name": "Trogon de Baird"
       },
       {
-        "lang": "de",
-        "name": "Goldbauchtrogon"
-      },
-      {
-        "lang": "en",
-        "name": "Orange-bellied Trogon"
+        "lang": "cy",
+        "name": "Trogon Baird"
       },
       {
         "lang": "es",
-        "name": "Surucuá de Vientre Naranja"
+        "name": "Trogón de Baird"
       },
       {
-        "lang": "et",
-        "name": "tulikõht-järanokk"
+        "lang": "fa",
+        "name": "لانه‌کن بیرد"
       },
       {
         "lang": "fi",
-        "name": "panamantrogoni"
+        "name": "Sinirintatrogoni"
       },
       {
         "lang": "fr",
-        "name": "Trogon à ventre orange"
+        "name": "Trogon de Baird"
       },
       {
-        "lang": "it",
-        "name": "Trogone ventrearancio"
-      },
-      {
-        "lang": "ja",
-        "name": "オレンジキヌバネドリ",
-        "synonyms": [
-          "orenjikinubanedori"
-        ]
+        "lang": "hu",
+        "name": "Baird-trogon"
       },
       {
         "lang": "nl",
-        "name": "Oranjebuiktrogon"
+        "name": "Bairds trogon"
       },
       {
-        "lang": "no",
-        "name": "Ildbuktrogon"
-      },
-      {
-        "lang": "pl",
-        "name": "trogon złotobrzuchy"
-      },
-      {
-        "lang": "ru",
-        "name": "Златобрюхий трогон"
-      },
-      {
-        "lang": "sk",
-        "name": "trogón kostarický"
+        "lang": "pnb",
+        "name": "بیرڈ ٹروگن"
       },
       {
         "lang": "sv",
-        "name": "Orangebukad trogon"
-      },
-      {
-        "lang": "zh",
-        "name": "橙腹美洲咬鹃"
+        "name": "bairdtrogon"
       }
     ]
   }

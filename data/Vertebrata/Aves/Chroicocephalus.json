@@ -19,6 +19,10 @@
         "name": "Andean Gull"
       },
       {
+        "lang": "eo",
+        "name": "Anda mevo"
+      },
+      {
         "lang": "es",
         "name": "Gaviota Andina"
       },
@@ -40,8 +44,20 @@
         "name": "Racek čínský"
       },
       {
+        "lang": "de",
+        "name": "Kappenmöwe"
+      },
+      {
         "lang": "en",
         "name": "Saunders's Gull"
+      },
+      {
+        "lang": "eo",
+        "name": "Ĉina mevo"
+      },
+      {
+        "lang": "fi",
+        "name": "Kiinannaurulokki"
       },
       {
         "lang": "fr",
@@ -54,10 +70,6 @@
       {
         "lang": "ko",
         "name": "검은머리갈매기"
-      },
-      {
-        "lang": "fi",
-        "name": "Kiinannaurulokki"
       },
       {
         "lang": "zh",
@@ -138,10 +150,7 @@
       },
       {
         "lang": "en",
-        "name": "Black-headed Gull",
-        "synonyms": [
-          "Common Black-headed Gull"
-        ]
+        "name": "Black-headed Gull"
       },
       {
         "lang": "eo",
@@ -213,7 +222,7 @@
       },
       {
         "lang": "id",
-        "name": "Burung Camar Kepala-hitam"
+        "name": "Camar kepala hitam"
       },
       {
         "lang": "is",
@@ -229,7 +238,7 @@
       },
       {
         "lang": "ka",
-        "name": "ტბის (ჩვეულებრივი) თოლია"
+        "name": "ტბის თოლია"
       },
       {
         "lang": "kjn",
@@ -248,13 +257,6 @@
         "name": "붉은부리갈매기"
       },
       {
-        "lang": "la",
-        "name": "Chroicocephalus ridibundus",
-        "synonyms": [
-          "Larus ridibundus"
-        ]
-      },
-      {
         "lang": "lb",
         "name": "Laachméiw"
       },
@@ -268,7 +270,7 @@
       },
       {
         "lang": "mk",
-        "name": "Обичен (Езерски) галеб"
+        "name": "Обичен галеб"
       },
       {
         "lang": "ml",
@@ -276,14 +278,11 @@
       },
       {
         "lang": "mn",
-        "name": "Хүрэн толгойт цахлай",
-        "synonyms": [
-          "ᠬᠦᠷᠡᠩ ᠲᠣᠯᠣᠭᠠᠢᠢᠲᠣ ᠴᠠᠬᠣᠯᠠᠢ"
-        ]
+        "name": "Хүрэн толгойт цахлай - ᠬᠦᠷᠡᠩ ᠲᠣᠯᠣᠭᠠᠢᠢᠲᠣ ᠴᠠᠬᠣᠯᠠᠢ"
       },
       {
         "lang": "ms",
-        "name": "Burung Camar Kepala Hitam"
+        "name": "Camar kepala hitam"
       },
       {
         "lang": "mt",
@@ -339,10 +338,7 @@
       },
       {
         "lang": "sr",
-        "name": "Obicni galeb",
-        "synonyms": [
-          "Обични галеб"
-        ]
+        "name": "Obicni galeb - Обични галеб"
       },
       {
         "lang": "sv",
@@ -354,7 +350,7 @@
       },
       {
         "lang": "ta",
-        "name": "Karunthalai Kadal Kakkai"
+        "name": "கருந்தலை கடல் காக்கை"
       },
       {
         "lang": "th",
@@ -374,7 +370,7 @@
       },
       {
         "lang": "vi",
-        "name": "Chim Mòng bể"
+        "name": "Chim Mòng biển"
       },
       {
         "lang": "zh",
@@ -395,7 +391,7 @@
       },
       {
         "lang": "cs",
-        "name": "racek Bonapartův"
+        "name": "Racek Bonapartův"
       },
       {
         "lang": "cy",
@@ -415,7 +411,7 @@
       },
       {
         "lang": "eo",
-        "name": "Bonapartea mevo"
+        "name": "Bonaparta mevo"
       },
       {
         "lang": "es",
@@ -423,7 +419,7 @@
       },
       {
         "lang": "et",
-        "name": "kuusekajakas"
+        "name": "Kuusekajakas"
       },
       {
         "lang": "eu",
@@ -431,7 +427,7 @@
       },
       {
         "lang": "fi",
-        "name": "kuusilokki"
+        "name": "Kuusilokki"
       },
       {
         "lang": "fo",
@@ -471,10 +467,7 @@
       },
       {
         "lang": "ja",
-        "name": "ボナパルトカモメ",
-        "synonyms": [
-          "bonaparutokamome"
-        ]
+        "name": "ボナパルトカモメ"
       },
       {
         "lang": "lt",
@@ -490,7 +483,7 @@
       },
       {
         "lang": "pl",
-        "name": "mewa kanadyjska"
+        "name": "Mewa kanadyjska"
       },
       {
         "lang": "pt",
@@ -502,14 +495,11 @@
       },
       {
         "lang": "sk",
-        "name": "čajka čiernozobá"
+        "name": "Čajka čiernozobá"
       },
       {
         "lang": "sl",
-        "name": "ameriški rečni galeb",
-        "synonyms": [
-          "bonapartov galeb"
-        ]
+        "name": "Ameriški rečni galeb"
       },
       {
         "lang": "sv",
@@ -618,6 +608,10 @@
         "name": "Brown-hooded Gull"
       },
       {
+        "lang": "eo",
+        "name": "Patagona mevo"
+      },
+      {
         "lang": "es",
         "name": "Gaviota Cahuil"
       },
@@ -643,14 +637,6 @@
     "scientific_name": "Chroicocephalus hartlaubii",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Racek kapský"
-      },
-      {
-        "lang": "en",
-        "name": "Hartlaub's Gull"
-      },
-      {
         "lang": "af",
         "name": "Hartlaubse meeu"
       },
@@ -667,16 +653,32 @@
         "name": "Gavina de Hartlaub"
       },
       {
+        "lang": "cs",
+        "name": "Racek kapský"
+      },
+      {
         "lang": "cy",
         "name": "Gwylan Hartlaub"
+      },
+      {
+        "lang": "da",
+        "name": "Namibmåge"
       },
       {
         "lang": "de",
         "name": "Hartlaubmöwe"
       },
       {
+        "lang": "en",
+        "name": "Hartlaub's Gull"
+      },
+      {
         "lang": "eo",
         "name": "Hartlaŭba mevo"
+      },
+      {
+        "lang": "es",
+        "name": "Gaviota plateada surafricana"
       },
       {
         "lang": "fa",
@@ -691,6 +693,10 @@
         "name": "Mouette de Hartlaub"
       },
       {
+        "lang": "it",
+        "name": "Gabbiano di Hartlaub"
+      },
+      {
         "lang": "nl",
         "name": "Hartlaubs meeuw"
       },
@@ -700,7 +706,7 @@
       },
       {
         "lang": "sv",
-        "name": "kapmås"
+        "name": "Kapmås"
       },
       {
         "lang": "vi",
@@ -732,12 +738,20 @@
         "name": "Slender-billed Gull"
       },
       {
+        "lang": "eo",
+        "name": "Maldikbeka mevo"
+      },
+      {
         "lang": "es",
         "name": "Gaviota picofina"
       },
       {
         "lang": "fr",
         "name": "Goéland railleur"
+      },
+      {
+        "lang": "hu",
+        "name": "Vékonycsőrű sirály"
       },
       {
         "lang": "nl",
@@ -868,6 +882,34 @@
       {
         "lang": "ja",
         "name": "ハシグロカモメ"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavina de Buller"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan Buller"
+      },
+      {
+        "lang": "fa",
+        "name": "کاکایی نوک‌سیاه"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartsnavelmeeuw"
+      },
+      {
+        "lang": "nn",
+        "name": "Maorimåse"
+      },
+      {
+        "lang": "nv",
+        "name": "Łeesdísí Bikéyahdę́ę́ʼ tónteel tsídii bidaaʼ łizhinígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "svartnäbbad mås"
       }
     ]
   },
@@ -937,6 +979,10 @@
       {
         "lang": "zh",
         "name": "棕头鸥"
+      },
+      {
+        "lang": "ta",
+        "name": "சாம்பல் தலை கடல் பறவை"
       }
     ]
   }

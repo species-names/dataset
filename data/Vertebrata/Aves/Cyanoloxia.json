@@ -1,5 +1,30 @@
 [
   {
+    "scientific_name": "Cyanoloxia rothschildii",
+    "common_names": [
+      {
+        "lang": "nl",
+        "name": "Rothschilds bisschop"
+      },
+      {
+        "lang": "sv",
+        "name": "rothschildkardinal"
+      },
+      {
+        "lang": "en",
+        "name": "Rothschild's Grosbeak"
+      },
+      {
+        "lang": "es",
+        "name": "Picogrueso amazónico"
+      },
+      {
+        "lang": "pt",
+        "name": "Azulão-da-amazônia"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cyanoloxia glaucocaerulea",
     "common_names": [
       {
@@ -13,6 +38,40 @@
       {
         "lang": "es",
         "name": "Reinamora chica"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanoloxia cyanoides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-black Grosbeak"
+      },
+      {
+        "lang": "es",
+        "name": "Picogrueso negriazul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanoloxia brissonii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ultramarine Grosbeak"
+      },
+      {
+        "lang": "pt",
+        "name": "Azulão-verdadeiro"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Azulão"
+      },
+      {
+        "lang": "es",
+        "name": "Picogrueso de Brisson"
       }
     ]
   }

@@ -1,5 +1,51 @@
 [
   {
+    "scientific_name": "Melopyrrha violacea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Greater Antillean Bullfinch"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero prieto"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile petit-coq"
+      },
+      {
+        "lang": "pt",
+        "name": "Loxigilla violacea"
+      },
+      {
+        "lang": "sv",
+        "name": "Större antillfink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Melopyrrha portoricensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Puerto Rican bullfinch"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero puertorriqueño"
+      },
+      {
+        "lang": "fr",
+        "name": "Pèrenoir de Porto Rico"
+      },
+      {
+        "lang": "sv",
+        "name": "Puertoricofink"
+      }
+    ]
+  },
+  {
     "scientific_name": "Melopyrrha nigra",
     "common_names": [
       {
@@ -8,7 +54,7 @@
       },
       {
         "lang": "es",
-        "name": "Negrito"
+        "name": "Semillero negrito"
       },
       {
         "lang": "fr",
@@ -17,6 +63,19 @@
       {
         "lang": "sv",
         "name": "Svart biskop"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Melopyrrha grandis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "St. Kitts Bullfinch"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero de San Cristóbal"
       }
     ]
   }

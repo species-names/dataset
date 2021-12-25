@@ -1,22 +1,5 @@
 [
   {
-    "scientific_name": "Chlorostilbon gibsoni",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Chlorostilbon melanorhynchus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Chlorostilbon swainsonii",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Hispaniolan Emerald"
-      }
-    ]
-  },
-  {
     "scientific_name": "Chlorostilbon stenurus",
     "common_names": [
       {
@@ -39,79 +22,6 @@
     ]
   },
   {
-    "scientific_name": "Chlorostilbon ricordii",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "kolibřík kubánský"
-      },
-      {
-        "lang": "da",
-        "name": "Cubasmaragd"
-      },
-      {
-        "lang": "de",
-        "name": "Kubasmaragdkolibri"
-      },
-      {
-        "lang": "en",
-        "name": "Cuban Emerald"
-      },
-      {
-        "lang": "es",
-        "name": "Esmeralda Zunzún"
-      },
-      {
-        "lang": "fi",
-        "name": "kuubansmaragdikolibri"
-      },
-      {
-        "lang": "fr",
-        "name": "Émeraude de Ricord"
-      },
-      {
-        "lang": "hu",
-        "name": "zöld smaragdkolibri"
-      },
-      {
-        "lang": "it",
-        "name": "Colibrì smeraldo di Cuba"
-      },
-      {
-        "lang": "ja",
-        "name": "キューバヒメエメラルドハチドリ"
-      },
-      {
-        "lang": "nl",
-        "name": "Cubaanse Smaragdkolibrie"
-      },
-      {
-        "lang": "no",
-        "name": "Kubasmaragd"
-      },
-      {
-        "lang": "pl",
-        "name": "złocik kubański"
-      },
-      {
-        "lang": "ru",
-        "name": "Кубинский изумрудный колибри"
-      },
-      {
-        "lang": "sk",
-        "name": "smaragdovec drobný"
-      },
-      {
-        "lang": "sv",
-        "name": "Kubasmaragd"
-      },
-      {
-        "lang": "zh",
-        "name": "古巴翠蜂鸟"
-      }
-    ]
-  },
-  {
     "scientific_name": "Chlorostilbon poortmani",
     "common_names": [
       {
@@ -130,19 +40,6 @@
       {
         "lang": "pl",
         "name": "złocik zielony"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Chlorostilbon notatus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Blue-chinned Sapphire"
-      },
-      {
-        "lang": "pt",
-        "name": "Beija-flor-de-garganta-azul"
       }
     ]
   },
@@ -179,18 +76,15 @@
     ]
   },
   {
-    "scientific_name": "Chlorostilbon maugaeus",
+    "scientific_name": "Chlorostilbon melanorhynchus",
     "common_names": [
       {
         "lang": "en",
-        "name": "Puerto Rican Emerald"
+        "name": "West Andean Emerald"
       },
       {
-        "lang": "sk",
-        "name": "smaragdovec portorický",
-        "synonyms": [
-          "kolibrík portorický"
-        ]
+        "lang": "es",
+        "name": "Esmeralda occidental"
       }
     ]
   },
@@ -208,101 +102,17 @@
     ]
   },
   {
-    "scientific_name": "Chlorostilbon forficatus",
+    "scientific_name": "Chlorostilbon gibsoni",
     "common_names": [
       {
         "lang": "en",
-        "name": "Cozumel Emerald"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Chlorostilbon canivetii",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "kolibrík klínoocasý"
-      },
-      {
-        "lang": "da",
-        "name": "Kløfthalet Smaragd"
-      },
-      {
-        "lang": "de",
-        "name": "Gabelschwanzkolibri"
-      },
-      {
-        "lang": "en",
-        "name": "Canivet's Emerald",
-        "synonyms": [
-          "Fork-tailed Emerald"
-        ]
+        "name": "Red-billed Emerald"
       },
       {
         "lang": "es",
-        "name": "Esmeralda de Canivet"
-      },
-      {
-        "lang": "fi",
-        "name": "pääskysmaragdikolibri"
-      },
-      {
-        "lang": "fr",
-        "name": "Émeraude de Canivet"
-      },
-      {
-        "lang": "it",
-        "name": "Smeraldo di Canivet"
-      },
-      {
-        "lang": "ja",
-        "name": "エンビヒメエメラルドハチドリ",
-        "synonyms": [
-          "enbihimeemerarudohachidori"
-        ]
-      },
-      {
-        "lang": "nl",
-        "name": "Vorkstaartsmaragdkolibrie"
-      },
-      {
-        "lang": "no",
-        "name": "Mayasmaragd"
-      },
-      {
-        "lang": "pl",
-        "name": "złocik widłosterny"
-      },
-      {
-        "lang": "ru",
-        "name": "Вилохвостый изумрудный колибри"
-      },
-      {
-        "lang": "sk",
-        "name": "smaragdovec pôvabný"
-      },
-      {
-        "lang": "sv",
-        "name": "Svalstjärtad smaragd"
+        "name": "Esmeralda piquirroja"
       }
     ]
-  },
-  {
-    "scientific_name": "Chlorostilbon auriceps",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Golden-crowned Emerald"
-      },
-      {
-        "lang": "fr",
-        "name": "Émeraude couronnée"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Chlorostilbon aureoventris",
-    "common_names": []
   },
   {
     "scientific_name": "Chlorostilbon assimilis",

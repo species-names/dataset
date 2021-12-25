@@ -5,20 +5,79 @@
       {
         "lang": "en",
         "name": "Venezuelan Flowerpiercer"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwanwr blodau Venezuela"
+      },
+      {
+        "lang": "de",
+        "name": "Trauerhakenschnabel"
+      },
+      {
+        "lang": "fa",
+        "name": "گل‌شکاف ونزوئلایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Percefleur du Venezuela"
+      },
+      {
+        "lang": "nl",
+        "name": "Rouwberghoningkruiper"
+      },
+      {
+        "lang": "pnb",
+        "name": "وینزویلی پھل ٹھونگا"
+      },
+      {
+        "lang": "sv",
+        "name": "venezuelablomstickare"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor venezolano"
       }
     ]
   },
   {
     "scientific_name": "Diglossa sittoides",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rusty Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor ferrugíneo"
+      }
+    ]
   },
   {
     "scientific_name": "Diglossa plumbea",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Slaty Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor plomizo"
+      }
+    ]
   },
   {
     "scientific_name": "Diglossa mystacalis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Moustached Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor bigotudo"
+      }
+    ]
   },
   {
     "scientific_name": "Diglossa major",
@@ -47,6 +106,10 @@
       {
         "lang": "en",
         "name": "Glossy Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor satinado"
       }
     ]
   },
@@ -65,19 +128,55 @@
   },
   {
     "scientific_name": "Diglossa humeralis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor negro"
+      }
+    ]
   },
   {
     "scientific_name": "Diglossa gloriosissima",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-bellied Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor ventrirrufo"
+      }
+    ]
   },
   {
     "scientific_name": "Diglossa gloriosa",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Merida Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor de Mérida"
+      }
+    ]
   },
   {
     "scientific_name": "Diglossa glauca",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Deep-blue Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor glauco"
+      }
+    ]
   },
   {
     "scientific_name": "Diglossa duidae",
@@ -106,6 +205,10 @@
       {
         "lang": "en",
         "name": "Masked Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor enmascarado"
       }
     ]
   },
@@ -136,6 +239,10 @@
       {
         "lang": "en",
         "name": "Bluish Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor azulado"
       }
     ]
   },
@@ -152,7 +259,7 @@
       },
       {
         "lang": "es",
-        "name": "Comesebo negro"
+        "name": "Pinchaflor gorginegro"
       },
       {
         "lang": "fa",
@@ -186,6 +293,10 @@
       {
         "lang": "es",
         "name": "Pinchaflor ventricanelo"
+      },
+      {
+        "lang": "de",
+        "name": "Zimtbauch-Hakenschnabel"
       }
     ]
   },
@@ -195,6 +306,10 @@
       {
         "lang": "en",
         "name": "White-sided Flowerpiercer"
+      },
+      {
+        "lang": "es",
+        "name": "Pinchaflor ventriblanco"
       }
     ]
   }

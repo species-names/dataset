@@ -15,6 +15,10 @@
         "name": "Painted Stork"
       },
       {
+        "lang": "eo",
+        "name": "Hinda mikterio"
+      },
+      {
         "lang": "fr",
         "name": "Tantale indien"
       },
@@ -40,8 +44,40 @@
     "scientific_name": "Mycteria ibis",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Nimmersat"
+      },
+      {
+        "lang": "ar",
+        "name": "لقلق أصفر المنقار"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълтоклюн щъркел"
+      },
+      {
+        "lang": "bn",
+        "name": "হলদেঠুঁটি মানিকজোড়"
+      },
+      {
+        "lang": "br",
+        "name": "Tantal Afrika"
+      },
+      {
+        "lang": "ca",
+        "name": "Tàntal africà"
+      },
+      {
         "lang": "cs",
         "name": "Nesyt africký"
+      },
+      {
+        "lang": "cy",
+        "name": "Ciconia melynbig Affrica"
+      },
+      {
+        "lang": "da",
+        "name": "Afrikansk skovstork"
       },
       {
         "lang": "de",
@@ -52,20 +88,84 @@
         "name": "Yellow-billed Stork"
       },
       {
+        "lang": "eo",
+        "name": "Ibisa mikterio"
+      },
+      {
+        "lang": "es",
+        "name": "Tántalo africano"
+      },
+      {
+        "lang": "fa",
+        "name": "لک‌لک نوک‌زرد"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikaniibishaikara"
+      },
+      {
         "lang": "fr",
         "name": "Tantale ibis"
+      },
+      {
+        "lang": "ha",
+        "name": "Tsagagi"
+      },
+      {
+        "lang": "he",
+        "name": "חסידן אפריקני"
       },
       {
         "lang": "hu",
         "name": "Rózsás tantalusz"
       },
       {
+        "lang": "it",
+        "name": "Tantalo beccogiallo"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカトキコウ"
+      },
+      {
         "lang": "lt",
         "name": "Geltonsnapis žabiras"
       },
       {
+        "lang": "mn",
+        "name": "Шар хошуут өрөвтас"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse nimmerzat"
+      },
+      {
+        "lang": "pl",
+        "name": "Dławigad afrykański"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканский клювач"
+      },
+      {
         "lang": "sv",
         "name": "Afrikansk ibisstork"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarı gagalı leylek"
+      },
+      {
+        "lang": "uk",
+        "name": "Лелека-тантал африканський"
+      },
+      {
+        "lang": "vi",
+        "name": "Hạc mỏ vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "黃嘴䴉鸛"
       }
     ]
   },
@@ -99,6 +199,90 @@
       {
         "lang": "sv",
         "name": "Indonesisk ibisstork"
+      },
+      {
+        "lang": "ar",
+        "name": "لقلق لبني"
+      },
+      {
+        "lang": "bg",
+        "name": "Млечен щъркел"
+      },
+      {
+        "lang": "bn",
+        "name": "দুধসাদা মানিকজোড়"
+      },
+      {
+        "lang": "br",
+        "name": "C'hwibon Sunda"
+      },
+      {
+        "lang": "ca",
+        "name": "Tàntal blanc"
+      },
+      {
+        "lang": "cy",
+        "name": "Ciconia melynbig y Dwyrain"
+      },
+      {
+        "lang": "da",
+        "name": "mangrovestork"
+      },
+      {
+        "lang": "eo",
+        "name": "Blanka mikterio"
+      },
+      {
+        "lang": "fa",
+        "name": "لک‌لک شیری"
+      },
+      {
+        "lang": "he",
+        "name": "חסידן מילקי"
+      },
+      {
+        "lang": "ja",
+        "name": "シロトキコウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Malajinis žabiras"
+      },
+      {
+        "lang": "mn",
+        "name": "Сүүн өнгөт өрөвтас"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Botak Upeh"
+      },
+      {
+        "lang": "nl",
+        "name": "Maleise nimmerzat"
+      },
+      {
+        "lang": "no",
+        "name": "Malaystork"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídiidaanézí dinilgaaígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Dławigad malajski"
+      },
+      {
+        "lang": "ru",
+        "name": "Серый клювач"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò lạo xám"
+      },
+      {
+        "lang": "zh",
+        "name": "南美鸛"
       }
     ]
   },
@@ -131,6 +315,10 @@
         "synonyms": [
           "American Wood Stork"
         ]
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika mikterio"
       },
       {
         "lang": "es",

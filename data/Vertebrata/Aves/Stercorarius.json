@@ -15,6 +15,10 @@
         "name": "Cágalu"
       },
       {
+        "lang": "az",
+        "name": "Böyük sahilqağayısı"
+      },
+      {
         "lang": "be",
         "name": "Паморнік вялікі"
       },
@@ -28,7 +32,7 @@
       },
       {
         "lang": "ca",
-        "name": "Paràsit gros"
+        "name": "Paràsit boreal"
       },
       {
         "lang": "cs",
@@ -60,7 +64,7 @@
       },
       {
         "lang": "eo",
-        "name": "granda rabmevo"
+        "name": "Granda rabmevo"
       },
       {
         "lang": "es",
@@ -72,7 +76,11 @@
       },
       {
         "lang": "eu",
-        "name": "Marikoi handia"
+        "name": "Marikaka handia"
+      },
+      {
+        "lang": "fa",
+        "name": "قاپوی بزرگ"
       },
       {
         "lang": "fi",
@@ -87,6 +95,10 @@
         "name": "Grand Labbe"
       },
       {
+        "lang": "fy",
+        "name": "grutte skraits"
+      },
+      {
         "lang": "ga",
         "name": "Meirleach Mór"
       },
@@ -96,7 +108,7 @@
       },
       {
         "lang": "gl",
-        "name": "Papamerda real"
+        "name": "Palleira grande"
       },
       {
         "lang": "gv",
@@ -127,11 +139,12 @@
         "name": "オオトウゾクカモメ"
       },
       {
-        "lang": "la",
-        "name": "Stercorarius skua",
-        "synonyms": [
-          "Catharacta skua"
-        ]
+        "lang": "ka",
+        "name": "დიდი თოლია-მეკობრე"
+      },
+      {
+        "lang": "kl",
+        "name": "Isunngarujussuaq"
       },
       {
         "lang": "lb",
@@ -146,12 +159,12 @@
         "name": "Lielā klijkaija"
       },
       {
-        "lang": "mi",
-        "name": "Hakoakoa"
-      },
-      {
         "lang": "mt",
         "name": "Ċiefa Kbira"
+      },
+      {
+        "lang": "nds",
+        "name": "Groten Schietjager"
       },
       {
         "lang": "nl",
@@ -166,6 +179,10 @@
         "name": "Storjo"
       },
       {
+        "lang": "nv",
+        "name": "Łóóʼyiniʼįįhí ntsaaígíí"
+      },
+      {
         "lang": "pcd",
         "name": "Mauve poule"
       },
@@ -174,16 +191,20 @@
         "name": "Wydrzyk wielki"
       },
       {
-        "lang": "pt-br",
-        "name": "Mandrião-grande"
+        "lang": "pnb",
+        "name": "وڈا سکوا"
       },
       {
         "lang": "pt",
         "name": "Moleiro-grande"
       },
       {
+        "lang": "pt-br",
+        "name": "Mandrião-grande"
+      },
+      {
         "lang": "rm",
-        "name": "muetta gronda"
+        "name": "Muetta gronda"
       },
       {
         "lang": "ro",
@@ -218,6 +239,14 @@
         "name": "Velika govnačka"
       },
       {
+        "lang": "sq",
+        "name": "pulëzeza e madhe"
+      },
+      {
+        "lang": "sr",
+        "name": "Велики поморник"
+      },
+      {
         "lang": "sv",
         "name": "Storlabb"
       },
@@ -231,7 +260,7 @@
       },
       {
         "lang": "zh",
-        "name": "北贼鸥"
+        "name": "大賊鷗"
       }
     ]
   },
@@ -244,7 +273,7 @@
       },
       {
         "lang": "ar",
-        "name": "الكركر الشمالي"
+        "name": "كركر بوماريني"
       },
       {
         "lang": "ast",
@@ -256,7 +285,7 @@
       },
       {
         "lang": "be",
-        "name": "Сярэдні паморнік"
+        "name": "Паморнік сярэдні"
       },
       {
         "lang": "bg",
@@ -268,11 +297,11 @@
       },
       {
         "lang": "br",
-        "name": "Ar sparfell-vor lost loa"
+        "name": "Sparfell-vor lost loa"
       },
       {
         "lang": "ca",
-        "name": "Paràsit coaample"
+        "name": "Paràsit cuaample"
       },
       {
         "lang": "cs",
@@ -280,10 +309,7 @@
       },
       {
         "lang": "cy",
-        "name": "Sgiwen frech",
-        "synonyms": [
-          "Ysgiwen gynffondro"
-        ]
+        "name": "Sgiwen fach"
       },
       {
         "lang": "da",
@@ -299,10 +325,11 @@
       },
       {
         "lang": "en",
-        "name": "Pomarine Jaeger",
-        "synonyms": [
-          "Pomarine Skua"
-        ]
+        "name": "Pomarine Skua"
+      },
+      {
+        "lang": "en-us",
+        "name": "Pomarine Jaeger"
       },
       {
         "lang": "eo",
@@ -321,8 +348,12 @@
         "name": "Marikoi isatsbihur"
       },
       {
+        "lang": "fa",
+        "name": "قاپوی دم‌پیچ"
+      },
+      {
         "lang": "fi",
-        "name": "leveäpyrstökihu"
+        "name": "Leveäpyrstökihu"
       },
       {
         "lang": "fo",
@@ -331,6 +362,10 @@
       {
         "lang": "fr",
         "name": "Labbe pomarin"
+      },
+      {
+        "lang": "fy",
+        "name": "skraits"
       },
       {
         "lang": "ga",
@@ -346,7 +381,7 @@
       },
       {
         "lang": "he",
-        "name": "חמסן רחב אברה"
+        "name": "חמסן רחב-אברה"
       },
       {
         "lang": "hr",
@@ -366,7 +401,11 @@
       },
       {
         "lang": "id",
-        "name": "Burung Camar Kejar Pomarin"
+        "name": "Camar-kejar pomarin"
+      },
+      {
+        "lang": "ik",
+        "name": "Isuŋŋaġluk"
       },
       {
         "lang": "is",
@@ -378,25 +417,23 @@
       },
       {
         "lang": "iu",
-        "name": "Eshungak",
-        "synonyms": [
-          "Isunngarsuaq"
-        ]
+        "name": "Eshungak"
       },
       {
         "lang": "ja",
         "name": "トウゾクカモメ"
       },
       {
+        "lang": "ka",
+        "name": "განიერკუდა თოლია-მეკობრე"
+      },
+      {
         "lang": "kk",
-        "name": "Орта құрақтұмсық"
+        "name": "Олқыденелі құрақтұмсық"
       },
       {
         "lang": "kl",
-        "name": "Eshungak",
-        "synonyms": [
-          "Isunngarsuaq"
-        ]
+        "name": "Eshungak"
       },
       {
         "lang": "ko",
@@ -419,11 +456,12 @@
         "name": "Широкоопашест галеб"
       },
       {
+        "lang": "ml",
+        "name": "പോമരൈൻ മുൾവാലൻ കടൽക്കാക്ക"
+      },
+      {
         "lang": "mn",
-        "name": "Бэсрэг хайлгана",
-        "synonyms": [
-          "ᠪᠡᠰᠡᠷᠡᠭ ᠬᠠᠢᠢᠯᠭᠠᠨ᠎ᠠ"
-        ]
+        "name": "Бэсрэг хайлгана - ᠪᠡᠰᠡᠷᠡᠭ ᠬᠠᠢᠢᠯᠭᠠᠨ᠎ᠠ"
       },
       {
         "lang": "ms",
@@ -434,24 +472,40 @@
         "name": "Ċiefa ta' Denbha"
       },
       {
+        "lang": "nds",
+        "name": "Middelsten Jager"
+      },
+      {
         "lang": "nl",
         "name": "Middelste Jager"
+      },
+      {
+        "lang": "nn",
+        "name": "Polarjo"
       },
       {
         "lang": "no",
         "name": "Polarjo"
       },
       {
+        "lang": "nv",
+        "name": "Łóóʼyiniʼįįhí diłhiłígíí"
+      },
+      {
         "lang": "pl",
         "name": "Wydrzyk tęposterny"
       },
       {
-        "lang": "pt-br",
-        "name": "Mandrião-pomarino"
+        "lang": "pnb",
+        "name": "پومارین سکوا"
       },
       {
         "lang": "pt",
         "name": "Moleiro-pomarino"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mandrião-pomarino"
       },
       {
         "lang": "rm",
@@ -466,6 +520,10 @@
         "name": "Средний поморник"
       },
       {
+        "lang": "rue",
+        "name": "Поморник"
+      },
+      {
         "lang": "se",
         "name": "Polarháskil"
       },
@@ -476,6 +534,10 @@
       {
         "lang": "sl",
         "name": "Lopatasta govnacka"
+      },
+      {
+        "lang": "sq",
+        "name": "pulëzeza mesatare"
       },
       {
         "lang": "sr",
@@ -520,7 +582,7 @@
     "common_names": [
       {
         "lang": "af",
-        "name": "Arktiese Roofmeeu"
+        "name": "Arktiese roofmeeu"
       },
       {
         "lang": "ar",
@@ -528,14 +590,11 @@
       },
       {
         "lang": "ast",
-        "name": "Cágalu Articu",
-        "synonyms": [
-          "Cágalu Lladrón"
-        ]
+        "name": "Cágalu Articu"
       },
       {
         "lang": "be",
-        "name": "Караткахвосты паморнік"
+        "name": "Паморнік караткахвосты"
       },
       {
         "lang": "bg",
@@ -551,7 +610,7 @@
       },
       {
         "lang": "cs",
-        "name": "chaluha příživná"
+        "name": "Chaluha příživná"
       },
       {
         "lang": "cw",
@@ -571,19 +630,15 @@
       },
       {
         "lang": "el",
-        "name": "Γερακοληστόγλαρος",
-        "synonyms": [
-          "Μικροληστόγλαρος"
-        ]
+        "name": "Γερακοληστόγλαρος"
       },
       {
         "lang": "en",
-        "name": "Arctic Skua",
-        "synonyms": [
-          "Parasitic Jaeger",
-          "Parasitic Skua",
-          "Arctic Jaeger"
-        ]
+        "name": "Arctic Skua"
+      },
+      {
+        "lang": "en-us",
+        "name": "Parasitic Jaeger"
       },
       {
         "lang": "eo",
@@ -599,14 +654,15 @@
       },
       {
         "lang": "eu",
-        "name": "Marikoi isatslabur",
-        "synonyms": [
-          "Marikoi isatslaburra"
-        ]
+        "name": "Marikoi isatslabur"
+      },
+      {
+        "lang": "fa",
+        "name": "قاپوی قطب شمال"
       },
       {
         "lang": "fi",
-        "name": "merikihu"
+        "name": "Merikihu"
       },
       {
         "lang": "fo",
@@ -617,11 +673,12 @@
         "name": "Labbe parasite"
       },
       {
+        "lang": "fy",
+        "name": "lytse skraits"
+      },
+      {
         "lang": "ga",
-        "name": "Meirleach Artach",
-        "synonyms": [
-          "Meirleach mara"
-        ]
+        "name": "Meirleach Artach"
       },
       {
         "lang": "gd",
@@ -633,10 +690,7 @@
       },
       {
         "lang": "gv",
-        "name": "Maarliagh marrey",
-        "synonyms": [
-          "Shirragh Varrey"
-        ]
+        "name": "Maarliagh marrey"
       },
       {
         "lang": "he",
@@ -660,7 +714,7 @@
       },
       {
         "lang": "id",
-        "name": "Camarkejar Arktika"
+        "name": "Camar-kejar Arktika"
       },
       {
         "lang": "is",
@@ -672,17 +726,15 @@
       },
       {
         "lang": "iu",
-        "name": "Ishungak",
-        "synonyms": [
-          "Isunngaq"
-        ]
+        "name": "Ishungak"
       },
       {
         "lang": "ja",
-        "name": "クロトウゾクカモメ",
-        "synonyms": [
-          "kurotouzokukamome"
-        ]
+        "name": "クロトウゾクカモメ"
+      },
+      {
+        "lang": "ka",
+        "name": "ვიწროკუდა თოლია-მეკობრე"
       },
       {
         "lang": "kk",
@@ -690,10 +742,7 @@
       },
       {
         "lang": "kl",
-        "name": "Ishungak",
-        "synonyms": [
-          "Isunngaq"
-        ]
+        "name": "Ishungak"
       },
       {
         "lang": "ko",
@@ -728,6 +777,10 @@
         "name": "Ċiefa ta' l-Arktiku"
       },
       {
+        "lang": "nds",
+        "name": "Jan Dreckvagel"
+      },
+      {
         "lang": "nl",
         "name": "Kleine jager"
       },
@@ -740,20 +793,24 @@
         "name": "Tyvjo"
       },
       {
+        "lang": "nv",
+        "name": "Náhookǫsdę́ę́ʼ łóóʼyiniʼįįhí"
+      },
+      {
         "lang": "pl",
-        "name": "wydrzyk ostrosterny"
+        "name": "Wydrzyk ostrosterny"
       },
       {
         "lang": "pnb",
         "name": "پیراسائٹک جیگر"
       },
       {
-        "lang": "pt-br",
-        "name": "Mandrião-parasítico"
-      },
-      {
         "lang": "pt",
         "name": "Moleiro-parasítico"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mandrião-parasítico"
       },
       {
         "lang": "rm",
@@ -773,14 +830,11 @@
       },
       {
         "lang": "sk",
-        "name": "pomorník príživný"
+        "name": "Pomorník príživný"
       },
       {
         "lang": "sl",
-        "name": "bodicasta govnacka",
-        "synonyms": [
-          "bodičasta govnačka"
-        ]
+        "name": "Bodičasta govnačka"
       },
       {
         "lang": "sq",
@@ -788,10 +842,7 @@
       },
       {
         "lang": "sr",
-        "name": "Kratkorepi pomornik",
-        "synonyms": [
-          "Краткорепи поморник"
-        ]
+        "name": "Kratkorepi pomornik - Краткорепи поморник"
       },
       {
         "lang": "sv",
@@ -815,7 +866,7 @@
       },
       {
         "lang": "zh",
-        "name": "短尾贼鸥"
+        "name": "短尾賊鷗"
       }
     ]
   },
@@ -823,20 +874,132 @@
     "scientific_name": "Stercorarius maccormicki",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Suidpoolroofmeeu"
+      },
+      {
+        "lang": "ar",
+        "name": "كركر القطب الجنوبي"
+      },
+      {
+        "lang": "br",
+        "name": "Sparfell-vor MacCormick"
+      },
+      {
+        "lang": "ca",
+        "name": "Paràsit austral"
+      },
+      {
+        "lang": "cs",
+        "name": "Chaluha antarktická"
+      },
+      {
+        "lang": "cy",
+        "name": "Sgiwen Pegwn y De"
+      },
+      {
+        "lang": "da",
+        "name": "Sydpolarkjove"
+      },
+      {
+        "lang": "de",
+        "name": "Antarktikskua"
+      },
+      {
         "lang": "en",
         "name": "South Polar Skua"
       },
       {
         "lang": "eo",
-        "name": "Sudpola rabmevo"
+        "name": "Sudpolusa rabmevo"
+      },
+      {
+        "lang": "es",
+        "name": "Págalo antártico"
+      },
+      {
+        "lang": "eu",
+        "name": "Marikoi antartiko"
+      },
+      {
+        "lang": "fa",
+        "name": "قاپوی قطب جنوب"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelämantereenkihu"
       },
       {
         "lang": "fr",
-        "name": "Labbe de MacCormick"
+        "name": "Labbe de McCormick"
+      },
+      {
+        "lang": "he",
+        "name": "חמסן דרומי"
+      },
+      {
+        "lang": "it",
+        "name": "Stercorario di McCormick"
+      },
+      {
+        "lang": "ja",
+        "name": "オオトウゾクカモメ"
+      },
+      {
+        "lang": "lv",
+        "name": "Dienvidu polārā klijkaija"
+      },
+      {
+        "lang": "ml",
+        "name": "ദക്ഷിണ ധ്രുവ സ്കുവ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zuidpooljager"
+      },
+      {
+        "lang": "nn",
+        "name": "Sørjo"
       },
       {
         "lang": "no",
         "name": "Sørjo"
+      },
+      {
+        "lang": "nv",
+        "name": "Kéyah Yistinídę́ę́ʼ łóóʼyiniʼįįhí"
+      },
+      {
+        "lang": "pl",
+        "name": "Wydrzyk antarktyczny"
+      },
+      {
+        "lang": "pnb",
+        "name": "تھلواں پولر سکوا"
+      },
+      {
+        "lang": "pt",
+        "name": "Moleiro-do-sul"
+      },
+      {
+        "lang": "ru",
+        "name": "Южнополярный поморник"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydpolslabb"
+      },
+      {
+        "lang": "th",
+        "name": "สคัวขั้วโลกใต้"
+      },
+      {
+        "lang": "uk",
+        "name": "Поморник антарктичний"
+      },
+      {
+        "lang": "zh",
+        "name": "灰賊鷗"
       }
     ]
   },
@@ -893,14 +1056,15 @@
       },
       {
         "lang": "en",
-        "name": "Long-tailed jaeger",
-        "synonyms": [
-          "Long-tailed skua"
-        ]
+        "name": "Long-tailed Skua"
+      },
+      {
+        "lang": "en-us",
+        "name": "Long-tailed Jaeger"
       },
       {
         "lang": "eo",
-        "name": "longvosta rabmevo"
+        "name": "Longvosta rabmevo"
       },
       {
         "lang": "es",
@@ -976,10 +1140,7 @@
       },
       {
         "lang": "iu",
-        "name": "Ishungak",
-        "synonyms": [
-          "Papikkaaq"
-        ]
+        "name": "Ishungak"
       },
       {
         "lang": "ja",
@@ -1026,12 +1187,12 @@
         "name": "Wydrzyk długosterny"
       },
       {
-        "lang": "pt-br",
-        "name": "Mandrião-de-cauda-comprida"
-      },
-      {
         "lang": "pt",
         "name": "Moleiro-de-cauda-comprida"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Mandrião-de-cauda-comprida"
       },
       {
         "lang": "rm",
@@ -1055,14 +1216,11 @@
       },
       {
         "lang": "sl",
-        "name": "dolgorepa govnacka"
+        "name": "Dolgorepa govnacka"
       },
       {
         "lang": "sr",
-        "name": "Dugorepi pomornik",
-        "synonyms": [
-          "Дугорепи поморник"
-        ]
+        "name": "Dugorepi pomornik - Дугорепи поморник"
       },
       {
         "lang": "sv",
@@ -1074,10 +1232,7 @@
       },
       {
         "lang": "th",
-        "name": "นกเจเกอร์หางยาว",
-        "synonyms": [
-          "นกสกัวหางยาว"
-        ]
+        "name": "นกเจเกอร์หางยาว"
       },
       {
         "lang": "tr",
@@ -1097,8 +1252,24 @@
     "scientific_name": "Stercorarius chilensis",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Sparfell-vor Chile"
+      },
+      {
+        "lang": "ca",
+        "name": "Paràsit de Xile"
+      },
+      {
         "lang": "cs",
         "name": "Chaluha chilská"
+      },
+      {
+        "lang": "cy",
+        "name": "Sgiwen Magellan"
+      },
+      {
+        "lang": "de",
+        "name": "Chileskua"
       },
       {
         "lang": "en",
@@ -1109,13 +1280,166 @@
         "name": "Ĉilia rabmevo"
       },
       {
+        "lang": "es",
+        "name": "Págalo chileno"
+      },
+      {
+        "lang": "fa",
+        "name": "قاپوی شیلی"
+      },
+      {
+        "lang": "fi",
+        "name": "Chilenkihu"
+      },
+      {
+        "lang": "fr",
+        "name": "Labbe du Chili"
+      },
+      {
+        "lang": "he",
+        "name": "חמסן צ'יליאני"
+      },
+      {
+        "lang": "it",
+        "name": "Stercorario del Cile"
+      },
+      {
+        "lang": "nl",
+        "name": "Chileense grote jager"
+      },
+      {
+        "lang": "nn",
+        "name": "Kaneljo"
+      },
+      {
         "lang": "no",
         "name": "Kaneljo"
+      },
+      {
+        "lang": "nv",
+        "name": "Łóóʼyiniʼįįhí yishtłizhígíí"
+      },
+      {
+        "lang": "pnb",
+        "name": "چلی سکوا"
+      },
+      {
+        "lang": "sv",
+        "name": "Chilelabb"
       }
     ]
   },
   {
-    "scientific_name": "Stercorarius antarctica",
-    "common_names": []
+    "scientific_name": "Stercorarius antarcticus",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Bruinroofmeeu"
+      },
+      {
+        "lang": "az",
+        "name": "Antarktika sahilqağayısı"
+      },
+      {
+        "lang": "br",
+        "name": "Sparfell-vor Antarktika"
+      },
+      {
+        "lang": "ca",
+        "name": "Paràsit subantàrtic"
+      },
+      {
+        "lang": "cs",
+        "name": "Chaluha subantarktická"
+      },
+      {
+        "lang": "cy",
+        "name": "Sgiwen frown"
+      },
+      {
+        "lang": "de",
+        "name": "Antarktis-Skua"
+      },
+      {
+        "lang": "en",
+        "name": "Brown Skua"
+      },
+      {
+        "lang": "eo",
+        "name": "Bruna rabmevo"
+      },
+      {
+        "lang": "es",
+        "name": "Págalo subantártico"
+      },
+      {
+        "lang": "fa",
+        "name": "قاپوی قهوه‌ای"
+      },
+      {
+        "lang": "fi",
+        "name": "Etelänkihu"
+      },
+      {
+        "lang": "fr",
+        "name": "Labbe antarctique"
+      },
+      {
+        "lang": "gl",
+        "name": "Papamerda subantártico"
+      },
+      {
+        "lang": "he",
+        "name": "חמסן חום"
+      },
+      {
+        "lang": "hu",
+        "name": "Barna halfarkas"
+      },
+      {
+        "lang": "it",
+        "name": "Stercorario antartico"
+      },
+      {
+        "lang": "mi",
+        "name": "Hākoakoa"
+      },
+      {
+        "lang": "ml",
+        "name": "തവിടൻ സ്കുവ"
+      },
+      {
+        "lang": "nl",
+        "name": "Subantarctische grote jager"
+      },
+      {
+        "lang": "nn",
+        "name": "Sørhavsjo"
+      },
+      {
+        "lang": "no",
+        "name": "Sørhavsjo"
+      },
+      {
+        "lang": "nv",
+        "name": "Łóóʼyiniʼįįhí dibéłchíʼígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Wydrzyk brunatny"
+      },
+      {
+        "lang": "pnb",
+        "name": "بھورا سکوا"
+      },
+      {
+        "lang": "ru",
+        "name": "Антарктический поморник"
+      },
+      {
+        "lang": "sv",
+        "name": "Antarktisk labb"
+      }
+    ]
   }
 ]

@@ -11,16 +11,20 @@
         "name": "Bekasina velká"
       },
       {
+        "lang": "en",
+        "name": "Giant snipe"
+      },
+      {
+        "lang": "eo",
+        "name": "Giganta galinago"
+      },
+      {
         "lang": "es",
         "name": "Becasina gigante; agachadiza gigante"
       },
       {
         "lang": "pt",
         "name": "narcejão"
-      },
-      {
-        "lang": "en",
-        "name": "Giant snipe"
       },
       {
         "lang": "sv",
@@ -38,6 +42,10 @@
       {
         "lang": "en",
         "name": "Fuegian Snipe"
+      },
+      {
+        "lang": "eo",
+        "name": "Fuegia galinago"
       },
       {
         "lang": "es",
@@ -59,6 +67,10 @@
       {
         "lang": "en",
         "name": "Pintail Snipe"
+      },
+      {
+        "lang": "eo",
+        "name": "Pintvosta galinago"
       },
       {
         "lang": "fi",
@@ -86,20 +98,96 @@
     "scientific_name": "Gallinago solitaria",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "شنقب منعزل"
+      },
+      {
+        "lang": "bg",
+        "name": "Тибетска бекасина"
+      },
+      {
+        "lang": "br",
+        "name": "Gioc'h digenvez"
+      },
+      {
+        "lang": "ca",
+        "name": "Becadell solitari"
+      },
+      {
         "lang": "cs",
         "name": "Bekasina horská"
+      },
+      {
+        "lang": "cy",
+        "name": "Gïach unig"
+      },
+      {
+        "lang": "en",
+        "name": "Solitary Snipe"
+      },
+      {
+        "lang": "es",
+        "name": "Agachadiza solitaria"
+      },
+      {
+        "lang": "fa",
+        "name": "پاشلک تک‌زی"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuorikurppa"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécassine solitaire"
+      },
+      {
+        "lang": "hu",
+        "name": "Tibeti sárszalonka"
+      },
+      {
+        "lang": "it",
+        "name": "Beccacino solitario"
       },
       {
         "lang": "ja",
         "name": "アオシギ"
       },
       {
+        "lang": "kk",
+        "name": "Тау маңқысы"
+      },
+      {
         "lang": "ko",
         "name": "청도요"
       },
       {
+        "lang": "mn",
+        "name": "Өнчин хараалж"
+      },
+      {
+        "lang": "ne",
+        "name": "भार्का चाहा"
+      },
+      {
+        "lang": "nl",
+        "name": "Bergsnip"
+      },
+      {
+        "lang": "pnb",
+        "name": "کلا سنائپ"
+      },
+      {
+        "lang": "ru",
+        "name": "Горный дупель"
+      },
+      {
         "lang": "sv",
         "name": "Bergbeckasin"
+      },
+      {
+        "lang": "tr",
+        "name": "Yalnız bataklık çulluğu"
       }
     ]
   },
@@ -109,6 +197,14 @@
       {
         "lang": "cs",
         "name": "Bekasina jihoamerická"
+      },
+      {
+        "lang": "en",
+        "name": "South American Snipe"
+      },
+      {
+        "lang": "eo",
+        "name": "Magelana galinago"
       },
       {
         "lang": "sv",
@@ -124,8 +220,8 @@
         "name": "Bekasina vznešená"
       },
       {
-        "lang": "sv",
-        "name": "Ädelbeckasin"
+        "lang": "eo",
+        "name": "Nobla galinago"
       },
       {
         "lang": "en",
@@ -134,6 +230,10 @@
       {
         "lang": "es",
         "name": "Agachadiza noble"
+      },
+      {
+        "lang": "sv",
+        "name": "Ädelbeckasin"
       }
     ]
   },
@@ -141,8 +241,44 @@
     "scientific_name": "Gallinago nigripennis",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Afrikaanse snip"
+      },
+      {
+        "lang": "br",
+        "name": "Gioc'h Afrika"
+      },
+      {
         "lang": "cs",
         "name": "Bekasina africká"
+      },
+      {
+        "lang": "de",
+        "name": "Afrikanische Schnepfe"
+      },
+      {
+        "lang": "eo",
+        "name": "Afrika galinago"
+      },
+      {
+        "lang": "es",
+        "name": "agachadiza africana"
+      },
+      {
+        "lang": "fa",
+        "name": "پاشلک آفریقایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécassine africaine"
+      },
+      {
+        "lang": "it",
+        "name": "beccacino africano"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse snip"
       },
       {
         "lang": "sv",
@@ -164,6 +300,10 @@
       {
         "lang": "en",
         "name": "Wood Snipe"
+      },
+      {
+        "lang": "eo",
+        "name": "Himalaja galinago"
       },
       {
         "lang": "es",
@@ -227,6 +367,10 @@
         "name": "Swinhoe's Snipe"
       },
       {
+        "lang": "eo",
+        "name": "Bajkala galinago"
+      },
+      {
         "lang": "es",
         "name": "Agachadiza del Baikal"
       },
@@ -241,6 +385,10 @@
       {
         "lang": "hu",
         "name": "Swinhoe-sárszalonka"
+      },
+      {
+        "lang": "id",
+        "name": "Berkik rawa"
       },
       {
         "lang": "it",
@@ -297,7 +445,7 @@
       },
       {
         "lang": "ar",
-        "name": "الشنقب الكبير"
+        "name": "شنقب كبير"
       },
       {
         "lang": "ast",
@@ -305,10 +453,18 @@
       },
       {
         "lang": "az",
-        "name": "Tənbəl bekas"
+        "name": "Ortaboy tənbəlcüllüt"
+      },
+      {
+        "lang": "ba",
+        "name": "Зырҡыуыт"
       },
       {
         "lang": "be",
+        "name": "Дубальт"
+      },
+      {
+        "lang": "be-x-old",
         "name": "Дубальт"
       },
       {
@@ -317,11 +473,11 @@
       },
       {
         "lang": "br",
-        "name": "Ar gioc'h lost gwenn"
+        "name": "Gioc'h lost gwenn"
       },
       {
         "lang": "ca",
-        "name": "Cegall reial"
+        "name": "Becadell gros"
       },
       {
         "lang": "cs",
@@ -329,7 +485,7 @@
       },
       {
         "lang": "cy",
-        "name": "Ciach fawr"
+        "name": "Gïach fawr"
       },
       {
         "lang": "da",
@@ -361,7 +517,11 @@
       },
       {
         "lang": "eu",
-        "name": "Becadell gros"
+        "name": "Istingor handi"
+      },
+      {
+        "lang": "fa",
+        "name": "پاشلک بزرگ"
       },
       {
         "lang": "fi",
@@ -424,8 +584,16 @@
         "name": "გოჭა"
       },
       {
+        "lang": "kbd",
+        "name": "Бжьыхьэджэд"
+      },
+      {
         "lang": "kk",
         "name": "Мањқы"
+      },
+      {
+        "lang": "ky",
+        "name": "Жалган эчкимаарак"
       },
       {
         "lang": "lb",
@@ -433,10 +601,7 @@
       },
       {
         "lang": "lt",
-        "name": "Dubeltas",
-        "synonyms": [
-          "Stulgys"
-        ]
+        "name": "Stulgys"
       },
       {
         "lang": "lv",
@@ -444,7 +609,7 @@
       },
       {
         "lang": "mk",
-        "name": "Голема бекасина"
+        "name": "Голема шлука"
       },
       {
         "lang": "mn",
@@ -459,15 +624,24 @@
         "name": "Poelsnip"
       },
       {
+        "lang": "nn",
+        "name": "Dobbeltbekkasin"
+      },
+      {
         "lang": "no",
         "name": "Dobbeltbekkasin"
       },
       {
+        "lang": "nv",
+        "name": "Ndahoditsʼǫʼtah tábąąsdísí"
+      },
+      {
         "lang": "pl",
-        "name": "Bekas dubelt",
-        "synonyms": [
-          "Dubelt"
-        ]
+        "name": "Bekas dubelt"
+      },
+      {
+        "lang": "pnb",
+        "name": "وڈا سنائپ"
       },
       {
         "lang": "pt",
@@ -503,10 +677,7 @@
       },
       {
         "lang": "sr",
-        "name": "Šljuka livadarka",
-        "synonyms": [
-          "Шлјука ливадарка"
-        ]
+        "name": "Šljuka livadarka - Шлјука ливадарка"
       },
       {
         "lang": "sv",
@@ -518,7 +689,7 @@
       },
       {
         "lang": "tr",
-        "name": "Büyük Bataklık çulluğu"
+        "name": "Büyük su çulluğu"
       },
       {
         "lang": "tyv",
@@ -535,11 +706,24 @@
     ]
   },
   {
+    "scientific_name": "Gallinago magellanica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Magellanic Snipe"
+      }
+    ]
+  },
+  {
     "scientific_name": "Gallinago macrodactyla",
     "common_names": [
       {
         "lang": "cs",
         "name": "Bekasina madagaskarská"
+      },
+      {
+        "lang": "eo",
+        "name": "Madagaskara galinago"
       },
       {
         "lang": "sv",
@@ -559,6 +743,10 @@
         "name": "Andean Snipe"
       },
       {
+        "lang": "eo",
+        "name": "Ekvatora galinago"
+      },
+      {
         "lang": "sv",
         "name": "Andinsk beckasin"
       }
@@ -572,8 +760,20 @@
         "name": "Bekasina královská"
       },
       {
+        "lang": "eo",
+        "name": "Imperia galinago"
+      },
+      {
         "lang": "sv",
         "name": "Kejsarbeckasin"
+      },
+      {
+        "lang": "en",
+        "name": "Imperial snipe"
+      },
+      {
+        "lang": "es",
+        "name": "Agachadiza imperial"
       }
     ]
   },
@@ -589,12 +789,8 @@
         "name": "Latham's Snipe"
       },
       {
-        "lang": "ja",
-        "name": "オオジシギ"
-      },
-      {
-        "lang": "ko",
-        "name": "큰꺅도요"
+        "lang": "eo",
+        "name": "Japana galinago"
       },
       {
         "lang": "es",
@@ -625,12 +821,20 @@
         "name": "Latham-sárszalonka"
       },
       {
-        "lang": "nl",
-        "name": "Japanse snip"
-      },
-      {
         "lang": "it",
         "name": "Beccacino giapponese"
+      },
+      {
+        "lang": "ja",
+        "name": "オオジシギ"
+      },
+      {
+        "lang": "ko",
+        "name": "큰꺅도요"
+      },
+      {
+        "lang": "nl",
+        "name": "Japanse snip"
       },
       {
         "lang": "ru",
@@ -651,7 +855,7 @@
     "common_names": [
       {
         "lang": "ar",
-        "name": "الشنقب الشائع"
+        "name": "شنقب شائع"
       },
       {
         "lang": "ast",
@@ -659,21 +863,18 @@
       },
       {
         "lang": "az",
-        "name": "Bekas",
-        "synonyms": [
-          "Qıjıç"
-        ]
+        "name": "Adi tənbəlcüllüt"
       },
       {
         "lang": "ba",
         "name": "Һаралйын"
       },
       {
-        "lang": "be-x-old",
+        "lang": "be",
         "name": "Бакас"
       },
       {
-        "lang": "be",
+        "lang": "be-x-old",
         "name": "Бакас"
       },
       {
@@ -690,7 +891,7 @@
       },
       {
         "lang": "cs",
-        "name": "bekasina otavní"
+        "name": "Bekasina otavní"
       },
       {
         "lang": "csb",
@@ -745,6 +946,10 @@
         "name": "Istingor arrunt"
       },
       {
+        "lang": "fa",
+        "name": "پاشلک معمولی"
+      },
+      {
         "lang": "fi",
         "name": "Taivaanvuohi"
       },
@@ -758,7 +963,7 @@
       },
       {
         "lang": "frr",
-        "name": "Stonger (fögel)"
+        "name": "Stonger"
       },
       {
         "lang": "fy",
@@ -766,7 +971,7 @@
       },
       {
         "lang": "ga",
-        "name": "Naoscach"
+        "name": "Naoscach coiteann"
       },
       {
         "lang": "gd",
@@ -782,10 +987,7 @@
       },
       {
         "lang": "he",
-        "name": "חרטומית ביצות",
-        "synonyms": [
-          "חרטומית בצות"
-        ]
+        "name": "חרטומית ביצות"
       },
       {
         "lang": "hr",
@@ -801,7 +1003,7 @@
       },
       {
         "lang": "id",
-        "name": "Berkik Ekor-kipas"
+        "name": "Berkik ekor kipas"
       },
       {
         "lang": "is",
@@ -813,10 +1015,7 @@
       },
       {
         "lang": "ja",
-        "name": "タシギ",
-        "synonyms": [
-          "Tashigi"
-        ]
+        "name": "タシギ"
       },
       {
         "lang": "ka",
@@ -852,7 +1051,7 @@
       },
       {
         "lang": "mk",
-        "name": "Барска шлука"
+        "name": "Шлука бекасина"
       },
       {
         "lang": "ml",
@@ -861,6 +1060,10 @@
       {
         "lang": "mn",
         "name": "Шөвгөн хараалж"
+      },
+      {
+        "lang": "mr",
+        "name": "पाणलावा"
       },
       {
         "lang": "mrj",
@@ -875,6 +1078,10 @@
         "name": "Bekkaċċ"
       },
       {
+        "lang": "ne",
+        "name": "पानी चाहा"
+      },
+      {
         "lang": "nl",
         "name": "Watersnip"
       },
@@ -887,8 +1094,16 @@
         "name": "Enkeltbekkasin"
       },
       {
+        "lang": "olo",
+        "name": "Suvenlammas"
+      },
+      {
+        "lang": "os",
+        "name": "Мæга"
+      },
+      {
         "lang": "pcd",
-        "name": "Bécachin·ne"
+        "name": "Bécachène"
       },
       {
         "lang": "pl",
@@ -896,11 +1111,7 @@
       },
       {
         "lang": "pnb",
-        "name": "عام سنائپ"
-      },
-      {
-        "lang": "pt-br",
-        "name": "narceja"
+        "name": "پکھی پونجا چہا"
       },
       {
         "lang": "pt",
@@ -912,14 +1123,11 @@
       },
       {
         "lang": "ro",
-        "name": "Becațină"
+        "name": "Becațină comună"
       },
       {
         "lang": "ru",
-        "name": "Бекас",
-        "synonyms": [
-          "Обыкновенный бекас"
-        ]
+        "name": "Обыкновенный Бекас"
       },
       {
         "lang": "sah",
@@ -931,32 +1139,23 @@
       },
       {
         "lang": "sk",
-        "name": "močiarnica mekotavá"
+        "name": "Močiarnica mekotavá"
       },
       {
         "lang": "sl",
-        "name": "kozica",
-        "synonyms": [
-          "kozice"
-        ]
+        "name": "Kozica"
       },
       {
         "lang": "sq",
-        "name": "Shapka e ujit",
-        "synonyms": [
-          "Shapkë uji"
-        ]
+        "name": "Shapka e ujit"
       },
       {
         "lang": "sr",
-        "name": "Barska šljuka",
-        "synonyms": [
-          "Барска шлјука"
-        ]
+        "name": "Barska šljuka - Барска шлјука"
       },
       {
         "lang": "stq",
-        "name": "Aalke-Fokke sin Fuugel"
+        "name": "Mäidhanne"
       },
       {
         "lang": "sv",
@@ -965,6 +1164,10 @@
       {
         "lang": "sw",
         "name": "Sululu"
+      },
+      {
+        "lang": "ta",
+        "name": "விசிறிவால் உள்ளான்"
       },
       {
         "lang": "th",
@@ -980,7 +1183,7 @@
       },
       {
         "lang": "uk",
-        "name": "Звичайний баранець"
+        "name": "Баранець звичайний"
       },
       {
         "lang": "vec",
@@ -988,7 +1191,11 @@
       },
       {
         "lang": "vi",
-        "name": "Dẽ giun"
+        "name": "Dẽ giun thường"
+      },
+      {
+        "lang": "wuu",
+        "name": "扇尾沙锥"
       },
       {
         "lang": "zh",
@@ -1013,6 +1220,10 @@
       {
         "lang": "en",
         "name": "Wilson's Snipe"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika galinago"
       },
       {
         "lang": "es",

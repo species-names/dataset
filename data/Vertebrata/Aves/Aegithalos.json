@@ -1,5 +1,14 @@
 [
   {
+    "scientific_name": "Aegithalos sharpei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Burmese Bushtit"
+      }
+    ]
+  },
+  {
     "scientific_name": "Aegithalos niveogularis",
     "common_names": [
       {
@@ -8,7 +17,11 @@
       },
       {
         "lang": "en",
-        "name": "White-throated Tit"
+        "name": "White-throated Titen"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankgorĝa paruo"
       },
       {
         "lang": "es",
@@ -43,6 +56,10 @@
         "name": "White-cheeked Tit"
       },
       {
+        "lang": "eo",
+        "name": "Blankvanga paruo"
+      },
+      {
         "lang": "es",
         "name": "Mito cariblanco"
       },
@@ -60,7 +77,7 @@
       },
       {
         "lang": "sv",
-        "name": "Vitkindad stjärtmes"
+        "name": "vitkindad stjärtmes"
       }
     ]
   },
@@ -70,6 +87,10 @@
       {
         "lang": "en",
         "name": "Black-browed Tit"
+      },
+      {
+        "lang": "e0",
+        "name": "Ruffronta paruo"
       },
       {
         "lang": "es",
@@ -97,6 +118,10 @@
         "name": "Silver-throated Tit"
       },
       {
+        "lang": "eo",
+        "name": "Arĝentgorĝa paruo"
+      },
+      {
         "lang": "es",
         "name": "Mito de garganta gris",
         "synonyms": [
@@ -119,6 +144,10 @@
       {
         "lang": "en",
         "name": "White-necklaced Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Helkola paruo"
       },
       {
         "lang": "es",
@@ -150,6 +179,63 @@
     ]
   },
   {
+    "scientific_name": "Aegithalos exilis",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Corditw"
+      },
+      {
+        "lang": "en",
+        "name": "Pygmy Bushtit"
+      },
+      {
+        "lang": "es",
+        "name": "Mito pigmeo"
+      },
+      {
+        "lang": "et",
+        "name": "Pisi-sabatihane"
+      },
+      {
+        "lang": "fr",
+        "name": "Mésange pygmée"
+      },
+      {
+        "lang": "hu",
+        "name": "Törpecinege"
+      },
+      {
+        "lang": "id",
+        "name": "Cerecet jawa"
+      },
+      {
+        "lang": "it",
+        "name": "Cincia pigmea"
+      },
+      {
+        "lang": "nl",
+        "name": "Dwergmees"
+      },
+      {
+        "lang": "no",
+        "name": "Pygmémeis"
+      },
+      {
+        "lang": "pl",
+        "name": "Raniuszek malutki"
+      },
+      {
+        "lang": "sv",
+        "name": "Javastjärtmes"
+      },
+      {
+        "lang": "uk",
+        "name": "Ополовник-крихітка"
+      }
+    ]
+  },
+  {
     "scientific_name": "Aegithalos concinnus",
     "common_names": [
       {
@@ -163,6 +249,10 @@
       {
         "lang": "en",
         "name": "Black-throated Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Rufverta paruo"
       },
       {
         "lang": "es",
@@ -204,6 +294,10 @@
         "name": "红头长尾山雀"
       }
     ]
+  },
+  {
+    "scientific_name": "Aegithalos caudatus europaeus",
+    "common_names": []
   },
   {
     "scientific_name": "Aegithalos caudatus",
@@ -266,7 +360,7 @@
       },
       {
         "lang": "eo",
-        "name": "Egitalo"
+        "name": "Longvosta paruo"
       },
       {
         "lang": "es",
@@ -440,6 +534,10 @@
       {
         "lang": "en",
         "name": "Black-browed Tit"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrabrova paruo"
       }
     ]
   }

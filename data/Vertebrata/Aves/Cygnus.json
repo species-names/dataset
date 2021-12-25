@@ -1,5 +1,93 @@
 [
   {
+    "scientific_name": "Cygnus verae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus pristinus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus paloregonus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus nigricollis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus musicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus melitensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus mariae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus liskunae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus lacustris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus immutabilis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus hibbardi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus herrenthalsi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus ferus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus davidi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus csakvarensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus coscoroba",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus chathamicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus chathamensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus bilinicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus atavus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus americanus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Cygnus sumnerensis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Cygnus olor",
     "common_names": [
       {
@@ -40,7 +128,7 @@
       },
       {
         "lang": "cs",
-        "name": "labuť velká"
+        "name": "Labuť velká"
       },
       {
         "lang": "csb",
@@ -84,7 +172,7 @@
       },
       {
         "lang": "fi",
-        "name": "kyhmyjoutsen"
+        "name": "Kyhmyjoutsen"
       },
       {
         "lang": "fo",
@@ -192,7 +280,7 @@
       },
       {
         "lang": "pl",
-        "name": "łabędź niemy"
+        "name": "Łabędź niemy"
       },
       {
         "lang": "pt",
@@ -216,7 +304,7 @@
       },
       {
         "lang": "sl",
-        "name": "labod grbec"
+        "name": "Labod grbec"
       },
       {
         "lang": "sq",
@@ -224,7 +312,7 @@
       },
       {
         "lang": "sr",
-        "name": "Crvenokljuni labud Црвеноклјуни лабуд"
+        "name": "Црвенокљуни лабуд - Crvenokljuni labud"
       },
       {
         "lang": "sv",
@@ -270,6 +358,10 @@
       {
         "lang": "en",
         "name": "Black-necked Swan"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrakola cigno"
       },
       {
         "lang": "es",
@@ -346,6 +438,24 @@
     ]
   },
   {
+    "scientific_name": "Cygnus falconeri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Giant Maltese Swan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cygnus equitum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dwarf Maltese swan"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cygnus cygnus",
     "common_names": [
       {
@@ -382,7 +492,7 @@
       },
       {
         "lang": "cs",
-        "name": "labuť zpěvná"
+        "name": "Labuť zpěvná"
       },
       {
         "lang": "cy",
@@ -426,7 +536,7 @@
       },
       {
         "lang": "fi",
-        "name": "laulujoutsen"
+        "name": "Laulujoutsen"
       },
       {
         "lang": "fo",
@@ -486,14 +596,11 @@
       },
       {
         "lang": "ja",
-        "name": "オオハクチョウ（大白鳥）",
-        "synonyms": [
-          "oohakuchou"
-        ]
+        "name": "オオハクチョウ"
       },
       {
         "lang": "ka",
-        "name": "მყივანი (ყვითელნისკარტა) გედი"
+        "name": "მყივანი გედი"
       },
       {
         "lang": "kbd",
@@ -533,10 +640,7 @@
       },
       {
         "lang": "mk",
-        "name": "Жолтоклун лебед",
-        "synonyms": [
-          "Лебед пеач"
-        ]
+        "name": "Жолтоклун лебед"
       },
       {
         "lang": "mn",
@@ -564,7 +668,7 @@
       },
       {
         "lang": "pl",
-        "name": "łabędź krzykliwy"
+        "name": "Łabędź krzykliwy"
       },
       {
         "lang": "pnb",
@@ -596,18 +700,15 @@
       },
       {
         "lang": "sh",
-        "name": "Žutokljuni labud",
-        "synonyms": [
-          "жутокљуни лабуд"
-        ]
+        "name": "Žutokljuni labud - жутокљуни лабуд"
       },
       {
         "lang": "sk",
-        "name": "labuť spevavá"
+        "name": "Labuť spevavá"
       },
       {
         "lang": "sl",
-        "name": "labod pevec"
+        "name": "Labod pevec"
       },
       {
         "lang": "sq",
@@ -615,10 +716,7 @@
       },
       {
         "lang": "sr",
-        "name": "Велики лабуд",
-        "synonyms": [
-          "Veliki labud"
-        ]
+        "name": "Велики лабуд - Veliki labud"
       },
       {
         "lang": "sv",
@@ -626,10 +724,7 @@
       },
       {
         "lang": "th",
-        "name": "หงส์ฮูเปอร์",
-        "synonyms": [
-          "หงส์กู่"
-        ]
+        "name": "หงส์ฮูเปอร์"
       },
       {
         "lang": "tr",
@@ -674,7 +769,7 @@
       },
       {
         "lang": "bg",
-        "name": "Tундров лебед"
+        "name": "Тундров лебед"
       },
       {
         "lang": "br",
@@ -942,6 +1037,10 @@
         "name": "黑嘴天鹅"
       }
     ]
+  },
+  {
+    "scientific_name": "Cygnus bewickii",
+    "common_names": []
   },
   {
     "scientific_name": "Cygnus atratus",

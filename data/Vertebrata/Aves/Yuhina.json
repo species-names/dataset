@@ -34,7 +34,56 @@
   },
   {
     "scientific_name": "Yuhina nigrimenta",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Iwhina genddu"
+      },
+      {
+        "lang": "en",
+        "name": "Black-chinned Yuhina"
+      },
+      {
+        "lang": "es",
+        "name": "Yuhina barbinegra"
+      },
+      {
+        "lang": "fa",
+        "name": "یوهین چانه‌سیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustatöyhtöjuhina"
+      },
+      {
+        "lang": "fr",
+        "name": "Yuhina à menton noir"
+      },
+      {
+        "lang": "ne",
+        "name": "कालोकल्की जुरेचरा"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelpootmeestimalia"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالی ٹھوڈیوالی یوہینا"
+      },
+      {
+        "lang": "ru",
+        "name": "Синичья юхина"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödnäbbad yuhina"
+      },
+      {
+        "lang": "zh",
+        "name": "黑额凤鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Yuhina humilis",
@@ -130,7 +179,36 @@
   },
   {
     "scientific_name": "Yuhina castaniceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Iwhina penrhesog"
+      },
+      {
+        "lang": "en",
+        "name": "Striated yuhina"
+      },
+      {
+        "lang": "fa",
+        "name": "یوهین خط‌دار"
+      },
+      {
+        "lang": "nl",
+        "name": "Gestreepte meestimalia"
+      },
+      {
+        "lang": "pnb",
+        "name": "یوہینا کیسٹانیسپس"
+      },
+      {
+        "lang": "sv",
+        "name": "brunnackad yuhina"
+      },
+      {
+        "lang": "zh",
+        "name": "栗耳凤鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Yuhina brunneiceps",

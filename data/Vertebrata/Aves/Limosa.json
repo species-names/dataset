@@ -8,7 +8,7 @@
       },
       {
         "lang": "ar",
-        "name": "بقويقة سوداء الذيل"
+        "name": "بقويقة سلطانية سوداء الذيل"
       },
       {
         "lang": "ast",
@@ -23,12 +23,12 @@
         "name": "Ҡыҙғатау"
       },
       {
-        "lang": "be-x-old",
-        "name": "Вераценьнік вялікі"
+        "lang": "be",
+        "name": "Грыцук вялікі"
       },
       {
-        "lang": "be",
-        "name": "Вераценнік вялікі"
+        "lang": "be-x-old",
+        "name": "Вераценьнік вялікі"
       },
       {
         "lang": "bg",
@@ -56,7 +56,7 @@
       },
       {
         "lang": "cy",
-        "name": "Cwtyn ddu"
+        "name": "Rhostog gynffonddu"
       },
       {
         "lang": "da",
@@ -72,7 +72,7 @@
       },
       {
         "lang": "el",
-        "name": "Βαλτομπεκάτσα"
+        "name": "Λιμόζα"
       },
       {
         "lang": "en",
@@ -128,7 +128,7 @@
       },
       {
         "lang": "gl",
-        "name": "Agulla colinegra"
+        "name": "Mazarico rabinegro"
       },
       {
         "lang": "he",
@@ -144,11 +144,11 @@
       },
       {
         "lang": "hy",
-        "name": "Իլիկակտցար մեծ"
+        "name": "Մեծ իլիկակտցար"
       },
       {
         "lang": "id",
-        "name": "Biru laut ekor hitam"
+        "name": "Biru-laut ekor-hitam"
       },
       {
         "lang": "is",
@@ -191,11 +191,12 @@
         "name": "Црноопашна блатарка"
       },
       {
+        "lang": "ml",
+        "name": "പട്ടവാലൻ സ്നാപ്പ്"
+      },
+      {
         "lang": "mn",
-        "name": "Морин цууцал",
-        "synonyms": [
-          "ᠬᠠᠷ᠎ᠠ ᠰᠡᠭᠦᠯᠲᠦ ᠮᠣᠷᠢᠨ ᠵᠠᠷᠠᠭ"
-        ]
+        "name": "Морин цууцал - ᠬᠠᠷ᠎ᠠ ᠰᠡᠭᠦᠯᠲᠦ ᠮᠣᠷᠢᠨ ᠵᠠᠷᠠᠭ"
       },
       {
         "lang": "ms",
@@ -210,6 +211,10 @@
         "name": "Gruto"
       },
       {
+        "lang": "ne",
+        "name": "मलगुझा"
+      },
+      {
         "lang": "nl",
         "name": "Grutto"
       },
@@ -220,6 +225,10 @@
       {
         "lang": "no",
         "name": "Svarthalespove"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąąsdísí jáádnézí bitseeʼ łizhinígíí"
       },
       {
         "lang": "pcd",
@@ -234,12 +243,12 @@
         "name": "کالی پچھ آلا گاڈوٹ"
       },
       {
-        "lang": "pt-br",
-        "name": "Macarico-galego"
-      },
-      {
         "lang": "pt",
         "name": "Maçarico-de-bico-direito"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Macarico-galego"
       },
       {
         "lang": "rm",
@@ -271,7 +280,7 @@
       },
       {
         "lang": "sl",
-        "name": "črnorepi kljunač"
+        "name": "Črnorepi kljunač"
       },
       {
         "lang": "sq",
@@ -279,10 +288,7 @@
       },
       {
         "lang": "sr",
-        "name": "Muljaca",
-        "synonyms": [
-          "Мулјача"
-        ]
+        "name": "Muljaca - Мулјача"
       },
       {
         "lang": "sv",
@@ -294,7 +300,7 @@
       },
       {
         "lang": "ta",
-        "name": "Karuvaal Mookkaan"
+        "name": "கருவால் மூக்கான்"
       },
       {
         "lang": "th",
@@ -310,11 +316,11 @@
       },
       {
         "lang": "uk",
-        "name": "Великий грицик"
+        "name": "Грицик великий"
       },
       {
         "lang": "vi",
-        "name": "Chim Choắt mỏ thẳng đuôi đen"
+        "name": "Choắt mỏ nhác"
       },
       {
         "lang": "zh",
@@ -632,7 +638,15 @@
     "common_names": [
       {
         "lang": "af",
-        "name": "Amerikaanse Griet"
+        "name": "Hudsonbaaigriet"
+      },
+      {
+        "lang": "ar",
+        "name": "بقويقة هدسونية"
+      },
+      {
+        "lang": "bg",
+        "name": "Канадски крайбрежен бекас"
       },
       {
         "lang": "br",
@@ -640,18 +654,19 @@
       },
       {
         "lang": "ca",
-        "name": "Tètol de Hudson",
-        "synonyms": [
-          "Břehouš aljašský"
-        ]
+        "name": "Tètol de Hudson"
       },
       {
         "lang": "cs",
-        "name": "břehouš aljašský"
+        "name": "Břehouš aljašský"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhostog Hudson"
       },
       {
         "lang": "da",
-        "name": "Canadisk Kobbersneppe"
+        "name": "Canadisk kobbersneppe"
       },
       {
         "lang": "de",
@@ -667,18 +682,19 @@
       },
       {
         "lang": "es",
-        "name": "Zarapito pico recto",
-        "synonyms": [
-          "Aguja Café"
-        ]
+        "name": "Zarapito pico recto"
       },
       {
         "lang": "et",
-        "name": "tumevigle"
+        "name": "Tumevigle"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌انبری هادسن"
       },
       {
         "lang": "fi",
-        "name": "eskimokuiri"
+        "name": "Eskimokuiri"
       },
       {
         "lang": "fr",
@@ -694,7 +710,7 @@
       },
       {
         "lang": "hu",
-        "name": "feketeszárnyú goda"
+        "name": "Feketeszárnyú goda"
       },
       {
         "lang": "is",
@@ -706,10 +722,7 @@
       },
       {
         "lang": "ja",
-        "name": "アメリカオグロシギ",
-        "synonyms": [
-          "amerikashigi"
-        ]
+        "name": "アメリカオグロシギ"
       },
       {
         "lang": "ko",
@@ -721,26 +734,27 @@
       },
       {
         "lang": "nl",
-        "name": "Hudsongrutto",
-        "synonyms": [
-          "Rode Grutto"
-        ]
+        "name": "Rode grutto"
       },
       {
         "lang": "no",
         "name": "Svartvingespove"
       },
       {
+        "lang": "nv",
+        "name": "Tábąąsdísí jáádnézí łibáhígíí"
+      },
+      {
         "lang": "pl",
         "name": "Szlamnik amerykański"
       },
       {
-        "lang": "pt-br",
-        "name": "Maçarico-de-bico-virado"
-      },
-      {
         "lang": "pt",
         "name": "Macaricao de bico virado"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Maçarico-de-bico-virado"
       },
       {
         "lang": "ru",
@@ -748,11 +762,11 @@
       },
       {
         "lang": "sk",
-        "name": "brehár jarabý"
+        "name": "Brehár jarabý"
       },
       {
         "lang": "sl",
-        "name": "pepelasti kljunač"
+        "name": "Pepelasti kljunač"
       },
       {
         "lang": "sv",
@@ -785,7 +799,11 @@
       },
       {
         "lang": "cs",
-        "name": "břehouš velký"
+        "name": "Břehouš velký"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhostog resog"
       },
       {
         "lang": "da",
@@ -793,10 +811,7 @@
       },
       {
         "lang": "de",
-        "name": "Amerikanische Pfuhlschnepfe",
-        "synonyms": [
-          "Marmorschnepfe"
-        ]
+        "name": "Amerikanische Pfuhlschnepfe"
       },
       {
         "lang": "en",
@@ -808,18 +823,19 @@
       },
       {
         "lang": "es",
-        "name": "Aguja Canela",
-        "synonyms": [
-          "Picopando canelo"
-        ]
+        "name": "Aguja canela"
       },
       {
         "lang": "et",
-        "name": "preeriavigle"
+        "name": "Preeriavigle"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌انبری مرمری"
       },
       {
         "lang": "fi",
-        "name": "ruostekuiri"
+        "name": "Ruostekuiri"
       },
       {
         "lang": "fr",
@@ -831,7 +847,7 @@
       },
       {
         "lang": "hu",
-        "name": "márványos goda"
+        "name": "Márványos goda"
       },
       {
         "lang": "it",
@@ -839,10 +855,11 @@
       },
       {
         "lang": "ja",
-        "name": "アメリカオオソリハシシギ",
-        "synonyms": [
-          "amerikaoosorihashishigi"
-        ]
+        "name": "アメリカオオソリハシシギ"
+      },
+      {
+        "lang": "kk",
+        "name": "Теңбіл шырғалақ"
       },
       {
         "lang": "lt",
@@ -857,15 +874,19 @@
         "name": "Kanelspove"
       },
       {
+        "lang": "nv",
+        "name": "Tábąąsdísí jáádnézí yistłʼinígíí"
+      },
+      {
         "lang": "pl",
         "name": "Szlamnik duży"
       },
       {
-        "lang": "pt-br",
-        "name": "maçarico-marmóreo"
+        "lang": "pt",
+        "name": "Maçarico-marmóreo"
       },
       {
-        "lang": "pt",
+        "lang": "pt-br",
         "name": "Maçarico-marmóreo"
       },
       {
@@ -874,7 +895,7 @@
       },
       {
         "lang": "sk",
-        "name": "brehár mramorovaný"
+        "name": "Brehár mramorovaný"
       },
       {
         "lang": "sv",

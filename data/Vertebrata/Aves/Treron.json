@@ -55,6 +55,50 @@
       {
         "lang": "es",
         "name": "Vinago de Sumba"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós de Sumba"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen werdd Ynys Swmba"
+      },
+      {
+        "lang": "de",
+        "name": "Sumba-Grüntaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar de Sumba"
+      },
+      {
+        "lang": "hu",
+        "name": "Szumba-szigeti zöldgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Сумба ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Soembapapegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "sumbagrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "سمبا ہرا کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "sumbagrönduva"
+      },
+      {
+        "lang": "vi",
+        "name": "Bồ câu xanh Sumba"
       }
     ]
   },
@@ -75,12 +119,36 @@
     "scientific_name": "Treron sieboldii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حمام أخضر أبيض البطن"
+      },
+      {
+        "lang": "ast",
+        "name": "Vinago xaponés"
+      },
+      {
+        "lang": "bg",
+        "name": "Японски зелен гълъб"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós ventreblanc"
+      },
+      {
         "lang": "cs",
         "name": "Holub japonský"
       },
       {
+        "lang": "cy",
+        "name": "Colomen werdd Japan"
+      },
+      {
+        "lang": "de",
+        "name": "Siebold-Grüntaube"
+      },
+      {
         "lang": "en",
-        "name": "White-bellied Green-Pigeon"
+        "name": "White-bellied Green Pigeon"
       },
       {
         "lang": "es",
@@ -91,8 +159,48 @@
         "name": "Colombar de Siebold"
       },
       {
+        "lang": "hu",
+        "name": "Fehérhasú lombgalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde panciabianca"
+      },
+      {
         "lang": "ja",
         "name": "アオバト"
+      },
+      {
+        "lang": "ko",
+        "name": "녹색비둘기"
+      },
+      {
+        "lang": "mrj",
+        "name": "Япони ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Japanse papegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitbukgrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "چٹے ٹڈوالا ہرا کبوتر"
+      },
+      {
+        "lang": "ru",
+        "name": "Японский зелёный голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbukig grönduva"
+      },
+      {
+        "lang": "vi",
+        "name": "Cu xanh bụng trắng"
       },
       {
         "lang": "zh",
@@ -123,6 +231,46 @@
       {
         "lang": "en",
         "name": "Sao Tome Green-Pigeon"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós de São Tomé"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen werdd Saõ Tomé"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar de Sao Tomé"
+      },
+      {
+        "lang": "hu",
+        "name": "São Tomé-i zöldgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Сан-Томе ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Sãotomépapegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "Kroknebbgrønndue"
+      },
+      {
+        "lang": "pl",
+        "name": "Treron papugodzioby"
+      },
+      {
+        "lang": "pnb",
+        "name": "ساؤٹومو ہرا کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "sãotomégrönduva"
       }
     ]
   },
@@ -136,6 +284,50 @@
       {
         "lang": "en",
         "name": "Timor Green-Pigeon"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós de Timor"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen werdd Timor"
+      },
+      {
+        "lang": "de",
+        "name": "Grüne Timortaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar unicolore"
+      },
+      {
+        "lang": "hu",
+        "name": "Timori zöldgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Тимор попугай кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Timorpapegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "timorgrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "تیمور ہرا کبوتر"
+      },
+      {
+        "lang": "pt",
+        "name": "Pombo-verde-de-timor"
+      },
+      {
+        "lang": "sv",
+        "name": "timorgrönduva"
       }
     ]
   },
@@ -143,12 +335,76 @@
     "scientific_name": "Treron pompadora",
     "common_names": [
       {
+        "lang": "as",
+        "name": "ইটাগুৰীয়া হাইঠা"
+      },
+      {
         "lang": "cs",
         "name": "Holub pompadur"
       },
       {
+        "lang": "cy",
+        "name": "Colomen werdd Pompadour"
+      },
+      {
+        "lang": "de",
+        "name": "Sri-Lanka-Pompadourtaube"
+      },
+      {
         "lang": "en",
-        "name": "Pompadour Green Pigeon"
+        "name": "Sri Lanka Green Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Pompadora verda kolombo"
+      },
+      {
+        "lang": "es",
+        "name": "Vinago de Ceilán"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar pompadour"
+      },
+      {
+        "lang": "hu",
+        "name": "Pompadour-zöldgalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde di Sri Lanka"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイビタイアオバト"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шри-Ланка ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Ceylonpapegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "Gulstrupegrønndue"
+      },
+      {
+        "lang": "ru",
+        "name": "Пепельноголовый зелёный голубь"
+      },
+      {
+        "lang": "si",
+        "name": "ශ්‍රී ලංකා බටගොයා"
+      },
+      {
+        "lang": "sv",
+        "name": "Ceylongrönduva"
+      },
+      {
+        "lang": "zh",
+        "name": "灰头绿鸠"
       }
     ]
   },
@@ -170,6 +426,59 @@
     ]
   },
   {
+    "scientific_name": "Treron phayrei",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colom verdós de Phayre"
+      },
+      {
+        "lang": "de",
+        "name": "Aschkopf-Pompadourtaube"
+      },
+      {
+        "lang": "en",
+        "name": "Ashy-headed Green Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Vinago del Himalaya"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar de Phayre"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde testacenere"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ломыж вуян ыжар кӓдӹ"
+      },
+      {
+        "lang": "my",
+        "name": "ခေါင်းမီးခိုးရောင်ငူ"
+      },
+      {
+        "lang": "ne",
+        "name": "फुस्रोटाउके हलेसो"
+      },
+      {
+        "lang": "nl",
+        "name": "Indochinese papegaaiduif"
+      },
+      {
+        "lang": "sv",
+        "name": "Gråhuvad grönduva"
+      },
+      {
+        "lang": "vi",
+        "name": "Cu xanh đuôi đen"
+      }
+    ]
+  },
+  {
     "scientific_name": "Treron pembaensis",
     "common_names": [
       {
@@ -179,6 +488,50 @@
       {
         "lang": "es",
         "name": "Vinago de Pemba"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós de l'illa de Pemba"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen werdd Zanzibar"
+      },
+      {
+        "lang": "en",
+        "name": "Pemba green pigeon"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar de Pemba"
+      },
+      {
+        "lang": "hu",
+        "name": "Pemba-szigeti zöldgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Пемба ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Pembapapegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "pembagrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "پمبا ہرا کبوتر"
+      },
+      {
+        "lang": "ru",
+        "name": "Пембасский зелёный голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "pembagrönduva"
       }
     ]
   },
@@ -188,6 +541,46 @@
       {
         "lang": "en",
         "name": "Sumatran Green-Pigeon"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós de Sumatra"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen werdd lostfain Swmatra"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbbauch-Grüntaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar à queue pointue"
+      },
+      {
+        "lang": "hu",
+        "name": "Szumátrai zöldgalamb"
+      },
+      {
+        "lang": "lt",
+        "name": "Sumatrinis žaliasis karvelis"
+      },
+      {
+        "lang": "mrj",
+        "name": "Суматра ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Sumatraanse papegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "nålhalegrønndue"
+      },
+      {
+        "lang": "sv",
+        "name": "sumatragrönduva"
       }
     ]
   },
@@ -201,6 +594,43 @@
       {
         "lang": "en",
         "name": "Little Green Pigeon"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Treron griveaudi",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colom verdós de les Comores"
+      },
+      {
+        "lang": "en",
+        "name": "Comoros Green Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Vinago de las Comoras"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar des Comores"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde delle Comore"
+      },
+      {
+        "lang": "mrj",
+        "name": "Комор ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Comorenpapegaaiduif"
+      },
+      {
+        "lang": "sv",
+        "name": "Komorgrönduva"
       }
     ]
   },
@@ -235,6 +665,46 @@
       {
         "lang": "ms",
         "name": "Burung Punai Bakau"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós cap-rogenc"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen werdd benfrown"
+      },
+      {
+        "lang": "de",
+        "name": "Zimtkopf-Grüntaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar à cou roux"
+      },
+      {
+        "lang": "hu",
+        "name": "Fahéjfejű zöldgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹрӓн вуян ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Waglers papegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "mangrovegrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "دارچینی سری ہری کگی"
+      },
+      {
+        "lang": "sv",
+        "name": "vinröd grönduva"
       }
     ]
   },
@@ -242,20 +712,64 @@
     "scientific_name": "Treron formosae",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Colom verdós de Taiwan"
+      },
+      {
         "lang": "cs",
         "name": "Holub tchajwanský"
       },
       {
+        "lang": "cy",
+        "name": "Colomen werdd Taiwan"
+      },
+      {
+        "lang": "de",
+        "name": "Formosa-Grüntaube"
+      },
+      {
         "lang": "en",
-        "name": "Whistling Green-Pigeon"
+        "name": "Taiwan Green Pigeon"
       },
       {
         "lang": "es",
         "name": "Vinago de Formosa"
       },
       {
+        "lang": "fr",
+        "name": "Colombar de Formose"
+      },
+      {
+        "lang": "hu",
+        "name": "Tajvani zöldgalamb"
+      },
+      {
         "lang": "ja",
-        "name": "ズアカアオバト"
+        "name": "タイワンズアカアオバト"
+      },
+      {
+        "lang": "mrj",
+        "name": "Тайвань ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Taiwanpapegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "taiwangrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "گاندا ہرا کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "taiwangrönduva"
+      },
+      {
+        "lang": "zh",
+        "name": "红顶绿鸠"
       }
     ]
   },
@@ -269,6 +783,50 @@
       {
         "lang": "es",
         "name": "Vinago de Flores"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós de l'illa de Flores"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen werdd Flores"
+      },
+      {
+        "lang": "de",
+        "name": "Flores-Grüntaube"
+      },
+      {
+        "lang": "en",
+        "name": "Flores green pigeon"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar de Florès"
+      },
+      {
+        "lang": "hu",
+        "name": "Floresi zöldgalamb"
+      },
+      {
+        "lang": "mrj",
+        "name": "Флорес ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Florespapegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "floresgrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "فلورس ہرا کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "floresgrönduva"
       }
     ]
   },
@@ -276,12 +834,149 @@
     "scientific_name": "Treron curvirostra",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حمام أخضر سميك المنقار"
+      },
+      {
+        "lang": "as",
+        "name": "বৰহাইঠা"
+      },
+      {
+        "lang": "ast",
+        "name": "Vinago piquigrueso"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós becgròs"
+      },
+      {
         "lang": "cs",
         "name": "Holub jihoasijský"
       },
       {
+        "lang": "cy",
+        "name": "Colomen werdd bigbraff"
+      },
+      {
+        "lang": "de",
+        "name": "Dickschnabel-Grüntaube"
+      },
+      {
         "lang": "en",
-        "name": "Thick-billed Green-Pigeon"
+        "name": "Thick-billed Green Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Dikbeka verda kolombo"
+      },
+      {
+        "lang": "es",
+        "name": "Vinago piquigrueso"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar à gros bec"
+      },
+      {
+        "lang": "hu",
+        "name": "Papagájcsőrű zöldgalamb"
+      },
+      {
+        "lang": "id",
+        "name": "Punai lengguak"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde beccogrosso"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹжгӹ нерӓн ыжар кӓдӹ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Punai Lengguak"
+      },
+      {
+        "lang": "my",
+        "name": "နှုတ်သီးထူငူ"
+      },
+      {
+        "lang": "ne",
+        "name": "मोटोठुँडे हलेसो"
+      },
+      {
+        "lang": "nl",
+        "name": "Dikbekpapegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "Tykknebbgrønndue"
+      },
+      {
+        "lang": "sv",
+        "name": "Tjocknäbbad grönduva"
+      },
+      {
+        "lang": "vi",
+        "name": "Cu xanh mỏ quặp"
+      },
+      {
+        "lang": "zh",
+        "name": "厚嘴绿鸠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Treron chloropterus",
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "আন্দামান সবুজ পায়রা"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós de les Andaman"
+      },
+      {
+        "lang": "de",
+        "name": "Andamanen-Pompadourtaube"
+      },
+      {
+        "lang": "en",
+        "name": "Andaman Green Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Vinago de las Andamán"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar des Andaman"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde delle Andamane"
+      },
+      {
+        "lang": "mrj",
+        "name": "Андаман ыжар кӓдӹ"
+      },
+      {
+        "lang": "my",
+        "name": "ကိုကိုးငူ"
+      },
+      {
+        "lang": "nl",
+        "name": "Andamanenpapegaaiduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "انڈیمانی ہرا کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "Andamangrönduva"
       }
     ]
   },
@@ -303,6 +998,58 @@
       {
         "lang": "th",
         "name": "นกเปล้าใหญ่"
+      },
+      {
+        "lang": "ar",
+        "name": "حمام أخضر كبير"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós gros"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen werdd fawr"
+      },
+      {
+        "lang": "de",
+        "name": "Große Grüntaube"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar de Capelle"
+      },
+      {
+        "lang": "hu",
+        "name": "Vastagcsőrű zöldgalamb"
+      },
+      {
+        "lang": "id",
+        "name": "Punai besar"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кого ыжар кӓдӹ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Punai Bakok"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote papegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "Goliatgrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "وڈا ہرا کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "större grönduva"
       }
     ]
   },
@@ -314,12 +1061,96 @@
         "name": "Papegaaiduif"
       },
       {
+        "lang": "bg",
+        "name": "Африкански зелен гълъб"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós africà"
+      },
+      {
         "lang": "cs",
         "name": "Holub africký"
       },
       {
+        "lang": "cy",
+        "name": "Colomen werdd Affrica"
+      },
+      {
+        "lang": "da",
+        "name": "Papegøjedue"
+      },
+      {
+        "lang": "de",
+        "name": "Rotnasen-Grüntaube"
+      },
+      {
         "lang": "en",
-        "name": "African Green-Pigeon"
+        "name": "African Green Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Vinago africano común"
+      },
+      {
+        "lang": "et",
+        "name": "Aafrika viigituvi"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar à front nu"
+      },
+      {
+        "lang": "he",
+        "name": "יונה ירוקה אפריקנית"
+      },
+      {
+        "lang": "hu",
+        "name": "Afrikai lombgalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde africano"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカアオバト"
+      },
+      {
+        "lang": "mni",
+        "name": "ꯑꯐ꯭ꯔꯤꯀꯥꯟ ꯈꯨꯅꯨ ꯑꯁꯪꯕꯤ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Африка ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse Papegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "Afrikagrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "افریقی ہرا کبوتر"
+      },
+      {
+        "lang": "pt",
+        "name": "Pombo-verde-africano"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканский зеленый голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk grönduva"
+      },
+      {
+        "lang": "vi",
+        "name": "Bồ câu lục châu Phi"
       }
     ]
   },
@@ -401,19 +1232,161 @@
     ]
   },
   {
+    "scientific_name": "Treron axillaris",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colom verdós de les Filipines"
+      },
+      {
+        "lang": "de",
+        "name": "Philippinen-Pompadourtaube"
+      },
+      {
+        "lang": "en",
+        "name": "Philippine Green Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Vinago axilar"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar des Philippines"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde delle Filippine"
+      },
+      {
+        "lang": "mrj",
+        "name": "Филиппин ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Filipijnse papegaaiduif"
+      },
+      {
+        "lang": "sv",
+        "name": "Filippingrönduva"
+      }
+    ]
+  },
+  {
     "scientific_name": "Treron australis",
     "common_names": [
+      {
+        "lang": "bg",
+        "name": "Мадагаскарски зелен гълъб"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós de Madagascar"
+      },
       {
         "lang": "cs",
         "name": "Holub mohelský"
       },
       {
+        "lang": "cy",
+        "name": "Colomen werdd Madagasgar"
+      },
+      {
+        "lang": "de",
+        "name": "Madagaskar-Grüntaube"
+      },
+      {
         "lang": "en",
-        "name": "Madagascar Green-Pigeon"
+        "name": "Madagascan Green Pigeon"
       },
       {
         "lang": "es",
         "name": "Vinago malgache"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinviherkyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar maïtsou"
+      },
+      {
+        "lang": "hu",
+        "name": "Pirosvállú zöldgalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde del Madagascar"
+      },
+      {
+        "lang": "mrj",
+        "name": "Мадагаскар ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskarpapegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "Gassergrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "مڈغاسکر ہرا کبوتر"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарский зелёный голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Madagaskargrönduva"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Treron aromaticus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colom verdós de Buru"
+      },
+      {
+        "lang": "de",
+        "name": "Burutaube"
+      },
+      {
+        "lang": "en",
+        "name": "Buru Green Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Vinago de Buru"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar de Buru"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde di Buru"
+      },
+      {
+        "lang": "mrj",
+        "name": "Буру ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Burupapegaaiduif"
+      },
+      {
+        "lang": "pnb",
+        "name": "پوری گلوالا ہرا کبوتر"
+      },
+      {
+        "lang": "sv",
+        "name": "Burugrönduva"
       }
     ]
   },
@@ -421,12 +1394,137 @@
     "scientific_name": "Treron apicauda",
     "common_names": [
       {
+        "lang": "ast",
+        "name": "Vinago rabudu"
+      },
+      {
+        "lang": "bg",
+        "name": "Остроопашат зелен гълъб"
+      },
+      {
+        "lang": "bn",
+        "name": "ল্যাঞ্জা হরিয়াল"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom verdós cuallarg"
+      },
+      {
         "lang": "cs",
         "name": "Holub ostroocasý"
       },
       {
+        "lang": "cy",
+        "name": "Colomen werdd lostfain"
+      },
+      {
+        "lang": "de",
+        "name": "Spitzschwanz-Grüntaube"
+      },
+      {
         "lang": "en",
-        "name": "Pin-tailed Green-Pigeon"
+        "name": "Pin-tailed Green Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Vinago rabudo"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar à longue queue"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyílfarkú zöldgalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde codaspillo"
+      },
+      {
+        "lang": "mrj",
+        "name": "Вуйжыр пачан ыжар кӓдӹ"
+      },
+      {
+        "lang": "my",
+        "name": "ငူမြီးချွန်"
+      },
+      {
+        "lang": "ne",
+        "name": "सुइरोपुच्छ्रे हलेसो"
+      },
+      {
+        "lang": "nl",
+        "name": "Spitsstaartpapegaaiduif"
+      },
+      {
+        "lang": "no",
+        "name": "Lansettgrønndue"
+      },
+      {
+        "lang": "pnb",
+        "name": "پتلیپوجھلوالا ہرا کبوتر"
+      },
+      {
+        "lang": "ru",
+        "name": "Острохвостый зелёный голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Spetsstjärtad grönduva"
+      },
+      {
+        "lang": "vi",
+        "name": "Cu xanh đuôi nhọn"
+      },
+      {
+        "lang": "zh",
+        "name": "针尾绿鸠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Treron affinis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Colom verdós dels Ghats"
+      },
+      {
+        "lang": "de",
+        "name": "Graustirn-Pompadourtaube"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-fronted Green Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Vinago de los Ghats"
+      },
+      {
+        "lang": "fr",
+        "name": "Colombar des Ghats"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione verde frontegrigia"
+      },
+      {
+        "lang": "ml",
+        "name": "ചാരവരിയൻ പ്രാവ്"
+      },
+      {
+        "lang": "mrj",
+        "name": "Луды лепкӓн ыжар кӓдӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Indiase papegaaiduif"
+      },
+      {
+        "lang": "sv",
+        "name": "Malabargrönduva"
       }
     ]
   }

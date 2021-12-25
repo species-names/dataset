@@ -63,6 +63,10 @@
         "name": "Meyer's Parrot"
       },
       {
+        "lang": "nl",
+        "name": "Meyers papegaai"
+      },
+      {
         "lang": "fi",
         "name": "Afrikankaija"
       },
@@ -129,6 +133,22 @@
     "scientific_name": "Poicephalus cryptoxanthus",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Bruinkoppapegaai"
+      },
+      {
+        "lang": "ca",
+        "name": "Lloro capbrú"
+      },
+      {
+        "lang": "cs",
+        "name": "Papoušek hnědohlavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Parot penfrown"
+      },
+      {
         "lang": "de",
         "name": "Braunkopfpapagei"
       },
@@ -137,8 +157,48 @@
         "name": "Brown-headed Parrot"
       },
       {
+        "lang": "es",
+        "name": "Loro de cabeza marrón"
+      },
+      {
+        "lang": "fi",
+        "name": "Mosambikinkaija"
+      },
+      {
         "lang": "fr",
         "name": "Perroquet à tête brune"
+      },
+      {
+        "lang": "he",
+        "name": "תוכי חום-ראש"
+      },
+      {
+        "lang": "hu",
+        "name": "Barnafejű papagáj"
+      },
+      {
+        "lang": "it",
+        "name": "Pappagallo testabruna"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӹрӓн вуян кужы шылдыран попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruinkoppapegaai"
+      },
+      {
+        "lang": "pnb",
+        "name": "پؤرا سر طوطا"
+      },
+      {
+        "lang": "ru",
+        "name": "Буроголовый длиннокрылый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "Brunhuvad papegoja"
       }
     ]
   },

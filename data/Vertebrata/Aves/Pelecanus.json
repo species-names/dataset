@@ -3,15 +3,24 @@
     "scientific_name": "Pelecanus thagus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Chilepelikan"
+      },
+      {
         "lang": "en",
         "name": "Peruvian Pelican"
       },
       {
+        "lang": "eo",
+        "name": "Perua pelikano"
+      },
+      {
+        "lang": "es",
+        "name": "Pelícano peruano"
+      },
+      {
         "lang": "fr",
-        "name": "pélican thage",
-        "synonyms": [
-          "pélican brun du Pérou"
-        ]
+        "name": "Pélican thage"
       },
       {
         "lang": "it",
@@ -35,8 +44,16 @@
         "name": "بجع رمادي"
       },
       {
+        "lang": "de",
+        "name": "Rötelpelikan"
+      },
+      {
+        "lang": "eo",
+        "name": "Rozdorsa pelikano"
+      },
+      {
         "lang": "fr",
-        "name": "pélican gris"
+        "name": "Pélican gris"
       },
       {
         "lang": "ja",
@@ -77,7 +94,11 @@
       },
       {
         "lang": "eo",
-        "name": "Makulbeka pelikano"
+        "name": "Makulbeka pelikano",
+        "synonyms": [
+          "Griza pelikano",
+          "Filipina pelikano"
+        ]
       },
       {
         "lang": "es",
@@ -170,7 +191,7 @@
       },
       {
         "lang": "ar",
-        "name": "بجع أبيض"
+        "name": "بجعة بيضاء كبيرة"
       },
       {
         "lang": "az",
@@ -178,14 +199,15 @@
       },
       {
         "lang": "be",
-        "name": "Ружавы пэлікан",
-        "synonyms": [
-          "Ружовы пелікан"
-        ]
+        "name": "Ружавы пэлікан"
       },
       {
         "lang": "bg",
         "name": "Розов пеликан"
+      },
+      {
+        "lang": "bh",
+        "name": "देवहंस"
       },
       {
         "lang": "br",
@@ -197,11 +219,11 @@
       },
       {
         "lang": "ce",
-        "name": "Ćién bos bolu pelikan"
+        "name": "ЦӀиэн бос болу пеликан"
       },
       {
         "lang": "cs",
-        "name": "pelikán bílý"
+        "name": "Pelikán bílý"
       },
       {
         "lang": "cy",
@@ -221,12 +243,7 @@
       },
       {
         "lang": "en",
-        "name": "Great White Pelican",
-        "synonyms": [
-          "Eastern White Pelican",
-          "Rosy Pelican",
-          "White Pelican"
-        ]
+        "name": "Great White Pelican"
       },
       {
         "lang": "eo",
@@ -238,22 +255,19 @@
       },
       {
         "lang": "et",
-        "name": "Pelikan",
-        "synonyms": [
-          "pelikan (roosapelikan)"
-        ]
+        "name": "Pelikan"
       },
       {
         "lang": "eu",
-        "name": "Pelikano"
+        "name": "Pelikano arrunt"
       },
       {
         "lang": "fa",
-        "name": "پلیکان بزرگ سفید"
+        "name": "پلیکان سفید بزرگ"
       },
       {
         "lang": "fi",
-        "name": "pelikaani"
+        "name": "Pelikaani"
       },
       {
         "lang": "fr",
@@ -285,7 +299,7 @@
       },
       {
         "lang": "hy",
-        "name": "Հավալուսն վարդագույն"
+        "name": "Վարդագույն հավալուսն"
       },
       {
         "lang": "id",
@@ -297,17 +311,11 @@
       },
       {
         "lang": "it",
-        "name": "Pellicano comune",
-        "synonyms": [
-          "pellicano bianco"
-        ]
+        "name": "Pellicano bianco"
       },
       {
         "lang": "ja",
-        "name": "モモイロペリカン",
-        "synonyms": [
-          "momoiroperikan"
-        ]
+        "name": "モモイロペリカン"
       },
       {
         "lang": "ka",
@@ -322,6 +330,10 @@
         "name": "Қызғылт бірқазан"
       },
       {
+        "lang": "ky",
+        "name": "Кызгылт бирказан"
+      },
+      {
         "lang": "lt",
         "name": "Rožinis pelikanas"
       },
@@ -331,11 +343,15 @@
       },
       {
         "lang": "mk",
-        "name": "Розов (Обичен) пеликан"
+        "name": "Обичен пеликан"
       },
       {
         "lang": "ml",
-        "name": "പെലിക്കൻ"
+        "name": "വെൺ കൊതുമ്പന്നം"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ошалгы-якшар пеликан"
       },
       {
         "lang": "ms",
@@ -350,6 +366,10 @@
         "name": "စက္ကဝက်ငှက်"
       },
       {
+        "lang": "ne",
+        "name": "ठूलो घाउँके हावासील"
+      },
+      {
         "lang": "nl",
         "name": "Roze pelikaan"
       },
@@ -358,11 +378,12 @@
         "name": "Hvitpelikan"
       },
       {
+        "lang": "olo",
+        "name": "Pelikuanu"
+      },
+      {
         "lang": "pl",
-        "name": "Pelikan różowy",
-        "synonyms": [
-          "pelikan baba"
-        ]
+        "name": "Pelikan różowy"
       },
       {
         "lang": "pnb",
@@ -386,18 +407,15 @@
       },
       {
         "lang": "sh",
-        "name": "Ružičasti pelikan",
-        "synonyms": [
-          "Ружичасти пеликан"
-        ]
+        "name": "Ružičasti pelikan - Ружичасти пеликан"
       },
       {
         "lang": "sk",
-        "name": "pelikán ružový"
+        "name": "Pelikán ružový"
       },
       {
         "lang": "sl",
-        "name": "rožnati pelikan"
+        "name": "Rožnati pelikan"
       },
       {
         "lang": "sq",
@@ -416,6 +434,10 @@
         "name": "Mwari Mweupe"
       },
       {
+        "lang": "tl",
+        "name": "Mahusay puting pagala"
+      },
+      {
         "lang": "tr",
         "name": "Ak pelikan"
       },
@@ -425,11 +447,11 @@
       },
       {
         "lang": "uk",
-        "name": "Рожевий пелікан"
+        "name": "Пелікан рожевий"
       },
       {
         "lang": "vi",
-        "name": "Bồ nông chân hồng"
+        "name": "Bồ nông trắng lớn"
       },
       {
         "lang": "xh",
@@ -606,6 +628,13 @@
         "name": "American White Pelican"
       },
       {
+        "lang": "eo",
+        "name": "Amerika blanka pelikano",
+        "synonyms": [
+          "Ruĝbeka pelikano"
+        ]
+      },
+      {
         "lang": "es",
         "name": "Pelícano Norteamericano"
       },
@@ -693,6 +722,10 @@
         "name": "Dalmatian Pelican"
       },
       {
+        "lang": "eo",
+        "name": "Krispa pelikano"
+      },
+      {
         "lang": "es",
         "name": "Pelícano ceñudo"
       },
@@ -702,7 +735,7 @@
       },
       {
         "lang": "fr",
-        "name": "pélican frisé"
+        "name": "Pélican frisé"
       },
       {
         "lang": "gl",
@@ -773,12 +806,19 @@
         "name": "Australian Pelican"
       },
       {
+        "lang": "eo",
+        "name": "Aŭstralia pelikano",
+        "synonyms": [
+          "Okulvitra pelikano"
+        ]
+      },
+      {
         "lang": "es",
         "name": "Pelícano australiano"
       },
       {
         "lang": "fr",
-        "name": "pélican à lunettes"
+        "name": "Pélican à lunettes"
       },
       {
         "lang": "it",

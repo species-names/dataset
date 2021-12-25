@@ -3,8 +3,20 @@
     "scientific_name": "Aythya valisineria",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Morilhon kein gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Morell dorsiblanc"
+      },
+      {
         "lang": "cs",
         "name": "Polák dlouhozobý"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden bengoch fawr"
       },
       {
         "lang": "da",
@@ -19,12 +31,20 @@
         "name": "Canvasback"
       },
       {
+        "lang": "eo",
+        "name": "Heldorsa anaso"
+      },
+      {
         "lang": "es",
-        "name": "Porrón Coacoxtle"
+        "name": "Porrón coacoxtle"
       },
       {
         "lang": "et",
         "name": "Suurvart"
+      },
+      {
+        "lang": "fa",
+        "name": "بوم‌پشت"
       },
       {
         "lang": "fi",
@@ -39,8 +59,16 @@
         "name": "Fuligule à dos blanc"
       },
       {
+        "lang": "he",
+        "name": "צולל גב-קנבס"
+      },
+      {
         "lang": "ht",
         "name": "Kanna do blanch"
+      },
+      {
+        "lang": "hr",
+        "name": "Prugastoleđa patka"
       },
       {
         "lang": "hu",
@@ -67,12 +95,20 @@
         "name": "Žilanugarė antis"
       },
       {
+        "lang": "ml",
+        "name": "കാൻവാസ്ബാക്ക്"
+      },
+      {
         "lang": "nl",
         "name": "Grote tafeleend"
       },
       {
         "lang": "no",
         "name": "Kanvasand"
+      },
+      {
+        "lang": "nv",
+        "name": "Naalʼeełíłtsooí"
       },
       {
         "lang": "pl",
@@ -84,7 +120,7 @@
       },
       {
         "lang": "ru",
-        "name": "Длинноносый красноголовый нырок"
+        "name": "Парусиновый нырок"
       },
       {
         "lang": "sk",
@@ -103,8 +139,16 @@
         "name": "Büyük Elmabaş"
       },
       {
+        "lang": "uk",
+        "name": "Попелюх довгодзьобий"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt lặn vai buồm"
+      },
+      {
         "lang": "zh",
-        "name": "帆背潜鸭"
+        "name": "帆背潛鴨"
       }
     ]
   },
@@ -389,12 +433,24 @@
         "name": "Polák tmavý"
       },
       {
+        "lang": "cy",
+        "name": "Hwyaden benddu Seland Newydd"
+      },
+      {
+        "lang": "da",
+        "name": "Newzealandsk troldand"
+      },
+      {
         "lang": "de",
         "name": "Maori-Ente"
       },
       {
         "lang": "en",
         "name": "New Zealand Scaup"
+      },
+      {
+        "lang": "eo",
+        "name": "Novzelanda merganaso"
       },
       {
         "lang": "es",
@@ -429,6 +485,10 @@
         "name": "ニュージーランドスズガモ"
       },
       {
+        "lang": "mi",
+        "name": "Pāpango"
+      },
+      {
         "lang": "nl",
         "name": "Nieuw-Zeelandse topper"
       },
@@ -439,6 +499,10 @@
       {
         "lang": "no",
         "name": "Maoridykkand"
+      },
+      {
+        "lang": "nv",
+        "name": "Łeesdísí Bikéyahdę́ę́ʼ naalʼeełí diłhiłígíí"
       },
       {
         "lang": "pl",
@@ -455,6 +519,10 @@
       {
         "lang": "vi",
         "name": "Vịt bãi New Zealand"
+      },
+      {
+        "lang": "zh",
+        "name": "紐西蘭潛鴨"
       }
     ]
   },
@@ -603,7 +671,7 @@
       },
       {
         "lang": "ka",
-        "name": "ზღკის ყვინთია"
+        "name": "ზღვის ყვინთია"
       },
       {
         "lang": "kk",
@@ -746,10 +814,6 @@
         "name": "Polák madagaskarský"
       },
       {
-        "lang": "de",
-        "name": "Madagaskar-Moorente"
-      },
-      {
         "lang": "en",
         "name": "Madagascar Pochard"
       },
@@ -762,12 +826,80 @@
         "name": "Fuligule de Madagascar"
       },
       {
+        "lang": "hu",
+        "name": "Madagaszkári cigányréce"
+      },
+      {
         "lang": "no",
         "name": "Alaotraand"
       },
       {
         "lang": "sv",
-        "name": "Madagaskarbrunand"
+        "name": "madagaskarbrunand"
+      },
+      {
+        "lang": "br",
+        "name": "Morilhon Madagaskar"
+      },
+      {
+        "lang": "ca",
+        "name": "Morell de Madagascar"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden bengoch Madagasgar"
+      },
+      {
+        "lang": "da",
+        "name": "Madagaskar hvidøjet and"
+      },
+      {
+        "lang": "de",
+        "name": "Madagaskar-Moorente"
+      },
+      {
+        "lang": "eo",
+        "name": "Madagaskara merganaso"
+      },
+      {
+        "lang": "fa",
+        "name": "اردک ساکت ماداگاسکار"
+      },
+      {
+        "lang": "hr",
+        "name": "Madagaskarska patka"
+      },
+      {
+        "lang": "ja",
+        "name": "マダガスカルメジロガモ"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskarwitoogeend"
+      },
+      {
+        "lang": "pl",
+        "name": "Podgorzałka madagaskarska"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарский нырок"
+      },
+      {
+        "lang": "sh",
+        "name": "Madagaskarska patka"
+      },
+      {
+        "lang": "uk",
+        "name": "Попелюх мадагаскарський"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt đầu nâu Madagascar"
+      },
+      {
+        "lang": "zh",
+        "name": "馬島潛鴨"
       }
     ]
   },
@@ -943,7 +1075,10 @@
       },
       {
         "lang": "ka",
-        "name": "ქოჩორა ყკინთია"
+        "name": "ქოჩორა შავულა იხვი",
+        "synonyms": [
+          "ქოჩორა ყვინთია"
+        ]
       },
       {
         "lang": "kbd",
@@ -1131,8 +1266,12 @@
         "name": "Кафявоглава потапница"
       },
       {
+        "lang": "bn",
+        "name": "পাতি ভুতিহাঁস"
+      },
+      {
         "lang": "br",
-        "name": "Ar morilhon penn ruz"
+        "name": "Morilhon penn ruz"
       },
       {
         "lang": "ca",
@@ -1172,10 +1311,7 @@
       },
       {
         "lang": "en",
-        "name": "Common Pochard",
-        "synonyms": [
-          "Pochard"
-        ]
+        "name": "Common Pochard"
       },
       {
         "lang": "eo",
@@ -1191,15 +1327,15 @@
       },
       {
         "lang": "eu",
-        "name": "Murgilari arrunta"
+        "name": "Murgilari arrunt"
       },
       {
-        "lang": "fa ",
-        "name": "اردک تاجدار"
+        "lang": "fa",
+        "name": "اردک سرحنایی"
       },
       {
         "lang": "fi",
-        "name": "punasotka"
+        "name": "Punasotka"
       },
       {
         "lang": "fo",
@@ -1223,7 +1359,7 @@
       },
       {
         "lang": "gd",
-        "name": "Lach Mhàsach"
+        "name": "Lach-mhàsach"
       },
       {
         "lang": "gl",
@@ -1235,7 +1371,7 @@
       },
       {
         "lang": "he",
-        "name": "צולל חלוד"
+        "name": "צולל חלודי"
       },
       {
         "lang": "hr",
@@ -1247,7 +1383,7 @@
       },
       {
         "lang": "hy",
-        "name": "Սուզաբադ կարմրագլուխ"
+        "name": "Կարմրագլուխ սուզաբադ"
       },
       {
         "lang": "is",
@@ -1294,8 +1430,16 @@
         "name": "Црвеноглав кожувар"
       },
       {
+        "lang": "ml",
+        "name": "ചെന്തലയൻ എരണ്ട"
+      },
+      {
         "lang": "mn",
         "name": "Улаанхүзүү шумбуур"
+      },
+      {
+        "lang": "mr",
+        "name": "छोटी लालसरी"
       },
       {
         "lang": "mt",
@@ -1307,11 +1451,19 @@
       },
       {
         "lang": "nl",
-        "name": "tafeleend"
+        "name": "Tafeleend"
       },
       {
         "lang": "no",
         "name": "Taffeland"
+      },
+      {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ naalʼeełí bitsiiʼ halchíiʼii"
+      },
+      {
+        "lang": "olo",
+        "name": "Ruskeisotku"
       },
       {
         "lang": "pcd",
@@ -1319,10 +1471,7 @@
       },
       {
         "lang": "pl",
-        "name": "Głowienka",
-        "synonyms": [
-          "Kaczka rdzawogłowa"
-        ]
+        "name": "Głowienka zwyczajna"
       },
       {
         "lang": "pnb",
@@ -1366,18 +1515,15 @@
       },
       {
         "lang": "sh",
-        "name": "Glavata patka",
-        "synonyms": [
-          "Главата патка"
-        ]
+        "name": "Glavata patka - Главата патка"
       },
       {
         "lang": "sk",
-        "name": "chochlačka sivá"
+        "name": "Chochlačka sivá"
       },
       {
         "lang": "sl",
-        "name": "sivka"
+        "name": "Sivka"
       },
       {
         "lang": "sq",
@@ -1385,7 +1531,7 @@
       },
       {
         "lang": "sr",
-        "name": "Риђоглава патка (Riđoglava patka)"
+        "name": "Риђоглава патка - Riđoglava patka"
       },
       {
         "lang": "sv",
@@ -1420,12 +1566,20 @@
         "name": "Moreton"
       },
       {
+        "lang": "uz",
+        "name": "Koʻkbel"
+      },
+      {
         "lang": "vi",
         "name": "Vịt đầu đỏ"
       },
       {
         "lang": "zh",
         "name": "红头潜鸭"
+      },
+      {
+        "lang": "ta",
+        "name": "களியன்"
       }
     ]
   },
@@ -1433,12 +1587,28 @@
     "scientific_name": "Aythya collaris",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بط دائري العنق"
+      },
+      {
+        "lang": "bg",
+        "name": "Пръстенчатоклюна потапница"
+      },
+      {
         "lang": "br",
         "name": "Morilhon gwalenn-veg"
       },
       {
+        "lang": "ca",
+        "name": "Morell de collar"
+      },
+      {
         "lang": "cs",
-        "name": "polák proužkozobý"
+        "name": "Polák proužkozobý"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden dorchog"
       },
       {
         "lang": "da",
@@ -1453,6 +1623,10 @@
         "name": "Ring-necked Duck"
       },
       {
+        "lang": "eo",
+        "name": "Bekringa anaso"
+      },
+      {
         "lang": "es",
         "name": "Porrón Acollarado"
       },
@@ -1461,15 +1635,36 @@
         "name": "Lannuvart"
       },
       {
+        "lang": "eu",
+        "name": "Murgilari lepokodun"
+      },
+      {
+        "lang": "fa",
+        "name": "اردک طوقی"
+      },
+      {
         "lang": "fi",
-        "name": "amerikantukkasotka"
+        "name": "Amerikantukkasotka"
+      },
+      {
+        "lang": "fo",
+        "name": "Helsut trøllont"
       },
       {
         "lang": "fr",
-        "name": "Fuligule à collier",
-        "synonyms": [
-          "Fuligule à bec cerclé"
-        ]
+        "name": "Fuligule à collier"
+      },
+      {
+        "lang": "ga",
+        "name": "Lacha mhuinceach"
+      },
+      {
+        "lang": "gl",
+        "name": "Pato de colar"
+      },
+      {
+        "lang": "hr",
+        "name": "Prstenastovrata patka"
       },
       {
         "lang": "hu",
@@ -1485,10 +1680,7 @@
       },
       {
         "lang": "ja",
-        "name": "クビワキンクロ",
-        "synonyms": [
-          "kubiwakinkuro"
-        ]
+        "name": "クビワキンクロ"
       },
       {
         "lang": "nl",
@@ -1499,8 +1691,16 @@
         "name": "Ringand"
       },
       {
+        "lang": "nv",
+        "name": "Naalʼeełí diłhiłígíí"
+      },
+      {
+        "lang": "olo",
+        "name": "Amerikantukkusotku"
+      },
+      {
         "lang": "pl",
-        "name": "czerniczka"
+        "name": "Czerniczka"
       },
       {
         "lang": "pt",
@@ -1511,12 +1711,24 @@
         "name": "Ошейниковая чернеть"
       },
       {
+        "lang": "sh",
+        "name": "Prstenastovrata patka"
+      },
+      {
         "lang": "sk",
-        "name": "chochlačka obojková"
+        "name": "Chochlačka obojková"
       },
       {
         "lang": "sv",
         "name": "Ringand"
+      },
+      {
+        "lang": "uk",
+        "name": "Чернь канадська"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt khoang cổ"
       },
       {
         "lang": "zh",
@@ -1528,8 +1740,24 @@
     "scientific_name": "Aythya baeri",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "বেয়ারের ভুঁতিহাস"
+      },
+      {
+        "lang": "br",
+        "name": "Morilhon Baer"
+      },
+      {
+        "lang": "ca",
+        "name": "Morell de Baer"
+      },
+      {
         "lang": "cs",
-        "name": "polák černohlavý"
+        "name": "Polák černohlavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden benddu Baer"
       },
       {
         "lang": "da",
@@ -1544,24 +1772,36 @@
         "name": "Baer's Pochard"
       },
       {
+        "lang": "eo",
+        "name": "Baera anaso"
+      },
+      {
         "lang": "es",
         "name": "Porrón de Baer"
       },
       {
         "lang": "et",
-        "name": "amuuri vart"
+        "name": "Amuuri vart"
+      },
+      {
+        "lang": "fa",
+        "name": "اردک ساکت بائر"
       },
       {
         "lang": "fi",
-        "name": "kiinansotka"
+        "name": "Kiinansotka"
       },
       {
         "lang": "fr",
         "name": "Fuligule de Baer"
       },
       {
+        "lang": "hr",
+        "name": "Baerova patka"
+      },
+      {
         "lang": "hu",
-        "name": "mandzsu réce"
+        "name": "Mandzsu réce"
       },
       {
         "lang": "it",
@@ -1569,14 +1809,23 @@
       },
       {
         "lang": "ja",
-        "name": "アカハジロ",
-        "synonyms": [
-          "akahajiro"
-        ]
+        "name": "アカハジロ"
       },
       {
         "lang": "ko",
         "name": "붉은가슴흰죽지"
+      },
+      {
+        "lang": "mn",
+        "name": "Ухаа шумбуур"
+      },
+      {
+        "lang": "ms",
+        "name": "Itik Baer"
+      },
+      {
+        "lang": "ne",
+        "name": "देवहाँस"
       },
       {
         "lang": "nl",
@@ -1587,8 +1836,16 @@
         "name": "Amurand"
       },
       {
+        "lang": "nv",
+        "name": "Náátsʼózídę́ę́ʼ naalʼeełí táłtłʼááh nálnoʼígíí"
+      },
+      {
         "lang": "pl",
-        "name": "podgorzałka zielonogłowa"
+        "name": "Podgorzałka zielonogłowa"
+      },
+      {
+        "lang": "pnb",
+        "name": "بائر دا پوچارڈ"
       },
       {
         "lang": "pt",
@@ -1599,8 +1856,12 @@
         "name": "Нырок Бэра"
       },
       {
+        "lang": "sh",
+        "name": "Baerova patka"
+      },
+      {
         "lang": "sk",
-        "name": "chochlačka gaštanová"
+        "name": "Chochlačka gaštanová"
       },
       {
         "lang": "sv",
@@ -1613,6 +1874,10 @@
       {
         "lang": "tr",
         "name": "Ak-gözlü Patka"
+      },
+      {
+        "lang": "uk",
+        "name": "Чернь зеленоголова"
       },
       {
         "lang": "vi",
@@ -1628,8 +1893,24 @@
     "scientific_name": "Aythya australis",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Morilhon Aostralia"
+      },
+      {
+        "lang": "ca",
+        "name": "Morell australià"
+      },
+      {
         "lang": "cs",
         "name": "Polák hnědavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden lygadwen Awstralia"
+      },
+      {
+        "lang": "da",
+        "name": "Australsk taffeland"
       },
       {
         "lang": "de",
@@ -1640,20 +1921,76 @@
         "name": "Hardhead"
       },
       {
+        "lang": "eo",
+        "name": "Aŭstralia merganaso"
+      },
+      {
+        "lang": "es",
+        "name": "Porrón australiano"
+      },
+      {
+        "lang": "fa",
+        "name": "سرسخت"
+      },
+      {
+        "lang": "fi",
+        "name": "Australiansotka"
+      },
+      {
         "lang": "fr",
         "name": "Fuligule austral"
+      },
+      {
+        "lang": "hr",
+        "name": "Tvrdoglavka"
+      },
+      {
+        "lang": "hu",
+        "name": "Ausztrál cigányréce"
+      },
+      {
+        "lang": "id",
+        "name": "Kambangan australia"
+      },
+      {
+        "lang": "it",
+        "name": "Moretta australiana"
       },
       {
         "lang": "ja",
         "name": "オーストラリアメジロガモ"
       },
       {
+        "lang": "nl",
+        "name": "Australische witoogeend"
+      },
+      {
+        "lang": "nn",
+        "name": "Australdukkand"
+      },
+      {
         "lang": "no",
         "name": "Australdykkand"
       },
       {
+        "lang": "nv",
+        "name": "Nahatʼeʼiitsoh Bikéyahdę́ę́ʼ naalʼeełí binááʼ łigaaígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Podgorzałka australijska"
+      },
+      {
+        "lang": "sh",
+        "name": "Tvrdoglavka"
+      },
+      {
         "lang": "sv",
         "name": "Australisk dykand"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt đầu cứng"
       }
     ]
   },
@@ -1674,7 +2011,11 @@
       },
       {
         "lang": "cs",
-        "name": "polák americký"
+        "name": "Polák americký"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden bengoch America"
       },
       {
         "lang": "da",
@@ -1687,6 +2028,10 @@
       {
         "lang": "en",
         "name": "Redhead"
+      },
+      {
+        "lang": "eo",
+        "name": "Malheldorsa anaso"
       },
       {
         "lang": "es",
@@ -1703,6 +2048,10 @@
       {
         "lang": "fr",
         "name": "Fuligule à tête rouge"
+      },
+      {
+        "lang": "he",
+        "name": "צולל אמריקאי"
       },
       {
         "lang": "hr",
@@ -1722,21 +2071,19 @@
       },
       {
         "lang": "ja",
-        "name": "アメリカホシハジロ",
-        "synonyms": [
-          "amerikahoshihajiro"
-        ]
+        "name": "アメリカホシハジロ"
       },
       {
         "lang": "nl",
-        "name": "Amerikaanse Tafeleend",
-        "synonyms": [
-          "Roodkopeend"
-        ]
+        "name": "Amerikaanse tafeleend"
       },
       {
         "lang": "no",
         "name": "Kobberhodeand"
+      },
+      {
+        "lang": "nv",
+        "name": "Naalʼeełí bitsiiʼ halchíiʼii"
       },
       {
         "lang": "pl",
@@ -1751,8 +2098,12 @@
         "name": "Американский красноголовый нырок"
       },
       {
+        "lang": "sh",
+        "name": "Crvenoglava patka"
+      },
+      {
         "lang": "sk",
-        "name": "chochlačka žltooká"
+        "name": "Chochlačka žltooká"
       },
       {
         "lang": "sv",
@@ -1761,6 +2112,10 @@
       {
         "lang": "tr",
         "name": "Kızılbaş patka"
+      },
+      {
+        "lang": "uk",
+        "name": "Попелюх американський"
       },
       {
         "lang": "vi",

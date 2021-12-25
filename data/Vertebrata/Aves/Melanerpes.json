@@ -334,12 +334,40 @@
     "scientific_name": "Melanerpes lewis",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نقار الخشب لوييس"
+      },
+      {
+        "lang": "ca",
+        "name": "Picot de Lewis"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell Lewis"
+      },
+      {
+        "lang": "de",
+        "name": "Blutgesichtspecht"
+      },
+      {
         "lang": "en",
         "name": "Lewis's Woodpecker"
       },
       {
+        "lang": "eo",
+        "name": "Luiza melanerpo"
+      },
+      {
+        "lang": "es",
+        "name": "Carpintero de Lewis"
+      },
+      {
+        "lang": "fa",
+        "name": "دارکوب لوییس"
+      },
+      {
         "lang": "fr",
-        "name": "pic de Lewis"
+        "name": "Pic de Lewis"
       },
       {
         "lang": "hu",
@@ -348,6 +376,30 @@
       {
         "lang": "ja",
         "name": "ルイスキツツキ"
+      },
+      {
+        "lang": "nl",
+        "name": "Lewis' specht"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsįįłkaałii diłhiłígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzięciur różowobrzuchy"
+      },
+      {
+        "lang": "pnb",
+        "name": "لیوس چڑی ترکھان"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснолицый меланерпес"
+      },
+      {
+        "lang": "sv",
+        "name": "Kråkspett"
       }
     ]
   },
@@ -463,8 +515,24 @@
     "scientific_name": "Melanerpes formicivorus",
     "common_names": [
       {
+        "lang": "useWikidata",
+        "name": "Q368657"
+      },
+      {
+        "lang": "bg",
+        "name": "Жълъдов кълвач"
+      },
+      {
+        "lang": "ca",
+        "name": "Picot menjaglans"
+      },
+      {
         "lang": "cs",
-        "name": "datel sběrač"
+        "name": "Datel sběrač"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell y mês"
       },
       {
         "lang": "da",
@@ -487,12 +555,20 @@
         "name": "Carpintero Bellotero"
       },
       {
+        "lang": "fa",
+        "name": "دارکوب بلوط"
+      },
+      {
         "lang": "fi",
-        "name": "terhotikka"
+        "name": "Terhotikka"
       },
       {
         "lang": "fr",
         "name": "Pic glandivore"
+      },
+      {
+        "lang": "he",
+        "name": "נקר בלוטים"
       },
       {
         "lang": "hu",
@@ -504,10 +580,11 @@
       },
       {
         "lang": "ja",
-        "name": "ドングリキツツキ",
-        "synonyms": [
-          "dongurikitsutsuki"
-        ]
+        "name": "ドングリキツツキ"
+      },
+      {
+        "lang": "ml",
+        "name": "അക്കോൺ മരംകൊത്തി"
       },
       {
         "lang": "nl",
@@ -519,7 +596,11 @@
       },
       {
         "lang": "pl",
-        "name": "dzięciur żołędziowy"
+        "name": "Dzięciur żołędziowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "میلانرپس فورمیسورس"
       },
       {
         "lang": "pt",
@@ -531,7 +612,7 @@
       },
       {
         "lang": "sk",
-        "name": "tesárik dubový"
+        "name": "Tesárik dubový"
       },
       {
         "lang": "sv",
@@ -755,7 +836,10 @@
       },
       {
         "lang": "hu",
-        "name": "Karolinai küllő"
+        "name": "Karolinai küllő",
+        "synonyms": [
+          "kékcsőrű küllő"
+        ]
       },
       {
         "lang": "it",
@@ -846,6 +930,10 @@
       {
         "lang": "es",
         "name": "Carpintero del Cardón"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérhomlokú küllő"
       }
     ]
   },

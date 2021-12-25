@@ -238,12 +238,16 @@
         "name": "Streak-breasted Woodpecker"
       },
       {
+        "lang": "eo",
+        "name": "Verda pego"
+      },
+      {
         "lang": "es",
         "name": "Pito verdoso"
       },
       {
         "lang": "fr",
-        "name": "Pic verdâtre"
+        "name": "Pic vert"
       },
       {
         "lang": "ms",
@@ -264,7 +268,7 @@
       },
       {
         "lang": "eo",
-        "name": "Vaijanta pego"
+        "name": "Magreba pego"
       },
       {
         "lang": "fi",
@@ -318,20 +322,20 @@
     "scientific_name": "Picus rabieri",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Red-collared Woodpecker"
-      },
-      {
-        "lang": "fi",
-        "name": "Punakaulustikka"
-      },
-      {
         "lang": "cy",
         "name": "Cnocell dorchgoch"
       },
       {
         "lang": "de",
         "name": "Halsbandspecht"
+      },
+      {
+        "lang": "en",
+        "name": "Red-collared Woodpecker"
+      },
+      {
+        "lang": "fi",
+        "name": "Punakaulustikka"
       },
       {
         "lang": "fr",
@@ -523,8 +527,48 @@
     "scientific_name": "Picus awokera",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نقار ياباني"
+      },
+      {
+        "lang": "ast",
+        "name": "Pito xaponés"
+      },
+      {
+        "lang": "ca",
+        "name": "Picot verd del Japó"
+      },
+      {
+        "lang": "cs",
+        "name": "Žluna japonská"
+      },
+      {
+        "lang": "cy",
+        "name": "Cnocell Japan"
+      },
+      {
+        "lang": "de",
+        "name": "Japangrünspecht"
+      },
+      {
         "lang": "en",
-        "name": "Japanese Woodpecker"
+        "name": "Japanese Green Woodpecker"
+      },
+      {
+        "lang": "eo",
+        "name": "Japana verdpego"
+      },
+      {
+        "lang": "es",
+        "name": "Pito japonés"
+      },
+      {
+        "lang": "fa",
+        "name": "دارکوب ژاپنی"
+      },
+      {
+        "lang": "fi",
+        "name": "Japaninvihertikka"
       },
       {
         "lang": "fr",
@@ -535,12 +579,28 @@
         "name": "Japán küllő"
       },
       {
+        "lang": "it",
+        "name": "Picchio del Giappone"
+      },
+      {
         "lang": "ja",
-        "name": "アオゲラ",
-        "synonyms": [
-          "緑啄木鳥",
-          "''Aogera''"
-        ]
+        "name": "アオゲラ"
+      },
+      {
+        "lang": "nl",
+        "name": "Japanse groene specht"
+      },
+      {
+        "lang": "pnb",
+        "name": "جپانی ہرا چڑی ترکھان"
+      },
+      {
+        "lang": "sv",
+        "name": "Japansk gröngöling"
+      },
+      {
+        "lang": "udm",
+        "name": "Япониысь вож сизь"
       },
       {
         "lang": "zh",

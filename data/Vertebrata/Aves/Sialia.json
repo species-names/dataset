@@ -193,8 +193,20 @@
     "scientific_name": "Sialia currucoides",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "أزيرق الجبل"
+      },
+      {
+        "lang": "ca",
+        "name": "Siàlid muntanyenc"
+      },
+      {
         "lang": "cs",
         "name": "Salašník horský"
+      },
+      {
+        "lang": "cy",
+        "name": "Glas mynydd"
       },
       {
         "lang": "da",
@@ -209,8 +221,16 @@
         "name": "Mountain Bluebird"
       },
       {
+        "lang": "eo",
+        "name": "Monta blubirdo"
+      },
+      {
         "lang": "es",
         "name": "Azulejo Claro"
+      },
+      {
+        "lang": "fa",
+        "name": "کبودمرغ کوهی"
       },
       {
         "lang": "fi",
@@ -221,12 +241,24 @@
         "name": "Merlebleu azuré"
       },
       {
+        "lang": "hu",
+        "name": "Hegyi kékmadár"
+      },
+      {
         "lang": "it",
         "name": "Uccello azzurro di montagna"
       },
       {
         "lang": "ja",
         "name": "ムジルリツグミ"
+      },
+      {
+        "lang": "ml",
+        "name": "മൗണ്ടൻ ബ്ലൂബേർഡ്"
+      },
+      {
+        "lang": "mrj",
+        "name": "Симсӹ сиали"
       },
       {
         "lang": "nl",
@@ -237,12 +269,16 @@
         "name": "Fjellblåfugl"
       },
       {
+        "lang": "nv",
+        "name": "Dólii"
+      },
+      {
         "lang": "pl",
         "name": "Błękitnik górski"
       },
       {
         "lang": "ru",
-        "name": "Горная лазурная птица"
+        "name": "Голубая сиалия"
       },
       {
         "lang": "sk",
@@ -253,12 +289,20 @@
         "name": "Bergsialia"
       },
       {
+        "lang": "ta",
+        "name": "மலை நீலப்பறவை"
+      },
+      {
         "lang": "tr",
-        "name": "Dağ mavi kuşu"
+        "name": "Mavi dağ kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Блакитник середній"
       },
       {
         "lang": "zh",
-        "name": "山蓝鸲"
+        "name": "山藍鴝"
       }
     ]
   }

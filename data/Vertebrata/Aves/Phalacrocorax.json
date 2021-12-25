@@ -134,12 +134,20 @@
         "name": "Corb marí pigallat"
       },
       {
+        "lang": "cy",
+        "name": "Mulfran fannog"
+      },
+      {
         "lang": "de",
         "name": "Tüpfelscharbe"
       },
       {
         "lang": "en",
         "name": "Spotted Shag"
+      },
+      {
+        "lang": "eo",
+        "name": "Punktokormorano"
       },
       {
         "lang": "es",
@@ -158,12 +166,28 @@
         "name": "Cormoran moucheté"
       },
       {
+        "lang": "he",
+        "name": "קורמורן מנומר"
+      },
+      {
+        "lang": "mi",
+        "name": "Pārekareka"
+      },
+      {
+        "lang": "it",
+        "name": "Cormorano macchiato"
+      },
+      {
         "lang": "nl",
         "name": "Gevlekte aalscholver"
       },
       {
         "lang": "nn",
         "name": "Kvithalsflekkskarv"
+      },
+      {
+        "lang": "no",
+        "name": "Hvithalsflekkskarv"
       },
       {
         "lang": "pl",
@@ -178,6 +202,10 @@
   {
     "scientific_name": "Phalacrocorax perspicillatus",
     "common_names": [
+      {
+        "lang": "en",
+        "name": "Pallas's Cormorant"
+      },
       {
         "lang": "ja",
         "name": "メガネウ"
@@ -278,8 +306,72 @@
     "scientific_name": "Phalacrocorax nigrogularis",
     "common_names": [
       {
+        "lang": "eo",
+        "name": "Sokotra kormorano"
+      },
+      {
         "lang": "es",
         "name": "Cormorán de Socotora"
+      },
+      {
+        "lang": "ar",
+        "name": "غاق سقطري"
+      },
+      {
+        "lang": "bg",
+        "name": "Арабски корморан"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí de Socotra"
+      },
+      {
+        "lang": "cy",
+        "name": "Mulfran Socotra"
+      },
+      {
+        "lang": "de",
+        "name": "Sokotrakormoran"
+      },
+      {
+        "lang": "en",
+        "name": "Socotra cormorant"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان گلوسیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Arabianmerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Socotra"
+      },
+      {
+        "lang": "he",
+        "name": "קורמורן סוקוטרה"
+      },
+      {
+        "lang": "nl",
+        "name": "Arabische aalscholver"
+      },
+      {
+        "lang": "nv",
+        "name": "Ásáí Dineʼé Bikéyahdę́ę́ʼ tábąąh zhį́ʼii"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran arabski"
+      },
+      {
+        "lang": "sv",
+        "name": "sokotraskarv"
+      },
+      {
+        "lang": "tr",
+        "name": "Basra karabatağı"
       }
     ]
   },
@@ -296,6 +388,54 @@
       {
         "lang": "es",
         "name": "Cormorán de bajío"
+      },
+      {
+        "lang": "af",
+        "name": "Bankduiker"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí ullgroc"
+      },
+      {
+        "lang": "cy",
+        "name": "Mulfran gwymon"
+      },
+      {
+        "lang": "de",
+        "name": "Küstenscharbe"
+      },
+      {
+        "lang": "eo",
+        "name": "Banka kormorano"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان والبرگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Matalikkomerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran des bancs"
+      },
+      {
+        "lang": "nl",
+        "name": "Kustaalscholver"
+      },
+      {
+        "lang": "nv",
+        "name": "Tónteel zhį́ʼii bitłʼaakááʼ łigaaígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran białorzytny"
+      },
+      {
+        "lang": "sv",
+        "name": "vitgumpad skarv"
       }
     ]
   },
@@ -331,12 +471,20 @@
         "name": "Corb marí gorjablanc"
       },
       {
+        "lang": "cy",
+        "name": "Mulfran fronwen"
+      },
+      {
         "lang": "de",
         "name": "Weißbrustkormoran"
       },
       {
         "lang": "en",
-        "name": "White-breasted cormorant"
+        "name": "White-breasted Cormorant"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankabrusta kormorano"
       },
       {
         "lang": "es",
@@ -351,12 +499,20 @@
         "name": "Cormoran à poitrine blanche"
       },
       {
+        "lang": "it",
+        "name": "Cormorano pettobianco"
+      },
+      {
         "lang": "nl",
         "name": "Witborstaalscholver"
       },
       {
         "lang": "pl",
         "name": "Kormoran białoszyi"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbröstad skarv"
       }
     ]
   },
@@ -376,12 +532,92 @@
         "name": "Cormorán mancón"
       },
       {
+        "lang": "fi",
+        "name": "Galapagosinmerimetso"
+      },
+      {
         "lang": "fr",
         "name": "Cormoran aptère"
       },
       {
         "lang": "ja",
         "name": "ガラパゴスコバネウ"
+      },
+      {
+        "lang": "pt",
+        "name": "Cormorão-das-galápagos"
+      },
+      {
+        "lang": "ar",
+        "name": "غاقة عاجزة عن الطيران"
+      },
+      {
+        "lang": "bg",
+        "name": "Безкрил корморан"
+      },
+      {
+        "lang": "br",
+        "name": "Morvran Galápagos"
+      },
+      {
+        "lang": "ca",
+        "name": "Corb marí de les Galápagos"
+      },
+      {
+        "lang": "cs",
+        "name": "Kormorán galapážský"
+      },
+      {
+        "lang": "cy",
+        "name": "Mulfran y Galapagos"
+      },
+      {
+        "lang": "eo",
+        "name": "Nefluga kormorano"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان ناپر"
+      },
+      {
+        "lang": "he",
+        "name": "קורמורן גלאפגוס"
+      },
+      {
+        "lang": "hu",
+        "name": "Csököttszárnyú kárókatona"
+      },
+      {
+        "lang": "ko",
+        "name": "갈라파고스가마우지"
+      },
+      {
+        "lang": "lb",
+        "name": "Galapagos-Kormoran"
+      },
+      {
+        "lang": "nl",
+        "name": "Galápagosaalscholver"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąąh zhį́ʼii doo naatʼáʼii"
+      },
+      {
+        "lang": "pl",
+        "name": "Kormoran nielotny"
+      },
+      {
+        "lang": "ru",
+        "name": "Галапагосский нелетающий баклан"
+      },
+      {
+        "lang": "sk",
+        "name": "kormorán nelietavý"
+      },
+      {
+        "lang": "sv",
+        "name": "galápagosskarv"
       }
     ]
   },
@@ -601,6 +837,42 @@
       {
         "lang": "es",
         "name": "Cormorán de la Pitt"
+      },
+      {
+        "lang": "cy",
+        "name": "Mulfran Ynys Chatham"
+      },
+      {
+        "lang": "de",
+        "name": "Pittscharbe"
+      },
+      {
+        "lang": "eo",
+        "name": "Pita kormorano"
+      },
+      {
+        "lang": "fa",
+        "name": "باکلان جزیره پیت"
+      },
+      {
+        "lang": "fi",
+        "name": "Huppumerimetso"
+      },
+      {
+        "lang": "fr",
+        "name": "Cormoran de Featherston"
+      },
+      {
+        "lang": "nl",
+        "name": "Chathamaalscholver"
+      },
+      {
+        "lang": "sv",
+        "name": "grönmaskad skarv"
+      },
+      {
+        "lang": "uk",
+        "name": "Баклан чатамський"
       }
     ]
   },
@@ -1029,6 +1301,10 @@
         "name": "Japanse aalscholver"
       },
       {
+        "lang": "ko",
+        "name": "가마우지"
+      },
+      {
         "lang": "pl",
         "name": "Kormoran japoński"
       },
@@ -1402,7 +1678,7 @@
       },
       {
         "lang": "eo",
-        "name": "Ordinara kormorano"
+        "name": "Eŭropa kormorano"
       },
       {
         "lang": "es",

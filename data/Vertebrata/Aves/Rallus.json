@@ -4,11 +4,11 @@
     "common_names": []
   },
   {
-    "scientific_name": "Rallus minutus",
+    "scientific_name": "Rallus lowei",
     "common_names": []
   },
   {
-    "scientific_name": "Rallus lowei",
+    "scientific_name": "Rallus gracilipes",
     "common_names": []
   },
   {
@@ -21,10 +21,6 @@
   },
   {
     "scientific_name": "Rallus tenuirostris",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Rallus aequatorialis",
     "common_names": []
   },
   {
@@ -163,7 +159,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "chřástal madagaskarský"
+        "name": "Chřástal madagaskarský"
       },
       {
         "lang": "da",
@@ -186,11 +182,11 @@
       },
       {
         "lang": "et",
-        "name": "madagaskari rooruik"
+        "name": "Madagaskari rooruik"
       },
       {
         "lang": "fi",
-        "name": "madagaskarinluhtakana"
+        "name": "Madagaskarinluhtakana"
       },
       {
         "lang": "fr",
@@ -198,7 +194,7 @@
       },
       {
         "lang": "hu",
-        "name": "madagaszkári guvat"
+        "name": "Madagaszkári guvat"
       },
       {
         "lang": "it",
@@ -230,7 +226,7 @@
       },
       {
         "lang": "pl",
-        "name": "wodnik madagaskarski"
+        "name": "Wodnik madagaskarski"
       },
       {
         "lang": "pt",
@@ -242,7 +238,7 @@
       },
       {
         "lang": "sk",
-        "name": "chriašteľ madagaskarský"
+        "name": "Chriašteľ madagaskarský"
       },
       {
         "lang": "sv",
@@ -271,7 +267,7 @@
       },
       {
         "lang": "hu",
-        "name": "Kelepelő guvat"
+        "name": "Mangroveguvat"
       },
       {
         "lang": "pl",
@@ -388,7 +384,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "chřástal královský"
+        "name": "Chřástal královský"
       },
       {
         "lang": "da",
@@ -408,11 +404,11 @@
       },
       {
         "lang": "et",
-        "name": "suur-klaperruik"
+        "name": "Suur-klaperruik"
       },
       {
         "lang": "fi",
-        "name": "ruosteluhtakana"
+        "name": "Ruosteluhtakana"
       },
       {
         "lang": "fr",
@@ -428,10 +424,7 @@
       },
       {
         "lang": "ja",
-        "name": "オウサマクイナ",
-        "synonyms": [
-          "ousamakuina"
-        ]
+        "name": "オウサマクイナ"
       },
       {
         "lang": "nl",
@@ -443,7 +436,7 @@
       },
       {
         "lang": "pl",
-        "name": "wodnik królewski"
+        "name": "Wodnik królewski"
       },
       {
         "lang": "pt",
@@ -455,7 +448,7 @@
       },
       {
         "lang": "sk",
-        "name": "chriašteľ kráľovský"
+        "name": "Chriašteľ kráľovský"
       },
       {
         "lang": "sv",
@@ -571,6 +564,10 @@
       {
         "lang": "fr",
         "name": "Râle d'eau"
+      },
+      {
+        "lang": "gl",
+        "name": "Rascón de auga"
       },
       {
         "lang": "he",
@@ -760,6 +757,27 @@
       {
         "lang": "sv",
         "name": "sydrall"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rallus aequatorialis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ecuadorian rail"
+      },
+      {
+        "lang": "es",
+        "name": "rascón ecuatoriano"
+      },
+      {
+        "lang": "nl",
+        "name": "Ecuadorral"
+      },
+      {
+        "lang": "sv",
+        "name": "ecuadorrall"
       }
     ]
   }

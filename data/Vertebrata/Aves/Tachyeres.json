@@ -65,7 +65,10 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "White-headed Flightless Steamer Duck"
+        "name": "Chubut steamer duck",
+        "synonyms": [
+          "White-headed Flightless Steamer Duck"
+        ]
       },
       {
         "lang": "es",
@@ -80,8 +83,36 @@
         "name": "Brassemer à tête blanche"
       },
       {
+        "lang": "ca",
+        "name": "Ànec vapor capblanc"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden fawr Patagonia"
+      },
+      {
+        "lang": "de",
+        "name": "Weißkopf-Dampfschiffente"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankakapa vaporanaso"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfejű gőzhajóréce"
+      },
+      {
+        "lang": "nds",
+        "name": "Wittkopp-Bootaante"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkopbooteend"
+      },
+      {
         "lang": "sv",
-        "name": "Vithuvad ångbåtsand"
+        "name": "vithuvad ångbåtsand"
       }
     ]
   },

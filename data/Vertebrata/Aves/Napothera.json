@@ -63,6 +63,27 @@
   },
   {
     "scientific_name": "Napothera atrigularis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Drywbreblyn gyddfddu"
+      },
+      {
+        "lang": "en",
+        "name": "Black-throated wren-babbler"
+      },
+      {
+        "lang": "fr",
+        "name": "Turdinule à gorge noire"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkeelsluiptimalia"
+      },
+      {
+        "lang": "sv",
+        "name": "svartstrupig smygtimalia"
+      }
+    ]
   }
 ]

@@ -3,12 +3,44 @@
     "scientific_name": "Nyctyornis athertoni",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "وروار أزرق اللحية"
+      },
+      {
+        "lang": "bn",
+        "name": "নীলদাড়ি সুইচোরা"
+      },
+      {
+        "lang": "br",
+        "name": "Gwespetaer barv glas"
+      },
+      {
+        "lang": "ca",
+        "name": "Abellerol barbablau"
+      },
+      {
         "lang": "cs",
         "name": "Vlha modrobradá"
       },
       {
+        "lang": "cy",
+        "name": "Gwenynysor glasfarf"
+      },
+      {
+        "lang": "da",
+        "name": "Blåskægget Biæder"
+      },
+      {
+        "lang": "de",
+        "name": "Blaubartspint"
+      },
+      {
         "lang": "en",
         "name": "Blue-bearded Bee-eater"
+      },
+      {
+        "lang": "eo",
+        "name": "Blubarba abelmanĝulo"
       },
       {
         "lang": "es",
@@ -20,14 +52,63 @@
       },
       {
         "lang": "hu",
-        "name": "Indiai remetegyurgyalag",
-        "synonyms": [
-          "kékszakállú gyurgyalag"
-        ]
+        "name": "Indiai remetegyurgyalag"
+      },
+      {
+        "lang": "it",
+        "name": "Gruccione barbazzurra"
+      },
+      {
+        "lang": "ja",
+        "name": "アオムネハチクイ"
+      },
+      {
+        "lang": "kn",
+        "name": "ನೀಲಿ ಗಲ್ಲದ ಕಳ್ಳಿಪೀರ"
       },
       {
         "lang": "ml",
         "name": "കാട്ടുവേലിത്തത്ത"
+      },
+      {
+        "lang": "ne",
+        "name": "मधुमक्षी भक्षका"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwbaardbijeneter"
+      },
+      {
+        "lang": "no",
+        "name": "Blåskjeggbieter"
+      },
+      {
+        "lang": "pl",
+        "name": "Żołna brodata"
+      },
+      {
+        "lang": "ru",
+        "name": "Синебородая ночная щурка"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåskäggig biätare"
+      },
+      {
+        "lang": "ta",
+        "name": "காட்டுப் பஞ்சுருட்டான்"
+      },
+      {
+        "lang": "th",
+        "name": "นกจาบคาเคราน้ำเงิน"
+      },
+      {
+        "lang": "uk",
+        "name": "Бджолоїдка велика"
+      },
+      {
+        "lang": "vi",
+        "name": "Trảu lớn"
       },
       {
         "lang": "zh",
@@ -39,28 +120,116 @@
     "scientific_name": "Nyctyornis amictus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "وروار أحمر اللحية"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеногуш пчелояд"
+      },
+      {
+        "lang": "br",
+        "name": "Gwespetaer barv ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Abellerol cara-roig"
+      },
+      {
         "lang": "cs",
         "name": "Vlha červenobradá"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwenynysor barfgoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rødskægget Biæder"
+      },
+      {
+        "lang": "de",
+        "name": "Rotbartspint"
       },
       {
         "lang": "en",
         "name": "Red-bearded Bee-eater"
       },
       {
+        "lang": "eo",
+        "name": "Ruĝbarba abelmanĝulo"
+      },
+      {
         "lang": "es",
         "name": "Abejaruco barbirrojo"
+      },
+      {
+        "lang": "fa",
+        "name": "زنبورخوار ریش‌قرمز"
+      },
+      {
+        "lang": "fi",
+        "name": "Puna-ampiaissyöjä"
       },
       {
         "lang": "fr",
         "name": "Guêpier à fraise"
       },
       {
+        "lang": "he",
+        "name": "שרקרק אדום-פס"
+      },
+      {
         "lang": "hu",
         "name": "Remetegyurgyalag"
       },
       {
+        "lang": "it",
+        "name": "Gruccione barbarossa"
+      },
+      {
+        "lang": "ja",
+        "name": "ムネアカハチクイ"
+      },
+      {
         "lang": "ms",
         "name": "Burung Berek-berek Janggut Merah"
+      },
+      {
+        "lang": "my",
+        "name": "ပတူငှက်ရင်နီ"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodbaardbijeneter"
+      },
+      {
+        "lang": "pnb",
+        "name": "لال داڑھی والا مکھی کھانا"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснобородая ночная щурка"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödskäggig biätare"
+      },
+      {
+        "lang": "ta",
+        "name": "சிவப்புத் தாடி தேனீ-உண்ணும் பறவை"
+      },
+      {
+        "lang": "th",
+        "name": "นกจาบคาเคราแดง"
+      },
+      {
+        "lang": "uk",
+        "name": "Бджолоїдка рожевоголова"
+      },
+      {
+        "lang": "zh",
+        "name": "赤须夜蜂虎"
       }
     ]
   }

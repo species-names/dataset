@@ -121,6 +121,10 @@
     ]
   },
   {
+    "scientific_name": "Casuarius lydekkeri",
+    "common_names": []
+  },
+  {
     "scientific_name": "Casuarius casuarius",
     "common_names": [
       {
@@ -193,7 +197,7 @@
       },
       {
         "lang": "id",
-        "name": "Kasuari Gelambir-ganda"
+        "name": "Kasuari gelambir ganda"
       },
       {
         "lang": "it",
@@ -337,12 +341,20 @@
         "name": "Bennett-kazuár"
       },
       {
+        "lang": "id",
+        "name": "Kasuari kecil"
+      },
+      {
         "lang": "it",
         "name": "Casuario di Bennett"
       },
       {
+        "lang": "ja",
+        "name": "コヒクイドリ"
+      },
+      {
         "lang": "ms",
-        "name": "Kasuari Kerdil"
+        "name": "Kasuari kerdil"
       },
       {
         "lang": "nl",

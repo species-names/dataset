@@ -3,11 +3,39 @@
     "scientific_name": "Aepypodius bruijnii",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Talègol de Waigeo"
+      },
+      {
+        "lang": "cy",
+        "name": "Twrci Bruijn"
+      },
+      {
+        "lang": "de",
+        "name": "Braunbrust-Buschhuhn"
+      },
+      {
         "lang": "en",
         "name": "Waigeo brushturkey",
         "synonyms": [
-          "Bruijn's Brush-turkey"
+          "Bruijn's brushturkey"
         ]
+      },
+      {
+        "lang": "eo",
+        "name": "Vaigea nestamasulo"
+      },
+      {
+        "lang": "fr",
+        "name": "Talégalle de Bruijn"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruijns boskalkoen"
+      },
+      {
+        "lang": "sv",
+        "name": "waigeobuskhöna"
       }
     ]
   },

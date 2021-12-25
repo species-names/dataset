@@ -230,10 +230,7 @@
       },
       {
         "lang": "sr",
-        "name": "patuljasti orao",
-        "synonyms": [
-          "Патулјасти орао"
-        ]
+        "name": "Patuljasti orao - Патулјасти орао"
       },
       {
         "lang": "sv",
@@ -283,6 +280,83 @@
       {
         "lang": "es",
         "name": "Aguililla australiana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hieraaetus moorei",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "نسر هاآست"
+      },
+      {
+        "lang": "bg",
+        "name": "Орел на Хааст"
+      },
+      {
+        "lang": "br",
+        "name": "Erer Haast"
+      },
+      {
+        "lang": "cs",
+        "name": "Orel Haastův"
+      },
+      {
+        "lang": "de",
+        "name": "Haastadler"
+      },
+      {
+        "lang": "en",
+        "name": "Haast's Eagle"
+      },
+      {
+        "lang": "eo",
+        "name": "Aglo de Haast"
+      },
+      {
+        "lang": "fi",
+        "name": "Haastin kotka"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigle géant de Haast"
+      },
+      {
+        "lang": "hu",
+        "name": "Haast-féle sas"
+      },
+      {
+        "lang": "it",
+        "name": "Aquila di Haast"
+      },
+      {
+        "lang": "ja",
+        "name": "ハルパゴルニスワシ"
+      },
+      {
+        "lang": "ko",
+        "name": "하스트독수리"
+      },
+      {
+        "lang": "mi",
+        "name": "Pouakai"
+      },
+      {
+        "lang": "nl",
+        "name": "Haasts arend"
+      },
+      {
+        "lang": "pl",
+        "name": "Orzeł Haasta"
+      },
+      {
+        "lang": "pt",
+        "name": "Águia-de-haast"
+      },
+      {
+        "lang": "zh",
+        "name": "哈斯特鷹"
       }
     ]
   },

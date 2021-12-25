@@ -1,6 +1,31 @@
 [
   {
     "scientific_name": "Wetmorethraupis sterrhopteron",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Veilchenschulter-Tangare"
+      },
+      {
+        "lang": "en",
+        "name": "Orange-throated tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara golinaranja"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara à gorge orangée"
+      },
+      {
+        "lang": "nl",
+        "name": "Oranjekeeltangare"
+      },
+      {
+        "lang": "sv",
+        "name": "orangestrupig tangara"
+      }
+    ]
   }
 ]

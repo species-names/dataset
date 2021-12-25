@@ -1,7 +1,32 @@
 [
   {
     "scientific_name": "Chrysocolaptes xanthocephalus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Picot sultà caragroc"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelkopgoudrugspecht"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-faced flameback"
+      },
+      {
+        "lang": "es",
+        "name": "pito sultán carigualdo"
+      },
+      {
+        "lang": "fr",
+        "name": "Pic à face jaune"
+      },
+      {
+        "lang": "sv",
+        "name": "gulkindad sultanspett"
+      }
+    ]
   },
   {
     "scientific_name": "Chrysocolaptes strictus",
@@ -17,6 +42,10 @@
       {
         "lang": "en",
         "name": "Buff-spotted Flameback"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagy aranyoshátú harkály"
       }
     ]
   },
@@ -26,7 +55,52 @@
   },
   {
     "scientific_name": "Chrysocolaptes guttacristatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Picot sultà gros"
+      },
+      {
+        "lang": "en",
+        "name": "Greater Flameback"
+      },
+      {
+        "lang": "es",
+        "name": "Pito sultán grande"
+      },
+      {
+        "lang": "fa",
+        "name": "پشت‌آتشی مهتر"
+      },
+      {
+        "lang": "fr",
+        "name": "Pic de Tickell"
+      },
+      {
+        "lang": "ml",
+        "name": "വലിയ പൊന്നി മരംകൊത്തി"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote goudrugspecht"
+      },
+      {
+        "lang": "ru",
+        "name": "Большой султанский дятел"
+      },
+      {
+        "lang": "si",
+        "name": "ලේපිට මහ-කෑරලා"
+      },
+      {
+        "lang": "sv",
+        "name": "Större sultanspett"
+      },
+      {
+        "lang": "ta",
+        "name": "பெரிய பொன்முதுகு மரங்கொத்தி"
+      }
+    ]
   },
   {
     "scientific_name": "Chrysocolaptes festivus",
@@ -43,6 +117,39 @@
   },
   {
     "scientific_name": "Chrysocolaptes erythrocephalus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Picot sultà cap-roig"
+      },
+      {
+        "lang": "de",
+        "name": "Rotkopf-Sultanspecht"
+      },
+      {
+        "lang": "en",
+        "name": "Red-headed Flameback"
+      },
+      {
+        "lang": "es",
+        "name": "Pito sultán cabecirrojo"
+      },
+      {
+        "lang": "fr",
+        "name": "Pic à face rouge"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkopgoudrugspecht"
+      },
+      {
+        "lang": "pl",
+        "name": "Sułtan czerwonogłowy"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödhuvad sultanspett"
+      }
+    ]
   }
 ]

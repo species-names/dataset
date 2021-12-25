@@ -29,8 +29,29 @@
     ]
   },
   {
-    "scientific_name": "Spinus xanthogastra",
-    "common_names": []
+    "scientific_name": "Spinus xanthogastrus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Gelbbauchzeisig"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-bellied Siskin"
+      },
+      {
+        "lang": "es",
+        "name": "Jilguero Ventriamarillo"
+      },
+      {
+        "lang": "fr",
+        "name": "Chardonneret à ventre jaune"
+      },
+      {
+        "lang": "ja",
+        "name": "キバラクロヒワ"
+      }
+    ]
   },
   {
     "scientific_name": "Spinus uropygialis",
@@ -107,6 +128,10 @@
       {
         "lang": "fr",
         "name": "Chardonneret jaune"
+      },
+      {
+        "lang": "gr",
+        "name": "Αμερικανική καρδερίνα"
       },
       {
         "lang": "hu",
@@ -226,11 +251,11 @@
     "common_names": [
       {
         "lang": "als",
-        "name": "Ziisli"
+        "name": "Erlenzeisig"
       },
       {
         "lang": "ar",
-        "name": "لحسون الشوكي"
+        "name": "حسون الشوك"
       },
       {
         "lang": "ast",
@@ -265,6 +290,10 @@
         "name": "Čížek lesní"
       },
       {
+        "lang": "csb",
+        "name": "Zwëczajny cziżik"
+      },
+      {
         "lang": "cv",
         "name": "Çирĕктăрри"
       },
@@ -290,7 +319,7 @@
       },
       {
         "lang": "eo",
-        "name": "Verda kardelo (U.V.: fringelo)"
+        "name": "Verda kardelo"
       },
       {
         "lang": "es",
@@ -326,7 +355,7 @@
       },
       {
         "lang": "ga",
-        "name": "Gealún fearnóige"
+        "name": "Siscín"
       },
       {
         "lang": "gd",
@@ -377,8 +406,20 @@
         "name": "სკვინჩა"
       },
       {
+        "lang": "kab",
+        "name": "Amenferriw awraɣ"
+      },
+      {
+        "lang": "kbd",
+        "name": "Чырачыу"
+      },
+      {
         "lang": "kk",
         "name": "Шымшық"
+      },
+      {
+        "lang": "ko",
+        "name": "검은머리방울새"
       },
       {
         "lang": "krl",
@@ -414,11 +455,15 @@
       },
       {
         "lang": "mk",
-        "name": "Елова чинка"
+        "name": "Елова зеленушка"
       },
       {
         "lang": "mn",
         "name": "Эгэл ногоолзой"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кӓзӓля"
       },
       {
         "lang": "mt",
@@ -435,6 +480,10 @@
       {
         "lang": "nds-nl",
         "name": "Siesken"
+      },
+      {
+        "lang": "ne",
+        "name": "कालीकण्ठे सिस्कीन"
       },
       {
         "lang": "nl",
@@ -545,6 +594,10 @@
         "name": "Lugarin"
       },
       {
+        "lang": "vi",
+        "name": "Sẻ thông vàng"
+      },
+      {
         "lang": "vls",
         "name": "Trientje"
       },
@@ -555,6 +608,10 @@
       {
         "lang": "zea",
         "name": "Sees"
+      },
+      {
+        "lang": "wuu",
+        "name": "黄雀"
       },
       {
         "lang": "zh",
@@ -621,14 +678,15 @@
     "common_names": [
       {
         "lang": "ar",
-        "name": "الحسُّون الأصغر",
-        "synonyms": [
-          "حسون أصغ"
-        ]
+        "name": "حسون أصغر"
       },
       {
         "lang": "cs",
-        "name": "čížek mexický"
+        "name": "Čížek mexický"
+      },
+      {
+        "lang": "cy",
+        "name": "Nico cefnddu"
       },
       {
         "lang": "da",
@@ -648,11 +706,11 @@
       },
       {
         "lang": "es",
-        "name": "Jilguero Menor"
+        "name": "Jilguero menor"
       },
       {
         "lang": "fi",
-        "name": "pikkutikli"
+        "name": "Pikkutikli"
       },
       {
         "lang": "fr",
@@ -675,20 +733,24 @@
         "name": "Småstillits"
       },
       {
+        "lang": "nv",
+        "name": "Tsídiiłtsooí binághah diłhiłígíí"
+      },
+      {
         "lang": "pl",
         "name": "Czyż mały"
       },
       {
         "lang": "pt",
-        "name": "Pintassilgo-pequeno"
+        "name": "Pintassilgo-capa-preta"
       },
       {
         "lang": "ru",
-        "name": "Малый чиж"
+        "name": "Мексиканский чиж"
       },
       {
         "lang": "sk",
-        "name": "stehlík spevavý"
+        "name": "Stehlík spevavý"
       },
       {
         "lang": "sv",
@@ -697,6 +759,10 @@
       {
         "lang": "tr",
         "name": "Koyu sırtlı saka"
+      },
+      {
+        "lang": "uk",
+        "name": "Чиж малий"
       },
       {
         "lang": "zh",
@@ -708,8 +774,16 @@
     "scientific_name": "Spinus pinus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Lluer dels pins"
+      },
+      {
         "lang": "cs",
-        "name": "čížek severoamerický"
+        "name": "Čížek severoamerický"
+      },
+      {
+        "lang": "cy",
+        "name": "Pila gwyrdd y pinwydd"
       },
       {
         "lang": "da",
@@ -733,11 +807,15 @@
       },
       {
         "lang": "fi",
-        "name": "amerikanvihervarpunen"
+        "name": "Amerikanvihervarpunen"
       },
       {
         "lang": "fr",
         "name": "Tarin des pins"
+      },
+      {
+        "lang": "hu",
+        "name": "Fenyőcsíz"
       },
       {
         "lang": "is",
@@ -749,10 +827,11 @@
       },
       {
         "lang": "ja",
-        "name": "マツノキヒワ",
-        "synonyms": [
-          "matsunokihiwa"
-        ]
+        "name": "マツノキヒワ"
+      },
+      {
+        "lang": "ko",
+        "name": "검은방울새"
       },
       {
         "lang": "nl",
@@ -763,26 +842,24 @@
         "name": "Stripesisik"
       },
       {
+        "lang": "nv",
+        "name": "Ńdíshchíitah tsídiiłbáhí noodǫ́zígíí"
+      },
+      {
         "lang": "pl",
         "name": "Czyż sosnowy"
       },
       {
         "lang": "pt",
-        "name": "Lugre-dos-pinheiros",
-        "synonyms": [
-          "Pintassilgo-pinheiro"
-        ]
+        "name": "Pintassilgo-pinheiro"
       },
       {
         "lang": "ru",
-        "name": "Сосновый чиж",
-        "synonyms": [
-          "Сосновый щегол"
-        ]
+        "name": "Сосновый чиж"
       },
       {
         "lang": "sk",
-        "name": "stehlík borovicový"
+        "name": "Stehlík borovicový"
       },
       {
         "lang": "sv",
@@ -799,7 +876,7 @@
     ]
   },
   {
-    "scientific_name": "Spinus olivacea",
+    "scientific_name": "Spinus olivaceus",
     "common_names": [
       {
         "lang": "de",
@@ -824,7 +901,7 @@
     ]
   },
   {
-    "scientific_name": "Spinus notata",
+    "scientific_name": "Spinus notatus",
     "common_names": [
       {
         "lang": "de",
@@ -853,7 +930,7 @@
     ]
   },
   {
-    "scientific_name": "Spinus magellanica",
+    "scientific_name": "Spinus magellanicus",
     "common_names": [
       {
         "lang": "de",
@@ -1007,7 +1084,7 @@
     ]
   },
   {
-    "scientific_name": "Spinus cucullata",
+    "scientific_name": "Spinus cucullatus",
     "common_names": [
       {
         "lang": "de",
@@ -1077,7 +1154,7 @@
     ]
   },
   {
-    "scientific_name": "Spinus barbata",
+    "scientific_name": "Spinus barbatus",
     "common_names": [
       {
         "lang": "de",
@@ -1139,7 +1216,7 @@
     ]
   },
   {
-    "scientific_name": "Spinus atrata",
+    "scientific_name": "Spinus atratus",
     "common_names": [
       {
         "lang": "de",

@@ -195,6 +195,35 @@
     "common_names": []
   },
   {
+    "scientific_name": "Selasphorus heloisa",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rosenkehlelfe"
+      },
+      {
+        "lang": "en",
+        "name": "Bumblebee Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Eloísa"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri héloïse"
+      },
+      {
+        "lang": "nl",
+        "name": "Hommelkolibrie"
+      },
+      {
+        "lang": "sv",
+        "name": "Humlekolibri"
+      }
+    ]
+  },
+  {
     "scientific_name": "Selasphorus flammula",
     "common_names": [
       {
@@ -204,6 +233,19 @@
       {
         "lang": "fr",
         "name": "Colibri flammule"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Selasphorus ellioti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wine-throated Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Elliot"
       }
     ]
   },
@@ -274,6 +316,38 @@
       {
         "lang": "en",
         "name": "Glow-throated Hummingbird"
+      },
+      {
+        "lang": "ca",
+        "name": "Colibrí ardent"
+      },
+      {
+        "lang": "cy",
+        "name": "Sïedn gyddfloyw"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí ardiente​"
+      },
+      {
+        "lang": "fi",
+        "name": "Liekkikurkkukolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri ardent"
+      },
+      {
+        "lang": "nl",
+        "name": "Gloeikeelkolibrie"
+      },
+      {
+        "lang": "pl",
+        "name": "Rudaczek panamski"
+      },
+      {
+        "lang": "sv",
+        "name": "glödhakekolibri"
       }
     ]
   }

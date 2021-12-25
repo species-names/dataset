@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Pterodroma gouldi",
+    "common_names": []
+  },
+  {
     "scientific_name": "Pterodroma ultima",
     "common_names": [
       {
@@ -40,7 +44,7 @@
       },
       {
         "lang": "sv",
-        "name": "murphypetrell"
+        "name": "Murphypetrell"
       },
       {
         "lang": "zh",
@@ -62,6 +66,58 @@
       {
         "lang": "ja",
         "name": "ハジロミズナギドリ"
+      },
+      {
+        "lang": "ca",
+        "name": "Petrell de Solander"
+      },
+      {
+        "lang": "cy",
+        "name": "Pedryn Solander"
+      },
+      {
+        "lang": "de",
+        "name": "Solandersturmvogel"
+      },
+      {
+        "lang": "eo",
+        "name": "Solandra petrelo"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ باران ایزدی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kihuviistäjä"
+      },
+      {
+        "lang": "fr",
+        "name": "Pétrel de Solander"
+      },
+      {
+        "lang": "he",
+        "name": "יסעור פרובנסיאלי"
+      },
+      {
+        "lang": "hr",
+        "name": "Solanderova burnica"
+      },
+      {
+        "lang": "nl",
+        "name": "Solanders stormvogel"
+      },
+      {
+        "lang": "ru",
+        "name": "Тайфунник Соландра"
+      },
+      {
+        "lang": "sh",
+        "name": "Solanderova burnica"
+      },
+      {
+        "lang": "sv",
+        "name": "Solanderpetrell"
       }
     ]
   },
@@ -107,10 +163,6 @@
     ]
   },
   {
-    "scientific_name": "Pterodroma rupinarum",
-    "common_names": []
-  },
-  {
     "scientific_name": "Pterodroma pycrofti",
     "common_names": [
       {
@@ -119,7 +171,7 @@
       },
       {
         "lang": "es",
-        "name": "Petrel de Pycroft  ca Petrell de Pycroft"
+        "name": "Petrel de Pycroft ca Petrell de Pycroft"
       },
       {
         "lang": "cy",
@@ -263,6 +315,10 @@
         "name": "Soft-plumaged Petrel"
       },
       {
+        "lang": "eo",
+        "name": "Silka petrelo"
+      },
+      {
         "lang": "es",
         "name": "Petrel suave"
       },
@@ -370,7 +426,7 @@
       },
       {
         "lang": "eo",
-        "name": "Monaĥinpetrelo"
+        "name": "Madejra petrelo"
       },
       {
         "lang": "et",
@@ -424,6 +480,10 @@
       {
         "lang": "sv",
         "name": "Långvingad petrell"
+      },
+      {
+        "lang": "pt",
+        "name": "Fura-bucho-de-cara-cinza"
       }
     ]
   },
@@ -787,7 +847,7 @@
       },
       {
         "lang": "eo",
-        "name": "Feaa petrelo"
+        "name": "Kaboverda petrelo"
       },
       {
         "lang": "et",
@@ -827,7 +887,10 @@
       },
       {
         "lang": "nl",
-        "name": "Kaapverdische stormvogel"
+        "name": "Gon-gon",
+        "synonyms": [
+          "Kaapverdische stormvogel"
+        ]
       },
       {
         "lang": "pt",
@@ -897,6 +960,43 @@
     ]
   },
   {
+    "scientific_name": "Pterodroma deserta",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Petrell de les Desertas"
+      },
+      {
+        "lang": "en",
+        "name": "Desertas petrel"
+      },
+      {
+        "lang": "eo",
+        "name": "Deserta petrelo"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ باران دسترتاس"
+      },
+      {
+        "lang": "fr",
+        "name": "Pétrel des Desertas"
+      },
+      {
+        "lang": "nl",
+        "name": "Desertasstormvogel"
+      },
+      {
+        "lang": "pt",
+        "name": "Grazina-de-desertas"
+      },
+      {
+        "lang": "sv",
+        "name": "desertaspetrell"
+      }
+    ]
+  },
+  {
     "scientific_name": "Pterodroma defilippiana",
     "common_names": [
       {
@@ -950,7 +1050,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "buřňák Cookův"
+        "name": "Buřňák Cookův"
       },
       {
         "lang": "da",
@@ -970,11 +1070,11 @@
       },
       {
         "lang": "et",
-        "name": "hele-tormilind"
+        "name": "Hele-tormilind"
       },
       {
         "lang": "fi",
-        "name": "pikkuviistäjä"
+        "name": "Pikkuviistäjä"
       },
       {
         "lang": "fr",
@@ -982,7 +1082,7 @@
       },
       {
         "lang": "hu",
-        "name": "maori hojsza"
+        "name": "Maori hojsza"
       },
       {
         "lang": "it",
@@ -1009,7 +1109,7 @@
       },
       {
         "lang": "pl",
-        "name": "petrel nowozelandzki"
+        "name": "Petrel nowozelandzki"
       },
       {
         "lang": "pt",
@@ -1141,6 +1241,10 @@
       {
         "lang": "en",
         "name": "Bermuda Petrel"
+      },
+      {
+        "lang": "eo",
+        "name": "Bermuda petrelo"
       },
       {
         "lang": "es",

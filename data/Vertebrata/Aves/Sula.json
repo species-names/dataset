@@ -15,6 +15,10 @@
         "name": "Peruvian booby"
       },
       {
+        "lang": "es",
+        "name": "Piquero peruano"
+      },
+      {
         "lang": "sv",
         "name": "Perusula"
       }
@@ -28,28 +32,100 @@
         "name": "Rooipootmalgas"
       },
       {
+        "lang": "ar",
+        "name": "أحمق أحمر القدمين"
+      },
+      {
+        "lang": "az",
+        "name": "Qırmızı ayaqlı sümsük quşu"
+      },
+      {
+        "lang": "bg",
+        "name": "Червенокрак рибояд"
+      },
+      {
+        "lang": "br",
+        "name": "Morskoul treid ruz"
+      },
+      {
+        "lang": "ca",
+        "name": "Mascarell cama-roig"
+      },
+      {
         "lang": "cs",
         "name": "Terej červenonohý"
       },
       {
+        "lang": "cy",
+        "name": "Bwbi troedgoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rødfodet sule"
+      },
+      {
         "lang": "de",
-        "name": "Rotfusstölpel"
+        "name": "Rotfußtölpel"
       },
       {
         "lang": "en",
         "name": "Red-footed Booby"
       },
       {
+        "lang": "eo",
+        "name": "Ruĝkrura naivulo"
+      },
+      {
+        "lang": "es",
+        "name": "Piquero patirrojo"
+      },
+      {
+        "lang": "eu",
+        "name": "Zanga hankagorri"
+      },
+      {
+        "lang": "fa",
+        "name": "کودن پاقرمز"
+      },
+      {
+        "lang": "fi",
+        "name": "Punajalkasuula"
+      },
+      {
         "lang": "fr",
         "name": "Fou à pieds rouges"
+      },
+      {
+        "lang": "haw",
+        "name": "‘ā"
+      },
+      {
+        "lang": "he",
+        "name": "סולה אדומת-רגל"
+      },
+      {
+        "lang": "hu",
+        "name": "Piroslábú szula"
+      },
+      {
+        "lang": "it",
+        "name": "Sula piedirossi"
       },
       {
         "lang": "ja",
         "name": "アカアシカツオドリ"
       },
       {
-        "lang": "fi",
-        "name": "Punajalkasuula"
+        "lang": "ko",
+        "name": "붉은발얼가니새"
+      },
+      {
+        "lang": "lt",
+        "name": "Raudonkojis padūkėlis"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Dendang Kaki Merah"
       },
       {
         "lang": "nl",
@@ -61,7 +137,27 @@
       },
       {
         "lang": "no",
-        "name": "rødfotsule"
+        "name": "Rødfotsule"
+      },
+      {
+        "lang": "pl",
+        "name": "Głuptak czerwononogi"
+      },
+      {
+        "lang": "pnb",
+        "name": "لال پیروالا بوبی"
+      },
+      {
+        "lang": "pt",
+        "name": "Atobá-de-pé-vermelho"
+      },
+      {
+        "lang": "ru",
+        "name": "Красноногая олуша"
+      },
+      {
+        "lang": "sr",
+        "name": "Црвенонога блуна"
       },
       {
         "lang": "sv",
@@ -72,12 +168,20 @@
         "name": "Ngutulei veʻekula"
       },
       {
+        "lang": "tr",
+        "name": "Kızıl ayaklı sümsük kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Сула червононога"
+      },
+      {
         "lang": "vi",
         "name": "Chim điên chân đỏ"
       },
       {
         "lang": "zh",
-        "name": "紅腳鰹鳥"
+        "name": "红脚鲣鸟"
       }
     ]
   },
@@ -90,7 +194,7 @@
       },
       {
         "lang": "de",
-        "name": "Blaufusstölpel"
+        "name": "Blaufußtölpel"
       },
       {
         "lang": "en",
@@ -158,11 +262,15 @@
       },
       {
         "lang": "de",
-        "name": "Weissbauchtölpel"
+        "name": "Weißbauchtölpel"
       },
       {
         "lang": "en",
         "name": "Brown Booby"
+      },
+      {
+        "lang": "eo",
+        "name": "Bruna sulo"
       },
       {
         "lang": "es",
@@ -190,17 +298,15 @@
       },
       {
         "lang": "no",
-        "name": "brunsule"
+        "name": "Brunsule"
       },
       {
         "lang": "pt",
-        "name": "atobá",
-        "synonyms": [
-          "toba",
-          "mergulhão",
-          "mambembo",
-          "mumbebo"
-        ]
+        "name": "Atobá"
+      },
+      {
+        "lang": "ro",
+        "name": "Corb de mare brun"
       },
       {
         "lang": "ru",
@@ -212,7 +318,7 @@
       },
       {
         "lang": "to",
-        "name": "ngutulei melomelo"
+        "name": "Ngutulei melomelo"
       },
       {
         "lang": "vi",
@@ -263,6 +369,10 @@
       {
         "lang": "en",
         "name": "Masked Booby"
+      },
+      {
+        "lang": "eo",
+        "name": "Maskita sulo"
       },
       {
         "lang": "fr",

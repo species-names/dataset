@@ -1,5 +1,14 @@
 [
   {
+    "scientific_name": "Chlidonias niger surinamensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "American Black Tern"
+      }
+    ]
+  },
+  {
     "scientific_name": "Chlidonias niger",
     "common_names": [
       {
@@ -36,7 +45,7 @@
       },
       {
         "lang": "cs",
-        "name": "rybák černý"
+        "name": "Rybák černý"
       },
       {
         "lang": "cw",
@@ -80,7 +89,7 @@
       },
       {
         "lang": "fi",
-        "name": "mustatiira"
+        "name": "Mustatiira"
       },
       {
         "lang": "fo",
@@ -104,11 +113,7 @@
       },
       {
         "lang": "gl",
-        "name": "carrán mouro",
-        "synonyms": [
-          "gaivina negra",
-          "garabita moura"
-        ]
+        "name": "Carrán mouro"
       },
       {
         "lang": "gv",
@@ -120,10 +125,7 @@
       },
       {
         "lang": "hr",
-        "name": "Crna Cigra",
-        "synonyms": [
-          "Crna Čigra"
-        ]
+        "name": "Crna Čigra"
       },
       {
         "lang": "ht",
@@ -147,10 +149,7 @@
       },
       {
         "lang": "ja",
-        "name": "ハシグロクロハラアジサシ",
-        "synonyms": [
-          "hashigurokuroharaajisashi"
-        ]
+        "name": "ハシグロクロハラアジサシ"
       },
       {
         "lang": "ka",
@@ -182,10 +181,7 @@
       },
       {
         "lang": "mk",
-        "name": "Рибарска вртимушка",
-        "synonyms": [
-          "Црна рибарка"
-        ]
+        "name": "Рибарска вртимушка"
       },
       {
         "lang": "mn",
@@ -205,7 +201,7 @@
       },
       {
         "lang": "pl",
-        "name": "rybitwa czarna"
+        "name": "Rybitwa czarna"
       },
       {
         "lang": "pnb",
@@ -225,10 +221,7 @@
       },
       {
         "lang": "ru",
-        "name": "Чёрная болотная крачка",
-        "synonyms": [
-          "Чёрная крачка"
-        ]
+        "name": "Чёрная болотная крачка"
       },
       {
         "lang": "rue",
@@ -240,14 +233,11 @@
       },
       {
         "lang": "sk",
-        "name": "čorík čierny"
+        "name": "Čorík čierny"
       },
       {
         "lang": "sl",
-        "name": "crna cigra",
-        "synonyms": [
-          "črna čigra"
-        ]
+        "name": "Crna čigra"
       },
       {
         "lang": "sq",
@@ -255,11 +245,7 @@
       },
       {
         "lang": "sr",
-        "name": "crna cigra",
-        "synonyms": [
-          "crna čigra",
-          "Црна чигра"
-        ]
+        "name": "Crna čigra - Црна чигра"
       },
       {
         "lang": "sv",
@@ -275,10 +261,7 @@
       },
       {
         "lang": "uk",
-        "name": "Крячок чорний",
-        "synonyms": [
-          "Чорний крячок"
-        ]
+        "name": "Крячок чорний"
       },
       {
         "lang": "zh",
@@ -316,6 +299,10 @@
       {
         "lang": "en",
         "name": "White-winged Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankflugila ŝterno"
       },
       {
         "lang": "es",
@@ -439,8 +426,12 @@
         "name": "Whiskered Tern"
       },
       {
+        "lang": "eo",
+        "name": "Vilvanga ŝterno"
+      },
+      {
         "lang": "es",
-        "name": "Fumarel Cariblanco"
+        "name": "Fumarel cariblanco"
       },
       {
         "lang": "fi",
@@ -507,6 +498,10 @@
         "name": "Skäggtärna"
       },
       {
+        "lang": "ta",
+        "name": "மீசை ஆலா"
+      },
+      {
         "lang": "tr",
         "name": "Bıyıklı sumru"
       },
@@ -520,16 +515,32 @@
     "scientific_name": "Chlidonias albostriatus",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Stêrwennel tal du"
+      },
+      {
+        "lang": "ca",
+        "name": "Fumarell de Nova Zelanda"
+      },
+      {
         "lang": "cs",
         "name": "Rybák novozélandský"
       },
       {
+        "lang": "cy",
+        "name": "Môr-wennol fronddu"
+      },
+      {
         "lang": "de",
-        "name": "Graubauch-Seeschwalbe"
+        "name": "Schwarzstirn-Seeschwalbe"
       },
       {
         "lang": "en",
         "name": "Black-fronted Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigrafrunta ŝterno"
       },
       {
         "lang": "es",
@@ -540,12 +551,32 @@
         "name": "Guifette des galets"
       },
       {
+        "lang": "fa",
+        "name": "پرستوی دریایی جلوسیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Uudenseelannintiira"
+      },
+      {
         "lang": "hu",
         "name": "Feketefejű szerkő"
       },
       {
         "lang": "mi",
         "name": "Tara"
+      },
+      {
+        "lang": "nl",
+        "name": "Nieuw-Zeelandse stern"
+      },
+      {
+        "lang": "nn",
+        "name": "Maoriterne"
+      },
+      {
+        "lang": "sv",
+        "name": "Maoritärna"
       }
     ]
   }
