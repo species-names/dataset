@@ -137,7 +137,10 @@
       },
       {
         "lang": "hu",
-        "name": "Nyársas antilop"
+        "name": "Nyársas antilop",
+        "synonyms": [
+          "orix"
+        ]
       },
       {
         "lang": "it",
@@ -249,6 +252,10 @@
         "name": "Oryx algazelle"
       },
       {
+        "lang": "gl",
+        "name": "Órix branco"
+      },
+      {
         "lang": "hu",
         "name": "Kardszarvú antilop"
       },
@@ -292,6 +299,15 @@
   {
     "scientific_name": "Oryx beisa",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Beisa-Oryx",
+        "synonyms": [
+          "Beisa",
+          "Beisa-Antilope",
+          "Ostafrikanischer Spießbock"
+        ]
+      },
       {
         "lang": "en",
         "name": "East African Oryx"

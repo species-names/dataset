@@ -11,6 +11,10 @@
         "name": "Puku"
       },
       {
+        "lang": "hu",
+        "name": "Puku mocsáriantilop"
+      },
+      {
         "lang": "pl",
         "name": "Puku"
       },
@@ -26,6 +30,10 @@
       {
         "lang": "cs",
         "name": "Voduška abok"
+      },
+      {
+        "lang": "hu",
+        "name": "Nagyszarvú mocsáriantilop"
       }
     ]
   },
@@ -70,7 +78,10 @@
       },
       {
         "lang": "hu",
-        "name": "Zambézi mocsáriantilop"
+        "name": "Zambézi mocsáriantilop",
+        "synonyms": [
+          "zambézi víziantilop"
+        ]
       },
       {
         "lang": "ja",
@@ -150,6 +161,10 @@
     "scientific_name": "Kobus kob",
     "common_names": [
       {
+        "lang": "hu",
+        "name": "Közönséges mocsáriantilop"
+      },
+      {
         "lang": "tr",
         "name": "Kob"
       }
@@ -214,6 +229,11 @@
   },
   {
     "scientific_name": "Kobus anselli",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Upemba mocsáriantilop"
+      }
+    ]
   }
 ]

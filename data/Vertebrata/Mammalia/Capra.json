@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Capra camburgensis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Capra walie",
     "common_names": [
       {
@@ -13,6 +17,10 @@
       {
         "lang": "fi",
         "name": "Etiopianvuorikauris"
+      },
+      {
+        "lang": "hu",
+        "name": "Abesszin kőszáli kecske"
       },
       {
         "lang": "sv",
@@ -36,6 +44,10 @@
         "synonyms": [
           "siperianalppikauris"
         ]
+      },
+      {
+        "lang": "hu",
+        "name": "Szibériai kőszáli kecske"
       },
       {
         "lang": "pl",
@@ -63,10 +75,6 @@
         "name": "Iberiensteinbock"
       },
       {
-        "lang": "ca",
-        "name": "Cabra salvatge ibèrica"
-      },
-      {
         "lang": "es",
         "name": "Cabra montesa"
       },
@@ -75,8 +83,20 @@
         "name": "Pyreneidenvuorikauris"
       },
       {
+        "lang": "hu",
+        "name": "Spanyol kőszáli kecske"
+      },
+      {
         "lang": "sv",
         "name": "Iberisk stenbock"
+      },
+      {
+        "lang": "pt",
+        "name": "Cabra-montesa"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabra salvatge ibèrica"
       }
     ]
   },
@@ -84,28 +104,70 @@
     "scientific_name": "Capra nubiana",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "ثَيْتَل",
+        "synonyms": [
+          "بَدَن"
+        ]
+      },
+      {
+        "lang": "arz",
+        "name": "تَيْتَل"
+      },
+      {
         "lang": "be",
         "name": "Нубійскі горны казёл"
+      },
+      {
+        "lang": "da",
+        "name": "Nubisk stenbuk"
+      },
+      {
+        "lang": "de",
+        "name": "Nubischer Steinbock"
       },
       {
         "lang": "en",
         "name": "Nubian Ibex"
       },
       {
+        "lang": "es",
+        "name": "Íbice de Nubia"
+      },
+      {
         "lang": "fi",
         "name": "Nubianvuorikauris"
+      },
+      {
+        "lang": "fr",
+        "name": "Bouquetin de Nubie"
       },
       {
         "lang": "he",
         "name": "יעל נובי"
       },
       {
+        "lang": "hu",
+        "name": "Núbiai kőszáli kecske"
+      },
+      {
         "lang": "pl",
         "name": "Koziorożec nubijski"
       },
       {
+        "lang": "ru",
+        "name": "Нуби́йский козёл",
+        "synonyms": [
+          "нуби́йский го́рный козёл"
+        ]
+      },
+      {
         "lang": "sv",
         "name": "Nubisk stenbock"
+      },
+      {
+        "lang": "sh",
+        "name": "Nubíjski kȍzorōg"
       }
     ]
   },
@@ -185,7 +247,7 @@
       },
       {
         "lang": "hu",
-        "name": "Kőszáli kecske"
+        "name": "Alpesi kőszáli kecske"
       },
       {
         "lang": "nl",
@@ -257,6 +319,10 @@
       {
         "lang": "zh",
         "name": "羱羊"
+      },
+      {
+        "lang": "ta",
+        "name": "இபெக்சு காட்டாடு"
       }
     ]
   },
@@ -442,7 +508,10 @@
       },
       {
         "lang": "hu",
-        "name": "Házikecske"
+        "name": "Házikecske",
+        "synonyms": [
+          "kecske"
+        ]
       },
       {
         "lang": "hy",
@@ -483,10 +552,6 @@
       {
         "lang": "ku",
         "name": "Bizin"
-      },
-      {
-        "lang": "la",
-        "name": "Capra"
       },
       {
         "lang": "lbe",
@@ -773,6 +838,10 @@
         "synonyms": [
           "markhor"
         ]
+      },
+      {
+        "lang": "ta",
+        "name": "மார்க்கோர் காட்டு ஆடு"
       }
     ]
   },
@@ -796,6 +865,13 @@
         "name": "Kaukasianvuorikauris"
       },
       {
+        "lang": "hu",
+        "name": "Kelet-kaukázusi kecske",
+        "synonyms": [
+          "dagesztáni túr"
+        ]
+      },
+      {
         "lang": "sv",
         "name": "Östkaukasisk stenbock"
       }
@@ -815,6 +891,13 @@
       {
         "lang": "fi",
         "name": "Kubaninturi"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyugat-kaukázusi kecske",
+        "synonyms": [
+          "kubáni túr"
+        ]
       },
       {
         "lang": "pl",
@@ -905,6 +988,10 @@
         "name": "עז הבר"
       },
       {
+        "lang": "hu",
+        "name": "Vadkecske"
+      },
+      {
         "lang": "ka",
         "name": "ნიამორი"
       },
@@ -919,10 +1006,6 @@
       {
         "lang": "lt",
         "name": "Bezoarinis ožys"
-      },
-      {
-        "lang": "hu",
-        "name": "Vadkecske"
       },
       {
         "lang": "mk",

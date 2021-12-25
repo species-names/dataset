@@ -1,0 +1,74 @@
+[
+  {
+    "scientific_name": "Neopsittacus pullicauda",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-billed Lorikeet"
+      },
+      {
+        "lang": "es",
+        "name": "Lori montano chico"
+      },
+      {
+        "lang": "fr",
+        "name": "Lori émeraude"
+      },
+      {
+        "lang": "sv",
+        "name": "smaragdlorikit",
+        "synonyms": [
+          "orangenäbbad lorikit"
+        ]
+      },
+      {
+        "lang": "cy",
+        "name": "Loricît emrallt"
+      },
+      {
+        "lang": "fi",
+        "name": "Smaragdilurikki"
+      },
+      {
+        "lang": "mrj",
+        "name": "Хартерт лори-гуа"
+      },
+      {
+        "lang": "nl",
+        "name": "Smaragdlori"
+      },
+      {
+        "lang": "ru",
+        "name": "Новогвинейский лори-гуа Хартерта"
+      },
+      {
+        "lang": "tr",
+        "name": "Turuncu gagalı lori"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Neopsittacus musschenbroekii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-billed Lorikeet",
+        "synonyms": [
+          "Musschenbroek's Lory"
+        ]
+      },
+      {
+        "lang": "de",
+        "name": "Gualori"
+      },
+      {
+        "lang": "fr",
+        "name": "Lori de Musschenbroek"
+      },
+      {
+        "lang": "es",
+        "name": "Lori montano grande"
+      }
+    ]
+  }
+]

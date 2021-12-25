@@ -1,10 +1,38 @@
 [
   {
-    "scientific_name": "Hemitragus hylocrius",
+    "scientific_name": "Hemitragus orientalis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Hemitragus cedrensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Hemitragus bonali",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Hemitragus albus",
     "common_names": []
   },
   {
     "scientific_name": "Hemitragus jemlahicus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Sörényes tahr",
+        "synonyms": [
+          "himalájai tahr"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Tibetan Gazelle"
+      },
+      {
+        "lang": "ta",
+        "name": "இமயமலை வரையாடு"
+      }
+    ]
   }
 ]

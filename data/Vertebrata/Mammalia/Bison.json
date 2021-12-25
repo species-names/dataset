@@ -1,5 +1,25 @@
 [
   {
+    "scientific_name": "Bison schoetensacki",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bison palaeosinensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bison menneri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bison hanaizumiensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Bison georgicus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Bison priscus",
     "common_names": [
       {
@@ -48,16 +68,16 @@
     "scientific_name": "Bison bonasus",
     "common_names": [
       {
-        "lang": "kbd",
-        "name": "Домбей"
-      },
-      {
         "lang": "ar",
         "name": "بيسون أوروبيِ"
       },
       {
         "lang": "az",
         "name": "Zubr"
+      },
+      {
+        "lang": "bar",
+        "name": "Wisent"
       },
       {
         "lang": "be",
@@ -72,16 +92,16 @@
         "name": "Зубър"
       },
       {
-        "lang": "bar",
-        "name": "Wisent"
-      },
-      {
         "lang": "br",
         "name": "Bizon Europa"
       },
       {
         "lang": "ca",
         "name": "Bisó europeu"
+      },
+      {
+        "lang": "ce",
+        "name": "Акха сту"
       },
       {
         "lang": "cs",
@@ -98,12 +118,12 @@
         "lang": "de",
         "name": "Wisent",
         "synonyms": [
-          "Europäische Bison"
+          "Europäischer Bison"
         ]
       },
       {
-        "lang": "nv",
-        "name": "Béésh Bichʼahníí Bikéyahdę́ę́ʼ ayání"
+        "lang": "diq",
+        "name": "Bizonê Ewropa"
       },
       {
         "lang": "en",
@@ -114,16 +134,16 @@
         ]
       },
       {
-        "lang": "et",
-        "name": "Euroopa piison"
+        "lang": "eo",
+        "name": "Eŭropa bizono"
       },
       {
         "lang": "es",
         "name": "Bisonte europeo"
       },
       {
-        "lang": "eo",
-        "name": "Eŭropa bizono"
+        "lang": "et",
+        "name": "Euroopa piison"
       },
       {
         "lang": "eu",
@@ -132,6 +152,10 @@
       {
         "lang": "fa",
         "name": "ویسنت"
+      },
+      {
+        "lang": "fi",
+        "name": "Visentti"
       },
       {
         "lang": "fo",
@@ -154,32 +178,32 @@
         "name": "Bisonte europeo"
       },
       {
-        "lang": "ko",
-        "name": "유럽들소"
+        "lang": "he",
+        "name": "ביזון אירופי"
       },
       {
         "lang": "hr",
         "name": "Europski bizon"
       },
       {
-        "lang": "id",
-        "name": "Bison Eropa"
+        "lang": "hu",
+        "name": "Európai bölény"
       },
       {
         "lang": "ia",
         "name": "Bisonte europee"
       },
       {
-        "lang": "os",
-        "name": "Домбай"
+        "lang": "id",
+        "name": "Bison Eropa"
       },
       {
         "lang": "it",
         "name": "Bisonte europeo"
       },
       {
-        "lang": "he",
-        "name": "ביזון אירופי"
+        "lang": "ja",
+        "name": "ヨーロッパバイソン"
       },
       {
         "lang": "jv",
@@ -190,20 +214,24 @@
         "name": "დომბა"
       },
       {
+        "lang": "kbd",
+        "name": "Домбей"
+      },
+      {
         "lang": "kk",
         "name": "Зубр"
       },
       {
-        "lang": "lv",
-        "name": "Sumbrs"
+        "lang": "ko",
+        "name": "유럽들소"
       },
       {
         "lang": "lt",
         "name": "Stumbras"
       },
       {
-        "lang": "hu",
-        "name": "Európai bölény"
+        "lang": "lv",
+        "name": "Sumbrs"
       },
       {
         "lang": "ms",
@@ -214,20 +242,20 @@
         "name": "Wisent"
       },
       {
-        "lang": "ja",
-        "name": "ヨーロッパバイソン"
-      },
-      {
-        "lang": "ce",
-        "name": "Акха сту"
+        "lang": "nn",
+        "name": "Visent"
       },
       {
         "lang": "no",
         "name": "Visent"
       },
       {
-        "lang": "nn",
-        "name": "Visent"
+        "lang": "nv",
+        "name": "Béésh Bichʼahníí Bikéyahdę́ę́ʼ ayání"
+      },
+      {
+        "lang": "os",
+        "name": "Домбай"
       },
       {
         "lang": "pl",
@@ -256,10 +284,6 @@
       {
         "lang": "sr",
         "name": "Европски бизон"
-      },
-      {
-        "lang": "fi",
-        "name": "Visentti"
       },
       {
         "lang": "sv",
@@ -300,10 +324,6 @@
         "name": "Wisent"
       },
       {
-        "lang": "diq",
-        "name": "Bizonê Ewropa"
-      },
-      {
         "lang": "zh",
         "name": "欧洲野牛"
       }
@@ -329,15 +349,16 @@
         "name": "Bizon americký"
       },
       {
+        "lang": "de",
+        "name": "Amerikanischer Bison"
+      },
+      {
         "lang": "en",
         "name": "American Bison"
       },
       {
         "lang": "es",
-        "name": "Bisonte americano",
-        "synonyms": [
-          "bison o búfalo"
-        ]
+        "name": "Bisonte americano"
       },
       {
         "lang": "eu",
@@ -377,10 +398,7 @@
       },
       {
         "lang": "sv",
-        "name": "Bisonoxe",
-        "synonyms": [
-          "amerikansk bison"
-        ]
+        "name": "Amerikansk bison"
       },
       {
         "lang": "tr",

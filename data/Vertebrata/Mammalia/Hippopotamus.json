@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Hippopotamus sirensis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Hippopotamus pentlandi",
     "common_names": []
   },
@@ -8,20 +12,35 @@
     "common_names": []
   },
   {
-    "scientific_name": "Hippopotamus lemerlei",
+    "scientific_name": "Hippopotamus laloumena",
     "common_names": []
   },
   {
-    "scientific_name": "Hippopotamus guldbergi",
+    "scientific_name": "Hippopotamus kaisensis",
     "common_names": []
   },
   {
-    "scientific_name": "Hippopotamus antiquus",
+    "scientific_name": "Hippopotamus gorgops",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Hippopotamus behemoth",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Hippopotamus aethiopicus",
     "common_names": []
   },
   {
     "scientific_name": "Hippopotamus minor",
     "common_names": [
+      {
+        "lang": "en",
+        "name": "Cyprus dwarf hippopotamus",
+        "synonyms": [
+          "Cypriot pygmy hippopotamus"
+        ]
+      },
       {
         "lang": "hu",
         "name": "Ciprusi törpe víziló"
@@ -29,13 +48,67 @@
     ]
   },
   {
+    "scientific_name": "Hippopotamus major",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Hippopotamus madagascariensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Madagaskar-Flusspferd"
+      },
+      {
+        "lang": "en",
+        "name": "Malagasy Pygmy Hippopotamus"
+      },
+      {
+        "lang": "es",
+        "name": "Hippopótamo pigmeo de Madagascar"
+      },
+      {
+        "lang": "fr",
+        "name": "Hippopotame de Madagascar"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hippopotamus lemerlei",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Lemerle-Flusspferd"
+      },
+      {
+        "lang": "en",
+        "name": "Lemerle's Pygmy Hippopotamus"
+      },
+      {
+        "lang": "es",
+        "name": "Hippopótamo pigmeo de Lemerle"
+      },
+      {
+        "lang": "fr",
+        "name": "Hippopotame de Lemerle"
+      }
+    ]
+  },
+  {
     "scientific_name": "Hippopotamus creutzburgi",
     "common_names": [
+      {
+        "lang": "en",
+        "name": "Cretan dwarf hippopotamus"
+      },
       {
         "lang": "hu",
         "name": "Krétai törpevíziló"
       }
     ]
+  },
+  {
+    "scientific_name": "Hippopotamus antiquus",
+    "common_names": []
   },
   {
     "scientific_name": "Hippopotamus amphibius",
@@ -90,19 +163,32 @@
       },
       {
         "lang": "en",
-        "name": "Hippopotamus"
+        "name": "Hippopotamus",
+        "synonyms": [
+          "hippo",
+          "common hippopotamus",
+          "river hippopotamus"
+        ]
       },
       {
         "lang": "es",
         "name": "Hipopótamo"
       },
       {
+        "lang": "eo",
+        "name": "Hipopotamo"
+      },
+      {
         "lang": "et",
-        "name": "Jöehobu"
+        "name": "Jõehobu"
       },
       {
         "lang": "fa",
         "name": "اسب آبی"
+      },
+      {
+        "lang": "ff",
+        "name": "Ngabu"
       },
       {
         "lang": "fi",
@@ -114,7 +200,7 @@
       },
       {
         "lang": "he",
-        "name": "בְּ‏הֵמוֹ‏ת"
+        "name": "היפופוטם"
       },
       {
         "lang": "hr",
@@ -146,10 +232,11 @@
       },
       {
         "lang": "ku",
-        "name": "hespê çemî",
-        "synonyms": [
-          "hespê avî"
-        ]
+        "name": "Hespê çemî"
+      },
+      {
+        "lang": "ml",
+        "name": "നീർക്കുതിര"
       },
       {
         "lang": "mr",
@@ -158,6 +245,10 @@
       {
         "lang": "mk",
         "name": "Нилски коњ"
+      },
+      {
+        "lang": "no",
+        "name": "Flodhest"
       },
       {
         "lang": "nl",
@@ -196,6 +287,10 @@
         "name": "Kiboko"
       },
       {
+        "lang": "syl",
+        "name": "ꠙꠣꠘꠤꠞ ꠀꠔꠔꠤ"
+      },
+      {
         "lang": "ta",
         "name": "நீர் யானை"
       },
@@ -213,7 +308,7 @@
       },
       {
         "lang": "zh",
-        "name": "河馬"
+        "name": "河马"
       },
       {
         "lang": "ro",
@@ -222,6 +317,18 @@
       {
         "lang": "isiZulu",
         "name": "Mvubu"
+      },
+      {
+        "lang": "Norsk",
+        "name": "Flodhest"
+      },
+      {
+        "lang": "hi",
+        "name": "दरयायी घोड़ा"
+      },
+      {
+        "lang": "ur",
+        "name": "دریائی گھوڑا"
       }
     ]
   }

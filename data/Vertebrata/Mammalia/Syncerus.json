@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Syncerus acoelotus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Syncerus caffer",
     "common_names": [
       {
@@ -9,6 +13,10 @@
       {
         "lang": "af",
         "name": "Buffel"
+      },
+      {
+        "lang": "bm",
+        "name": "Sigi"
       },
       {
         "lang": "be",
@@ -21,6 +29,18 @@
       {
         "lang": "cs",
         "name": "Buvol africký; Buvol kaferský"
+      },
+      {
+        "lang": "dag",
+        "name": "Yɔnahu"
+      },
+      {
+        "lang": "mnw",
+        "name": "ပြေၚ်"
+      },
+      {
+        "lang": "emk",
+        "name": "sìi"
       },
       {
         "lang": "ee",
@@ -39,6 +59,14 @@
         "name": "Kafferipuhveli"
       },
       {
+        "lang": "ki",
+        "name": "Mbogo"
+      },
+      {
+        "lang": "ha",
+        "name": "Ɓauna"
+      },
+      {
         "lang": "hu",
         "name": "Kafferbivaly",
         "synonyms": [
@@ -52,6 +80,10 @@
       {
         "lang": "ja",
         "name": "アフリカスイギュウ"
+      },
+      {
+        "lang": "ln",
+        "name": "Nzale"
       },
       {
         "lang": "pt",

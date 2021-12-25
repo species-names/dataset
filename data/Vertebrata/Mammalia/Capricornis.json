@@ -1,19 +1,14 @@
 [
   {
-    "scientific_name": "Capricornis thar",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Himalayan Serow"
-      }
-    ]
-  },
-  {
     "scientific_name": "Capricornis swinhoei",
     "common_names": [
       {
         "lang": "en",
         "name": "Taiwan Serow"
+      },
+      {
+        "lang": "hu",
+        "name": "Tajvani széró"
       },
       {
         "lang": "pl",
@@ -27,6 +22,10 @@
       {
         "lang": "en",
         "name": "Sumatran serow"
+      },
+      {
+        "lang": "hu",
+        "name": "Szumátrai széró"
       },
       {
         "lang": "id",
@@ -55,19 +54,10 @@
       {
         "lang": "en",
         "name": "Red Serow"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Capricornis milneedwardsii",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Chinese Serow"
       },
       {
-        "lang": "th",
-        "name": "เลียงผาเหนือ"
+        "lang": "hu",
+        "name": "Vörös széró"
       }
     ]
   },
@@ -87,20 +77,31 @@
         "name": "Serau malý"
       },
       {
+        "lang": "de",
+        "name": "Japan-Serau"
+      },
+      {
         "lang": "en",
-        "name": "Japanese serow"
+        "name": "Japanese Serow"
       },
       {
         "lang": "eo",
         "name": "Japana serovo"
       },
       {
+        "lang": "es",
+        "name": "Sirao de Japón"
+      },
+      {
         "lang": "fr",
-        "name": "Saro du Japon"
+        "name": "Serow du Japon"
       },
       {
         "lang": "hu",
-        "name": "Japán széró"
+        "name": "Japán széró",
+        "synonyms": [
+          "japán kecskeszarvú zerge"
+        ]
       },
       {
         "lang": "it",

@@ -1,51 +1,21 @@
 [
   {
     "scientific_name": "Meriones zarudnyi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Zarudny’s Jird"
+      }
+    ]
   },
   {
     "scientific_name": "Meriones vinogradovi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Meriones tamariscinus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Meriones shawi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Meriones sacramenti",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Meriones rex",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Meriones persicus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Meriones libycus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Meriones hurrianae",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Meriones crassus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Meriones dahli",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Meriones arimalius",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Vinogradov’s Jird"
+      }
+    ]
   },
   {
     "scientific_name": "Meriones unguiculatus",
@@ -84,6 +54,51 @@
     ]
   },
   {
+    "scientific_name": "Meriones tamariscinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tamarisk Jird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Meriones shawi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Shaw’s Jird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Meriones sacramenti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buxton’s Jird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Meriones rex",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "King Jird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Meriones persicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Persian Jird"
+      }
+    ]
+  },
+  {
     "scientific_name": "Meriones meridianus",
     "common_names": [
       {
@@ -117,11 +132,56 @@
     ]
   },
   {
+    "scientific_name": "Meriones libycus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Libyan Jird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Meriones hurrianae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indian Desert Jird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Meriones dahli",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dahl’s Jird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Meriones crassus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sundevall’s Jird"
+      }
+    ]
+  },
+  {
     "scientific_name": "Meriones chengi",
     "common_names": [
       {
         "lang": "en",
         "name": "Cheng's jird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Meriones arimalius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Arabian Jird"
       }
     ]
   }

@@ -7,6 +7,13 @@
         "name": "Afrikanmanaatti"
       },
       {
+        "lang": "hu",
+        "name": "Afrikai manátusz",
+        "synonyms": [
+          "afrikai manáti"
+        ]
+      },
+      {
         "lang": "sk",
         "name": "Lamantín senegalský"
       },
@@ -168,6 +175,14 @@
       {
         "lang": "fi",
         "name": "Kynnetönmanaatti"
+      },
+      {
+        "lang": "hu",
+        "name": "Dél-amerikai manátusz",
+        "synonyms": [
+          "dél-amerikai manáti",
+          "amazonasi manátusz"
+        ]
       }
     ]
   }

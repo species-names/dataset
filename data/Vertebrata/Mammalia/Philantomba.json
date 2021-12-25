@@ -1,14 +1,41 @@
 [
   {
     "scientific_name": "Philantomba walteri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Walter's duiker"
+      },
+      {
+        "lang": "hu",
+        "name": "Walter-bóbitásantilop"
+      }
+    ]
   },
   {
     "scientific_name": "Philantomba monticola",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue duiker"
+      },
+      {
+        "lang": "hu",
+        "name": "Kék bóbitásantilop"
+      }
+    ]
   },
   {
     "scientific_name": "Philantomba maxwelli",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Maxwell's duiker"
+      },
+      {
+        "lang": "hu",
+        "name": "Maxwell-bóbitásantilop"
+      }
+    ]
   }
 ]

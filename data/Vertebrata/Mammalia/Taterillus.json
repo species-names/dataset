@@ -1,27 +1,12 @@
 [
   {
     "scientific_name": "Taterillus pygargus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Taterillus lacustris",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Taterillus harringtoni",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Taterillus gracilis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Taterillus emini",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Taterillus congicus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Senegal Tateril"
+      }
+    ]
   },
   {
     "scientific_name": "Taterillus petteri",
@@ -32,6 +17,51 @@
         "synonyms": [
           "Petter’s Tateril"
         ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Taterillus lacustris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lake Chad Tateril"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Taterillus harringtoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Harrington’s Tateril"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Taterillus gracilis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gracile Tateril"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Taterillus emini",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Emil's Tateril"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Taterillus congicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Congo Tateril"
       }
     ]
   },

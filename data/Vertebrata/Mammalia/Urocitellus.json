@@ -1,22 +1,10 @@
 [
   {
-    "scientific_name": "Urocitellus endemicus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Urocitellus washingtoni",
     "common_names": [
       {
-        "lang": "bg",
-        "name": "Spermophilus washingtoni"
-      },
-      {
         "lang": "ca",
         "name": "Suslic de Washington"
-      },
-      {
-        "lang": "ceb",
-        "name": "Spermophilus washingtoni"
       },
       {
         "lang": "de",
@@ -25,10 +13,6 @@
       {
         "lang": "en",
         "name": "Washington Ground Squirrel"
-      },
-      {
-        "lang": "eu",
-        "name": "Spermophilus washingtoni"
       },
       {
         "lang": "fa",
@@ -45,10 +29,6 @@
       {
         "lang": "pl",
         "name": "Susłogon waszyngtoński"
-      },
-      {
-        "lang": "war",
-        "name": "Spermophilus washingtoni"
       }
     ]
   },

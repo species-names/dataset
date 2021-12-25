@@ -18,6 +18,15 @@
     ]
   },
   {
+    "scientific_name": "Eliurus petteri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Petter's Tuft-tailed Rat"
+      }
+    ]
+  },
+  {
     "scientific_name": "Eliurus penicillatus",
     "common_names": [
       {
@@ -54,6 +63,24 @@
     ]
   },
   {
+    "scientific_name": "Eliurus grandidieri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grandidier’s Tufted-tailed Rat"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eliurus ellermani",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ellerman's Tuft-tailed Rat"
+      }
+    ]
+  },
+  {
     "scientific_name": "Eliurus danieli",
     "common_names": [
       {
@@ -65,5 +92,14 @@
   {
     "scientific_name": "Eliurus carletoni",
     "common_names": []
+  },
+  {
+    "scientific_name": "Eliurus antsingy",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tsingy Tuft-tailed Rat"
+      }
+    ]
   }
 ]

@@ -1,0 +1,685 @@
+[
+  {
+    "scientific_name": "Psittacula wardi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Seychellen-Sittic"
+      },
+      {
+        "lang": "en",
+        "name": "Seychelles Parakeet"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche des Seychelles"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula roseata",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "ببغاء زهري الرأس"
+      },
+      {
+        "lang": "ca",
+        "name": "Cotorra de cap rosat"
+      },
+      {
+        "lang": "cy",
+        "name": "Paracît pen gwridog"
+      },
+      {
+        "lang": "de",
+        "name": "Rosenkopfsittich"
+      },
+      {
+        "lang": "en",
+        "name": "Blossom-headed Parakeet"
+      },
+      {
+        "lang": "es",
+        "name": "Cotorra carirrosa"
+      },
+      {
+        "lang": "fa",
+        "name": "پاراکی سرصورتی"
+      },
+      {
+        "lang": "fi",
+        "name": "Indokiinankaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche à tête rose"
+      },
+      {
+        "lang": "it",
+        "name": "Parrocchetto facciarosa"
+      },
+      {
+        "lang": "kn",
+        "name": "ಕೆಂದಲೆ ಗಿಳಿ"
+      },
+      {
+        "lang": "my",
+        "name": "ကျေးတမာ"
+      },
+      {
+        "lang": "ne",
+        "name": "गुलाफीटाउके सुगा"
+      },
+      {
+        "lang": "nl",
+        "name": "Bloesemkopparkiet"
+      },
+      {
+        "lang": "pa",
+        "name": "ਲਾਲ ਸਿਰ ਤੋਤਾ"
+      },
+      {
+        "lang": "pl",
+        "name": "Aleksandretta różowogłowa"
+      },
+      {
+        "lang": "pnb",
+        "name": "پھلسرا طوطا"
+      },
+      {
+        "lang": "ru",
+        "name": "Розовоголовый кольчатый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "Äppelhuvad parakit"
+      },
+      {
+        "lang": "vi",
+        "name": "Vẹt đầu hồng"
+      },
+      {
+        "lang": "zh",
+        "name": "花头鹦鹉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula longicauda",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Long-tailed Parakeet"
+      },
+      {
+        "lang": "eo",
+        "name": "Longvosta psitaketo"
+      },
+      {
+        "lang": "ca",
+        "name": "Cotorra cuallarga"
+      },
+      {
+        "lang": "fi",
+        "name": "Pitkäpyrstökaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche à longs brins"
+      },
+      {
+        "lang": "hu",
+        "name": "Hosszúfarkú edelpapagáj"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кужы пачан шӓргӓшӓн попугай"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Bayan Nuri"
+      },
+      {
+        "lang": "nl",
+        "name": "Langstaartparkiet"
+      },
+      {
+        "lang": "pnb",
+        "name": "لمی پوچھل والا طوطا"
+      },
+      {
+        "lang": "ru",
+        "name": "Нитехвостый кольчатый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "långstjärtad parakit"
+      },
+      {
+        "lang": "zh",
+        "name": "长尾鹦鹉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula krameri",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Ringnekpapegaai"
+      },
+      {
+        "lang": "br",
+        "name": "Krakperoked Kramer"
+      },
+      {
+        "lang": "ca",
+        "name": "Cotorra de Kramer"
+      },
+      {
+        "lang": "cs",
+        "name": "Alexandr malý"
+      },
+      {
+        "lang": "de",
+        "name": "Halsbandsittich"
+      },
+      {
+        "lang": "en",
+        "name": "Rose-ringed Parakeet"
+      },
+      {
+        "lang": "eo",
+        "name": "Kolumpsitaketo"
+      },
+      {
+        "lang": "es",
+        "name": "Cotorra de Kramer"
+      },
+      {
+        "lang": "fa",
+        "name": "طوطی کوچک اسکندر"
+      },
+      {
+        "lang": "ar",
+        "name": "ببغاء الدرة المطوقة"
+      },
+      {
+        "lang": "fi",
+        "name": "Kauluskaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche à collier"
+      },
+      {
+        "lang": "gu",
+        "name": "સૂડો"
+      },
+      {
+        "lang": "he",
+        "name": "דררת קרמר"
+      },
+      {
+        "lang": "hu",
+        "name": "Örvös sándorpapagáj"
+      },
+      {
+        "lang": "it",
+        "name": "Parrocchetto dal collare"
+      },
+      {
+        "lang": "ja",
+        "name": "ワカケホンセイインコ"
+      },
+      {
+        "lang": "lt",
+        "name": "Žieduotoji papūga"
+      },
+      {
+        "lang": "nl",
+        "name": "Halsbandparkiet"
+      },
+      {
+        "lang": "no",
+        "name": "Halsbåndparakitt"
+      },
+      {
+        "lang": "pl",
+        "name": "Aleksandretta obrożna"
+      },
+      {
+        "lang": "pt",
+        "name": "Periquito-de-colar"
+      },
+      {
+        "lang": "ru",
+        "name": "Ожереловый попугай Крамера"
+      },
+      {
+        "lang": "sr",
+        "name": "Мали александар"
+      },
+      {
+        "lang": "sv",
+        "name": "Halsbandsparakit"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeşil papağan"
+      },
+      {
+        "lang": "zh",
+        "name": "红领绿鹦鹉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula himalayana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Slaty-headed Parakeet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula finschii",
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "কালোমাথা টিয়া"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-headed Parakeet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula exsul",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Newton's Parakeet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula eupatria",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Alexandersittich"
+      },
+      {
+        "lang": "en",
+        "name": "Alexandrine Parakeet"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche Grand-Alexandre"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote Alexanderparkiet"
+      },
+      {
+        "lang": "sv",
+        "name": "Alexanderparakit"
+      },
+      {
+        "lang": "th",
+        "name": "นกแก้วโม่ง"
+      },
+      {
+        "lang": "tr",
+        "name": "İskender papağanı"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula eques",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Paracît Mauritius"
+      },
+      {
+        "lang": "de",
+        "name": "Mauritiussittich"
+      },
+      {
+        "lang": "en",
+        "name": "Echo Parakeet"
+      },
+      {
+        "lang": "es",
+        "name": "Cotorra de Mauricio"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche de Maurice"
+      },
+      {
+        "lang": "he",
+        "name": "דררת אצ'ו"
+      },
+      {
+        "lang": "hu",
+        "name": "Réunioni sándorpapagáj"
+      },
+      {
+        "lang": "id",
+        "name": "Parkit echo"
+      },
+      {
+        "lang": "it",
+        "name": "Parrocchetto di Mauritius"
+      },
+      {
+        "lang": "mrj",
+        "name": "Маврикий шӓргӓшӓн попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Mauritiusparkiet"
+      },
+      {
+        "lang": "pt",
+        "name": "Periquito-de-reunião"
+      },
+      {
+        "lang": "sv",
+        "name": "Mauritiusparakit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula derbiana",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Cotorra de Derby"
+      },
+      {
+        "lang": "cs",
+        "name": "Alexandr čínský"
+      },
+      {
+        "lang": "cy",
+        "name": "Paracît Arglwydd Derby"
+      },
+      {
+        "lang": "de",
+        "name": "Chinasittich"
+      },
+      {
+        "lang": "en",
+        "name": "Lord Derby's Parakeet"
+      },
+      {
+        "lang": "es",
+        "name": "Cotorra de Derby"
+      },
+      {
+        "lang": "fi",
+        "name": "Tiibetinkaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche de Derby"
+      },
+      {
+        "lang": "hu",
+        "name": "Fenyőpapagáj"
+      },
+      {
+        "lang": "it",
+        "name": "Parrocchetto di Derby"
+      },
+      {
+        "lang": "mrj",
+        "name": "Китай шӓргӓшӓн попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Lord Derby's parkiet"
+      },
+      {
+        "lang": "pl",
+        "name": "Aleksandretta chińska"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالی گانی والا طوطا"
+      },
+      {
+        "lang": "ru",
+        "name": "Китайский кольчатый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "Derbyparakit"
+      },
+      {
+        "lang": "zh",
+        "name": "大紫胸鹦鹉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula cyanocephala",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Plum-headed Parakeet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula columboides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Malabar Parakeet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula caniceps",
+    "common_names": [
+      {
+        "lang": "bh",
+        "name": "निकोबारी सुग्गा"
+      },
+      {
+        "lang": "bn",
+        "name": "নিকোবর টিয়াপাখি"
+      },
+      {
+        "lang": "ca",
+        "name": "Cotorra de les Nicobar"
+      },
+      {
+        "lang": "cy",
+        "name": "Paracît Blyth"
+      },
+      {
+        "lang": "en",
+        "name": "Nicobar Parakeet"
+      },
+      {
+        "lang": "es",
+        "name": "Cotorra de Nicobar"
+      },
+      {
+        "lang": "fi",
+        "name": "Nikobaarienkaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche des Nicobar"
+      },
+      {
+        "lang": "it",
+        "name": "Parrocchetto delle Nicobare"
+      },
+      {
+        "lang": "mrj",
+        "name": "Луды вуян шӓргӓшӓн попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Blyths parkiet"
+      },
+      {
+        "lang": "pnb",
+        "name": "نکوباری طوطا"
+      },
+      {
+        "lang": "ru",
+        "name": "Сероголовый кольчатый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "Nikobarparakit"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula calthropae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Layard's Parakeet"
+      },
+      {
+        "lang": "es",
+        "name": "Cotorra de Ceilán"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche de Layard"
+      },
+      {
+        "lang": "si",
+        "name": "අළු ගිරවා"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psittacula bensoni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Psittacula alexandri",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "ببغاء أحمر الصدر"
+      },
+      {
+        "lang": "bg",
+        "name": "Огърличест александър"
+      },
+      {
+        "lang": "bh",
+        "name": "गोर सुग्गा"
+      },
+      {
+        "lang": "ca",
+        "name": "Cotorra pit-roja"
+      },
+      {
+        "lang": "cy",
+        "name": "Paracît brongoch"
+      },
+      {
+        "lang": "de",
+        "name": "Bartsittich"
+      },
+      {
+        "lang": "en",
+        "name": "Red-breasted Parakeet"
+      },
+      {
+        "lang": "es",
+        "name": "Cotorra pechirroja"
+      },
+      {
+        "lang": "fi",
+        "name": "Punarintakaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche à moustaches"
+      },
+      {
+        "lang": "hu",
+        "name": "Rózsásmellű szakállaspapagáj"
+      },
+      {
+        "lang": "id",
+        "name": "Betet biasa"
+      },
+      {
+        "lang": "it",
+        "name": "Parrocchetto pettorosso"
+      },
+      {
+        "lang": "ja",
+        "name": "ダルマインコ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ошалгы-якшар онган шӓргӓшӓн попугай"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Bayan Dada Merah"
+      },
+      {
+        "lang": "my",
+        "name": "ကျေးကုလားမ"
+      },
+      {
+        "lang": "ne",
+        "name": "कागभेला सुगा"
+      },
+      {
+        "lang": "nl",
+        "name": "Alexanderparkiet"
+      },
+      {
+        "lang": "pl",
+        "name": "Aleksandretta różana"
+      },
+      {
+        "lang": "pnb",
+        "name": "لال چھاتی والا طوطا"
+      },
+      {
+        "lang": "ru",
+        "name": "Розовогрудый кольчатый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "Mustaschparakit"
+      },
+      {
+        "lang": "th",
+        "name": "นกแขกเต้า"
+      },
+      {
+        "lang": "vi",
+        "name": "Vẹt ngực đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "绯胸鹦鹉"
+      }
+    ]
+  }
+]

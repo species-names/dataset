@@ -204,12 +204,28 @@
     "scientific_name": "Ochotona hyperborea",
     "common_names": [
       {
-        "lang": "ru",
-        "name": "Северная пищуха"
+        "lang": "de",
+        "name": "Nördlicher Pfeifhase"
       },
       {
         "lang": "en",
         "name": "Northern Pika"
+      },
+      {
+        "lang": "es",
+        "name": "Pica de Siberia"
+      },
+      {
+        "lang": "fr",
+        "name": "Pika de Sibérie"
+      },
+      {
+        "lang": "ja",
+        "name": "キタナキウサギ"
+      },
+      {
+        "lang": "ru",
+        "name": "Северная пищуха"
       }
     ]
   },
@@ -300,6 +316,10 @@
       {
         "lang": "en",
         "name": "Collared Pika"
+      },
+      {
+        "lang": "pl",
+        "name": "szczekuszka obrożna"
       }
     ]
   },

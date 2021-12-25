@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Thylacinus yorkellus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Thylacinus rostralis",
     "common_names": []
   },
@@ -60,7 +64,12 @@
       },
       {
         "lang": "fr",
-        "name": "Thylacine"
+        "name": "Thylacine",
+        "synonyms": [
+          "loup de Tasmanie",
+          "tigre de Tasmanie",
+          "loup marsupial"
+        ]
       },
       {
         "lang": "gl",

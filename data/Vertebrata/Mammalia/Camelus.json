@@ -12,6 +12,32 @@
     "common_names": []
   },
   {
+    "scientific_name": "Camelus ferus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bactrian camel",
+        "synonyms": [
+          "Mongolian camel"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Kétpúpú teve",
+        "synonyms": [
+          "baktrián"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Wielbłąd dwugarbny",
+        "synonyms": [
+          "baktrian"
+        ]
+      }
+    ]
+  },
+  {
     "scientific_name": "Camelus dromedarius",
     "common_names": [
       {
@@ -89,6 +115,10 @@
       {
         "lang": "gd",
         "name": "Dromadair"
+      },
+      {
+        "lang": "gl",
+        "name": "Dromedario"
       },
       {
         "lang": "ko",
@@ -272,11 +302,7 @@
       },
       {
         "lang": "de",
-        "name": "Trampeltier",
-        "synonyms": [
-          "Zweihöckriges Kamel",
-          "Baktrisches Kamel"
-        ]
+        "name": "Trampeltier"
       },
       {
         "lang": "el",
@@ -292,10 +318,7 @@
       },
       {
         "lang": "es",
-        "name": "Camello bactriano",
-        "synonyms": [
-          "camello asiático"
-        ]
+        "name": "Camello bactriano"
       },
       {
         "lang": "eu",
@@ -307,14 +330,15 @@
       },
       {
         "lang": "fi",
-        "name": "Kaksikyttyräinen kameli",
-        "synonyms": [
-          "Kameli"
-        ]
+        "name": "Kameli"
       },
       {
         "lang": "fr",
         "name": "Chameau de Bactriane"
+      },
+      {
+        "lang": "gl",
+        "name": "Camelo bactriano"
       },
       {
         "lang": "he",
@@ -400,11 +424,7 @@
       },
       {
         "lang": "pt",
-        "name": "Camelo",
-        "synonyms": [
-          "camelo-bactriano",
-          "camelo-asiático"
-        ]
+        "name": "Camelo-bactriano"
       },
       {
         "lang": "ru",
@@ -440,10 +460,7 @@
       },
       {
         "lang": "tr",
-        "name": "Çift hörgüçlü",
-        "synonyms": [
-          "deve"
-        ]
+        "name": "Çift hörgüçlü deve"
       },
       {
         "lang": "ug",

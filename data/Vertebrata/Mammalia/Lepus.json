@@ -23,11 +23,193 @@
   },
   {
     "scientific_name": "Lepus tolai",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tolai Hare"
+      },
+      {
+        "lang": "ru",
+        "name": "Заяц-толай"
+      },
+      {
+        "lang": "pl",
+        "name": "Zając tolaj"
+      }
+    ]
   },
   {
     "scientific_name": "Lepus timidus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "bar",
+        "name": "Schneehoos"
+      },
+      {
+        "lang": "be",
+        "name": "Заяц-бяляк"
+      },
+      {
+        "lang": "br",
+        "name": "Gad-venez"
+      },
+      {
+        "lang": "ca",
+        "name": "Llebre de les neus"
+      },
+      {
+        "lang": "cv",
+        "name": "Шурă мулкач"
+      },
+      {
+        "lang": "cs",
+        "name": "Zajíc bělák"
+      },
+      {
+        "lang": "da",
+        "name": "Snehare"
+      },
+      {
+        "lang": "de",
+        "name": "Schneehase"
+      },
+      {
+        "lang": "en",
+        "name": "Mountain Hare"
+      },
+      {
+        "lang": "eo",
+        "name": "Neĝleporo"
+      },
+      {
+        "lang": "es",
+        "name": "Liebre de montaña"
+      },
+      {
+        "lang": "et",
+        "name": "Valgejänes"
+      },
+      {
+        "lang": "fi",
+        "name": "Metsäjänis"
+      },
+      {
+        "lang": "fo",
+        "name": "Snjóhara"
+      },
+      {
+        "lang": "fr",
+        "name": "Lièvre variable"
+      },
+      {
+        "lang": "ga",
+        "name": "Giorria Sléibhe"
+      },
+      {
+        "lang": "gv",
+        "name": "Mwaagh slieau"
+      },
+      {
+        "lang": "hu",
+        "name": "Havasi nyúl"
+      },
+      {
+        "lang": "is",
+        "name": "Snæhéri"
+      },
+      {
+        "lang": "it",
+        "name": "Lepre variabile"
+      },
+      {
+        "lang": "ja",
+        "name": "ユキウサギ"
+      },
+      {
+        "lang": "ka",
+        "name": "თეთრი კურდღელი"
+      },
+      {
+        "lang": "kk",
+        "name": "Ақ қоян"
+      },
+      {
+        "lang": "ko",
+        "name": "고산토끼"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltasis kiškis"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ош морен"
+      },
+      {
+        "lang": "mt",
+        "name": "Liebru tal-muntanji"
+      },
+      {
+        "lang": "nl",
+        "name": "Sneeuwhaas"
+      },
+      {
+        "lang": "ce",
+        "name": "КӀайн пхьагал"
+      },
+      {
+        "lang": "nn",
+        "name": "Hare"
+      },
+      {
+        "lang": "no",
+        "name": "Hare"
+      },
+      {
+        "lang": "mhr",
+        "name": "Ош мераҥ"
+      },
+      {
+        "lang": "pnb",
+        "name": "پعاڑی خرگوش"
+      },
+      {
+        "lang": "pl",
+        "name": "Zając bielak"
+      },
+      {
+        "lang": "pt",
+        "name": "Lebre-da-Eurásia"
+      },
+      {
+        "lang": "ru",
+        "name": "Заяц-беляк"
+      },
+      {
+        "lang": "sah",
+        "name": "Куобах"
+      },
+      {
+        "lang": "sl",
+        "name": "Planinski zajec"
+      },
+      {
+        "lang": "sv",
+        "name": "Skogshare"
+      },
+      {
+        "lang": "uk",
+        "name": "Заєць білий"
+      },
+      {
+        "lang": "wa",
+        "name": "Blanc live"
+      },
+      {
+        "lang": "zh",
+        "name": "雪兔"
+      }
+    ]
   },
   {
     "scientific_name": "Lepus tibetanus",
@@ -113,6 +295,10 @@
       {
         "lang": "bn",
         "name": "ভারতীয় খরগোশ"
+      },
+      {
+        "lang": "pt",
+        "name": "Lebre-indiana"
       }
     ]
   },
@@ -144,6 +330,54 @@
       {
         "lang": "en",
         "name": "Black Jackrabbit"
+      },
+      {
+        "lang": "ca",
+        "name": "Llebre negra"
+      },
+      {
+        "lang": "de",
+        "name": "Espiritu-Santo-Hase"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustajänis"
+      },
+      {
+        "lang": "ko",
+        "name": "아메리카검은멧토끼"
+      },
+      {
+        "lang": "lt",
+        "name": "Tamsusis kiškis"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шим морен"
+      },
+      {
+        "lang": "mt",
+        "name": "Liebru iswed"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte ezelhaas"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрно-бурый заяц"
+      },
+      {
+        "lang": "sr",
+        "name": "Еспиритусантоански зец"
+      },
+      {
+        "lang": "sv",
+        "name": "svart åsnehare"
+      },
+      {
+        "lang": "ta",
+        "name": "கருப்பு குழிமுயல்"
       }
     ]
   },
@@ -208,23 +442,80 @@
     "scientific_name": "Lepus europaeus",
     "common_names": [
       {
+        "lang": "als",
+        "name": "Feldhase"
+      },
+      {
+        "lang": "ar",
+        "name": "قواع أوروبي"
+      },
+      {
+        "lang": "az",
+        "name": "Boz dovşan"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Zoikis"
+      },
+      {
+        "lang": "ba",
+        "name": "Үрғуян"
+      },
+      {
         "lang": "be",
         "name": "Заяц-русак"
       },
       {
+        "lang": "bg",
+        "name": "Див заек"
+      },
+      {
+        "lang": "br",
+        "name": "Gad Europa"
+      },
+      {
+        "lang": "bs",
+        "name": "Evropski zec"
+      },
+      {
+        "lang": "ca",
+        "name": "Llebre comuna"
+      },
+      {
+        "lang": "cs",
+        "name": "Zajíc polní"
+      },
+      {
+        "lang": "csb",
+        "name": "Szari zajc"
+      },
+      {
+        "lang": "cv",
+        "name": "Хир мулкачĕ"
+      },
+      {
         "lang": "da",
-        "name": "Hare"
+        "name": "Europæisk Hare"
       },
       {
         "lang": "de",
         "name": "Feldhase"
       },
       {
+        "lang": "diq",
+        "name": "Arwêşê Ewropa"
+      },
+      {
+        "lang": "el",
+        "name": "Ευρωπαϊκός λαγός"
+      },
+      {
         "lang": "en",
-        "name": "European hare",
-        "synonyms": [
-          "Brown hare"
-        ]
+        "name": "Brown Hare"
+      },
+      {
+        "lang": "eo",
+        "name": "Eŭropa leporo"
       },
       {
         "lang": "es",
@@ -235,6 +526,18 @@
         "name": "Halljänes"
       },
       {
+        "lang": "eu",
+        "name": "Erbi arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "خرگوش صحرایی اروپایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Rusakko"
+      },
+      {
         "lang": "fr",
         "name": "Lièvre d'Europe"
       },
@@ -243,16 +546,92 @@
         "name": "Fialhaas"
       },
       {
+        "lang": "fy",
+        "name": "Hazze"
+      },
+      {
+        "lang": "ga",
+        "name": "Giorria gallda"
+      },
+      {
+        "lang": "gl",
+        "name": "Lebre europea"
+      },
+      {
+        "lang": "he",
+        "name": "ארנבת אירופית"
+      },
+      {
+        "lang": "hr",
+        "name": "Europski zec"
+      },
+      {
         "lang": "hu",
         "name": "Mezei nyúl"
+      },
+      {
+        "lang": "hy",
+        "name": "Գորշ նապաստակ"
       },
       {
         "lang": "is",
         "name": "Gráhéri"
       },
       {
+        "lang": "it",
+        "name": "Lepre comune"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤブノウサギ"
+      },
+      {
+        "lang": "ka",
+        "name": "რუხი კურდღელი"
+      },
+      {
+        "lang": "kk",
+        "name": "Ор қоян"
+      },
+      {
+        "lang": "ko",
+        "name": "숲멧토끼"
+      },
+      {
+        "lang": "lb",
+        "name": "Europäeschen Hues"
+      },
+      {
+        "lang": "lld",
+        "name": "Leo"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkasis kiškis"
+      },
+      {
+        "lang": "lv",
+        "name": "Pelēkais zaķis"
+      },
+      {
+        "lang": "mhr",
+        "name": "Сур мераҥ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Луды морен"
+      },
+      {
+        "lang": "mt",
+        "name": "Liebru Ewropew"
+      },
+      {
         "lang": "nl",
         "name": "Europese Haas"
+      },
+      {
+        "lang": "nn",
+        "name": "Sørhare"
       },
       {
         "lang": "no",
@@ -267,33 +646,84 @@
         "name": "Lebre-comum"
       },
       {
+        "lang": "ro",
+        "name": "Iepure de câmp"
+      },
+      {
         "lang": "ru",
         "name": "Заяц-русак"
       },
       {
-        "lang": "fi",
-        "name": "Rusakko"
+        "lang": "scn",
+        "name": "Lepru"
+      },
+      {
+        "lang": "sc",
+        "name": "Lèpere"
+      },
+      {
+        "lang": "sh",
+        "name": "Obični zec"
+      },
+      {
+        "lang": "sk",
+        "name": "Zajac poľný"
       },
       {
         "lang": "sl",
-        "name": "Poljski zajec",
-        "synonyms": [
-          "Divji zajec"
-        ]
+        "name": "Poljski zajec"
+      },
+      {
+        "lang": "sr",
+        "name": "Европски зец"
+      },
+      {
+        "lang": "stq",
+        "name": "Hoase"
       },
       {
         "lang": "sv",
-        "name": "Fälthare",
-        "synonyms": [
-          "Tyskhare"
-        ]
+        "name": "Fälthare"
+      },
+      {
+        "lang": "ta",
+        "name": "ஐரோப்பிய முயல்"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı tavşan"
+      },
+      {
+        "lang": "tt",
+        "name": "Үр куяны"
+      },
+      {
+        "lang": "uk",
+        "name": "Заєць сірий"
       },
       {
         "lang": "vec",
-        "name": "Léoro",
-        "synonyms": [
-          "Lièoro"
-        ]
+        "name": "Léoro"
+      },
+      {
+        "lang": "vi",
+        "name": "Thỏ rừng châu Âu"
+      },
+      {
+        "lang": "wa",
+        "name": "Live d' Urope"
+      },
+      {
+        "lang": "wuu",
+        "name": "欧洲野兔"
+      },
+      {
+        "lang": "zh",
+        "name": "歐洲野兔"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "歐洲野兔"
       }
     ]
   },
@@ -390,10 +820,7 @@
       },
       {
         "lang": "it",
-        "name": "Lepre del Capo",
-        "synonyms": [
-          "lepre africana"
-        ]
+        "name": "Lepre del Capo"
       },
       {
         "lang": "he",
@@ -451,6 +878,10 @@
       {
         "lang": "es",
         "name": "Liebre Torda"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérfarkú nyúl"
       }
     ]
   },
@@ -490,7 +921,68 @@
   },
   {
     "scientific_name": "Lepus arcticus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Llebre polar"
+      },
+      {
+        "lang": "cs",
+        "name": "Zajíc polární"
+      },
+      {
+        "lang": "de",
+        "name": "Polarhase"
+      },
+      {
+        "lang": "el",
+        "name": "Αρκτικός λαγός"
+      },
+      {
+        "lang": "en",
+        "name": "Arctic Hare"
+      },
+      {
+        "lang": "fi",
+        "name": "Napajänis"
+      },
+      {
+        "lang": "fo",
+        "name": "Pólhara"
+      },
+      {
+        "lang": "fr",
+        "name": "Lièvre arctique"
+      },
+      {
+        "lang": "mt",
+        "name": "Liepru tal-Artiku"
+      },
+      {
+        "lang": "nl",
+        "name": "Poolhaas"
+      },
+      {
+        "lang": "pl",
+        "name": "Zając polarny"
+      },
+      {
+        "lang": "pt",
+        "name": "Lebre-ártica"
+      },
+      {
+        "lang": "ru",
+        "name": "Полярный заяц"
+      },
+      {
+        "lang": "th",
+        "name": "กระต่ายอาร์กติก"
+      },
+      {
+        "lang": "zh",
+        "name": "北极兔"
+      }
+    ]
   },
   {
     "scientific_name": "Lepus americanus",
@@ -498,7 +990,16 @@
   },
   {
     "scientific_name": "Lepus alleni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Antelope Jackrabbit"
+      },
+      {
+        "lang": "ru",
+        "name": "Антилоповый заяц"
+      }
+    ]
   },
   {
     "scientific_name": "Lepus (Lepus)",

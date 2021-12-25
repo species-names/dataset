@@ -12,16 +12,20 @@
     "scientific_name": "Sicista subtilis",
     "common_names": [
       {
-        "lang": "bg",
+        "lang": " bg",
         "name": "Степна скачаща мишка"
       },
       {
-        "lang": "en",
+        "lang": " en",
         "name": "Southern Birch Mouse"
       },
       {
-        "lang": "pl",
+        "lang": " pl",
         "name": "Smużka stepowa"
+      },
+      {
+        "lang": " sv",
+        "name": "Stäppmus"
       }
     ]
   },
@@ -92,8 +96,24 @@
     "scientific_name": "Sicista caudata",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Langschwanz-Birkenmaus"
+      },
+      {
         "lang": "en",
         "name": "Long-tailed Birch Mouse"
+      },
+      {
+        "lang": "es",
+        "name": "Ratón listado de cola larga"
+      },
+      {
+        "lang": "fr",
+        "name": "Siciste à longue queue"
+      },
+      {
+        "lang": "ja",
+        "name": "オナガネズミ"
       }
     ]
   },
@@ -139,10 +159,7 @@
       },
       {
         "lang": "sv",
-        "name": "Nordisk buskmus",
-        "synonyms": [
-          "björkmus"
-        ]
+        "name": "Nordisk buskmus"
       }
     ]
   },

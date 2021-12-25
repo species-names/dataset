@@ -35,6 +35,10 @@
         "name": "Pangolin à courte queue"
       },
       {
+        "lang": "hu",
+        "name": "Kínai tobzoska"
+      },
+      {
         "lang": "it",
         "name": "Pangolino cinese"
       },
@@ -86,11 +90,55 @@
     ]
   },
   {
+    "scientific_name": "Manis culionensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Philippine pangolin",
+        "synonyms": [
+          "Palawan pangolin"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Palawani tobzoska"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Manis crassicaudata",
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Indiai tobzoska",
+        "synonyms": [
+          "ceyloni tobzoska"
+        ]
+      },
+      {
+        "lang": "pl",
+        "name": "Pangolin gruboogonowy"
+      },
+      {
+        "lang": "en",
+        "name": "Indian Pangolin"
+      },
+      {
+        "lang": "ta",
+        "name": "எறும்புத் திண்ணி"
+      },
+      {
+        "lang": "sv",
+        "name": "Indisk myrkott"
+      }
+    ]
+  },
+  {
     "scientific_name": "Manis javanica",
     "common_names": [
       {
         "lang": "hu",
-        "name": "Hátsó-indiai tobzoska"
+        "name": "Jávai tobzoska"
       },
       {
         "lang": "km",
@@ -116,26 +164,6 @@
           "ลิ่นซุนดา",
           "นิ่มซุนดา"
         ]
-      }
-    ]
-  },
-  {
-    "scientific_name": "Manis culionensis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Manis crassicaudata",
-    "common_names": [
-      {
-        "lang": "hu",
-        "name": "Jávai tobzoska",
-        "synonyms": [
-          "ceyloni tobzoska"
-        ]
-      },
-      {
-        "lang": "pl",
-        "name": "Pangolin gruboogonowy"
       }
     ]
   }

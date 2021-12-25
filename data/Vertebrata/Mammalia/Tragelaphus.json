@@ -1,5 +1,18 @@
 [
   {
+    "scientific_name": "Tragelaphus sylvaticus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cape bushbuck"
+      },
+      {
+        "lang": "hu",
+        "name": "Delamere bozótiantilop"
+      }
+    ]
+  },
+  {
     "scientific_name": "Tragelaphus strepsiceros",
     "common_names": [
       {
@@ -125,7 +138,7 @@
       },
       {
         "lang": "hu",
-        "name": "Közönséges bozóti antilop"
+        "name": "Közönséges bozótiantilop"
       }
     ]
   },
@@ -174,7 +187,7 @@
       },
       {
         "lang": "it",
-        "name": "cudù minore"
+        "name": "Cudù minore"
       },
       {
         "lang": "ka",

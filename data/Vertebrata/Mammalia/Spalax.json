@@ -4,7 +4,15 @@
     "common_names": []
   },
   {
-    "scientific_name": "Spalax microphthlamus",
+    "scientific_name": "Spalax uralensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spalax microphthalmus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Spalax istricus",
     "common_names": []
   },
   {
@@ -12,17 +20,8 @@
     "common_names": []
   },
   {
-    "scientific_name": "Spalax arenarius",
+    "scientific_name": "Spalax antiquus",
     "common_names": []
-  },
-  {
-    "scientific_name": "Spalax leucodon",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Lesser Blind Mole Rat"
-      }
-    ]
   },
   {
     "scientific_name": "Spalax graecus",
@@ -40,5 +39,14 @@
   {
     "scientific_name": "Spalax denizliensis",
     "common_names": []
+  },
+  {
+    "scientific_name": "Spalax arenarius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sandy Blind Mole Rat"
+      }
+    ]
   }
 ]

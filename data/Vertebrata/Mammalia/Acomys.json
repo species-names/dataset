@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Acomys muzei",
+    "common_names": []
+  },
+  {
     "scientific_name": "Acomys wilsoni",
     "common_names": [
       {
@@ -193,6 +197,13 @@
       {
         "lang": "en",
         "name": "Cairo Spiny Mouse"
+      },
+      {
+        "lang": "hu",
+        "name": "Egyiptomi tüskésegér",
+        "synonyms": [
+          "közönséges tüskésegér"
+        ]
       },
       {
         "lang": "nl",

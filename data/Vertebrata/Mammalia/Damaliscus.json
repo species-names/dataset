@@ -1,5 +1,13 @@
 [
   {
+    "scientific_name": "Damaliscus niro",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Damaliscus hypsodon",
+    "common_names": []
+  },
+  {
     "scientific_name": "Damaliscus superstes",
     "common_names": []
   },
@@ -23,8 +31,16 @@
         "name": "Bontebok"
       },
       {
+        "lang": "fi",
+        "name": "Valkopäätopi"
+      },
+      {
         "lang": "fr",
         "name": "Blesbok"
+      },
+      {
+        "lang": "hu",
+        "name": "Tarka lantszarvúantilop"
       },
       {
         "lang": "ko",
@@ -64,6 +80,10 @@
         "name": "Common Tsessebe"
       },
       {
+        "lang": "es",
+        "name": "Tsessebe común"
+      },
+      {
         "lang": "fi",
         "name": "Sassabiantilooppi"
       },
@@ -72,8 +92,8 @@
         "name": "Sassaby"
       },
       {
-        "lang": "es",
-        "name": "Tsessebe común"
+        "lang": "hu",
+        "name": "Közönséges lantszarvúantilop"
       }
     ]
   },

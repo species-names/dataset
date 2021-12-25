@@ -322,6 +322,10 @@
         "name": "Kotipäästäinen"
       },
       {
+        "lang": "gl",
+        "name": "Furaño de xardín"
+      },
+      {
         "lang": "hu",
         "name": "Keleti cickány"
       },
@@ -439,19 +443,28 @@
     "scientific_name": "Crocidura russula",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Hausspitzmaus"
+      },
+      {
         "lang": "en",
-        "name": "Greater White-toothed Shrew",
-        "synonyms": [
-          "European white-toothed shrew"
-        ]
+        "name": "Greater White-toothed Shrew"
       },
       {
         "lang": "es",
         "name": "Musaraña gris"
       },
       {
-        "lang": "pl",
-        "name": "Zębiełek myszaty"
+        "lang": "fr",
+        "name": "Crocidure musette"
+      },
+      {
+        "lang": "gl",
+        "name": "Furaño común"
+      },
+      {
+        "lang": "it",
+        "name": "Crocidura rossiccia"
       },
       {
         "lang": "fi",
@@ -460,6 +473,18 @@
       {
         "lang": "hu",
         "name": "Házi cickány"
+      },
+      {
+        "lang": "nl",
+        "name": "Huisspitsmuis"
+      },
+      {
+        "lang": "pl",
+        "name": "Zębiełek myszaty"
+      },
+      {
+        "lang": "pt",
+        "name": "Musaranho-de-dentes-brancos"
       },
       {
         "lang": "sv",
@@ -1568,11 +1593,11 @@
     "scientific_name": "Crocidura canariensis",
     "common_names": [
       {
-        "lang": "en ",
+        "lang": "en",
         "name": "Canarian Shrew"
       },
       {
-        "lang": "es ",
+        "lang": "es",
         "name": "Musaraña de Canarias"
       }
     ]

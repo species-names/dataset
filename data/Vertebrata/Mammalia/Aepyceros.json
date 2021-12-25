@@ -11,6 +11,10 @@
         "name": "Импала"
       },
       {
+        "lang": "bar",
+        "name": "Impala"
+      },
+      {
         "lang": "br",
         "name": "Impala"
       },
@@ -64,15 +68,11 @@
       },
       {
         "lang": "it",
-        "name": "impala"
+        "name": "Impala"
       },
       {
         "lang": "ja",
         "name": "インパラ"
-      },
-      {
-        "lang": "la",
-        "name": "Impala"
       },
       {
         "lang": "lb",
@@ -100,7 +100,7 @@
       },
       {
         "lang": "pl",
-        "name": "Impala"
+        "name": "impala zwyczajna"
       },
       {
         "lang": "pt",
@@ -141,6 +141,10 @@
       {
         "lang": "zh",
         "name": "高角羚"
+      },
+      {
+        "lang": "ta",
+        "name": "இம்பாலா"
       }
     ]
   },

@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Phataginus tetradactyla",
-    "common_names": []
-  },
-  {
     "scientific_name": "Phataginus tricuspis",
     "common_names": [
       {
@@ -35,5 +31,9 @@
         "name": "Pangolim-arborícola"
       }
     ]
+  },
+  {
+    "scientific_name": "Phataginus tetradactyla",
+    "common_names": []
   }
 ]

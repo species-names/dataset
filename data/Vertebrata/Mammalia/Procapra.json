@@ -3,16 +3,20 @@
     "scientific_name": "Procapra przewalskii",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Przewalskigazelle"
+      },
+      {
         "lang": "en",
-        "name": "Gacela de przewalski",
-        "synonyms": [
-          "Gazelle de przewalski",
-          "Przewalski's gazelle"
-        ]
+        "name": "Przewalski's gazelle"
       },
       {
         "lang": "es",
         "name": "Gacela de Przewalski"
+      },
+      {
+        "lang": "hu",
+        "name": "Kínai gazella"
       }
     ]
   },
@@ -34,6 +38,17 @@
       {
         "lang": "es",
         "name": "Gacela del Tibet o Goa"
+      },
+      {
+        "lang": "hu",
+        "name": "Tibeti gazella",
+        "synonyms": [
+          "goa"
+        ]
+      },
+      {
+        "lang": "ta",
+        "name": "திபெத்திய சிறுமான்"
       }
     ]
   },
@@ -45,6 +60,10 @@
         "name": "Мангольскі дзэрэн"
       },
       {
+        "lang": "de",
+        "name": "Mongolische Gazelle"
+      },
+      {
         "lang": "en",
         "name": "Mongolian gazelle",
         "synonyms": [
@@ -52,19 +71,23 @@
         ]
       },
       {
-        "lang": "pl",
-        "name": "Gazela mongolska"
+        "lang": "es",
+        "name": "Gacela de Mongolia",
+        "synonyms": [
+          "Zeren"
+        ]
       },
       {
         "lang": "fr",
         "name": "Gazelle à queue blanche"
       },
       {
-        "lang": "es",
-        "name": "Gacela de Mongolia",
-        "synonyms": [
-          "Zeren"
-        ]
+        "lang": "hu",
+        "name": "Mongol gazella"
+      },
+      {
+        "lang": "pl",
+        "name": "Gazela mongolska"
       }
     ]
   }

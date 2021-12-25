@@ -39,12 +39,21 @@
       {
         "lang": "en",
         "name": "Yucatan Brown Brocket"
+      },
+      {
+        "lang": "hu",
+        "name": "Yucatáni nyársasszarvas"
       }
     ]
   },
   {
     "scientific_name": "Mazama nemorivaga",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Amazóniai nyársasszarvas"
+      }
+    ]
   },
   {
     "scientific_name": "Mazama nana",
@@ -111,7 +120,7 @@
     "common_names": [
       {
         "lang": "cpa",
-        "name": "chiang³"
+        "name": "Chiang³"
       },
       {
         "lang": "en",
@@ -127,7 +136,7 @@
       },
       {
         "lang": "fr",
-        "name": "daguet rouge"
+        "name": "Daguet rouge"
       },
       {
         "lang": "hu",
@@ -135,7 +144,7 @@
       },
       {
         "lang": "jbt",
-        "name": "kudi"
+        "name": "Kudi"
       },
       {
         "lang": "pt",

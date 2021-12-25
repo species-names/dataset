@@ -1,5 +1,17 @@
 [
   {
+    "scientific_name": "Antilope subtorta",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Antilope planicornis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Antilope intermedius",
+    "common_names": []
+  },
+  {
     "scientific_name": "Antilope cervicapra",
     "common_names": [
       {
@@ -132,7 +144,7 @@
       },
       {
         "lang": "ta",
-        "name": "புல்வாய்"
+        "name": "புல்வாய் (கறுப்பு மான்)"
       },
       {
         "lang": "te",
@@ -149,6 +161,10 @@
       {
         "lang": "zh",
         "name": "印度黑羚"
+      },
+      {
+        "lang": "or",
+        "name": "କୃଷ୍ଣସାର ମୃଗ"
       }
     ]
   }

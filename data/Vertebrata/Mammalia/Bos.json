@@ -35,6 +35,10 @@
         "name": "بقرة"
       },
       {
+        "lang": "as",
+        "name": "গৰু"
+      },
+      {
         "lang": "av",
         "name": "ГӀака"
       },
@@ -91,6 +95,10 @@
         "name": "Buoc'h"
       },
       {
+        "lang": "brx",
+        "name": "मैसो"
+      },
+      {
         "lang": "bs",
         "name": "Domaće govedo"
       },
@@ -140,6 +148,10 @@
         "synonyms": [
           "Rind"
         ]
+      },
+      {
+        "lang": "der",
+        "name": "মুচু"
       },
       {
         "lang": "diq",
@@ -385,7 +397,11 @@
       },
       {
         "lang": "no",
-        "name": "Tamfe"
+        "name": "Tamfe",
+        "synonyms": [
+          "Storfe",
+          "Ku"
+        ]
       },
       {
         "lang": "nrm",
@@ -394,6 +410,10 @@
       {
         "lang": "nv",
         "name": "Béégashii"
+      },
+      {
+        "lang": "or",
+        "name": "ଗାଈ"
       },
       {
         "lang": "os",
@@ -428,6 +448,14 @@
       {
         "lang": "qu",
         "name": "Waka"
+      },
+      {
+        "lang": "rah",
+        "name": "মাছু"
+      },
+      {
+        "lang": "rkt",
+        "name": "গোৰু"
       },
       {
         "lang": "ro",
@@ -512,6 +540,10 @@
       {
         "lang": "sw",
         "name": "Ng'ombe"
+      },
+      {
+        "lang": "syl",
+        "name": "ꠉꠞꠥ"
       },
       {
         "lang": "ta",
@@ -602,6 +634,10 @@
   {
     "scientific_name": "Bos sauveli",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Kouprey"
+      },
       {
         "lang": "en",
         "name": "Kouprey"
@@ -694,6 +730,17 @@
         "name": "Urokse"
       },
       {
+        "lang": "de",
+        "name": "Auerochse",
+        "synonyms": [
+          "Ur"
+        ]
+      },
+      {
+        "lang": "el",
+        "name": "Βους ο πρωταρχικός (Αουρόξ)"
+      },
+      {
         "lang": "en",
         "name": "Aurochs"
       },
@@ -702,12 +749,8 @@
         "name": "Uro"
       },
       {
-        "lang": "el",
-        "name": "Βους ο πρωταρχικός (Αουρόξ)"
-      },
-      {
         "lang": "es",
-        "name": "uro"
+        "name": "Uro"
       },
       {
         "lang": "et",
@@ -857,11 +900,32 @@
   },
   {
     "scientific_name": "Bos mutus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wild Yak"
+      },
+      {
+        "lang": "hu",
+        "name": "Vadjak"
+      },
+      {
+        "lang": "ta",
+        "name": "சடை மாடு"
+      }
+    ]
   },
   {
     "scientific_name": "Bos javanicus",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Banteng"
+      },
+      {
+        "lang": "el",
+        "name": "Βους της Ιάβας"
+      },
       {
         "lang": "en",
         "name": "Banteng"
@@ -875,8 +939,16 @@
         "name": "Banteng"
       },
       {
+        "lang": "id",
+        "name": "Banteng"
+      },
+      {
         "lang": "it",
         "name": "Banteng"
+      },
+      {
+        "lang": "jv",
+        "name": "Banthèng"
       },
       {
         "lang": "ko",
@@ -888,177 +960,12 @@
         "synonyms": [
           "วัวเพลาะ"
         ]
-      },
-      {
-        "lang": "el",
-        "name": "Βους της Ιάβας"
       }
     ]
   },
   {
     "scientific_name": "Bos indicus",
-    "common_names": [
-      {
-        "lang": "af",
-        "name": "Seboe"
-      },
-      {
-        "lang": "az",
-        "name": "Zebu"
-      },
-      {
-        "lang": "be",
-        "name": "Зебу"
-      },
-      {
-        "lang": "bg",
-        "name": "Зебу"
-      },
-      {
-        "lang": "br",
-        "name": "Zebu"
-      },
-      {
-        "lang": "ca",
-        "name": "Zebú"
-      },
-      {
-        "lang": "cs",
-        "name": "Zebu"
-      },
-      {
-        "lang": "da",
-        "name": "Zebu"
-      },
-      {
-        "lang": "de",
-        "name": "Zebu"
-      },
-      {
-        "lang": "el",
-        "name": "Ζεμπού"
-      },
-      {
-        "lang": "en",
-        "name": "Zebu"
-      },
-      {
-        "lang": "et",
-        "name": "Seebu"
-      },
-      {
-        "lang": "es",
-        "name": "Cebú"
-      },
-      {
-        "lang": "eo",
-        "name": "Zebuo"
-      },
-      {
-        "lang": "eu",
-        "name": "Zebu"
-      },
-      {
-        "lang": "fr",
-        "name": "Zébu"
-      },
-      {
-        "lang": "fy",
-        "name": "Sebû"
-      },
-      {
-        "lang": "io",
-        "name": "Zebuo"
-      },
-      {
-        "lang": "id",
-        "name": "Zebu"
-      },
-      {
-        "lang": "it",
-        "name": "Zebù"
-      },
-      {
-        "lang": "he",
-        "name": "זבו"
-      },
-      {
-        "lang": "ka",
-        "name": "ზებუ"
-      },
-      {
-        "lang": "kk",
-        "name": "Зебу"
-      },
-      {
-        "lang": "mg",
-        "name": "Omby"
-      },
-      {
-        "lang": "ms",
-        "name": "Sapi"
-      },
-      {
-        "lang": "nah",
-        "name": "Tepotzohcuacuahueh"
-      },
-      {
-        "lang": "nl",
-        "name": "Zeboe"
-      },
-      {
-        "lang": "ja",
-        "name": "コブウシ"
-      },
-      {
-        "lang": "no",
-        "name": "Zebu"
-      },
-      {
-        "lang": "nn",
-        "name": "Sebu"
-      },
-      {
-        "lang": "pl",
-        "name": "Zebu"
-      },
-      {
-        "lang": "pt",
-        "name": "Zebu"
-      },
-      {
-        "lang": "ru",
-        "name": "Зебу"
-      },
-      {
-        "lang": "simple",
-        "name": "Zebu"
-      },
-      {
-        "lang": "sh",
-        "name": "Zebu"
-      },
-      {
-        "lang": "fi",
-        "name": "Seebu"
-      },
-      {
-        "lang": "ta",
-        "name": "காங்கேயம் காளை"
-      },
-      {
-        "lang": "vi",
-        "name": "Bò Zebu"
-      },
-      {
-        "lang": "wa",
-        "name": "Zebu"
-      },
-      {
-        "lang": "zh",
-        "name": "瘤牛"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Bos grunniens",
@@ -1165,7 +1072,10 @@
       },
       {
         "lang": "hu",
-        "name": "Jak"
+        "name": "Házi jak",
+        "synonyms": [
+          "jak"
+        ]
       },
       {
         "lang": "id",
@@ -1513,7 +1423,7 @@
       },
       {
         "lang": "ta",
-        "name": "கடமா"
+        "name": "கடமா (இந்தியக் காட்டெருமை)"
       },
       {
         "lang": "th",
@@ -1550,7 +1460,24 @@
   },
   {
     "scientific_name": "Bos frontalis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gayal"
+      },
+      {
+        "lang": "es",
+        "name": "Gayal"
+      },
+      {
+        "lang": "fr",
+        "name": "Gayal"
+      },
+      {
+        "lang": "hu",
+        "name": "Gayal"
+      }
+    ]
   },
   {
     "scientific_name": "Bos aegyptiacus",

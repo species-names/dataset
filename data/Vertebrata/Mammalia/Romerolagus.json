@@ -15,12 +15,24 @@
         "name": "メキシコウサギ"
       },
       {
+        "lang": "nah",
+        "name": "Zacatochin"
+      },
+      {
         "lang": "ru",
         "name": "Бесхвостый кролик"
       },
       {
         "lang": "pl",
         "name": "Królik wulkanowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Coelho-zacatuche",
+        "synonyms": [
+          "teporingo",
+          "coelho-dos-vulcões"
+        ]
       }
     ]
   }

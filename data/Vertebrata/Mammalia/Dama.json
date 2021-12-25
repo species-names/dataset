@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Dama mesopotamica",
+    "common_names": []
+  },
+  {
     "scientific_name": "Dama dama",
     "common_names": [
       {
@@ -20,10 +24,7 @@
       },
       {
         "lang": "bar",
-        "name": "Daumwüd",
-        "synonyms": [
-          "Daumhirsch"
-        ]
+        "name": "Daumwüd"
       },
       {
         "lang": "be",
@@ -54,14 +55,6 @@
         "name": "Damhirsch"
       },
       {
-        "lang": "nv",
-        "name": "Bįįh łikizhígíí"
-      },
-      {
-        "lang": "et",
-        "name": "Kabehirv"
-      },
-      {
         "lang": "el",
         "name": "Ντάμα"
       },
@@ -70,12 +63,16 @@
         "name": "Fallow Deer"
       },
       {
+        "lang": "eo",
+        "name": "Damao"
+      },
+      {
         "lang": "es",
         "name": "Gamo"
       },
       {
-        "lang": "eo",
-        "name": "Damao"
+        "lang": "et",
+        "name": "Kabehirv"
       },
       {
         "lang": "eu",
@@ -103,10 +100,7 @@
       },
       {
         "lang": "it",
-        "name": "Damma",
-        "synonyms": [
-          "dama"
-        ]
+        "name": "Damma"
       },
       {
         "lang": "he",
@@ -190,10 +184,6 @@
         "name": "Dàinu"
       },
       {
-        "lang": "simple",
-        "name": "Fallow Deer"
-      },
-      {
         "lang": "sk",
         "name": "Daniel škvrnitý"
       },
@@ -203,10 +193,7 @@
       },
       {
         "lang": "fi",
-        "name": "Kuusipeura",
-        "synonyms": [
-          "kuusihirvi"
-        ]
+        "name": "Kuusipeura"
       },
       {
         "lang": "sv",

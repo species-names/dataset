@@ -1,11 +1,11 @@
 [
   {
-    "scientific_name": "Hyelaphus annamiticus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Hyelaphus porcinus",
     "common_names": [
+      {
+        "lang": "as",
+        "name": "সুগৰী পহু"
+      },
       {
         "lang": "en",
         "name": "Hog Deer"
@@ -17,6 +17,10 @@
       {
         "lang": "fi",
         "name": "Sikahirvi"
+      },
+      {
+        "lang": "hu",
+        "name": "Disznószarvas"
       },
       {
         "lang": "pl",
@@ -58,6 +62,10 @@
         "name": "Baweanhirvi"
       },
       {
+        "lang": "hu",
+        "name": "Kuhl-szarvas"
+      },
+      {
         "lang": "pl",
         "name": "Jeleń baweański"
       },
@@ -90,6 +98,10 @@
         "name": "Kalamianhirvi"
       },
       {
+        "lang": "hu",
+        "name": "Calamian-szarvas"
+      },
+      {
         "lang": "ja",
         "name": "カラミアジカ"
       },
@@ -100,6 +112,23 @@
       {
         "lang": "sv",
         "name": "Calamianhjort"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hyelaphus annamiticus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indochinese hog deer",
+        "synonyms": [
+          "Annamite deer",
+          "Thai hog deer"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Indokínai disznószarvas"
       }
     ]
   }

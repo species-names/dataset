@@ -13,6 +13,19 @@
     ]
   },
   {
+    "scientific_name": "Typhlomys huangshanensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Huangshan Blind Mouse"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Typhlomys daloushanensis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Typhlomys cinereus",
     "common_names": [
       {
@@ -20,5 +33,9 @@
         "name": "Chinese Pygmy Dormouse"
       }
     ]
+  },
+  {
+    "scientific_name": "Typhlomys chapensis",
+    "common_names": []
   }
 ]

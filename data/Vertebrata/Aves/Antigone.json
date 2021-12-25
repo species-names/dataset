@@ -1,0 +1,396 @@
+[
+  {
+    "scientific_name": "Antigone vipio",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Garan kilpenn gwenn"
+      },
+      {
+        "lang": "cs",
+        "name": "Jeřáb bělošíjí"
+      },
+      {
+        "lang": "de",
+        "name": "Weißnackenkranich"
+      },
+      {
+        "lang": "en",
+        "name": "White-naped Crane"
+      },
+      {
+        "lang": "eo",
+        "name": "Blanknuka gruo"
+      },
+      {
+        "lang": "fi",
+        "name": "Silmälasikurki"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue à cou blanc"
+      },
+      {
+        "lang": "fy",
+        "name": "Wytnekkraan"
+      },
+      {
+        "lang": "he",
+        "name": "עגור לבן עורף"
+      },
+      {
+        "lang": "hu",
+        "name": "Amuri daru"
+      },
+      {
+        "lang": "it",
+        "name": "Grus vipio"
+      },
+      {
+        "lang": "ja",
+        "name": "マナヅル"
+      },
+      {
+        "lang": "ko",
+        "name": "재두루미"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltasprandė gervė"
+      },
+      {
+        "lang": "nl",
+        "name": "Witnekkraanvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw białoszyi"
+      },
+      {
+        "lang": "ru",
+        "name": "Даурский журавль"
+      },
+      {
+        "lang": "sv",
+        "name": "Glasögontrana"
+      },
+      {
+        "lang": "zh",
+        "name": "白枕鶴"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "白枕鶴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Antigone rubicunda",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Brolgakranich"
+      },
+      {
+        "lang": "en",
+        "name": "Brolga"
+      },
+      {
+        "lang": "fi",
+        "name": "Australiankurki"
+      },
+      {
+        "lang": "ja",
+        "name": "オーストラリアヅル"
+      },
+      {
+        "lang": "nl",
+        "name": "Brolgakraanvogel"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw australijski"
+      },
+      {
+        "lang": "sv",
+        "name": "Brolgatrana"
+      },
+      {
+        "lang": "zh",
+        "name": "澳洲鶴"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Antigone canadensis",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Garan Kanada"
+      },
+      {
+        "lang": "ca",
+        "name": "Grua del Canadà"
+      },
+      {
+        "lang": "cs",
+        "name": "jeřáb kanadský"
+      },
+      {
+        "lang": "cy",
+        "name": "Garan y twyni"
+      },
+      {
+        "lang": "da",
+        "name": "Prærietrane"
+      },
+      {
+        "lang": "de",
+        "name": "Kanadakranich"
+      },
+      {
+        "lang": "en",
+        "name": "Sandhill Crane"
+      },
+      {
+        "lang": "eo",
+        "name": "Kanada gruo"
+      },
+      {
+        "lang": "es",
+        "name": "Grulla canadiense"
+      },
+      {
+        "lang": "et",
+        "name": "kanada kurg"
+      },
+      {
+        "lang": "fi",
+        "name": "hietakurki"
+      },
+      {
+        "lang": "fo",
+        "name": "Kanadatrani"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue du Canada"
+      },
+      {
+        "lang": "fy",
+        "name": "Kanadeeske Kraan"
+      },
+      {
+        "lang": "ga",
+        "name": "Grús Ceanadach"
+      },
+      {
+        "lang": "hu",
+        "name": "kanadai daru"
+      },
+      {
+        "lang": "is",
+        "name": "Mótrana"
+      },
+      {
+        "lang": "it",
+        "name": "Gru canadese"
+      },
+      {
+        "lang": "iu",
+        "name": "Tatigak",
+        "synonyms": [
+          "Tutteghuk"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "カナダヅル",
+        "synonyms": [
+          "kanadaduru"
+        ]
+      },
+      {
+        "lang": "ko",
+        "name": "캐나다두루미"
+      },
+      {
+        "lang": "lt",
+        "name": "Kanadinė gervė"
+      },
+      {
+        "lang": "nl",
+        "name": "Canadese kraanvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Kanadatrane"
+      },
+      {
+        "lang": "nv",
+        "name": "Déłí"
+      },
+      {
+        "lang": "oj",
+        "name": "ᐅᒋᒐ`"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw kanadyjski"
+      },
+      {
+        "lang": "pt",
+        "name": "Grou-canadiano"
+      },
+      {
+        "lang": "ru",
+        "name": "Канадский журавль"
+      },
+      {
+        "lang": "sk",
+        "name": "žeriav plavokrký"
+      },
+      {
+        "lang": "sl",
+        "name": "Kanadski žerjav"
+      },
+      {
+        "lang": "sv",
+        "name": "Prärietrana"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเรียนเนินทราย"
+      },
+      {
+        "lang": "tr",
+        "name": "Kanada turnası"
+      },
+      {
+        "lang": "zh",
+        "name": "沙丘鹤"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Antigone antigone",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Garan Antigone"
+      },
+      {
+        "lang": "ca",
+        "name": "Grua sarus"
+      },
+      {
+        "lang": "cs",
+        "name": "Jeřáb Antigonin"
+      },
+      {
+        "lang": "de",
+        "name": "Saruskranich"
+      },
+      {
+        "lang": "en",
+        "name": "Sarus Crane"
+      },
+      {
+        "lang": "es",
+        "name": "Grulla sarus"
+      },
+      {
+        "lang": "eo",
+        "name": "Ruĝkola gruo"
+      },
+      {
+        "lang": "eu",
+        "name": "Grus antigone"
+      },
+      {
+        "lang": "fr",
+        "name": "Grue antigone"
+      },
+      {
+        "lang": "he",
+        "name": "עגור סארוס"
+      },
+      {
+        "lang": "lt",
+        "name": "Indijos gervė"
+      },
+      {
+        "lang": "hu",
+        "name": "Antigoné-daru"
+      },
+      {
+        "lang": "mr",
+        "name": "सारस क्रौंच"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Bangau Keria"
+      },
+      {
+        "lang": "my",
+        "name": "ကြိုးကြာ"
+      },
+      {
+        "lang": "nl",
+        "name": "Saruskraanvogel"
+      },
+      {
+        "lang": "ne",
+        "name": "सारस"
+      },
+      {
+        "lang": "ja",
+        "name": "オオヅル"
+      },
+      {
+        "lang": "ko",
+        "name": "큰두루미"
+      },
+      {
+        "lang": "pnb",
+        "name": "سارس"
+      },
+      {
+        "lang": "pl",
+        "name": "Żuraw indyjski"
+      },
+      {
+        "lang": "ru",
+        "name": "Индийский журавль"
+      },
+      {
+        "lang": "fi",
+        "name": "Saruskurki"
+      },
+      {
+        "lang": "sv",
+        "name": "Sarustrana"
+      },
+      {
+        "lang": "ta",
+        "name": "சாரசு கொக்கு"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระเรียนไทย"
+      },
+      {
+        "lang": "tr",
+        "name": "Saras turnası"
+      },
+      {
+        "lang": "vi",
+        "name": "Sếu đầu đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "赤颈鹤"
+      }
+    ]
+  }
+]

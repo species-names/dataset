@@ -1,5 +1,18 @@
 [
   {
+    "scientific_name": "Capreolus tokunagai",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Miyako Roe Deer"
+      },
+      {
+        "lang": "ja",
+        "name": "ミヤコノロ"
+      }
+    ]
+  },
+  {
     "scientific_name": "Capreolus pygargus",
     "common_names": [
       {
@@ -29,6 +42,10 @@
       {
         "lang": "pl",
         "name": "Sarna syberyjska"
+      },
+      {
+        "lang": "ru",
+        "name": "[[:ru:Сибирская косуля"
       }
     ]
   },
@@ -48,6 +65,10 @@
         "name": "Avropa cüyürü"
       },
       {
+        "lang": "bat-smg",
+        "name": "Stirna"
+      },
+      {
         "lang": "be",
         "name": "Казуля еўрапейская"
       },
@@ -64,12 +85,16 @@
         "name": "Cabirol"
       },
       {
-        "lang": "cv",
-        "name": "Хир качаки"
+        "lang": "ce",
+        "name": "Лу"
       },
       {
         "lang": "cs",
         "name": "Srnec obecný"
+      },
+      {
+        "lang": "cv",
+        "name": "Хир качаки"
       },
       {
         "lang": "cy",
@@ -89,22 +114,19 @@
       },
       {
         "lang": "en",
-        "name": "Roe Deer",
-        "synonyms": [
-          "European Roe"
-        ]
+        "name": "Roe Deer"
       },
       {
-        "lang": "et",
-        "name": "Metskits"
+        "lang": "eo",
+        "name": "Kapreolo"
       },
       {
         "lang": "es",
         "name": "Corzo europeo"
       },
       {
-        "lang": "eo",
-        "name": "Kapreolo"
+        "lang": "et",
+        "name": "Metskits"
       },
       {
         "lang": "eu",
@@ -113,6 +135,10 @@
       {
         "lang": "fa",
         "name": "شوکا"
+      },
+      {
+        "lang": "fi",
+        "name": "Metsäkauris"
       },
       {
         "lang": "fr",
@@ -131,40 +157,47 @@
         "name": "Corzo"
       },
       {
-        "lang": "ko",
-        "name": "유럽노루"
+        "lang": "he",
+        "name": "אייל הכרמל"
       },
       {
         "lang": "hr",
         "name": "Srna"
       },
       {
-        "lang": "hy",
-        "name": "Այծյամ"
+        "lang": "hu",
+        "name": "Európai őz",
+        "synonyms": [
+          "őz"
+        ]
       },
       {
-        "lang": "io",
-        "name": "Kapreolo"
+        "lang": "hy",
+        "name": "Այծյամ"
       },
       {
         "lang": "id",
         "name": "Rusa Roe"
       },
       {
-        "lang": "os",
-        "name": "Сæгуыт"
+        "lang": "io",
+        "name": "Kapreolo"
       },
       {
         "lang": "it",
         "name": "Capriolo"
       },
       {
-        "lang": "he",
-        "name": "אייל הכרמל"
+        "lang": "ja",
+        "name": "ノロジカ"
       },
       {
         "lang": "kl",
         "name": "Oqinninnguaq"
+      },
+      {
+        "lang": "ko",
+        "name": "유럽노루"
       },
       {
         "lang": "lb",
@@ -183,13 +216,6 @@
         "name": "Stirna"
       },
       {
-        "lang": "hu",
-        "name": "Európai őz",
-        "synonyms": [
-          "őz"
-        ]
-      },
-      {
         "lang": "mk",
         "name": "Срна"
       },
@@ -198,20 +224,12 @@
         "name": "شوکا"
       },
       {
-        "lang": "nl",
-        "name": "Ree"
-      },
-      {
         "lang": "nds-nl",
         "name": "Haart"
       },
       {
-        "lang": "ja",
-        "name": "ノロジカ"
-      },
-      {
-        "lang": "ce",
-        "name": "Лу"
+        "lang": "nl",
+        "name": "Ree"
       },
       {
         "lang": "no",
@@ -222,15 +240,16 @@
         "name": "Rådyr"
       },
       {
+        "lang": "os",
+        "name": "Сæгуыт"
+      },
+      {
         "lang": "pcd",
         "name": "Chevreu"
       },
       {
         "lang": "pl",
-        "name": "sarna europejska",
-        "synonyms": [
-          "sarna"
-        ]
+        "name": "Sarna europejska"
       },
       {
         "lang": "pt",
@@ -249,18 +268,6 @@
         "name": "Туртас"
       },
       {
-        "lang": "stq",
-        "name": "Räi"
-      },
-      {
-        "lang": "sq",
-        "name": "Kaprolli"
-      },
-      {
-        "lang": "simple",
-        "name": "Roe Deer"
-      },
-      {
         "lang": "sk",
         "name": "Srnec lesný"
       },
@@ -269,12 +276,16 @@
         "name": "Srna"
       },
       {
+        "lang": "sq",
+        "name": "Kaprolli"
+      },
+      {
         "lang": "sr",
         "name": "Срна"
       },
       {
-        "lang": "fi",
-        "name": "Metsäkauris"
+        "lang": "stq",
+        "name": "Räi"
       },
       {
         "lang": "sv",
@@ -295,10 +306,6 @@
       {
         "lang": "vls",
         "name": "Ree"
-      },
-      {
-        "lang": "bat-smg",
-        "name": "Stirna"
       },
       {
         "lang": "zh",

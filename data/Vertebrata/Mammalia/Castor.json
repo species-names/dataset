@@ -193,13 +193,6 @@
         "name": "Hóma'e"
       },
       {
-        "lang": "en",
-        "name": "American Beaver",
-        "synonyms": [
-          "Canadian beaver"
-        ]
-      },
-      {
         "lang": "da",
         "name": "Amerikansk bæver"
       },
@@ -208,12 +201,27 @@
         "name": "Kanadischer Biber"
       },
       {
+        "lang": "en",
+        "name": "American Beaver",
+        "synonyms": [
+          "Canadian beaver"
+        ]
+      },
+      {
         "lang": "et",
         "name": "Kanada kobras"
       },
       {
+        "lang": "fi",
+        "name": "Kanadanmajava"
+      },
+      {
         "lang": "fr",
         "name": "Castor du Canada"
+      },
+      {
+        "lang": "he",
+        "name": "בונה קנדי"
       },
       {
         "lang": "it",
@@ -236,19 +244,11 @@
         "name": "Бобр канадский"
       },
       {
-        "lang": "fi",
-        "name": "Kanadanmajava"
-      },
-      {
         "lang": "sv",
         "name": "Amerikansk bäver",
         "synonyms": [
           "Kanadensisk bäver"
         ]
-      },
-      {
-        "lang": "he",
-        "name": "בונה קנדי"
       }
     ]
   }

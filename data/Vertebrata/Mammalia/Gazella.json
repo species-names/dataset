@@ -1,5 +1,109 @@
 [
   {
+    "scientific_name": "Gazella sinensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella praegaudryi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella pilgrimi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella parasinensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella paragutturosa",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella paotehensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella mongolica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella lydekkeri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella leile",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella kueitensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella gaudryi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella dorcadoides",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella deperdita",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella blacki",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella altidens",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella tingitana",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella atlantica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella janenschi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella psolea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella praethomsoni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella triquetrucornis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella thomasi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella negevensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella harmonae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella capricornis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gazella borbonica",
+    "common_names": []
+  },
+  {
     "scientific_name": "Gazella subgutturosa",
     "common_names": [
       {
@@ -30,6 +134,10 @@
         "name": "Gazelle à goitre"
       },
       {
+        "lang": "hu",
+        "name": "Golyvás gazella"
+      },
+      {
         "lang": "pl",
         "name": "Dżejran"
       },
@@ -47,8 +155,16 @@
         "name": "Gacela de Speke"
       },
       {
+        "lang": "hu",
+        "name": "Speke-gazella"
+      },
+      {
         "lang": "ja",
         "name": "スペックガゼル"
+      },
+      {
+        "lang": "it",
+        "name": "Gazzella di Speke"
       }
     ]
   },
@@ -66,6 +182,26 @@
       {
         "lang": "es",
         "name": "Gacela saudi"
+      },
+      {
+        "lang": "hu",
+        "name": "Szaúdi gazella"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella marica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Arabian sand gazelle",
+        "synonyms": [
+          "rheem"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Arábiai golyvás gazella"
       }
     ]
   },
@@ -92,6 +228,10 @@
       {
         "lang": "es",
         "name": "Gacela de Loder o blanca"
+      },
+      {
+        "lang": "hu",
+        "name": "Homoki gazella"
       },
       {
         "lang": "nl",
@@ -161,6 +301,22 @@
       {
         "lang": "zh",
         "name": "山瞪羚"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gazella erlangeri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Erlanger's gazelle",
+        "synonyms": [
+          "Neumann's gazelle"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Neumann-gazella"
       }
     ]
   },
@@ -277,6 +433,10 @@
       {
         "lang": "zh",
         "name": "小鹿瞪羚"
+      },
+      {
+        "lang": "ta",
+        "name": "இந்திய சிறுமான் (சிங்கார மான்)"
       }
     ]
   },
@@ -290,6 +450,10 @@
       {
         "lang": "es",
         "name": "Gacela del Atlas o de Cuvier"
+      },
+      {
+        "lang": "hu",
+        "name": "Edmi gazella"
       }
     ]
   },
@@ -302,7 +466,11 @@
       },
       {
         "lang": "en",
-        "name": "Queen Sheba's Gazelle"
+        "name": "Queen of Sheba's Gazelle"
+      },
+      {
+        "lang": "hu",
+        "name": "Jemeni gazella"
       }
     ]
   },
@@ -320,6 +488,10 @@
       {
         "lang": "es",
         "name": "Gacela de la India o chinkara"
+      },
+      {
+        "lang": "hu",
+        "name": "Indiai gazella"
       },
       {
         "lang": "pl",

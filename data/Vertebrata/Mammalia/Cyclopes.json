@@ -20,10 +20,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Cyclopes catellus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Cyclopes didactylus",
     "common_names": [
       {
@@ -87,7 +83,7 @@
         "name": "Mrówkojadek"
       },
       {
-        "lang": "pt",
+        "lang": "pt-br",
         "name": "tamanduaí"
       },
       {
@@ -115,5 +111,9 @@
         "name": "侏食蚁兽"
       }
     ]
+  },
+  {
+    "scientific_name": "Cyclopes catellus",
+    "common_names": []
   }
 ]

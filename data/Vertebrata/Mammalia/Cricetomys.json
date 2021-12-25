@@ -28,8 +28,21 @@
     "scientific_name": "Cricetomys emini",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Krysa velká"
+      },
+      {
         "lang": "en",
         "name": "Forest Giant Pouched Rat"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cricetomys ansorgei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Southern Giant Pouched Rat"
       }
     ]
   }

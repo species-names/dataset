@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Tragulus sivalensis",
-    "common_names": []
-  },
-  {
     "scientific_name": "Tragulus williamsoni",
     "common_names": [
       {
@@ -21,7 +17,11 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Vietnam Mouse-deer1es"
+        "name": "Vietnam Mouse-deer"
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo ratón de Vietnam"
       },
       {
         "lang": "hu",
@@ -94,6 +94,14 @@
     "scientific_name": "Tragulus kanchil",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Tràgul petit"
+      },
+      {
+        "lang": "de",
+        "name": "Kleinkantschil"
+      },
+      {
         "lang": "en",
         "name": "Lesser Mouse-deer"
       },
@@ -110,15 +118,15 @@
         "name": "Kancil"
       },
       {
-        "lang": "zh",
-        "name": "小鼷鹿"
-      },
-      {
         "lang": "th",
         "name": "กระจงเล็ก",
         "synonyms": [
           "กระจงหนู"
         ]
+      },
+      {
+        "lang": "zh",
+        "name": "小鼷鹿"
       }
     ]
   },
@@ -139,10 +147,7 @@
       },
       {
         "lang": "hu",
-        "name": "Jávai kancsil",
-        "synonyms": [
-          "maláj kancsil"
-        ]
+        "name": "Jávai kancsil"
       },
       {
         "lang": "id",

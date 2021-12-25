@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Nanger vanhoepeni",
+    "common_names": []
+  },
+  {
     "scientific_name": "Nanger soemmerringii",
     "common_names": [
       {
@@ -34,6 +38,10 @@
         "name": "Soemmerring-gazella"
       },
       {
+        "lang": "hu",
+        "name": "Soemmerring-gazella"
+      },
+      {
         "lang": "it",
         "name": "Gazzella di Soemmerring"
       },
@@ -46,7 +54,7 @@
         "name": "죄머링가젤"
       },
       {
-        "lang": "ne",
+        "lang": "nl",
         "name": "Soemerringgazelle"
       },
       {
@@ -122,6 +130,10 @@
       {
         "lang": "gl",
         "name": "Gacela dama"
+      },
+      {
+        "lang": "hu",
+        "name": "Dámgazella"
       },
       {
         "lang": "ja",

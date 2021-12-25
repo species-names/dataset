@@ -1,18 +1,147 @@
 [
   {
     "scientific_name": "Rusa unicolor",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "as",
+        "name": "শৰপহু"
+      },
+      {
+        "lang": "be",
+        "name": "Індыйскі замбар"
+      },
+      {
+        "lang": "en",
+        "name": "Sambar Deer"
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo sambar"
+      },
+      {
+        "lang": "fi",
+        "name": "Sambarhirvi"
+      },
+      {
+        "lang": "hu",
+        "name": "Számbárszarvas"
+      },
+      {
+        "lang": "ja",
+        "name": "サンバー"
+      },
+      {
+        "lang": "ko",
+        "name": "삼바"
+      },
+      {
+        "lang": "km",
+        "name": "ប្រើស"
+      },
+      {
+        "lang": "ms",
+        "name": "Rusa"
+      },
+      {
+        "lang": "tr",
+        "name": "Sambar"
+      },
+      {
+        "lang": "zh",
+        "name": "水鹿"
+      },
+      {
+        "lang": "th",
+        "name": "กวางม้า",
+        "synonyms": [
+          "กวางป่า",
+          "กวางแซมบาร์"
+        ]
+      },
+      {
+        "lang": "bn",
+        "name": "সম্বর হরিণ"
+      },
+      {
+        "lang": "or",
+        "name": "ସମ୍ବର"
+      }
+    ]
   },
   {
     "scientific_name": "Rusa timorensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rusa Deer",
+        "synonyms": [
+          "Sunda Sambar"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Sambar o ciervo de Timor"
+      },
+      {
+        "lang": "fi",
+        "name": "Timorinhirvi",
+        "synonyms": [
+          "rusa"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Sörényes szarvas"
+      },
+      {
+        "lang": "th",
+        "name": "กวางรูซา",
+        "synonyms": [
+          "กวางรูซาชวา"
+        ]
+      }
+    ]
   },
   {
     "scientific_name": "Rusa marianna",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Philippine Sambar"
+      },
+      {
+        "lang": "es",
+        "name": "Sambar filipino"
+      },
+      {
+        "lang": "hu",
+        "name": "Fülöp-szigeteki számbárszarvas"
+      }
+    ]
   },
   {
     "scientific_name": "Rusa alfredi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Visayan Deer",
+        "synonyms": [
+          "Visayan Spotted Deer",
+          "Philippine Spotted Deer"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Ciervo moteado de Filipinas"
+      },
+      {
+        "lang": "fi",
+        "name": "Visayanhirvi"
+      },
+      {
+        "lang": "hu",
+        "name": "Alfréd-szarvas"
+      }
+    ]
   }
 ]

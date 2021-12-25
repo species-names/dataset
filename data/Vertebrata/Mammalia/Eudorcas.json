@@ -1,10 +1,30 @@
 [
   {
+    "scientific_name": "Eudorcas tilonura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Heuglin's gazelle",
+        "synonyms": [
+          "Eritrean gazelle"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Heuglin-gazella"
+      }
+    ]
+  },
+  {
     "scientific_name": "Eudorcas thomsonii",
     "common_names": [
       {
         "lang": "en",
         "name": "Thomson's Gazelle"
+      },
+      {
+        "lang": "hu",
+        "name": "Thomson-gazella"
       },
       {
         "lang": "ja",
@@ -36,6 +56,13 @@
     "scientific_name": "Eudorcas rufina",
     "common_names": [
       {
+        "lang": "hu",
+        "name": "Vörös gazella",
+        "synonyms": [
+          "algériai gazella"
+        ]
+      },
+      {
         "lang": "ja",
         "name": "アカガゼル"
       }
@@ -53,6 +80,10 @@
         "name": "Gacela de frente roja"
       },
       {
+        "lang": "hu",
+        "name": "Vöröshomlokú gazella"
+      },
+      {
         "lang": "pl",
         "name": "Gazela rudoczelna"
       }
@@ -68,6 +99,10 @@
       {
         "lang": "es",
         "name": "Gacela de Mongalla"
+      },
+      {
+        "lang": "hu",
+        "name": "Mogolla-gazella"
       }
     ]
   }

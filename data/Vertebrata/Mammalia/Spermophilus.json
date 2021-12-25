@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Spermophilus taurensis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Spermophilus xanthoprymnus",
     "common_names": [
       {
@@ -28,6 +32,10 @@
         "synonyms": [
           "idänsiiseli"
         ]
+      },
+      {
+        "lang": "hu",
+        "name": "Gyöngyös ürge"
       },
       {
         "lang": "pl",
@@ -73,8 +81,24 @@
     "scientific_name": "Spermophilus pallidicauda",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Fahlziesel"
+      },
+      {
         "lang": "en",
         "name": "Pallid Ground Squirrel"
+      },
+      {
+        "lang": "es",
+        "name": "Ardilla terrestre pálida"
+      },
+      {
+        "lang": "fr",
+        "name": "Spermophile pâle"
+      },
+      {
+        "lang": "ja",
+        "name": "アオジリス"
       }
     ]
   },

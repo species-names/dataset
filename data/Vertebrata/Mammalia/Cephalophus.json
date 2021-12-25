@@ -1,6 +1,6 @@
 [
   {
-    "scientific_name": "Cephalophus rubidis",
+    "scientific_name": "Cephalophus rubidus",
     "common_names": []
   },
   {
@@ -9,6 +9,10 @@
       {
         "lang": "en",
         "name": "Zebra Duiker"
+      },
+      {
+        "lang": "hu",
+        "name": "Zebra-bóbitásantilop"
       },
       {
         "lang": "pl",
@@ -22,6 +26,10 @@
       {
         "lang": "en",
         "name": "Weyns's Duiker"
+      },
+      {
+        "lang": "hu",
+        "name": "Weyn-bóbitásantilop"
       }
     ]
   },
@@ -35,6 +43,10 @@
       {
         "lang": "fi",
         "name": "Abbottinsukeltaja-antilooppi"
+      },
+      {
+        "lang": "hu",
+        "name": "Tanzániai bóbitásantilop"
       },
       {
         "lang": "pl",
@@ -54,6 +66,10 @@
         "name": "Yellow-backed Duiker"
       },
       {
+        "lang": "hu",
+        "name": "Sárgahátú bóbitásantilop"
+      },
+      {
         "lang": "pl",
         "name": "Dujker żółtopręgi"
       }
@@ -67,6 +83,10 @@
         "name": "Red-flanked Duiker"
       },
       {
+        "lang": "hu",
+        "name": "Deres bóbitásantilop"
+      },
+      {
         "lang": "pl",
         "name": "Dujker siwopręgi"
       }
@@ -78,6 +98,10 @@
       {
         "lang": "en",
         "name": "Ogilby's Duiker"
+      },
+      {
+        "lang": "hu",
+        "name": "Ogilby-bóbitásantilop"
       },
       {
         "lang": "pl",
@@ -97,12 +121,23 @@
         "name": "Mustanaamasukeltaja-antilooppi"
       },
       {
+        "lang": "hu",
+        "name": "Feketehomlokú bóbitásantilop"
+      },
+      {
         "lang": "pl",
         "name": "Dujker czarnoczelny"
       },
       {
         "lang": "sv",
         "name": "Svartpannad dykare"
+      },
+      {
+        "lang": "pt",
+        "name": "Bâmbi-de-testa-negra",
+        "synonyms": [
+          "bâmbi-de-fronte-negra"
+        ]
       }
     ]
   },
@@ -116,6 +151,10 @@
       {
         "lang": "fi",
         "name": "Mustasukeltaja-antilooppi"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete bóbitásantilop"
       },
       {
         "lang": "pl",
@@ -150,6 +189,10 @@
         "name": "Cefalofo de Natal"
       },
       {
+        "lang": "hu",
+        "name": "Vörös bóbitásantilop"
+      },
+      {
         "lang": "pl",
         "name": "Dujker czerwony"
       }
@@ -161,6 +204,10 @@
       {
         "lang": "en",
         "name": "White-bellied Duiker"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérhasú bóbitásantilop"
       }
     ]
   },
@@ -170,6 +217,10 @@
       {
         "lang": "en",
         "name": "Jentink's Duiker"
+      },
+      {
+        "lang": "hu",
+        "name": "Libériai bóbitásantilop"
       },
       {
         "lang": "pl",
@@ -183,6 +234,10 @@
       {
         "lang": "en",
         "name": "Hervey's Duiker"
+      },
+      {
+        "lang": "hu",
+        "name": "Harvey-bóbitásantilop"
       },
       {
         "lang": "pl",
@@ -213,6 +268,10 @@
         ]
       },
       {
+        "lang": "hu",
+        "name": "Feketelábú bóbitásantilop"
+      },
+      {
         "lang": "pl",
         "name": "Dujker czarnopręgi"
       },
@@ -223,11 +282,33 @@
     ]
   },
   {
+    "scientific_name": "Cephalophus crusalbum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-legged duiker"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cephalophus callipygus",
     "common_names": [
       {
         "lang": "en",
         "name": "Peter's Duiker"
+      },
+      {
+        "lang": "hu",
+        "name": "Peter-bóbitásantilop"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cephalophus brookei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brooke's duiker"
       }
     ]
   },
@@ -241,6 +322,10 @@
       {
         "lang": "fi",
         "name": "Aderinsukeltaja-antilooppi"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehércombú bóbitásantilop"
       },
       {
         "lang": "sv",

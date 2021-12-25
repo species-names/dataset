@@ -1,46 +1,53 @@
 [
   {
     "scientific_name": "Ovis vignei",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Urial"
+      },
+      {
+        "lang": "hu",
+        "name": "Urial",
+        "synonyms": [
+          "pusztai juh"
+        ]
+      }
+    ]
   },
   {
-    "scientific_name": "Ovis punjabiensis",
-    "common_names": []
+    "scientific_name": "Ovis nivicola",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Snow Sheep"
+      },
+      {
+        "lang": "fi",
+        "name": "Lumilammas"
+      },
+      {
+        "lang": "hu",
+        "name": "Szibériai juh",
+        "synonyms": [
+          "havasi juh"
+        ]
+      },
+      {
+        "lang": "sr",
+        "name": "Снежна овца",
+        "synonyms": [
+          "Snežna ovca"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Asiatiskt snöfår"
+      }
+    ]
   },
   {
-    "scientific_name": "Ovis ophion",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ovis laristanica",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ovis isphahanica",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ovis cycloceros",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ovis bochariensis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ovis blanfordi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ovis arkal",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ovis africana",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ovis orientalis",
+    "scientific_name": "Ovis gmelini",
     "common_names": [
       {
         "lang": "ar",
@@ -111,10 +118,6 @@
         "name": "მუფლონი"
       },
       {
-        "lang": "la",
-        "name": "Ovis musimon"
-      },
-      {
         "lang": "lt",
         "name": "Muflonas"
       },
@@ -153,38 +156,6 @@
     ]
   },
   {
-    "scientific_name": "Ovis nivicola",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Snow Sheep"
-      },
-      {
-        "lang": "fi",
-        "name": "Lumilammas"
-      },
-      {
-        "lang": "sr",
-        "name": "Снежна овца",
-        "synonyms": [
-          "Snežna ovca"
-        ]
-      },
-      {
-        "lang": "sv",
-        "name": "Asiatiskt snöfår"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Ovis musimon",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ovis gmelini",
-    "common_names": []
-  },
-  {
     "scientific_name": "Ovis dalli",
     "common_names": [
       {
@@ -197,7 +168,11 @@
       },
       {
         "lang": "en",
-        "name": "Dall Sheep"
+        "name": "Dall sheep"
+      },
+      {
+        "lang": "eo",
+        "name": "Dall-ŝafo"
       },
       {
         "lang": "fi",
@@ -205,13 +180,20 @@
       },
       {
         "lang": "fr",
-        "name": "Mouflon de Dall"
+        "name": "mouflon de Dall"
       },
       {
         "lang": "hu",
         "name": "Alaszkai vadjuh",
         "synonyms": [
           "Dall-juh"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ドールビッグホーン",
+        "synonyms": [
+          "Dōru-bigguhōn"
         ]
       },
       {
@@ -224,7 +206,7 @@
       },
       {
         "lang": "pt",
-        "name": "Carneiro de Dall"
+        "name": "carneiro de Dall"
       },
       {
         "lang": "ru",
@@ -311,7 +293,10 @@
       },
       {
         "lang": "hu",
-        "name": "Kanadai vadjuh"
+        "name": "Kanadai vadjuh",
+        "synonyms": [
+          "vastagszarvú vadjuh"
+        ]
       },
       {
         "lang": "it",
@@ -420,6 +405,10 @@
       {
         "lang": "ar",
         "name": "خروف"
+      },
+      {
+        "lang": "as",
+        "name": "ভেড়া"
       },
       {
         "lang": "roa-rup",
@@ -539,10 +528,7 @@
       },
       {
         "lang": "es",
-        "name": "Oveja",
-        "synonyms": [
-          "Carnero"
-        ]
+        "name": "Oveja"
       },
       {
         "lang": "eo",
@@ -605,6 +591,13 @@
         "name": "Domaća ovca"
       },
       {
+        "lang": "hu",
+        "name": "Juh",
+        "synonyms": [
+          "birka"
+        ]
+      },
+      {
         "lang": "io",
         "name": "Mutono"
       },
@@ -629,7 +622,7 @@
       },
       {
         "lang": "it",
-        "name": "pecora"
+        "name": "Pecora"
       },
       {
         "lang": "jv",
@@ -678,10 +671,6 @@
       {
         "lang": "lmo",
         "name": "Ovis orientalis aries"
-      },
-      {
-        "lang": "hu",
-        "name": "Muflon"
       },
       {
         "lang": "mk",

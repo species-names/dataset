@@ -46,7 +46,7 @@
       },
       {
         "lang": "es",
-        "name": "la ardilla listada"
+        "name": "La ardilla listada"
       },
       {
         "lang": "fr",
@@ -128,8 +128,16 @@
     "scientific_name": "Tamias sibiricus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Burunduk"
+      },
+      {
         "lang": "en",
         "name": "Siberian Chipmunk"
+      },
+      {
+        "lang": "es",
+        "name": "Ardilla listada de Siberia"
       },
       {
         "lang": "fi",
@@ -137,7 +145,7 @@
       },
       {
         "lang": "fr",
-        "name": "Tamias de Sibérie"
+        "name": "Tamia de Sibérie"
       },
       {
         "lang": "hu",
@@ -145,6 +153,10 @@
         "synonyms": [
           "burunduk"
         ]
+      },
+      {
+        "lang": "ja",
+        "name": "シマリス"
       },
       {
         "lang": "nl",

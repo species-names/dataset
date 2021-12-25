@@ -5,6 +5,10 @@
       {
         "lang": "en",
         "name": "Dwarf Blue Sheep"
+      },
+      {
+        "lang": "hu",
+        "name": "Törpebharal"
       }
     ]
   },
@@ -26,12 +30,24 @@
         ]
       },
       {
+        "lang": "hu",
+        "name": "Bharal",
+        "synonyms": [
+          "nahur",
+          "kék juh"
+        ]
+      },
+      {
         "lang": "ja",
         "name": "バーラル"
       },
       {
         "lang": "ko",
         "name": "바랄"
+      },
+      {
+        "lang": "avk",
+        "name": "deaxukol"
       },
       {
         "lang": "bn",

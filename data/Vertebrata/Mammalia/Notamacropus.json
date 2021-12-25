@@ -1,0 +1,305 @@
+[
+  {
+    "scientific_name": "Notamacropus rufogriseus",
+    "common_names": [
+      {
+        "lang": "bg",
+        "name": "Валаби на Бенет"
+      },
+      {
+        "lang": "ca",
+        "name": "Ualabi de coll vermell"
+      },
+      {
+        "lang": "cs",
+        "name": "Klokan rudokrký"
+      },
+      {
+        "lang": "de",
+        "name": "Rotnackenwallaby"
+      },
+      {
+        "lang": "en",
+        "name": "Red-necked Wallaby"
+      },
+      {
+        "lang": "fi",
+        "name": "Punakaulakenguru"
+      },
+      {
+        "lang": "fr",
+        "name": "Wallaby de Bennett"
+      },
+      {
+        "lang": "he",
+        "name": "וולבי אדום צוואר"
+      },
+      {
+        "lang": "hu",
+        "name": "Bennett-kenguru",
+        "synonyms": [
+          "vörösnyakú wallaby"
+        ]
+      },
+      {
+        "lang": "mk",
+        "name": "Црвеношиесто валаби"
+      },
+      {
+        "lang": "ja",
+        "name": "アカクビワラビー"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkarusvė kengūra"
+      },
+      {
+        "lang": "nl",
+        "name": "Bennettwallabie"
+      },
+      {
+        "lang": "pl",
+        "name": "Walabia Bennetta"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödhalsad vallaby"
+      },
+      {
+        "lang": "zh",
+        "name": "紅頸袋鼠"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Notamacropus parryi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pretty-faced Wallaby"
+      },
+      {
+        "lang": "ja",
+        "name": "エレガントワラビー"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Notamacropus parma",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Wallabi Parma"
+      },
+      {
+        "lang": "ca",
+        "name": "Ualabi de Parma"
+      },
+      {
+        "lang": "cs",
+        "name": "Klokan parma"
+      },
+      {
+        "lang": "de",
+        "name": "Parmawallaby"
+      },
+      {
+        "lang": "en",
+        "name": "Parma Wallaby"
+      },
+      {
+        "lang": "fi",
+        "name": "Parmavallabi"
+      },
+      {
+        "lang": "fr",
+        "name": "Wallaby de Parma"
+      },
+      {
+        "lang": "hu",
+        "name": "Parma-kenguru"
+      },
+      {
+        "lang": "ja",
+        "name": "パルマヤブワラビー"
+      },
+      {
+        "lang": "nl",
+        "name": "Parmawallabie"
+      },
+      {
+        "lang": "pl",
+        "name": "Kangur parma"
+      },
+      {
+        "lang": "sk",
+        "name": "Kengura parma"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Notamacropus irma",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Brush Wallaby"
+      },
+      {
+        "lang": "ja",
+        "name": "クロテワラビー"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Notamacropus greyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Toolache Wallaby"
+      },
+      {
+        "lang": "ja",
+        "name": "シマワラビー"
+      },
+      {
+        "lang": "fi",
+        "name": "Hietikkokenguru"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Notamacropus eugenii",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Klokan dama"
+      },
+      {
+        "lang": "de",
+        "name": "Derbywallaby"
+      },
+      {
+        "lang": "en",
+        "name": "Tammar Wallaby"
+      },
+      {
+        "lang": "fr",
+        "name": "wallaby de l'ile Eugène"
+      },
+      {
+        "lang": "ja",
+        "name": "ダマヤブワラビー"
+      },
+      {
+        "lang": "nl",
+        "name": "Tammarwallabie"
+      },
+      {
+        "lang": "pl",
+        "name": "Walabia dama"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Notamacropus dorsalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-striped Wallaby"
+      },
+      {
+        "lang": "fr",
+        "name": "wallaby à raie noire"
+      },
+      {
+        "lang": "pl",
+        "name": "Walabia pasmowa"
+      },
+      {
+        "lang": "ja",
+        "name": "セスジワラビー"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Notamacropus agilis",
+    "common_names": [
+      {
+        "lang": "az",
+        "name": "Cəld vallabi"
+      },
+      {
+        "lang": "azb",
+        "name": "جلد واللابی"
+      },
+      {
+        "lang": "br",
+        "name": "Wallabi ouesk"
+      },
+      {
+        "lang": "ca",
+        "name": "Ualabi àgil"
+      },
+      {
+        "lang": "cs",
+        "name": "Klokan hbitý"
+      },
+      {
+        "lang": "de",
+        "name": "Flinkwallaby"
+      },
+      {
+        "lang": "en",
+        "name": "Agile Wallaby"
+      },
+      {
+        "lang": "es",
+        "name": "Ualabí ágil"
+      },
+      {
+        "lang": "fa",
+        "name": "والابی چابک"
+      },
+      {
+        "lang": "fr",
+        "name": "Wallaby agile"
+      },
+      {
+        "lang": "hu",
+        "name": "Fürge wallaby"
+      },
+      {
+        "lang": "it",
+        "name": "Wallaby agile"
+      },
+      {
+        "lang": "ja",
+        "name": "スナイロワラビー"
+      },
+      {
+        "lang": "ko",
+        "name": "날쌘왈라비"
+      },
+      {
+        "lang": "nl",
+        "name": "Zandwallaby"
+      },
+      {
+        "lang": "pl",
+        "name": "Kangur smukły"
+      },
+      {
+        "lang": "pnb",
+        "name": "پھرتیلا ولابائی"
+      },
+      {
+        "lang": "ru",
+        "name": "Прыткий валлаби"
+      },
+      {
+        "lang": "uk",
+        "name": "Кенгуру прудкий"
+      }
+    ]
+  }
+]

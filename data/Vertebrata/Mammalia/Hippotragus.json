@@ -3,12 +3,20 @@
     "scientific_name": "Hippotragus niger",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Rappenantilope"
+      },
+      {
         "lang": "en",
         "name": "Sable Antelope"
       },
       {
         "lang": "es",
         "name": "Antílope sable"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete lóantilop"
       },
       {
         "lang": "ja",
@@ -32,8 +40,16 @@
     "scientific_name": "Hippotragus leucophaeus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Blaubock"
+      },
+      {
         "lang": "en",
         "name": "Bluebuck"
+      },
+      {
+        "lang": "hu",
+        "name": "Kék lóantilop"
       },
       {
         "lang": "pt",
@@ -42,8 +58,16 @@
     ]
   },
   {
+    "scientific_name": "Hippotragus gigas",
+    "common_names": []
+  },
+  {
     "scientific_name": "Hippotragus equinus",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Pferdeantilope"
+      },
       {
         "lang": "en",
         "name": "Roan Antelope"
@@ -51,6 +75,10 @@
       {
         "lang": "es",
         "name": "Antílope ruano"
+      },
+      {
+        "lang": "hu",
+        "name": "Fakó lóantilop"
       },
       {
         "lang": "pl",
@@ -63,6 +91,10 @@
       {
         "lang": "zh",
         "name": "馬羚"
+      },
+      {
+        "lang": "sv",
+        "name": "Hästantilop"
       }
     ]
   }

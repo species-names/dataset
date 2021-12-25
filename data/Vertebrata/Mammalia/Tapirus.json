@@ -8,7 +8,19 @@
     "common_names": []
   },
   {
-    "scientific_name": "Tapirus mesopotamicus",
+    "scientific_name": "Tapirus jeanpiveteaui",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tapirus copei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tapirus balkanicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tapirus arvernensis",
     "common_names": []
   },
   {
@@ -165,6 +177,10 @@
     ]
   },
   {
+    "scientific_name": "Tapirus priscus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Tapirus pinchaque",
     "common_names": [
       {
@@ -180,12 +196,20 @@
         "name": "Mountain Tapir"
       },
       {
+        "lang": "gl",
+        "name": "Tapir de montaña"
+      },
+      {
         "lang": "hu",
         "name": "Hegyi tapír"
       },
       {
         "lang": "ja",
         "name": "ヤマバク"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Anta-da-montanha"
       },
       {
         "lang": "tr",
@@ -202,8 +226,17 @@
     ]
   },
   {
-    "scientific_name": "Tapirus kabomani",
+    "scientific_name": "Tapirus mesopotamicus",
     "common_names": []
+  },
+  {
+    "scientific_name": "Tapirus kabomani",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Little black tapir"
+      }
+    ]
   },
   {
     "scientific_name": "Tapirus indicus",
@@ -232,6 +265,10 @@
       {
         "lang": "en",
         "name": "Malayan Tapir"
+      },
+      {
+        "lang": "es",
+        "name": "Tapir malayo"
       },
       {
         "lang": "tr",
@@ -305,6 +342,10 @@
         "name": "Tapir de Baird"
       },
       {
+        "lang": "gl",
+        "name": "Tapir de Baird"
+      },
+      {
         "lang": "hu",
         "name": "Közép-amerikai tapír"
       },
@@ -321,5 +362,9 @@
         "name": "สมเสร็จอเมริกากลาง"
       }
     ]
+  },
+  {
+    "scientific_name": "Tapirus antiquus",
+    "common_names": []
   }
 ]

@@ -59,12 +59,12 @@
         "name": "Chamois"
       },
       {
-        "lang": "es",
-        "name": "Rebeco alpino"
-      },
-      {
         "lang": "eo",
         "name": "Ĉamo"
+      },
+      {
+        "lang": "es",
+        "name": "Rebeco alpino"
       },
       {
         "lang": "eu",
@@ -135,12 +135,12 @@
         "name": "Gemse"
       },
       {
-        "lang": "pnb",
-        "name": "چاموعز"
-      },
-      {
         "lang": "pl",
         "name": "Kozica"
+      },
+      {
+        "lang": "pnb",
+        "name": "چاموعز"
       },
       {
         "lang": "pt",
@@ -155,8 +155,8 @@
         "name": "Серна"
       },
       {
-        "lang": "sq",
-        "name": "Kamoshi"
+        "lang": "sh",
+        "name": "Divokoza"
       },
       {
         "lang": "sk",
@@ -167,12 +167,12 @@
         "name": "Gams"
       },
       {
-        "lang": "sr",
-        "name": "Дивокоза"
+        "lang": "sq",
+        "name": "Kamoshi"
       },
       {
-        "lang": "sh",
-        "name": "Divokoza"
+        "lang": "sr",
+        "name": "Дивокоза"
       },
       {
         "lang": "sv",
@@ -205,8 +205,9 @@
     "common_names": [
       {
         "lang": "an",
-        "name": "Sarrio",
+        "name": "Chizardo",
         "synonyms": [
+          "sarrio",
           "ixarso"
         ]
       },
@@ -221,6 +222,10 @@
       {
         "lang": "en",
         "name": "Pyrenean Chamois"
+      },
+      {
+        "lang": "hu",
+        "name": "Pireneusi zerge"
       },
       {
         "lang": "it",

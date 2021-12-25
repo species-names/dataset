@@ -9,22 +9,56 @@
   },
   {
     "scientific_name": "Zaglossus hacketti",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Zaglossus bruijni",
     "common_names": [
       {
         "lang": "en",
+        "name": "Hackett's Giant Echidna<!--Glauert",
+        "synonyms": [
+          "1914-->"
+        ]
+      },
+      {
+        "lang": "ja",
+        "name": "ジャイアントミユビハリモグラ<!--絶滅哺乳類図鑑 2011 https:",
+        "synonyms": [
+          "",
+          "iss.ndl.go.jp",
+          "books",
+          "R100000002-I000011105647-00-->"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Zaglossus bruijnii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Langschnabeligel"
+      },
+      {
+        "lang": "en",
         "name": "Western Long-beaked Echidna"
+      },
+      {
+        "lang": "es",
+        "name": "Equidna de hocico largo occidental"
       },
       {
         "lang": "fi",
         "name": "Kärsänokkasiili"
       },
       {
+        "lang": "fr",
+        "name": "Échidné de Bruijn"
+      },
+      {
         "lang": "is",
         "name": "Maðkígull"
+      },
+      {
+        "lang": "ja",
+        "name": "ミユビハリモグラ"
       },
       {
         "lang": "pl",
@@ -56,22 +90,22 @@
         "name": "Eastern Long-beaked echidna"
       },
       {
-        "lang": "zh",
-        "name": "大長吻針鼴"
+        "lang": "ja",
+        "name": "ヒガシミユビハリモグラ"
       },
       {
         "lang": "pt",
         "name": "Equidna-de-barton"
+      },
+      {
+        "lang": "zh",
+        "name": "大長吻針鼴"
       }
     ]
   },
   {
     "scientific_name": "Zaglossus attenboroughi",
     "common_names": [
-      {
-        "lang": "ja",
-        "name": "ミユビハリモグラ属"
-      },
       {
         "lang": "en",
         "name": "Sir David's Long-beaked Echidna",
@@ -83,6 +117,10 @@
       {
         "lang": "es",
         "name": "Equidna de hocico largo de Attenborough"
+      },
+      {
+        "lang": "ja",
+        "name": "アッテンボローミユビハリモグラ"
       },
       {
         "lang": "pt",

@@ -3,6 +3,13 @@
     "scientific_name": "Muntiacus vuquangensis",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Giant muntjac",
+        "synonyms": [
+          "large-antlered muntjac"
+        ]
+      },
+      {
         "lang": "hu",
         "name": "Vietnámi muntyákszarvas",
         "synonyms": [
@@ -106,6 +113,10 @@
     "scientific_name": "Muntiacus muntjak",
     "common_names": [
       {
+        "lang": "as",
+        "name": "ছাগলী পহু"
+      },
+      {
         "lang": " en",
         "name": "Indian Muntjac"
       },
@@ -193,7 +204,16 @@
   },
   {
     "scientific_name": "Muntiacus montanus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sumatran muntjac"
+      },
+      {
+        "lang": "hu",
+        "name": "Szumátrai muntyákszarvas"
+      }
+    ]
   },
   {
     "scientific_name": "Muntiacus gongshanensis",
@@ -285,16 +305,28 @@
     "scientific_name": "Muntiacus atherodes",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Borneo-Muntjak"
+      },
+      {
         "lang": "en",
         "name": "Bornean Yellow Muntjac"
       },
       {
         "lang": "es",
-        "name": "Muntiaco amarillo de Borneo"
+        "name": "Muntíaco amarillo de Borneo"
+      },
+      {
+        "lang": "fr",
+        "name": "Muntjac de Bornéo"
       },
       {
         "lang": "hu",
         "name": "Bóbitás muntyákszarvas"
+      },
+      {
+        "lang": "ja",
+        "name": "ボルネオホエジカ"
       },
       {
         "lang": "ms",

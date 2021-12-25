@@ -15,6 +15,10 @@
         "name": "Anoa de montaña"
       },
       {
+        "lang": "hu",
+        "name": "Hegyi anoa"
+      },
+      {
         "lang": "id",
         "name": "Anoa pegunungan"
       },
@@ -32,6 +36,10 @@
     "scientific_name": "Bubalus mindorensis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Tamarau"
+      },
+      {
         "lang": "en",
         "name": "Tamaraw"
       },
@@ -42,6 +50,13 @@
       {
         "lang": "hr",
         "name": "Tamaru"
+      },
+      {
+        "lang": "hu",
+        "name": "Mindorói bivaly",
+        "synonyms": [
+          "tamarao"
+        ]
       },
       {
         "lang": "ja",
@@ -58,7 +73,7 @@
     "common_names": [
       {
         "lang": "zh",
-        "name": "兕"
+        "name": "兕、聖水牛"
       }
     ]
   },
@@ -70,11 +85,12 @@
         "name": "Аноа"
       },
       {
+        "lang": "de",
+        "name": "Tiefland-Anoa"
+      },
+      {
         "lang": "en",
-        "name": "Anoa",
-        "synonyms": [
-          "Lowland anoa"
-        ]
+        "name": "Lowland anoa"
       },
       {
         "lang": "es",
@@ -82,17 +98,15 @@
       },
       {
         "lang": "fi",
-        "name": "Anoa",
-        "synonyms": [
-          "kääpiöpuhveli"
-        ]
+        "name": "Kääpiöpuhveli"
+      },
+      {
+        "lang": "hu",
+        "name": "Alföldi anoa"
       },
       {
         "lang": "id",
-        "name": "anoa",
-        "synonyms": [
-          "Anoa dataran rendah"
-        ]
+        "name": "Anoa dataran rendah"
       },
       {
         "lang": "ja",
@@ -131,6 +145,10 @@
       {
         "lang": "ar",
         "name": "جاموس الماء"
+      },
+      {
+        "lang": "as",
+        "name": "বনৰীয়া ম’হ"
       },
       {
         "lang": "av",
@@ -234,6 +252,14 @@
         "name": "जंगली भैसा"
       },
       {
+        "lang": "hu",
+        "name": "Házi vízibivaly",
+        "synonyms": [
+          "vízibivaly",
+          "házibivaly"
+        ]
+      },
+      {
         "lang": "io",
         "name": "Bufalo"
       },
@@ -271,10 +297,6 @@
       {
         "lang": "lt",
         "name": "Azijinis buivolas"
-      },
-      {
-        "lang": "hu",
-        "name": "Vízibivaly"
       },
       {
         "lang": "ml",
@@ -356,6 +378,10 @@
         "name": "Munding"
       },
       {
+        "lang": "syl",
+        "name": "ꠜꠂꠡ"
+      },
+      {
         "lang": "fi",
         "name": "Vesipuhveli"
       },
@@ -405,6 +431,14 @@
       {
         "lang": "zh",
         "name": "水牛"
+      },
+      {
+        "lang": "ta",
+        "name": "காட்டெருமை"
+      },
+      {
+        "lang": "or",
+        "name": "ମ‌ଇଁଷି"
       }
     ]
   },
@@ -439,6 +473,10 @@
         "name": "वन भैंस"
       },
       {
+        "lang": "hu",
+        "name": "Vad vízibivaly"
+      },
+      {
         "lang": "mr",
         "name": "पाणम्हैस"
       },
@@ -449,6 +487,10 @@
       {
         "lang": "vi",
         "name": "Trâu rừng"
+      },
+      {
+        "lang": "or",
+        "name": "ଅରଣା ମଇଁଷି"
       }
     ]
   }

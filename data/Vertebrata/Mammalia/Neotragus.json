@@ -80,82 +80,12 @@
         "name": "Kral antilop"
       },
       {
+        "lang": "uk",
+        "name": "Антилопа карликова"
+      },
+      {
         "lang": "zh",
         "name": "倭新小羚"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Neotragus moschatus",
-    "common_names": [
-      {
-        "lang": "af",
-        "name": "Soenie"
-      },
-      {
-        "lang": "br",
-        "name": "Antilopenn-vusk"
-      },
-      {
-        "lang": "de",
-        "name": "Moschusböckchen"
-      },
-      {
-        "lang": "en",
-        "name": "Suni"
-      },
-      {
-        "lang": "es",
-        "name": "Suni"
-      },
-      {
-        "lang": "fi",
-        "name": "Suni"
-      },
-      {
-        "lang": "hu",
-        "name": "Pézsmaantilop"
-      },
-      {
-        "lang": "pl",
-        "name": "Suni (zwierzę)"
-      },
-      {
-        "lang": "sv",
-        "name": "Suniantilop"
-      },
-      {
-        "lang": "udm",
-        "name": "Суни"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Neotragus batesi",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Bates's Pygmy Antelope",
-        "synonyms": [
-          "Bates's Dwarf Antelope",
-          "Dwarf Antelope"
-        ]
-      },
-      {
-        "lang": "es",
-        "name": "Antílope pigmeo de Bates"
-      },
-      {
-        "lang": "fi",
-        "name": "Pikkuantilooppi"
-      },
-      {
-        "lang": "hu",
-        "name": "Bates-törpeantilop"
-      },
-      {
-        "lang": "sv",
-        "name": "Bates dvärgantilop"
       }
     ]
   }

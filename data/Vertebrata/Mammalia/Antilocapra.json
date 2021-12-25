@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Antilocapra pacifica",
+    "common_names": []
+  },
+  {
     "scientific_name": "Antilocapra americana",
     "common_names": [
       {
@@ -44,6 +48,10 @@
         "synonyms": [
           "viloroga antilopa"
         ]
+      },
+      {
+        "lang": "hu",
+        "name": "Villásszarvú antilop"
       },
       {
         "lang": "lt",

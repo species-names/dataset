@@ -7,6 +7,10 @@
         "name": "Сайгак"
       },
       {
+        "lang": "de",
+        "name": "Saiga"
+      },
+      {
         "lang": "en",
         "name": "Saiga Antelope"
       },
@@ -19,8 +23,19 @@
         "name": "Antilope saiga Tátaro"
       },
       {
+        "lang": "hu",
+        "name": "Szajga",
+        "synonyms": [
+          "tatárantilop"
+        ]
+      },
+      {
         "lang": "ja",
         "name": "サイガ"
+      },
+      {
+        "lang": "pl",
+        "name": "Suhak stepowy"
       },
       {
         "lang": "pt",
@@ -54,6 +69,10 @@
       {
         "lang": "es",
         "name": "Antilope saiga de Mongolia"
+      },
+      {
+        "lang": "pl",
+        "name": "Suhak północny"
       }
     ]
   }

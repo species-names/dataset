@@ -1,0 +1,336 @@
+[
+  {
+    "scientific_name": "Prioniturus waterstradti",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Parot llwygynffon Mindanao"
+      },
+      {
+        "lang": "en",
+        "name": "Mindanao racket-tail"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌پارویی میندانائو"
+      },
+      {
+        "lang": "fr",
+        "name": "Palette de Mindanao"
+      },
+      {
+        "lang": "hu",
+        "name": "Waterstradt zászlósfarkú papagáj"
+      },
+      {
+        "lang": "mrj",
+        "name": "Минданао ракет пачан попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Mindanao-vlagstaartpapegaai"
+      },
+      {
+        "lang": "sv",
+        "name": "mindanaoflaggpapegoja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Prioniturus verticalis",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Parot llwygynffon Swlw"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-winged racket-tail"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌پارویی بال‌آبی"
+      },
+      {
+        "lang": "fi",
+        "name": "Sulanviirikaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Palette des Sulu"
+      },
+      {
+        "lang": "mrj",
+        "name": "Симсӹ шылдыран ракет пачан попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Sulu-vlagstaartpapegaai"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیلا پرا چھکا پوچھل"
+      },
+      {
+        "lang": "sv",
+        "name": "blåvingad flaggpapegoja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Prioniturus platurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-mantled Racquet-tail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Prioniturus platenae",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Parot llwygynffon Palawan"
+      },
+      {
+        "lang": "en",
+        "name": "Blue-headed racket-tail"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌پارویی سرکبود"
+      },
+      {
+        "lang": "fi",
+        "name": "Palawaninviirikaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Palette de Palawan"
+      },
+      {
+        "lang": "mrj",
+        "name": "Симсӹ вуян ракет пачан попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Palawanvlagstaartpapegaai"
+      },
+      {
+        "lang": "ru",
+        "name": "Синеголовый ракетохвостый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "blåhuvad flaggpapegoja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Prioniturus montanus",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Parot llwygynffon y mynydd"
+      },
+      {
+        "lang": "en",
+        "name": "Montane racket-tail"
+      },
+      {
+        "lang": "es",
+        "name": "Lorito momoto montano"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌پارویی کوهی"
+      },
+      {
+        "lang": "fi",
+        "name": "Vuoriviirikaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Palette momot"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyi zászlósfarkú papagáj"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кырык ракет пачан попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Bergvlagstaartpapegaai"
+      },
+      {
+        "lang": "pl",
+        "name": "Listkogonka niebieskolica"
+      },
+      {
+        "lang": "ru",
+        "name": "Горный ракетохвостый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "bergflaggpapegoja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Prioniturus mindorensis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Lloret de raquetes de Mindoro"
+      },
+      {
+        "lang": "en",
+        "name": "Mindoro racket-tail"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌پارویی میندورو"
+      },
+      {
+        "lang": "fr",
+        "name": "Palette de Mindoro"
+      },
+      {
+        "lang": "mrj",
+        "name": "Миндоро ракет пачан попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Mindorovlagstaartpapegaai"
+      },
+      {
+        "lang": "sv",
+        "name": "mindoroflaggpapegoja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Prioniturus mada",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buru Racket-tail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Prioniturus luconensis",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Lloret de raquetes de Luzon"
+      },
+      {
+        "lang": "cy",
+        "name": "Parot llwygynffon gwyrdd"
+      },
+      {
+        "lang": "en",
+        "name": "Green racket-tail"
+      },
+      {
+        "lang": "es",
+        "name": "lorito-momoto de Luzón"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌پارویی سبز"
+      },
+      {
+        "lang": "fi",
+        "name": "Viherviirikaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Palette verte"
+      },
+      {
+        "lang": "mrj",
+        "name": "Лусон ракет пачан попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Groene vlagstaartpapegaai"
+      },
+      {
+        "lang": "pl",
+        "name": "Listkogonka zielona"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہری ریکٹ پوچھل"
+      },
+      {
+        "lang": "ru",
+        "name": "Лусонский ракетохвостый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "grön flaggpapegoja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Prioniturus flavicans",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-breasted Racket-tail"
+      },
+      {
+        "lang": "cy",
+        "name": "Parot llwygynffon corun coch"
+      },
+      {
+        "lang": "fa",
+        "name": "دم‌پارویی سینه‌زرد"
+      },
+      {
+        "lang": "fi",
+        "name": "Isoviirikaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Palette de Cassin"
+      },
+      {
+        "lang": "id",
+        "name": "Kring-kring dada-kuning"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар калпакан пачан попугай"
+      },
+      {
+        "lang": "nl",
+        "name": "Cassins vlagstaartpapegaai"
+      },
+      {
+        "lang": "ru",
+        "name": "Красношапочный ракетохвостый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "guldbröstad flaggpapegoja"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Prioniturus discurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-crowned Racket-tail"
+      }
+    ]
+  }
+]

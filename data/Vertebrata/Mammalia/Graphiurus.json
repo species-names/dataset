@@ -1,5 +1,26 @@
 [
   {
+    "scientific_name": "Graphiurus walterverheyeni",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Verheyen-Bilch"
+      },
+      {
+        "lang": "en",
+        "name": "Walter Verheyen's African Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón de Walter Verheyen"
+      },
+      {
+        "lang": "fr",
+        "name": "Loir de Verheyen"
+      }
+    ]
+  },
+  {
     "scientific_name": "Graphiurus surdus",
     "common_names": [
       {
@@ -56,8 +77,24 @@
     "scientific_name": "Graphiurus nagtglasii",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Großer Afrikanischer Bilch"
+      },
+      {
         "lang": "en",
         "name": "Nagtglas's African Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón de Nagtglas"
+      },
+      {
+        "lang": "fr",
+        "name": "Loir de Nagtglas"
+      },
+      {
+        "lang": "ja",
+        "name": "リベリアヤマネ"
       }
     ]
   },
@@ -118,8 +155,24 @@
     "scientific_name": "Graphiurus crassicaudatus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Jentink-Bilch"
+      },
+      {
         "lang": "en",
         "name": "Jentink's Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón de cola gruesa"
+      },
+      {
+        "lang": "fr",
+        "name": "Loir de Jentink"
+      },
+      {
+        "lang": "ja",
+        "name": "オブトヤマネ"
       }
     ]
   },
@@ -127,8 +180,24 @@
     "scientific_name": "Graphiurus christyi",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Christy-Bilch"
+      },
+      {
         "lang": "en",
         "name": "Christy's Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón de Christy"
+      },
+      {
+        "lang": "fr",
+        "name": "Loir de Christy"
+      },
+      {
+        "lang": "ja",
+        "name": "クリスティーヤマネ"
       }
     ]
   },
@@ -136,8 +205,24 @@
     "scientific_name": "Graphiurus angolensis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Angola-Bilch"
+      },
+      {
         "lang": "en",
         "name": "Angolan African Dormouse"
+      },
+      {
+        "lang": "es",
+        "name": "Lirón de Angola"
+      },
+      {
+        "lang": "fr",
+        "name": "Loir d'Angola"
+      },
+      {
+        "lang": "ja",
+        "name": "アンゴラヤマネ"
       }
     ]
   }

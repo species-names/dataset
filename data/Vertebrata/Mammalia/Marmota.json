@@ -26,6 +26,10 @@
       {
         "lang": "en",
         "name": "Tarbagan Marmot"
+      },
+      {
+        "lang": "ru",
+        "name": "Тарбаган"
       }
     ]
   },
@@ -211,8 +215,16 @@
         "name": "Marmota alpetar"
       },
       {
+        "lang": "fi",
+        "name": "Alppimurmeli"
+      },
+      {
         "lang": "fr",
         "name": "Marmotte des Alpes"
+      },
+      {
+        "lang": "hu",
+        "name": "Havasi mormota"
       },
       {
         "lang": "it",
@@ -225,10 +237,6 @@
       {
         "lang": "lt",
         "name": "Alpinis švilpikas"
-      },
-      {
-        "lang": "hu",
-        "name": "Havasi mormota"
       },
       {
         "lang": "nl",
@@ -247,10 +255,6 @@
         "name": "Альпийский сурок"
       },
       {
-        "lang": "simple",
-        "name": "Alpine marmot"
-      },
-      {
         "lang": "sk",
         "name": "Svišť vrchovský"
       },
@@ -261,10 +265,6 @@
       {
         "lang": "sr",
         "name": "Алпски мрмот"
-      },
-      {
-        "lang": "fi",
-        "name": "Alppimurmeli"
       },
       {
         "lang": "sv",
@@ -372,6 +372,10 @@
       {
         "lang": "en",
         "name": "Bobak Marmot"
+      },
+      {
+        "lang": "ja",
+        "name": "ボバックス（ステップモルモット）"
       },
       {
         "lang": "pl",
