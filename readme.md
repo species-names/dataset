@@ -1,7 +1,7 @@
 # Species names dataset ![tests](https://github.com/species-names/dataset/actions/workflows/tests.yaml/badge.svg)
 
 
-v0.0.8
+v0.0.9
 
 A json format dataset for scientific and common species names.
 

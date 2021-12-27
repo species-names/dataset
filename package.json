@@ -1,6 +1,6 @@
 {
   "name": "species-names-dataset",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Species names dataset",
   "scripts": {
     "test": "mocha -R spec ./tests/*"
@@ -12,9 +12,9 @@
     "url": "git+https://github.com/species-names/dataset.git"
   },
   "keywords": [
-    "species",
-    "names",
-    "zoology"
+    "species names",
+    "zoology",
+    "dataset"
   ],
   "homepage": "https://github.com/species-names/dataset",
   "devDependencies": {
