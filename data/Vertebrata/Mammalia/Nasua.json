@@ -1,0 +1,135 @@
+[
+  {
+    "scientific_name": "Nasua pronarica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Nasua nicaeensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Nasua nasua",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Nosál červený"
+      },
+      {
+        "lang": "da",
+        "name": "Næsebjørn"
+      },
+      {
+        "lang": "de",
+        "name": "Südamerikanischer Nasenbär"
+      },
+      {
+        "lang": "en",
+        "name": "Ring-tailed coati",
+        "synonyms": [
+          "coatimundi"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Coatí de cola anillada"
+      },
+      {
+        "lang": "fr",
+        "name": "Coati à queue annelée"
+      },
+      {
+        "lang": "gl",
+        "name": "Coatí de cola anelada"
+      },
+      {
+        "lang": "it",
+        "name": "Nasua rosso",
+        "synonyms": [
+          "Coati rosso"
+        ]
+      },
+      {
+        "lang": "lt",
+        "name": "Paprastasis koatis"
+      },
+      {
+        "lang": "hu",
+        "name": "Ormányos medve",
+        "synonyms": [
+          "vörösorrú koáti"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Rode neusbeer"
+      },
+      {
+        "lang": "no",
+        "name": "Sør-Amerikansk nesebjørn"
+      },
+      {
+        "lang": "pl",
+        "name": "Ostronos rudy",
+        "synonyms": [
+          "Koati"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Quati"
+      },
+      {
+        "lang": "ru",
+        "name": "Южноамериканский коати"
+      },
+      {
+        "lang": "fi",
+        "name": "Punakoati"
+      },
+      {
+        "lang": "sv",
+        "name": "Röd näsbjörn"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Nasua narica",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Weißrüssel-Nasenbär"
+      },
+      {
+        "lang": "en",
+        "name": "White-nosed Coati"
+      },
+      {
+        "lang": "es",
+        "name": "coatí de nariz blanca"
+      },
+      {
+        "lang": "gn",
+        "name": "Coati"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérorrú koati",
+        "synonyms": [
+          "fehérorrú ormányosmedve"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Witsnuitneusbeer"
+      },
+      {
+        "lang": "pl",
+        "name": "Ostronos białonosy"
+      },
+      {
+        "lang": "pt",
+        "name": "Quati-de-nariz-branco"
+      }
+    ]
+  }
+]

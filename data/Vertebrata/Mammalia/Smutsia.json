@@ -3,8 +3,28 @@
     "scientific_name": "Smutsia temminckii",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Steppenschuppentier"
+      },
+      {
+        "lang": "en",
+        "name": "Ground Pangolin"
+      },
+      {
+        "lang": "es",
+        "name": "Pangolin terrestre"
+      },
+      {
+        "lang": "fr",
+        "name": "Pangolin de Temminck"
+      },
+      {
         "lang": "hu",
         "name": "Tömpefarkú tobzoska"
+      },
+      {
+        "lang": "ja",
+        "name": "サバンナセンザンコウ"
       },
       {
         "lang": "pl",
@@ -13,18 +33,35 @@
     ]
   },
   {
+    "scientific_name": "Smutsia olteniensis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Smutsia gigantea",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Riesenschuppentier"
+      },
+      {
         "lang": "en",
-        "name": "Giant Ground Pangolin",
-        "synonyms": [
-          "Giant Pangolin"
-        ]
+        "name": "Giant Ground Pangolin"
+      },
+      {
+        "lang": "es",
+        "name": "Pangolín gigante"
+      },
+      {
+        "lang": "fr",
+        "name": "Pangolin géant"
       },
       {
         "lang": "hu",
         "name": "Óriás tobzoska"
+      },
+      {
+        "lang": "ja",
+        "name": "オオセンザンコウ"
       },
       {
         "lang": "pl",

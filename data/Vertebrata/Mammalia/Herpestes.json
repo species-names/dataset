@@ -74,11 +74,23 @@
     "common_names": [
       {
         "lang": "de",
-        "name": "Halsbandmanguste"
+        "name": "Halsbandmungo"
       },
       {
         "lang": "en",
         "name": "Collared Mongoose"
+      },
+      {
+        "lang": "es",
+        "name": "Meloncillo de collar"
+      },
+      {
+        "lang": "fr",
+        "name": "Mangouste à collier"
+      },
+      {
+        "lang": "ja",
+        "name": "クビワマングース"
       }
     ]
   },
@@ -92,6 +104,18 @@
       {
         "lang": "en",
         "name": "Long-nosed Mongoose"
+      },
+      {
+        "lang": "es",
+        "name": "Mangosta hocicuda"
+      },
+      {
+        "lang": "fr",
+        "name": "Mangouste à long nez"
+      },
+      {
+        "lang": "ja",
+        "name": "ハナナガマングース"
       }
     ]
   },
@@ -111,6 +135,10 @@
         ]
       },
       {
+        "lang": "es",
+        "name": "Meloncillo de Java"
+      },
+      {
         "lang": "fi",
         "name": "Intianpikkumangusti"
       },
@@ -125,6 +153,10 @@
       {
         "lang": "ms",
         "name": "Bambun Jawa"
+      },
+      {
+        "lang": "pt",
+        "name": "Mangusto-de-java"
       },
       {
         "lang": "th",
@@ -208,7 +240,10 @@
       },
       {
         "lang": "hu",
-        "name": "Egyiptomi mongúz"
+        "name": "Egyiptomi mongúz",
+        "synonyms": [
+          "közönséges ihneumon"
+        ]
       },
       {
         "lang": "nl",

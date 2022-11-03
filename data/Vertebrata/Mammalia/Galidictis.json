@@ -19,8 +19,20 @@
         "name": "Mangosta de Grandidier"
       },
       {
+        "lang": "fr",
+        "name": "Galidie de Grandidier"
+      },
+      {
+        "lang": "ja",
+        "name": "オオヒロスジマングース"
+      },
+      {
         "lang": "nl",
         "name": "Grandidiermangoest"
+      },
+      {
+        "lang": "pl",
+        "name": "Pasówka kolczasta"
       }
     ]
   },
@@ -48,12 +60,23 @@
         "name": "Juovamangusti"
       },
       {
+        "lang": "fr",
+        "name": "Galidie à bandes larges"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒロスジマングース"
+      },
+      {
         "lang": "nl",
         "name": "Vijfstreepmangoest"
       },
       {
         "lang": "pl",
-        "name": "paskówka malgaska"
+        "name": "paskówka malgaska",
+        "synonyms": [
+          "Pasówka malgaska"
+        ]
       }
     ]
   }

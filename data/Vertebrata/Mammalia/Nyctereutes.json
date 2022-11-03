@@ -31,6 +31,13 @@
         "name": "Marderhund"
       },
       {
+        "lang": "nl",
+        "name": "Marterhond",
+        "synonyms": [
+          "wasbeerhond"
+        ]
+      },
+      {
         "lang": "en",
         "name": "Raccoon Dog"
       },
@@ -40,17 +47,11 @@
       },
       {
         "lang": "eo",
-        "name": "Tanuko",
-        "synonyms": [
-          "Niktereŭto"
-        ]
+        "name": "Niktereŭto"
       },
       {
         "lang": "et",
-        "name": "Kährik",
-        "synonyms": [
-          "Kährikkoer"
-        ]
+        "name": "Kährik"
       },
       {
         "lang": "fi",
@@ -59,6 +60,10 @@
       {
         "lang": "fr",
         "name": "Chien viverrin"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyestkutya"
       },
       {
         "lang": "ja",
@@ -74,7 +79,7 @@
       },
       {
         "lang": "pl",
-        "name": "Jenot"
+        "name": "Jenot azjatycki"
       },
       {
         "lang": "pt",

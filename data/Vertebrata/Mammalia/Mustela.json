@@ -1,0 +1,1396 @@
+[
+  {
+    "scientific_name": "Mustela subpalmata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Egyptian Weasel"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja egipcia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela strigidorsa",
+    "common_names": [
+      {
+        "lang": "pl",
+        "name": "Łasica pręgowana"
+      },
+      {
+        "lang": "en",
+        "name": "Stripe-backed Weasel",
+        "synonyms": [
+          "Black-striped Weasel"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja de espalda rayada"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara çizgili gelincik"
+      },
+      {
+        "lang": "th",
+        "name": "เพียงพอนเส้นหลังขาว",
+        "synonyms": [
+          "เพียงพอนหลังขาว"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela sibirica",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Sibirisches Feuerwiesel"
+      },
+      {
+        "lang": "en",
+        "name": "Siberian Weasel"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja siberiana"
+      },
+      {
+        "lang": "ja",
+        "name": "チョウセンイタチ"
+      },
+      {
+        "lang": "ko",
+        "name": "족제비"
+      },
+      {
+        "lang": "pl",
+        "name": "Łasica syberyjska"
+      },
+      {
+        "lang": "tr",
+        "name": "Sibirya gelinciği"
+      },
+      {
+        "lang": "th",
+        "name": "เพียงพอนไซบีเรีย"
+      },
+      {
+        "lang": "zh",
+        "name": "黄鼬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela putorius",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Тхор лясны"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Тхор лясны"
+      },
+      {
+        "lang": "bg",
+        "name": "Черен пор"
+      },
+      {
+        "lang": "ca",
+        "name": "Turó comú",
+        "synonyms": [
+          "Turó europeu"
+        ]
+      },
+      {
+        "lang": "cv",
+        "name": "Хура пăсара"
+      },
+      {
+        "lang": "cs",
+        "name": "Tchoř tmavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Ffwlbart"
+      },
+      {
+        "lang": "da",
+        "name": "Ilder"
+      },
+      {
+        "lang": "de",
+        "name": "Europäischer Iltis"
+      },
+      {
+        "lang": "en",
+        "name": "European Polecat",
+        "synonyms": [
+          "Fitch"
+        ]
+      },
+      {
+        "lang": "frr",
+        "name": "Elk"
+      },
+      {
+        "lang": "nv",
+        "name": "Tó wónaanídę́ę́ʼ dlǫ́ʼii"
+      },
+      {
+        "lang": "et",
+        "name": "Tuhkur",
+        "synonyms": [
+          "Tõhk",
+          "Metstuhkur"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Turón europeo"
+      },
+      {
+        "lang": "eo",
+        "name": "Putoro"
+      },
+      {
+        "lang": "fr",
+        "name": "Putois"
+      },
+      {
+        "lang": "fy",
+        "name": "Murd"
+      },
+      {
+        "lang": "gl",
+        "name": "Furón bravo"
+      },
+      {
+        "lang": "io",
+        "name": "Putoro"
+      },
+      {
+        "lang": "is",
+        "name": "Þvefvesla"
+      },
+      {
+        "lang": "it",
+        "name": "Puzzola europea"
+      },
+      {
+        "lang": "ka",
+        "name": "ქრცვინი"
+      },
+      {
+        "lang": "csb",
+        "name": "Zwëczajny twórz"
+      },
+      {
+        "lang": "ltg",
+        "name": "Meža saskys"
+      },
+      {
+        "lang": "lv",
+        "name": "Meža sesks"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodasis šeškas"
+      },
+      {
+        "lang": "hu",
+        "name": "Közönséges görény"
+      },
+      {
+        "lang": "ml",
+        "name": "യൂറോപ്യൻ ധ്രുവപ്പൂച്ച"
+      },
+      {
+        "lang": "mwl",
+        "name": "Touron"
+      },
+      {
+        "lang": "nl",
+        "name": "Bunzing"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Ulk"
+      },
+      {
+        "lang": "nn",
+        "name": "Ilder"
+      },
+      {
+        "lang": "no",
+        "name": "Ilder"
+      },
+      {
+        "lang": "pcd",
+        "name": "Fuchioe"
+      },
+      {
+        "lang": "pl",
+        "name": "Tchórz zwyczajny"
+      },
+      {
+        "lang": "pt",
+        "name": "Tourão",
+        "synonyms": [
+          "Toirão"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "Лесной хорёк"
+      },
+      {
+        "lang": "sco",
+        "name": "Foumart"
+      },
+      {
+        "lang": "stq",
+        "name": "Ulk"
+      },
+      {
+        "lang": "sk",
+        "name": "Tchor tmavý"
+      },
+      {
+        "lang": "sl",
+        "name": "Evropski dihur"
+      },
+      {
+        "lang": "fi",
+        "name": "Hilleri"
+      },
+      {
+        "lang": "sv",
+        "name": "Iller"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı kokarca"
+      },
+      {
+        "lang": "udm",
+        "name": "Бызара"
+      },
+      {
+        "lang": "uk",
+        "name": "Тхір лісовий"
+      },
+      {
+        "lang": "wa",
+        "name": "Vexhåd"
+      },
+      {
+        "lang": "yi",
+        "name": "אילטיס"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela nudipes",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Nacktfußwiesel"
+      },
+      {
+        "lang": "en",
+        "name": "Malayan Weasel"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja Malaya"
+      },
+      {
+        "lang": "ms",
+        "name": "Pulasan Tanah"
+      },
+      {
+        "lang": "pl",
+        "name": "Łasica malezyjska"
+      },
+      {
+        "lang": "tr",
+        "name": "Malaya gelinciği"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela nivalis",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Wesel"
+      },
+      {
+        "lang": "am",
+        "name": "ትንሽ ፋደት"
+      },
+      {
+        "lang": "ar",
+        "name": "ابن عرس صغير"
+      },
+      {
+        "lang": "atj",
+        "name": "Sikosiw"
+      },
+      {
+        "lang": "ay",
+        "name": "Jisk'a achuqalla"
+      },
+      {
+        "lang": "azb",
+        "name": "عادی گلینجیک"
+      },
+      {
+        "lang": "az",
+        "name": "Adi gəlincik"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Žebėnkštie"
+      },
+      {
+        "lang": "ba",
+        "name": "Йәтсә"
+      },
+      {
+        "lang": "be",
+        "name": "Ласка"
+      },
+      {
+        "lang": "bg",
+        "name": "Невестулка"
+      },
+      {
+        "lang": "br",
+        "name": "Kaerell"
+      },
+      {
+        "lang": "bs",
+        "name": "Lasica"
+      },
+      {
+        "lang": "ca",
+        "name": "Mostela"
+      },
+      {
+        "lang": "ce",
+        "name": "Дингат"
+      },
+      {
+        "lang": "cs",
+        "name": "Lasice kolčava"
+      },
+      {
+        "lang": "cv",
+        "name": "Шăши юс"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwenci"
+      },
+      {
+        "lang": "da",
+        "name": "Brud"
+      },
+      {
+        "lang": "de",
+        "name": "Mauswiesel"
+      },
+      {
+        "lang": "el",
+        "name": "Νυφίτσα"
+      },
+      {
+        "lang": "en",
+        "name": "Weasel"
+      },
+      {
+        "lang": "en-us",
+        "name": "Least Weasel"
+      },
+      {
+        "lang": "eo",
+        "name": "Vizelo"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja común"
+      },
+      {
+        "lang": "et",
+        "name": "Nirk"
+      },
+      {
+        "lang": "eu",
+        "name": "Erbinude arrunt"
+      },
+      {
+        "lang": "ext",
+        "name": "Donina"
+      },
+      {
+        "lang": "fa",
+        "name": "راسوی کوچک"
+      },
+      {
+        "lang": "fi",
+        "name": "Lumikko"
+      },
+      {
+        "lang": "fiu-vro",
+        "name": "Lasits"
+      },
+      {
+        "lang": "fr",
+        "name": "Belette d'Europe"
+      },
+      {
+        "lang": "frr",
+        "name": "Huarem"
+      },
+      {
+        "lang": "gl",
+        "name": "Donicela"
+      },
+      {
+        "lang": "fy",
+        "name": "Wezeling"
+      },
+      {
+        "lang": "gd",
+        "name": "Neas bheag"
+      },
+      {
+        "lang": "gn",
+        "name": "Europa mykurẽ"
+      },
+      {
+        "lang": "he",
+        "name": "חמוס השלגים"
+      },
+      {
+        "lang": "hr",
+        "name": "Lasica"
+      },
+      {
+        "lang": "hu",
+        "name": "Menyét"
+      },
+      {
+        "lang": "hy",
+        "name": "Աքիս"
+      },
+      {
+        "lang": "ik",
+        "name": "Naulayuq"
+      },
+      {
+        "lang": "inh",
+        "name": "Шурткъа"
+      },
+      {
+        "lang": "it",
+        "name": "Donnola"
+      },
+      {
+        "lang": "ja",
+        "name": "イイズナ"
+      },
+      {
+        "lang": "ka",
+        "name": "დედოფალა"
+      },
+      {
+        "lang": "kbd",
+        "name": "Ужьэ"
+      },
+      {
+        "lang": "kk",
+        "name": "Аққалақ"
+      },
+      {
+        "lang": "koi",
+        "name": "Учкись"
+      },
+      {
+        "lang": "ko",
+        "name": "쇠족제비"
+      },
+      {
+        "lang": "ku",
+        "name": "Kûzikê nas"
+      },
+      {
+        "lang": "kv",
+        "name": "Ласича"
+      },
+      {
+        "lang": "lb",
+        "name": "Mauswisel"
+      },
+      {
+        "lang": "li",
+        "name": "Wezel"
+      },
+      {
+        "lang": "ltg",
+        "name": "Luoseica"
+      },
+      {
+        "lang": "lt",
+        "name": "Žebenkštis"
+      },
+      {
+        "lang": "lv",
+        "name": "Zebiekste"
+      },
+      {
+        "lang": "mhr",
+        "name": "Коляйос"
+      },
+      {
+        "lang": "mk",
+        "name": "Невестулка"
+      },
+      {
+        "lang": "nl",
+        "name": "Wezel"
+      },
+      {
+        "lang": "mrj",
+        "name": "Каляиӓш"
+      },
+      {
+        "lang": "myv",
+        "name": "Чомболкс"
+      },
+      {
+        "lang": "nah",
+        "name": "Cozamatl"
+      },
+      {
+        "lang": "nn",
+        "name": "Snømus"
+      },
+      {
+        "lang": "no",
+        "name": "Snømus"
+      },
+      {
+        "lang": "nv",
+        "name": "Dlǫ́ʼii yázhí"
+      },
+      {
+        "lang": "oc",
+        "name": "Mostèla"
+      },
+      {
+        "lang": "os",
+        "name": "Мыстулæг"
+      },
+      {
+        "lang": "pcd",
+        "name": "Moutòle"
+      },
+      {
+        "lang": "pl",
+        "name": "Łasica pospolita"
+      },
+      {
+        "lang": "pt",
+        "name": "Doninha-anã"
+      },
+      {
+        "lang": "qu",
+        "name": "Unchuchukuy"
+      },
+      {
+        "lang": "ro",
+        "name": "Nevăstuică"
+      },
+      {
+        "lang": "ru",
+        "name": "Ласка"
+      },
+      {
+        "lang": "sah",
+        "name": "Муҥур"
+      },
+      {
+        "lang": "sc",
+        "name": "Ana e mele"
+      },
+      {
+        "lang": "se",
+        "name": "Nirpi"
+      },
+      {
+        "lang": "sh",
+        "name": "Lasica"
+      },
+      {
+        "lang": "sk",
+        "name": "Lasica myšožravá"
+      },
+      {
+        "lang": "sl",
+        "name": "Mala podlasica"
+      },
+      {
+        "lang": "sq",
+        "name": "Nuselala"
+      },
+      {
+        "lang": "sr",
+        "name": "Мала ласица"
+      },
+      {
+        "lang": "stq",
+        "name": "Wieselke"
+      },
+      {
+        "lang": "sv",
+        "name": "Vessla"
+      },
+      {
+        "lang": "th",
+        "name": "เพียงพอนสีน้ำตาล"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı gelincik"
+      },
+      {
+        "lang": "udm",
+        "name": "Юрмег"
+      },
+      {
+        "lang": "ug",
+        "name": "كىچىك سېسىق كۈزەنى"
+      },
+      {
+        "lang": "uk",
+        "name": "Ласиця мала"
+      },
+      {
+        "lang": "vep",
+        "name": "Lasicaine"
+      },
+      {
+        "lang": "vi",
+        "name": "Triết bụng trắng"
+      },
+      {
+        "lang": "vls",
+        "name": "Wezel"
+      },
+      {
+        "lang": "wa",
+        "name": "Marcote"
+      },
+      {
+        "lang": "zh",
+        "name": "伶鼬"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "伶鼬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela nigripes",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Tchoř černonohý"
+      },
+      {
+        "lang": "da",
+        "name": "Sortfodet ilder"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzfußiltis"
+      },
+      {
+        "lang": "en",
+        "name": "Black-footed Ferret"
+      },
+      {
+        "lang": "es",
+        "name": "Hurón de pies negros"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustajalkahilleri"
+      },
+      {
+        "lang": "fr",
+        "name": "Putois à pieds noirs"
+      },
+      {
+        "lang": "hu",
+        "name": "Feketelábú görény"
+      },
+      {
+        "lang": "it",
+        "name": "Cane di prateria"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartvoetbunzing"
+      },
+      {
+        "lang": "pl",
+        "name": "Tchórz czarnołapy",
+        "synonyms": [
+          "tchórz czarnonogi"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Svartfotad iller"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara ayaklı gelincik"
+      },
+      {
+        "lang": "zh",
+        "name": "黑足鼬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela lutreolina",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Indonesian Mountain Weasel"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja de Java"
+      },
+      {
+        "lang": "tr",
+        "name": "Endonezya dağ gelinciği"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela lutreola",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Норка еўрапейская"
+      },
+      {
+        "lang": "ca",
+        "name": "Visó europeu"
+      },
+      {
+        "lang": "da",
+        "name": "Flodilder"
+      },
+      {
+        "lang": "de",
+        "name": "Europäischer Nerz"
+      },
+      {
+        "lang": "et",
+        "name": "Naarits",
+        "synonyms": [
+          "Euroopa naarits"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "European Mink"
+      },
+      {
+        "lang": "fi",
+        "name": "Vesikko"
+      },
+      {
+        "lang": "frr",
+        "name": "Nerts"
+      },
+      {
+        "lang": "it",
+        "name": "Visone europeo"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパミンク"
+      },
+      {
+        "lang": "nl",
+        "name": "Europese Nerts"
+      },
+      {
+        "lang": "pl",
+        "name": "Norka europejska"
+      },
+      {
+        "lang": "es",
+        "name": "Visón"
+      },
+      {
+        "lang": "tr",
+        "name": "Avrupa vizonu"
+      },
+      {
+        "lang": "ru",
+        "name": "Европейская норка"
+      },
+      {
+        "lang": "sv",
+        "name": "Flodiller"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela kathiah",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-bellied Weasel"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja de vientre amarillo"
+      },
+      {
+        "lang": "pl",
+        "name": "Łasica żółtobrzucha"
+      },
+      {
+        "lang": "tr",
+        "name": "Sarı karınlı gelincik"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela itatsi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Japanese Weasel"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja japonesa"
+      },
+      {
+        "lang": "ja",
+        "name": "ニホンイタチ"
+      },
+      {
+        "lang": "tr",
+        "name": "Japon gelinciği"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela frenata",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Langhalet hermelin"
+      },
+      {
+        "lang": "de",
+        "name": "Langschwanzwiesel"
+      },
+      {
+        "lang": "en",
+        "name": "Long-tailed Weasel"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja de cola larga o andina"
+      },
+      {
+        "lang": "hu",
+        "name": "Hosszúfarkú menyét"
+      },
+      {
+        "lang": "nl",
+        "name": "Langstaartwezel"
+      },
+      {
+        "lang": "pl",
+        "name": "Łasica długoogoniasta"
+      },
+      {
+        "lang": "pt",
+        "name": "doninhas Longo-tailed"
+      },
+      {
+        "lang": "tr",
+        "name": "Uzun kuyruklu gelincik"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela felipei",
+    "common_names": [
+      {
+        "lang": "br",
+        "name": "Kaerell Kolombia"
+      },
+      {
+        "lang": "en",
+        "name": "colombian Weasel"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja colombiana"
+      },
+      {
+        "lang": "it",
+        "name": "Donnola colombiana"
+      },
+      {
+        "lang": "lv",
+        "name": "kolumbijas zebiekste"
+      },
+      {
+        "lang": "tr",
+        "name": "Kolombiya gelinciği"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela eversmanii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Steppeniltis"
+      },
+      {
+        "lang": "en",
+        "name": "Steppe Polecat"
+      },
+      {
+        "lang": "es",
+        "name": "Turón de la estepa"
+      },
+      {
+        "lang": "is",
+        "name": "Steppuvesla"
+      },
+      {
+        "lang": "nl",
+        "name": "Steppebunzing"
+      },
+      {
+        "lang": "pl",
+        "name": "Tchórz stepowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Toirão-das-estepes"
+      },
+      {
+        "lang": "tr",
+        "name": "Bozkır kokarcası"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela erminea",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Hermelyn"
+      },
+      {
+        "lang": "ar",
+        "name": "قاقم"
+      },
+      {
+        "lang": "azb",
+        "name": "موستلا رمینا"
+      },
+      {
+        "lang": "ba",
+        "name": "Аҫ"
+      },
+      {
+        "lang": "be",
+        "name": "Гарнастай"
+      },
+      {
+        "lang": "bg",
+        "name": "Хермелин"
+      },
+      {
+        "lang": "br",
+        "name": "Erminig"
+      },
+      {
+        "lang": "bs",
+        "name": "Hermelin"
+      },
+      {
+        "lang": "ca",
+        "name": "Ermini"
+      },
+      {
+        "lang": "cs",
+        "name": "Lasice hranostaj"
+      },
+      {
+        "lang": "cv",
+        "name": "Юс"
+      },
+      {
+        "lang": "da",
+        "name": "Lækat"
+      },
+      {
+        "lang": "de",
+        "name": "Hermelin"
+      },
+      {
+        "lang": "el",
+        "name": "Ερμίνα"
+      },
+      {
+        "lang": "en",
+        "name": "Stoat"
+      },
+      {
+        "lang": "eo",
+        "name": "Ermeno"
+      },
+      {
+        "lang": "es",
+        "name": "Armiño"
+      },
+      {
+        "lang": "et",
+        "name": "Kärp"
+      },
+      {
+        "lang": "eu",
+        "name": "Erbinude zuri"
+      },
+      {
+        "lang": "fa",
+        "name": "قاقم"
+      },
+      {
+        "lang": "fi",
+        "name": "Kärppä"
+      },
+      {
+        "lang": "fiu-vro",
+        "name": "Suur-lasits"
+      },
+      {
+        "lang": "fo",
+        "name": "Roysikøttur"
+      },
+      {
+        "lang": "fr",
+        "name": "Hermine"
+      },
+      {
+        "lang": "frr",
+        "name": "Hermeliin"
+      },
+      {
+        "lang": "fy",
+        "name": "Harmeling"
+      },
+      {
+        "lang": "ga",
+        "name": "Easóg"
+      },
+      {
+        "lang": "gd",
+        "name": "Neas mhòr"
+      },
+      {
+        "lang": "gl",
+        "name": "Armiño"
+      },
+      {
+        "lang": "he",
+        "name": "הרמין"
+      },
+      {
+        "lang": "hr",
+        "name": "Hermelin"
+      },
+      {
+        "lang": "hu",
+        "name": "Hermelin"
+      },
+      {
+        "lang": "ik",
+        "name": "Itiġiaq"
+      },
+      {
+        "lang": "io",
+        "name": "Ermino"
+      },
+      {
+        "lang": "is",
+        "name": "Hreysiköttur"
+      },
+      {
+        "lang": "it",
+        "name": "Ermellino"
+      },
+      {
+        "lang": "ja",
+        "name": "オコジョ"
+      },
+      {
+        "lang": "ka",
+        "name": "ყარყუმი"
+      },
+      {
+        "lang": "kbd",
+        "name": "Ужьэ кӏэ кӏыхь"
+      },
+      {
+        "lang": "kk",
+        "name": "Ақкіс"
+      },
+      {
+        "lang": "koi",
+        "name": "Чужмӧр"
+      },
+      {
+        "lang": "ko",
+        "name": "북방족제비"
+      },
+      {
+        "lang": "ku",
+        "name": "Banevank"
+      },
+      {
+        "lang": "kv",
+        "name": "Сьӧдбӧж"
+      },
+      {
+        "lang": "ky",
+        "name": "Арыс"
+      },
+      {
+        "lang": "lt",
+        "name": "Šermuonėlis"
+      },
+      {
+        "lang": "lv",
+        "name": "Sermulis"
+      },
+      {
+        "lang": "mhr",
+        "name": "Йос"
+      },
+      {
+        "lang": "mk",
+        "name": "Голема ласица"
+      },
+      {
+        "lang": "mn",
+        "name": "Үен"
+      },
+      {
+        "lang": "my",
+        "name": "မြွေပါဖြူ"
+      },
+      {
+        "lang": "ne",
+        "name": "बहुरुपी मलसाँप्रो"
+      },
+      {
+        "lang": "nl",
+        "name": "Hermelijn"
+      },
+      {
+        "lang": "nn",
+        "name": "Røyskatt"
+      },
+      {
+        "lang": "no",
+        "name": "Røyskatt"
+      },
+      {
+        "lang": "nv",
+        "name": "Dlǫ́ʼiiłgaii"
+      },
+      {
+        "lang": "pl",
+        "name": "Gronostaj europejski"
+      },
+      {
+        "lang": "pnb",
+        "name": "سٹوٹ"
+      },
+      {
+        "lang": "pt",
+        "name": "Arminho"
+      },
+      {
+        "lang": "ro",
+        "name": "Hermină"
+      },
+      {
+        "lang": "ru",
+        "name": "Горностай"
+      },
+      {
+        "lang": "sah",
+        "name": "Кырынаас"
+      },
+      {
+        "lang": "sco",
+        "name": "Stoat-wheasel"
+      },
+      {
+        "lang": "sh",
+        "name": "Hermelin"
+      },
+      {
+        "lang": "sk",
+        "name": "Lasica hranostaj"
+      },
+      {
+        "lang": "sl",
+        "name": "Velika podlasica"
+      },
+      {
+        "lang": "sq",
+        "name": "Bukla e madhe"
+      },
+      {
+        "lang": "sr",
+        "name": "Велика ласица"
+      },
+      {
+        "lang": "sv",
+        "name": "Hermelin"
+      },
+      {
+        "lang": "ta",
+        "name": "குறுவால் மரநாய்"
+      },
+      {
+        "lang": "th",
+        "name": "เออร์มิน"
+      },
+      {
+        "lang": "tr",
+        "name": "Kakım"
+      },
+      {
+        "lang": "tt",
+        "name": "Ас"
+      },
+      {
+        "lang": "udm",
+        "name": "Ӵӧжмер"
+      },
+      {
+        "lang": "ug",
+        "name": "ئاق ئاغمىخان"
+      },
+      {
+        "lang": "uk",
+        "name": "Горностай"
+      },
+      {
+        "lang": "vep",
+        "name": "Por'moi"
+      },
+      {
+        "lang": "vi",
+        "name": "Chồn ecmin"
+      },
+      {
+        "lang": "wa",
+        "name": "Erminete"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "白鼬"
+      },
+      {
+        "lang": "zh",
+        "name": "白鼬"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela altaica",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Altai-Wiesel"
+      },
+      {
+        "lang": "en",
+        "name": "Mountain Weasel"
+      },
+      {
+        "lang": "eo",
+        "name": "mustelo montara"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja alpina o de montaña"
+      },
+      {
+        "lang": "fr",
+        "name": "Belette des montagnes"
+      },
+      {
+        "lang": "pl",
+        "name": "Łasica górska"
+      },
+      {
+        "lang": "tr",
+        "name": "Dağ gelinciği"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustela africana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tropical Weasel"
+      },
+      {
+        "lang": "es",
+        "name": "Comadreja africana o de vientre rayado"
+      },
+      {
+        "lang": "pl",
+        "name": "Łasica tropikalna"
+      },
+      {
+        "lang": "tr",
+        "name": "Tropikal gelincik"
+      }
+    ]
+  }
+]

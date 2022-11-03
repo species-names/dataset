@@ -3,8 +3,16 @@
     "scientific_name": "Phataginus tricuspis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Weißbauchschuppentier"
+      },
+      {
         "lang": "en",
-        "name": "Tree Pangolin"
+        "name": "African Tree Pangolin"
+      },
+      {
+        "lang": "es",
+        "name": "Pangolín arborícola"
       },
       {
         "lang": "fr",
@@ -17,6 +25,10 @@
       {
         "lang": "hu",
         "name": "Fehérhasú tobzoska"
+      },
+      {
+        "lang": "ja",
+        "name": "キノボリセンザンコウ"
       },
       {
         "lang": "ln",
@@ -34,6 +46,39 @@
   },
   {
     "scientific_name": "Phataginus tetradactyla",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Langschwanzchuppentier"
+      },
+      {
+        "lang": "en",
+        "name": "Long-tailed Pangolin"
+      },
+      {
+        "lang": "es",
+        "name": "Pangolín colilargo"
+      },
+      {
+        "lang": "fr",
+        "name": "Pangolin à longue queue"
+      },
+      {
+        "lang": "hu",
+        "name": "Hosszúfarkú tobzoska"
+      },
+      {
+        "lang": "ja",
+        "name": "オナガセンザンコウ"
+      },
+      {
+        "lang": "pl",
+        "name": "Łuskowiec długoogonowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Pangolim-de-cauda-longa"
+      }
+    ]
   }
 ]

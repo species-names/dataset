@@ -1,5 +1,13 @@
 [
   {
+    "scientific_name": "Caracal issiodorensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Caracal depereti",
+    "common_names": []
+  },
+  {
     "scientific_name": "Caracal caracal",
     "common_names": [
       {
@@ -40,11 +48,17 @@
       },
       {
         "lang": "de",
-        "name": "Karakal"
+        "name": "Karakal",
+        "synonyms": [
+          "Wüstenluchs"
+        ]
       },
       {
         "lang": "en",
-        "name": "Caracal"
+        "name": "Caracal",
+        "synonyms": [
+          "desert lynx"
+        ]
       },
       {
         "lang": "es",
@@ -73,10 +87,6 @@
       {
         "lang": "ko",
         "name": "카라칼"
-      },
-      {
-        "lang": "la",
-        "name": "Caracal"
       },
       {
         "lang": "th",
@@ -131,7 +141,10 @@
       },
       {
         "lang": "sv",
-        "name": "Ökenlo"
+        "name": "Karakal",
+        "synonyms": [
+          "ökenlo"
+        ]
       },
       {
         "lang": "tr",
@@ -140,6 +153,114 @@
       {
         "lang": "zh",
         "name": "獰貓"
+      },
+      {
+        "lang": "ta",
+        "name": "கறகால் பூனை"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Caracal aurata",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Залатая котка"
+      },
+      {
+        "lang": "bg",
+        "name": "Златна котка"
+      },
+      {
+        "lang": "br",
+        "name": "Kazh Alaouret Afrika"
+      },
+      {
+        "lang": "cs",
+        "name": "Kočka zlatá"
+      },
+      {
+        "lang": "da",
+        "name": "Afrikansk guldkat"
+      },
+      {
+        "lang": "de",
+        "name": "Afrikanische Goldkatze"
+      },
+      {
+        "lang": "en",
+        "name": "African Golden Cat"
+      },
+      {
+        "lang": "eo",
+        "name": "Afrika ora kato"
+      },
+      {
+        "lang": "es",
+        "name": "Gato dorado africano"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikankultakissa"
+      },
+      {
+        "lang": "fr",
+        "name": "Chat doré africain"
+      },
+      {
+        "lang": "hr",
+        "name": "Afrička zlatna mačka"
+      },
+      {
+        "lang": "it",
+        "name": "gatto dorato africano"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカゴールデンキャット"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse goudkat"
+      },
+      {
+        "lang": "no",
+        "name": "Afrikagullkatt"
+      },
+      {
+        "lang": "pl",
+        "name": "kot złoty",
+        "synonyms": [
+          "złotokot afrykański",
+          "afrykański kot złocisty"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Gato-dourado-africano"
+      },
+      {
+        "lang": "ru",
+        "name": "Золотая кошка"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk guldkatt"
+      },
+      {
+        "lang": "tr",
+        "name": "Afrika altın kedisi"
+      },
+      {
+        "lang": "zh",
+        "name": "非洲金貓"
+      },
+      {
+        "lang": "th",
+        "name": "เสือไฟแอฟริกา",
+        "synonyms": [
+          "แมวสีทองแอฟริกา"
+        ]
       }
     ]
   }

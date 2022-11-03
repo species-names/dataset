@@ -1,11 +1,28 @@
 [
   {
-    "scientific_name": "Panthera atrox",
+    "scientific_name": "Panthera balamoides",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Panthera zdanskyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Longdan Tiger"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Panthera youngi",
     "common_names": []
   },
   {
     "scientific_name": "Panthera uncia",
     "common_names": [
+      {
+        "lang": "ar",
+        "name": "نَمِرُ الثُّلُوجِ"
+      },
       {
         "lang": "ko",
         "name": "눈표범",
@@ -86,6 +103,10 @@
         ]
       },
       {
+        "lang": "id",
+        "name": "Macan tutul salju"
+      },
+      {
         "lang": "it",
         "name": "Leopardo delle nevi"
       },
@@ -138,274 +159,41 @@
       {
         "lang": "zh",
         "name": "雪豹"
+      },
+      {
+        "lang": "ta",
+        "name": "பனிச்சிறுத்தை"
       }
     ]
   },
   {
     "scientific_name": "Panthera tigris",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Panthera spelaea",
     "common_names": [
       {
-        "lang": "als",
-        "name": "Tigr"
-      },
-      {
-        "lang": "ar",
-        "name": "ببر"
-      },
-      {
-        "lang": "ak",
-        "name": "Osebo"
-      },
-      {
-        "lang": "as",
-        "name": "বাঘ"
-      },
-      {
-        "lang": "bar",
-        "name": "Tieger",
-        "synonyms": [
-          "Tiger"
-        ]
-      },
-      {
-        "lang": "be",
-        "name": "Тыгр"
-      },
-      {
-        "lang": "be-x-old",
-        "name": "Тыгр"
-      },
-      {
-        "lang": "bg",
-        "name": "Тигър"
-      },
-      {
-        "lang": "bn",
-        "name": "বাঘ"
-      },
-      {
-        "lang": "bs",
-        "name": "Tigar"
-      },
-      {
-        "lang": "ca",
-        "name": "Tigre"
-      },
-      {
-        "lang": "cs",
-        "name": "Tygr"
-      },
-      {
-        "lang": "cu",
-        "name": "Тїгръ"
-      },
-      {
-        "lang": "sr",
-        "name": "Тигар",
-        "synonyms": [
-          "Tigar"
-        ]
-      },
-      {
-        "lang": "da",
-        "name": "Tiger"
-      },
-      {
-        "lang": "de",
-        "name": "Tiger"
-      },
-      {
-        "lang": "nv",
-        "name": "Náshdóítsoh noodǫ́zígíí"
-      },
-      {
-        "lang": "el",
-        "name": "Τίγρης"
-      },
-      {
         "lang": "en",
-        "name": "Tiger"
-      },
-      {
-        "lang": "eo",
-        "name": "Tigro"
+        "name": "Cave Lion"
       },
       {
         "lang": "es",
-        "name": "Tigre"
-      },
-      {
-        "lang": "et",
-        "name": "Tiiger"
-      },
-      {
-        "lang": "fi",
-        "name": "Tiikeri"
-      },
-      {
-        "lang": "fr",
-        "name": "Tigre"
-      },
-      {
-        "lang": "gl",
-        "name": "Tigre"
-      },
-      {
-        "lang": "gu",
-        "name": "વાઘ"
-      },
-      {
-        "lang": "he",
-        "name": "טיגריס"
-      },
-      {
-        "lang": "hi",
-        "name": "बाघ (bāgh)",
-        "synonyms": [
-          "शेर (sher)",
-          "सिंह (siṅh)"
-        ]
-      },
-      {
-        "lang": "hr",
-        "name": "Tigar"
-      },
-      {
-        "lang": "hu",
-        "name": "Tigris"
-      },
-      {
-        "lang": "hy",
-        "name": "վագր"
-      },
-      {
-        "lang": "id",
-        "name": "Harimau"
-      },
-      {
-        "lang": "is",
-        "name": "Tígrisdýr"
-      },
-      {
-        "lang": "it",
-        "name": "Tigre"
-      },
-      {
-        "lang": "ja",
-        "name": "トラ"
-      },
-      {
-        "lang": "jv",
-        "name": "Macan"
-      },
-      {
-        "lang": "ko",
-        "name": "호랑이"
-      },
-      {
-        "lang": "la",
-        "name": "Tigris"
-      },
-      {
-        "lang": "li",
-        "name": "Tieger"
-      },
-      {
-        "lang": "ms",
-        "name": "Harimau"
-      },
-      {
-        "lang": "mr",
-        "name": "वाघ (vāgh)"
-      },
-      {
-        "lang": "ml",
-        "name": "കടുവ"
-      },
-      {
-        "lang": "mn",
-        "name": "Бар"
-      },
-      {
-        "lang": "mt",
-        "name": "Tigra"
-      },
-      {
-        "lang": "nl",
-        "name": "Tijger"
-      },
-      {
-        "lang": "nn",
-        "name": "Tiger"
-      },
-      {
-        "lang": "no",
-        "name": "Tiger"
-      },
-      {
-        "lang": "pl",
-        "name": "Tygrys"
+        "name": "Leon de las cavernas"
       },
       {
         "lang": "pt",
-        "name": "Tigre"
-      },
-      {
-        "lang": "ro",
-        "name": "Tigru"
-      },
-      {
-        "lang": "ru",
-        "name": "Тигр"
-      },
-      {
-        "lang": "sa",
-        "name": "व्याघ्र: (VyāghraH)"
-      },
-      {
-        "lang": "sl",
-        "name": "Tiger"
-      },
-      {
-        "lang": "su",
-        "name": "Maung lodaya"
-      },
-      {
-        "lang": "sv",
-        "name": "Tiger"
-      },
-      {
-        "lang": "ta",
-        "name": "புலி"
-      },
-      {
-        "lang": "te",
-        "name": "పులి"
-      },
-      {
-        "lang": "th",
-        "name": "เสือโคร่ง",
-        "synonyms": [
-          "เสือลายพาดกลอน"
-        ]
-      },
-      {
-        "lang": "tr",
-        "name": "Kaplan"
-      },
-      {
-        "lang": "uk",
-        "name": "Тигр"
-      },
-      {
-        "lang": "vi",
-        "name": "Hổ"
+        "name": "Leão das Cavernas"
       },
       {
         "lang": "zh",
-        "name": "虎"
+        "name": "穴獅"
       }
     ]
+  },
+  {
+    "scientific_name": "Panthera shawi",
+    "common_names": []
   },
   {
     "scientific_name": "Panthera pardus pardus",
@@ -509,6 +297,10 @@
       {
         "lang": "th",
         "name": "เสือดาวแอฟริกัน"
+      },
+      {
+        "lang": "zh",
+        "name": "非洲豹"
       }
     ]
   },
@@ -530,6 +322,10 @@
       {
         "lang": "arz",
         "name": "فهد"
+      },
+      {
+        "lang": "as",
+        "name": "নাহৰফুটুকী বাঘ"
       },
       {
         "lang": "az",
@@ -648,7 +444,7 @@
       },
       {
         "lang": "id",
-        "name": "Macan Tutul"
+        "name": "Macan tutul"
       },
       {
         "lang": "ig",
@@ -682,10 +478,6 @@
         "name": "Leopar"
       },
       {
-        "lang": "la",
-        "name": "Pardus"
-      },
-      {
         "lang": "lt",
         "name": "Leopardas"
       },
@@ -712,6 +504,10 @@
       {
         "lang": "ms",
         "name": "Harimau Bintang"
+      },
+      {
+        "lang": "my",
+        "name": "ကျားသစ်"
       },
       {
         "lang": "nl",
@@ -840,8 +636,16 @@
       {
         "lang": "km",
         "name": "ខ្លារខិន"
+      },
+      {
+        "lang": "or",
+        "name": "କଲରାପତରିଆ ବାଘ"
       }
     ]
+  },
+  {
+    "scientific_name": "Panthera palaeosinensis",
+    "common_names": []
   },
   {
     "scientific_name": "Panthera onca",
@@ -980,11 +784,15 @@
       },
       {
         "lang": "pt",
-        "name": "Jaguar",
+        "name": "Onça",
         "synonyms": [
-          "Onça",
-          "Onça-Pintada"
+          "Onça-Pintada",
+          "Jaguar"
         ]
+      },
+      {
+        "lang": "qu",
+        "name": "Uturunku"
       },
       {
         "lang": "ro",
@@ -1017,6 +825,10 @@
       {
         "lang": "id",
         "name": "Jaguar"
+      },
+      {
+        "lang": "my",
+        "name": "ဂျိုက်ဂွါး"
       }
     ]
   },
@@ -1041,6 +853,10 @@
       {
         "lang": "ar",
         "name": "أسد (ʾĀsad)"
+      },
+      {
+        "lang": "as",
+        "name": "সিংহ"
       },
       {
         "lang": "bar",
@@ -1210,10 +1026,6 @@
         "name": "Арстан"
       },
       {
-        "lang": "la",
-        "name": "Leo"
-      },
-      {
         "lang": "li",
         "name": "Liew"
       },
@@ -1228,6 +1040,10 @@
       {
         "lang": "lv",
         "name": "Lauva"
+      },
+      {
+        "lang": "mg",
+        "name": "Liona"
       },
       {
         "lang": "mr",
@@ -1314,6 +1130,10 @@
         "name": "சிங்கம்"
       },
       {
+        "lang": "tl",
+        "name": "Leon"
+      },
+      {
         "lang": "tr",
         "name": "Aslan"
       },
@@ -1338,8 +1158,66 @@
         "name": "לייב"
       },
       {
-        "lang": "zh",
-        "name": "狮子 (shīzi)"
+        "lang": "zh-hans",
+        "name": "狮"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "獅"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Panthera gombaszoegensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "European Jaguar"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Panthera fossilis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Panthera blytheae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Panthera atrox",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Lev americký"
+      },
+      {
+        "lang": "en",
+        "name": "American Lion"
+      },
+      {
+        "lang": "es",
+        "name": "León americano"
+      },
+      {
+        "lang": "hr",
+        "name": "Američki lav"
+      },
+      {
+        "lang": "hu",
+        "name": "Amerikai oroszlán"
+      },
+      {
+        "lang": "nl",
+        "name": "Holenleeuw"
+      },
+      {
+        "lang": "pt",
+        "name": "Leão americano"
+      },
+      {
+        "lang": "tr",
+        "name": "Amerika aslanı"
       }
     ]
   }

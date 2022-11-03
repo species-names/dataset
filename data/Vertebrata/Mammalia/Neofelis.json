@@ -32,9 +32,9 @@
       },
       {
         "lang": "fr",
-        "name": "Panthère nébuleuse",
+        "name": "Panthère longibande",
         "synonyms": [
-          "Panthère longibande"
+          "Panthère nébuleuse"
         ]
       },
       {
@@ -44,6 +44,10 @@
       {
         "lang": "hu",
         "name": "Ködfoltos párduc"
+      },
+      {
+        "lang": "id",
+        "name": "Macan dahan"
       },
       {
         "lang": "it",
@@ -124,7 +128,10 @@
       },
       {
         "lang": "es",
-        "name": "Pantera nebulosa de Borneo"
+        "name": "Pantera de la Sonda",
+        "synonyms": [
+          "Pantera nebulosa de Borneo"
+        ]
       },
       {
         "lang": "fi",
@@ -132,18 +139,27 @@
       },
       {
         "lang": "fr",
-        "name": "Panthère nébuleuse de Bornéo",
+        "name": "Panthère de Diard",
         "synonyms": [
+          "Panthère nébuleuse de Bornéo",
           "Léopard tacheté de Bornéo"
         ]
+      },
+      {
+        "lang": "id",
+        "name": "Macan dahan Sunda"
       },
       {
         "lang": "it",
         "name": "Leopardo nebuloso del Borneo"
       },
       {
+        "lang": "ja",
+        "name": "スンダウンピョウ"
+      },
+      {
         "lang": "pl",
-        "name": "Pantera borneańska"
+        "name": "Pantera sundajska"
       },
       {
         "lang": "pt",

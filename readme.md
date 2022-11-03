@@ -1,7 +1,7 @@
 # Species names dataset ![tests](https://github.com/species-names/dataset/actions/workflows/tests.yaml/badge.svg)
 
 
-v0.0.10
+v0.0.11
 
 A json format dataset for scientific and common species names.
 
@@ -35,7 +35,7 @@ Pls add some sort of reference.
 The dataset is published on npm:  
 https://www.npmjs.com/package/species-names-dataset
 
-    git tag 0.0.10
+    git tag 0.0.11
     git push --tags
     npm publish
 

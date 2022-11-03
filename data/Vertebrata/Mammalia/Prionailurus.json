@@ -58,6 +58,10 @@
         "name": "Halászmacska"
       },
       {
+        "lang": "id",
+        "name": "Kucing bakau"
+      },
+      {
         "lang": "ja",
         "name": "スナドリネコ"
       },
@@ -92,6 +96,10 @@
       {
         "lang": "sk",
         "name": "Mačka rybárska"
+      },
+      {
+        "lang": "sl",
+        "name": "Ribiška tigrasta mačka"
       },
       {
         "lang": "sv",
@@ -262,13 +270,18 @@
         "name": "Laposfejű macska"
       },
       {
+        "lang": "id",
+        "name": "Kucing tandang"
+      },
+      {
         "lang": "it",
         "name": "Gatto a testa piatta"
       },
       {
         "lang": "ja",
-        "name": "マレーヤマネコ",
+        "name": "マライヤマネコ",
         "synonyms": [
+          "マレーヤマネコ",
           "フラットヘッドキャット"
         ]
       },
@@ -331,7 +344,10 @@
       },
       {
         "lang": "de",
-        "name": "Bengalkatze"
+        "name": "Bengalkatze",
+        "synonyms": [
+          "Leopardkatze"
+        ]
       },
       {
         "lang": "el",
@@ -339,7 +355,10 @@
       },
       {
         "lang": "en",
-        "name": "Leopard Cat"
+        "name": "Leopard cat",
+        "synonyms": [
+          "mainland leopard cat"
+        ]
       },
       {
         "lang": "es",
@@ -430,6 +449,10 @@
       {
         "lang": "zh-min-nan",
         "name": "石虎"
+      },
+      {
+        "lang": "ta",
+        "name": "சிறுத்தைப் பூனை"
       }
     ]
   }

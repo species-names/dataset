@@ -1,14 +1,10 @@
 [
   {
-    "scientific_name": "Acinonyx pardinensis",
-    "common_names": []
-  },
-  {
     "scientific_name": "Acinonyx intermedius",
     "common_names": []
   },
   {
-    "scientific_name": "Acinonyx aicha",
+    "scientific_name": "Acinonyx pardinensis",
     "common_names": []
   },
   {
@@ -157,10 +153,6 @@
         "name": "치타"
       },
       {
-        "lang": "la",
-        "name": "Acinonyx"
-      },
-      {
         "lang": "lb",
         "name": "Gepard"
       },
@@ -255,5 +247,9 @@
         "name": "猎豹"
       }
     ]
+  },
+  {
+    "scientific_name": "Acinonyx aicha",
+    "common_names": []
   }
 ]

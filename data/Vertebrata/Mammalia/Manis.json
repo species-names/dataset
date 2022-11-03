@@ -90,6 +90,52 @@
     ]
   },
   {
+    "scientific_name": "Manis palaeojavanica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Manis lydekkeri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Manis javanica",
+    "common_names": [
+      {
+        "lang": "hu",
+        "name": "Jávai tobzoska"
+      },
+      {
+        "lang": "km",
+        "name": "ពង្រួល"
+      },
+      {
+        "lang": "pl",
+        "name": "Pangolin jawajski"
+      },
+      {
+        "lang": "ms",
+        "name": "Tenggiling"
+      },
+      {
+        "lang": "nl",
+        "name": "Javaans schubdier"
+      },
+      {
+        "lang": "th",
+        "name": "ลิ่น",
+        "synonyms": [
+          "นิ่ม",
+          "ลิ่นซุนดา",
+          "นิ่มซุนดา"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Manis hungarica",
+    "common_names": []
+  },
+  {
     "scientific_name": "Manis culionensis",
     "common_names": [
       {
@@ -130,40 +176,6 @@
       {
         "lang": "sv",
         "name": "Indisk myrkott"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Manis javanica",
-    "common_names": [
-      {
-        "lang": "hu",
-        "name": "Jávai tobzoska"
-      },
-      {
-        "lang": "km",
-        "name": "ពង្រួល"
-      },
-      {
-        "lang": "pl",
-        "name": "Pangolin jawajski"
-      },
-      {
-        "lang": "ms",
-        "name": "Tenggiling"
-      },
-      {
-        "lang": "nl",
-        "name": "Javaans schubdier"
-      },
-      {
-        "lang": "th",
-        "name": "ลิ่น",
-        "synonyms": [
-          "นิ่ม",
-          "ลิ่นซุนดา",
-          "นิ่มซุนดา"
-        ]
       }
     ]
   }

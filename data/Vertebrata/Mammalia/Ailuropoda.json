@@ -1,0 +1,420 @@
+[
+  {
+    "scientific_name": "Ailuropoda wulingshanensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ailuropoda microta",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dwarf Panda",
+        "synonyms": [
+          "Dwarf Giant Panda",
+          "Pygmy Giant Panda"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "小種大熊貓",
+        "synonyms": [
+          "小種貓熊",
+          "小型大熊貓"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ailuropoda melanoleuca",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Panda"
+      },
+      {
+        "lang": "ar",
+        "name": "باندا عملاقة"
+      },
+      {
+        "lang": "av",
+        "name": "КӀудияб панда"
+      },
+      {
+        "lang": "az",
+        "name": "Böyük panda"
+      },
+      {
+        "lang": "be",
+        "name": "Вялікая панда"
+      },
+      {
+        "lang": "bg",
+        "name": "Голяма панда"
+      },
+      {
+        "lang": "bn",
+        "name": "পান্ডা"
+      },
+      {
+        "lang": "bo",
+        "name": "དོམ་ཁྲ།"
+      },
+      {
+        "lang": "br",
+        "name": "Panda bras"
+      },
+      {
+        "lang": "bs",
+        "name": "Panda"
+      },
+      {
+        "lang": "ca",
+        "name": "Panda gegant"
+      },
+      {
+        "lang": "ceb",
+        "name": "Panda"
+      },
+      {
+        "lang": "cs",
+        "name": "Panda velká"
+      },
+      {
+        "lang": "cy",
+        "name": "Panda Mawr"
+      },
+      {
+        "lang": "da",
+        "name": "Panda"
+      },
+      {
+        "lang": "de",
+        "name": "Großer Panda"
+      },
+      {
+        "lang": "dsb",
+        "name": "Wjeliki panda"
+      },
+      {
+        "lang": "en",
+        "name": "Giant Panda"
+      },
+      {
+        "lang": "eo",
+        "name": "Granda pando"
+      },
+      {
+        "lang": "es",
+        "name": "Panda gigante"
+      },
+      {
+        "lang": "et",
+        "name": "Hiidpanda"
+      },
+      {
+        "lang": "eu",
+        "name": "Panda handi"
+      },
+      {
+        "lang": "fa",
+        "name": "پاندا"
+      },
+      {
+        "lang": "fi",
+        "name": "Isopanda"
+      },
+      {
+        "lang": "fr",
+        "name": "Panda géant"
+      },
+      {
+        "lang": "frp",
+        "name": "Pandâ g·èant"
+      },
+      {
+        "lang": "fy",
+        "name": "Reuzepanda"
+      },
+      {
+        "lang": "ga",
+        "name": "Ollphanda"
+      },
+      {
+        "lang": "gag",
+        "name": "Büük panda"
+      },
+      {
+        "lang": "gan",
+        "name": "熊貓"
+      },
+      {
+        "lang": "gl",
+        "name": "Oso panda"
+      },
+      {
+        "lang": "hak",
+        "name": "Thai-yùng-meu"
+      },
+      {
+        "lang": "haw",
+        "name": "Pea kina"
+      },
+      {
+        "lang": "he",
+        "name": "פנדה ענק"
+      },
+      {
+        "lang": "hr",
+        "name": "Veliki panda"
+      },
+      {
+        "lang": "hsb",
+        "name": "Wulki panda"
+      },
+      {
+        "lang": "hu",
+        "name": "Óriáspanda"
+      },
+      {
+        "lang": "hy",
+        "name": "Մեծ պանդա"
+      },
+      {
+        "lang": "id",
+        "name": "Panda"
+      },
+      {
+        "lang": "io",
+        "name": "Pando"
+      },
+      {
+        "lang": "is",
+        "name": "Pandabjörn"
+      },
+      {
+        "lang": "it",
+        "name": "Panda gigante"
+      },
+      {
+        "lang": "ja",
+        "name": "ジャイアントパンダ"
+      },
+      {
+        "lang": "jbo",
+        "name": "cionmau la barda"
+      },
+      {
+        "lang": "jv",
+        "name": "Panda"
+      },
+      {
+        "lang": "ka",
+        "name": "ბამბუკის დათვი"
+      },
+      {
+        "lang": "kk",
+        "name": "Үлкен панда"
+      },
+      {
+        "lang": "ko",
+        "name": "대왕판다"
+      },
+      {
+        "lang": "koi",
+        "name": "Ыджыт панда"
+      },
+      {
+        "lang": "lbe",
+        "name": "Хъунасса панда"
+      },
+      {
+        "lang": "lez",
+        "name": "Еке панда"
+      },
+      {
+        "lang": "lt",
+        "name": "Didžioji panda"
+      },
+      {
+        "lang": "lv",
+        "name": "Lielā panda"
+      },
+      {
+        "lang": "mhr",
+        "name": "Кугу панда"
+      },
+      {
+        "lang": "mk",
+        "name": "Џиновска панда"
+      },
+      {
+        "lang": "ml",
+        "name": "ഭീമൻ പാൻഡ"
+      },
+      {
+        "lang": "mn",
+        "name": "Аварга хулсны баавгай"
+      },
+      {
+        "lang": "mr",
+        "name": "प्रचंड पांडा"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кого панда"
+      },
+      {
+        "lang": "ms",
+        "name": "Panda Gergasi"
+      },
+      {
+        "lang": "nah",
+        "name": "Pandatlācamāyeh"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Reuznpanda"
+      },
+      {
+        "lang": "ne",
+        "name": "पाण्डा"
+      },
+      {
+        "lang": "nl",
+        "name": "Reuzenpanda"
+      },
+      {
+        "lang": "nn",
+        "name": "Panda"
+      },
+      {
+        "lang": "no",
+        "name": "Panda"
+      },
+      {
+        "lang": "nv",
+        "name": "Shash łizhin dóó łigaígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Panda wielka"
+      },
+      {
+        "lang": "pnb",
+        "name": "دیوقامت پانڈا"
+      },
+      {
+        "lang": "pt",
+        "name": "Panda-gigante"
+      },
+      {
+        "lang": "qu",
+        "name": "Hatun panda"
+      },
+      {
+        "lang": "rm",
+        "name": "Panda grond"
+      },
+      {
+        "lang": "ro",
+        "name": "Ursul panda"
+      },
+      {
+        "lang": "ru",
+        "name": "Большая панда"
+      },
+      {
+        "lang": "sah",
+        "name": "Улахан панда"
+      },
+      {
+        "lang": "scn",
+        "name": "Panda gicanti"
+      },
+      {
+        "lang": "sh",
+        "name": "Veliki panda"
+      },
+      {
+        "lang": "sk",
+        "name": "Panda veľká"
+      },
+      {
+        "lang": "sl",
+        "name": "Orjaški panda"
+      },
+      {
+        "lang": "sr",
+        "name": "Џиновска панда"
+      },
+      {
+        "lang": "su",
+        "name": "Panda"
+      },
+      {
+        "lang": "sv",
+        "name": "Jättepanda"
+      },
+      {
+        "lang": "sw",
+        "name": "Panda Mkubwa"
+      },
+      {
+        "lang": "ta",
+        "name": "பாண்டா"
+      },
+      {
+        "lang": "th",
+        "name": "แพนด้ายักษ์"
+      },
+      {
+        "lang": "tl",
+        "name": "Dambuhalang panda"
+      },
+      {
+        "lang": "tr",
+        "name": "Dev panda"
+      },
+      {
+        "lang": "udm",
+        "name": "Бадӟым панда"
+      },
+      {
+        "lang": "ug",
+        "name": "مۈشۈكئېيىق"
+      },
+      {
+        "lang": "uk",
+        "name": "Велика панда"
+      },
+      {
+        "lang": "ur",
+        "name": "دیوقامت پانڈا"
+      },
+      {
+        "lang": "vi",
+        "name": "Gấu trúc lớn"
+      },
+      {
+        "lang": "wuu",
+        "name": "大熊猫"
+      },
+      {
+        "lang": "zh",
+        "name": "大熊猫"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Niau-hîm"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "熊貓"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ailuropoda baconi",
+    "common_names": []
+  }
+]

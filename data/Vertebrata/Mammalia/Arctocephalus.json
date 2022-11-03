@@ -1,0 +1,204 @@
+[
+  {
+    "scientific_name": "Arctocephalus tropicalis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Subantarktischer Seebär"
+      },
+      {
+        "lang": "en",
+        "name": "Subantarctic Fur Seal"
+      },
+      {
+        "lang": "es",
+        "name": "León marino subantártico"
+      },
+      {
+        "lang": "pt",
+        "name": "Lobo-marinho-subantártico"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Arctocephalus townsendi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Guadalupe Fur Seal",
+        "synonyms": [
+          "Lower Californian Fur Seal"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Lobo Marino de Guadalupe"
+      },
+      {
+        "lang": "pl",
+        "name": "Kotik meksykański"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Arctocephalus pusillus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Afro-Australian Fur Seal",
+        "synonyms": [
+          "Brown Fur Seal",
+          "Cape Fur Seal",
+          "South African Fur Seal"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Lobo marino de El Cabo o Australiano"
+      },
+      {
+        "lang": "fi",
+        "name": "Afrikanmerikarhu"
+      },
+      {
+        "lang": "hu",
+        "name": "Dél-afrikai medvefóka"
+      },
+      {
+        "lang": "pl",
+        "name": "uchatka karłowata",
+        "synonyms": [
+          "kotik afrykański"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Sydafrikansk pälssäl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Arctocephalus philippii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Juan Fernandez Fur Seal"
+      },
+      {
+        "lang": "es",
+        "name": "Lobo marino de Juan Fernández o de Chile"
+      },
+      {
+        "lang": "pl",
+        "name": "Kotik chilijski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Arctocephalus gazella",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Kerguelen-Seebär"
+      },
+      {
+        "lang": "en",
+        "name": "Antarctic Fur Seal"
+      },
+      {
+        "lang": "es",
+        "name": "Lobo marino antártico"
+      },
+      {
+        "lang": "pl",
+        "name": "uchatka antarktyczna"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Arctocephalus galapagoensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Galapagos Fur Seal"
+      },
+      {
+        "lang": "es",
+        "name": "Lobo marino de Las Galápagos"
+      },
+      {
+        "lang": "ja",
+        "name": "ガラパゴスオットセイ"
+      },
+      {
+        "lang": "pl",
+        "name": "Kotik galapagoski"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Arctocephalus forsteri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "New Zealand Fur Seal",
+        "synonyms": [
+          "Antipodean Fur Seal",
+          "Australasian Fur Seal",
+          "Black Fur Seal",
+          "South Australian Fur Seal",
+          "Long-nosed fur seal"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Lobo marino de Nueva Zelanda"
+      },
+      {
+        "lang": "pl",
+        "name": "Kotik nowozelandzki"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Arctocephalus australis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Südamerikanischer Seebär"
+      },
+      {
+        "lang": "en",
+        "name": "South American Fur Seal"
+      },
+      {
+        "lang": "es",
+        "name": "Lobo Marino Fino",
+        "synonyms": [
+          "Lobo Marino de Dos Pelos",
+          "Lobo Fino Sudamericano",
+          "Lobo Fino Austral",
+          "Lobo Marino Peletero",
+          "Lobo Marino Sudamericano",
+          "Otaria de Dos Pelos",
+          "Oso Marino"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Dél-amerikai medvefóka"
+      },
+      {
+        "lang": "pl",
+        "name": "Kotik południowoamerykański",
+        "synonyms": [
+          "kot morski"
+        ]
+      },
+      {
+        "lang": "pt",
+        "name": "Lobo-marinho-sulamericano"
+      }
+    ]
+  }
+]

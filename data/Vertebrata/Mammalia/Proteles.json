@@ -7,6 +7,10 @@
     "scientific_name": "Proteles cristata",
     "common_names": [
       {
+        "lang": "bar",
+        "name": "Erdwóif"
+      },
+      {
         "lang": "be",
         "name": "Воўк земляны"
       },
@@ -27,12 +31,28 @@
         "name": "Tsiibethüään"
       },
       {
+        "lang": "fr",
+        "name": "Protèle"
+      },
+      {
         "lang": "he",
         "name": "צבועון הרעמה"
       },
       {
+        "lang": "ja",
+        "name": "アードウルフ"
+      },
+      {
         "lang": "ko",
         "name": "아드울프"
+      },
+      {
+        "lang": "pl",
+        "name": "Protel",
+        "synonyms": [
+          "protel grzywiasty",
+          "hiena grzywiasta"
+        ]
       }
     ]
   }

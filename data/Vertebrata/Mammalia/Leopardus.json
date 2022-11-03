@@ -118,12 +118,23 @@
         ]
       },
       {
+        "lang": "it",
+        "name": "Gatto tigre"
+      },
+      {
         "lang": "ja",
         "name": "ジャガーネコ"
       },
       {
         "lang": "nl",
         "name": "Tijgerkat"
+      },
+      {
+        "lang": "pl",
+        "name": "Ocelot tygrysi",
+        "synonyms": [
+          "Kot tygrysi"
+        ]
       },
       {
         "lang": "pt",
@@ -136,16 +147,16 @@
       {
         "lang": "tr",
         "name": "Kaplan kedisi"
-      },
-      {
-        "lang": "pl",
-        "name": "Kot tygrysi"
       }
     ]
   },
   {
     "scientific_name": "Leopardus pardalis",
     "common_names": [
+      {
+        "lang": "ast",
+        "name": "Ocelote"
+      },
       {
         "lang": "bg",
         "name": "Оцелот"
@@ -169,6 +180,10 @@
       {
         "lang": "es",
         "name": "Ocelote"
+      },
+      {
+        "lang": "fi",
+        "name": "Oselotti"
       },
       {
         "lang": "fr",
@@ -201,6 +216,10 @@
       {
         "lang": "lt",
         "name": "Ocelotas"
+      },
+      {
+        "lang": "nah",
+        "name": "Tlalocelotl"
       },
       {
         "lang": "nl",
@@ -242,11 +261,15 @@
       {
         "lang": "es",
         "name": "Gato de las pampas"
+      },
+      {
+        "lang": "ja",
+        "name": "パンパスネコ"
       }
     ]
   },
   {
-    "scientific_name": "Leopardus jacobitus",
+    "scientific_name": "Leopardus jacobita",
     "common_names": [
       {
         "lang": "be",
@@ -266,15 +289,27 @@
       },
       {
         "lang": "es",
-        "name": "Gato Andino"
+        "name": "Gato andino"
+      },
+      {
+        "lang": "fi",
+        "name": "Andienkissa"
       },
       {
         "lang": "fr",
         "name": "Chat des Andes"
       },
       {
+        "lang": "it",
+        "name": "Gatto delle Ande"
+      },
+      {
         "lang": "ja",
         "name": "アンデスネコ"
+      },
+      {
+        "lang": "pl",
+        "name": "Ocelot andyjski"
       },
       {
         "lang": "pt",
@@ -283,10 +318,6 @@
       {
         "lang": "tr",
         "name": "And kedisi"
-      },
-      {
-        "lang": "fi",
-        "name": "Andienkissa"
       }
     ]
   },
@@ -304,6 +335,10 @@
           "Southern Tiger Cat",
           "Southern Little Spotted Cat"
         ]
+      },
+      {
+        "lang": "ja",
+        "name": "サザンタイガーキャット"
       },
       {
         "lang": "pt-br",
@@ -352,10 +387,6 @@
       {
         "lang": "ja",
         "name": "コドコド"
-      },
-      {
-        "lang": "la",
-        "name": "Guigna"
       },
       {
         "lang": "lt",
@@ -427,8 +458,15 @@
         "name": "Chat de Geoffroy"
       },
       {
+        "lang": "it",
+        "name": "Gatto di Geoffroy"
+      },
+      {
         "lang": "ja",
-        "name": "ジョフロイネコ"
+        "name": "ジョフロイネコ",
+        "synonyms": [
+          "ジョフロワネコ"
+        ]
       },
       {
         "lang": "nl",
@@ -440,7 +478,10 @@
       },
       {
         "lang": "pl",
-        "name": "Kot argentyński"
+        "name": "Ocelot argentyński",
+        "synonyms": [
+          "Kot argentyński"
+        ]
       },
       {
         "lang": "pt",
@@ -472,6 +513,10 @@
         "name": "Kočka pampová"
       },
       {
+        "lang": "de",
+        "name": "Pampaskatze"
+      },
+      {
         "lang": "en",
         "name": "Pampas Cat",
         "synonyms": [
@@ -488,6 +533,10 @@
         "synonyms": [
           "Colocolo"
         ]
+      },
+      {
+        "lang": "ja",
+        "name": "コロコロ"
       },
       {
         "lang": "pt",
@@ -516,6 +565,10 @@
       {
         "lang": "fr",
         "name": "Chat du Pantanal"
+      },
+      {
+        "lang": "ja",
+        "name": "パンタナルネコ"
       },
       {
         "lang": "pt",

@@ -9,6 +9,18 @@
       {
         "lang": "en",
         "name": "Giant Forest Genet"
+      },
+      {
+        "lang": "es",
+        "name": "Gineta gigante"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette géante"
+      },
+      {
+        "lang": "ja",
+        "name": "ジャイアントジェネット"
       }
     ]
   },
@@ -26,6 +38,18 @@
       {
         "lang": "en",
         "name": "Cape genet"
+      },
+      {
+        "lang": "es",
+        "name": "Gineta manchada"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette tigrine"
+      },
+      {
+        "lang": "ja",
+        "name": "ケープジェネット"
       },
       {
         "lang": "pl",
@@ -46,6 +70,18 @@
         "synonyms": [
           "Haussa Genet"
         ]
+      },
+      {
+        "lang": "es",
+        "name": "Gineta Hausa"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette de Thierry"
+      },
+      {
+        "lang": "ja",
+        "name": "ジェネットモドキ"
       }
     ]
   },
@@ -59,6 +95,18 @@
       {
         "lang": "en",
         "name": "Servaline Genet"
+      },
+      {
+        "lang": "es",
+        "name": "Gineta servalina"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette servaline"
+      },
+      {
+        "lang": "ja",
+        "name": "サーバルジェネット"
       }
     ]
   },
@@ -72,6 +120,18 @@
       {
         "lang": "en",
         "name": "King Genet"
+      },
+      {
+        "lang": "es",
+        "name": "Gineta real"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette royale"
+      },
+      {
+        "lang": "ja",
+        "name": "ダイオウジェネット"
       }
     ]
   },
@@ -85,6 +145,18 @@
       {
         "lang": "en",
         "name": "Pardine Genet"
+      },
+      {
+        "lang": "es",
+        "name": "Gineta pardina"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette pardine"
+      },
+      {
+        "lang": "ja",
+        "name": "モリジェネット"
       }
     ]
   },
@@ -93,11 +165,23 @@
     "common_names": [
       {
         "lang": "de",
-        "name": "Nördliche Großfleckgenette"
+        "name": "Großfleckgenette"
       },
       {
         "lang": "en",
         "name": "Rusty-spotted Genet"
+      },
+      {
+        "lang": "es",
+        "name": "Gineta de manchas grandes"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette à grandes taches"
+      },
+      {
+        "lang": "ja",
+        "name": "オオブチジェネット"
       }
     ]
   },
@@ -105,8 +189,24 @@
     "scientific_name": "Genetta johnstoni",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Liberia-Genette"
+      },
+      {
         "lang": "en",
         "name": "Johnston's Genet"
+      },
+      {
+        "lang": "es",
+        "name": "Gineta de Nimba"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette de Johnston"
+      },
+      {
+        "lang": "ja",
+        "name": "ジョンストンジェネット"
       }
     ]
   },
@@ -118,6 +218,10 @@
         "name": "Kleinkolmuskejaatkat"
       },
       {
+        "lang": "an",
+        "name": "Chineta"
+      },
+      {
         "lang": "bar",
         "name": "Eirópäische Ginsterkotz"
       },
@@ -127,10 +231,7 @@
       },
       {
         "lang": "ca",
-        "name": "Gat mesquer",
-        "synonyms": [
-          "Geneta comuna"
-        ]
+        "name": "Geneta comuna"
       },
       {
         "lang": "cs",
@@ -146,10 +247,7 @@
       },
       {
         "lang": "es",
-        "name": "Gineta",
-        "synonyms": [
-          "Jineta"
-        ]
+        "name": "Gineta"
       },
       {
         "lang": "eo",
@@ -184,6 +282,10 @@
         "name": "Genetta"
       },
       {
+        "lang": "ja",
+        "name": "ヨーロッパジェネット"
+      },
+      {
         "lang": "lt",
         "name": "Paprastoji geneta"
       },
@@ -201,10 +303,7 @@
       },
       {
         "lang": "pt",
-        "name": "Gineta",
-        "synonyms": [
-          "Geneta"
-        ]
+        "name": "Gineta"
       },
       {
         "lang": "ru",
@@ -234,6 +333,18 @@
       {
         "lang": "en",
         "name": "Crested Genet"
+      },
+      {
+        "lang": "es",
+        "name": "Gineta crestada"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette à crête"
+      },
+      {
+        "lang": "ja",
+        "name": "タテガミジェネット"
       }
     ]
   },
@@ -241,8 +352,24 @@
     "scientific_name": "Genetta bourloni",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Bourlon-Genette"
+      },
+      {
         "lang": "en",
         "name": "Bourlon's Genet"
+      },
+      {
+        "lang": "es",
+        "name": "Gineta guineana"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette de Bourlon"
+      },
+      {
+        "lang": "ja",
+        "name": "ブルドンジェネット"
       }
     ]
   },
@@ -258,6 +385,18 @@
         "name": "Angolan Genet"
       },
       {
+        "lang": "es",
+        "name": "Gineta angoleña"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette d'Angola"
+      },
+      {
+        "lang": "ja",
+        "name": "アンゴラジェネット"
+      },
+      {
         "lang": "pl",
         "name": "Żeneta angolska"
       }
@@ -269,6 +408,22 @@
       {
         "lang": "de",
         "name": "Äthiopien-Genette"
+      },
+      {
+        "lang": "en",
+        "name": "Abyssinian Genet"
+      },
+      {
+        "lang": "es",
+        "name": "Gineta abisinia"
+      },
+      {
+        "lang": "fr",
+        "name": "Genette d'Éthiopie"
+      },
+      {
+        "lang": "ja",
+        "name": "アビシニアジェネット"
       }
     ]
   }

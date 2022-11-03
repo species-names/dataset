@@ -107,16 +107,20 @@
     "scientific_name": "Zaglossus attenboroughi",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Attenborough-Langschnabeligel"
+      },
+      {
         "lang": "en",
-        "name": "Sir David's Long-beaked Echidna",
-        "synonyms": [
-          "Attenborough's Long-beaked Echidna",
-          "Cyclops Long-beaked Echidna"
-        ]
+        "name": "Attenborough's Long-beaked Echidna"
       },
       {
         "lang": "es",
         "name": "Equidna de hocico largo de Attenborough"
+      },
+      {
+        "lang": "fr",
+        "name": "Échidné d'Attenborough"
       },
       {
         "lang": "ja",
@@ -124,10 +128,7 @@
       },
       {
         "lang": "pt",
-        "name": "Equidna-de-attenborough",
-        "synonyms": [
-          "Equidna-de-bico-longo-das-cíclopes"
-        ]
+        "name": "Equidna-de-attenborough"
       },
       {
         "lang": "uk",

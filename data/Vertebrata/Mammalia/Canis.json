@@ -73,7 +73,7 @@
       },
       {
         "lang": "pt",
-        "name": "Lobo etíope"
+        "name": "Lobo-etíope"
       },
       {
         "lang": "sv",
@@ -173,23 +173,60 @@
     "scientific_name": "Canis lupus",
     "common_names": [
       {
+        "lang": "aa",
+        "name": "Dalehö"
+      },
+      {
+        "lang": "ab",
+        "name": "Абгаду"
+      },
+      {
+        "lang": "af",
+        "name": "Wolf"
+      },
+      {
+        "lang": "am",
+        "name": "ተኵላ"
+      },
+      {
+        "lang": "an",
+        "name": "Lupo"
+      },
+      {
         "lang": "ang",
-        "name": "Wulf"
+        "name": "Ƿulf"
       },
       {
         "lang": "ar",
         "name": "ذئب رمادي، ذئب"
       },
       {
+        "lang": "arc",
+        "name": "ܕܐܒܐ"
+      },
+      {
+        "lang": "as",
+        "name": "বাঘ"
+      },
+      {
         "lang": "ast",
         "name": "Llobu"
       },
       {
+        "lang": "av",
+        "name": "БацӀ"
+      },
+      {
+        "lang": "az",
+        "name": "Canavar"
+      },
+      {
+        "lang": "ba",
+        "name": "Бүре"
+      },
+      {
         "lang": "bar",
-        "name": "Wuif",
-        "synonyms": [
-          "Wóif"
-        ]
+        "name": "Wuif"
       },
       {
         "lang": "be",
@@ -200,20 +237,60 @@
         "name": "Вълк"
       },
       {
+        "lang": "br",
+        "name": "Bleiz"
+      },
+      {
         "lang": "bs",
-        "name": "Vuk"
+        "name": "Vuk - Вук"
+      },
+      {
+        "lang": "bxr",
+        "name": "Шоно"
       },
       {
         "lang": "ca",
         "name": "Llop"
       },
       {
+        "lang": "ce",
+        "name": "Борз"
+      },
+      {
+        "lang": "cho",
+        "name": "Nashoba"
+      },
+      {
+        "lang": "chr",
+        "name": "ᏩᏯ"
+      },
+      {
         "lang": "chy",
         "name": "Hó'nehe"
       },
       {
+        "lang": "co",
+        "name": "Lupu"
+      },
+      {
+        "lang": "cr",
+        "name": "Mahiihkan - ᒪᐦᐃᐦᑲᓐ"
+      },
+      {
+        "lang": "crh",
+        "name": "Борю"
+      },
+      {
         "lang": "cs",
         "name": "Vlk obecný"
+      },
+      {
+        "lang": "cu",
+        "name": "Влькъ - Ⰲⰾⱐⰽⱏ"
+      },
+      {
+        "lang": "cv",
+        "name": "Кашкӑр"
       },
       {
         "lang": "cy",
@@ -228,27 +305,36 @@
         "name": "Wolf"
       },
       {
-        "lang": "nv",
-        "name": "Mąʼiitsoh"
+        "lang": "diq",
+        "name": "Verg"
+      },
+      {
+        "lang": "dsb",
+        "name": "Wjelk"
+      },
+      {
+        "lang": "dv",
+        "name": "ހިޔަޅު"
       },
       {
         "lang": "el",
         "name": "Λύκος"
       },
       {
+        "lang": "eml",
+        "name": "Lauv"
+      },
+      {
         "lang": "en",
-        "name": "Wolf",
-        "synonyms": [
-          "Gray Wolf",
-          "Grey Wolf"
-        ]
+        "name": "Grey Wolf"
+      },
+      {
+        "lang": "en-us",
+        "name": "Gray Wolf"
       },
       {
         "lang": "eo",
-        "name": "Lupo",
-        "synonyms": [
-          "griza lupo"
-        ]
+        "name": "Lupo"
       },
       {
         "lang": "es",
@@ -256,11 +342,7 @@
       },
       {
         "lang": "et",
-        "name": "Hunt",
-        "synonyms": [
-          "Hallhunt",
-          "Susi"
-        ]
+        "name": "Hunt"
       },
       {
         "lang": "eu",
@@ -272,14 +354,31 @@
       },
       {
         "lang": "fi",
-        "name": "Susi",
-        "synonyms": [
-          "harmaasusi"
-        ]
+        "name": "Susi"
+      },
+      {
+        "lang": "fiu-vro",
+        "name": "Susi"
+      },
+      {
+        "lang": "fo",
+        "name": "Úlvur"
       },
       {
         "lang": "fr",
         "name": "Loup gris"
+      },
+      {
+        "lang": "frp",
+        "name": "Lop"
+      },
+      {
+        "lang": "fur",
+        "name": "Lôf"
+      },
+      {
+        "lang": "ga",
+        "name": "Faolchú"
       },
       {
         "lang": "gd",
@@ -294,23 +393,56 @@
         "name": "𐍅𐌿𐌻𐍆𐍃"
       },
       {
+        "lang": "gu",
+        "name": "વરુ"
+      },
+      {
+        "lang": "hak",
+        "name": "狼"
+      },
+      {
+        "lang": "haw",
+        "name": "ʻĪlio hae"
+      },
+      {
         "lang": "he",
         "name": "זאב מצוי"
       },
       {
+        "lang": "hi",
+        "name": "भेड़िया"
+      },
+      {
         "lang": "hr",
-        "name": "Sivi vuk"
+        "name": "Sivi Vuk"
+      },
+      {
+        "lang": "hsb",
+        "name": "Wjelk"
       },
       {
         "lang": "ht",
-        "name": "Chen"
+        "name": "Lou"
       },
       {
         "lang": "hu",
-        "name": "Szürke farkas",
-        "synonyms": [
-          "farkas"
-        ]
+        "name": "Szürke farkas"
+      },
+      {
+        "lang": "hy",
+        "name": "Գայլ"
+      },
+      {
+        "lang": "ia",
+        "name": "Lupo"
+      },
+      {
+        "lang": "id",
+        "name": "Serigala"
+      },
+      {
+        "lang": "ik",
+        "name": "Amabuq"
       },
       {
         "lang": "io",
@@ -322,15 +454,35 @@
       },
       {
         "lang": "it",
-        "name": "Lupo"
+        "name": "Lupo grigio"
+      },
+      {
+        "lang": "iu",
+        "name": "Amaruq - ᐊᒪᕈᖅ"
       },
       {
         "lang": "ja",
         "name": "オオカミ"
       },
       {
+        "lang": "ka",
+        "name": "მგელი - ႫႢႤႪႨ"
+      },
+      {
+        "lang": "kaa",
+        "name": "Qasqır"
+      },
+      {
         "lang": "kk",
         "name": "Қасқыр"
+      },
+      {
+        "lang": "km",
+        "name": "វនសុនខ"
+      },
+      {
+        "lang": "kn",
+        "name": "ತೋಳ"
       },
       {
         "lang": "ko",
@@ -338,15 +490,107 @@
       },
       {
         "lang": "ku",
-        "name": "Gur"
+        "name": "گور"
+      },
+      {
+        "lang": "kv",
+        "name": "Кӧин"
+      },
+      {
+        "lang": "kw",
+        "name": "Blyth"
+      },
+      {
+        "lang": "ky",
+        "name": "Карышкыр"
       },
       {
         "lang": "la",
         "name": "Lupus"
       },
       {
+        "lang": "lad",
+        "name": "Lovo"
+      },
+      {
+        "lang": "lb",
+        "name": "Wollef"
+      },
+      {
+        "lang": "li",
+        "name": "Wouf"
+      },
+      {
+        "lang": "lij",
+        "name": "Lô"
+      },
+      {
+        "lang": "lmo",
+        "name": "Luf"
+      },
+      {
+        "lang": "lo",
+        "name": "ຫມາປ່າ"
+      },
+      {
         "lang": "lt",
         "name": "Pilkasis vilkas"
+      },
+      {
+        "lang": "lv",
+        "name": "Vilks"
+      },
+      {
+        "lang": "mdf",
+        "name": "Врьгаз"
+      },
+      {
+        "lang": "mg",
+        "name": "Amboadia"
+      },
+      {
+        "lang": "mi",
+        "name": "Wuruhi"
+      },
+      {
+        "lang": "mk",
+        "name": "Волк"
+      },
+      {
+        "lang": "ml",
+        "name": "ചെന്നായ്"
+      },
+      {
+        "lang": "mn",
+        "name": "ᠴᠢᠨᠤ᠎ᠠ - Чоно"
+      },
+      {
+        "lang": "mo",
+        "name": "Lup"
+      },
+      {
+        "lang": "mr",
+        "name": "लांडगा"
+      },
+      {
+        "lang": "ms",
+        "name": "Serigala - سريڬالا"
+      },
+      {
+        "lang": "mt",
+        "name": "Lupu"
+      },
+      {
+        "lang": "mus",
+        "name": "Yvhv"
+      },
+      {
+        "lang": "my",
+        "name": "ဝံပုလွေ"
+      },
+      {
+        "lang": "myv",
+        "name": "Верьгиз"
       },
       {
         "lang": "nah",
@@ -365,40 +609,96 @@
         "name": "Gråulv"
       },
       {
+        "lang": "nov",
+        "name": "Lupe"
+      },
+      {
+        "lang": "nrm",
+        "name": "Loup"
+      },
+      {
+        "lang": "nv",
+        "name": "Mąʼiitsoh"
+      },
+      {
         "lang": "oc",
         "name": "Lop"
       },
       {
+        "lang": "os",
+        "name": "Бирӕгъ"
+      },
+      {
+        "lang": "pa",
+        "name": "ਬਘਿਆੜ"
+      },
+      {
         "lang": "pl",
-        "name": "wilk"
+        "name": "Wilk szary"
+      },
+      {
+        "lang": "ps",
+        "name": "لېوه"
       },
       {
         "lang": "pt",
         "name": "Lobo"
       },
       {
+        "lang": "qu",
+        "name": "Lupu"
+      },
+      {
+        "lang": "rm",
+        "name": "Luf"
+      },
+      {
         "lang": "ro",
         "name": "Lup cenuşiu"
+      },
+      {
+        "lang": "roa-rup",
+        "name": "Lup"
       },
       {
         "lang": "ru",
         "name": "Волк"
       },
       {
-        "lang": "sco",
-        "name": "Wouf"
+        "lang": "sa",
+        "name": "वृकः"
+      },
+      {
+        "lang": "sah",
+        "name": "Бөрө"
+      },
+      {
+        "lang": "sc",
+        "name": "Lupu"
       },
       {
         "lang": "scn",
         "name": "Lupu"
       },
       {
-        "lang": "sh",
-        "name": "Vuk"
+        "lang": "sco",
+        "name": "Wolf"
       },
       {
-        "lang": "simple",
-        "name": "Wolf"
+        "lang": "sd",
+        "name": "بگھڙ"
+      },
+      {
+        "lang": "se",
+        "name": "Gumpe"
+      },
+      {
+        "lang": "sh",
+        "name": "Вук - Vuk"
+      },
+      {
+        "lang": "si",
+        "name": "වෘකයා"
       },
       {
         "lang": "sk",
@@ -409,39 +709,115 @@
         "name": "Volk"
       },
       {
-        "lang": "cu",
-        "name": "Влъкъ"
+        "lang": "so",
+        "name": "Yey"
+      },
+      {
+        "lang": "sq",
+        "name": "Ujk"
       },
       {
         "lang": "sr",
-        "name": "Вук"
+        "name": "Вук - Vuk"
       },
       {
         "lang": "sv",
         "name": "Varg"
       },
       {
+        "lang": "szl",
+        "name": "Wolf"
+      },
+      {
         "lang": "ta",
         "name": "ஓநாய்"
+      },
+      {
+        "lang": "te",
+        "name": "తోడేలు"
+      },
+      {
+        "lang": "tg",
+        "name": "Гург"
+      },
+      {
+        "lang": "th",
+        "name": "หมาป่า"
+      },
+      {
+        "lang": "ti",
+        "name": "ተኹላ"
+      },
+      {
+        "lang": "tl",
+        "name": "Lobo"
       },
       {
         "lang": "tr",
         "name": "Kurt"
       },
       {
+        "lang": "tt",
+        "name": "Бүре"
+      },
+      {
+        "lang": "ty",
+        "name": "Ruto"
+      },
+      {
+        "lang": "udm",
+        "name": "Кион"
+      },
+      {
+        "lang": "ug",
+        "name": "بۆرە"
+      },
+      {
         "lang": "uk",
         "name": "Вовк"
+      },
+      {
+        "lang": "ur",
+        "name": "بھیڑیا"
+      },
+      {
+        "lang": "uz",
+        "name": "Bo‘ri"
       },
       {
         "lang": "vec",
         "name": "Lóvo"
       },
       {
+        "lang": "vi",
+        "name": "Chó sói"
+      },
+      {
         "lang": "wa",
         "name": "Leu"
       },
       {
+        "lang": "wuu",
+        "name": "狼"
+      },
+      {
+        "lang": "yi",
+        "name": "וואלף"
+      },
+      {
         "lang": "zh",
+        "name": "狼"
+      },
+      {
+        "lang": "zh-classical",
+        "name": "狼"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "狼"
+      },
+      {
+        "lang": "zh-yue",
         "name": "狼"
       }
     ]
@@ -547,6 +923,10 @@
       {
         "lang": "es",
         "name": "Lobo del Himalaya"
+      },
+      {
+        "lang": "pl",
+        "name": "Wilk himalajski"
       }
     ]
   },
@@ -657,6 +1037,10 @@
         "name": "ابن آوى الذهبي"
       },
       {
+        "lang": "as",
+        "name": "শিয়াল"
+      },
+      {
         "lang": "be",
         "name": "Шакал"
       },
@@ -723,7 +1107,13 @@
       },
       {
         "lang": "hu",
-        "name": "Aranysakál"
+        "name": "Aranysakál",
+        "synonyms": [
+          "nádi farkas",
+          "réti farkas",
+          "toportyán",
+          "csikasz"
+        ]
       },
       {
         "lang": "it",
@@ -765,6 +1155,10 @@
         "name": "Guldschakal"
       },
       {
+        "lang": "syl",
+        "name": "ꠢꠤꠀꠟ"
+      },
+      {
         "lang": "th",
         "name": "หมาจิ้งจอก",
         "synonyms": [
@@ -785,10 +1179,7 @@
       },
       {
         "lang": "zh",
-        "name": "亞洲胡狼",
-        "synonyms": [
-          "金豺"
-        ]
+        "name": "金豺"
       },
       {
         "lang": "bn",

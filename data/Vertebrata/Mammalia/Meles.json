@@ -1,0 +1,373 @@
+[
+  {
+    "scientific_name": "Meles meles",
+    "common_names": [
+      {
+        "lang": "kbd",
+        "name": "Уашхэ"
+      },
+      {
+        "lang": "frp",
+        "name": "Tasson"
+      },
+      {
+        "lang": "ast",
+        "name": "Melón",
+        "synonyms": [
+          "melandru"
+        ]
+      },
+      {
+        "lang": "av",
+        "name": "Бакьуч"
+      },
+      {
+        "lang": "az",
+        "name": "Porsuq"
+      },
+      {
+        "lang": "ba",
+        "name": "Бурһыҡ"
+      },
+      {
+        "lang": "be",
+        "name": "Барсук"
+      },
+      {
+        "lang": "be-x-old",
+        "name": "Барсук"
+      },
+      {
+        "lang": "bg",
+        "name": "Язовец"
+      },
+      {
+        "lang": "bo",
+        "name": "གྲུམ་བ།"
+      },
+      {
+        "lang": "br",
+        "name": "Broc'h"
+      },
+      {
+        "lang": "bxr",
+        "name": "Доргон"
+      },
+      {
+        "lang": "ca",
+        "name": "Teixó",
+        "synonyms": [
+          "Toixó"
+        ]
+      },
+      {
+        "lang": "cs",
+        "name": "Jezevec lesní"
+      },
+      {
+        "lang": "csb",
+        "name": "Jôpsc"
+      },
+      {
+        "lang": "cv",
+        "name": "Пурăш"
+      },
+      {
+        "lang": "cy",
+        "name": "Mochyn daear"
+      },
+      {
+        "lang": "da",
+        "name": "Grævling"
+      },
+      {
+        "lang": "de",
+        "name": "Europäischer Dachs"
+      },
+      {
+        "lang": "en",
+        "name": "European Badger"
+      },
+      {
+        "lang": "et",
+        "name": "Mäger"
+      },
+      {
+        "lang": "es",
+        "name": "Tejón Europeo"
+      },
+      {
+        "lang": "eo",
+        "name": "Melo"
+      },
+      {
+        "lang": "eu",
+        "name": "Azkonar"
+      },
+      {
+        "lang": "fa",
+        "name": "رودک (جانور)"
+      },
+      {
+        "lang": "fi",
+        "name": "Mäyrä",
+        "synonyms": [
+          "metsäsika"
+        ]
+      },
+      {
+        "lang": "fo",
+        "name": "Grevlingur"
+      },
+      {
+        "lang": "fr",
+        "name": "Blaireau européen"
+      },
+      {
+        "lang": "frr",
+        "name": "Daks"
+      },
+      {
+        "lang": "fy",
+        "name": "Das"
+      },
+      {
+        "lang": "ga",
+        "name": "Broc Eorpach"
+      },
+      {
+        "lang": "gd",
+        "name": "Broc"
+      },
+      {
+        "lang": "gl",
+        "name": "Teixugo"
+      },
+      {
+        "lang": "he",
+        "name": "גירית מצויה"
+      },
+      {
+        "lang": "hr",
+        "name": "Euroazijski jazavac"
+      },
+      {
+        "lang": "hu",
+        "name": "Borz"
+      },
+      {
+        "lang": "io",
+        "name": "Daxo"
+      },
+      {
+        "lang": "it",
+        "name": "Tasso"
+      },
+      {
+        "lang": "ja",
+        "name": "アナグマ"
+      },
+      {
+        "lang": "ka",
+        "name": "მაჩვი"
+      },
+      {
+        "lang": "kaa",
+        "name": "Porsıq"
+      },
+      {
+        "lang": "kk",
+        "name": "Борсық"
+      },
+      {
+        "lang": "ko",
+        "name": "오소리"
+      },
+      {
+        "lang": "ku",
+        "name": "Kurebeşk"
+      },
+      {
+        "lang": "lbe",
+        "name": "Пурссукь"
+      },
+      {
+        "lang": "lez",
+        "name": "Муьнуьгъ"
+      },
+      {
+        "lang": "li",
+        "name": "Das"
+      },
+      {
+        "lang": "lt",
+        "name": "Barsukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Āpsis"
+      },
+      {
+        "lang": "mhr",
+        "name": "Нерге"
+      },
+      {
+        "lang": "mrj",
+        "name": "Нергӹ"
+      },
+      {
+        "lang": "ms",
+        "name": "Badger Eropah"
+      },
+      {
+        "lang": "mwl",
+        "name": "Taxugo",
+        "synonyms": [
+          "Teixugo"
+        ]
+      },
+      {
+        "lang": "myv",
+        "name": "Нерьгаз"
+      },
+      {
+        "lang": "nl",
+        "name": "Europese Das"
+      },
+      {
+        "lang": "nn",
+        "name": "Grevling"
+      },
+      {
+        "lang": "no",
+        "name": "Grevling"
+      },
+      {
+        "lang": "pcd",
+        "name": "Grizàr"
+      },
+      {
+        "lang": "pl",
+        "name": "Borsuk europejski"
+      },
+      {
+        "lang": "pt",
+        "name": "Texugo-europeu"
+      },
+      {
+        "lang": "ro",
+        "name": "Viezure"
+      },
+      {
+        "lang": "ru",
+        "name": "Барсук"
+      },
+      {
+        "lang": "sco",
+        "name": "Brock"
+      },
+      {
+        "lang": "sk",
+        "name": "Jazvec lesný"
+      },
+      {
+        "lang": "sr",
+        "name": "Јазавац"
+      },
+      {
+        "lang": "stq",
+        "name": "Taks"
+      },
+      {
+        "lang": "sv",
+        "name": "Europeisk Grävling"
+      },
+      {
+        "lang": "th",
+        "name": "แบดเจอร์ยุโรป"
+      },
+      {
+        "lang": "tr",
+        "name": "Porsuk"
+      },
+      {
+        "lang": "udm",
+        "name": "Нарды"
+      },
+      {
+        "lang": "uk",
+        "name": "Борсук європейський"
+      },
+      {
+        "lang": "vep",
+        "name": "Mägr"
+      },
+      {
+        "lang": "vls",
+        "name": "Das"
+      },
+      {
+        "lang": "wa",
+        "name": "Taesson"
+      },
+      {
+        "lang": "zh",
+        "name": "獾"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Meles leucurus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Asiatischer Dachs"
+      },
+      {
+        "lang": "en",
+        "name": "Asian Badger"
+      },
+      {
+        "lang": "es",
+        "name": "Tejón Asiático"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Meles iberica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Meles anakuma",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Japanischer Dachs"
+      },
+      {
+        "lang": "en",
+        "name": "Japanese Badger"
+      },
+      {
+        "lang": "es",
+        "name": "Tejón Japonés"
+      },
+      {
+        "lang": "ja",
+        "name": "ニホンアナグマ"
+      },
+      {
+        "lang": "nl",
+        "name": "Japanse das"
+      },
+      {
+        "lang": "sp",
+        "name": "Tejón japonés"
+      },
+      {
+        "lang": "sv",
+        "name": "Japansk grävling"
+      }
+    ]
+  }
+]

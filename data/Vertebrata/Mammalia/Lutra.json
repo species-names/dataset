@@ -1,0 +1,312 @@
+[
+  {
+    "scientific_name": "Lutra sumatrana",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hairy-nosed Otter"
+      },
+      {
+        "lang": "es",
+        "name": "Nutria de Sonda o de Sumatra"
+      },
+      {
+        "lang": "hr",
+        "name": "Dlakava vidra"
+      },
+      {
+        "lang": "km",
+        "name": "ភេរោមច្រមុះ"
+      },
+      {
+        "lang": "pl",
+        "name": "Wydra sumatrzańska"
+      },
+      {
+        "lang": "pt",
+        "name": "Lontra-do-nariz-peludo"
+      },
+      {
+        "lang": "ms",
+        "name": "Memerang Hidung Berbulu"
+      },
+      {
+        "lang": "tr",
+        "name": "Sumatra su samuru"
+      },
+      {
+        "lang": "th",
+        "name": "นากจมูกขน",
+        "synonyms": [
+          "นากใหญ่หัวปลาดุก"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lutra nippon",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Japanese Otter"
+      },
+      {
+        "lang": "es",
+        "name": "Nutria japonesa"
+      },
+      {
+        "lang": "ja",
+        "name": "ニホンカワウソ"
+      },
+      {
+        "lang": "pl",
+        "name": "Wydra japońska"
+      },
+      {
+        "lang": "pt",
+        "name": "Lontra-japonesa"
+      },
+      {
+        "lang": "th",
+        "name": "นากญี่ปุ่น"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Lutra lutra",
+    "common_names": [
+      {
+        "lang": "ast",
+        "name": "Llóndriga"
+      },
+      {
+        "lang": "be",
+        "name": "Выдра"
+      },
+      {
+        "lang": "bg",
+        "name": "Видра"
+      },
+      {
+        "lang": "bn",
+        "name": "ভোঁদর"
+      },
+      {
+        "lang": "bo",
+        "name": "ཆུ་སྲམ།"
+      },
+      {
+        "lang": "br",
+        "name": "Ki-dour"
+      },
+      {
+        "lang": "ca",
+        "name": "Llúdria comuna"
+      },
+      {
+        "lang": "ce",
+        "name": "Хаьштиг"
+      },
+      {
+        "lang": "cs",
+        "name": "Vydra říční"
+      },
+      {
+        "lang": "cv",
+        "name": "Ахаль ăтăр"
+      },
+      {
+        "lang": "da",
+        "name": "Odder"
+      },
+      {
+        "lang": "de",
+        "name": "Eurasischer Fischotter"
+      },
+      {
+        "lang": "el",
+        "name": "Ευρωπαϊκή βίδρα"
+      },
+      {
+        "lang": "en",
+        "name": "European Otter"
+      },
+      {
+        "lang": "es",
+        "name": "Nutria Paleártica"
+      },
+      {
+        "lang": "et",
+        "name": "Euroopa saarmas"
+      },
+      {
+        "lang": "eu",
+        "name": "Igaraba arrunt"
+      },
+      {
+        "lang": "fa",
+        "name": "شنگ (جانور)"
+      },
+      {
+        "lang": "fi",
+        "name": "Saukko"
+      },
+      {
+        "lang": "fo",
+        "name": "Otur"
+      },
+      {
+        "lang": "fr",
+        "name": "Loutre d'Europe"
+      },
+      {
+        "lang": "frr",
+        "name": "Oter"
+      },
+      {
+        "lang": "ga",
+        "name": "Dobhrán Eoráiseach"
+      },
+      {
+        "lang": "gl",
+        "name": "Lontra"
+      },
+      {
+        "lang": "hr",
+        "name": "Europska vidra"
+      },
+      {
+        "lang": "hu",
+        "name": "Európai vidra"
+      },
+      {
+        "lang": "hy",
+        "name": "Ջրասամույր"
+      },
+      {
+        "lang": "it",
+        "name": "Lontra europea"
+      },
+      {
+        "lang": "ja",
+        "name": "ユーラシアカワウソ"
+      },
+      {
+        "lang": "ka",
+        "name": "წავი"
+      },
+      {
+        "lang": "kn",
+        "name": "ನೀರುನಾಯಿ"
+      },
+      {
+        "lang": "ko",
+        "name": "수달"
+      },
+      {
+        "lang": "kv",
+        "name": "Вурд"
+      },
+      {
+        "lang": "koi",
+        "name": "Вурд"
+      },
+      {
+        "lang": "lt",
+        "name": "Ūdra"
+      },
+      {
+        "lang": "lv",
+        "name": "Eiropas ūdrs"
+      },
+      {
+        "lang": "mhr",
+        "name": "Вӱдкома"
+      },
+      {
+        "lang": "mn",
+        "name": "Голын халиу"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ама"
+      },
+      {
+        "lang": "ms",
+        "name": "Memerang Utara"
+      },
+      {
+        "lang": "myv",
+        "name": "Выдра"
+      },
+      {
+        "lang": "nl",
+        "name": "Otter"
+      },
+      {
+        "lang": "nn",
+        "name": "Oter"
+      },
+      {
+        "lang": "no",
+        "name": "Oter"
+      },
+      {
+        "lang": "os",
+        "name": "Уырд"
+      },
+      {
+        "lang": "pl",
+        "name": "Wydra europejska"
+      },
+      {
+        "lang": "pt",
+        "name": "Lontra-europeia"
+      },
+      {
+        "lang": "ru",
+        "name": "Выдра"
+      },
+      {
+        "lang": "sah",
+        "name": "Дьуукун"
+      },
+      {
+        "lang": "sk",
+        "name": "Vydra riečna"
+      },
+      {
+        "lang": "sr",
+        "name": "Видра"
+      },
+      {
+        "lang": "stq",
+        "name": "Fiskotter"
+      },
+      {
+        "lang": "sv",
+        "name": "Utter"
+      },
+      {
+        "lang": "th",
+        "name": "นากใหญ่ธรรมดา"
+      },
+      {
+        "lang": "tr",
+        "name": "Bayağı su samuru"
+      },
+      {
+        "lang": "udm",
+        "name": "Вад"
+      },
+      {
+        "lang": "uk",
+        "name": "Видра річкова"
+      },
+      {
+        "lang": "zh",
+        "name": "歐亞水獺"
+      }
+    ]
+  }
+]

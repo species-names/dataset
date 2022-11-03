@@ -4,11 +4,27 @@
     "common_names": [
       {
         "lang": "de",
-        "name": "Afrikanischer Linsang"
+        "name": "Zentralafrikanischer Linsang"
       },
       {
         "lang": "en",
-        "name": "African Linsang"
+        "name": "Central African Linsang"
+      },
+      {
+        "lang": "es",
+        "name": "Oyán"
+      },
+      {
+        "lang": "fr",
+        "name": "Poiane de Richardson"
+      },
+      {
+        "lang": "hu",
+        "name": "Közép-afrikai pojána"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカリンサン"
       },
       {
         "lang": "pl",
@@ -24,8 +40,28 @@
     "scientific_name": "Poiana leightoni",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Westafrikanischer Linsang"
+      },
+      {
         "lang": "en",
         "name": "Leighton's Linsang"
+      },
+      {
+        "lang": "es",
+        "name": "Oyán occidental"
+      },
+      {
+        "lang": "fr",
+        "name": "Poiane de Leighton"
+      },
+      {
+        "lang": "hu",
+        "name": "Nyugat-afrikai pojána"
+      },
+      {
+        "lang": "ja",
+        "name": "レイトンリンサン"
       }
     ]
   }

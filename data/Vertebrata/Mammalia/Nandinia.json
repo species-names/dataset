@@ -11,16 +11,31 @@
         "name": "African Palm Civet"
       },
       {
+        "lang": "es",
+        "name": "Nandinia"
+      },
+      {
         "lang": "fi",
         "name": "Afrikanpalmunäätä"
       },
       {
         "lang": "fr",
-        "name": "Civette palmiste africaine"
+        "name": "Nandinie",
+        "synonyms": [
+          "Civette palmiste africaine"
+        ]
       },
       {
         "lang": "frr",
         "name": "Afrikoonsk pualemroler"
+      },
+      {
+        "lang": "hu",
+        "name": "Afrikai pálmacibet"
+      },
+      {
+        "lang": "ja",
+        "name": "キノボリジャコウネコ"
       },
       {
         "lang": "lt",
@@ -33,6 +48,13 @@
       {
         "lang": "no",
         "name": "Afrikansk palmeruller"
+      },
+      {
+        "lang": "pl",
+        "name": "Nandinia palmowa",
+        "synonyms": [
+          "łasza palmowa"
+        ]
       },
       {
         "lang": "ru",

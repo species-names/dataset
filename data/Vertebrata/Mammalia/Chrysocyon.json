@@ -8,7 +8,7 @@
       },
       {
         "lang": "en",
-        "name": "Maned wolf"
+        "name": "Maned Wolf"
       },
       {
         "lang": "es",
@@ -16,14 +16,15 @@
       },
       {
         "lang": "et",
-        "name": "Lakkhunt",
-        "synonyms": [
-          "Guara"
-        ]
+        "name": "Lakkhunt"
       },
       {
         "lang": "fr",
         "name": "Loup à crinière"
+      },
+      {
+        "lang": "gl",
+        "name": "Lobo de crina"
       },
       {
         "lang": "gn",
@@ -35,10 +36,7 @@
       },
       {
         "lang": "hu",
-        "name": "Sörényes farkas",
-        "synonyms": [
-          "guara"
-        ]
+        "name": "Sörényes farkas"
       },
       {
         "lang": "ja",
@@ -53,20 +51,24 @@
         "name": "Manenwolf"
       },
       {
-        "lang": "tr",
-        "name": "Yeleli kurt"
-      },
-      {
         "lang": "pl",
         "name": "Wilk grzywiasty"
+      },
+      {
+        "lang": "pt",
+        "name": "Lobo-guará"
+      },
+      {
+        "lang": "ru",
+        "name": "Гривистый волк"
       },
       {
         "lang": "th",
         "name": "หมาป่าเคราขาว"
       },
       {
-        "lang": "pt",
-        "name": "Lobo-guará"
+        "lang": "tr",
+        "name": "Yeleli kurt"
       }
     ]
   }

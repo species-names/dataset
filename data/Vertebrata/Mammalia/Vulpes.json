@@ -19,6 +19,10 @@
         "name": "Фенек"
       },
       {
+        "lang": "bg",
+        "name": "Фенек"
+      },
+      {
         "lang": "ca",
         "name": "Fennec"
       },
@@ -60,6 +64,10 @@
         "name": "Pustinjska lisica"
       },
       {
+        "lang": "hu",
+        "name": "Sivatagi róka"
+      },
+      {
         "lang": "ja",
         "name": "フェネック"
       },
@@ -90,8 +98,12 @@
         "name": "Uzun kulaklı çöl tilkisi"
       },
       {
+        "lang": "uk",
+        "name": "Фенек"
+      },
+      {
         "lang": "zh",
-        "name": "耳廓狐"
+        "name": "𦗒狐"
       }
     ]
   },
@@ -124,7 +136,7 @@
       },
       {
         "lang": "cs",
-        "name": "liška obecná"
+        "name": "Liška obecná"
       },
       {
         "lang": "cu",
@@ -132,10 +144,7 @@
       },
       {
         "lang": "da",
-        "name": "Rød ræv",
-        "synonyms": [
-          "ræv"
-        ]
+        "name": "Rød ræv"
       },
       {
         "lang": "de",
@@ -151,34 +160,23 @@
       },
       {
         "lang": "eo",
-        "name": "Vulpo"
+        "name": "Vulpo ordinara"
       },
       {
         "lang": "es",
-        "name": "Zorro rojo o común"
+        "name": "Zorro rojo"
       },
       {
         "lang": "et",
-        "name": "Rebane",
-        "synonyms": [
-          "Punarebane"
-        ]
+        "name": "Rebane"
       },
       {
         "lang": "fi",
-        "name": "Kettu",
-        "synonyms": [
-          "punakettu"
-        ]
+        "name": "Kettu"
       },
       {
         "lang": "fr",
-        "name": "Renard commun",
-        "synonyms": [
-          "renard roux",
-          "renard rouge",
-          "goupil"
-        ]
+        "name": "Renard commun"
       },
       {
         "lang": "frr",
@@ -186,17 +184,11 @@
       },
       {
         "lang": "ga",
-        "name": "Sionnach",
-        "synonyms": [
-          "madra rua"
-        ]
+        "name": "Sionnach"
       },
       {
         "lang": "gl",
-        "name": "Golpe",
-        "synonyms": [
-          "Raposa"
-        ]
+        "name": "Raposo"
       },
       {
         "lang": "hi",
@@ -256,7 +248,7 @@
       },
       {
         "lang": "sc",
-        "name": "margiani"
+        "name": "Margiani"
       },
       {
         "lang": "sh",
@@ -276,10 +268,7 @@
       },
       {
         "lang": "sv",
-        "name": "Räv",
-        "synonyms": [
-          "Rödräv"
-        ]
+        "name": "Rödräv"
       },
       {
         "lang": "th",
@@ -454,6 +443,10 @@
         "name": "Renard nain"
       },
       {
+        "lang": "hu",
+        "name": "Kitróka"
+      },
+      {
         "lang": "pl",
         "name": "Lis długouchy"
       },
@@ -467,12 +460,44 @@
     "scientific_name": "Vulpes lagopus",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Poolvos"
+      },
+      {
+        "lang": "ar",
+        "name": "ثعلب قطبي"
+      },
+      {
+        "lang": "az",
+        "name": "Qütb tülküsü"
+      },
+      {
+        "lang": "azb",
+        "name": "قۆطب تۆلکوسو"
+      },
+      {
+        "lang": "ba",
+        "name": "Аҡ төлкө"
+      },
+      {
         "lang": "be",
         "name": "Пясец"
       },
       {
+        "lang": "be-x-old",
+        "name": "Пясец"
+      },
+      {
         "lang": "bg",
-        "name": "Полярната лисица"
+        "name": "Полярна лисица"
+      },
+      {
+        "lang": "bo",
+        "name": "བྱང་སྣེའི་ཝ་མོ།"
+      },
+      {
+        "lang": "br",
+        "name": "Louarn Arktik"
       },
       {
         "lang": "ca",
@@ -483,15 +508,20 @@
         "name": "Liška polární"
       },
       {
+        "lang": "csb",
+        "name": "Pòlarny lës"
+      },
+      {
         "lang": "da",
         "name": "Polarræv"
       },
       {
         "lang": "de",
-        "name": "Polarfuchs",
-        "synonyms": [
-          "Eisfuchs"
-        ]
+        "name": "Polarfuchs"
+      },
+      {
+        "lang": "diq",
+        "name": "Lûwa vewre"
       },
       {
         "lang": "el",
@@ -499,31 +529,23 @@
       },
       {
         "lang": "en",
-        "name": "Arctic fox",
-        "synonyms": [
-          "Snow fox"
-        ]
+        "name": "Arctic Fox"
       },
       {
         "lang": "eo",
-        "name": "Arkta vulpo",
-        "synonyms": [
-          "Izatiso"
-        ]
+        "name": "Arkta vulpo"
       },
       {
         "lang": "es",
-        "name": "Zorro polar",
-        "synonyms": [
-          "Zorro ártico"
-        ]
+        "name": "Zorro polar"
       },
       {
         "lang": "et",
-        "name": "Polaarrebane",
-        "synonyms": [
-          "Jäärebane"
-        ]
+        "name": "Polaarrebane"
+      },
+      {
+        "lang": "eu",
+        "name": "Azeri artiko"
       },
       {
         "lang": "fa",
@@ -534,11 +556,24 @@
         "name": "Naali"
       },
       {
+        "lang": "fo",
+        "name": "Pólrevur"
+      },
+      {
         "lang": "fr",
-        "name": "Renard polaire",
-        "synonyms": [
-          "Renard isatis"
-        ]
+        "name": "Renard polaire"
+      },
+      {
+        "lang": "frr",
+        "name": "Polaarfoos"
+      },
+      {
+        "lang": "ga",
+        "name": "Sionnach Artach"
+      },
+      {
+        "lang": "gl",
+        "name": "Raposo ártico"
       },
       {
         "lang": "he",
@@ -546,38 +581,106 @@
       },
       {
         "lang": "hr",
-        "name": "Arktička lisica",
-        "synonyms": [
-          "Polarna lisica"
-        ]
+        "name": "Arktička lisica"
+      },
+      {
+        "lang": "hu",
+        "name": "Sarki róka"
+      },
+      {
+        "lang": "hy",
+        "name": "Բևեռաղվես"
+      },
+      {
+        "lang": "ik",
+        "name": "Tiġiganniaq"
       },
       {
         "lang": "is",
-        "name": "Heimskautarefur",
-        "synonyms": [
-          "Tófa",
-          "Melrakki"
-        ]
+        "name": "Heimskautarefur"
       },
       {
         "lang": "it",
         "name": "Volpe artica"
       },
       {
+        "lang": "iu",
+        "name": "ᑎᕆᒐᓂᐊᖅ",
+        "synonyms": [
+          "Tiriganiaq"
+        ]
+      },
+      {
         "lang": "ja",
         "name": "ホッキョクギツネ"
       },
       {
-        "lang": "kv",
-        "name": "кынь"
+        "lang": "ka",
+        "name": "ყარსაღი"
       },
       {
-        "lang": "la",
-        "name": "Alopex lagopus"
+        "lang": "kk",
+        "name": "Ақ түлкі"
+      },
+      {
+        "lang": "kl",
+        "name": "Terianniaq qaqortaq"
+      },
+      {
+        "lang": "koi",
+        "name": "Кынь"
+      },
+      {
+        "lang": "ko",
+        "name": "북극여우"
+      },
+      {
+        "lang": "kv",
+        "name": "Кынь"
+      },
+      {
+        "lang": "kw",
+        "name": "Lowarn Arktek"
+      },
+      {
+        "lang": "ky",
+        "name": "Калтар түлкү"
+      },
+      {
+        "lang": "lb",
+        "name": "Polarfuuss"
+      },
+      {
+        "lang": "lez",
+        "name": "Песец"
       },
       {
         "lang": "lt",
         "name": "Poliarinė lapė"
+      },
+      {
+        "lang": "lv",
+        "name": "Polārlapsa"
+      },
+      {
+        "lang": "mk",
+        "name": "Поларна лисица"
+      },
+      {
+        "lang": "ml",
+        "name": "ധ്രുവക്കുറുക്കൻ"
+      },
+      {
+        "lang": "mn",
+        "name": "Цагаан үнэг"
+      },
+      {
+        "lang": "ms",
+        "name": "Rubah Artik"
+      },
+      {
+        "lang": "myv",
+        "name": "Ашо ривезь"
       },
       {
         "lang": "nl",
@@ -592,11 +695,24 @@
         "name": "Fjellrev"
       },
       {
+        "lang": "nv",
+        "name": "Mąʼiiłgaii"
+      },
+      {
+        "lang": "os",
+        "name": "Цæгатаг рувас"
+      },
+      {
         "lang": "pl",
-        "name": "Lis polarny",
-        "synonyms": [
-          "piesiec"
-        ]
+        "name": "Lis polarny"
+      },
+      {
+        "lang": "pnb",
+        "name": "برفانی لومڑ"
+      },
+      {
+        "lang": "ps",
+        "name": "قطبي گيدړ"
       },
       {
         "lang": "pt",
@@ -608,58 +724,87 @@
       },
       {
         "lang": "ru",
-        "name": "Песец",
-        "synonyms": [
-          "Полярная лисица"
-        ]
+        "name": "Песец"
       },
       {
         "lang": "sah",
         "name": "Кырса"
       },
       {
+        "lang": "sco",
+        "name": "Arctic tod"
+      },
+      {
         "lang": "se",
-        "name": "Njálla",
-        "synonyms": [
-          "Svála"
-        ]
+        "name": "Njálla"
+      },
+      {
+        "lang": "sh",
+        "name": "Arktička lisica"
+      },
+      {
+        "lang": "sk",
+        "name": "Líška polárna"
       },
       {
         "lang": "sl",
-        "name": "Polarna lisica",
-        "synonyms": [
-          "Pesec"
-        ]
+        "name": "Polarna lisica"
+      },
+      {
+        "lang": "sq",
+        "name": "Dhelpra artike"
       },
       {
         "lang": "sr",
-        "name": "Поларна лисица",
-        "synonyms": [
-          "Polarna lisica"
-        ]
+        "name": "Поларна лисица"
       },
       {
         "lang": "sv",
         "name": "Fjällräv"
       },
       {
+        "lang": "ta",
+        "name": "ஆர்க்டிக் நரி"
+      },
+      {
         "lang": "th",
-        "name": "หมาจิ้งจอกอาร์กติก",
-        "synonyms": [
-          "หมาจิ้งจอกขั้วโลก"
-        ]
+        "name": "หมาจิ้งจอกอาร์กติก"
+      },
+      {
+        "lang": "tl",
+        "name": "Artikong soro"
       },
       {
         "lang": "tr",
         "name": "Kutup tilkisi"
       },
       {
-        "lang": "zh",
-        "name": "北極狐"
+        "lang": "tt",
+        "name": "Ак төлке"
       },
       {
-        "lang": "lb",
-        "name": "Polarfuuss"
+        "lang": "uk",
+        "name": "Песець"
+      },
+      {
+        "lang": "ur",
+        "name": "قطبی لومڑ"
+      },
+      {
+        "lang": "vep",
+        "name": "Järeboi"
+      },
+      {
+        "lang": "vi",
+        "name": "Cáo tuyết Bắc Cực"
+      },
+      {
+        "lang": "wuu",
+        "name": "北极狐"
+      },
+      {
+        "lang": "zh",
+        "name": "yue"
       }
     ]
   },
@@ -995,6 +1140,10 @@
       {
         "lang": "tr",
         "name": "Bengal tilkisi"
+      },
+      {
+        "lang": "ta",
+        "name": "இந்தியக் குள்ளநரி"
       }
     ]
   }

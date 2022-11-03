@@ -4,10 +4,7 @@
     "common_names": [
       {
         "lang": "bg",
-        "name": "Цивета",
-        "synonyms": [
-          "Азиатска вивера"
-        ]
+        "name": "Цивета"
       },
       {
         "lang": "ca",
@@ -36,6 +33,10 @@
       {
         "lang": "hu",
         "name": "Indiai cibetmacska"
+      },
+      {
+        "lang": "ja",
+        "name": "インドジャコウネコ"
       },
       {
         "lang": "ms",
@@ -95,7 +96,19 @@
       },
       {
         "lang": "es",
-        "name": "Civeta Malaya"
+        "name": "Civeta malaya"
+      },
+      {
+        "lang": "fr",
+        "name": "Civette malaise"
+      },
+      {
+        "lang": "id",
+        "name": "Musang tenggalung"
+      },
+      {
+        "lang": "ja",
+        "name": "ジャワジャコウネコ"
       },
       {
         "lang": "ms",
@@ -113,6 +126,18 @@
       {
         "lang": "en",
         "name": "Large-spotted Civet"
+      },
+      {
+        "lang": "es",
+        "name": "Civeta moteada"
+      },
+      {
+        "lang": "fr",
+        "name": "Civette à grandes taches"
+      },
+      {
+        "lang": "ja",
+        "name": "ビルマジャコウネコ"
       },
       {
         "lang": "ms",
@@ -133,6 +158,18 @@
         "synonyms": [
           "Malabar Civet"
         ]
+      },
+      {
+        "lang": "es",
+        "name": "Civeta malabar"
+      },
+      {
+        "lang": "fr",
+        "name": "Civette de Malabar"
+      },
+      {
+        "lang": "ja",
+        "name": "インドブチジャコウネコ"
       }
     ]
   }

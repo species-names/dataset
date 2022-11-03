@@ -1,0 +1,123 @@
+[
+  {
+    "scientific_name": "Aonyx congicus",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Congolesisk fingerodder"
+      },
+      {
+        "lang": "de",
+        "name": "Kongo-Fingerotter (Kongo-Keinkrallenotter",
+        "synonyms": [
+          "Kongo-Weißwangenotter)"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Congo Clawless Otter"
+      },
+      {
+        "lang": "es",
+        "name": "Nutria del Congo"
+      },
+      {
+        "lang": "fr",
+        "name": "Loutre à joues blanches du Congo"
+      },
+      {
+        "lang": "pl",
+        "name": "Wydra kameruńska"
+      },
+      {
+        "lang": "tr",
+        "name": "Kongo parmaklı samuru"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aonyx cinerea",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Asiatisk dværgodder"
+      },
+      {
+        "lang": "de",
+        "name": "Zwergotter"
+      },
+      {
+        "lang": "en",
+        "name": "Oriental Small-clawed otter"
+      },
+      {
+        "lang": "es",
+        "name": "Nutria enana"
+      },
+      {
+        "lang": "id",
+        "name": "Berang-berang cakar-kecil"
+      },
+      {
+        "lang": "ko",
+        "name": "작은발톱수달"
+      },
+      {
+        "lang": "ja",
+        "name": "コツメカワウソ"
+      },
+      {
+        "lang": "pl",
+        "name": "Wyderka orientalna"
+      },
+      {
+        "lang": "th",
+        "name": "นากเล็กเล็บสั้น",
+        "synonyms": [
+          "นากเล็กหางสั้น"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Asya parmaklı samuru"
+      },
+      {
+        "lang": "zh",
+        "name": "亞洲小爪水獺"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Aonyx capensis",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Afrikansk fingerodder"
+      },
+      {
+        "lang": "de",
+        "name": "Kapotter"
+      },
+      {
+        "lang": "en",
+        "name": "African Clawless Otter"
+      },
+      {
+        "lang": "es",
+        "name": "Nutria de El Cabo"
+      },
+      {
+        "lang": "pl",
+        "name": "Wydrzyca afrykańska"
+      },
+      {
+        "lang": "sv",
+        "name": "Klolös utter"
+      },
+      {
+        "lang": "tr",
+        "name": "Kap parmaklı samuru"
+      }
+    ]
+  }
+]

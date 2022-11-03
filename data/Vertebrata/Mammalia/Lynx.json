@@ -63,7 +63,10 @@
       },
       {
         "lang": "en",
-        "name": "Bobcat"
+        "name": "Bobcat",
+        "synonyms": [
+          "rex lynx"
+        ]
       },
       {
         "lang": "es",
@@ -107,7 +110,7 @@
       },
       {
         "lang": "hu",
-        "name": "vörös hiúz"
+        "name": "Vörös hiúz"
       },
       {
         "lang": "io",
@@ -270,6 +273,14 @@
         "name": "Pirenejski ris"
       },
       {
+        "lang": "hu",
+        "name": "Ibériai hiúz",
+        "synonyms": [
+          "spanyol hiúz",
+          "párduchiúz"
+        ]
+      },
+      {
         "lang": "it",
         "name": "Lince pardina"
       },
@@ -412,7 +423,10 @@
       },
       {
         "lang": "ja",
-        "name": "ヨーロッパオオヤマネコ"
+        "name": "オオヤマネコ",
+        "synonyms": [
+          "ヨーロッパオオヤマネコ"
+        ]
       },
       {
         "lang": "ko",
@@ -507,12 +521,25 @@
       {
         "lang": "zh",
         "name": "歐亞猞猁"
+      },
+      {
+        "lang": "ta",
+        "name": "லிங்க்ஸ் பூனை"
       }
     ]
   },
   {
     "scientific_name": "Lynx issiodorensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Issoire Lynx"
+      },
+      {
+        "lang": "fr",
+        "name": "Lynx d'Issoire"
+      }
+    ]
   },
   {
     "scientific_name": "Lynx canadensis",
@@ -538,12 +565,27 @@
         "name": "Lince canadiense"
       },
       {
+        "lang": "fi",
+        "name": "Kanadanilves"
+      },
+      {
         "lang": "fr",
         "name": "Lynx du Canada"
       },
       {
         "lang": "hr",
         "name": "Kanadski ris"
+      },
+      {
+        "lang": "hu",
+        "name": "Kanadai hiúz",
+        "synonyms": [
+          "sarki hiúz"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Lince canadese"
       },
       {
         "lang": "ja",
@@ -554,8 +596,12 @@
         "name": "Ryś kanadyjski"
       },
       {
-        "lang": "pt",
+        "lang": "pt-br",
         "name": "Lince-canadense"
+      },
+      {
+        "lang": "pt",
+        "name": "Lince do Canadá"
       },
       {
         "lang": "ru",

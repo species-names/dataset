@@ -1,0 +1,673 @@
+[
+  {
+    "scientific_name": "Ursus minimus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ursus malayanus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ursus etruscus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ursus wenzensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ursus thibetanus",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Белагруды мядзведзь"
+      },
+      {
+        "lang": "cs",
+        "name": "Medvěd ušatý"
+      },
+      {
+        "lang": "de",
+        "name": "Kragenbär",
+        "synonyms": [
+          "Asiatischer Schwarzbär"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Asiatic black bear",
+        "synonyms": [
+          "Himalayan black bear",
+          "Moon bear",
+          "Tibetan black bear"
+        ]
+      },
+      {
+        "lang": "eo",
+        "name": "Urso tibeta"
+      },
+      {
+        "lang": "es",
+        "name": "Oso tibetano",
+        "synonyms": [
+          "Oso del Himalaya",
+          "Oso negro asiático"
+        ]
+      },
+      {
+        "lang": "et",
+        "name": "Kaeluskaru"
+      },
+      {
+        "lang": "fr",
+        "name": "Ours noir d'Asie"
+      },
+      {
+        "lang": "he",
+        "name": "דוב שחור אסייתי"
+      },
+      {
+        "lang": "hu",
+        "name": "Örvös medve"
+      },
+      {
+        "lang": "it",
+        "name": "Orso nero asiatico"
+      },
+      {
+        "lang": "ja",
+        "name": "ツキノワグマ（月輪熊）"
+      },
+      {
+        "lang": "ka",
+        "name": "ჰიმალაიური დათვი"
+      },
+      {
+        "lang": "ko",
+        "name": "반달곰"
+      },
+      {
+        "lang": "km",
+        "name": "ខ្លាឃ្មុំធំ"
+      },
+      {
+        "lang": "pl",
+        "name": "Niedźwiedź himalajski"
+      },
+      {
+        "lang": "pt",
+        "name": "Urso-negro-asiático"
+      },
+      {
+        "lang": "ru",
+        "name": "Гималайский медведь",
+        "synonyms": [
+          "Белогрудый медведь"
+        ]
+      },
+      {
+        "lang": "th",
+        "name": "หมีควาย"
+      },
+      {
+        "lang": "tr",
+        "name": "Asya kara ayısı",
+        "synonyms": [
+          "Tibet ayısı",
+          "Asya siyah ayısı"
+        ]
+      },
+      {
+        "lang": "uk",
+        "name": "Гімалайський ведмідь"
+      },
+      {
+        "lang": "zh",
+        "name": "亞洲黑熊"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ursus spelaeus",
+    "common_names": [
+      {
+        "lang": "da",
+        "name": "Hulebjørn"
+      },
+      {
+        "lang": "de",
+        "name": "Höhlenbär"
+      },
+      {
+        "lang": "en",
+        "name": "Cave Bear"
+      },
+      {
+        "lang": "fr",
+        "name": "Ours des cavernes"
+      },
+      {
+        "lang": "fi",
+        "name": "Luolakarhu"
+      },
+      {
+        "lang": "hu",
+        "name": "Barlangi medve"
+      },
+      {
+        "lang": "it",
+        "name": "Orso delle caverne"
+      },
+      {
+        "lang": "nl",
+        "name": "Holenbeer"
+      },
+      {
+        "lang": "pl",
+        "name": "Niedźwiedź jaskiniowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Urso das cavernas"
+      },
+      {
+        "lang": "ro",
+        "name": "Urs de peșteră"
+      },
+      {
+        "lang": "sv",
+        "name": "Grottbjörn"
+      },
+      {
+        "lang": "uk",
+        "name": "Печерний ведмідь"
+      },
+      {
+        "lang": "zh",
+        "name": "洞熊"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ursus maritimus",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "دب قطبي"
+      },
+      {
+        "lang": "be",
+        "name": "Мядзведзь белы"
+      },
+      {
+        "lang": "bg",
+        "name": "Бяла мечка"
+      },
+      {
+        "lang": "ca",
+        "name": "Ós polar"
+      },
+      {
+        "lang": "cs",
+        "name": "Medvěd lední"
+      },
+      {
+        "lang": "da",
+        "name": "Isbjørn"
+      },
+      {
+        "lang": "de",
+        "name": "Eisbär"
+      },
+      {
+        "lang": "en",
+        "name": "Polar Bear"
+      },
+      {
+        "lang": "eo",
+        "name": "Blanka urso"
+      },
+      {
+        "lang": "es",
+        "name": "Oso polar"
+      },
+      {
+        "lang": "et",
+        "name": "Jääkaru"
+      },
+      {
+        "lang": "eu",
+        "name": "Hartz zuri"
+      },
+      {
+        "lang": "fr",
+        "name": "Ours blanc"
+      },
+      {
+        "lang": "fi",
+        "name": "Jääkarhu"
+      },
+      {
+        "lang": "fy",
+        "name": "Iisbear"
+      },
+      {
+        "lang": "he",
+        "name": "דוב קוטב"
+      },
+      {
+        "lang": "hr",
+        "name": "Polarni medvjed"
+      },
+      {
+        "lang": "id",
+        "name": "Beruang Polar"
+      },
+      {
+        "lang": "is",
+        "name": "Hvítabjörn",
+        "synonyms": [
+          "Ísbjörn"
+        ]
+      },
+      {
+        "lang": "it",
+        "name": "Orso polare",
+        "synonyms": [
+          "Orso bianco"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "北極熊"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltasis lokys"
+      },
+      {
+        "lang": "ms",
+        "name": "Beruang Polar"
+      },
+      {
+        "lang": "mzn",
+        "name": "اسپه اش"
+      },
+      {
+        "lang": "nl",
+        "name": "IJsbeer"
+      },
+      {
+        "lang": "no",
+        "name": "Isbjørn"
+      },
+      {
+        "lang": "pl",
+        "name": "Niedźwiedź polarny"
+      },
+      {
+        "lang": "pt",
+        "name": "Urso-polar"
+      },
+      {
+        "lang": "ro",
+        "name": "Urs polar"
+      },
+      {
+        "lang": "ru",
+        "name": "Белый медведь"
+      },
+      {
+        "lang": "sr",
+        "name": "Бели медвед",
+        "synonyms": [
+          "Beli medved, Поларни медвед",
+          "Polarni medved"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Isbjörn"
+      },
+      {
+        "lang": "sk",
+        "name": "Medveď biely"
+      },
+      {
+        "lang": "th",
+        "name": "หมีขาว",
+        "synonyms": [
+          "หมีขั้วโลก"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Kutup ayısı"
+      },
+      {
+        "lang": "uk",
+        "name": "Білий ведмідь"
+      },
+      {
+        "lang": "ja",
+        "name": "ホッキョクグマ"
+      },
+      {
+        "lang": "hu",
+        "name": "Jegesmedve"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ursus arctos",
+    "common_names": [
+      {
+        "lang": "an",
+        "name": "Onso pardo"
+      },
+      {
+        "lang": "be",
+        "name": "Буры мядзведзь"
+      },
+      {
+        "lang": "bg",
+        "name": "Кафява мечка"
+      },
+      {
+        "lang": "bn",
+        "name": "বাদামি ভাল্লুক"
+      },
+      {
+        "lang": "ca",
+        "name": "Ós bru"
+      },
+      {
+        "lang": "cs",
+        "name": "Medvěd hnědý"
+      },
+      {
+        "lang": "da",
+        "name": "Brun bjørn"
+      },
+      {
+        "lang": "de",
+        "name": "Braunbär"
+      },
+      {
+        "lang": "el",
+        "name": "Καφέ αρκούδα"
+      },
+      {
+        "lang": "en",
+        "name": "Brown Bear"
+      },
+      {
+        "lang": "eo",
+        "name": "Bruna urso"
+      },
+      {
+        "lang": "es",
+        "name": "Oso pardo"
+      },
+      {
+        "lang": "et",
+        "name": "Karu"
+      },
+      {
+        "lang": "fi",
+        "name": "Karhu"
+      },
+      {
+        "lang": "fr",
+        "name": "Ours brun"
+      },
+      {
+        "lang": "gl",
+        "name": "Oso pardo"
+      },
+      {
+        "lang": "he",
+        "name": "דוב חום"
+      },
+      {
+        "lang": "hu",
+        "name": "Barna medve"
+      },
+      {
+        "lang": "ik",
+        "name": "Akłaq"
+      },
+      {
+        "lang": "it",
+        "name": "Orso Bruno"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒグマ"
+      },
+      {
+        "lang": "ko",
+        "name": "큰곰"
+      },
+      {
+        "lang": "mwl",
+        "name": "Urso"
+      },
+      {
+        "lang": "nl",
+        "name": "Bruine beer"
+      },
+      {
+        "lang": "no",
+        "name": "Brunbjørn"
+      },
+      {
+        "lang": "pl",
+        "name": "Niedźwiedź brunatny"
+      },
+      {
+        "lang": "pt",
+        "name": "Urso-pardo"
+      },
+      {
+        "lang": "ro",
+        "name": "Ursul brun"
+      },
+      {
+        "lang": "ru",
+        "name": "Бурый медведь"
+      },
+      {
+        "lang": "sh",
+        "name": "Mrki medvjed - Мрки медвјед"
+      },
+      {
+        "lang": "sk",
+        "name": "Medveď hnedý"
+      },
+      {
+        "lang": "sl",
+        "name": "Rjavi medved"
+      },
+      {
+        "lang": "sq",
+        "name": "Ariu i murrme"
+      },
+      {
+        "lang": "sv",
+        "name": "Brunbjörn"
+      },
+      {
+        "lang": "ta",
+        "name": "பழுப்புக் கரடி"
+      },
+      {
+        "lang": "th",
+        "name": "หมีสีน้ำตาล"
+      },
+      {
+        "lang": "tr",
+        "name": "Boz ayı"
+      },
+      {
+        "lang": "uk",
+        "name": "Бурий ведмідь"
+      },
+      {
+        "lang": "zh",
+        "name": "棕熊"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ursus americanus",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Барыбал"
+      },
+      {
+        "lang": "bg",
+        "name": "Черна мечка"
+      },
+      {
+        "lang": "ca",
+        "name": "Ós negre"
+      },
+      {
+        "lang": "chy",
+        "name": "Náhkohe"
+      },
+      {
+        "lang": "cs",
+        "name": "Medvěd baribal"
+      },
+      {
+        "lang": "da",
+        "name": "Amerikansk sortbjørn"
+      },
+      {
+        "lang": "de",
+        "name": "Amerikanischer Schwarzbär"
+      },
+      {
+        "lang": "en",
+        "name": "American Black Bear"
+      },
+      {
+        "lang": "eo",
+        "name": "Amerika nigra urso"
+      },
+      {
+        "lang": "es",
+        "name": "Oso negro americano"
+      },
+      {
+        "lang": "et",
+        "name": "Baribal"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustakarhu"
+      },
+      {
+        "lang": "fr",
+        "name": "Ours noir"
+      },
+      {
+        "lang": "ik",
+        "name": "Iggabri"
+      },
+      {
+        "lang": "it",
+        "name": "Baribal"
+      },
+      {
+        "lang": "he",
+        "name": "דוב שחור אמריקני"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete medve"
+      },
+      {
+        "lang": "ka",
+        "name": "ბარიბალი"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカグマ"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodasis lokys"
+      },
+      {
+        "lang": "na",
+        "name": ":Tecuanōtl"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse zwarte beer"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikansk svartbjørn"
+      },
+      {
+        "lang": "nv",
+        "name": "Shash"
+      },
+      {
+        "lang": "pl",
+        "name": "Niedźwiedź czarny"
+      },
+      {
+        "lang": "pt",
+        "name": "Urso-negro"
+      },
+      {
+        "lang": "ro",
+        "name": "Urs american"
+      },
+      {
+        "lang": "ru",
+        "name": "Барибал",
+        "synonyms": [
+          "или чёрный медведь"
+        ]
+      },
+      {
+        "lang": "simple",
+        "name": "American Black Bear"
+      },
+      {
+        "lang": "sr",
+        "name": "Црни медвед",
+        "synonyms": [
+          "Crni medved"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Svartbjörn"
+      },
+      {
+        "lang": "tr",
+        "name": "Amerika kara ayısı"
+      },
+      {
+        "lang": "uk",
+        "name": "Барибал"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲黑熊"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Bí-chiu o͘-hîm"
+      }
+    ]
+  }
+]
