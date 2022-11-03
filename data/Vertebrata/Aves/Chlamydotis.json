@@ -3,16 +3,144 @@
     "scientific_name": "Chlamydotis undulata",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حبارى أفريقي"
+      },
+      {
+        "lang": "az",
+        "name": "Gözəl baladoydaq"
+      },
+      {
+        "lang": "bg",
+        "name": "Африканска хубара"
+      },
+      {
+        "lang": "br",
+        "name": "Otiz houbara"
+      },
+      {
+        "lang": "ca",
+        "name": "Hubara africana"
+      },
+      {
+        "lang": "cy",
+        "name": "Ceiliog gwaun copog"
+      },
+      {
+        "lang": "da",
+        "name": "Kravetrappe"
+      },
+      {
+        "lang": "de",
+        "name": "Kragentrappe"
+      },
+      {
         "lang": "en",
         "name": "Houbara Bustard"
+      },
+      {
+        "lang": "eo",
+        "name": "Koluma otido"
+      },
+      {
+        "lang": "es",
+        "name": "Hubara"
+      },
+      {
+        "lang": "eu",
+        "name": "Houbara basoilo"
+      },
+      {
+        "lang": "fa",
+        "name": "هوبره آفریقایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Lännenkaulustrappi"
+      },
+      {
+        "lang": "fr",
+        "name": "Outarde houbara"
+      },
+      {
+        "lang": "gu",
+        "name": "ટિલોર"
+      },
+      {
+        "lang": "he",
+        "name": "חוברה מדברית"
+      },
+      {
+        "lang": "hu",
+        "name": "Galléros túzok"
+      },
+      {
+        "lang": "hy",
+        "name": "Գեղանի արոս"
+      },
+      {
+        "lang": "it",
+        "name": "Ubara africana"
       },
       {
         "lang": "ja",
         "name": "フサエリショウノガン"
       },
       {
-        "lang": "hy",
-        "name": "Արոս գեղանի"
+        "lang": "kbd",
+        "name": "КӀупхъжэр"
+      },
+      {
+        "lang": "kk",
+        "name": "Жорға дуадақ"
+      },
+      {
+        "lang": "kn",
+        "name": "ಹೌಬರ ಕಾಡುಕೋಳಿ"
+      },
+      {
+        "lang": "ky",
+        "name": "Жорго тоодак"
+      },
+      {
+        "lang": "lt",
+        "name": "Puošnusis einis"
+      },
+      {
+        "lang": "lv",
+        "name": "Sahāras sīga"
+      },
+      {
+        "lang": "mn",
+        "name": "Жороо тоодог"
+      },
+      {
+        "lang": "ne",
+        "name": "मोती चरा"
+      },
+      {
+        "lang": "nl",
+        "name": "Kraagtrap"
+      },
+      {
+        "lang": "pl",
+        "name": "Hubara saharyjska"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہوبارا بسٹارڈ"
+      },
+      {
+        "lang": "ru",
+        "name": "Вихляй"
+      },
+      {
+        "lang": "sd",
+        "name": "تلور"
+      },
+      {
+        "lang": "sk",
+        "name": "Drop orientálny"
       },
       {
         "lang": "sv",
@@ -21,6 +149,18 @@
       {
         "lang": "tr",
         "name": "Hubara"
+      },
+      {
+        "lang": "uk",
+        "name": "Джек"
+      },
+      {
+        "lang": "uz",
+        "name": "Yoʻrgʻa tuvaloq"
+      },
+      {
+        "lang": "vi",
+        "name": "Ô tác Houbara"
       },
       {
         "lang": "zh",
@@ -32,12 +172,20 @@
     "scientific_name": "Chlamydotis macqueenii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حبارى آسيوي"
+      },
+      {
         "lang": "br",
         "name": "Otiz MacQueen"
       },
       {
+        "lang": "ca",
+        "name": "Hubara asiàtica"
+      },
+      {
         "lang": "cs",
-        "name": "Drop obojkový"
+        "name": "Drop hřívnatý"
       },
       {
         "lang": "da",
@@ -45,7 +193,7 @@
       },
       {
         "lang": "de",
-        "name": "Steppenkragentrappe"
+        "name": "Asiatische Kragentrappe"
       },
       {
         "lang": "el",
@@ -53,14 +201,11 @@
       },
       {
         "lang": "en",
-        "name": "Macqueen's Bustard",
-        "synonyms": [
-          "Asian houbara"
-        ]
+        "name": "Macqueen's Bustard"
       },
       {
         "lang": "eo",
-        "name": "Makkvina otido"
+        "name": "Orienta otido"
       },
       {
         "lang": "es",
@@ -68,19 +213,27 @@
       },
       {
         "lang": "et",
-        "name": "aasia kraetrapp"
+        "name": "Aasia kraetrapp"
+      },
+      {
+        "lang": "fa",
+        "name": "هوبره آسیایی"
       },
       {
         "lang": "fi",
-        "name": "idänkaulustrappi"
+        "name": "Idänkaulustrappi"
       },
       {
         "lang": "fr",
         "name": "Outarde de Macqueen"
       },
       {
+        "lang": "he",
+        "name": "חוברת מקווין"
+      },
+      {
         "lang": "hu",
-        "name": "pettyes túzok"
+        "name": "Pettyes túzok"
       },
       {
         "lang": "it",
@@ -92,14 +245,15 @@
       },
       {
         "lang": "kk",
-        "name": "Вихляй",
-        "synonyms": [
-          "или Джек"
-        ]
+        "name": "Вихляй"
       },
       {
         "lang": "lv",
         "name": "Apkakles sīga"
+      },
+      {
+        "lang": "ml",
+        "name": "മരുക്കൊക്ക്"
       },
       {
         "lang": "nl",
@@ -136,6 +290,10 @@
       {
         "lang": "sv",
         "name": "Kragtrapp"
+      },
+      {
+        "lang": "vi",
+        "name": "Ô tác Macqueen"
       },
       {
         "lang": "zh",

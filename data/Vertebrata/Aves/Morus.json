@@ -3,12 +3,40 @@
     "scientific_name": "Morus serrator",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Australiese Malgas"
+      },
+      {
+        "lang": "ar",
+        "name": "الأطيش الأسترالي"
+      },
+      {
+        "lang": "arz",
+        "name": "الاطيش الاسترالى"
+      },
+      {
+        "lang": "br",
+        "name": "Morskoul Aostralia"
+      },
+      {
         "lang": "ca",
         "name": "Mascarell australià"
       },
       {
+        "lang": "cs",
+        "name": "Terej australský"
+      },
+      {
+        "lang": "cy",
+        "name": "Hugan Awstralia"
+      },
+      {
+        "lang": "da",
+        "name": "Australsk Sule"
+      },
+      {
         "lang": "de",
-        "name": "Australischer Tölpel"
+        "name": "Australtölpel"
       },
       {
         "lang": "en",
@@ -19,6 +47,14 @@
         "name": "Aŭstralia sulo"
       },
       {
+        "lang": "es",
+        "name": "Alcatraz australiano"
+      },
+      {
+        "lang": "fa",
+        "name": "سفیدغاز استرالزی"
+      },
+      {
         "lang": "fi",
         "name": "Australiansuula"
       },
@@ -27,24 +63,72 @@
         "name": "Fou austral"
       },
       {
+        "lang": "he",
+        "name": "סולה אוסטרלית"
+      },
+      {
         "lang": "hu",
-        "name": "Ausztráliai szula"
+        "name": "Ausztrál szula"
+      },
+      {
+        "lang": "hy",
+        "name": "Ավստրալիական խևահավ"
+      },
+      {
+        "lang": "it",
+        "name": "Sula australiana"
+      },
+      {
+        "lang": "ka",
+        "name": "ავსტრალიური რეგვენა"
       },
       {
         "lang": "mi",
         "name": "Tākapu"
       },
       {
+        "lang": "ml",
+        "name": "ഓസ്ട്രാലേഷ്യൻ ഗന്നെറ്റ്"
+      },
+      {
+        "lang": "nl",
+        "name": "Pacifische Jan-van-gent"
+      },
+      {
+        "lang": "nn",
+        "name": "Australsule"
+      },
+      {
+        "lang": "no",
+        "name": "Australsule"
+      },
+      {
         "lang": "pl",
         "name": "Głuptak australijski"
+      },
+      {
+        "lang": "pnb",
+        "name": "اسٹریلوی گینٹ"
+      },
+      {
+        "lang": "pt",
+        "name": "Atobá-australiano"
+      },
+      {
+        "lang": "ru",
+        "name": "Австралийская олуша"
       },
       {
         "lang": "sv",
         "name": "Australisk sula"
       },
       {
-        "lang": "pt",
-        "name": "Atobá-australiano"
+        "lang": "uk",
+        "name": "Сула австралійська"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "澳洲鰹雀"
       }
     ]
   },
@@ -52,40 +136,12 @@
     "scientific_name": "Morus capensis",
     "common_names": [
       {
-        "lang": "de",
-        "name": "Kaptölpel"
-      },
-      {
-        "lang": "en",
-        "name": "Cape Gannet"
-      },
-      {
-        "lang": "eo",
-        "name": "Kaba sulo"
-      },
-      {
-        "lang": "fi",
-        "name": "Kapinsuula"
-      },
-      {
-        "lang": "fr",
-        "name": "Fou du Cap"
-      },
-      {
-        "lang": "ja",
-        "name": "ケープシロカツオドリ"
-      },
-      {
-        "lang": "sv",
-        "name": "kapsula"
-      },
-      {
-        "lang": "vi",
-        "name": "Chim điên Cape"
-      },
-      {
         "lang": "af",
         "name": "Witmalgas"
+      },
+      {
+        "lang": "arz",
+        "name": "كيب جانيت"
       },
       {
         "lang": "bg",
@@ -104,8 +160,36 @@
         "name": "Hugan y Penrhyn"
       },
       {
+        "lang": "da",
+        "name": "Kapsule"
+      },
+      {
+        "lang": "de",
+        "name": "Kaptölpel"
+      },
+      {
+        "lang": "en",
+        "name": "Cape Gannet"
+      },
+      {
+        "lang": "eo",
+        "name": "Kaba sulo"
+      },
+      {
+        "lang": "es",
+        "name": "Alcatraz de El Cabo"
+      },
+      {
         "lang": "fa",
         "name": "سفیدغاز دماغه"
+      },
+      {
+        "lang": "fi",
+        "name": "Kapinsuula"
+      },
+      {
+        "lang": "fr",
+        "name": "Fou du Cap"
       },
       {
         "lang": "gl",
@@ -120,16 +204,24 @@
         "name": "Fokföldi szula"
       },
       {
+        "lang": "hy",
+        "name": "Կապյան խևահավ"
+      },
+      {
+        "lang": "it",
+        "name": "Sula del Capo"
+      },
+      {
+        "lang": "ja",
+        "name": "ケープシロカツオドリ"
+      },
+      {
         "lang": "nl",
-        "name": "Kaapse jan-van-gent"
+        "name": "Kaapse Jan-van-gent"
       },
       {
         "lang": "no",
         "name": "Kappsule"
-      },
-      {
-        "lang": "nv",
-        "name": "Naakaii Łizhiní Bikéyahdę́ę́ʼ taahilnoodii"
       },
       {
         "lang": "pl",
@@ -148,8 +240,20 @@
         "name": "Капская олуша"
       },
       {
+        "lang": "sv",
+        "name": "Kapsula"
+      },
+      {
         "lang": "uk",
         "name": "Сула африканська"
+      },
+      {
+        "lang": "vi",
+        "name": "Ó biển Cape"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "南非鰹雀"
       }
     ]
   },
@@ -161,15 +265,23 @@
         "name": "أطيش شمالي"
       },
       {
+        "lang": "arz",
+        "name": "اطيش شمالى"
+      },
+      {
         "lang": "ast",
         "name": "Mazcatu"
       },
       {
-        "lang": "be-x-old",
-        "name": "Олуша паўночная"
+        "lang": "az",
+        "name": "Şimal oluşası"
       },
       {
         "lang": "be",
+        "name": "Олуша паўночная"
+      },
+      {
+        "lang": "be-x-old",
         "name": "Олуша паўночная"
       },
       {
@@ -182,7 +294,7 @@
       },
       {
         "lang": "ca",
-        "name": "Mascarell comú"
+        "name": "Mascarell atlàntic"
       },
       {
         "lang": "cs",
@@ -218,7 +330,7 @@
       },
       {
         "lang": "es",
-        "name": "Alcatraz Atlántico"
+        "name": "Alcatraz atlántico"
       },
       {
         "lang": "et",
@@ -227,6 +339,10 @@
       {
         "lang": "eu",
         "name": "Zanga"
+      },
+      {
+        "lang": "fa",
+        "name": "سفیدغاز شمالی"
       },
       {
         "lang": "fi",
@@ -242,7 +358,7 @@
       },
       {
         "lang": "frr",
-        "name": "Jan faan Gent"
+        "name": "Jan-faan-Gent"
       },
       {
         "lang": "ga",
@@ -273,19 +389,20 @@
         "name": "Szula"
       },
       {
+        "lang": "id",
+        "name": "Gannet utara"
+      },
+      {
         "lang": "is",
         "name": "Súla"
       },
       {
         "lang": "it",
-        "name": "Sula bassana"
+        "name": "Sula"
       },
       {
         "lang": "ja",
-        "name": "シロカツオドリ",
-        "synonyms": [
-          "shirokatsuodori"
-        ]
+        "name": "シロカツオドリ"
       },
       {
         "lang": "kk",
@@ -308,6 +425,10 @@
         "name": "Sula"
       },
       {
+        "lang": "nds",
+        "name": "Jan vun Gent"
+      },
+      {
         "lang": "nl",
         "name": "Jan-van-gent"
       },
@@ -320,16 +441,20 @@
         "name": "Havsule"
       },
       {
+        "lang": "olo",
+        "name": "Suulu"
+      },
+      {
         "lang": "pcd",
         "name": "Margat"
       },
       {
         "lang": "pl",
-        "name": "Głuptak"
+        "name": "Głuptak zwyczajny"
       },
       {
-        "lang": "pms",
-        "name": "Sula bassana"
+        "lang": "pnb",
+        "name": "اتلا گینٹ"
       },
       {
         "lang": "pt",
@@ -360,6 +485,10 @@
         "name": "Basani i çmendur"
       },
       {
+        "lang": "sr",
+        "name": "Блуна"
+      },
+      {
         "lang": "sv",
         "name": "Havssula"
       },
@@ -369,15 +498,23 @@
       },
       {
         "lang": "uk",
-        "name": "Північна олуша"
+        "name": "Сула атлантична"
       },
       {
         "lang": "vi",
         "name": "Ó biển phương Bắc"
       },
       {
+        "lang": "wuu",
+        "name": "北方塘鹅"
+      },
+      {
         "lang": "zh",
         "name": "北方塘鹅"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "憨鰹雀"
       }
     ]
   }

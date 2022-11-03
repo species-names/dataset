@@ -9,6 +9,14 @@
       {
         "lang": "pt",
         "name": "Macuru-carijó"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Rapazinho-carijó"
+      },
+      {
+        "lang": "es",
+        "name": "Buco moteado"
       }
     ]
   },
@@ -18,7 +26,20 @@
   },
   {
     "scientific_name": "Bucco macrodactylus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-capped Puffbird"
+      },
+      {
+        "lang": "pt",
+        "name": "Rapazinho-de-bone-vermelho"
+      },
+      {
+        "lang": "es",
+        "name": "Buco cabecirrojo"
+      }
+    ]
   },
   {
     "scientific_name": "Bucco capensis",
@@ -28,8 +49,12 @@
         "name": "Collared Puffbird"
       },
       {
-        "lang": "pt",
-        "name": "Macuru-de-colar"
+        "lang": "pt-br",
+        "name": "rapazinho-de-colar"
+      },
+      {
+        "lang": "es",
+        "name": "Buco musiú"
       }
     ]
   }

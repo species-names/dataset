@@ -18,7 +18,7 @@ describe('No Empty', function () {
           if(file.length <= 0){
             emptyGenera.push(fileStat.name)
             console.log(path.join(root, fileStat.name));
-            // fs.unlinkSync(path.join(root’, fileStat.name));
+            // fs.unlinkSync(path.join(root, fileStat.name));
           }
           next()
       })

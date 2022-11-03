@@ -1,5 +1,138 @@
 [
   {
+    "scientific_name": "Lewinia striata",
+    "common_names": [
+      {
+        "lang": "bh",
+        "name": "गैलिरालस स्ट्रैटस"
+      },
+      {
+        "lang": "bn",
+        "name": "মেটেবুক ঝিল্লি"
+      },
+      {
+        "lang": "ca",
+        "name": "Rascló de cap vermell"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen gefnresog"
+      },
+      {
+        "lang": "da",
+        "name": "Gråbrystet Skovrikse"
+      },
+      {
+        "lang": "de",
+        "name": "Graubrustralle"
+      },
+      {
+        "lang": "en",
+        "name": "Slaty-breasted Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón rufigrís"
+      },
+      {
+        "lang": "fa",
+        "name": "یلوه سینه‌توسی"
+      },
+      {
+        "lang": "fi",
+        "name": "Seepraluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle strié"
+      },
+      {
+        "lang": "hu",
+        "name": "Szürkemellű guvat"
+      },
+      {
+        "lang": "id",
+        "name": "Mandar-padi sintar"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo pettoardesia"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシナガクイナ"
+      },
+      {
+        "lang": "ml",
+        "name": "നീലമാറൻ കുളക്കോഴി"
+      },
+      {
+        "lang": "mr",
+        "name": "निळ्या छातीची पाणकोंबडी"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Sintar"
+      },
+      {
+        "lang": "my",
+        "name": "ရေငုံးရင်မီးခိုး"
+      },
+      {
+        "lang": "ne",
+        "name": "ठूलो कस्दरी"
+      },
+      {
+        "lang": "nl",
+        "name": "Gebandeerde Ral"
+      },
+      {
+        "lang": "no",
+        "name": "Orientrikse"
+      },
+      {
+        "lang": "or",
+        "name": "ମେଘୁଆ ବେଣା ଡାହୁକ"
+      },
+      {
+        "lang": "pl",
+        "name": "Wodnik rdzawogłowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "سلیٹی چھاتی آلی ریل"
+      },
+      {
+        "lang": "pt",
+        "name": "Sanã-de-peito-azulado"
+      },
+      {
+        "lang": "ru",
+        "name": "Серогрудый пастушок"
+      },
+      {
+        "lang": "sv",
+        "name": "Brunkronad rall"
+      },
+      {
+        "lang": "ta",
+        "name": "நீலமார்புச் சம்பங்கோழி"
+      },
+      {
+        "lang": "th",
+        "name": "นกอัญชันอกสีเทา"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà nước vằn"
+      },
+      {
+        "lang": "zh",
+        "name": "灰胸紋秧雞"
+      }
+    ]
+  },
+  {
     "scientific_name": "Lewinia pectoralis",
     "common_names": [
       {
@@ -78,7 +211,24 @@
     ]
   },
   {
-    "scientific_name": "Lewinia mirificus",
-    "common_names": []
+    "scientific_name": "Lewinia mirifica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown-banded Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón de Luzón"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Luçon"
+      },
+      {
+        "lang": "nn",
+        "name": "Luzonrikse"
+      }
+    ]
   }
 ]

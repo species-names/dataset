@@ -9,6 +9,10 @@
       {
         "lang": "hu",
         "name": "Smaragd remetekolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño de Yaruqui"
       }
     ]
   },
@@ -18,6 +22,10 @@
       {
         "lang": "en",
         "name": "Tawny-bellied Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño ventrihabano"
       }
     ]
   },
@@ -35,6 +43,14 @@
       {
         "lang": "pt",
         "name": "Besourão-de-rabo-branco"
+      },
+      {
+        "lang": "pt-br",
+        "name": "rabo-branco-de-bigodes"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño colilargo"
       }
     ]
   },
@@ -48,6 +64,14 @@
       {
         "lang": "fi",
         "name": "Kuparierakkokolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño ocráceo"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-de-barriga-fulva"
       }
     ]
   },
@@ -61,6 +85,10 @@
       {
         "lang": "fi",
         "name": "Bolivianerakkokolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño boliviano"
       }
     ]
   },
@@ -134,6 +162,10 @@
       {
         "lang": "en",
         "name": "Dusky-throated Hermit"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-pequeno"
       }
     ]
   },
@@ -175,7 +207,7 @@
       },
       {
         "lang": "pt-br",
-        "name": "Rabo-branco-rubro"
+        "name": "rabo-branco-rubro"
       },
       {
         "lang": "simple",
@@ -188,6 +220,10 @@
       {
         "lang": "sv",
         "name": "Rosteremit"
+      },
+      {
+        "lang": "en",
+        "name": "Reddish Hermit"
       }
     ]
   },
@@ -214,6 +250,14 @@
       {
         "lang": "fi",
         "name": "Neulaerakkokolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño picoaguja"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-amarelo"
       }
     ]
   },
@@ -227,6 +271,23 @@
       {
         "lang": "fi",
         "name": "Kanelierakkokolibri"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-de-sobre-amarelo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis mexicanus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mexican Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermintaño mexicano"
       }
     ]
   },
@@ -269,6 +330,10 @@
       {
         "lang": "zh",
         "name": "小隐蜂鸟"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño chico"
       }
     ]
   },
@@ -282,6 +347,10 @@
       {
         "lang": "fi",
         "name": "Pohjanerakkokolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño piquilargo"
       }
     ]
   },
@@ -291,6 +360,10 @@
       {
         "lang": "en",
         "name": "Koepcke's Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño de Koepcke"
       },
       {
         "lang": "fi",
@@ -335,7 +408,7 @@
       },
       {
         "lang": "pt",
-        "name": "Besourinho"
+        "name": "rabo-branco-mirim"
       },
       {
         "lang": "fi",
@@ -349,6 +422,14 @@
       {
         "lang": "en",
         "name": "White-bearded Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño barbiblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-cinza"
       }
     ]
   },
@@ -366,6 +447,10 @@
       {
         "lang": "zh",
         "name": "绿隐蜂鸟"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño verde"
       }
     ]
   },
@@ -375,6 +460,14 @@
       {
         "lang": "en",
         "name": "Grey-chinned Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño barbigrís"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-de-garganta-cinza"
       }
     ]
   },
@@ -392,6 +485,14 @@
       {
         "lang": "sv",
         "name": "Fjällstrupseremit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño escamoso"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-de-garganta-rajada"
       }
     ]
   },
@@ -405,6 +506,14 @@
       {
         "lang": "fi",
         "name": "Kalpaerakkokolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño piquirrecto"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-de-bico-reto"
       }
     ]
   },
@@ -422,6 +531,14 @@
       {
         "lang": "sv",
         "name": "Soteremit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño limpiacasa"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-cinza-claro"
       }
     ]
   },
@@ -431,6 +548,14 @@
       {
         "lang": "en",
         "name": "Black-throated Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño barbinegro"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-de-garganta-escura"
       }
     ]
   },
@@ -440,6 +565,23 @@
       {
         "lang": "en",
         "name": "Pale-bellied Hermit"
+      },
+      {
+        "lang": "es",
+        "name": "Ermitaño ventripálido"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Phaethornis aethopygus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tapajós Hermit"
+      },
+      {
+        "lang": "pt",
+        "name": "rabo-branco-do-tapajós"
       }
     ]
   }

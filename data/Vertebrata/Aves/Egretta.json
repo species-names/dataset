@@ -207,16 +207,40 @@
     "scientific_name": "Egretta thula",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Sneeuwitreier"
+      },
+      {
         "lang": "ar",
         "name": "مالك الحزين"
+      },
+      {
+        "lang": "arz",
+        "name": "بلشون ثلجى"
       },
       {
         "lang": "be",
         "name": "Белая амерыканская чапля"
       },
       {
+        "lang": "bg",
+        "name": "Снежна чапла"
+      },
+      {
+        "lang": "bs",
+        "name": "Snježna čaplja"
+      },
+      {
+        "lang": "ca",
+        "name": "Martinet blanc americà"
+      },
+      {
         "lang": "cs",
-        "name": "volavka bělostná"
+        "name": "Volavka bělostná"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr Eirwyn"
       },
       {
         "lang": "da",
@@ -232,22 +256,43 @@
       },
       {
         "lang": "eo",
-        "name": "Neĝa egretardeo"
+        "name": "Blanka egreto"
       },
       {
         "lang": "es",
-        "name": "Garceta Nívea",
-        "synonyms": [
-          "Garcita Blanca"
-        ]
+        "name": "Garceta nívea"
+      },
+      {
+        "lang": "et",
+        "name": "Ameerika siidhaigur"
+      },
+      {
+        "lang": "eu",
+        "name": "Elur-koartzatxo"
+      },
+      {
+        "lang": "fa",
+        "name": "قار برفی"
       },
       {
         "lang": "fi",
-        "name": "lumihaikara"
+        "name": "Lumihaikara"
       },
       {
         "lang": "fr",
         "name": "Aigrette neigeuse"
+      },
+      {
+        "lang": "ga",
+        "name": "Éigrit shneachtúil"
+      },
+      {
+        "lang": "he",
+        "name": "אנפית השלג"
+      },
+      {
+        "lang": "hr",
+        "name": "Snježna čaplja"
       },
       {
         "lang": "hu",
@@ -263,37 +308,43 @@
       },
       {
         "lang": "ja",
-        "name": "ユキコサギ",
-        "synonyms": [
-          "yukikosagi"
-        ]
+        "name": "ユキコサギ"
       },
       {
         "lang": "lt",
         "name": "Snieginis garnys"
       },
       {
+        "lang": "lv",
+        "name": "Sniega gārnis"
+      },
+      {
         "lang": "nl",
-        "name": "Amerikaanse kleine zilverreiger"
+        "name": "Amerikaanse Kleine Zilverreiger"
       },
       {
         "lang": "no",
         "name": "Snøhegre"
       },
       {
+        "lang": "nv",
+        "name": "Toohjįʼ ndiigaii"
+      },
+      {
         "lang": "pl",
         "name": "Czapla śnieżna"
       },
       {
-        "lang": "pt-br",
-        "name": "Garça-branca-pequena"
+        "lang": "pnb",
+        "name": "برفی بگلا"
       },
       {
         "lang": "pt",
-        "name": "Garça-branca-pequena",
-        "synonyms": [
-          "Garcinha-branca"
-        ]
+        "name": "Garça-branca-pequena"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Garça-branca-pequena"
       },
       {
         "lang": "qu",
@@ -305,18 +356,31 @@
       },
       {
         "lang": "sk",
-        "name": "volavka žltoprstá"
+        "name": "Volavka žltoprstá"
+      },
+      {
+        "lang": "sl",
+        "name": "Snežna čaplja"
       },
       {
         "lang": "sr",
-        "name": "Снежна чапља",
-        "synonyms": [
-          "Snežna čaplja"
-        ]
+        "name": "Снежна чапља - Snežna čaplja"
       },
       {
         "lang": "sv",
         "name": "Snöhäger"
+      },
+      {
+        "lang": "tr",
+        "name": "Süt beyazı balıkçıl"
+      },
+      {
+        "lang": "uk",
+        "name": "Чепура американська"
+      },
+      {
+        "lang": "vi",
+        "name": "Cò tuyết"
       },
       {
         "lang": "zh",

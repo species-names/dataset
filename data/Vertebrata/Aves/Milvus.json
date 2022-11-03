@@ -209,6 +209,10 @@
       {
         "lang": "zh",
         "name": "赤鳶"
+      },
+      {
+        "lang": "or",
+        "name": "ଗେରୁଆ ଚିଲ"
       }
     ]
   },
@@ -228,6 +232,10 @@
         "name": "الحدأة"
       },
       {
+        "lang": "arz",
+        "name": "حداه سوداء"
+      },
+      {
         "lang": "as",
         "name": "চিলনী"
       },
@@ -240,16 +248,24 @@
         "name": "Qara çalağan"
       },
       {
+        "lang": "ba",
+        "name": "Төйлөгән"
+      },
+      {
         "lang": "bar",
         "name": "Schworzer Milan"
       },
       {
         "lang": "be",
-        "name": "Чорны каршун"
+        "name": "Каршун чорны"
       },
       {
         "lang": "bg",
         "name": "Черна каня"
+      },
+      {
+        "lang": "bm",
+        "name": "Npokolon"
       },
       {
         "lang": "bn",
@@ -262,6 +278,14 @@
       {
         "lang": "ca",
         "name": "Milà negre"
+      },
+      {
+        "lang": "ce",
+        "name": "Ӏаьржа гӀиргӀа"
+      },
+      {
+        "lang": "cjs",
+        "name": "Қартыға"
       },
       {
         "lang": "co",
@@ -277,11 +301,11 @@
       },
       {
         "lang": "cy",
-        "name": "Barcud ddu"
+        "name": "Barcud clustddu"
       },
       {
         "lang": "da",
-        "name": "Sort glente"
+        "name": "Sort Glente"
       },
       {
         "lang": "de",
@@ -289,7 +313,7 @@
       },
       {
         "lang": "el",
-        "name": "Γυπογεράκα"
+        "name": "Τσίφτης"
       },
       {
         "lang": "en",
@@ -309,7 +333,11 @@
       },
       {
         "lang": "eu",
-        "name": "Milà negre"
+        "name": "Miru beltz"
+      },
+      {
+        "lang": "fa",
+        "name": "کورکور سیاه"
       },
       {
         "lang": "fi",
@@ -333,7 +361,11 @@
       },
       {
         "lang": "gl",
-        "name": "Millafre negro"
+        "name": "Miñato queimado"
+      },
+      {
+        "lang": "ha",
+        "name": "Shirwa"
       },
       {
         "lang": "he",
@@ -353,7 +385,7 @@
       },
       {
         "lang": "hy",
-        "name": "Ցին սև"
+        "name": "Սև ցին"
       },
       {
         "lang": "id",
@@ -376,6 +408,10 @@
         "name": "ძერა"
       },
       {
+        "lang": "kbd",
+        "name": "Къашыргъэщхьэху"
+      },
+      {
         "lang": "kjn",
         "name": "Тигілген"
       },
@@ -386,6 +422,10 @@
       {
         "lang": "ko",
         "name": "솔개"
+      },
+      {
+        "lang": "lez",
+        "name": "ЧӀулав чалагъан"
       },
       {
         "lang": "ln",
@@ -404,20 +444,24 @@
         "name": "Hitsikitsika"
       },
       {
-        "lang": "ml",
-        "name": "ചക്കി പരുന്ത്‌"
-      },
-      {
         "lang": "mk",
         "name": "Црна луња"
       },
       {
+        "lang": "ml",
+        "name": "ചക്കിപ്പരുന്ത്"
+      },
+      {
         "lang": "mn",
-        "name": "Сохор элээ"
+        "name": "Хар элээ"
       },
       {
         "lang": "mr",
         "name": "घार"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ӓмӹрт"
       },
       {
         "lang": "ms",
@@ -445,11 +489,19 @@
       },
       {
         "lang": "or",
-        "name": "ଚିଲ"
+        "name": "ମାଟିଆ ଚିଲ"
       },
       {
         "lang": "pl",
         "name": "Kania czarna"
+      },
+      {
+        "lang": "pnb",
+        "name": "ڡڈی اِلھ"
+      },
+      {
+        "lang": "ps",
+        "name": "تور ټپوس"
       },
       {
         "lang": "pt",
@@ -460,12 +512,20 @@
         "name": "Milan stgir"
       },
       {
+        "lang": "ro",
+        "name": "Gaie neagră"
+      },
+      {
         "lang": "ru",
         "name": "Чёрный коршун"
       },
       {
-        "lang": "cjs",
-        "name": "Қартыға"
+        "lang": "rue",
+        "name": "Коршун чорный"
+      },
+      {
+        "lang": "sd",
+        "name": "سرڻ"
       },
       {
         "lang": "sk",
@@ -481,10 +541,7 @@
       },
       {
         "lang": "sr",
-        "name": "Mrka lunja",
-        "synonyms": [
-          "Мрка лунја"
-        ]
+        "name": "Црна луња"
       },
       {
         "lang": "sv",
@@ -495,38 +552,52 @@
         "name": "Mwewe Domo-jeusi"
       },
       {
+        "lang": "ta",
+        "name": "கரும்பருந்து"
+      },
+      {
         "lang": "th",
         "name": "เหยี่ยวดำ"
+      },
+      {
+        "lang": "tl",
+        "name": "Itim na saranggola"
       },
       {
         "lang": "tr",
         "name": "Kara çaylak"
       },
       {
+        "lang": "tt",
+        "name": "Кара тилгән"
+      },
+      {
         "lang": "tyv",
-        "name": "Дээлдиген",
-        "synonyms": [
-          "согуржап"
-        ]
+        "name": "Дээлдиген"
+      },
+      {
+        "lang": "udm",
+        "name": "Сьӧд душес"
       },
       {
         "lang": "uk",
-        "name": "Чорний шуліка"
+        "name": "Шуліка чорний"
       },
       {
         "lang": "vi",
-        "name": "Diều",
-        "synonyms": [
-          "Diều hâu"
-        ]
+        "name": "Diều hâu đen"
+      },
+      {
+        "lang": "wuu",
+        "name": "黑鸢"
+      },
+      {
+        "lang": "zh",
+        "name": "黑鸢"
       },
       {
         "lang": "zh-yue",
         "name": "麻鷹"
-      },
-      {
-        "lang": "zh",
-        "name": "黑鳶"
       }
     ]
   },

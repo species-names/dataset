@@ -12,6 +12,10 @@
     "common_names": []
   },
   {
+    "scientific_name": "Psilopogon auricularis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Psilopogon annamensis",
     "common_names": []
   },
@@ -403,6 +407,27 @@
       {
         "lang": "ms",
         "name": "Burung Takur Misai Mas"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psilopogon chersonesus",
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Barbut verd de gorja turquesa"
+      },
+      {
+        "lang": "en",
+        "name": "Turquoise-throated barbet"
+      },
+      {
+        "lang": "nl",
+        "name": "Khao-luangbaardvogel"
+      },
+      {
+        "lang": "sv",
+        "name": "turkosstrupig barbett"
       }
     ]
   },

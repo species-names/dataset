@@ -1077,12 +1077,56 @@
     "scientific_name": "Vanellus indicus",
     "common_names": [
       {
-        "lang": "de",
-        "name": "Rotlappenkiebitz"
+        "lang": "ar",
+        "name": "قطقاط أحمر اللغد"
+      },
+      {
+        "lang": "arz",
+        "name": "قطقاط احمر اللغد"
+      },
+      {
+        "lang": "as",
+        "name": "বালিঘোৰা"
+      },
+      {
+        "lang": "az",
+        "name": "Hindistan bəzəklicəsi"
+      },
+      {
+        "lang": "azb",
+        "name": "وانللوس یندیکوس"
+      },
+      {
+        "lang": "bg",
+        "name": "Индийска калугерица"
+      },
+      {
+        "lang": "bn",
+        "name": "হটটিটি"
+      },
+      {
+        "lang": "br",
+        "name": "Kornigell India"
+      },
+      {
+        "lang": "ca",
+        "name": "Fredeluga de màscara roja"
       },
       {
         "lang": "cs",
         "name": "Čejka černoprsá"
+      },
+      {
+        "lang": "cy",
+        "name": "Cornchwiglen dagellgoch"
+      },
+      {
+        "lang": "da",
+        "name": "Indisk Vibe"
+      },
+      {
+        "lang": "de",
+        "name": "Rotlappenkiebitz"
       },
       {
         "lang": "en",
@@ -1090,26 +1134,131 @@
       },
       {
         "lang": "eo",
-        "name": "Hinda vanelo"
+        "name": "Ruĝbeka vanelo"
+      },
+      {
+        "lang": "es",
+        "name": "Avefría india"
+      },
+      {
+        "lang": "fa",
+        "name": "دیدومک"
+      },
+      {
+        "lang": "fi",
+        "name": "Kenttähyyppä"
       },
       {
         "lang": "fr",
         "name": "Vanneau indien"
       },
       {
-        "lang": "th",
-        "name": "นกต้อยตีวิด",
-        "synonyms": [
-          "นกกระแตแต้แว้ด"
-        ]
+        "lang": "ga",
+        "name": "Pilibín Indiach"
       },
       {
-        "lang": "ta",
-        "name": "சிவப்பு மூக்கு ஆள்காட்டி குருவி"
+        "lang": "he",
+        "name": "קיווית אדומת-משקפיים"
+      },
+      {
+        "lang": "hi",
+        "name": "टिट्टिभ"
+      },
+      {
+        "lang": "hu",
+        "name": "Bibircses bíbic"
+      },
+      {
+        "lang": "hy",
+        "name": "Զարդարված կիվիվ"
+      },
+      {
+        "lang": "it",
+        "name": "Pavoncella indiana"
+      },
+      {
+        "lang": "kn",
+        "name": "ಕೆಂಪು ಟಿಟ್ಟಿಭ"
+      },
+      {
+        "lang": "ku",
+        "name": "Nikilsora beravî"
+      },
+      {
+        "lang": "ml",
+        "name": "ചെങ്കണ്ണി തിത്തിരി"
+      },
+      {
+        "lang": "mnw",
+        "name": "တေဝ်တောတ်၊ ဂစေံ"
+      },
+      {
+        "lang": "mr",
+        "name": "टिटवी"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Rapang Duit"
+      },
+      {
+        "lang": "my",
+        "name": "တစ်တီတူး"
+      },
+      {
+        "lang": "ne",
+        "name": "हुटिट्याउँ"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische Kievit"
       },
       {
         "lang": "or",
         "name": "ନାଲି ଟେଣ୍ଟେଇ"
+      },
+      {
+        "lang": "pl",
+        "name": "Czajka indyjska"
+      },
+      {
+        "lang": "ru",
+        "name": "Украшенный чибис"
+      },
+      {
+        "lang": "sd",
+        "name": "ٽيٽيهر"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödflikvipa"
+      },
+      {
+        "lang": "ta",
+        "name": "சிவப்பு மூக்கு ஆள்காட்டி"
+      },
+      {
+        "lang": "tcy",
+        "name": "ಇಟ್ಟಿರಿ"
+      },
+      {
+        "lang": "th",
+        "name": "นกต้อยตีวิด"
+      },
+      {
+        "lang": "tr",
+        "name": "Kızıl ibikli kız kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Чайка індійська"
+      },
+      {
+        "lang": "vi",
+        "name": "Te vặt"
+      },
+      {
+        "lang": "zh",
+        "name": "肉垂麦鸡"
       }
     ]
   },
@@ -1310,7 +1459,7 @@
     ]
   },
   {
-    "scientific_name": "Vanellus duvaucelli",
+    "scientific_name": "Vanellus duvaucelii",
     "common_names": []
   },
   {
@@ -1435,8 +1584,20 @@
     "scientific_name": "Vanellus chilensis",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Южноамериканска калугерица"
+      },
+      {
+        "lang": "ca",
+        "name": "Fredeluga de Xile"
+      },
+      {
         "lang": "cs",
         "name": "Čejka jihoamerická"
+      },
+      {
+        "lang": "cy",
+        "name": "Cornchwiglen De America"
       },
       {
         "lang": "da",
@@ -1456,11 +1617,15 @@
       },
       {
         "lang": "es",
-        "name": "Avefría Tero"
+        "name": "Avefría tero"
       },
       {
         "lang": "et",
-        "name": "lõunakiivitaja"
+        "name": "Lõunakiivitaja"
+      },
+      {
+        "lang": "fa",
+        "name": "خروس‌کلی جنوبی"
       },
       {
         "lang": "fi",
@@ -1479,43 +1644,56 @@
         "name": "Tetẽu"
       },
       {
+        "lang": "he",
+        "name": "קיווית צ'יליאנית"
+      },
+      {
+        "lang": "hr",
+        "name": "Crnoprsi vivak"
+      },
+      {
         "lang": "hu",
         "name": "Pampabíbic"
       },
       {
         "lang": "it",
-        "name": "Pavoncella del Cile"
+        "name": "Pavoncella del Sudamerica"
       },
       {
         "lang": "ja",
-        "name": "ナンベイゲリ",
-        "synonyms": [
-          "nambeitageri"
-        ]
+        "name": "ナンベイタゲリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Pietinė pempė"
       },
       {
         "lang": "nl",
-        "name": "Chileense kievit"
+        "name": "Chileense Kievit"
       },
       {
         "lang": "no",
-        "name": "Amerikatoppvipe"
+        "name": "Bronsevipe"
+      },
+      {
+        "lang": "nv",
+        "name": "Tábąąsdísítsoh bítááʼ halzhinígíí"
       },
       {
         "lang": "pl",
         "name": "Czajka miedziana"
       },
       {
-        "lang": "pt-br",
-        "name": "Quero-quero"
-      },
-      {
         "lang": "pt",
         "name": "Quero-quero"
       },
       {
+        "lang": "pt-br",
+        "name": "Quero-quero"
+      },
+      {
         "lang": "ru",
-        "name": "Чилийский чибис"
+        "name": "Кайеннская пигалица"
       },
       {
         "lang": "sk",
@@ -1526,8 +1704,12 @@
         "name": "Sydamerikansk vipa"
       },
       {
+        "lang": "uk",
+        "name": "Чайка чилійська"
+      },
+      {
         "lang": "zh",
-        "name": "凤头距翅麦鸡"
+        "name": "鳳頭距翅麥雞"
       }
     ]
   },

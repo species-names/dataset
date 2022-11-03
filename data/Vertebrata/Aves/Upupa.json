@@ -1,0 +1,646 @@
+[
+  {
+    "scientific_name": "Upupa paradisea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Upupa antaios",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Upupa marginata",
+    "common_names": [
+      {
+        "lang": "arz",
+        "name": "هدهد مدغشقر"
+      },
+      {
+        "lang": "ca",
+        "name": "Puput de Madagascar"
+      },
+      {
+        "lang": "cy",
+        "name": "Copog Madagasgar"
+      },
+      {
+        "lang": "da",
+        "name": "Madagaskarhærfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Madagaskarwiedehopf"
+      },
+      {
+        "lang": "en",
+        "name": "Madagascan Hoopoe"
+      },
+      {
+        "lang": "es",
+        "name": "Abubilla malgache"
+      },
+      {
+        "lang": "et",
+        "name": "Madagaskari vaenukägu"
+      },
+      {
+        "lang": "fa",
+        "name": "هدهد ماداگاسکار"
+      },
+      {
+        "lang": "fr",
+        "name": "Huppe de Madagascar"
+      },
+      {
+        "lang": "hu",
+        "name": "Madagaszkári búbos banka"
+      },
+      {
+        "lang": "it",
+        "name": "Upupa del Madagascar"
+      },
+      {
+        "lang": "ja",
+        "name": "マダガスカルヤツガシラ"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskarhop"
+      },
+      {
+        "lang": "no",
+        "name": "Madagaskarhærfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Dudek madagaskarski"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарский удод"
+      },
+      {
+        "lang": "sv",
+        "name": "Madagaskarhärfågel"
+      },
+      {
+        "lang": "uk",
+        "name": "Одуд мадагаскарський"
+      },
+      {
+        "lang": "vi",
+        "name": "Đầu rìu Madagascar"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Upupa epops",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Hoephoep"
+      },
+      {
+        "lang": "als",
+        "name": "Widhapf"
+      },
+      {
+        "lang": "an",
+        "name": "Porput"
+      },
+      {
+        "lang": "ar",
+        "name": "هدهد"
+      },
+      {
+        "lang": "ast",
+        "name": "Pupa"
+      },
+      {
+        "lang": "az",
+        "name": "Şanapipik"
+      },
+      {
+        "lang": "ba",
+        "name": "Һөҙһөт"
+      },
+      {
+        "lang": "bar",
+        "name": "Wut-Wut"
+      },
+      {
+        "lang": "be",
+        "name": "Удод"
+      },
+      {
+        "lang": "bg",
+        "name": "Папуняк"
+      },
+      {
+        "lang": "bn",
+        "name": "মোহনচূড়া"
+      },
+      {
+        "lang": "bo",
+        "name": "པུ་ཤུད།"
+      },
+      {
+        "lang": "br",
+        "name": "Houperig"
+      },
+      {
+        "lang": "bs",
+        "name": "Pupavac"
+      },
+      {
+        "lang": "ca",
+        "name": "Puput",
+        "synonyms": [
+          "palput"
+        ]
+      },
+      {
+        "lang": "ce",
+        "name": "H̗uttut"
+      },
+      {
+        "lang": "co",
+        "name": "Puppusgiula"
+      },
+      {
+        "lang": "cs",
+        "name": "Dudek chocholatý"
+      },
+      {
+        "lang": "cv",
+        "name": "Хыркук"
+      },
+      {
+        "lang": "cy",
+        "name": "Copog"
+      },
+      {
+        "lang": "da",
+        "name": "Hærfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Wiedehopf"
+      },
+      {
+        "lang": "diq",
+        "name": "Hophopık"
+      },
+      {
+        "lang": "dsb",
+        "name": "Hupac"
+      },
+      {
+        "lang": "el",
+        "name": "Τσαλαπετεινός"
+      },
+      {
+        "lang": "eml",
+        "name": "Bóbla"
+      },
+      {
+        "lang": "en",
+        "name": "Eurasian Hoopoe"
+      },
+      {
+        "lang": "eo",
+        "name": "Eŭrazia upupo"
+      },
+      {
+        "lang": "es",
+        "name": "Abubilla"
+      },
+      {
+        "lang": "et",
+        "name": "Vaenukägu"
+      },
+      {
+        "lang": "eu",
+        "name": "Argi-oilar"
+      },
+      {
+        "lang": "fa",
+        "name": "هدهد"
+      },
+      {
+        "lang": "fi",
+        "name": "Harjalintu"
+      },
+      {
+        "lang": "fo",
+        "name": "Herfuglur"
+      },
+      {
+        "lang": "fr",
+        "name": "Huppe fasciée"
+      },
+      {
+        "lang": "frr",
+        "name": "Wiiduu"
+      },
+      {
+        "lang": "fy",
+        "name": "Hûpe"
+      },
+      {
+        "lang": "ga",
+        "name": "Húpú"
+      },
+      {
+        "lang": "gd",
+        "name": "Calman cathaidh"
+      },
+      {
+        "lang": "gl",
+        "name": "Bubela"
+      },
+      {
+        "lang": "gv",
+        "name": "Ushag ny thorran"
+      },
+      {
+        "lang": "ha",
+        "name": "Kahuhu"
+      },
+      {
+        "lang": "he",
+        "name": "דוכיפת"
+      },
+      {
+        "lang": "hi",
+        "name": "हुदहुद"
+      },
+      {
+        "lang": "hr",
+        "name": "Pupavac"
+      },
+      {
+        "lang": "hsb",
+        "name": "Hupak"
+      },
+      {
+        "lang": "hu",
+        "name": "Búbos banka"
+      },
+      {
+        "lang": "hy",
+        "name": "Հոպոպ"
+      },
+      {
+        "lang": "id",
+        "name": "Burung hud-hud"
+      },
+      {
+        "lang": "io",
+        "name": "Upupo"
+      },
+      {
+        "lang": "is",
+        "name": "Herfugl"
+      },
+      {
+        "lang": "it",
+        "name": "Upupa"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤツガシラ"
+      },
+      {
+        "lang": "ka",
+        "name": "ოფოფი"
+      },
+      {
+        "lang": "kjh",
+        "name": "Кööк адайы"
+      },
+      {
+        "lang": "kk",
+        "name": "Бәбісек"
+      },
+      {
+        "lang": "kn",
+        "name": "ಚಂದ್ರಮುಕುಟ"
+      },
+      {
+        "lang": "ko",
+        "name": "후투티"
+      },
+      {
+        "lang": "ku",
+        "name": "Silêmanê dunikul"
+      },
+      {
+        "lang": "kw",
+        "name": "Hoopoo"
+      },
+      {
+        "lang": "ky",
+        "name": "Сасык үпүп"
+      },
+      {
+        "lang": "lb",
+        "name": "Mitock"
+      },
+      {
+        "lang": "li",
+        "name": "Hoephap"
+      },
+      {
+        "lang": "lt",
+        "name": "Kukutis"
+      },
+      {
+        "lang": "lv",
+        "name": "Pupuķis"
+      },
+      {
+        "lang": "mg",
+        "name": "Barao"
+      },
+      {
+        "lang": "mk",
+        "name": "Пупунец"
+      },
+      {
+        "lang": "ml",
+        "name": "ഉപ്പൂപ്പൻ"
+      },
+      {
+        "lang": "mn",
+        "name": "Өвөөлж"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung hud-hud"
+      },
+      {
+        "lang": "mt",
+        "name": "Daqquqa tat-Toppu"
+      },
+      {
+        "lang": "mwl",
+        "name": "boubelo",
+        "synonyms": [
+          "coquelhuda"
+        ]
+      },
+      {
+        "lang": "my",
+        "name": "တောင်ဘီစုတ်ငှက်"
+      },
+      {
+        "lang": "myv",
+        "name": "Пичекивге"
+      },
+      {
+        "lang": "nds",
+        "name": "Puupvagel"
+      },
+      {
+        "lang": "nds-nl",
+        "name": "Hoepe"
+      },
+      {
+        "lang": "nl",
+        "name": "Hop"
+      },
+      {
+        "lang": "nn",
+        "name": "Hærfugl"
+      },
+      {
+        "lang": "no",
+        "name": "Hærfugl"
+      },
+      {
+        "lang": "nrm",
+        "name": "Huppe"
+      },
+      {
+        "lang": "oc",
+        "name": "Puput"
+      },
+      {
+        "lang": "os",
+        "name": "Дыгоппон"
+      },
+      {
+        "lang": "pa",
+        "name": "ਸ਼ਿਕਰਾ"
+      },
+      {
+        "lang": "pcd",
+        "name": "Bout-bout"
+      },
+      {
+        "lang": "pl",
+        "name": "Dudek"
+      },
+      {
+        "lang": "pms",
+        "name": "Pupù"
+      },
+      {
+        "lang": "pnb",
+        "name": "چک چکیرا"
+      },
+      {
+        "lang": "pt",
+        "name": "Poupa"
+      },
+      {
+        "lang": "rm",
+        "name": "Cot da matg"
+      },
+      {
+        "lang": "ro",
+        "name": "Pupăză"
+      },
+      {
+        "lang": "ru",
+        "name": "Удод"
+      },
+      {
+        "lang": "rue",
+        "name": "Дудок"
+      },
+      {
+        "lang": "sc",
+        "name": "Pubusa"
+      },
+      {
+        "lang": "scn",
+        "name": "Pipituni"
+      },
+      {
+        "lang": "sh",
+        "name": "Pupavac"
+      },
+      {
+        "lang": "sk",
+        "name": "Dudok chochlatý"
+      },
+      {
+        "lang": "sl",
+        "name": "Smrdokavr"
+      },
+      {
+        "lang": "sq",
+        "name": "Pupë"
+      },
+      {
+        "lang": "sr",
+        "name": "Пупавац",
+        "synonyms": [
+          "Pupavac"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Härfågel"
+      },
+      {
+        "lang": "sw",
+        "name": "Hudihudi"
+      },
+      {
+        "lang": "ta",
+        "name": "கொண்டலாத்தி"
+      },
+      {
+        "lang": "th",
+        "name": "นกกะรางหัวขวาน"
+      },
+      {
+        "lang": "tr",
+        "name": "İbibik"
+      },
+      {
+        "lang": "tyv",
+        "name": "Итпик"
+      },
+      {
+        "lang": "uk",
+        "name": "Одуд"
+      },
+      {
+        "lang": "ur",
+        "name": "ہد ہد"
+      },
+      {
+        "lang": "vec",
+        "name": "Gaza buba"
+      },
+      {
+        "lang": "vi",
+        "name": "Đầu rìu"
+      },
+      {
+        "lang": "vls",
+        "name": "Hoepentoep"
+      },
+      {
+        "lang": "zh",
+        "name": "戴胜"
+      },
+      {
+        "lang": "or",
+        "name": "ପାନିଆ ପତ୍ରୀ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Upupa africana",
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Hoep-hoep"
+      },
+      {
+        "lang": "ar",
+        "name": "هدهد أفريقي"
+      },
+      {
+        "lang": "arz",
+        "name": "هدهد افريقى"
+      },
+      {
+        "lang": "ca",
+        "name": "Puput africana"
+      },
+      {
+        "lang": "da",
+        "name": "Afrikansk Hærfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Afrikawiedehopf"
+      },
+      {
+        "lang": "ee",
+        "name": "Ŋɔlixevi"
+      },
+      {
+        "lang": "en",
+        "name": "African Hoopoe"
+      },
+      {
+        "lang": "es",
+        "name": "Abubilla Africana"
+      },
+      {
+        "lang": "et",
+        "name": "Savanni-vaenukägu"
+      },
+      {
+        "lang": "fa",
+        "name": "هدهد آفریقایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Huppe d'Afrique"
+      },
+      {
+        "lang": "it",
+        "name": "Upupa  africana"
+      },
+      {
+        "lang": "ja",
+        "name": "アフリカヤツガシラ"
+      },
+      {
+        "lang": "mni",
+        "name": "ꯑꯐ꯭ꯔꯤꯀꯥꯟ ꯍꯨꯄꯣꯢ"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse Hop"
+      },
+      {
+        "lang": "no",
+        "name": "Kanelhærfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Dudek rdzawy"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканский удод"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk härfågel"
+      },
+      {
+        "lang": "uk",
+        "name": "Одуд африканський"
+      }
+    ]
+  }
+]

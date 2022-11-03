@@ -3,29 +3,6 @@
     "scientific_name": "Rougetius rougetii",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Rouget's Rail"
-      },
-      {
-        "lang": "es",
-        "name": "Rascón etíope"
-      },
-      {
-        "lang": "fi",
-        "name": "Etiopianluhtakana"
-      },
-      {
-        "lang": "fr",
-        "name": "Râle de Rouget"
-      },
-      {
-        "lang": "sv",
-        "name": "Etiopisk rall",
-        "synonyms": [
-          "rougetrall"
-        ]
-      },
-      {
         "lang": "br",
         "name": "Rakig Rouget"
       },
@@ -38,8 +15,24 @@
         "name": "Rhegen Rouget"
       },
       {
+        "lang": "en",
+        "name": "Rouget's Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Rascón etíope"
+      },
+      {
         "lang": "fa",
         "name": "یلوه روگت"
+      },
+      {
+        "lang": "fi",
+        "name": "Etiopianluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Rouget"
       },
       {
         "lang": "he",
@@ -51,7 +44,11 @@
       },
       {
         "lang": "nl",
-        "name": "Rougets ral"
+        "name": "Rougets Ral"
+      },
+      {
+        "lang": "sv",
+        "name": "Etiopisk rall"
       }
     ]
   }

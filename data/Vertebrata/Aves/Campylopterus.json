@@ -5,8 +5,16 @@
       {
         "lang": "en",
         "name": "Napo Sabrewing"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí del Napo"
       }
     ]
+  },
+  {
+    "scientific_name": "Campylopterus rufus",
+    "common_names": []
   },
   {
     "scientific_name": "Campylopterus phainopeplus",
@@ -52,6 +60,10 @@
         "name": "santamartasabelvinge"
       }
     ]
+  },
+  {
+    "scientific_name": "Campylopterus pampa",
+    "common_names": []
   },
   {
     "scientific_name": "Campylopterus largipennis",
@@ -104,7 +116,7 @@
       },
       {
         "lang": "es",
-        "name": "Colibrí Morado"
+        "name": "Colibrí morado"
       },
       {
         "lang": "et",
@@ -236,11 +248,15 @@
     ]
   },
   {
+    "scientific_name": "Campylopterus excellens",
+    "common_names": []
+  },
+  {
     "scientific_name": "Campylopterus ensipennis",
     "common_names": [
       {
         "lang": "en",
-        "name": "White-tailed Sabrewing"
+        "name": "White-tailed sabrewing"
       },
       {
         "lang": "es",
@@ -289,6 +305,14 @@
         "name": "Asa-de-sabre-do-espinhaço"
       }
     ]
+  },
+  {
+    "scientific_name": "Campylopterus cuvierii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Campylopterus curvipennis",
+    "common_names": []
   },
   {
     "scientific_name": "Campylopterus calcirupicola",

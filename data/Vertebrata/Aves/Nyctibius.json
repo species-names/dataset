@@ -17,6 +17,10 @@
       {
         "lang": "zh",
         "name": "安第斯林鴟"
+      },
+      {
+        "lang": "fr",
+        "name": "Ibijau des Andes"
       }
     ]
   },
@@ -40,6 +44,10 @@
         "name": "Nictibio aliblanco"
       },
       {
+        "lang": "fr",
+        "name": "Ibijau à ailes blanches"
+      },
+      {
         "lang": "pt",
         "name": "Urutau-de-asa-branca"
       }
@@ -59,6 +67,10 @@
       {
         "lang": "zh",
         "name": "北林梟"
+      },
+      {
+        "lang": "fr",
+        "name": "Ibijau jamaïcain"
       }
     ]
   },
@@ -119,6 +131,10 @@
         "name": "Great Potoo"
       },
       {
+        "lang": "fr",
+        "name": "Grand Ibijau"
+      },
+      {
         "lang": "ja",
         "name": "オオタチヨタカ"
       },
@@ -141,24 +157,7 @@
   },
   {
     "scientific_name": "Nyctibius bracteatus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Potu rezavý"
-      },
-      {
-        "lang": "en",
-        "name": "Rufous Potoo"
-      },
-      {
-        "lang": "zh",
-        "name": "棕林鴟"
-      },
-      {
-        "lang": "pt",
-        "name": "Urutau-ferrugem"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Nyctibius aethereus",
@@ -174,6 +173,10 @@
       {
         "lang": "zh",
         "name": "長尾林鴟"
+      },
+      {
+        "lang": "fr",
+        "name": "Ibijau à longue queue"
       },
       {
         "lang": "pt",

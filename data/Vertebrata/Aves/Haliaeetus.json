@@ -383,6 +383,10 @@
         "name": "Båndhavørn"
       },
       {
+        "lang": "or",
+        "name": "ବଇରିଗଞ୍ଜନ"
+      },
+      {
         "lang": "pl",
         "name": "Bielik wschodni"
       },
@@ -404,8 +408,36 @@
     "scientific_name": "Haliaeetus leucogaster",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "عقاب أبيض البطن"
+      },
+      {
+        "lang": "bn",
+        "name": "ধলাপেট সিন্ধুঈগল"
+      },
+      {
+        "lang": "br",
+        "name": "Morerer kof gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Pigarg ventreblanc"
+      },
+      {
+        "lang": "ceb",
+        "name": "Manaol"
+      },
+      {
         "lang": "cs",
         "name": "Orel bělobřichý"
+      },
+      {
+        "lang": "cy",
+        "name": "Eryr môr torwyn"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidbrystet Havørn"
       },
       {
         "lang": "de",
@@ -413,7 +445,7 @@
       },
       {
         "lang": "en",
-        "name": "White-Bellied Sea Eagle"
+        "name": "White-bellied Sea Eagle"
       },
       {
         "lang": "eo",
@@ -424,36 +456,112 @@
         "name": "Pigargo oriental"
       },
       {
+        "lang": "fa",
+        "name": "عقاب دریایی شکم‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkomerikotka"
+      },
+      {
         "lang": "fr",
         "name": "Pygargue blagre"
+      },
+      {
+        "lang": "he",
+        "name": "עיטם לבן-גחון"
       },
       {
         "lang": "hu",
         "name": "Fehérhasú rétisas"
       },
       {
+        "lang": "id",
+        "name": "Elang-laut dada-putih"
+      },
+      {
+        "lang": "it",
+        "name": "Aquila pescatrice panciabianca"
+      },
+      {
         "lang": "ja",
         "name": "シロハラウミワシ"
+      },
+      {
+        "lang": "ml",
+        "name": "വെള്ളവയറൻ കടൽ‌പ്പരുന്ത്‌"
+      },
+      {
+        "lang": "mn",
+        "name": "Цагаан хэвлийт нөмрөг бүргэд"
+      },
+      {
+        "lang": "mr",
+        "name": "समुद्र गरुड"
+      },
+      {
+        "lang": "mrj",
+        "name": "Ош мӹшкӹрӓн колгучкыж"
       },
       {
         "lang": "ms",
         "name": "Burung Lang Siput"
       },
       {
+        "lang": "my",
+        "name": "ဝံလိုငှက်"
+      },
+      {
         "lang": "nl",
         "name": "Witbuikzeearend"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitbukhavørn"
+      },
+      {
+        "lang": "or",
+        "name": "କୁରୁବଳ"
       },
       {
         "lang": "pl",
         "name": "Bielik białobrzuchy"
       },
       {
+        "lang": "pnb",
+        "name": "چٹے ٹڈ آلا سمندری عقاب"
+      },
+      {
+        "lang": "ru",
+        "name": "Белобрюхий орлан"
+      },
+      {
+        "lang": "sk",
+        "name": "Orliak bielobruchý"
+      },
+      {
         "lang": "sv",
         "name": "Vitbukig havsörn"
       },
       {
+        "lang": "ta",
+        "name": "வெள்ளை வயிறு கடற்கழுகு"
+      },
+      {
         "lang": "th",
         "name": "นกออก"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak karınlı deniz kartalı"
+      },
+      {
+        "lang": "uk",
+        "name": "Орлан білочеревий"
+      },
+      {
+        "lang": "vi",
+        "name": "Đại bàng bụng trắng"
       },
       {
         "lang": "zh",
@@ -462,14 +570,6 @@
       {
         "lang": "zh-yue",
         "name": "白腹海鵰"
-      },
-      {
-        "lang": "ta",
-        "name": "வெள்ளை ஆழிக்கழுகு"
-      },
-      {
-        "lang": "or",
-        "name": "କୁରୁବଳ"
       }
     ]
   },
@@ -702,6 +802,10 @@
       {
         "lang": "zh",
         "name": "白頭海鵰"
+      },
+      {
+        "lang": "or",
+        "name": "ଈଗଲ୍"
       }
     ]
   },
@@ -1067,6 +1171,10 @@
       {
         "lang": "zh",
         "name": "白尾海雕"
+      },
+      {
+        "lang": "or",
+        "name": "ଶତୃସଲ"
       }
     ]
   }

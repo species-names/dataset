@@ -46,28 +46,6 @@
     ]
   },
   {
-    "scientific_name": "Eupodotis savilei",
-    "common_names": [
-      {
-        "lang": "sv",
-        "name": "Saheltrapp"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Eupodotis ruficrista",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Red-crested Bustard"
-      },
-      {
-        "lang": "sv",
-        "name": "Sydlig tofstrapp"
-      }
-    ]
-  },
-  {
     "scientific_name": "Eupodotis rueppellii",
     "common_names": [
       {
@@ -89,19 +67,6 @@
     ]
   },
   {
-    "scientific_name": "Eupodotis melanogaster",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Eupodotis indica",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Lesser Florican"
-      }
-    ]
-  },
-  {
     "scientific_name": "Eupodotis humilis",
     "common_names": [
       {
@@ -115,19 +80,6 @@
       {
         "lang": "sv",
         "name": "Bruntrapp"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Eupodotis hartlaubii",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Eupodotis gindiana",
-    "common_names": [
-      {
-        "lang": "sv",
-        "name": "Östafrikansk tofstrapp"
       }
     ]
   },
@@ -149,52 +101,6 @@
       {
         "lang": "sv",
         "name": "Blåtrapp"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Eupodotis bengalensis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Eupodotis afraoides",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "White-quilled Bustard"
-      },
-      {
-        "lang": "es",
-        "name": "Sisón negro aliclaro"
-      },
-      {
-        "lang": "sv",
-        "name": "Vitvingad trapp"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Eupodotis afra",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Black Bustard"
-      },
-      {
-        "lang": "fr",
-        "name": "Outarde korhaan"
-      },
-      {
-        "lang": "ja",
-        "name": "クロエリショウノガン"
-      },
-      {
-        "lang": "pt",
-        "name": "Abetarda-de-asa-preta"
-      },
-      {
-        "lang": "sv",
-        "name": "Svarttrapp"
       }
     ]
   }

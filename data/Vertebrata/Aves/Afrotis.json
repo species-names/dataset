@@ -3,6 +3,50 @@
     "scientific_name": "Afrotis afraoides",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Witvlerkkorhaan"
+      },
+      {
+        "lang": "ca",
+        "name": "Sisó negre septentrional"
+      },
+      {
+        "lang": "cs",
+        "name": "Drop šedotemenný"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidvinget sorttrappe"
+      },
+      {
+        "lang": "fa",
+        "name": "هوبره سیاه شمالی"
+      },
+      {
+        "lang": "fi",
+        "name": "Botswanantrappi"
+      },
+      {
+        "lang": "he",
+        "name": "חוברה שחורה צפונית"
+      },
+      {
+        "lang": "hu",
+        "name": "Fokföldi túzok"
+      },
+      {
+        "lang": "nl",
+        "name": "Botswanatrap"
+      },
+      {
+        "lang": "nv",
+        "name": "Tééh dééł łizhinígíí"
+      },
+      {
+        "lang": "vi",
+        "name": "Ô tác đuôi trắng"
+      },
+      {
         "lang": "de",
         "name": "Weißflügeltrappe"
       },
@@ -21,6 +65,10 @@
       {
         "lang": "ja",
         "name": "ハジロクロエリショウノガン"
+      },
+      {
+        "lang": "sv",
+        "name": "vitvingad trapp"
       }
     ]
   },
@@ -32,12 +80,19 @@
         "name": "Otiz du"
       },
       {
+        "lang": "ca",
+        "name": "Sisó negre meridional"
+      },
+      {
         "lang": "de",
         "name": "Gackeltrappe"
       },
       {
         "lang": "en",
-        "name": "Black Bustard"
+        "name": "Black Bustard",
+        "synonyms": [
+          "Southern black korhaan"
+        ]
       },
       {
         "lang": "es",
@@ -58,6 +113,46 @@
       {
         "lang": "pt",
         "name": "Abetarda-de-asa-preta"
+      },
+      {
+        "lang": "af",
+        "name": "Swartvlerkkorhaan"
+      },
+      {
+        "lang": "avk",
+        "name": "Buomi (Afrotis)"
+      },
+      {
+        "lang": "cy",
+        "name": "Ceiliog gwaun du"
+      },
+      {
+        "lang": "da",
+        "name": "Sorttrappe"
+      },
+      {
+        "lang": "fa",
+        "name": "هوبره سیاه جنوبی"
+      },
+      {
+        "lang": "he",
+        "name": "חוברה שחורה דרומית"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte trap"
+      },
+      {
+        "lang": "nv",
+        "name": "Tééh dééł yistłʼinígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "svarttrapp"
+      },
+      {
+        "lang": "vi",
+        "name": "Ô tác đen"
       }
     ]
   }

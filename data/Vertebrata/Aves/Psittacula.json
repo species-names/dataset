@@ -76,6 +76,10 @@
         "name": "Bloesemkopparkiet"
       },
       {
+        "lang": "or",
+        "name": "ଚନ୍ଦନା ଶୁଆ"
+      },
+      {
         "lang": "pa",
         "name": "ਲਾਲ ਸਿਰ ਤੋਤਾ"
       },
@@ -279,8 +283,20 @@
     "scientific_name": "Psittacula himalayana",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Schwarzkopfsittich"
+      },
+      {
         "lang": "en",
         "name": "Slaty-headed Parakeet"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijskopparkiet"
+      },
+      {
+        "lang": "sv",
+        "name": "Himalayaparakit"
       }
     ]
   },
@@ -465,7 +481,10 @@
       },
       {
         "lang": "zh",
-        "name": "大紫胸鹦鹉"
+        "name": "大紫胸鹦鹉",
+        "synonyms": [
+          "绯胸鹦鹉"
+        ]
       }
     ]
   },
@@ -473,8 +492,120 @@
     "scientific_name": "Psittacula cyanocephala",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "ببغاء ذو رأس برقوقية"
+      },
+      {
+        "lang": "arz",
+        "name": "ببغاء ذو راس برقوقيه"
+      },
+      {
+        "lang": "bg",
+        "name": "Сливоглав александър"
+      },
+      {
+        "lang": "bh",
+        "name": "टुइयाँ सुग्गा"
+      },
+      {
+        "lang": "ca",
+        "name": "Cotorra cap de pruna"
+      },
+      {
+        "lang": "cs",
+        "name": "Alexandr indický"
+      },
+      {
+        "lang": "cy",
+        "name": "Paracît pen cochlas"
+      },
+      {
+        "lang": "da",
+        "name": "Blommehovedet Ædelparakit"
+      },
+      {
+        "lang": "de",
+        "name": "Pflaumenkopfsittich"
+      },
+      {
         "lang": "en",
         "name": "Plum-headed Parakeet"
+      },
+      {
+        "lang": "es",
+        "name": "Cotorra cabeciazul"
+      },
+      {
+        "lang": "et",
+        "name": "Karmiinpea-kaeluspapagoi"
+      },
+      {
+        "lang": "fa",
+        "name": "پاراکی سرآلویی"
+      },
+      {
+        "lang": "fi",
+        "name": "Luumupääkaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Perruche à tête prune"
+      },
+      {
+        "lang": "hu",
+        "name": "Szilvafejű papagáj"
+      },
+      {
+        "lang": "it",
+        "name": "Parrocchetto testaprugna"
+      },
+      {
+        "lang": "ml",
+        "name": "പൂന്തത്ത"
+      },
+      {
+        "lang": "mrj",
+        "name": "Якшар вуян шӓргӓшӓн попугай"
+      },
+      {
+        "lang": "ne",
+        "name": "टुइँसी सुगा"
+      },
+      {
+        "lang": "nl",
+        "name": "Pruimekopparkiet"
+      },
+      {
+        "lang": "no",
+        "name": "Plommehodeparakitt"
+      },
+      {
+        "lang": "or",
+        "name": "ଫୁଲଟୁସୀ"
+      },
+      {
+        "lang": "pl",
+        "name": "Aleksandretta śliwogłowa"
+      },
+      {
+        "lang": "pnb",
+        "name": "لال سرا طوطا"
+      },
+      {
+        "lang": "pt",
+        "name": "Periquito-cabeça-de-ameixa"
+      },
+      {
+        "lang": "ru",
+        "name": "Красноголовый кольчатый попугай"
+      },
+      {
+        "lang": "sv",
+        "name": "Plommonhuvad parakit"
+      },
+      {
+        "lang": "ta",
+        "name": "செந்தலைக் கிளி"
       }
     ]
   },

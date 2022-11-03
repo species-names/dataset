@@ -35,35 +35,88 @@
     "scientific_name": "Threskiornis melanocephalus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "أبو منجل أسود الرأس"
+      },
+      {
+        "lang": "arz",
+        "name": "ابو منجل اسود الراس"
+      },
+      {
         "lang": "bn",
-        "name": "কাস্তেচরা"
+        "name": "কালোমাথা কাস্তেচরা"
+      },
+      {
+        "lang": "br",
+        "name": "Ibiz penn du"
+      },
+      {
+        "lang": "ca",
+        "name": "Ibis capnegre"
       },
       {
         "lang": "cs",
         "name": "Ibis černohlavý"
       },
       {
+        "lang": "cy",
+        "name": "Ibis penddu"
+      },
+      {
+        "lang": "da",
+        "name": "Indisk Ibis"
+      },
+      {
         "lang": "de",
-        "name": "Schwarzkopfibis",
-        "synonyms": [
-          "Schwarzhalsibis"
-        ]
+        "name": "Schwarzkopfibis"
+      },
+      {
+        "lang": "el",
+        "name": "Μαυροκέφαλη ίβιδα"
       },
       {
         "lang": "en",
         "name": "Black-headed Ibis"
       },
       {
+        "lang": "eo",
+        "name": "Nigrakapa ibiso"
+      },
+      {
+        "lang": "es",
+        "name": "Ibis oriental"
+      },
+      {
+        "lang": "et",
+        "name": "Idaiibis"
+      },
+      {
         "lang": "fa",
         "name": "اکراس سرسیاه"
+      },
+      {
+        "lang": "fi",
+        "name": "Aasianpyhäiibis"
       },
       {
         "lang": "fr",
         "name": "Ibis à tête noire"
       },
       {
+        "lang": "he",
+        "name": "מגלן שחור-ראש"
+      },
+      {
         "lang": "hu",
         "name": "Feketefejű íbisz"
+      },
+      {
+        "lang": "id",
+        "name": "Ibis cucuk-besi"
+      },
+      {
+        "lang": "it",
+        "name": "Ibis testanera"
       },
       {
         "lang": "ja",
@@ -79,19 +132,19 @@
       },
       {
         "lang": "lt",
-        "name": "Juodagalvis ibis"
+        "name": "Azijinis juodagalvis ibis"
       },
       {
         "lang": "ml",
         "name": "കഷണ്ടിക്കൊക്ക്"
       },
       {
-        "lang": "mrj",
-        "name": "Шим вуян ибис"
-      },
-      {
         "lang": "mr",
         "name": "काळ्या डोक्याचा शराटी"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шим вуян ибис"
       },
       {
         "lang": "ms",
@@ -103,11 +156,15 @@
       },
       {
         "lang": "nl",
-        "name": "Indische witte ibis"
+        "name": "Indische Witte Ibis"
       },
       {
-        "lang": "nv",
-        "name": "Naakaii Dootłʼizhii Bikéyahdę́ę́ʼ tsídiidaashiyishí bitsiiʼ halzhinígíí"
+        "lang": "no",
+        "name": "Orientibis"
+      },
+      {
+        "lang": "or",
+        "name": "ଧଳା ବାଜୁଣି"
       },
       {
         "lang": "pl",
@@ -116,6 +173,10 @@
       {
         "lang": "pnb",
         "name": "کالے سر آلا آئیبس"
+      },
+      {
+        "lang": "pt",
+        "name": "Íbis-de-cabeça-negra"
       },
       {
         "lang": "ru",
@@ -127,7 +188,7 @@
       },
       {
         "lang": "sv",
-        "name": "orientibis"
+        "name": "Orientibis"
       },
       {
         "lang": "ta",
@@ -135,14 +196,15 @@
       },
       {
         "lang": "th",
-        "name": "นกช้อนหอยขาว",
-        "synonyms": [
-          "นกกุลาขาว"
-        ]
+        "name": "นกช้อนหอยขาว"
       },
       {
         "lang": "tr",
         "name": "Kara başlı aynak"
+      },
+      {
+        "lang": "uk",
+        "name": "Ібіс сивоперий"
       },
       {
         "lang": "vi",
@@ -151,10 +213,6 @@
       {
         "lang": "zh",
         "name": "黑頭白鹮"
-      },
-      {
-        "lang": "or",
-        "name": "ଧଳା ବାଜୁଣି"
       }
     ]
   },

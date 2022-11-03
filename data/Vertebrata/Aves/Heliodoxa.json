@@ -5,6 +5,14 @@
       {
         "lang": "en",
         "name": "Velvet-browed Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante de tepuy"
+      },
+      {
+        "lang": "pt",
+        "name": "brilhante-veludo"
       }
     ]
   },
@@ -22,11 +30,64 @@
     ]
   },
   {
+    "scientific_name": "Heliodoxa rubricauda",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Rubinkolibri"
+      },
+      {
+        "lang": "en",
+        "name": "Brazilian Ruby"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí colirrojo"
+      },
+      {
+        "lang": "fi",
+        "name": "Rubiinikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri rubis-émeraude"
+      },
+      {
+        "lang": "nl",
+        "name": "Braziliaanse robijnkolibrie"
+      },
+      {
+        "lang": "pnb",
+        "name": "برازیلی یاقوت"
+      },
+      {
+        "lang": "pt",
+        "name": "Beija-flor-rubi"
+      },
+      {
+        "lang": "sv",
+        "name": "Brasiliansk rubinstrupe"
+      },
+      {
+        "lang": "sw",
+        "name": "Grönbröstad rubinstrupe"
+      },
+      {
+        "lang": "tr",
+        "name": "Brezilya yakutu"
+      }
+    ]
+  },
+  {
     "scientific_name": "Heliodoxa rubinoides",
     "common_names": [
       {
         "lang": "en",
         "name": "Fawn-breasted Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante pechigamuza"
       }
     ]
   },
@@ -36,6 +97,10 @@
       {
         "lang": "en",
         "name": "Violet-fronted Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante frentivioleta"
       }
     ]
   },
@@ -63,7 +128,7 @@
       },
       {
         "lang": "es",
-        "name": "Brillante Coroniverde"
+        "name": "Brillante coroniverde"
       },
       {
         "lang": "fi",
@@ -124,6 +189,10 @@
       {
         "lang": "en",
         "name": "Empress Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante emperador"
       }
     ]
   },
@@ -133,6 +202,10 @@
       {
         "lang": "en",
         "name": "Pink-throated Brilliant"
+      },
+      {
+        "lang": "es",
+        "name": "Brillante gorjirrosado"
       }
     ]
   },

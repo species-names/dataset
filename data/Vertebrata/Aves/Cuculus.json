@@ -214,6 +214,10 @@
       {
         "lang": "tr",
         "name": "Kara guguk"
+      },
+      {
+        "lang": "ta",
+        "name": "கருங்குயில்"
       }
     ]
   },
@@ -318,7 +322,7 @@
       },
       {
         "lang": "en",
-        "name": "Common cuckoo"
+        "name": "Common Cuckoo"
       },
       {
         "lang": "eo",
@@ -382,11 +386,7 @@
       },
       {
         "lang": "he",
-        "name": "קוקיה אירופאית",
-        "synonyms": [
-          "קוקיה אירופית",
-          "קוקייה אירופית"
-        ]
+        "name": "קוקיה אירופאית"
       },
       {
         "lang": "hr",
@@ -610,10 +610,7 @@
       },
       {
         "lang": "sr",
-        "name": "Kukavica",
-        "synonyms": [
-          "кукавица"
-        ]
+        "name": "Kukavica - кукавица"
       },
       {
         "lang": "stq",
@@ -657,7 +654,7 @@
       },
       {
         "lang": "vep",
-        "name": "kägi"
+        "name": "Kägi"
       },
       {
         "lang": "vi",

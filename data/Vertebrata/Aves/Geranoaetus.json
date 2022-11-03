@@ -3,24 +3,116 @@
     "scientific_name": "Geranoaetus polyosoma",
     "common_names": [
       {
-        "lang": "es",
-        "name": "Busardo dorsirrojo"
+        "lang": "arz",
+        "name": "الصقر المتغير"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеногръб мишелов"
+      },
+      {
+        "lang": "ca",
+        "name": "Aligot tricolor"
       },
       {
         "lang": "cs",
         "name": "Káně rudohřbetá"
       },
       {
+        "lang": "cy",
+        "name": "Bwncath cefngoch"
+      },
+      {
+        "lang": "da",
+        "name": "Pragtvåge"
+      },
+      {
+        "lang": "de",
+        "name": "Rotrückenbussard"
+      },
+      {
         "lang": "en",
         "name": "Variable Hawk"
       },
       {
+        "lang": "eo",
+        "name": "Varia buteo"
+      },
+      {
+        "lang": "es",
+        "name": "Busardo dorsirrojo"
+      },
+      {
+        "lang": "et",
+        "name": "Mägiviu"
+      },
+      {
+        "lang": "fa",
+        "name": "باز رنگارنگ"
+      },
+      {
+        "lang": "fi",
+        "name": "Punaselkähaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Buse tricolore"
+      },
+      {
+        "lang": "hr",
+        "name": "Andski škanjac"
+      },
+      {
+        "lang": "hu",
+        "name": "Vöröshátú ölyv"
+      },
+      {
+        "lang": "it",
+        "name": "Poiana dorsorosso"
+      },
+      {
+        "lang": "ja",
+        "name": "セアカノスリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudnugaris suopis"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodrugbuizerd"
+      },
+      {
+        "lang": "no",
+        "name": "Andesvåk"
+      },
+      {
         "lang": "pl",
-        "name": "Myszołów rdzawogrzbiety"
+        "name": "Aguja rdzawogrzbieta"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-de-costas-vermelhas"
+      },
+      {
+        "lang": "ru",
+        "name": "Красноспинный канюк"
+      },
+      {
+        "lang": "sk",
+        "name": "Myšiak menlivý"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödryggig vråk"
       },
       {
         "lang": "tr",
         "name": "Kızıl sırtlı şahin"
+      },
+      {
+        "lang": "uk",
+        "name": "Канюк андійський"
       }
     ]
   },
@@ -28,20 +120,52 @@
     "scientific_name": "Geranoaetus melanoleucus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Àguila pitnegra"
+      },
+      {
+        "lang": "da",
+        "name": "Andesvåge"
+      },
+      {
+        "lang": "de",
+        "name": "Andenbussard"
+      },
+      {
         "lang": "en",
         "name": "Black-chested Buzzard-eagle"
       },
       {
         "lang": "es",
-        "name": "Aguila Mora"
+        "name": "Águila mora"
+      },
+      {
+        "lang": "fr",
+        "name": "Buse aguia"
+      },
+      {
+        "lang": "it",
+        "name": "Aquila poiana pettonero"
+      },
+      {
+        "lang": "nl",
+        "name": "Grijze Arendbuizerd"
+      },
+      {
+        "lang": "no",
+        "name": "Høvdingvåk"
       },
       {
         "lang": "pl",
         "name": "Aguja"
       },
       {
-        "lang": "nl",
-        "name": "Chili Arend"
+        "lang": "pt",
+        "name": "Águia-serrana"
+      },
+      {
+        "lang": "qu",
+        "name": "Anka"
       }
     ]
   },
@@ -49,32 +173,124 @@
     "scientific_name": "Geranoaetus albicaudatus",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "الصقر الابيض الذيل"
+      },
+      {
+        "lang": "br",
+        "name": "Baou lost gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Aligot cuablanc"
+      },
+      {
         "lang": "cs",
         "name": "Káně pestrá"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwncath cynffonwyn"
+      },
+      {
+        "lang": "da",
+        "name": "Rustskuldret Musvåge"
+      },
+      {
+        "lang": "de",
+        "name": "Weißschwanzbussard"
       },
       {
         "lang": "en",
         "name": "White-tailed Hawk"
       },
       {
+        "lang": "eo",
+        "name": "Blankavosta buteo"
+      },
+      {
         "lang": "es",
         "name": "Busardo coliblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Valgesaba-viu"
+      },
+      {
+        "lang": "fa",
+        "name": "باز دم‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaktushiirihaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Buse à queue blanche"
+      },
+      {
+        "lang": "hr",
+        "name": "Bjelorepi škanjac"
       },
       {
         "lang": "hu",
         "name": "Fehérszárnyú ölyv"
       },
       {
+        "lang": "it",
+        "name": "Poiana graduata"
+      },
+      {
+        "lang": "ja",
+        "name": "オジロノスリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltauodegis suopis"
+      },
+      {
+        "lang": "lv",
+        "name": "Garspārnu klijāns"
+      },
+      {
+        "lang": "nl",
+        "name": "Witstaartbuizerd"
+      },
+      {
+        "lang": "no",
+        "name": "Hvithalevåk"
+      },
+      {
+        "lang": "nv",
+        "name": "Atseełgaii"
+      },
+      {
         "lang": "pl",
-        "name": "Myszołów białosterny"
+        "name": "Aguja białosterny"
       },
       {
         "lang": "pt",
         "name": "Gavião-de-rabo-branco"
       },
       {
+        "lang": "ru",
+        "name": "Белохвостый канюк"
+      },
+      {
+        "lang": "sk",
+        "name": "Myšiak hrdzavoplecí"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitstjärtad vråk"
+      },
+      {
         "lang": "tr",
         "name": "Ak kuyruklu şahin"
+      },
+      {
+        "lang": "uk",
+        "name": "Канюк білохвостий"
       }
     ]
   }

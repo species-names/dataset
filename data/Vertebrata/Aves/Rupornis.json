@@ -3,8 +3,20 @@
     "scientific_name": "Rupornis magnirostris",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "هوك على جانب الطريق"
+      },
+      {
+        "lang": "ca",
+        "name": "Aligot becgròs"
+      },
+      {
         "lang": "cs",
         "name": "Káně krahujová"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwncath De America"
       },
       {
         "lang": "da",
@@ -19,12 +31,20 @@
         "name": "Roadside Hawk"
       },
       {
+        "lang": "eo",
+        "name": "Grandbeka buteo"
+      },
+      {
         "lang": "es",
         "name": "Busardo caminero"
       },
       {
         "lang": "et",
         "name": "Väikeviu"
+      },
+      {
+        "lang": "fa",
+        "name": "باز کنارجاده‌ای"
       },
       {
         "lang": "fi",
@@ -37,6 +57,10 @@
       {
         "lang": "gn",
         "name": "Yndaje"
+      },
+      {
+        "lang": "he",
+        "name": "עקב צד הדרך"
       },
       {
         "lang": "hu",
@@ -63,15 +87,19 @@
         "name": "Veivåk"
       },
       {
-        "lang": "pl",
-        "name": "Myszołów krzykliwy"
+        "lang": "nv",
+        "name": "Atsáłchííʼ yázhí"
       },
       {
-        "lang": "pt-br",
-        "name": "Gavião-carijó"
+        "lang": "pl",
+        "name": "Myszołowczyk"
       },
       {
         "lang": "pt",
+        "name": "Gavião-carijó"
+      },
+      {
+        "lang": "pt-br",
         "name": "Gavião-carijó"
       },
       {
@@ -83,6 +111,10 @@
         "name": "Myšiak zobatý"
       },
       {
+        "lang": "sr",
+        "name": "Јастреб крајпуташ"
+      },
+      {
         "lang": "sv",
         "name": "Vägvråk"
       },
@@ -92,7 +124,7 @@
       },
       {
         "lang": "zh",
-        "name": "阔嘴鵟"
+        "name": "大嘴鵟"
       }
     ]
   }

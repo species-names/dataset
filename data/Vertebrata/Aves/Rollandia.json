@@ -92,6 +92,10 @@
     "scientific_name": "Rollandia microptera",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "تيتيكاكا جريب"
+      },
+      {
         "lang": "ca",
         "name": "Cabusset del Titicaca"
       },
@@ -102,6 +106,10 @@
       {
         "lang": "cy",
         "name": "Gwyach adeinfer"
+      },
+      {
+        "lang": "da",
+        "name": "Titicacalappedykker"
       },
       {
         "lang": "de",
@@ -120,6 +128,10 @@
         "name": "Zampullín del Titicaca"
       },
       {
+        "lang": "et",
+        "name": "Titicaca pütt"
+      },
+      {
         "lang": "fa",
         "name": "کشیم تیتیکاکا"
       },
@@ -133,10 +145,15 @@
       },
       {
         "lang": "hu",
-        "name": "Titicaca-vöcsök",
-        "synonyms": [
-          "rövidszárnyú vöcsök"
-        ]
+        "name": "Titicaca-vöcsök"
+      },
+      {
+        "lang": "it",
+        "name": "Svasso alicorte"
+      },
+      {
+        "lang": "ja",
+        "name": "コバネカイツブリ"
       },
       {
         "lang": "nl",
@@ -159,12 +176,16 @@
         "name": "K'ili"
       },
       {
+        "lang": "ru",
+        "name": "Короткокрылая поганка"
+      },
+      {
         "lang": "sv",
         "name": "Titicacadopping"
       },
       {
         "lang": "uk",
-        "name": "Тітікакська безкрила пірникоза"
+        "name": "Пірникоза короткокрила"
       }
     ]
   }

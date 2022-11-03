@@ -1,10 +1,104 @@
 [
   {
-    "scientific_name": "Leptodon (Leptodontaceae)",
-    "common_names": []
+    "scientific_name": "Leptodon forbesi",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Luňákovec bělokrký"
+      },
+      {
+        "lang": "es",
+        "name": "Milano acollarado"
+      },
+      {
+        "lang": "tr",
+        "name": "Beyaz halkalı çaylak"
+      },
+      {
+        "lang": "ar",
+        "name": "حدأة أبيض العنق"
+      },
+      {
+        "lang": "az",
+        "name": "Ağ halqalı çalağan"
+      },
+      {
+        "lang": "br",
+        "name": "Barged kolier gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Milà blanc"
+      },
+      {
+        "lang": "cy",
+        "name": "Barcud torchog"
+      },
+      {
+        "lang": "en",
+        "name": "White-collared kite"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankakola milvo"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkokaulushaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Bec-en-croc de Forbes"
+      },
+      {
+        "lang": "ja",
+        "name": "シロエリトビ"
+      },
+      {
+        "lang": "nl",
+        "name": "Witkraagwouw"
+      },
+      {
+        "lang": "pl",
+        "name": "Leptodon białogłowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-de-pescoço-branco"
+      },
+      {
+        "lang": "sv",
+        "name": "halsbandsglada"
+      },
+      {
+        "lang": "zh",
+        "name": "白頸鳶"
+      }
+    ]
   },
   {
-    "scientific_name": "Leptodon (Accipitridae)",
-    "common_names": []
+    "scientific_name": "Leptodon cayanensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Luňákovec šedohlavý"
+      },
+      {
+        "lang": "en",
+        "name": "Gray-headed Kite"
+      },
+      {
+        "lang": "es",
+        "name": "Milano cabecigrís"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-de-cabeça-cinza"
+      },
+      {
+        "lang": "tr",
+        "name": "Gri başlı çaylak"
+      }
+    ]
   }
 ]

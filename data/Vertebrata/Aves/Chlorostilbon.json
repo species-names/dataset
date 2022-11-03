@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Chlorostilbon swainsonii",
+    "common_names": []
+  },
+  {
     "scientific_name": "Chlorostilbon stenurus",
     "common_names": [
       {
@@ -18,8 +22,16 @@
       {
         "lang": "en",
         "name": "Coppery Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda bronceada"
       }
     ]
+  },
+  {
+    "scientific_name": "Chlorostilbon ricordii",
+    "common_names": []
   },
   {
     "scientific_name": "Chlorostilbon poortmani",
@@ -27,6 +39,10 @@
       {
         "lang": "en",
         "name": "Short-tailed Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda colicorta"
       }
     ]
   },
@@ -40,6 +56,10 @@
       {
         "lang": "pl",
         "name": "złocik zielony"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda del Chiribiquete"
       }
     ]
   },
@@ -52,10 +72,7 @@
       },
       {
         "lang": "es",
-        "name": "Colibrí esmeralda",
-        "synonyms": [
-          "esmeralda coliazul"
-        ]
+        "name": "Esmeralda coliazul"
       },
       {
         "lang": "fi",
@@ -72,6 +89,10 @@
       {
         "lang": "sv",
         "name": "Blåstjärtad smaragd"
+      },
+      {
+        "lang": "pt",
+        "name": "esmeralda-de-cauda-azul"
       }
     ]
   },
@@ -89,6 +110,10 @@
     ]
   },
   {
+    "scientific_name": "Chlorostilbon maugaeus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Chlorostilbon lucidus",
     "common_names": [
       {
@@ -98,6 +123,14 @@
       {
         "lang": "fr",
         "name": "Émeraude splendide"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda Ventridorada"
+      },
+      {
+        "lang": "pt",
+        "name": "besourinho-de-bico-vermelho"
       }
     ]
   },
@@ -115,11 +148,35 @@
     ]
   },
   {
+    "scientific_name": "Chlorostilbon forficatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon elegans",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon canivetii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon bracei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Chlorostilbon auriceps",
+    "common_names": []
+  },
+  {
     "scientific_name": "Chlorostilbon assimilis",
     "common_names": [
       {
         "lang": "en",
         "name": "Garden Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda afín"
       }
     ]
   },
@@ -129,6 +186,10 @@
       {
         "lang": "en",
         "name": "Green-tailed Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda coliverde"
       }
     ]
   }

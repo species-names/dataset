@@ -31,6 +31,10 @@
         "name": "Krogulec orientalny"
       },
       {
+        "lang": "ru",
+        "name": "Индийский перепелятник"
+      },
+      {
         "lang": "su",
         "name": "Alap-alap"
       }
@@ -40,16 +44,88 @@
     "scientific_name": "Accipiter ventralis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Esparver dels Andes"
+      },
+      {
         "lang": "cs",
         "name": "Krahujec kolumbijský"
       },
       {
+        "lang": "da",
+        "name": "Mørkrygget Spurvehøg"
+      },
+      {
+        "lang": "de",
+        "name": "Andensperber"
+      },
+      {
+        "lang": "en",
+        "name": "Plain-breasted Hawk"
+      },
+      {
         "lang": "es",
-        "name": "Gavilán de pecho liso"
+        "name": "Gavilán Andino"
+      },
+      {
+        "lang": "et",
+        "name": "Nõlva-raudkull"
+      },
+      {
+        "lang": "fa",
+        "name": "باز سینه‌ساده"
+      },
+      {
+        "lang": "fr",
+        "name": "Épervier à gorge rayée"
+      },
+      {
+        "lang": "hr",
+        "name": "Kolumbijski kobac"
+      },
+      {
+        "lang": "hu",
+        "name": "Andoki karvaly"
+      },
+      {
+        "lang": "it",
+        "name": "Sparviere delle Ande"
+      },
+      {
+        "lang": "ja",
+        "name": "フナシアシボソハイタカ"
+      },
+      {
+        "lang": "lt",
+        "name": "Andinis vanagas"
+      },
+      {
+        "lang": "nl",
+        "name": "Andessperwer"
+      },
+      {
+        "lang": "no",
+        "name": "Andeshauk"
       },
       {
         "lang": "pl",
         "name": "Krogulec andyjski"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-andino"
+      },
+      {
+        "lang": "sk",
+        "name": "Jastrab horský"
+      },
+      {
+        "lang": "sv",
+        "name": "Inkahök"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб еквадорський"
       }
     ]
   },
@@ -75,6 +151,10 @@
       {
         "lang": "pl",
         "name": "Krogulec czubaty"
+      },
+      {
+        "lang": "ru",
+        "name": "Хохлатый ястреб"
       },
       {
         "lang": "tr",
@@ -103,10 +183,7 @@
       },
       {
         "lang": "en",
-        "name": "Spot-tailed Sparrowhawk",
-        "synonyms": [
-          "Spot-tailed Goshawk"
-        ]
+        "name": "Spot-tailed Sparrowhawk"
       },
       {
         "lang": "es",
@@ -115,6 +192,10 @@
       {
         "lang": "pl",
         "name": "Krogulec plamosterny"
+      },
+      {
+        "lang": "ru",
+        "name": "Пятнистохвостый перепелятник"
       }
     ]
   },
@@ -124,6 +205,10 @@
       {
         "lang": "cs",
         "name": "Jestřáb západoafrický"
+      },
+      {
+        "lang": "en",
+        "name": "Red-chested Goshawk"
       },
       {
         "lang": "eo",
@@ -136,6 +221,10 @@
       {
         "lang": "pl",
         "name": "Krogulec białobrody"
+      },
+      {
+        "lang": "ru",
+        "name": "Красногрудый ястреб"
       }
     ]
   },
@@ -151,6 +240,10 @@
         "name": "Jestřáb tachiro"
       },
       {
+        "lang": "en",
+        "name": "African Goshawk"
+      },
+      {
         "lang": "eo",
         "name": "akcipitro taĥiro"
       },
@@ -161,44 +254,39 @@
       {
         "lang": "pl",
         "name": "Krogulec trzypręgowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканский тетеревятник"
       }
     ]
   },
   {
     "scientific_name": "Accipiter superciliosus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Krahujec malý"
-      },
-      {
-        "lang": "en",
-        "name": "Tiny Hawk"
-      },
-      {
-        "lang": "eo",
-        "name": "akcipitro malgranda"
-      },
-      {
-        "lang": "es",
-        "name": "Azor menor americano"
-      },
-      {
-        "lang": "pl",
-        "name": "Krogulec drobny"
-      },
-      {
-        "lang": "pt",
-        "name": "Gavião-miudinho"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Accipiter striatus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "باز أصهب الفخذ"
+      },
+      {
+        "lang": "arz",
+        "name": "باز اصهب الفخذ"
+      },
+      {
+        "lang": "ca",
+        "name": "Esparver nord-americà"
+      },
+      {
         "lang": "cs",
         "name": "Krahujec americký"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwalch Cynffonsgwar"
       },
       {
         "lang": "da",
@@ -213,15 +301,20 @@
         "name": "Sharp-shinned Hawk"
       },
       {
+        "lang": "eo",
+        "name": "Striakcipitro"
+      },
+      {
         "lang": "es",
-        "name": "Gavilán Americano",
-        "synonyms": [
-          "Azor rojizo"
-        ]
+        "name": "Gavilán americano"
       },
       {
         "lang": "et",
         "name": "Ameerika raudkull"
+      },
+      {
+        "lang": "fa",
+        "name": "باز ساق‌تیز"
       },
       {
         "lang": "fi",
@@ -230,6 +323,14 @@
       {
         "lang": "fr",
         "name": "Épervier brun"
+      },
+      {
+        "lang": "ga",
+        "name": "Seabhac géar-altach"
+      },
+      {
+        "lang": "hr",
+        "name": "Američki kobac"
       },
       {
         "lang": "ht",
@@ -241,18 +342,31 @@
       },
       {
         "lang": "it",
-        "name": "Sparviero striato americano"
+        "name": "Sparviero americano"
       },
       {
         "lang": "ja",
-        "name": "アシボソハイタカ",
-        "synonyms": [
-          "ashibosohaitaka"
-        ]
+        "name": "アシボソハイタカ"
+      },
+      {
+        "lang": "lez",
+        "name": "ЦӀару чинеруг"
       },
       {
         "lang": "lkt",
         "name": "Čhetáŋ glegléɡ̌a"
+      },
+      {
+        "lang": "lt",
+        "name": "Rausvaausis vanagas"
+      },
+      {
+        "lang": "lv",
+        "name": "Strīpainais vanags"
+      },
+      {
+        "lang": "nah",
+        "name": "Tohtli"
       },
       {
         "lang": "nl",
@@ -263,15 +377,19 @@
         "name": "Tverrhalehauk"
       },
       {
+        "lang": "nv",
+        "name": "Tsįyaalzhahí"
+      },
+      {
         "lang": "pl",
         "name": "Krogulec zmienny"
       },
       {
-        "lang": "pt-br",
-        "name": "Gavião-miúdo"
+        "lang": "pt",
+        "name": "Tauató-miúdo"
       },
       {
-        "lang": "pt",
+        "lang": "pt-br",
         "name": "Gavião-miúdo"
       },
       {
@@ -285,6 +403,14 @@
       {
         "lang": "sv",
         "name": "Amerikansk sparvhök"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб неоарктичний"
+      },
+      {
+        "lang": "vi",
+        "name": "Diều hâu vuốt sắc"
       },
       {
         "lang": "zh",
@@ -304,6 +430,10 @@
         "name": "Krahujec čínský"
       },
       {
+        "lang": "en",
+        "name": "Chinese Sparrowhawk"
+      },
+      {
         "lang": "es",
         "name": "Gavilán ranero"
       },
@@ -318,6 +448,10 @@
       {
         "lang": "pl",
         "name": "Krogulec chiński"
+      },
+      {
+        "lang": "ru",
+        "name": "Короткопалый ястреб"
       },
       {
         "lang": "tr",
@@ -337,12 +471,20 @@
         "name": "Krahujec rudoprsý"
       },
       {
+        "lang": "en",
+        "name": "Rufous-breasted Sparrowhawk"
+      },
+      {
         "lang": "es",
         "name": "Gavilán de pecho rufo"
       },
       {
         "lang": "pl",
         "name": "Krogulec rudobrzuchy"
+      },
+      {
+        "lang": "ru",
+        "name": "Красногрудый перепелятник"
       }
     ]
   },
@@ -352,6 +494,10 @@
       {
         "lang": "cs",
         "name": "Jestřáb rudolímcový"
+      },
+      {
+        "lang": "en",
+        "name": "Fiji Goshawk"
       },
       {
         "lang": "es",
@@ -364,6 +510,10 @@
       {
         "lang": "pl",
         "name": "Krogulec rdzawoszyi"
+      },
+      {
+        "lang": "ru",
+        "name": "Фиджийский ястреб"
       },
       {
         "lang": "tr",
@@ -383,12 +533,20 @@
         "name": "Krahujec vínoprsý"
       },
       {
+        "lang": "en",
+        "name": "Vinous-breasted Sparrowhawk"
+      },
+      {
         "lang": "es",
         "name": "Azor chico de pecho rojo"
       },
       {
         "lang": "pl",
         "name": "Krogulec różany"
+      },
+      {
+        "lang": "ru",
+        "name": "Винногрудый перепелятник"
       }
     ]
   },
@@ -417,7 +575,7 @@
       },
       {
         "lang": "en",
-        "name": "New Britain goshawk"
+        "name": "New Britain Goshawk"
       },
       {
         "lang": "fi",
@@ -430,6 +588,10 @@
       {
         "lang": "nl",
         "name": "Bleke havik"
+      },
+      {
+        "lang": "ru",
+        "name": "Новобританский тетеревятник"
       },
       {
         "lang": "sv",
@@ -450,7 +612,7 @@
       },
       {
         "lang": "en",
-        "name": "Grey-bellied Goshawk"
+        "name": "Grey-bellied Hawk"
       },
       {
         "lang": "es",
@@ -463,6 +625,10 @@
       {
         "lang": "pt",
         "name": "Tauató-pintado"
+      },
+      {
+        "lang": "ru",
+        "name": "Серобрюхий ястреб"
       }
     ]
   },
@@ -475,7 +641,7 @@
       },
       {
         "lang": "en",
-        "name": "grey-headed goshawk"
+        "name": "Grey-headed Goshawk"
       },
       {
         "lang": "es",
@@ -484,6 +650,10 @@
       {
         "lang": "pl",
         "name": "Krogulec nowogwinejski"
+      },
+      {
+        "lang": "ru",
+        "name": "Сероголовый тетеревятник"
       }
     ]
   },
@@ -509,6 +679,10 @@
       {
         "lang": "pl",
         "name": "Krogulec szary"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснобокий перепелятник"
       }
     ]
   },
@@ -1020,12 +1194,20 @@
         "name": "Krahujec celebeský"
       },
       {
+        "lang": "en",
+        "name": "Dwarf Sparrowhawk"
+      },
+      {
         "lang": "es",
         "name": "Azor chico de las Célebes"
       },
       {
         "lang": "pl",
         "name": "Krogulec rdzawopierśny"
+      },
+      {
+        "lang": "ru",
+        "name": "Сулавесский перепелятник"
       }
     ]
   },
@@ -1047,6 +1229,10 @@
       {
         "lang": "pl",
         "name": "Krogulec skromny"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканский малый перепелятник"
       },
       {
         "lang": "tr",
@@ -1078,6 +1264,10 @@
         "name": "Jastrząb papuaski"
       },
       {
+        "lang": "ru",
+        "name": "Новогвинейский тетеревятник"
+      },
+      {
         "lang": "sv",
         "name": "Meyers duvhök"
       }
@@ -1095,8 +1285,16 @@
         "name": "Azor blanco y negro"
       },
       {
+        "lang": "en",
+        "name": "Black Sparrowhawk"
+      },
+      {
         "lang": "pl",
         "name": "Jastrząb czarno-biały"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрно-белый ястреб"
       }
     ]
   },
@@ -1108,12 +1306,20 @@
         "name": "Jestřáb černopláštíkový"
       },
       {
+        "lang": "en",
+        "name": "Black-mantled Goshawk"
+      },
+      {
         "lang": "es",
         "name": "Gavilán de dorso negro"
       },
       {
         "lang": "pl",
         "name": "Krogulec czarnogrzbiety"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноспинный ястреб"
       }
     ]
   },
@@ -1129,12 +1335,20 @@
         "name": "Krahujec madagaskarský"
       },
       {
+        "lang": "en",
+        "name": "Madagascar Sparrowhawk"
+      },
+      {
         "lang": "es",
         "name": "Azor chico malgache"
       },
       {
         "lang": "pl",
         "name": "Krogulec prążkowany"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарский перепелятник"
       }
     ]
   },
@@ -1151,7 +1365,7 @@
       },
       {
         "lang": "en",
-        "name": "Slaty-mantled goshawk"
+        "name": "Slaty-mantled Goshawk"
       },
       {
         "lang": "es",
@@ -1164,6 +1378,10 @@
       {
         "lang": "pl",
         "name": "Krogulec białogardły"
+      },
+      {
+        "lang": "ru",
+        "name": "Шиферный ястреб"
       },
       {
         "lang": "nl",
@@ -1253,7 +1471,7 @@
       },
       {
         "lang": "en",
-        "name": "Variable goshawk"
+        "name": "Variable Goshawk"
       },
       {
         "lang": "fr",
@@ -1264,8 +1482,12 @@
         "name": "Grijs-rode havik"
       },
       {
+        "lang": "ru",
+        "name": "Изменчивый ястреб"
+      },
+      {
         "lang": "sv",
-        "name": "variabel duvhök"
+        "name": "Variabel duvhök"
       }
     ]
   },
@@ -1302,7 +1524,7 @@
       },
       {
         "lang": "en",
-        "name": "Henst's goshawk"
+        "name": "Henst's Goshawk"
       },
       {
         "lang": "eo",
@@ -1319,6 +1541,10 @@
       {
         "lang": "nl",
         "name": "Madagaskarhavik"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарский тетеревятник"
       },
       {
         "lang": "sv",
@@ -1342,12 +1568,20 @@
         "name": "Jestřáb halmaherský"
       },
       {
+        "lang": "en",
+        "name": "Moluccan Goshawk"
+      },
+      {
         "lang": "es",
         "name": "Azor de las Molucas"
       },
       {
         "lang": "pl",
         "name": "Krogulec molucki"
+      },
+      {
+        "lang": "ru",
+        "name": "Молуккский ястреб"
       }
     ]
   },
@@ -1357,6 +1591,10 @@
       {
         "lang": "cs",
         "name": "Jestřáb novokaledonský"
+      },
+      {
+        "lang": "en",
+        "name": "White-bellied Goshawk"
       },
       {
         "lang": "es",
@@ -1369,6 +1607,10 @@
       {
         "lang": "pt",
         "name": "Gavião-da-Nova-Caledônia"
+      },
+      {
+        "lang": "ru",
+        "name": "Белобрюхий ястреб"
       }
     ]
   },
@@ -1457,6 +1699,10 @@
         "name": "Krahujec menší"
       },
       {
+        "lang": "en",
+        "name": "Japanese Sparrowhawk"
+      },
+      {
         "lang": "es",
         "name": "Azor chico japonés"
       },
@@ -1471,6 +1717,10 @@
       {
         "lang": "pl",
         "name": "Krogulec japoński"
+      },
+      {
+        "lang": "ru",
+        "name": "Малый перепелятник"
       }
     ]
   },
@@ -1492,6 +1742,10 @@
       {
         "lang": "pl",
         "name": "Krogulec plamisty"
+      },
+      {
+        "lang": "ru",
+        "name": "Сулавесский ястреб"
       },
       {
         "lang": "tr",
@@ -1958,6 +2212,10 @@
         "name": "Krogulec malgaski"
       },
       {
+        "lang": "ru",
+        "name": "Мадагаскарский ястреб"
+      },
+      {
         "lang": "es",
         "name": "Gavilán francés"
       }
@@ -1971,12 +2229,20 @@
         "name": "Jestřáb australský"
       },
       {
+        "lang": "en",
+        "name": "Brown Goshawk"
+      },
+      {
         "lang": "es",
         "name": "Azor australiano"
       },
       {
         "lang": "pl",
         "name": "Krogulec brunatny"
+      },
+      {
+        "lang": "ru",
+        "name": "Австралийский бурый ястреб"
       }
     ]
   },
@@ -2004,6 +2270,10 @@
         "name": "Krogulec tropikalny"
       },
       {
+        "lang": "ru",
+        "name": "Лесной перепелятник"
+      },
+      {
         "lang": "tr",
         "name": "Kızıl butlu atmaca"
       }
@@ -2013,8 +2283,20 @@
     "scientific_name": "Accipiter erythronemius",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Esparver del Chaco"
+      },
+      {
         "lang": "cs",
         "name": "Jestřáb rudorousý"
+      },
+      {
+        "lang": "da",
+        "name": "Rødlåret Spurvehøg"
+      },
+      {
+        "lang": "de",
+        "name": "Rotschenkelsperber"
       },
       {
         "lang": "en",
@@ -2022,15 +2304,67 @@
       },
       {
         "lang": "es",
-        "name": "Gavilán de patas rufas"
+        "name": "Gavilán Muslirrufo"
+      },
+      {
+        "lang": "et",
+        "name": "Brasiilia raudkull"
+      },
+      {
+        "lang": "fa",
+        "name": "باز ران‌حنایی"
+      },
+      {
+        "lang": "fr",
+        "name": "Épervier à cuisses rousses"
+      },
+      {
+        "lang": "hr",
+        "name": "Kobac gaćaš"
       },
       {
         "lang": "hu",
-        "name": "Csíkos karvaly"
+        "name": "Vöröscombú karvaly"
+      },
+      {
+        "lang": "it",
+        "name": "Sparviere zamperossicce"
+      },
+      {
+        "lang": "ja",
+        "name": "モモアカアシボソハイタカ"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudašlaunis vanagas"
+      },
+      {
+        "lang": "nl",
+        "name": "Rooddijsperwer"
+      },
+      {
+        "lang": "no",
+        "name": "Rustlegghauk"
       },
       {
         "lang": "pl",
         "name": "Krogulec brazylijski"
+      },
+      {
+        "lang": "pt",
+        "name": "Gavião-miúdo"
+      },
+      {
+        "lang": "sk",
+        "name": "Jastrab štíhly"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostbyxvråk"
+      },
+      {
+        "lang": "uk",
+        "name": "Яструб бразильський"
       }
     ]
   },
@@ -2046,12 +2380,20 @@
         "name": "Krahujec rudý"
       },
       {
+        "lang": "en",
+        "name": "Rufous-necked Sparrowhawk"
+      },
+      {
         "lang": "es",
         "name": "Azor chico de las Molucas"
       },
       {
         "lang": "pl",
         "name": "Krogulec rdzawy"
+      },
+      {
+        "lang": "ru",
+        "name": "Красношейный перепелятник"
       }
     ]
   },
@@ -2155,24 +2497,7 @@
   },
   {
     "scientific_name": "Accipiter collaris",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Krahujec andský"
-      },
-      {
-        "lang": "en",
-        "name": "Semicollared Hawk"
-      },
-      {
-        "lang": "es",
-        "name": "Azor acollarado"
-      },
-      {
-        "lang": "pl",
-        "name": "Krogulec kryzowany"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Accipiter cirrocephalus",
@@ -2194,6 +2519,10 @@
         "name": "Krogulec obrożny"
       },
       {
+        "lang": "ru",
+        "name": "Ошейниковый перепелятник"
+      },
+      {
         "lang": "en",
         "name": "Collared Sparrowhawk"
       },
@@ -2207,16 +2536,68 @@
     "scientific_name": "Accipiter chionogaster",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Esparver ventreblanc"
+      },
+      {
         "lang": "cs",
         "name": "Krahujec běloprsý"
       },
       {
+        "lang": "da",
+        "name": "Hvidbuget Spurvehøg"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbrustsperber"
+      },
+      {
+        "lang": "en",
+        "name": "White-breasted Hawk"
+      },
+      {
         "lang": "es",
-        "name": "Azor rojizo americano"
+        "name": "Gavilán ventriblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Valgekõht-raudkull"
+      },
+      {
+        "lang": "fr",
+        "name": "Épervier à poitrine blanche"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérmellű karvaly"
+      },
+      {
+        "lang": "it",
+        "name": "Sparviere pettobianco"
+      },
+      {
+        "lang": "ja",
+        "name": "ムナジロアシボソハイタカ"
+      },
+      {
+        "lang": "nl",
+        "name": "Witborstsperwer"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitbrysthauk"
       },
       {
         "lang": "pl",
         "name": "Krogulec gwatemalski"
+      },
+      {
+        "lang": "sk",
+        "name": "Jastrab bieloprsý"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitbröstad hök"
       }
     ]
   },
@@ -2228,6 +2609,10 @@
         "name": "Jestřáb chilský"
       },
       {
+        "lang": "en",
+        "name": "Chilean Hawk"
+      },
+      {
         "lang": "es",
         "name": "Gavilán chileno"
       },
@@ -2236,8 +2621,8 @@
         "name": "Krogulec chilijski"
       },
       {
-        "lang": "en",
-        "name": "Chilean Hawk"
+        "lang": "ru",
+        "name": "Чилийский ястреб"
       }
     ]
   },
@@ -2263,6 +2648,10 @@
       {
         "lang": "pl",
         "name": "Krogulec rdzawoboczny"
+      },
+      {
+        "lang": "ru",
+        "name": "Каштановобрюхий ястреб"
       }
     ]
   },
@@ -2304,6 +2693,10 @@
       {
         "lang": "pl",
         "name": "Krogulec nikobarski"
+      },
+      {
+        "lang": "ru",
+        "name": "Никобарский тювик"
       },
       {
         "lang": "sv",
@@ -2544,6 +2937,10 @@
         "name": "New-britainsperwer"
       },
       {
+        "lang": "ru",
+        "name": "Новобританский перепелятник"
+      },
+      {
         "lang": "sv",
         "name": "bismarckhök"
       },
@@ -2579,6 +2976,10 @@
       {
         "lang": "pl",
         "name": "Krogulec dwubarwny"
+      },
+      {
+        "lang": "ru",
+        "name": "Двуцветный ястреб"
       }
     ]
   },
@@ -2614,6 +3015,10 @@
         "name": "Krogulec mały"
       },
       {
+        "lang": "ru",
+        "name": "Туркестанский тювик"
+      },
+      {
         "lang": "th",
         "name": "เหยี่ยวนกเขาชิครา",
         "synonyms": [
@@ -2631,7 +3036,7 @@
       },
       {
         "lang": "en",
-        "name": "Pied goshawk"
+        "name": "Pied Goshawk"
       },
       {
         "lang": "es",

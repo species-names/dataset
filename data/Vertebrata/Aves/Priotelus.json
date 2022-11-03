@@ -24,6 +24,10 @@
         "name": "Trogon de la Hispaniola"
       },
       {
+        "lang": "ht",
+        "name": "Kanson wouj"
+      },
+      {
         "lang": "cy",
         "name": "Trogon Hispaniola"
       },
@@ -41,7 +45,10 @@
       },
       {
         "lang": "fr",
-        "name": "Trogon damoiseau"
+        "name": "Trogon damoiseau",
+        "synonyms": [
+          "caleçon rouge (Haïti)"
+        ]
       },
       {
         "lang": "nl",

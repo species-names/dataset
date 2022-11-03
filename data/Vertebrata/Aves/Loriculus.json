@@ -3,12 +3,120 @@
     "scientific_name": "Loriculus vernalis",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "الببغاء المعلق الربيعى"
+      },
+      {
+        "lang": "bg",
+        "name": "Пролетно висящо папагалче"
+      },
+      {
+        "lang": "bh",
+        "name": "लटकन सुग्गा"
+      },
+      {
+        "lang": "bn",
+        "name": "বাসন্তী লটকনটিয়া"
+      },
+      {
+        "lang": "ca",
+        "name": "Lloret ratpenat vernal"
+      },
+      {
+        "lang": "cs",
+        "name": "Lorikul modrobradý"
+      },
+      {
+        "lang": "cy",
+        "name": "Loricît cyffredin"
+      },
+      {
+        "lang": "da",
+        "name": "Blåstrubet Flagermuspapegøje"
+      },
+      {
+        "lang": "de",
+        "name": "Frühlingspapageichen"
+      },
+      {
         "lang": "en",
         "name": "Vernal Hanging Parrot"
       },
       {
         "lang": "es",
         "name": "Lorículo vernal"
+      },
+      {
+        "lang": "fi",
+        "name": "Intianriippukaija"
+      },
+      {
+        "lang": "fr",
+        "name": "Coryllis vernal"
+      },
+      {
+        "lang": "it",
+        "name": ""
+      },
+      {
+        "lang": "kn",
+        "name": "ಚಿಟ್ಟು ಗಿಳಿ"
+      },
+      {
+        "lang": "ml",
+        "name": "തത്തച്ചിന്നൻ"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шошымшы кечӹшӹ попугай"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Serindit Rambai"
+      },
+      {
+        "lang": "my",
+        "name": "ကျေးသန္တာ"
+      },
+      {
+        "lang": "ne",
+        "name": "पर्ण सुगा"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische vleermuisparkiet"
+      },
+      {
+        "lang": "no",
+        "name": "Blåstrupet flaggermuspapegøye"
+      },
+      {
+        "lang": "or",
+        "name": "ପାତିଶୁଆ"
+      },
+      {
+        "lang": "pl",
+        "name": "Zwisogłówka wiosenna"
+      },
+      {
+        "lang": "pnb",
+        "name": "ورنل لٹکن طوطا"
+      },
+      {
+        "lang": "ru",
+        "name": "Весенний висячий попугайчик"
+      },
+      {
+        "lang": "sv",
+        "name": "Blåstrupig hängpapegoja"
+      },
+      {
+        "lang": "uk",
+        "name": "Кориліс індійський"
+      },
+      {
+        "lang": "vi",
+        "name": "Vẹt lùn"
       },
       {
         "lang": "zh",
@@ -51,6 +159,18 @@
       {
         "lang": "en",
         "name": "Yellow-throated Hanging Parrot"
+      },
+      {
+        "lang": "fi",
+        "name": "Jaavanriippukaija"
+      },
+      {
+        "lang": "id",
+        "name": "Serindit jawa"
+      },
+      {
+        "lang": "ms",
+        "name": "Serindit jawa"
       }
     ]
   },
@@ -64,6 +184,14 @@
       {
         "lang": "fr",
         "name": "Coryllis des Philippines"
+      },
+      {
+        "lang": "sv",
+        "name": "Filippinhängpapegoja"
+      },
+      {
+        "lang": "tl",
+        "name": "Kulasisi"
       }
     ]
   },
@@ -76,15 +204,15 @@
       },
       {
         "lang": "en",
-        "name": "Blue-crowned Hanging Parrot"
+        "name": "Blue-crowned hanging parrot"
       },
       {
         "lang": "es",
-        "name": "Lorículo Coroniazul"
+        "name": "Lorículo coroniazul"
       },
       {
         "lang": "fi",
-        "name": "Malakanriippukaija"
+        "name": "Riauriippukaija"
       },
       {
         "lang": "fr",
@@ -96,11 +224,15 @@
       },
       {
         "lang": "id",
-        "name": "Serindit Melayu"
+        "name": "Serindit"
       },
       {
         "lang": "it",
         "name": "Pappagallo acrobata capoblu"
+      },
+      {
+        "lang": "ms",
+        "name": "Serindit hujung kulon"
       },
       {
         "lang": "nl",

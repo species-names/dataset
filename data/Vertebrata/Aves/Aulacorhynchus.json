@@ -136,12 +136,7 @@
   },
   {
     "scientific_name": "Aulacorhynchus lautus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Santa Marta Toucanet"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Aulacorhynchus huallagae",
@@ -292,8 +287,40 @@
     "scientific_name": "Aulacorhynchus atrogularis",
     "common_names": [
       {
+        "lang": "da",
+        "name": "Boliviatukanet"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzkinnarassari"
+      },
+      {
         "lang": "en",
-        "name": "Peruvian Toucanet"
+        "name": "Black-throated Toucanet"
+      },
+      {
+        "lang": "es",
+        "name": "Tucanete gorjinegro"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucanet à gorge noire"
+      },
+      {
+        "lang": "it",
+        "name": "Tucanetto golanera"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkeelarassari"
+      },
+      {
+        "lang": "pt",
+        "name": "Tucaninho-de-nariz-amarelo"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрногорлый туканет"
       }
     ]
   },
@@ -301,8 +328,20 @@
     "scientific_name": "Aulacorhynchus albivitta",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Weißkehlarassari"
+      },
+      {
         "lang": "en",
-        "name": "Northern Andean Toucanet"
+        "name": "White-throated Toucanet"
+      },
+      {
+        "lang": "es",
+        "name": "Tucanete gorjiblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Toucanet à gorge blanche"
       }
     ]
   }

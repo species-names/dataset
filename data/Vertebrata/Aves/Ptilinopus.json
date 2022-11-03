@@ -798,8 +798,16 @@
     "scientific_name": "Ptilinopus magnificus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Tilinop magnífic"
+      },
+      {
         "lang": "cs",
-        "name": "holub čarokrásný"
+        "name": "Holub čarokrásný"
+      },
+      {
+        "lang": "cy",
+        "name": "Turtur ffrwythau fawreddog"
       },
       {
         "lang": "da",
@@ -807,17 +815,11 @@
       },
       {
         "lang": "de",
-        "name": "Langschwanz-Fruchttaube",
-        "synonyms": [
-          "Purpurbrust-Fruchttaube"
-        ]
+        "name": "Purpurbrust-Fruchttaube"
       },
       {
         "lang": "en",
-        "name": "Wompoo Fruit-dove",
-        "synonyms": [
-          "Wompoo Pigeon"
-        ]
+        "name": "Wompoo Fruit Dove"
       },
       {
         "lang": "eo",
@@ -825,19 +827,27 @@
       },
       {
         "lang": "es",
-        "name": "Tilopo Magnífico"
+        "name": "Tilopo magnífico"
       },
       {
         "lang": "et",
-        "name": "suur-rohetuvi"
+        "name": "Suur-rohetuvi"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر میوه‌خوار وامپو"
       },
       {
         "lang": "fi",
-        "name": "loistohedelmäkyyhky"
+        "name": "Loistohedelmäkyyhky"
       },
       {
         "lang": "fr",
         "name": "Ptilope magnifique"
+      },
+      {
+        "lang": "hr",
+        "name": "Ljubičastoprsa voćarica"
       },
       {
         "lang": "hu",
@@ -845,18 +855,23 @@
       },
       {
         "lang": "id",
-        "name": "Walik Wompu"
+        "name": "Walik wompu"
       },
       {
         "lang": "it",
-        "name": "Colomba frugivora magnifica"
+        "name": "Tortora beccafrutta wompu"
       },
       {
         "lang": "ja",
-        "name": "ワープーアオバト",
-        "synonyms": [
-          "wa-pu-aobato"
-        ]
+        "name": "ワープーアオバト"
+      },
+      {
+        "lang": "lt",
+        "name": "Didingasis karvelis vaislesys"
+      },
+      {
+        "lang": "mrj",
+        "name": "Кужы пачан ала кӓдӹ"
       },
       {
         "lang": "nl",
@@ -868,7 +883,11 @@
       },
       {
         "lang": "pl",
-        "name": "owocożer purpurowy"
+        "name": "Owocożer purpurowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "وومپو کگی"
       },
       {
         "lang": "pt",
@@ -880,11 +899,15 @@
       },
       {
         "lang": "sk",
-        "name": "pestroš vznešený"
+        "name": "Pestroš vznešený"
       },
       {
         "lang": "sv",
         "name": "Wompoofruktduva"
+      },
+      {
+        "lang": "uk",
+        "name": "Тілопо довгохвостий"
       },
       {
         "lang": "zh",

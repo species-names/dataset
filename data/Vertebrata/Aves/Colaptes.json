@@ -1,13 +1,5 @@
 [
   {
-    "scientific_name": "Colaptes oceanicus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Colaptes aeruginosus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Colaptes rupicola",
     "common_names": [
       {
@@ -159,6 +151,26 @@
     "scientific_name": "Colaptes pitius",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Picot de Xile"
+      },
+      {
+        "lang": "cs",
+        "name": "Datel chilský"
+      },
+      {
+        "lang": "cy",
+        "name": "Ysgytiwr Magellan"
+      },
+      {
+        "lang": "da",
+        "name": "Chileguldspætte"
+      },
+      {
+        "lang": "de",
+        "name": "Bänderspecht"
+      },
+      {
         "lang": "en",
         "name": "Chilean Flicker"
       },
@@ -167,8 +179,73 @@
         "name": "Carpintero pitío"
       },
       {
+        "lang": "et",
+        "name": "Tšiili rähn"
+      },
+      {
+        "lang": "fi",
+        "name": "Chilenkultatikka"
+      },
+      {
         "lang": "fr",
         "name": "Pic du Chili"
+      },
+      {
+        "lang": "hr",
+        "name": "Čilska žuna"
+      },
+      {
+        "lang": "it",
+        "name": "Picchio del Cile"
+      },
+      {
+        "lang": "ja",
+        "name": "チリーアレチゲラ"
+      },
+      {
+        "lang": "lt",
+        "name": "Čilinis ylasnapis genys"
+      },
+      {
+        "lang": "nl",
+        "name": "Chileense Grondspecht"
+      },
+      {
+        "lang": "no",
+        "name": "Chilemarkspett"
+      },
+      {
+        "lang": "pl",
+        "name": "Dzięcioł chilijski"
+      },
+      {
+        "lang": "pnb",
+        "name": "کولیپٹس پٹیس"
+      },
+      {
+        "lang": "ru",
+        "name": "Чилийский шилоклювый дятел"
+      },
+      {
+        "lang": "sk",
+        "name": "Vlikáč sivohlavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Chilespett"
+      },
+      {
+        "lang": "uk",
+        "name": "Декол чилійський"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Colaptes oceanicus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bermuda Flicker"
       }
     ]
   },
@@ -431,6 +508,19 @@
       {
         "lang": "fr",
         "name": "Pic à cou noir"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Colaptes aeruginosus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bronze-winged Woodpecker"
+      },
+      {
+        "lang": "es",
+        "name": "Carpintero tamaulipeco"
       }
     ]
   }

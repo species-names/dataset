@@ -1,0 +1,56 @@
+[
+  {
+    "scientific_name": "Rhinopomastus minor",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Dudkovec oranžovozobý"
+      },
+      {
+        "lang": "en",
+        "name": "Abyssinian Scimitar-bill"
+      },
+      {
+        "lang": "es",
+        "name": "Abubilla arbórea menor"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhinopomastus cyanomelas",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Dudkovec křivozobý"
+      },
+      {
+        "lang": "de",
+        "name": "Sichelhopf"
+      },
+      {
+        "lang": "en",
+        "name": "Common Scimitarbill"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhinopomastus aterrimus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Dudkovec černý"
+      },
+      {
+        "lang": "en",
+        "name": "Black Scimitar-bill",
+        "synonyms": [
+          "Black Woodhoopoe"
+        ]
+      },
+      {
+        "lang": "tr",
+        "name": "Kara orman ibibiği"
+      }
+    ]
+  }
+]

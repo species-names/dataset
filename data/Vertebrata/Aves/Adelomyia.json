@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Adelomyia melanogenys sabinae",
+    "common_names": []
+  },
+  {
     "scientific_name": "Adelomyia melanogenys",
     "common_names": [
       {
@@ -9,6 +13,10 @@
       {
         "lang": "fr",
         "name": "Colibri mouchet"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí jaspeado"
       }
     ]
   }

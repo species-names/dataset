@@ -5,6 +5,10 @@
       {
         "lang": "en",
         "name": "Green-throated Mountain-gem"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí gorjiescamoso"
       }
     ]
   },
@@ -14,6 +18,10 @@
       {
         "lang": "en",
         "name": "Green-breasted Mountain-gem"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de Sibila"
       }
     ]
   },
@@ -23,6 +31,10 @@
       {
         "lang": "en",
         "name": "White-bellied Mountain-gem"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí gorjivioleta"
       }
     ]
   },
@@ -65,6 +77,10 @@
       {
         "lang": "en",
         "name": "Gray-tailed Mountain-gem"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí coligrís"
       }
     ]
   },
@@ -78,12 +94,84 @@
       {
         "lang": "hu",
         "name": "Változékony hegyikolibri"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí ventricastaño"
       }
     ]
   },
   {
-    "scientific_name": "Lampornis calolaema",
-    "common_names": []
+    "scientific_name": "Lampornis calolaemus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "kolibrík fialovohrdlý"
+      },
+      {
+        "lang": "da",
+        "name": "Purpurstrubet Bjergjuvel"
+      },
+      {
+        "lang": "de",
+        "name": "Purpurkehl-Nymphe"
+      },
+      {
+        "lang": "en",
+        "name": "Purple-throated Mountaingem"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí montañés gorgimorado"
+      },
+      {
+        "lang": "fi",
+        "name": "purppurapilvikolibri"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri à gorge pourprée"
+      },
+      {
+        "lang": "hu",
+        "name": "lilatorkú hegyikolibri"
+      },
+      {
+        "lang": "it",
+        "name": "Gemma di montagna gola purpurea"
+      },
+      {
+        "lang": "ja",
+        "name": "ノドジロシロメジリハチドリ",
+        "synonyms": [
+          "nodojiroshiromejirihachidori"
+        ]
+      },
+      {
+        "lang": "nl",
+        "name": "Purperkeeljuweelkolibrie"
+      },
+      {
+        "lang": "no",
+        "name": "Purpurstrupejuvel"
+      },
+      {
+        "lang": "pl",
+        "name": "malachicik purpurowogardly"
+      },
+      {
+        "lang": "ru",
+        "name": "Пурпурногорлый сверкающий колибри"
+      },
+      {
+        "lang": "sk",
+        "name": "medovec purpurovec"
+      },
+      {
+        "lang": "sv",
+        "name": "Purpurstrupig bergsjuvel"
+      }
+    ]
   },
   {
     "scientific_name": "Lampornis amethystinus",
@@ -91,6 +179,10 @@
       {
         "lang": "en",
         "name": "Amethyst-throated Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí amatistino"
       }
     ]
   }

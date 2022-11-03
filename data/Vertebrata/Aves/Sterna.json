@@ -227,7 +227,7 @@
       },
       {
         "lang": "to",
-        "name": "tala tuʻakiuʻuli"
+        "name": "Tala tuʻakiuʻuli"
       },
       {
         "lang": "zh",
@@ -610,6 +610,10 @@
         "name": "Речна рибарка"
       },
       {
+        "lang": "bn",
+        "name": "পাতি পানচিল"
+      },
+      {
         "lang": "br",
         "name": "Skravig boutin"
       },
@@ -937,20 +941,48 @@
     "scientific_name": "Sterna dougallii",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Rooiborsseeswael"
+      },
+      {
         "lang": "ak",
         "name": "Kyeawee"
       },
       {
+        "lang": "ar",
+        "name": "خرشنة وردية"
+      },
+      {
+        "lang": "arz",
+        "name": "خرشنه ورديه"
+      },
+      {
+        "lang": "az",
+        "name": "Çəhrayı susüpürən"
+      },
+      {
+        "lang": "bg",
+        "name": "Езерна рибарка"
+      },
+      {
         "lang": "br",
-        "name": "Skrav"
+        "name": "Skravig Dougall"
+      },
+      {
+        "lang": "ca",
+        "name": "Xatrac rosat"
       },
       {
         "lang": "cs",
         "name": "Rybák rajský"
       },
       {
+        "lang": "cy",
+        "name": "Môr wennol wridog"
+      },
+      {
         "lang": "da",
-        "name": "Dougallsterne"
+        "name": "Rosenterne"
       },
       {
         "lang": "de",
@@ -969,16 +1001,48 @@
         "name": "Charrán Rosado"
       },
       {
+        "lang": "eu",
+        "name": "Txenada gorrizta"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی دریایی گلفام"
+      },
+      {
         "lang": "fi",
         "name": "Ruusutiira"
+      },
+      {
+        "lang": "fo",
+        "name": "Roðaterna"
       },
       {
         "lang": "fr",
         "name": "Sterne de Dougall"
       },
       {
+        "lang": "ga",
+        "name": "Geabhróg rósach"
+      },
+      {
+        "lang": "gl",
+        "name": "Carrán rosado"
+      },
+      {
         "lang": "hu",
         "name": "Rózsás csér"
+      },
+      {
+        "lang": "id",
+        "name": "Dara-laut jambon"
+      },
+      {
+        "lang": "is",
+        "name": "Roðaþerna"
+      },
+      {
+        "lang": "it",
+        "name": "Sterna di Dougall"
       },
       {
         "lang": "ja",
@@ -997,6 +1061,10 @@
         "name": "Dougalls stern"
       },
       {
+        "lang": "nn",
+        "name": "Rosenterne"
+      },
+      {
         "lang": "no",
         "name": "Rosenterne"
       },
@@ -1005,16 +1073,36 @@
         "name": "Rybitwa różowa"
       },
       {
+        "lang": "pnb",
+        "name": "روزیٹ ٹرن"
+      },
+      {
         "lang": "pt",
-        "name": "Andorinha-do-mar-rósea"
+        "name": "Trinta-réis-róseo"
+      },
+      {
+        "lang": "ru",
+        "name": "Розовая крачка"
       },
       {
         "lang": "sv",
         "name": "Rosentärna"
       },
       {
+        "lang": "th",
+        "name": "นกนางนวลแกลบสีกุหลาบ"
+      },
+      {
+        "lang": "tr",
+        "name": "Pembe sumru"
+      },
+      {
         "lang": "uk",
-        "name": "Рожевий крячок"
+        "name": "Крячок рожевий"
+      },
+      {
+        "lang": "vi",
+        "name": "Nhàn hồng"
       },
       {
         "lang": "zh",

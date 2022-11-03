@@ -7,16 +7,16 @@
         "name": "Guanotölpel"
       },
       {
-        "lang": "fr",
-        "name": "Fou varié"
-      },
-      {
         "lang": "en",
-        "name": "Peruvian booby"
+        "name": "Peruvian Booby"
       },
       {
         "lang": "es",
         "name": "Piquero peruano"
+      },
+      {
+        "lang": "fr",
+        "name": "Fou varié"
       },
       {
         "lang": "sv",
@@ -61,7 +61,7 @@
       },
       {
         "lang": "da",
-        "name": "Rødfodet sule"
+        "name": "Rødfodet Sule"
       },
       {
         "lang": "de",
@@ -108,8 +108,12 @@
         "name": "Piroslábú szula"
       },
       {
+        "lang": "id",
+        "name": "Angsa-batu kaki-merah"
+      },
+      {
         "lang": "it",
-        "name": "Sula piedirossi"
+        "name": "Sula zamperosse"
       },
       {
         "lang": "ja",
@@ -164,6 +168,10 @@
         "name": "Rödfotad sula"
       },
       {
+        "lang": "th",
+        "name": "นกบู๊บบี้ตีนแดง"
+      },
+      {
         "lang": "to",
         "name": "Ngutulei veʻekula"
       },
@@ -189,8 +197,40 @@
     "scientific_name": "Sula nebouxii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "أطيش أزرق القدمين"
+      },
+      {
+        "lang": "arz",
+        "name": "الاطيش ازرق القدمين"
+      },
+      {
+        "lang": "az",
+        "name": "Mavi ayaqlı sümsük quşu"
+      },
+      {
+        "lang": "bg",
+        "name": "Синьокрак рибояд"
+      },
+      {
+        "lang": "br",
+        "name": "Morskoul treid glas"
+      },
+      {
+        "lang": "ca",
+        "name": "Mascarell camablau"
+      },
+      {
         "lang": "cs",
         "name": "Terej modronohý"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwbi troedlas"
+      },
+      {
+        "lang": "da",
+        "name": "Blåfodet Sule"
       },
       {
         "lang": "de",
@@ -201,8 +241,16 @@
         "name": "Blue-footed Booby"
       },
       {
+        "lang": "eo",
+        "name": "Blukrura naivulo"
+      },
+      {
         "lang": "es",
-        "name": "Alcatraz patiazul"
+        "name": "Piquero camanay"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبی پاآبی"
       },
       {
         "lang": "fi",
@@ -213,8 +261,36 @@
         "name": "Fou à pieds bleus"
       },
       {
+        "lang": "he",
+        "name": "סולה כחולת-רגל"
+      },
+      {
+        "lang": "hu",
+        "name": "Kéklábú szula"
+      },
+      {
+        "lang": "hy",
+        "name": "Կապտաոտ խոլահավ"
+      },
+      {
+        "lang": "id",
+        "name": "Angsa batu kaki biru"
+      },
+      {
+        "lang": "is",
+        "name": "Bláfætt súla"
+      },
+      {
+        "lang": "it",
+        "name": "Sula piediazzurri"
+      },
+      {
         "lang": "ja",
         "name": "アオアシカツオドリ"
+      },
+      {
+        "lang": "ko",
+        "name": "푸른발얼가니새"
       },
       {
         "lang": "nl",
@@ -226,18 +302,27 @@
       },
       {
         "lang": "pl",
-        "name": "głuptak niebieskonogi"
+        "name": "Głuptak niebieskonogi"
+      },
+      {
+        "lang": "pnb",
+        "name": "نیلے پیروالا بوبی"
       },
       {
         "lang": "pt",
-        "name": "Atobá-do-pé-azul"
+        "name": "Atobá-de-pés-azuis"
+      },
+      {
+        "lang": "ru",
+        "name": "Голубоногая олуша"
+      },
+      {
+        "lang": "sk",
+        "name": "Sula modronohá"
       },
       {
         "lang": "sr",
-        "name": "Плавонога блуна",
-        "synonyms": [
-          "Plavonoga bluna"
-        ]
+        "name": "Плавонога блуна"
       },
       {
         "lang": "sv",
@@ -246,6 +331,22 @@
       {
         "lang": "th",
         "name": "นกบูบบีตีนฟ้า"
+      },
+      {
+        "lang": "tr",
+        "name": "Mavi ayaklı sümsük kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Сула блакитнонога"
+      },
+      {
+        "lang": "zh",
+        "name": "藍腳鰹鳥"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "藍腳鰹雀"
       }
     ]
   },
@@ -330,28 +431,104 @@
     "scientific_name": "Sula granti",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "أطيش نازكا"
+      },
+      {
+        "lang": "arz",
+        "name": "اطيش نازكا"
+      },
+      {
+        "lang": "br",
+        "name": "Morskoul Nazca"
+      },
+      {
+        "lang": "ca",
+        "name": "Mascarell de Grant"
+      },
+      {
+        "lang": "da",
+        "name": "Nazcasule"
+      },
+      {
         "lang": "de",
         "name": "Nazcatölpel"
       },
       {
         "lang": "en",
-        "name": "Nazca booby"
+        "name": "Nazca Booby"
+      },
+      {
+        "lang": "eo",
+        "name": "Nazka sulo"
       },
       {
         "lang": "es",
-        "name": "alcatraz de Nazca"
+        "name": "Piquero nazca"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبی نازکا"
+      },
+      {
+        "lang": "fi",
+        "name": "Galapagosinnaamiosuula"
       },
       {
         "lang": "fr",
         "name": "Fou de Grant"
       },
       {
+        "lang": "he",
+        "name": "סולת נסקה"
+      },
+      {
+        "lang": "hy",
+        "name": "Նասկայի խոլահավ"
+      },
+      {
+        "lang": "it",
+        "name": "Sula di Nazca"
+      },
+      {
+        "lang": "ja",
+        "name": "ナスカカツオドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Nazcagent"
+      },
+      {
         "lang": "no",
         "name": "Nazcasule"
       },
       {
+        "lang": "pl",
+        "name": "Głuptak galapagoski"
+      },
+      {
+        "lang": "pnb",
+        "name": "نازکا بوبی"
+      },
+      {
+        "lang": "ru",
+        "name": "Олуша Наска"
+      },
+      {
         "lang": "sv",
         "name": "Nazcasula"
+      },
+      {
+        "lang": "uk",
+        "name": "Сула насканська"
+      },
+      {
+        "lang": "zh",
+        "name": "橙嘴蓝脸鲣鸟"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "橙嘴藍面鰹雀"
       }
     ]
   },
@@ -363,6 +540,38 @@
         "name": "Brilmalgas"
       },
       {
+        "lang": "ar",
+        "name": "أطيش مبرقع"
+      },
+      {
+        "lang": "arz",
+        "name": "اطيش مبرقع"
+      },
+      {
+        "lang": "bg",
+        "name": "Синьолик рибояд"
+      },
+      {
+        "lang": "br",
+        "name": "Morskoul masklet"
+      },
+      {
+        "lang": "ca",
+        "name": "Mascarell emmascarat"
+      },
+      {
+        "lang": "cs",
+        "name": "Terej maskový"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwbi mygydog"
+      },
+      {
+        "lang": "da",
+        "name": "Maskesule"
+      },
+      {
         "lang": "de",
         "name": "Maskentölpel"
       },
@@ -372,19 +581,99 @@
       },
       {
         "lang": "eo",
-        "name": "Maskita sulo"
+        "name": "Maska sulo"
+      },
+      {
+        "lang": "es",
+        "name": "Piquero enmascarado"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبی نقاب‌دار"
+      },
+      {
+        "lang": "fi",
+        "name": "Naamiosuula"
       },
       {
         "lang": "fr",
         "name": "Fou masqué"
       },
       {
+        "lang": "gu",
+        "name": "શ્યામમુખ વાઘોમડા"
+      },
+      {
+        "lang": "haw",
+        "name": "‘Ā"
+      },
+      {
+        "lang": "he",
+        "name": "סולת המסיכה"
+      },
+      {
+        "lang": "hu",
+        "name": "Álarcos szula"
+      },
+      {
+        "lang": "hy",
+        "name": "Դիմակավոր խոլահավ"
+      },
+      {
+        "lang": "hyw",
+        "name": "Դիմակաւոր Խոլահաւ"
+      },
+      {
+        "lang": "it",
+        "name": "Sula mascherata"
+      },
+      {
         "lang": "ja",
         "name": "アオツラカツオドリ"
       },
       {
+        "lang": "lt",
+        "name": "Kaukėtasis padūkėlis"
+      },
+      {
+        "lang": "ml",
+        "name": "നീലമുഖി കടൽവാത്ത"
+      },
+      {
+        "lang": "mr",
+        "name": "मोठा समुद्री कावळा"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Dendang Muka Hitam"
+      },
+      {
         "lang": "nl",
         "name": "Maskergent"
+      },
+      {
+        "lang": "nn",
+        "name": "Maskesule"
+      },
+      {
+        "lang": "no",
+        "name": "Maskesule"
+      },
+      {
+        "lang": "pl",
+        "name": "Głuptak maskowy"
+      },
+      {
+        "lang": "pnb",
+        "name": "ماسکڈ بوبی"
+      },
+      {
+        "lang": "pt",
+        "name": "Atobá-grande"
+      },
+      {
+        "lang": "ru",
+        "name": "Голуболицая олуша"
       },
       {
         "lang": "sv",
@@ -392,11 +681,31 @@
       },
       {
         "lang": "to",
-        "name": "ngutulei fakapūloaʻi"
+        "name": "Ngutulei fakapūloaʻi"
+      },
+      {
+        "lang": "tr",
+        "name": "Maskeli sümsük kuşu"
+      },
+      {
+        "lang": "uk",
+        "name": "Сула жовтодзьоба"
       },
       {
         "lang": "vi",
         "name": "Chim điên mặt xanh"
+      },
+      {
+        "lang": "zh",
+        "name": "蓝脸鲣鸟"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "藍臉鰹鳥"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "藍面鰹雀"
       }
     ]
   }

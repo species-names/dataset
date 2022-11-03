@@ -13,6 +13,10 @@
       {
         "lang": "pl",
         "name": "Rudaczek malutki"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí centelleante"
       }
     ]
   },
@@ -120,7 +124,7 @@
       },
       {
         "lang": "es",
-        "name": "Colibrí Rufo"
+        "name": "Colibrí rufo"
       },
       {
         "lang": "et",
@@ -192,7 +196,20 @@
   },
   {
     "scientific_name": "Selasphorus platycercus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ja",
+        "name": "フトオハチドリ"
+      },
+      {
+        "lang": "en",
+        "name": "Broad-tailed Hummingbird"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí coliancho"
+      }
+    ]
   },
   {
     "scientific_name": "Selasphorus heloisa",
@@ -233,6 +250,10 @@
       {
         "lang": "fr",
         "name": "Colibri flammule"
+      },
+      {
+        "lang": "es",
+        "name": "Chispita volcanera"
       }
     ]
   },

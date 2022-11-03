@@ -3,20 +3,120 @@
     "scientific_name": "Haematopus unicolor",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "صائد المحار المتغير"
+      },
+      {
+        "lang": "arz",
+        "name": "صائد المحار المتغير"
+      },
+      {
+        "lang": "br",
+        "name": "Morbig Zeland-Nevez"
+      },
+      {
+        "lang": "ca",
+        "name": "Garsa de mar variable"
+      },
+      {
         "lang": "cs",
         "name": "Ústřičník proměnlivý"
+      },
+      {
+        "lang": "cy",
+        "name": "Pioden fôr amrywiol"
+      },
+      {
+        "lang": "da",
+        "name": "Newzealandsk Strandskade"
+      },
+      {
+        "lang": "de",
+        "name": "Neuseeland-Austernfischer"
       },
       {
         "lang": "en",
         "name": "Variable Oystercatcher"
       },
       {
+        "lang": "es",
+        "name": "Ostrero variable"
+      },
+      {
+        "lang": "et",
+        "name": "Maoori mustmerisk"
+      },
+      {
+        "lang": "fa",
+        "name": "صدف‌خوار چندریخت"
+      },
+      {
         "lang": "fi",
         "name": "Nokimeriharakka"
       },
       {
+        "lang": "fr",
+        "name": "Huîtrier variable"
+      },
+      {
+        "lang": "hr",
+        "name": "Novozelandski oštrigar"
+      },
+      {
+        "lang": "hu",
+        "name": "Változó csigaforgató"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia di mare variabile"
+      },
+      {
+        "lang": "ja",
+        "name": "ニュージーランドミヤコドリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Vienspalvė jūršarkė"
+      },
+      {
+        "lang": "mi",
+        "name": "Tōrea pango"
+      },
+      {
+        "lang": "nl",
+        "name": "Nieuw-Zeelandse Zwarte Scholekster"
+      },
+      {
+        "lang": "nn",
+        "name": "Todrakttjeld"
+      },
+      {
+        "lang": "no",
+        "name": "Todrakttjeld"
+      },
+      {
+        "lang": "pl",
+        "name": "Ostrygojad zmienny"
+      },
+      {
+        "lang": "pt",
+        "name": "Piru-piru-variável"
+      },
+      {
+        "lang": "ru",
+        "name": "Изменчивый кулик-сорока"
+      },
+      {
+        "lang": "sk",
+        "name": "Lastúrničiar menlivý"
+      },
+      {
         "lang": "sv",
         "name": "Nyazeelandstrandskata"
+      },
+      {
+        "lang": "uk",
+        "name": "Кулик-сорока мінливобарвний"
       }
     ]
   },
@@ -555,16 +655,24 @@
         "name": "Morbig Finsch"
       },
       {
+        "lang": "da",
+        "name": "Sydø-strandskade"
+      },
+      {
         "lang": "de",
         "name": "Südinsel-Austernfischer"
       },
       {
         "lang": "en",
-        "name": "South Island Pied Oystercatcher"
+        "name": "South Island Oystercatcher"
       },
       {
         "lang": "es",
         "name": "Ostrero de Finsch"
+      },
+      {
+        "lang": "et",
+        "name": "Põldmerisk"
       },
       {
         "lang": "fa",
@@ -579,6 +687,10 @@
         "name": "Huîtrier de Finsch"
       },
       {
+        "lang": "hu",
+        "name": "Maori csigaforgató"
+      },
+      {
         "lang": "it",
         "name": "Beccaccia di mare di South Island"
       },
@@ -587,16 +699,40 @@
         "name": "ミナミミヤコドリ"
       },
       {
+        "lang": "lt",
+        "name": "Pietinė jūršarkė"
+      },
+      {
         "lang": "mi",
-        "name": "Tōrea nl Finsch' scholekster"
+        "name": "Tōrea"
+      },
+      {
+        "lang": "nl",
+        "name": "Finsch' Scholekster"
       },
       {
         "lang": "nn",
         "name": "Nyzealandtjeld"
       },
       {
+        "lang": "no",
+        "name": "Nyzealandtjeld"
+      },
+      {
+        "lang": "pl",
+        "name": "Ostrygojad nowozelandzki"
+      },
+      {
+        "lang": "ru",
+        "name": "Новозеландский пегий кулик-сорока"
+      },
+      {
+        "lang": "sk",
+        "name": "Lastúrničiar jazerný"
+      },
+      {
         "lang": "sv",
-        "name": "Sydstrandskata"
+        "name": "Sydöststrandskata"
       }
     ]
   },

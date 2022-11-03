@@ -53,6 +53,15 @@
     ]
   },
   {
+    "scientific_name": "Athene roseoaxillaris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Makira Owl"
+      }
+    ]
+  },
+  {
     "scientific_name": "Athene noctua",
     "common_names": [
       {
@@ -306,6 +315,45 @@
       {
         "lang": "zh",
         "name": "縱紋腹小鴞"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Athene malaitae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Malaita Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Athene jacquinoti",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka šalamounská"
+      },
+      {
+        "lang": "en",
+        "name": "Solomon Hawk Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Nínox de las Salomón"
+      },
+      {
+        "lang": "fr",
+        "name": "Ninoxe de Jacquinot"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Athene granti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Guadalcanal Owl"
       }
     ]
   },

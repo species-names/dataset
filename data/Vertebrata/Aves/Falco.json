@@ -11,12 +11,12 @@
         "name": "Banded Kestrel"
       },
       {
-        "lang": "fr",
-        "name": "Faucon à ventre rayé"
-      },
-      {
         "lang": "fi",
         "name": "Raitatuulihaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Faucon à ventre rayé"
       },
       {
         "lang": "nl",
@@ -210,6 +210,10 @@
       {
         "lang": "no",
         "name": "Aftenfalk"
+      },
+      {
+        "lang": "os",
+        "name": "Мæхъхъыл"
       },
       {
         "lang": "pl",
@@ -1494,6 +1498,10 @@
       {
         "lang": "tr",
         "name": "Yarasa doğanı"
+      },
+      {
+        "lang": "es",
+        "name": "Halcón murcielaguero"
       }
     ]
   },
@@ -2130,7 +2138,7 @@
       },
       {
         "lang": "da",
-        "name": "Lille tårnfalk"
+        "name": "Lille Tårnfalk"
       },
       {
         "lang": "de",
@@ -2150,7 +2158,7 @@
       },
       {
         "lang": "es",
-        "name": "Cernícalo Primilla"
+        "name": "Cernícalo primilla"
       },
       {
         "lang": "et",
@@ -2222,11 +2230,7 @@
       },
       {
         "lang": "kk",
-        "name": "Дала күйкентай",
-        "synonyms": [
-          "Жағалтай",
-          "Күйкентай"
-        ]
+        "name": "Дала күйкентай"
       },
       {
         "lang": "ko",
@@ -2302,10 +2306,7 @@
       },
       {
         "lang": "sr",
-        "name": "Belonokta vetruša",
-        "synonyms": [
-          "Белонокта ветрушка"
-        ]
+        "name": "Belonokta vetruša - Белонокта ветрушка"
       },
       {
         "lang": "sv",
@@ -2505,12 +2506,52 @@
     "scientific_name": "Falco femoralis",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "صقر أبولمادو"
+      },
+      {
+        "lang": "arz",
+        "name": "صقر ابولمادو"
+      },
+      {
+        "lang": "az",
+        "name": "Cənubi Amerika qızılquşu"
+      },
+      {
+        "lang": "ca",
+        "name": "Falcó cellut"
+      },
+      {
         "lang": "cs",
         "name": "Ostříž aplomado"
       },
       {
+        "lang": "cy",
+        "name": "Hebog aplomado"
+      },
+      {
+        "lang": "da",
+        "name": "Aplomadofalk"
+      },
+      {
+        "lang": "de",
+        "name": "Aplomadofalke"
+      },
+      {
         "lang": "en",
         "name": "Aplomado Falcon"
+      },
+      {
+        "lang": "eo",
+        "name": "Plumbofalko"
+      },
+      {
+        "lang": "es",
+        "name": "Halcón aleto"
+      },
+      {
+        "lang": "et",
+        "name": "Tandempistrik"
       },
       {
         "lang": "fi",
@@ -2521,12 +2562,48 @@
         "name": "Faucon aplomado"
       },
       {
+        "lang": "he",
+        "name": "בז אפלומדו"
+      },
+      {
+        "lang": "hr",
+        "name": "Šareni sokol"
+      },
+      {
         "lang": "hu",
         "name": "Aplomodo-sólyom"
       },
       {
+        "lang": "it",
+        "name": "Falco aplomado"
+      },
+      {
+        "lang": "ja",
+        "name": "オナガハヤブサ"
+      },
+      {
+        "lang": "lt",
+        "name": "Pietų Amerikos sakalas"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnkrūšu piekūns"
+      },
+      {
         "lang": "nl",
-        "name": "Aplomado-valk"
+        "name": "Aplomadovalk"
+      },
+      {
+        "lang": "no",
+        "name": "Aplomadofalk"
+      },
+      {
+        "lang": "nv",
+        "name": "Chʼilhaatʼaʼii bitłʼaaʼ łitsxooígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Sokół rdzawobrewy"
       },
       {
         "lang": "pt",
@@ -2537,8 +2614,28 @@
         "name": "Hatun k'illichu"
       },
       {
+        "lang": "ru",
+        "name": "Южномексиканский сокол"
+      },
+      {
+        "lang": "sk",
+        "name": "Sokol aplomado"
+      },
+      {
+        "lang": "sv",
+        "name": "Aplomadofalk"
+      },
+      {
         "lang": "tr",
         "name": "Kurşuni doğan"
+      },
+      {
+        "lang": "uk",
+        "name": "Сокіл мексиканський"
+      },
+      {
+        "lang": "vi",
+        "name": "Cắt Aplomado"
       }
     ]
   },
@@ -2546,20 +2643,36 @@
     "scientific_name": "Falco fasciinucha",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Taitavalk"
+      },
+      {
         "lang": "cs",
         "name": "Sokol malý"
+      },
+      {
+        "lang": "de",
+        "name": "Taitafalke"
       },
       {
         "lang": "en",
         "name": "Taita Falcon"
       },
       {
-        "lang": "fr",
-        "name": "Faucon taita"
+        "lang": "es",
+        "name": "Halcón taita"
       },
       {
         "lang": "fi",
         "name": "Rotkojalohaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Faucon taita"
+      },
+      {
+        "lang": "it",
+        "name": "Falco delle Taita"
       },
       {
         "lang": "nl",
@@ -2739,24 +2852,104 @@
     "scientific_name": "Falco dickinsoni",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Dickinsongrysvalk"
+      },
+      {
+        "lang": "ca",
+        "name": "Xoriguer argentat"
+      },
+      {
         "lang": "cs",
         "name": "Poštolka Dickinsonova"
+      },
+      {
+        "lang": "cy",
+        "name": "Cudyll Dickinson"
+      },
+      {
+        "lang": "da",
+        "name": "Palmefalk"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarzrückenfalke"
       },
       {
         "lang": "en",
         "name": "Dickinson's Kestrel"
       },
       {
-        "lang": "fr",
-        "name": "Faucon de Dickinson"
+        "lang": "es",
+        "name": "Cernícalo dorsinegro"
+      },
+      {
+        "lang": "et",
+        "name": "Kahkpea-tuuletallaja"
       },
       {
         "lang": "fi",
         "name": "Erakkotuulihaukka"
       },
       {
+        "lang": "fr",
+        "name": "Faucon de Dickinson"
+      },
+      {
+        "lang": "hr",
+        "name": "Bjeloglava vjetruša"
+      },
+      {
+        "lang": "hu",
+        "name": "Hamvasfejű vércse"
+      },
+      {
+        "lang": "it",
+        "name": "Gheppio di Dickinson"
+      },
+      {
+        "lang": "ja",
+        "name": "ハイガシラチョウゲンボウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Juodnugaris sakalas"
+      },
+      {
+        "lang": "nl",
+        "name": "Dickinsons Torenvalk"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitgumpfalk"
+      },
+      {
+        "lang": "pl",
+        "name": "Sokół białorzytny"
+      },
+      {
+        "lang": "pt",
+        "name": "Falcão-de-dickinson"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноспинный сокол"
+      },
+      {
+        "lang": "sk",
+        "name": "Sokol tmavochrbtý"
+      },
+      {
+        "lang": "sv",
+        "name": "Dickinsonfalk"
+      },
+      {
         "lang": "tr",
         "name": "Dickinson kerkenezi"
+      },
+      {
+        "lang": "uk",
+        "name": "Боривітер білоголовий"
       }
     ]
   },
@@ -3139,16 +3332,16 @@
         "name": "Red-necked Falcon"
       },
       {
+        "lang": "fi",
+        "name": "Palmuhaukka"
+      },
+      {
         "lang": "fr",
         "name": "Faucon chicquera"
       },
       {
         "lang": "hu",
         "name": "Vörösnyakú sólyom"
-      },
-      {
-        "lang": "fi",
-        "name": "Palmuhaukka"
       },
       {
         "lang": "tr",
@@ -3193,7 +3386,10 @@
       },
       {
         "lang": "de",
-        "name": "Sakerfalke"
+        "name": "Sakerfalke",
+        "synonyms": [
+          "Würgfalke"
+        ]
       },
       {
         "lang": "el",
@@ -3664,33 +3860,101 @@
     ]
   },
   {
-    "scientific_name": "Falco araea",
+    "scientific_name": "Falco araeus",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Xoriguer de les Seychelles"
+      },
       {
         "lang": "cs",
         "name": "Poštolka seychelská"
+      },
+      {
+        "lang": "da",
+        "name": "Seychellertårnfalk"
+      },
+      {
+        "lang": "de",
+        "name": "Seychellenfalke"
       },
       {
         "lang": "en",
         "name": "Seychelles Kestrel"
       },
       {
+        "lang": "es",
+        "name": "Cernícalo de las Seychelles"
+      },
+      {
+        "lang": "et",
+        "name": "Seiđelli tuuletallaja"
+      },
+      {
         "lang": "fi",
         "name": "Seychellientuulihaukka"
       },
       {
-        "lang": "tr",
-        "name": "Seyşel Adaları kerkenezi"
+        "lang": "fr",
+        "name": "Crécerelle des Seychelles"
+      },
+      {
+        "lang": "hu",
+        "name": "Seychelle-szigeteki vércse"
+      },
+      {
+        "lang": "it",
+        "name": "Gheppio delle Seychelles"
+      },
+      {
+        "lang": "ja",
+        "name": "セーシェルチョウゲンボウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Seychellentorenvalk"
+      },
+      {
+        "lang": "no",
+        "name": "Seychellfalk"
+      },
+      {
+        "lang": "pl",
+        "name": "Pustułka seszelska"
+      },
+      {
+        "lang": "pt",
+        "name": "Francelho-das-seychelles"
       },
       {
         "lang": "ru",
         "name": "Сейшельская пустельга"
+      },
+      {
+        "lang": "sk",
+        "name": "Sokol seychelský"
+      },
+      {
+        "lang": "sv",
+        "name": "Seychellfalk"
+      },
+      {
+        "lang": "tr",
+        "name": "Seyşel Adaları kerkenezi"
       }
     ]
   },
   {
     "scientific_name": "Falco amurensis",
     "common_names": [
+      {
+        "lang": "af",
+        "name": "Oostelike rooipootvalk"
+      },
+      {
+        "lang": "az",
+        "name": "Amur qızılquşu"
+      },
       {
         "lang": "cs",
         "name": "Poštolka amurská"
@@ -3716,6 +3980,10 @@
         "name": "Cernícalo del Amur"
       },
       {
+        "lang": "fi",
+        "name": "Amurinhaukka"
+      },
+      {
         "lang": "fr",
         "name": "Faucon de l'Amour"
       },
@@ -3736,8 +4004,16 @@
         "name": "Amūrinis sakalas"
       },
       {
+        "lang": "nn",
+        "name": "Amurfalk"
+      },
+      {
         "lang": "pl",
-        "name": "kobczyk amurski"
+        "name": "Kobczyk amurski"
+      },
+      {
+        "lang": "pnb",
+        "name": "امر فالکن"
       },
       {
         "lang": "pt",
@@ -3746,10 +4022,6 @@
       {
         "lang": "ru",
         "name": "Амурский кобчик"
-      },
-      {
-        "lang": "fi",
-        "name": "Amurinhaukka"
       },
       {
         "lang": "sv",
@@ -3769,10 +4041,11 @@
       },
       {
         "lang": "zh",
-        "name": "阿穆尔隼",
-        "synonyms": [
-          "东紅脚隼"
-        ]
+        "name": "阿穆尔隼"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "紅足隼"
       }
     ]
   },
@@ -3780,24 +4053,128 @@
     "scientific_name": "Falco alopex",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "عوسق الثعلب"
+      },
+      {
+        "lang": "bg",
+        "name": "Лисичи сокол"
+      },
+      {
+        "lang": "bm",
+        "name": "Sɛgɛbilen"
+      },
+      {
+        "lang": "ca",
+        "name": "Xoriguer guineuer"
+      },
+      {
         "lang": "cs",
         "name": "Poštolka rezavá"
+      },
+      {
+        "lang": "cy",
+        "name": "Cudyll melyngoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rævefalk"
+      },
+      {
+        "lang": "de",
+        "name": "Fuchsfalke"
       },
       {
         "lang": "en",
         "name": "Fox Kestrel"
       },
       {
+        "lang": "eo",
+        "name": "Vulpofalko"
+      },
+      {
+        "lang": "es",
+        "name": "Cernícalo zorruno"
+      },
+      {
+        "lang": "et",
+        "name": "Rebas-tuuletallaja"
+      },
+      {
+        "lang": "fa",
+        "name": "دلیجه روباه"
+      },
+      {
+        "lang": "fi",
+        "name": "Isotuulihaukka"
+      },
+      {
         "lang": "fr",
         "name": "Crécerelle renard"
+      },
+      {
+        "lang": "he",
+        "name": "בז שועל"
+      },
+      {
+        "lang": "hu",
+        "name": "Rókavércse"
+      },
+      {
+        "lang": "it",
+        "name": "Gheppio volpino"
+      },
+      {
+        "lang": "ja",
+        "name": "キツネチョウゲンボウ"
+      },
+      {
+        "lang": "lez",
+        "name": "СикӀрен тӀегъерхъан"
+      },
+      {
+        "lang": "lt",
+        "name": "Lapinis sakalas"
+      },
+      {
+        "lang": "nl",
+        "name": "Vosvalk"
+      },
+      {
+        "lang": "no",
+        "name": "Revefalk"
+      },
+      {
+        "lang": "pl",
+        "name": "Pustułka rdzawa"
+      },
+      {
+        "lang": "pt",
+        "name": "Francelho-vulpino"
+      },
+      {
+        "lang": "ru",
+        "name": "Лисья пустельга"
+      },
+      {
+        "lang": "sk",
+        "name": "Sokol lišací"
+      },
+      {
+        "lang": "sv",
+        "name": "Rävfalk"
       },
       {
         "lang": "tr",
         "name": "Tilki kerkenezi"
       },
       {
-        "lang": "fi",
-        "name": "Isotuulihaukka"
+        "lang": "uk",
+        "name": "Боривітер рудий"
+      },
+      {
+        "lang": "vi",
+        "name": "Cắt cáo"
       }
     ]
   }

@@ -19,6 +19,10 @@
         "name": "Alkoun obecný"
       },
       {
+        "lang": "cy",
+        "name": "Gwylog ddu"
+      },
+      {
         "lang": "da",
         "name": "Tejst"
       },
@@ -31,20 +35,32 @@
         "name": "Black Guillemot"
       },
       {
-        "lang": "et",
-        "name": "Krüüsel"
-      },
-      {
-        "lang": "es",
-        "name": "Arao aliblanco"
+        "lang": "en-gb",
+        "name": "Tystie"
       },
       {
         "lang": "eo",
         "name": "Nigra urio"
       },
       {
+        "lang": "es",
+        "name": "Arao aliblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Krüüsel"
+      },
+      {
         "lang": "eu",
         "name": "Martin hegalzuri"
+      },
+      {
+        "lang": "fa",
+        "name": "پرسفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Riskilä"
       },
       {
         "lang": "fo",
@@ -55,6 +71,34 @@
         "name": "Guillemot à miroir"
       },
       {
+        "lang": "ga",
+        "name": "Foracha dhubh"
+      },
+      {
+        "lang": "gd",
+        "name": "Calltag"
+      },
+      {
+        "lang": "gl",
+        "name": "Arao de á branca"
+      },
+      {
+        "lang": "gv",
+        "name": "Stronnag ghoo"
+      },
+      {
+        "lang": "he",
+        "name": "גולמט שחור"
+      },
+      {
+        "lang": "hr",
+        "name": "Crna njorka"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete lumma"
+      },
+      {
         "lang": "is",
         "name": "Teista"
       },
@@ -63,44 +107,68 @@
         "name": "Uria nera"
       },
       {
-        "lang": "kl",
-        "name": "Serfaq"
-      },
-      {
-        "lang": "lt",
-        "name": "Taistė"
-      },
-      {
-        "lang": "hu",
-        "name": "Fekete lumma"
-      },
-      {
-        "lang": "nl",
-        "name": "Zwarte zeekoet"
-      },
-      {
         "lang": "ja",
         "name": "ハジロウミバト"
       },
       {
-        "lang": "no",
-        "name": "Teist"
+        "lang": "kl",
+        "name": "Serfaq"
+      },
+      {
+        "lang": "kw",
+        "name": "Kyddaw du"
+      },
+      {
+        "lang": "lt",
+        "name": "Paprastoji Taistė"
+      },
+      {
+        "lang": "lv",
+        "name": "Melnais alks"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwarte Zeekoet"
       },
       {
         "lang": "nn",
         "name": "Teist"
       },
       {
+        "lang": "no",
+        "name": "Teist"
+      },
+      {
+        "lang": "olo",
+        "name": "Čiistikky"
+      },
+      {
         "lang": "pl",
         "name": "Nurnik zwyczajny"
       },
       {
-        "lang": "ru",
-        "name": "Обыкновенный чистик"
+        "lang": "pnb",
+        "name": "سیپفس گرائلی"
       },
       {
-        "lang": "fi",
-        "name": "Riskilä"
+        "lang": "pt",
+        "name": "Airo-d'asa-branca"
+      },
+      {
+        "lang": "ru",
+        "name": "Обыкновенный Чистик"
+      },
+      {
+        "lang": "se",
+        "name": "Čielkkis"
+      },
+      {
+        "lang": "sk",
+        "name": "Svišťúň zrkadlový"
+      },
+      {
+        "lang": "sl",
+        "name": "Črna njorka"
       },
       {
         "lang": "sv",
@@ -108,11 +176,11 @@
       },
       {
         "lang": "tr",
-        "name": "Kara dalıcımartı"
+        "name": "Kara dalıcı martı"
       },
       {
         "lang": "uk",
-        "name": "Чорний чистик"
+        "name": "Чистун арктичний"
       }
     ]
   },
@@ -120,8 +188,20 @@
     "scientific_name": "Cepphus columba",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Somorgollaire columbí"
+      },
+      {
         "lang": "cs",
         "name": "Alkoun holubí"
+      },
+      {
+        "lang": "da",
+        "name": "Beringstejst"
+      },
+      {
+        "lang": "de",
+        "name": "Taubenteiste"
       },
       {
         "lang": "en",
@@ -132,8 +212,68 @@
         "name": "Kolomba urio"
       },
       {
+        "lang": "es",
+        "name": "Arao colombino"
+      },
+      {
+        "lang": "et",
+        "name": "Kirdekrüüsel"
+      },
+      {
+        "lang": "fi",
+        "name": "Tyynenmerenriskilä"
+      },
+      {
+        "lang": "fr",
+        "name": "Guillemot colombin"
+      },
+      {
+        "lang": "hu",
+        "name": "Galamblumma"
+      },
+      {
+        "lang": "it",
+        "name": "Uria colombina"
+      },
+      {
+        "lang": "ja",
+        "name": "ウミバト"
+      },
+      {
+        "lang": "lt",
+        "name": "Ramiojo vandenyno taistė"
+      },
+      {
+        "lang": "lv",
+        "name": "Baložu alks"
+      },
+      {
+        "lang": "nl",
+        "name": "Duifzeekoet"
+      },
+      {
+        "lang": "no",
+        "name": "Beringteist"
+      },
+      {
+        "lang": "pl",
+        "name": "Nurnik aleucki"
+      },
+      {
         "lang": "pt",
         "name": "Airo-columbino"
+      },
+      {
+        "lang": "ru",
+        "name": "Тихоокеанский чистик"
+      },
+      {
+        "lang": "sk",
+        "name": "Svišťúň holubí"
+      },
+      {
+        "lang": "sv",
+        "name": "Beringtejst"
       },
       {
         "lang": "tr",
@@ -145,16 +285,24 @@
     "scientific_name": "Cepphus carbo",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Alkoun brýlatý"
-      },
-      {
         "lang": "br",
         "name": "Erev-Japan"
       },
       {
         "lang": "ca",
         "name": "Somorgollaire d'ulleres"
+      },
+      {
+        "lang": "cs",
+        "name": "Alkoun brýlatý"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylog sbectolog"
+      },
+      {
+        "lang": "da",
+        "name": "Brilletejst"
       },
       {
         "lang": "de",
@@ -173,12 +321,28 @@
         "name": "Arao de anteojos"
       },
       {
+        "lang": "et",
+        "name": "Prillkrüüsel"
+      },
+      {
         "lang": "fi",
         "name": "Nokiriskilä"
       },
       {
         "lang": "fr",
         "name": "Guillemot à lunettes"
+      },
+      {
+        "lang": "ga",
+        "name": "Foracha spéacláireach"
+      },
+      {
+        "lang": "hr",
+        "name": "Njorka naočarka"
+      },
+      {
+        "lang": "hu",
+        "name": "Pápaszemes lumma"
       },
       {
         "lang": "it",
@@ -189,8 +353,20 @@
         "name": "ケイマフリ"
       },
       {
+        "lang": "lt",
+        "name": "Akiniuotoji taistė"
+      },
+      {
+        "lang": "lv",
+        "name": "Briļļainais alks"
+      },
+      {
         "lang": "nl",
         "name": "Brilzeekoet"
+      },
+      {
+        "lang": "no",
+        "name": "Brilleteist"
       },
       {
         "lang": "pnb",
@@ -201,8 +377,16 @@
         "name": "Nurnik ochocki"
       },
       {
+        "lang": "pt",
+        "name": "Airo-de-óculos"
+      },
+      {
         "lang": "ru",
         "name": "Очковый чистик"
+      },
+      {
+        "lang": "sk",
+        "name": "Svišťúň okuliarnatý"
       },
       {
         "lang": "sv",
@@ -211,6 +395,10 @@
       {
         "lang": "tr",
         "name": "Gözlüklü dalıcımartı"
+      },
+      {
+        "lang": "uk",
+        "name": "Чистун охотський"
       }
     ]
   }

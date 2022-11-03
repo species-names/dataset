@@ -5,6 +5,10 @@
       {
         "lang": "en",
         "name": "Spotted Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Senegala stepkoko"
       }
     ]
   },
@@ -14,6 +18,10 @@
       {
         "lang": "en",
         "name": "Four-banded Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Kvarstria stepkoko"
       },
       {
         "lang": "es",
@@ -31,6 +39,10 @@
       {
         "lang": "en",
         "name": "Madagascar Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Madagaskara stepkoko"
       },
       {
         "lang": "es",
@@ -170,6 +182,10 @@
         "name": "Namaqua Sandgrouse"
       },
       {
+        "lang": "eo",
+        "name": "Namibia stepkoko"
+      },
+      {
         "lang": "fi",
         "name": "Namibianhietakyyhky"
       },
@@ -205,6 +221,10 @@
       {
         "lang": "en",
         "name": "Lichtenstein's Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Ondumita stepkoko"
       }
     ]
   },
@@ -214,6 +234,10 @@
       {
         "lang": "en",
         "name": "Painted Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Hinda stepkoko"
       }
     ]
   },
@@ -225,24 +249,72 @@
         "name": "Geelkeelsandpatrys"
       },
       {
+        "lang": "br",
+        "name": "Ganga jave melen"
+      },
+      {
+        "lang": "ca",
+        "name": "Ganga gorjagroga"
+      },
+      {
+        "lang": "cy",
+        "name": "Iâr diffeithwch yddf-felen"
+      },
+      {
+        "lang": "da",
+        "name": "Gulstrubet sandhøne"
+      },
+      {
         "lang": "de",
         "name": "Gelbkehl-Flughuhn"
       },
       {
         "lang": "en",
-        "name": "Yellow-throated sandgrouse"
+        "name": "Yellow-throated Sandgrouse"
       },
       {
         "lang": "es",
         "name": "Ganga gorgigualda"
       },
       {
+        "lang": "eo",
+        "name": "Flavgorĝa stepkoko"
+      },
+      {
+        "lang": "fa",
+        "name": "کوکر گلوزرد"
+      },
+      {
         "lang": "fr",
         "name": "Ganga à gorge jaune"
       },
       {
+        "lang": "it",
+        "name": "Grandule golagialla"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelkeelzandhoen"
+      },
+      {
+        "lang": "nv",
+        "name": "Séí naaʼahóóhai bizééʼ łitsooígíí"
+      },
+      {
         "lang": "pt",
         "name": "Cortiçol-de-garganta-amarela"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтогорлый рябок"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulstrupig flyghöna"
+      },
+      {
+        "lang": "uk",
+        "name": "Рябок жовтогорлий"
       }
     ]
   },
@@ -252,6 +324,10 @@
       {
         "lang": "en",
         "name": "Chestnut-bellied Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Brunventra stepkoko"
       }
     ]
   },
@@ -261,6 +337,10 @@
       {
         "lang": "en",
         "name": "Black-faced sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Nigravanga stepkoko"
       }
     ]
   },
@@ -270,6 +350,10 @@
       {
         "lang": "en",
         "name": "Crowned Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Kronita stepkoko"
       }
     ]
   },
@@ -283,6 +367,10 @@
       {
         "lang": "en",
         "name": "Burchell's Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Perlodorsa stepkoko"
       },
       {
         "lang": "es",
@@ -310,8 +398,88 @@
     "scientific_name": "Pterocles bicinctus",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Dubbelbandsandpatrys"
+      },
+      {
+        "lang": "az",
+        "name": "İkizolaqlı bağrıqara"
+      },
+      {
+        "lang": "br",
+        "name": "Ganga divroudenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Ganga de dues bandes"
+      },
+      {
+        "lang": "cy",
+        "name": "Iâr diffeithwch ddwyres"
+      },
+      {
+        "lang": "da",
+        "name": "Tobåndet Sandhøne"
+      },
+      {
+        "lang": "de",
+        "name": "Nachtflughuhn"
+      },
+      {
         "lang": "en",
         "name": "Double-banded Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Dustria stepkoko"
+      },
+      {
+        "lang": "es",
+        "name": "Ganga bicinta"
+      },
+      {
+        "lang": "fa",
+        "name": "کوکر دوخطی"
+      },
+      {
+        "lang": "fr",
+        "name": "Ganga bibande"
+      },
+      {
+        "lang": "it",
+        "name": "Grandule doppiabanda"
+      },
+      {
+        "lang": "ja",
+        "name": "フタオビサケイ"
+      },
+      {
+        "lang": "nl",
+        "name": "Dubbelbandzandhoen"
+      },
+      {
+        "lang": "no",
+        "name": "Tobeltesandhøne"
+      },
+      {
+        "lang": "pl",
+        "name": "Stepówka dwuwstęgowa"
+      },
+      {
+        "lang": "pt",
+        "name": "Cortiçol-de-duas-golas"
+      },
+      {
+        "lang": "ru",
+        "name": "Ночной рябок"
+      },
+      {
+        "lang": "sv",
+        "name": "Tvåbandad flyghöna"
+      },
+      {
+        "lang": "uk",
+        "name": "Рябок ботсванський"
       }
     ]
   },
@@ -341,6 +509,10 @@
       {
         "lang": "en",
         "name": "Pin-tailed Sandgrouse"
+      },
+      {
+        "lang": "eo",
+        "name": "Blankventra stepkoko"
       },
       {
         "lang": "es",

@@ -47,6 +47,10 @@
         "name": "Czubak australijski"
       },
       {
+        "lang": "ru",
+        "name": "Хохлатая база"
+      },
+      {
         "lang": "fi",
         "name": "Töyhtöhaukka"
       },
@@ -85,7 +89,7 @@
       },
       {
         "lang": "en",
-        "name": "Madagascar Baza"
+        "name": "Madagascar Cuckoo-Hawk"
       },
       {
         "lang": "es",
@@ -110,6 +114,10 @@
       {
         "lang": "pl",
         "name": "Czubak madagaskarski"
+      },
+      {
+        "lang": "ru",
+        "name": "Мадагаскарская база"
       },
       {
         "lang": "sv",
@@ -191,6 +199,10 @@
       {
         "lang": "pnb",
         "name": "کالا بازا"
+      },
+      {
+        "lang": "ru",
+        "name": "Чёрная база"
       },
       {
         "lang": "sv",
@@ -278,6 +290,10 @@
         "name": "جرڈن دا بازا"
       },
       {
+        "lang": "ru",
+        "name": "Азиатская база"
+      },
+      {
         "lang": "sv",
         "name": "Indonesisk baza"
       },
@@ -313,6 +329,10 @@
       {
         "lang": "pl",
         "name": "Czubak afrykański"
+      },
+      {
+        "lang": "ru",
+        "name": "Африканская база"
       }
     ]
   }

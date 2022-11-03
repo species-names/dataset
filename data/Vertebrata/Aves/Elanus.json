@@ -190,7 +190,15 @@
       },
       {
         "lang": "ar",
-        "name": "الحدأة سوداء الكتف"
+        "name": "حدأة سوداء الجناح"
+      },
+      {
+        "lang": "arz",
+        "name": "حداه سوداء الجناح"
+      },
+      {
+        "lang": "az",
+        "name": "Bozumtul çalağan"
       },
       {
         "lang": "bg",
@@ -206,11 +214,15 @@
       },
       {
         "lang": "ca",
-        "name": "Esparver d’espatlles negres"
+        "name": "Esparver d'espatlles negres"
       },
       {
         "lang": "cs",
         "name": "Luněc šedý"
+      },
+      {
+        "lang": "cy",
+        "name": "Barcud ysgwydd-ddu"
       },
       {
         "lang": "da",
@@ -222,7 +234,7 @@
       },
       {
         "lang": "el",
-        "name": "Ελανος"
+        "name": "Έλανος"
       },
       {
         "lang": "en",
@@ -234,26 +246,27 @@
       },
       {
         "lang": "es",
-        "name": "Elanio azul",
-        "synonyms": [
-          "Elanio Común"
-        ]
+        "name": "Elanio común"
       },
       {
         "lang": "et",
-        "name": "Austraalia hõbehaugas"
+        "name": "Hõbehaugas"
       },
       {
         "lang": "eu",
-        "name": "Elano urdina"
+        "name": "Elano urdin"
+      },
+      {
+        "lang": "fa",
+        "name": "کورکور بال‌سیاه"
       },
       {
         "lang": "fi",
-        "name": "liitohaukka"
+        "name": "Liitohaukka"
       },
       {
         "lang": "fr",
-        "name": "Élanion blanc"
+        "name": "Élanion blac"
       },
       {
         "lang": "gl",
@@ -273,7 +286,7 @@
       },
       {
         "lang": "id",
-        "name": "Alap-alap putih"
+        "name": "Elang tikus"
       },
       {
         "lang": "is",
@@ -288,12 +301,16 @@
         "name": "カタグロトビ"
       },
       {
+        "lang": "jv",
+        "name": "Elang tikus"
+      },
+      {
         "lang": "kwn",
         "name": "Tuyu"
       },
       {
         "lang": "lt",
-        "name": "Mėlynasis peslys"
+        "name": "Paprastasis palšasis peslys"
       },
       {
         "lang": "ml",
@@ -301,7 +318,7 @@
       },
       {
         "lang": "mr",
-        "name": "कापशी"
+        "name": "कापशी घार"
       },
       {
         "lang": "ms",
@@ -309,19 +326,23 @@
       },
       {
         "lang": "nl",
-        "name": "Grijze wouw"
+        "name": "Grijze Wouw"
       },
       {
         "lang": "no",
         "name": "Svartvingeglente"
       },
       {
+        "lang": "or",
+        "name": "କପାସୀ ଚିଲ"
+      },
+      {
         "lang": "pl",
         "name": "Kaniuk zwyczajny"
       },
       {
-        "lang": "pt-br",
-        "name": "Gavião-peneira"
+        "lang": "pnb",
+        "name": "چٹی ال"
       },
       {
         "lang": "pt",
@@ -329,11 +350,11 @@
       },
       {
         "lang": "ru",
-        "name": "Чернокрылый дымчатый коршун"
+        "name": "Дымчатый коршун"
       },
       {
         "lang": "sk",
-        "name": "luniak sivý"
+        "name": "Luniak sivý"
       },
       {
         "lang": "sl",
@@ -345,7 +366,7 @@
       },
       {
         "lang": "sr",
-        "name": "siva lunja"
+        "name": "Siva lunja"
       },
       {
         "lang": "ss",
@@ -382,6 +403,10 @@
       {
         "lang": "ts",
         "name": "Nwarikapanyana"
+      },
+      {
+        "lang": "uk",
+        "name": "Шуліка чорноплечий"
       },
       {
         "lang": "vi",

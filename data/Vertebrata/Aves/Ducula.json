@@ -58,6 +58,19 @@
     ]
   },
   {
+    "scientific_name": "Ducula subflavescens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellowish Imperial Pigeon"
+      },
+      {
+        "lang": "es",
+        "name": "Dúcula amarillenta"
+      }
+    ]
+  },
+  {
     "scientific_name": "Ducula spilorrhoa",
     "common_names": [
       {
@@ -782,24 +795,60 @@
     "scientific_name": "Ducula bicolor",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Colom imperial bicolor"
+      },
+      {
+        "lang": "cs",
+        "name": "Holub dvoubarvý"
+      },
+      {
+        "lang": "da",
+        "name": "Broget Kejserdue"
+      },
+      {
         "lang": "de",
         "name": "Zweifarben-Fruchttaube"
       },
       {
         "lang": "en",
-        "name": "Zweifarben-Fruchttaube"
+        "name": "Pied Imperial Pigeon"
       },
       {
         "lang": "es",
-        "name": "Paloma imperial bicolor"
+        "name": "Dúcula bicolor"
       },
       {
         "lang": "eo",
         "name": "Dukolora imperia kolombo"
       },
       {
+        "lang": "et",
+        "name": "Valge-keisertuvi"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkokeisarikyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Carpophage blanc"
+      },
+      {
+        "lang": "hu",
+        "name": "Kétszínű gyümölcsgalamb"
+      },
+      {
         "lang": "id",
         "name": "Pergam Laut"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione imperiale bianconero"
+      },
+      {
+        "lang": "ja",
+        "name": "ソデグロバト"
       },
       {
         "lang": "ms",
@@ -807,14 +856,27 @@
       },
       {
         "lang": "nl",
-        "name": "Bonte muskaatduif"
+        "name": "Bonte Muskaatduif"
+      },
+      {
+        "lang": "no",
+        "name": "Krittkeiserdue"
+      },
+      {
+        "lang": "pl",
+        "name": "Muszkatela dwubarwna"
+      },
+      {
+        "lang": "ru",
+        "name": "Двуцветный плодоядный голубь"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartvit kejsarduva"
       },
       {
         "lang": "th",
-        "name": "นกลุมพูขาว",
-        "synonyms": [
-          "นกกระลุมพูขาว"
-        ]
+        "name": "นกลุมพูขาว"
       }
     ]
   },

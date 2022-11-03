@@ -580,8 +580,16 @@
     "scientific_name": "Caprimulgus indicus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "enganyapastors de jungla"
+      },
+      {
         "lang": "cs",
-        "name": "Lelek indický"
+        "name": "lelek indický"
+      },
+      {
+        "lang": "de",
+        "name": "Dschungelnachtschwalbe"
       },
       {
         "lang": "en",
@@ -589,7 +597,24 @@
       },
       {
         "lang": "es",
-        "name": "Chotacabras de jungla"
+        "name": "chotacabras de jungla"
+      },
+      {
+        "lang": "fr",
+        "name": "engoulevent de la jungle"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨタカ",
+        "synonyms": [
+          "夜鷹",
+          "蚊母鳥",
+          "鵟 [jotaka]"
+        ]
+      },
+      {
+        "lang": "ru",
+        "name": "большой козодой"
       }
     ]
   },

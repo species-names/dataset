@@ -41,6 +41,39 @@
     ]
   },
   {
+    "scientific_name": "Asio solomonensis",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kalous šalamounský"
+      },
+      {
+        "lang": "de",
+        "name": "Salomoneneule"
+      },
+      {
+        "lang": "en",
+        "name": "Fearful Owl"
+      },
+      {
+        "lang": "fr",
+        "name": "Hibou redoutable"
+      },
+      {
+        "lang": "no",
+        "name": "Kampugle"
+      },
+      {
+        "lang": "pt",
+        "name": "Nesasio solomonensis"
+      },
+      {
+        "lang": "es",
+        "name": "Búho de las Salomón"
+      }
+    ]
+  },
+  {
     "scientific_name": "Asio otus",
     "common_names": [
       {
@@ -49,7 +82,11 @@
       },
       {
         "lang": "ar",
-        "name": "البومة الاذناء"
+        "name": "بومة أذناء"
+      },
+      {
+        "lang": "arz",
+        "name": "بومه طويلة الاذن"
       },
       {
         "lang": "ast",
@@ -85,7 +122,7 @@
       },
       {
         "lang": "cs",
-        "name": "kalous ušatý"
+        "name": "Kalous ušatý"
       },
       {
         "lang": "csb",
@@ -97,10 +134,7 @@
       },
       {
         "lang": "cw",
-        "name": "oula kernik",
-        "synonyms": [
-          "Ula kernek"
-        ]
+        "name": "Ula kernek"
       },
       {
         "lang": "cy",
@@ -120,10 +154,7 @@
       },
       {
         "lang": "en",
-        "name": "Long-eared Owl",
-        "synonyms": [
-          "Northern Long-eared Owl"
-        ]
+        "name": "Long-eared Owl"
       },
       {
         "lang": "eo",
@@ -143,18 +174,15 @@
       },
       {
         "lang": "fa",
-        "name": "جغد شاخدار",
-        "synonyms": [
-          "جغد گوش‌دراز"
-        ]
+        "name": "جغد گوش‌دراز"
       },
       {
         "lang": "fi",
-        "name": "sarvipöllö"
+        "name": "Sarvipöllö"
       },
       {
         "lang": "fo",
-        "name": "kattúla"
+        "name": "Kattúla"
       },
       {
         "lang": "fr",
@@ -170,11 +198,7 @@
       },
       {
         "lang": "fy",
-        "name": "Hoarnûle",
-        "synonyms": [
-          "Katûle",
-          ""
-        ]
+        "name": "Hoarnûle"
       },
       {
         "lang": "ga",
@@ -182,7 +206,7 @@
       },
       {
         "lang": "gd",
-        "name": "Comhachag Adhairceach"
+        "name": "Comhachag adharcaiche"
       },
       {
         "lang": "gl",
@@ -202,7 +226,7 @@
       },
       {
         "lang": "hsb",
-        "name": "lěsawa"
+        "name": "Lěsawa"
       },
       {
         "lang": "hu",
@@ -210,7 +234,7 @@
       },
       {
         "lang": "hy",
-        "name": "Ականջավոր բու (Akanjavor bu)"
+        "name": "Ականջավոր բու"
       },
       {
         "lang": "is",
@@ -222,10 +246,7 @@
       },
       {
         "lang": "ja",
-        "name": "トラフズク",
-        "synonyms": [
-          "torafuzuku"
-        ]
+        "name": "トラフズク"
       },
       {
         "lang": "ka",
@@ -261,7 +282,7 @@
       },
       {
         "lang": "lad",
-        "name": "ciuita"
+        "name": "Ciuita"
       },
       {
         "lang": "lb",
@@ -277,7 +298,7 @@
       },
       {
         "lang": "lt",
-        "name": "mažasis apuokas"
+        "name": "Mažasis apuokas"
       },
       {
         "lang": "lv",
@@ -285,7 +306,11 @@
       },
       {
         "lang": "mk",
-        "name": "Мал був"
+        "name": "Планински був"
+      },
+      {
+        "lang": "ml",
+        "name": "നെടുഞ്ചെവിയൻ മൂങ്ങ"
       },
       {
         "lang": "mn",
@@ -293,15 +318,19 @@
       },
       {
         "lang": "ms",
-        "name": "Burung hantu telinga panjang"
+        "name": "Burung Hantu Telinga Panjang"
       },
       {
         "lang": "mt",
-        "name": "qattus"
+        "name": "Qattus"
       },
       {
         "lang": "nds-nl",
         "name": "Raansoel"
+      },
+      {
+        "lang": "ne",
+        "name": "लामकाने लाटोकोसेरो"
       },
       {
         "lang": "nl",
@@ -316,6 +345,10 @@
         "name": "Hornugle"
       },
       {
+        "lang": "nv",
+        "name": "Néʼéshjaaʼ yázhí"
+      },
+      {
         "lang": "oc",
         "name": "Duganèl"
       },
@@ -325,7 +358,7 @@
       },
       {
         "lang": "pl",
-        "name": "uszatka"
+        "name": "Uszatka zwyczajna"
       },
       {
         "lang": "pms",
@@ -337,11 +370,11 @@
       },
       {
         "lang": "rm",
-        "name": "piv mesaun"
+        "name": "Piv mesaun"
       },
       {
         "lang": "ro",
-        "name": "Ciuf"
+        "name": "Ciuf de pădure"
       },
       {
         "lang": "ru",
@@ -377,11 +410,11 @@
       },
       {
         "lang": "sk",
-        "name": "myšiarka ušatá"
+        "name": "Myšiarka ušatá"
       },
       {
         "lang": "sl",
-        "name": "mala uharica"
+        "name": "Mala uharica"
       },
       {
         "lang": "sq",
@@ -389,10 +422,7 @@
       },
       {
         "lang": "sr",
-        "name": "Mala ušara",
-        "synonyms": [
-          "Мала ушара"
-        ]
+        "name": "Мала ушара"
       },
       {
         "lang": "sv",
@@ -404,7 +434,7 @@
       },
       {
         "lang": "tk",
-        "name": "kulaklı orman baykuşu"
+        "name": "Kulaklı orman baykuşu"
       },
       {
         "lang": "tr",
@@ -427,6 +457,10 @@
         "name": "Katuul"
       },
       {
+        "lang": "wuu",
+        "name": "长耳鸮"
+      },
+      {
         "lang": "zh",
         "name": "长耳鸮"
       }
@@ -442,6 +476,19 @@
       {
         "lang": "eo",
         "name": "Madagaskara orelstrigo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Asio grammicus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Kalous jamajský"
+      },
+      {
+        "lang": "en",
+        "name": "Jamaican Owl"
       }
     ]
   },
@@ -870,6 +917,14 @@
         "name": "Kalous páskovaný"
       },
       {
+        "lang": "da",
+        "name": "Stribet Skovhornugle"
+      },
+      {
+        "lang": "de",
+        "name": "Schreieule"
+      },
+      {
         "lang": "en",
         "name": "Striped Owl"
       },
@@ -878,8 +933,24 @@
         "name": "Stria orelstrigo"
       },
       {
+        "lang": "es",
+        "name": "Búho gritón"
+      },
+      {
         "lang": "fr",
         "name": "Hibou strié"
+      },
+      {
+        "lang": "it",
+        "name": "Gufo striato"
+      },
+      {
+        "lang": "ja",
+        "name": "タテジマフクロウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Gestreepte Ransuil"
       },
       {
         "lang": "no",
@@ -888,6 +959,10 @@
       {
         "lang": "pt",
         "name": "Coruja-orelhuda"
+      },
+      {
+        "lang": "ru",
+        "name": "Полосатая сова"
       }
     ]
   },

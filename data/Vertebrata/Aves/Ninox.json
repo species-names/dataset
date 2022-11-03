@@ -1,33 +1,5 @@
 [
   {
-    "scientific_name": "Ninox spilocephala",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ninox reyi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ninox randi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ninox obscura",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ninox mindorensis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ninox hypogramma",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Ninox forbesi",
-    "common_names": []
-  },
-  {
     "scientific_name": "Ninox variegata",
     "common_names": [
       {
@@ -143,7 +115,7 @@
       },
       {
         "lang": "en",
-        "name": "Hantu boobook"
+        "name": "Seram Boobook"
       },
       {
         "lang": "es",
@@ -201,6 +173,19 @@
       {
         "lang": "sv",
         "name": "romblonspökuggla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox spilocephala",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mindanao Boobook"
+      },
+      {
+        "lang": "es",
+        "name": "Ninox de Mindanao"
       }
     ]
   },
@@ -293,11 +278,41 @@
     ]
   },
   {
+    "scientific_name": "Ninox rotiensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rote Boobook"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox reyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sulu Boobook"
+      },
+      {
+        "lang": "es",
+        "name": "Ninox de las Sulu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox randi",
+    "common_names": []
+  },
+  {
     "scientific_name": "Ninox punctulata",
     "common_names": [
       {
         "lang": "cs",
         "name": "Sovka tečkovaná"
+      },
+      {
+        "lang": "de",
+        "name": "Pünktchenkauz"
       },
       {
         "lang": "en",
@@ -322,6 +337,15 @@
       {
         "lang": "sv",
         "name": "Fläckig spökuggla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox plesseni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Alor Boobook"
       }
     ]
   },
@@ -393,6 +417,15 @@
     ]
   },
   {
+    "scientific_name": "Ninox obscura",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hume's Boobook"
+      }
+    ]
+  },
+  {
     "scientific_name": "Ninox novaeseelandiae",
     "common_names": [
       {
@@ -405,11 +438,7 @@
       },
       {
         "lang": "en",
-        "name": "Southern Boobook",
-        "synonyms": [
-          "mopoke",
-          "morepork"
-        ]
+        "name": "Southern Boobook"
       },
       {
         "lang": "eo",
@@ -434,6 +463,10 @@
       {
         "lang": "fi",
         "name": "Australianhaukkapöllö"
+      },
+      {
+        "lang": "sv",
+        "name": "Nyazeelandspökuggla"
       }
     ]
   },
@@ -495,6 +528,19 @@
     ]
   },
   {
+    "scientific_name": "Ninox mindorensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mindoro Boobook"
+      },
+      {
+        "lang": "es",
+        "name": "Ninox de Mindoro"
+      }
+    ]
+  },
+  {
     "scientific_name": "Ninox meeki",
     "common_names": [
       {
@@ -550,27 +596,6 @@
     ]
   },
   {
-    "scientific_name": "Ninox jacquinoti",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Sovka šalamounská"
-      },
-      {
-        "lang": "en",
-        "name": "Solomon Hawk Owl"
-      },
-      {
-        "lang": "es",
-        "name": "Nínox de las Salomón"
-      },
-      {
-        "lang": "fr",
-        "name": "Ninoxe de Jacquinot"
-      }
-    ]
-  },
-  {
     "scientific_name": "Ninox ios",
     "common_names": [
       {
@@ -580,6 +605,10 @@
       {
         "lang": "en",
         "name": "Cinnabar Hawk-Owl"
+      },
+      {
+        "lang": "de",
+        "name": "Zinnoberkauz"
       },
       {
         "lang": "es",
@@ -615,6 +644,50 @@
     ]
   },
   {
+    "scientific_name": "Ninox hypogramma",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Halmahera Boobook"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox hantu",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buru boobook"
+      },
+      {
+        "lang": "nl",
+        "name": "Buruvalkuil"
+      },
+      {
+        "lang": "sv",
+        "name": "buruspökuggla"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox fusca",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Timor Boobook"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox forbesi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tanimbar Boobook"
+      }
+    ]
+  },
+  {
     "scientific_name": "Ninox connivens",
     "common_names": [
       {
@@ -646,6 +719,55 @@
       {
         "lang": "en",
         "name": "Australian boobook"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ninox albifacies",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Sovka bělolící"
+      },
+      {
+        "lang": "de",
+        "name": "Weißwangenkauz"
+      },
+      {
+        "lang": "en",
+        "name": "Laughing Owl"
+      },
+      {
+        "lang": "eo",
+        "name": "Fekaŭo"
+      },
+      {
+        "lang": "es",
+        "name": "Búho de Nueva Zelanda"
+      },
+      {
+        "lang": "fi",
+        "name": "Kirkupöllö"
+      },
+      {
+        "lang": "it",
+        "name": "Gufo sghignazzante"
+      },
+      {
+        "lang": "ja",
+        "name": "ワライフクロウ"
+      },
+      {
+        "lang": "mi",
+        "name": "Whēkau"
+      },
+      {
+        "lang": "no",
+        "name": "Latterugle"
+      },
+      {
+        "lang": "tr",
+        "name": "Gülen baykuş"
       }
     ]
   },

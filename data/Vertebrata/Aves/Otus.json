@@ -1,26 +1,6 @@
 [
   {
-    "scientific_name": "Otus sulaensis",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Otus socotranus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Otus pamelae",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Otus nigrorum",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Otus everetti",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Otus cyprius",
+    "scientific_name": "Otus bikegila",
     "common_names": []
   },
   {
@@ -153,6 +133,15 @@
     ]
   },
   {
+    "scientific_name": "Otus tempestatis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wetar Scops-Owl"
+      }
+    ]
+  },
+  {
     "scientific_name": "Otus sunia",
     "common_names": [
       {
@@ -206,6 +195,15 @@
     ]
   },
   {
+    "scientific_name": "Otus sulaensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sula Scops-Owl"
+      }
+    ]
+  },
+  {
     "scientific_name": "Otus spilocephalus",
     "common_names": [
       {
@@ -255,6 +253,15 @@
       {
         "lang": "zh",
         "name": "黄嘴角鸮"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Otus socotranus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Socotra Scops-Owl"
       }
     ]
   },
@@ -499,6 +506,19 @@
     ]
   },
   {
+    "scientific_name": "Otus sauzieri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mauritius owl"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêche de Maurice"
+      }
+    ]
+  },
+  {
     "scientific_name": "Otus sagittatus",
     "common_names": [
       {
@@ -678,6 +698,19 @@
     ]
   },
   {
+    "scientific_name": "Otus podarginus",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Výreček lelkovitý"
+      },
+      {
+        "lang": "en",
+        "name": "Palau Owl"
+      }
+    ]
+  },
+  {
     "scientific_name": "Otus pembaensis",
     "common_names": [
       {
@@ -740,6 +773,37 @@
       {
         "lang": "zh",
         "name": "科摩罗角鸮"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Otus pamelae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Arabian Scops-Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Otus nigrorum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Negros Scops-Owl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Otus murivorus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rodrigues Owl"
+      },
+      {
+        "lang": "fr",
+        "name": "Chevêche de Rodrigues"
       }
     ]
   },
@@ -888,6 +952,15 @@
       {
         "lang": "es",
         "name": "Autillo de las Mentawai"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Otus mendeni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Banggai Scops Owl"
       }
     ]
   },
@@ -1552,6 +1625,19 @@
     ]
   },
   {
+    "scientific_name": "Otus grucheti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Réunion Owl"
+      },
+      {
+        "lang": "fr",
+        "name": "Hibou de Gruchet; Chevêche de la Réunion"
+      }
+    ]
+  },
+  {
     "scientific_name": "Otus fuliginosus",
     "common_names": [
       {
@@ -1589,6 +1675,45 @@
       {
         "lang": "sv",
         "name": "Palawandvärguv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Otus frutuosoi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "São Miguel Scops Owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo de las Azores"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Otus feae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Annobón scops owl"
+      },
+      {
+        "lang": "ca",
+        "name": "xot de Pagalu"
+      },
+      {
+        "lang": "sv",
+        "name": "annobóndvärguv"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Otus everetti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Everett's Scops-Owl"
       }
     ]
   },
@@ -1651,6 +1776,15 @@
       {
         "lang": "zh",
         "name": "兰屿角鸮"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Otus cyprius",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cyprus Scops-Owl"
       }
     ]
   },

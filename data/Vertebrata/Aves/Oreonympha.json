@@ -1,6 +1,23 @@
 [
   {
     "scientific_name": "Oreonympha nobilis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Weißhalssylphe"
+      },
+      {
+        "lang": "en",
+        "name": "Bearded Mountaineer"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí noble oriental"
+      },
+      {
+        "lang": "fr",
+        "name": "Colibri noble"
+      }
+    ]
   }
 ]

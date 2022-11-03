@@ -77,6 +77,10 @@
         "name": "Suippopyrstökurppa"
       },
       {
+        "lang": "fr",
+        "name": "Bécassine à queue pointue"
+      },
+      {
         "lang": "ja",
         "name": "ハリオシギ"
       },
@@ -296,6 +300,10 @@
       {
         "lang": "cs",
         "name": "Bekasina himálajská"
+      },
+      {
+        "lang": "de",
+        "name": "Nepalbekassine"
       },
       {
         "lang": "en",
@@ -735,20 +743,112 @@
     "scientific_name": "Gallinago jamesoni",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "جيمسون"
+      },
+      {
+        "lang": "br",
+        "name": "Gioc'h an Andoù"
+      },
+      {
+        "lang": "ca",
+        "name": "Becadell dels Andes"
+      },
+      {
         "lang": "cs",
         "name": "Bekasina andská"
       },
       {
+        "lang": "cy",
+        "name": "Gïach mynydd y De"
+      },
+      {
+        "lang": "da",
+        "name": "Andesbekkasin"
+      },
+      {
+        "lang": "de",
+        "name": "Andenbekassine"
+      },
+      {
         "lang": "en",
-        "name": "Andean Snipe"
+        "name": "Jameson's Snipe"
       },
       {
         "lang": "eo",
         "name": "Ekvatora galinago"
       },
       {
+        "lang": "es",
+        "name": "Agachadiza andina"
+      },
+      {
+        "lang": "et",
+        "name": "Andi nepp"
+      },
+      {
+        "lang": "fa",
+        "name": "پاشلک آندی"
+      },
+      {
+        "lang": "fi",
+        "name": "Andienkurppa"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécassine des paramos"
+      },
+      {
+        "lang": "hr",
+        "name": "Andska šljuka"
+      },
+      {
+        "lang": "hu",
+        "name": "Andoki sárszalonka"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccino delle Ande"
+      },
+      {
+        "lang": "ja",
+        "name": "アンデスタシギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Andinis perkūno oželis"
+      },
+      {
+        "lang": "nl",
+        "name": "Andessnip"
+      },
+      {
+        "lang": "no",
+        "name": "Nordandesbekkasin"
+      },
+      {
+        "lang": "pl",
+        "name": "Bekas andyjski"
+      },
+      {
+        "lang": "pt",
+        "name": "Narceja-andina"
+      },
+      {
+        "lang": "ru",
+        "name": "Андийский бекас"
+      },
+      {
+        "lang": "sk",
+        "name": "Močiarnica andská"
+      },
+      {
         "lang": "sv",
         "name": "Andinsk beckasin"
+      },
+      {
+        "lang": "uk",
+        "name": "Баранець гірський"
       }
     ]
   },
@@ -756,24 +856,112 @@
     "scientific_name": "Gallinago imperialis",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "القناص الامبراطورى"
+      },
+      {
+        "lang": "br",
+        "name": "Gioc'h impalaerel"
+      },
+      {
+        "lang": "ca",
+        "name": "Becadell imperial"
+      },
+      {
         "lang": "cs",
         "name": "Bekasina královská"
+      },
+      {
+        "lang": "cy",
+        "name": "Gïach rhesog"
+      },
+      {
+        "lang": "da",
+        "name": "Kejserbekkasin"
+      },
+      {
+        "lang": "de",
+        "name": "Kaiserbekassine"
+      },
+      {
+        "lang": "en",
+        "name": "Imperial Snipe"
       },
       {
         "lang": "eo",
         "name": "Imperia galinago"
       },
       {
+        "lang": "es",
+        "name": "Agachadiza imperial"
+      },
+      {
+        "lang": "et",
+        "name": "Inkanepp"
+      },
+      {
+        "lang": "fa",
+        "name": "پاشلک شاهی"
+      },
+      {
+        "lang": "fi",
+        "name": "Inkakurppa"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécassine impériale"
+      },
+      {
+        "lang": "hr",
+        "name": "Riđa šljuka"
+      },
+      {
+        "lang": "hu",
+        "name": "Császár sárszalonka"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccino imperiale"
+      },
+      {
+        "lang": "ja",
+        "name": "セジマタシギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Karališkasis perkūno oželis"
+      },
+      {
+        "lang": "nl",
+        "name": "Keizersnip"
+      },
+      {
+        "lang": "no",
+        "name": "Keiserbekkasin"
+      },
+      {
+        "lang": "pl",
+        "name": "Bekas kasztanowaty"
+      },
+      {
+        "lang": "pt",
+        "name": "Narceja-imperial"
+      },
+      {
+        "lang": "ru",
+        "name": "Королевский бекас"
+      },
+      {
+        "lang": "sk",
+        "name": "Močiarnica kráľovská"
+      },
+      {
         "lang": "sv",
         "name": "Kejsarbeckasin"
       },
       {
-        "lang": "en",
-        "name": "Imperial snipe"
-      },
-      {
-        "lang": "es",
-        "name": "Agachadiza imperial"
+        "lang": "uk",
+        "name": "баранець королівський"
       }
     ]
   },
@@ -1310,19 +1498,88 @@
     "scientific_name": "Gallinago andina",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "بونا سنيب"
+      },
+      {
+        "lang": "br",
+        "name": "Gioc'h Puna"
+      },
+      {
+        "lang": "ca",
+        "name": "Becadell de la Puna"
+      },
+      {
+        "lang": "da",
+        "name": "Punabekkasin"
+      },
+      {
+        "lang": "de",
+        "name": "Punabekassine"
+      },
+      {
+        "lang": "en",
+        "name": "Puna Snipe"
+      },
+      {
         "lang": "es",
-        "name": "Agachadiza de la puna",
-        "synonyms": [
-          "becasina real"
-        ]
+        "name": "Agachadiza de la puna"
+      },
+      {
+        "lang": "et",
+        "name": "Puunatikutaja"
+      },
+      {
+        "lang": "fi",
+        "name": "Keltajalkakurppa"
+      },
+      {
+        "lang": "fr",
+        "name": "Bécassine de la puna"
+      },
+      {
+        "lang": "hr",
+        "name": "Punska šljuka"
+      },
+      {
+        "lang": "hu",
+        "name": "Puna sárszalonka"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccino della puna"
+      },
+      {
+        "lang": "ja",
+        "name": "プナタシギ"
+      },
+      {
+        "lang": "nl",
+        "name": "Bergwatersnip"
+      },
+      {
+        "lang": "no",
+        "name": "Punabekkasin"
+      },
+      {
+        "lang": "pl",
+        "name": "Bekas Taczanowskiego"
+      },
+      {
+        "lang": "pt",
+        "name": "Narcejao-o-galinhola"
+      },
+      {
+        "lang": "ru",
+        "name": "Высокогорный бекас"
+      },
+      {
+        "lang": "sk",
+        "name": "Močiarnica žltonohá"
       },
       {
         "lang": "sv",
         "name": "Punabeckasin"
-      },
-      {
-        "lang": "en",
-        "name": "Puna snipe"
       }
     ]
   }
