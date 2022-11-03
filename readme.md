@@ -35,7 +35,7 @@ Pls add some sort of reference.
 The dataset is published on npm:  
 https://www.npmjs.com/package/species-names-dataset
 
-    git tag 0.0.9
+    git tag 0.0.10
     git push --tags
     npm publish
 
