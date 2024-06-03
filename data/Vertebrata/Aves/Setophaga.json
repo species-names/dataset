@@ -3,12 +3,96 @@
     "scientific_name": "Setophaga vitellina",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Bosquerola de les illes Caiman"
+      },
+      {
+        "lang": "cs",
+        "name": "Lesňáček kajmanský"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor melyngoch"
+      },
+      {
+        "lang": "da",
+        "name": "Caymansanger"
+      },
+      {
+        "lang": "de",
+        "name": "Dotterwaldsänger"
+      },
+      {
         "lang": "en",
         "name": "Vitelline Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Vitelina parulio"
+      },
+      {
         "lang": "es",
         "name": "Reinita de las Caimán"
+      },
+      {
+        "lang": "et",
+        "name": "Kaimanisaarte säälik"
+      },
+      {
+        "lang": "fi",
+        "name": "Caymaninkerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline des Caïmans"
+      },
+      {
+        "lang": "hr",
+        "name": "Karipska sjeničica"
+      },
+      {
+        "lang": "it",
+        "name": "Parula vitellina"
+      },
+      {
+        "lang": "ja",
+        "name": "ケーマンアメリカムシクイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Margasis krūminukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Kaaimanzanger"
+      },
+      {
+        "lang": "no",
+        "name": "Caymanparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka smugowana"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-das-caiman"
+      },
+      {
+        "lang": "ru",
+        "name": "Испещрённый лесной певун"
+      },
+      {
+        "lang": "sk",
+        "name": "Horárik karibský"
+      },
+      {
+        "lang": "sv",
+        "name": "Caymanskogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик цитриновий"
       }
     ]
   },
@@ -16,8 +100,20 @@
     "scientific_name": "Setophaga virens",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Зелена дървесница"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola golanegra"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček proužkoboký"
+        "name": "Lesňáček proužkoboký"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor gwyrdd gyddfddu"
       },
       {
         "lang": "da",
@@ -25,7 +121,7 @@
       },
       {
         "lang": "de",
-        "name": "Grünwaldsänger"
+        "name": "Grünmantel-Waldsänger"
       },
       {
         "lang": "en",
@@ -37,15 +133,15 @@
       },
       {
         "lang": "es",
-        "name": "Reinita Dorsiverde"
+        "name": "Reinita dorsiverde"
       },
       {
         "lang": "et",
-        "name": "mustkurk-säälik"
+        "name": "Mustkurk-säälik"
       },
       {
         "lang": "fi",
-        "name": "seetrikerttuli"
+        "name": "Sypressikerttuli"
       },
       {
         "lang": "fo",
@@ -60,12 +156,16 @@
         "name": "סבכון ירוק"
       },
       {
+        "lang": "hr",
+        "name": "Crnogrla sjeničica"
+      },
+      {
         "lang": "ht",
         "name": "Ti Tchit fal nwa"
       },
       {
         "lang": "hu",
-        "name": "feketetorkú lombjáró"
+        "name": "Feketetorkú lombjáró"
       },
       {
         "lang": "is",
@@ -73,18 +173,19 @@
       },
       {
         "lang": "it",
-        "name": "Dendroica verdastra golanera"
+        "name": "Dendroica verdastra"
       },
       {
         "lang": "ja",
-        "name": "ノドグロミドリアメリカムシクイ",
-        "synonyms": [
-          "nodoguromidoriamerikamushikui"
-        ]
+        "name": "ノドグロミドリアメリカムシクイ"
       },
       {
         "lang": "lt",
-        "name": "Žalioji medlaipa"
+        "name": "Žalsvasis krūminukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Zaļganais ķauķis"
       },
       {
         "lang": "nl",
@@ -95,12 +196,12 @@
         "name": "Grønnparula"
       },
       {
-        "lang": "pl",
-        "name": "lasówka czarnogardła"
+        "lang": "nv",
+        "name": "Tsídiiłtsooí bitéél halzhinígíí"
       },
       {
-        "lang": "pt-br",
-        "name": "Mariquita-de-garganta-preta"
+        "lang": "pl",
+        "name": "Lasówka czarnogardła"
       },
       {
         "lang": "pt",
@@ -112,19 +213,23 @@
       },
       {
         "lang": "sk",
-        "name": "horárik zelený"
+        "name": "Horárik zelený"
       },
       {
         "lang": "sl",
-        "name": "črnoprsi gozdičar"
+        "name": "Črnoprsi gozdičar"
       },
       {
         "lang": "sv",
-        "name": "Grönryggad skogssångare"
+        "name": "Grönryggig skogssångare"
       },
       {
         "lang": "tr",
-        "name": "yeşil sırtlı ötleğen"
+        "name": "Yeşil sırtlı ötleğen"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик чорногорлий"
       },
       {
         "lang": "zh",
@@ -136,8 +241,20 @@
     "scientific_name": "Setophaga townsendi",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "تاونسندس المغرد"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola de Townsend"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček západní"
+        "name": "Lesňáček západní"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor Townsend"
       },
       {
         "lang": "da",
@@ -152,39 +269,56 @@
         "name": "Townsend's Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Taŭnsenda parulio"
+      },
+      {
         "lang": "es",
         "name": "Reinita de Townsend"
       },
       {
         "lang": "et",
-        "name": "nulusäälik"
+        "name": "Nulusäälik"
       },
       {
         "lang": "fi",
-        "name": "kuusikerttuli"
+        "name": "Kuusikerttuli"
       },
       {
         "lang": "fr",
         "name": "Paruline de Townsend"
       },
       {
+        "lang": "hr",
+        "name": "Crnouha sjeničica"
+      },
+      {
         "lang": "hu",
-        "name": "cédruslombjáró"
+        "name": "Cédruslombjáró"
       },
       {
         "lang": "it",
-        "name": "Dendroica di Townsend"
+        "name": "Parula di Townsend"
       },
       {
         "lang": "ja",
-        "name": "タウンゼントアメリカムシクイ",
-        "synonyms": [
-          "taunsendoamerikamushikui"
-        ]
+        "name": "タウンゼントアメリカムシクイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Taunsendo krūminukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Taunsenda ķauķis"
       },
       {
         "lang": "nl",
         "name": "Townsends Zanger"
+      },
+      {
+        "lang": "nv",
+        "name": "Tsídiiłtsooí binákʼee halzhinígíí"
       },
       {
         "lang": "no",
@@ -192,7 +326,7 @@
       },
       {
         "lang": "pl",
-        "name": "lasówka czarnolica"
+        "name": "Lasówka czarnolica"
       },
       {
         "lang": "pt",
@@ -204,11 +338,15 @@
       },
       {
         "lang": "sk",
-        "name": "horárik čečinový"
+        "name": "Horárik čečinový"
       },
       {
         "lang": "sv",
-        "name": "Townsends skogssångare"
+        "name": "Townsendskogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик західний"
       },
       {
         "lang": "zh",
@@ -220,8 +358,24 @@
     "scientific_name": "Setophaga tigrina",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "هازجة كيب ماي"
+      },
+      {
+        "lang": "bg",
+        "name": "Тигрова дървесница"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola tigrada"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček skvrnitý"
+        "name": "Lesňáček skvrnitý"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor bronfrith"
       },
       {
         "lang": "da",
@@ -236,20 +390,28 @@
         "name": "Cape May Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Tigroparulio"
+      },
+      {
         "lang": "es",
-        "name": "Reinita Atigrada"
+        "name": "Reinita atigrada"
       },
       {
         "lang": "et",
-        "name": "kuusesäälik"
+        "name": "Kuusesäälik"
       },
       {
         "lang": "fi",
-        "name": "rusoposkikerttuli"
+        "name": "Rusoposkikerttuli"
       },
       {
         "lang": "fr",
         "name": "Paruline tigrée"
+      },
+      {
+        "lang": "hr",
+        "name": "Riđolica sjeničica"
       },
       {
         "lang": "ht",
@@ -257,7 +419,7 @@
       },
       {
         "lang": "hu",
-        "name": "tigrislombjáró"
+        "name": "Tigrislombjáró"
       },
       {
         "lang": "is",
@@ -265,34 +427,43 @@
       },
       {
         "lang": "it",
-        "name": "Dendroica di Capo May"
+        "name": "Dendroica di Cape May"
       },
       {
         "lang": "ja",
-        "name": "ホオアカアメリカムシクイ",
-        "synonyms": [
-          "hooakaamerikamushikui"
-        ]
+        "name": "ホオアカアメリカムシクイ"
       },
       {
         "lang": "lt",
-        "name": "Tigrinė medlaipa"
+        "name": "Tigrinis krūminukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Tīģerķauķis"
       },
       {
         "lang": "nl",
         "name": "Tijgerzanger"
       },
       {
+        "lang": "nn",
+        "name": "Brunkinnparula"
+      },
+      {
         "lang": "no",
         "name": "Brunkinnparula"
       },
       {
+        "lang": "nv",
+        "name": "Tsídiiłtsooí noodǫ́zígíí"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka rdzawolica"
+        "name": "Lasówka rdzawolica"
       },
       {
         "lang": "pt",
-        "name": "Mariquita do Cabo May"
+        "name": "Mariquita-do-cabo-may"
       },
       {
         "lang": "ru",
@@ -300,11 +471,11 @@
       },
       {
         "lang": "sk",
-        "name": "horárik tigrovaný"
+        "name": "Horárik tigrovaný"
       },
       {
         "lang": "sl",
-        "name": "tigrasti gozdičar"
+        "name": "Tigrasti gozdičar"
       },
       {
         "lang": "sv",
@@ -313,6 +484,10 @@
       {
         "lang": "tr",
         "name": "Kaplan Ötleğeni"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик рудощокий"
       },
       {
         "lang": "zh",
@@ -324,12 +499,84 @@
     "scientific_name": "Setophaga subita",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Bosquerola de l'illa Barbuda"
+      },
+      {
+        "lang": "cs",
+        "name": "Lesňáček barbudský"
+      },
+      {
+        "lang": "da",
+        "name": "Barbudasanger"
+      },
+      {
+        "lang": "de",
+        "name": "Barbudawaldsänger"
+      },
+      {
         "lang": "en",
         "name": "Barbuda Warbler"
       },
       {
         "lang": "es",
         "name": "Reinita de Barbuda"
+      },
+      {
+        "lang": "et",
+        "name": "Barbuda säälik"
+      },
+      {
+        "lang": "fi",
+        "name": "Barbudanlivertäjäkerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline de Barbuda"
+      },
+      {
+        "lang": "hr",
+        "name": "Barbudska sjeničica"
+      },
+      {
+        "lang": "it",
+        "name": "Parula di Barbuda"
+      },
+      {
+        "lang": "lt",
+        "name": "Barbudos krūminukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Barbudazanger"
+      },
+      {
+        "lang": "no",
+        "name": "Barbudaparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka barbudzka"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-de-barbuda"
+      },
+      {
+        "lang": "ru",
+        "name": "Аделаидский лесной певун"
+      },
+      {
+        "lang": "sk",
+        "name": "Horárik barbudský"
+      },
+      {
+        "lang": "sv",
+        "name": "Barbudaskogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик барбудський"
       }
     ]
   },
@@ -337,8 +584,20 @@
     "scientific_name": "Setophaga striata",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "طائر الغابة المغرد"
+      },
+      {
+        "lang": "bg",
+        "name": "Ивичеста дървесница"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola estriada"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček černohlavý"
+        "name": "Lesňáček černohlavý"
       },
       {
         "lang": "cy",
@@ -350,26 +609,31 @@
       },
       {
         "lang": "de",
-        "name": "Kappenwaldsänger",
-        "synonyms": [
-          "Streifenwaldsänger"
-        ]
+        "name": "Streifenwaldsänger"
       },
       {
         "lang": "en",
         "name": "Blackpoll Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Stria parulio"
+      },
+      {
         "lang": "es",
-        "name": "Reinita Estriada"
+        "name": "Reinita estriada"
       },
       {
         "lang": "et",
-        "name": "põhjasäälik"
+        "name": "Põhjasäälik"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسک سرسیاه"
       },
       {
         "lang": "fi",
-        "name": "viirukerttuli"
+        "name": "Viirukerttuli"
       },
       {
         "lang": "fo",
@@ -388,12 +652,16 @@
         "name": "סבכון פסים"
       },
       {
+        "lang": "hr",
+        "name": "Crnoglava sjeničica"
+      },
+      {
         "lang": "ht",
         "name": "Ti Tchit sèjan"
       },
       {
         "lang": "hu",
-        "name": "kucsmás lombjáró"
+        "name": "Kucsmás lombjáró"
       },
       {
         "lang": "is",
@@ -405,14 +673,19 @@
       },
       {
         "lang": "ja",
-        "name": "ズグロアメリカムシクイ",
-        "synonyms": [
-          "zuguroamerikamushikui"
-        ]
+        "name": "ズグロアメリカムシクイ"
       },
       {
         "lang": "lt",
-        "name": "Margoji medlaipa"
+        "name": "Dryžuotasis krūminukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltvaigu ķauķis"
+      },
+      {
+        "lang": "ml",
+        "name": "ബ്ലാക്ക്പോൾ വാർബ്ലർ"
       },
       {
         "lang": "nl",
@@ -423,15 +696,23 @@
         "name": "Svarthetteparula"
       },
       {
-        "lang": "pl",
-        "name": "lasówka czarnogłowa"
+        "lang": "nv",
+        "name": "Tsinlátah yádíłtihii bitsiitʼáád diłhiłígíí"
       },
       {
-        "lang": "pt-br",
-        "name": "Mariquita-de-perna-clara"
+        "lang": "olo",
+        "name": "Junokertuli"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka czarnogłowa"
       },
       {
         "lang": "pt",
+        "name": "Mariquita-de-perna-clara"
+      },
+      {
+        "lang": "pt-br",
         "name": "Mariquita-de-perna-clara"
       },
       {
@@ -440,11 +721,11 @@
       },
       {
         "lang": "sk",
-        "name": "horárik tajgový"
+        "name": "Horárik tajgový"
       },
       {
         "lang": "sl",
-        "name": "črnoglavi gozdičar"
+        "name": "Črnoglavi gozdičar"
       },
       {
         "lang": "sv",
@@ -452,7 +733,11 @@
       },
       {
         "lang": "tr",
-        "name": "ak yanaklı ötleğen"
+        "name": "Ak yanaklı ötleğen"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик білощокий"
       },
       {
         "lang": "zh",
@@ -589,16 +874,88 @@
     "scientific_name": "Setophaga plumbea",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Bosquerola plúmbia"
+      },
+      {
+        "lang": "cs",
+        "name": "Lesňáček antilský"
+      },
+      {
+        "lang": "da",
+        "name": "Blygrå Sanger"
+      },
+      {
+        "lang": "de",
+        "name": "Grauwaldsänger"
+      },
+      {
         "lang": "en",
         "name": "Plumbeous Warbler"
       },
       {
         "lang": "es",
-        "name": "Reinita Plúmbea"
+        "name": "Reinita plúmbea"
+      },
+      {
+        "lang": "et",
+        "name": "Hallsäälik"
+      },
+      {
+        "lang": "fi",
+        "name": "Hiirikerttuli"
       },
       {
         "lang": "fr",
         "name": "Paruline caféiette"
+      },
+      {
+        "lang": "hr",
+        "name": "Olovasta sjeničica"
+      },
+      {
+        "lang": "it",
+        "name": "Parula piombata"
+      },
+      {
+        "lang": "ja",
+        "name": "ドミニカアメリカムシクイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkasis krūminukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Guadeloupezanger"
+      },
+      {
+        "lang": "no",
+        "name": "Blyparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka siwa"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-plúmbea"
+      },
+      {
+        "lang": "ru",
+        "name": "Серый лесной певун"
+      },
+      {
+        "lang": "sk",
+        "name": "Horárik sivý"
+      },
+      {
+        "lang": "sv",
+        "name": "Blygrå skogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик сірий"
       }
     ]
   },
@@ -606,12 +963,88 @@
     "scientific_name": "Setophaga pityophila",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Bosquerola de front verdós"
+      },
+      {
+        "lang": "cs",
+        "name": "Lesňáček kubánský"
+      },
+      {
+        "lang": "da",
+        "name": "Olivenkronet Sanger"
+      },
+      {
+        "lang": "de",
+        "name": "Kubawaldsänger"
+      },
+      {
         "lang": "en",
         "name": "Olive-capped Warbler"
       },
       {
         "lang": "es",
-        "name": "Reinita Coroniverde"
+        "name": "Reinita coroniverde"
+      },
+      {
+        "lang": "et",
+        "name": "Manisksäälik"
+      },
+      {
+        "lang": "fi",
+        "name": "Viherlakkikerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline à calotte verte"
+      },
+      {
+        "lang": "hr",
+        "name": "Maslinastokapa sjeničica"
+      },
+      {
+        "lang": "it",
+        "name": "Parula capoliva"
+      },
+      {
+        "lang": "ja",
+        "name": "キューバアメリカムシクイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Kubinis krūminukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Cubazanger"
+      },
+      {
+        "lang": "no",
+        "name": "Olivenkroneparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka kubańska"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-de-fronte-oliva"
+      },
+      {
+        "lang": "ru",
+        "name": "Кубинский лесной певун"
+      },
+      {
+        "lang": "sk",
+        "name": "Horárik kubánsky"
+      },
+      {
+        "lang": "sv",
+        "name": "Olivkronad skogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик кубинський"
       }
     ]
   },
@@ -672,8 +1105,16 @@
     "scientific_name": "Setophaga pinus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Bosquerola dels pins"
+      },
+      {
         "lang": "cs",
         "name": "Lesňáček borovicový"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor pinwydd"
       },
       {
         "lang": "da",
@@ -689,7 +1130,7 @@
       },
       {
         "lang": "es",
-        "name": "Reinita del Pinar"
+        "name": "Reinita del pinar"
       },
       {
         "lang": "et",
@@ -704,16 +1145,32 @@
         "name": "Paruline des pins"
       },
       {
+        "lang": "hr",
+        "name": "Borova sjeničica"
+      },
+      {
         "lang": "ht",
         "name": "Ti Tchit bwa pen"
       },
       {
+        "lang": "hu",
+        "name": "Fenyő lombjáró"
+      },
+      {
         "lang": "it",
-        "name": "Dendroica dei pini"
+        "name": "Parula delle pinete"
       },
       {
         "lang": "ja",
         "name": "マツアメリカムシクイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Pušinis krūminukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Priežu ķauķis"
       },
       {
         "lang": "nl",
@@ -722,6 +1179,10 @@
       {
         "lang": "no",
         "name": "Furuparula"
+      },
+      {
+        "lang": "nv",
+        "name": "Ńdíshchíitah tsídiiłtsooí"
       },
       {
         "lang": "pl",
@@ -744,6 +1205,10 @@
         "name": "Tallskogssångare"
       },
       {
+        "lang": "uk",
+        "name": "Пісняр-лісовик сосновий"
+      },
+      {
         "lang": "zh",
         "name": "松莺"
       }
@@ -753,12 +1218,104 @@
     "scientific_name": "Setophaga pharetra",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "هازجة سهمية الرأس"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola de Jamaica"
+      },
+      {
+        "lang": "cs",
+        "name": "Lesňáček jamajský"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor pennau saethau"
+      },
+      {
+        "lang": "da",
+        "name": "Jamaicasanger"
+      },
+      {
+        "lang": "de",
+        "name": "Strichelwaldsänger"
+      },
+      {
         "lang": "en",
         "name": "Arrowhead Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Jamajka parulio"
+      },
+      {
         "lang": "es",
         "name": "Reinita jamaicana"
+      },
+      {
+        "lang": "et",
+        "name": "Jamaika säälik"
+      },
+      {
+        "lang": "fi",
+        "name": "Jamaikankerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline de Jamaïque"
+      },
+      {
+        "lang": "hr",
+        "name": "Jamajčka sjeničica"
+      },
+      {
+        "lang": "it",
+        "name": "Parula sagittata"
+      },
+      {
+        "lang": "ja",
+        "name": "ヤジリアメリカムシクイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Raibasis krūminukas"
+      },
+      {
+        "lang": "nl",
+        "name": "Jamaicazanger"
+      },
+      {
+        "lang": "no",
+        "name": "Pilparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka jamajska"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-da-jamaica"
+      },
+      {
+        "lang": "ru",
+        "name": "Пёстрый лесной певун"
+      },
+      {
+        "lang": "sk",
+        "name": "Horárik jamajský"
+      },
+      {
+        "lang": "sv",
+        "name": "Jamaicaskogssångare"
+      },
+      {
+        "lang": "tr",
+        "name": "Ok başlı ötleğen"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик ямайський"
       }
     ]
   },
@@ -895,8 +1452,20 @@
     "scientific_name": "Setophaga pensylvanica",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Пенсилванска дървесница"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola de flancs castanys"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček žlutotemenný"
+        "name": "Lesňáček žlutotemenný"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor ystlys winau"
       },
       {
         "lang": "da",
@@ -904,11 +1473,15 @@
       },
       {
         "lang": "de",
-        "name": "Gelbscheitelwaldsänger"
+        "name": "Gelbscheitel-Waldsänger"
       },
       {
         "lang": "en",
         "name": "Chestnut-sided Warbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Kaŝtanflanka parulio"
       },
       {
         "lang": "es",
@@ -916,11 +1489,11 @@
       },
       {
         "lang": "et",
-        "name": "ruskkülg-säälik"
+        "name": "Ruskkülg-säälik"
       },
       {
         "lang": "fi",
-        "name": "rusokylkikerttuli"
+        "name": "Rusokylkikerttuli"
       },
       {
         "lang": "fo",
@@ -936,7 +1509,7 @@
       },
       {
         "lang": "hu",
-        "name": "barkós lombjáró"
+        "name": "Barkós lombjáró"
       },
       {
         "lang": "is",
@@ -948,14 +1521,15 @@
       },
       {
         "lang": "ja",
-        "name": "ワキチャアメリカムシクイ",
-        "synonyms": [
-          "wakichaamerikamushikui"
-        ]
+        "name": "ワキチャアメリカムシクイ"
       },
       {
         "lang": "lt",
-        "name": "Rudašonė medlaipa"
+        "name": "Pensilvaninis krūminukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Bērsānu ķauķis"
       },
       {
         "lang": "nl",
@@ -966,8 +1540,12 @@
         "name": "Brunsideparula"
       },
       {
+        "lang": "nv",
+        "name": "Tsinlátah yádíłtihii bikʼiiz dibéłchíʼígíí"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka rdzawoboczna"
+        "name": "Lasówka rdzawoboczna"
       },
       {
         "lang": "pt",
@@ -979,11 +1557,11 @@
       },
       {
         "lang": "sk",
-        "name": "horárik hnedoboký"
+        "name": "Horárik hnedoboký"
       },
       {
         "lang": "sl",
-        "name": "brkati gozdičar"
+        "name": "Brkati gozdičar"
       },
       {
         "lang": "sv",
@@ -991,7 +1569,11 @@
       },
       {
         "lang": "tr",
-        "name": "sarı tepeli ötleğen"
+        "name": "Sarı tepeli ötleğen"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик рудобокий"
       },
       {
         "lang": "zh",
@@ -1108,12 +1690,112 @@
     "scientific_name": "Setophaga occidentalis",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "الناسك الدخله"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola de Hermit"
+      },
+      {
+        "lang": "cs",
+        "name": "Lesňáček žlutohlavý"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor swil"
+      },
+      {
+        "lang": "da",
+        "name": "Gyldenhovedet Sanger"
+      },
+      {
+        "lang": "de",
+        "name": "Einsiedelwaldsänger"
+      },
+      {
         "lang": "en",
         "name": "Hermit Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Okcidenta parulio"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita cabecigualda"
+      },
+      {
+        "lang": "et",
+        "name": "Laanesäälik"
+      },
+      {
+        "lang": "fa",
+        "name": "سسک غربی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kaliforniankerttuli"
+      },
+      {
         "lang": "fr",
         "name": "Paruline à tête jaune"
+      },
+      {
+        "lang": "hr",
+        "name": "Zlatnolica sjeničica"
+      },
+      {
+        "lang": "it",
+        "name": "Parula eremita"
+      },
+      {
+        "lang": "ja",
+        "name": "キガシラアメリカムシクイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Geltongalvis krūminukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Vientuļais ķauķis"
+      },
+      {
+        "lang": "nl",
+        "name": "Heremietzanger"
+      },
+      {
+        "lang": "no",
+        "name": "Barnålparula"
+      },
+      {
+        "lang": "nv",
+        "name": "Yaayááhalzhiin bitsiiʼ łitsooígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka żółtogłowa"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-eremita"
+      },
+      {
+        "lang": "ru",
+        "name": "Желтоголовый лесной певун"
+      },
+      {
+        "lang": "sk",
+        "name": "Horárik pustovnícky"
+      },
+      {
+        "lang": "sv",
+        "name": "Eremitskogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик жовтоголовий"
       }
     ]
   },
@@ -1121,8 +1803,16 @@
     "scientific_name": "Setophaga nigrescens",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Bosquerola arlequinada"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček černohrdlý"
+        "name": "Lesňáček černohrdlý"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor llwyd gyddfddu"
       },
       {
         "lang": "da",
@@ -1137,31 +1827,40 @@
         "name": "Black-throated Gray Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Grizdorsa parulio"
+      },
+      {
         "lang": "es",
         "name": "Reinita gris"
       },
       {
         "lang": "et",
-        "name": "võsasäälik"
+        "name": "Võsasäälik"
+      },
+      {
+        "lang": "fa",
+        "name": "سسک سیاه"
       },
       {
         "lang": "fi",
-        "name": "viiksikerttuli"
+        "name": "Viiksikerttuli"
       },
       {
         "lang": "fr",
         "name": "Paruline grise"
       },
       {
+        "lang": "hu",
+        "name": "Feketenyakú lombjáró"
+      },
+      {
         "lang": "it",
-        "name": "Dendroica grigia golanera"
+        "name": "Parula grigia golanera"
       },
       {
         "lang": "ja",
-        "name": "ノドグロハイアメリカムシクイ",
-        "synonyms": [
-          "shiroharaamerikamushikui"
-        ]
+        "name": "ノドグロハイアメリカムシクイ"
       },
       {
         "lang": "nl",
@@ -1172,8 +1871,12 @@
         "name": "Gråparula"
       },
       {
+        "lang": "nv",
+        "name": "Tsinlátah yádíłtihii bizééʼ halzhinígíí"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka białowąsa"
+        "name": "Lasówka białowąsa"
       },
       {
         "lang": "pt",
@@ -1185,11 +1888,15 @@
       },
       {
         "lang": "sk",
-        "name": "horárik borievkový"
+        "name": "Horárik borievkový"
       },
       {
         "lang": "sv",
-        "name": "Gråryggad skogssångare"
+        "name": "Svartstrimmig skogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик біловусий"
       },
       {
         "lang": "zh",
@@ -1201,8 +1908,24 @@
     "scientific_name": "Setophaga magnolia",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "هازجة الماغنوليا"
+      },
+      {
+        "lang": "bg",
+        "name": "Магнолиева дървесница"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola magnòlia"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček severní"
+        "name": "Lesňáček severní"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor magnolia"
       },
       {
         "lang": "da",
@@ -1217,16 +1940,20 @@
         "name": "Magnolia Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Magnolia parulio"
+      },
+      {
         "lang": "es",
         "name": "Reinita de Magnolia"
       },
       {
         "lang": "et",
-        "name": "tsuugasäälik"
+        "name": "Tsuugasäälik"
       },
       {
         "lang": "fi",
-        "name": "magnoliakerttuli"
+        "name": "Magnoliakerttuli"
       },
       {
         "lang": "fr",
@@ -1238,7 +1965,7 @@
       },
       {
         "lang": "hu",
-        "name": "magnólialombjáró"
+        "name": "Magnólialombjáró"
       },
       {
         "lang": "is",
@@ -1246,14 +1973,11 @@
       },
       {
         "lang": "it",
-        "name": "Dendroica magnolia"
+        "name": "Dendroica delle magnolie"
       },
       {
         "lang": "ja",
-        "name": "シロオビアメリカムシクイ",
-        "synonyms": [
-          "shiroobiamerikamushikui"
-        ]
+        "name": "シロオビアメリカムシクイ"
       },
       {
         "lang": "lt",
@@ -1268,8 +1992,12 @@
         "name": "Magnoliaparula"
       },
       {
+        "lang": "nv",
+        "name": "Tsídiiłtsooí bitéél noodǫ́zígíí"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka magnoliowa"
+        "name": "Lasówka magnoliowa"
       },
       {
         "lang": "pt",
@@ -1277,15 +2005,15 @@
       },
       {
         "lang": "ru",
-        "name": "Магнолиевая древесница"
+        "name": "Магнолиевый лесной певун"
       },
       {
         "lang": "sk",
-        "name": "horárik magnóliový"
+        "name": "Horárik magnóliový"
       },
       {
         "lang": "sl",
-        "name": "magnolijev gozdičar"
+        "name": "Magnolijev gozdičar"
       },
       {
         "lang": "sv",
@@ -1296,6 +2024,10 @@
         "name": "Manolya Ötleğeni"
       },
       {
+        "lang": "uk",
+        "name": "Пісняр-лісовик канадський"
+      },
+      {
         "lang": "zh",
         "name": "纹胸林莺"
       }
@@ -1304,6 +2036,18 @@
   {
     "scientific_name": "Setophaga kirtlandii",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Bosquerola de Kirtland"
+      },
+      {
+        "lang": "cs",
+        "name": "Lesňáček šedohřbetý"
+      },
+      {
+        "lang": "da",
+        "name": "Kirtlandsanger"
+      },
       {
         "lang": "de",
         "name": "Michiganwaldsänger"
@@ -1317,14 +2061,94 @@
         "name": "Reinita de Kirtland"
       },
       {
+        "lang": "et",
+        "name": "Michigani säälik"
+      },
+      {
         "lang": "fi",
         "name": "Kulokerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline de Kirtland"
+      },
+      {
+        "lang": "hr",
+        "name": "Pjegavoleđa sjeničica"
+      },
+      {
+        "lang": "hu",
+        "name": "Kirtland-poszáta"
+      },
+      {
+        "lang": "it",
+        "name": "Parula di Kirtland"
+      },
+      {
+        "lang": "ja",
+        "name": "カートランドアメリカムシクイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Mičiganinis krūminukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Kirtlenda ķauķis"
+      },
+      {
+        "lang": "nl",
+        "name": "Kirtlands Zanger"
+      },
+      {
+        "lang": "no",
+        "name": "Brannfeltparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka szaro-żółta"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-de-michigan"
+      },
+      {
+        "lang": "ru",
+        "name": "Мичиганский лесной певун"
+      },
+      {
+        "lang": "sk",
+        "name": "Horárik škvrnitý"
+      },
+      {
+        "lang": "sv",
+        "name": "Kirtlandskogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик мічиганський"
       }
     ]
   },
   {
     "scientific_name": "Setophaga graciae",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Bosquerola de Grace"
+      },
+      {
+        "lang": "cs",
+        "name": "Lesňáček koniferový"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor Grace"
+      },
+      {
+        "lang": "da",
+        "name": "Gyldenstrubet Sanger"
+      },
       {
         "lang": "de",
         "name": "Arizonawaldsänger"
@@ -1334,16 +2158,16 @@
         "name": "Grace's Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Gracparulio"
+      },
+      {
         "lang": "es",
         "name": "Reinita de Grace"
       },
       {
-        "lang": "cy",
-        "name": "Telor Grace"
-      },
-      {
-        "lang": "eo",
-        "name": "Gracparulio"
+        "lang": "et",
+        "name": "Asteegi säälik"
       },
       {
         "lang": "fi",
@@ -1354,12 +2178,52 @@
         "name": "Paruline de Grace"
       },
       {
+        "lang": "it",
+        "name": "Parula di Grace"
+      },
+      {
+        "lang": "ja",
+        "name": "グレースアメリカムシクイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Arizoninis krūminukas"
+      },
+      {
+        "lang": "lv",
+        "name": "Greisas ķauķis"
+      },
+      {
         "lang": "nl",
-        "name": "Grace' zanger"
+        "name": "Grace' Zanger"
+      },
+      {
+        "lang": "no",
+        "name": "Ponderosaparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka żółtogardła"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-de-grace"
+      },
+      {
+        "lang": "ru",
+        "name": "Аризонский лесной певун"
+      },
+      {
+        "lang": "sk",
+        "name": "Horárik žltohrdlý"
       },
       {
         "lang": "sv",
-        "name": "gråkindad skogssångare"
+        "name": "Gråkindad skogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик південний"
       }
     ]
   },
@@ -1367,8 +2231,36 @@
     "scientific_name": "Setophaga goldmani",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Schwarznacken-Waldsänger"
+      },
+      {
         "lang": "en",
         "name": "Goldman's Warbler"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline de Goldman"
+      },
+      {
+        "lang": "nl",
+        "name": "Goldmans Zanger"
+      },
+      {
+        "lang": "no",
+        "name": "Guatemalaparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka gwatemalska"
+      },
+      {
+        "lang": "sk",
+        "name": "Horárik guatemalský"
+      },
+      {
+        "lang": "sv",
+        "name": "Guatemalaskogssångare"
       }
     ]
   },
@@ -1376,8 +2268,16 @@
     "scientific_name": "Setophaga fusca",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Оранжевогуша дървесница"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola fosca"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček stromový"
+        "name": "Lesňáček stromový"
       },
       {
         "lang": "cy",
@@ -1405,11 +2305,11 @@
       },
       {
         "lang": "et",
-        "name": "tulikurk-säälik"
+        "name": "Tulikurk-säälik"
       },
       {
         "lang": "fi",
-        "name": "tulikurkkukerttuli"
+        "name": "Tulikurkkukerttuli"
       },
       {
         "lang": "fo",
@@ -1420,12 +2320,16 @@
         "name": "Paruline à gorge orangée"
       },
       {
+        "lang": "hr",
+        "name": "Narančastogrla sjeničica"
+      },
+      {
         "lang": "ht",
         "name": "Ti Tchit flanbwayan"
       },
       {
         "lang": "hu",
-        "name": "narancstorkú lombjáró"
+        "name": "Narancstorkú lombjáró"
       },
       {
         "lang": "is",
@@ -1433,14 +2337,11 @@
       },
       {
         "lang": "it",
-        "name": "Dendroica fosca"
+        "name": "Dendroica di Blackburn"
       },
       {
         "lang": "ja",
-        "name": "キマユアメリカムシクイ",
-        "synonyms": [
-          "kimayuamerikamushikui"
-        ]
+        "name": "キマユアメリカムシクイ"
       },
       {
         "lang": "lt",
@@ -1455,12 +2356,12 @@
         "name": "Hemlokkparula"
       },
       {
-        "lang": "pl",
-        "name": "lasówka rudogardła"
+        "lang": "nv",
+        "name": "Chʼótah yádíłtihii"
       },
       {
-        "lang": "pt-br",
-        "name": "Mariquita-papo-de-fogo"
+        "lang": "pl",
+        "name": "Lasówka rudogardła"
       },
       {
         "lang": "pt",
@@ -1472,11 +2373,11 @@
       },
       {
         "lang": "sk",
-        "name": "horárik jedľovcový"
+        "name": "Horárik jedľovcový"
       },
       {
         "lang": "sl",
-        "name": "ognjeni gozdičar"
+        "name": "Ognjeni gozdičar"
       },
       {
         "lang": "sv",
@@ -1484,7 +2385,11 @@
       },
       {
         "lang": "tr",
-        "name": "turuncu boğazlı ötleğen"
+        "name": "Turuncu boğazlı ötleğen"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик рудоволий"
       },
       {
         "lang": "zh",
@@ -1496,8 +2401,40 @@
     "scientific_name": "Setophaga flavescens",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Bahamawaldsänger"
+      },
+      {
         "lang": "en",
         "name": "Bahamas Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita de las Bahamas"
+      },
+      {
+        "lang": "fi",
+        "name": "Bahamankerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline de Todd"
+      },
+      {
+        "lang": "nl",
+        "name": "Bahamazanger"
+      },
+      {
+        "lang": "no",
+        "name": "Bahamasparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka bahamska"
+      },
+      {
+        "lang": "sv",
+        "name": "Bahamaskogssångare"
       }
     ]
   },
@@ -1506,7 +2443,11 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "lesňáček zlatohrdlý"
+        "name": "Lesňáček zlatohrdlý"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor gyddf-felyn"
       },
       {
         "lang": "da",
@@ -1521,20 +2462,32 @@
         "name": "Yellow-throated Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Flavgorĝa parulio"
+      },
+      {
         "lang": "es",
-        "name": "Reinita Gorjiamarilla"
+        "name": "Reinita gorjiamarilla"
+      },
+      {
+        "lang": "et",
+        "name": "Kuldkurk-säälik"
       },
       {
         "lang": "fi",
-        "name": "keltarintakerttuli"
+        "name": "Keltarintakerttuli"
       },
       {
         "lang": "fr",
         "name": "Paruline à gorge jaune"
       },
       {
+        "lang": "hu",
+        "name": "Sárgatorkú lombjáró"
+      },
+      {
         "lang": "it",
-        "name": "Parula golagialla"
+        "name": "Dendroica golagialla"
       },
       {
         "lang": "ja",
@@ -1549,8 +2502,12 @@
         "name": "Gulstrupeparula"
       },
       {
+        "lang": "nv",
+        "name": "Tsinlátah yádíłtihii bizééʼ łitsooígíí"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka szarogrzbieta"
+        "name": "Lasówka szarogrzbieta"
       },
       {
         "lang": "pt",
@@ -1558,15 +2515,19 @@
       },
       {
         "lang": "ru",
-        "name": "Желтогорлый певун"
+        "name": "Желтогорлый лесной певун"
       },
       {
         "lang": "sk",
-        "name": "horárik sivochrbtý"
+        "name": "Horárik sivochrbtý"
       },
       {
         "lang": "sv",
         "name": "Gulstrupig skogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик чорнощокий"
       },
       {
         "lang": "zh",
@@ -1578,8 +2539,16 @@
     "scientific_name": "Setophaga discolor",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Bosquerola de les praderies"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček pokřovní"
+        "name": "Lesňáček pokřovní"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor y paith"
       },
       {
         "lang": "da",
@@ -1587,11 +2556,15 @@
       },
       {
         "lang": "de",
-        "name": "Rostscheitelwaldsänger"
+        "name": "Rotmantel-Waldsänger"
       },
       {
         "lang": "en",
         "name": "Prairie Warbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Preria parulio"
       },
       {
         "lang": "es",
@@ -1599,11 +2572,11 @@
       },
       {
         "lang": "et",
-        "name": "põõsasäälik"
+        "name": "Põõsasäälik"
       },
       {
         "lang": "fi",
-        "name": "pensaskerttuli"
+        "name": "Pensaskerttuli"
       },
       {
         "lang": "fr",
@@ -1619,10 +2592,7 @@
       },
       {
         "lang": "ja",
-        "name": "チャスジアメリカムシクイ",
-        "synonyms": [
-          "chasujiamerikamushikui"
-        ]
+        "name": "チャスジアメリカムシクイ"
       },
       {
         "lang": "nl",
@@ -1633,8 +2603,12 @@
         "name": "Buskparula"
       },
       {
+        "lang": "nv",
+        "name": "Halgaiidę́ę́ʼ tsídiiłtsooí"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka czarnowąsa"
+        "name": "Lasówka czarnowąsa"
       },
       {
         "lang": "pt",
@@ -1646,11 +2620,15 @@
       },
       {
         "lang": "sk",
-        "name": "horárik prériový"
+        "name": "Horárik prériový"
       },
       {
         "lang": "sv",
         "name": "Prärieskogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик прерієвий"
       },
       {
         "lang": "zh",
@@ -1662,12 +2640,84 @@
     "scientific_name": "Setophaga delicata",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "سانت لوسيا الدخله"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola de l'illa Saint Lucia"
+      },
+      {
+        "lang": "cs",
+        "name": "Lesňáček svatolucijský"
+      },
+      {
+        "lang": "da",
+        "name": "Skt. Lucia-skovsanger"
+      },
+      {
+        "lang": "de",
+        "name": "Saint-Lucia-Waldsänger"
+      },
+      {
         "lang": "en",
-        "name": "St Lucia Warbler"
+        "name": "St. Lucia Warbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Sanktalucia parulio"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita de Santa Lucía"
+      },
+      {
+        "lang": "et",
+        "name": "Saintlucia säälik"
+      },
+      {
+        "lang": "fi",
+        "name": "Saintlucianlivertäjäkerttuli"
       },
       {
         "lang": "fr",
         "name": "Paruline de Sainte-Lucie"
+      },
+      {
+        "lang": "hu",
+        "name": "Saint Lucia-i lombjáró"
+      },
+      {
+        "lang": "it",
+        "name": "Parula di Saint Lucia"
+      },
+      {
+        "lang": "nl",
+        "name": "Sint-Luciazanger"
+      },
+      {
+        "lang": "no",
+        "name": "Saintluciaparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka żółtobrewa"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-de-santa-lúcia"
+      },
+      {
+        "lang": "sv",
+        "name": "Saintluciaskogssångare"
+      },
+      {
+        "lang": "tr",
+        "name": "Saint Lucia ötleğeni"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик лусійський"
       }
     ]
   },
@@ -1885,28 +2935,36 @@
     "scientific_name": "Setophaga chrysoparia",
     "common_names": [
       {
-        "lang": "de",
-        "name": "Goldwangenwaldsänger"
+        "lang": "ca",
+        "name": "Bosquerola caragroga"
       },
       {
-        "lang": "en",
-        "name": "Golden-cheeked Warbler"
-      },
-      {
-        "lang": "es",
-        "name": "Reinita caridorada"
-      },
-      {
-        "lang": "fr",
-        "name": "Paruline à dos noir"
+        "lang": "cs",
+        "name": "Lesňáček zlatolící"
       },
       {
         "lang": "cy",
         "name": "Telor eurfochog"
       },
       {
+        "lang": "da",
+        "name": "Gyldenkindet Sanger"
+      },
+      {
+        "lang": "de",
+        "name": "Goldwangen-Waldsänger"
+      },
+      {
+        "lang": "en",
+        "name": "Golden-cheeked Warbler"
+      },
+      {
         "lang": "eo",
         "name": "Orvanga parulio"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita caridorada"
       },
       {
         "lang": "et",
@@ -1917,8 +2975,16 @@
         "name": "Teksasinkerttuli"
       },
       {
+        "lang": "fr",
+        "name": "Paruline à dos noir"
+      },
+      {
         "lang": "hu",
         "name": "Aranyarcú lombjáró"
+      },
+      {
+        "lang": "it",
+        "name": "Parula guancedorate"
       },
       {
         "lang": "ja",
@@ -1929,8 +2995,20 @@
         "name": "Geelwangzanger"
       },
       {
+        "lang": "no",
+        "name": "Gulkinnparula"
+      },
+      {
         "lang": "nv",
         "name": "Tsídiiłtsooí diłhiłígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka żółtolica"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-de-bochechas-douradas"
       },
       {
         "lang": "ru",
@@ -1938,7 +3016,11 @@
       },
       {
         "lang": "sv",
-        "name": "gulkindad skogssångare"
+        "name": "Gulkindad skogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик золотощокий"
       }
     ]
   },
@@ -1948,6 +3030,10 @@
       {
         "lang": "ar",
         "name": "هازجة زرقاء"
+      },
+      {
+        "lang": "ast",
+        "name": "Reinita cerúlea"
       },
       {
         "lang": "bg",
@@ -1971,7 +3057,7 @@
       },
       {
         "lang": "de",
-        "name": "Pappelwaldsänger"
+        "name": "Blauwaldsänger"
       },
       {
         "lang": "en",
@@ -1988,6 +3074,10 @@
       {
         "lang": "et",
         "name": "Lasuursäälik"
+      },
+      {
+        "lang": "fa",
+        "name": "سسک نیلی"
       },
       {
         "lang": "fi",
@@ -2007,7 +3097,7 @@
       },
       {
         "lang": "it",
-        "name": "Parula cerulea"
+        "name": "Dendroica cerulea"
       },
       {
         "lang": "ja",
@@ -2050,6 +3140,10 @@
         "name": "Blåvit skogssångare"
       },
       {
+        "lang": "uk",
+        "name": "Пісняр-лісовик блакитний"
+      },
+      {
         "lang": "zh",
         "name": "白喉林莺"
       }
@@ -2059,8 +3153,16 @@
     "scientific_name": "Setophaga castanea",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "هازجة كستنائية الصدر"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček kaštanovoprsý"
+        "name": "Lesňáček kaštanovoprsý"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor bronwinau"
       },
       {
         "lang": "da",
@@ -2068,11 +3170,15 @@
       },
       {
         "lang": "de",
-        "name": "Braunbrustwaldsänger"
+        "name": "Braunkehl-Waldsänger"
       },
       {
         "lang": "en",
         "name": "Bay-breasted Warbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Kaŝtana parulio"
       },
       {
         "lang": "es",
@@ -2080,11 +3186,11 @@
       },
       {
         "lang": "et",
-        "name": "ruskesäälik"
+        "name": "Ruskesäälik"
       },
       {
         "lang": "fi",
-        "name": "rusorintakerttuli"
+        "name": "Rusorintakerttuli"
       },
       {
         "lang": "fr",
@@ -2096,7 +3202,7 @@
       },
       {
         "lang": "hu",
-        "name": "rozsdás lombjáró"
+        "name": "Rozsdás lombjáró"
       },
       {
         "lang": "is",
@@ -2108,10 +3214,7 @@
       },
       {
         "lang": "ja",
-        "name": "クリイロアメリカムシクイ",
-        "synonyms": [
-          "kuriiroamerikamushikui"
-        ]
+        "name": "クリイロアメリカムシクイ"
       },
       {
         "lang": "lt",
@@ -2126,12 +3229,16 @@
         "name": "Kastanjeparula"
       },
       {
+        "lang": "nv",
+        "name": "Tsinlátah yádíłtihii bitéél dibéłchíʼígíí"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka kasztanowata"
+        "name": "Lasówka kasztanowata"
       },
       {
         "lang": "pt",
-        "name": "Mariquita-de-peito-castanho"
+        "name": "Mariquita-de-peito-baio"
       },
       {
         "lang": "ru",
@@ -2139,15 +3246,19 @@
       },
       {
         "lang": "sk",
-        "name": "horárik smrekový"
+        "name": "Horárik smrekový"
       },
       {
         "lang": "sl",
-        "name": "kostanjevi gozdičar"
+        "name": "Kostanjevi gozdičar"
       },
       {
         "lang": "sv",
         "name": "Brunbröstad skogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик каштановий"
       },
       {
         "lang": "zh",
@@ -2159,8 +3270,20 @@
     "scientific_name": "Setophaga caerulescens",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Синегърба дървесница"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola golanegra blava"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček modrohřbetý"
+        "name": "Lesňáček modrohřbetý"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor glas gyddfddu"
       },
       {
         "lang": "da",
@@ -2175,16 +3298,24 @@
         "name": "Black-throated Blue Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Bludorsa parulio"
+      },
+      {
         "lang": "es",
         "name": "Reinita azulada"
       },
       {
         "lang": "et",
-        "name": "sinisäälik"
+        "name": "Sinisäälik"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسک آبی گلوسیاه"
       },
       {
         "lang": "fi",
-        "name": "sinikerttuli"
+        "name": "Sinikerttuli"
       },
       {
         "lang": "fo",
@@ -2200,7 +3331,7 @@
       },
       {
         "lang": "hu",
-        "name": "kékes lombjáró"
+        "name": "Kékes lombjáró"
       },
       {
         "lang": "is",
@@ -2208,14 +3339,11 @@
       },
       {
         "lang": "it",
-        "name": "Dendroica blu golanera"
+        "name": "Dendroica golanera"
       },
       {
         "lang": "ja",
-        "name": "ノドグロルリアメリカムシクイ",
-        "synonyms": [
-          "nodoguroruriamerikamushikui"
-        ]
+        "name": "ノドグロルリアメリカムシクイ"
       },
       {
         "lang": "lt",
@@ -2230,12 +3358,16 @@
         "name": "Blåparula"
       },
       {
+        "lang": "nv",
+        "name": "Tsinlátah yádíłtihii diłhiłgo dootłʼizhígíí"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka granatowa"
+        "name": "Lasówka granatowa"
       },
       {
         "lang": "pt",
-        "name": "Felosa-azul-de-garganta-preta"
+        "name": "Mariquita-azul-de-garganta-preta"
       },
       {
         "lang": "ru",
@@ -2243,11 +3375,11 @@
       },
       {
         "lang": "sk",
-        "name": "horárik čiernohrdlý"
+        "name": "Horárik čiernohrdlý"
       },
       {
         "lang": "sl",
-        "name": "modri gozdičar"
+        "name": "Modri gozdičar"
       },
       {
         "lang": "sv",
@@ -2255,10 +3387,11 @@
       },
       {
         "lang": "tr",
-        "name": "mavi sırtlı ötleğen",
-        "synonyms": [
-          "Mavi-sırtlı Ötleğen"
-        ]
+        "name": "Mavi-sırtlı Ötleğen"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик сизий"
       },
       {
         "lang": "zh",
@@ -2279,7 +3412,7 @@
       },
       {
         "lang": "de",
-        "name": "Audubonsänger"
+        "name": "Audubonwaldsänger"
       },
       {
         "lang": "en",
@@ -2299,7 +3432,11 @@
       },
       {
         "lang": "nl",
-        "name": "Audubons zanger"
+        "name": "Audubons Zanger"
+      },
+      {
+        "lang": "no",
+        "name": "Sitronstrupeparula"
       },
       {
         "lang": "pl",
@@ -2319,36 +3456,36 @@
     "scientific_name": "Setophaga angelae",
     "common_names": [
       {
-        "lang": "de",
-        "name": "Angela-Waldsänger"
-      },
-      {
-        "lang": "en",
-        "name": "Elfin-woods Warbler"
-      },
-      {
-        "lang": "es",
-        "name": "Reinita de Ángela"
-      },
-      {
-        "lang": "ja",
-        "name": "プエルトリコアメリカムシクイ"
-      },
-      {
-        "lang": "pl",
-        "name": "lasówka wzorzysta"
-      },
-      {
         "lang": "ar",
         "name": "هازجة الغابة الصغير"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola d'Àngela"
       },
       {
         "lang": "cy",
         "name": "Telor ellyllbren"
       },
       {
+        "lang": "da",
+        "name": "Puerto Rico-sanger"
+      },
+      {
+        "lang": "de",
+        "name": "Puerto-Rico-Waldsänger"
+      },
+      {
+        "lang": "en",
+        "name": "Elfin Woods Warbler"
+      },
+      {
         "lang": "eo",
         "name": "Angela parulio"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita de Ángela"
       },
       {
         "lang": "fi",
@@ -2359,16 +3496,40 @@
         "name": "Paruline d'Angela"
       },
       {
+        "lang": "it",
+        "name": "Parula dell'elfin"
+      },
+      {
+        "lang": "ja",
+        "name": "プエルトリコアメリカムシクイ"
+      },
+      {
         "lang": "nl",
         "name": "Puerto-Ricozanger"
       },
       {
+        "lang": "no",
+        "name": "Svartryggparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka wzorzysta"
+      },
+      {
+        "lang": "ru",
+        "name": "Пуэрто-риканский лесной певун"
+      },
+      {
         "lang": "sv",
-        "name": "elfinskogssångare"
+        "name": "Elfinskogssångare"
       },
       {
         "lang": "tr",
         "name": "Küçük orman ötleğeni"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик пуерто-риканський"
       }
     ]
   },
@@ -2376,8 +3537,24 @@
     "scientific_name": "Setophaga americana",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "هازجة شمالية"
+      },
+      {
+        "lang": "bg",
+        "name": "Северна същинска дървесница"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola de pit groc"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček lišejníkový"
+        "name": "Lesňáček lišejníkový"
+      },
+      {
+        "lang": "cy",
+        "name": "Pariwla'r Gogledd"
       },
       {
         "lang": "da",
@@ -2397,18 +3574,19 @@
       },
       {
         "lang": "es",
-        "name": "Parula norteña",
-        "synonyms": [
-          "Chipe azul olivo norteño"
-        ]
+        "name": "Parula norteña"
       },
       {
         "lang": "et",
-        "name": "samblikusäälik"
+        "name": "Samblikusäälik"
+      },
+      {
+        "lang": "fa",
+        "name": "چرخ‌ریسک‌نمای شمالی"
       },
       {
         "lang": "fi",
-        "name": "tiaiskerttuli"
+        "name": "Tiaiskerttuli"
       },
       {
         "lang": "fo",
@@ -2432,7 +3610,7 @@
       },
       {
         "lang": "hu",
-        "name": "északi lombposzáta"
+        "name": "Északi lombposzáta"
       },
       {
         "lang": "is",
@@ -2444,10 +3622,7 @@
       },
       {
         "lang": "ja",
-        "name": "アサギアメリカムシクイ",
-        "synonyms": [
-          "asagiamerikamushikui"
-        ]
+        "name": "アサギアメリカムシクイ"
       },
       {
         "lang": "lt",
@@ -2462,30 +3637,28 @@
         "name": "Stryparula"
       },
       {
+        "lang": "nv",
+        "name": "Tsídiiłtsooí łibáhígíí"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka obrożna"
+        "name": "Lasówka obrożna"
       },
       {
         "lang": "pt",
-        "name": "Mariquita-azul",
-        "synonyms": [
-          "Mariquita-de-colar"
-        ]
+        "name": "Mariquita-de-colar"
       },
       {
         "lang": "ru",
-        "name": "Белоглазая парула",
-        "synonyms": [
-          "Северная древесница"
-        ]
+        "name": "Белоглазая парула"
       },
       {
         "lang": "sk",
-        "name": "horárik sýkorčí"
+        "name": "Horárik sýkorčí"
       },
       {
         "lang": "sl",
-        "name": "lišajski peničar"
+        "name": "Lišajski peničar"
       },
       {
         "lang": "sv",
@@ -2494,6 +3667,10 @@
       {
         "lang": "tr",
         "name": "Parula Ötleğeni"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр північний"
       },
       {
         "lang": "zh",
@@ -2506,7 +3683,7 @@
     "common_names": [
       {
         "lang": "da",
-        "name": "Gylden Sanger"
+        "name": "Gul Sanger"
       },
       {
         "lang": "de",
@@ -2514,17 +3691,11 @@
       },
       {
         "lang": "en",
-        "name": "Yellow Warbler",
-        "synonyms": [
-          "American Yellow Warbler"
-        ]
+        "name": "American Yellow Warbler"
       },
       {
         "lang": "es",
-        "name": "chipe amarillo",
-        "synonyms": [
-          "Reinita Amarilla"
-        ]
+        "name": "Reinita Amarilla"
       },
       {
         "lang": "fr",
@@ -2543,8 +3714,12 @@
         "name": "Gele Zanger"
       },
       {
+        "lang": "no",
+        "name": "Gulparula"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka złotawa"
+        "name": "Lasówka złotawa"
       },
       {
         "lang": "pt",
@@ -2556,7 +3731,11 @@
       },
       {
         "lang": "sk",
-        "name": "horárik žltý"
+        "name": "Horárik žltý"
+      },
+      {
+        "lang": "sv",
+        "name": "Gul skogssångare"
       }
     ]
   },
@@ -2564,16 +3743,76 @@
     "scientific_name": "Setophaga adelaidae",
     "common_names": [
       {
+        "lang": "cy",
+        "name": "Telor Adelaide"
+      },
+      {
+        "lang": "da",
+        "name": "Antilsanger"
+      },
+      {
+        "lang": "de",
+        "name": "Antillenwaldsänger"
+      },
+      {
         "lang": "en",
         "name": "Adelaide's Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Adelajda parulio"
+      },
+      {
         "lang": "es",
-        "name": "Reinita puertorriqueña o reinita mariposera"
+        "name": "Reinita puertorriqueña"
+      },
+      {
+        "lang": "fi",
+        "name": "Livertäjäkerttuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline d'Adélaïde"
+      },
+      {
+        "lang": "it",
+        "name": "Parula di Adelaide"
+      },
+      {
+        "lang": "ja",
+        "name": "キバラアメリカムシクイ"
+      },
+      {
+        "lang": "nl",
+        "name": "Adelaides Zanger"
+      },
+      {
+        "lang": "no",
+        "name": "Antillparula"
+      },
+      {
+        "lang": "pl",
+        "name": "Lasówka żółtobrzucha"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-portorriquenha"
+      },
+      {
+        "lang": "ru",
+        "name": "Антильский лесной певун"
+      },
+      {
+        "lang": "sv",
+        "name": "Puertoricoskogssångare"
       },
       {
         "lang": "tr",
         "name": "Adelaide ötleğeni"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр-лісовик антильський"
       }
     ]
   }

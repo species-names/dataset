@@ -15,6 +15,10 @@
         "name": "Buschschliefer"
       },
       {
+        "lang": "el",
+        "name": "Ξανθόστικτος Ετερύραγχας"
+      },
+      {
         "lang": "en",
         "name": "Yellow-spotted Rock Hyrax"
       },
@@ -25,6 +29,10 @@
       {
         "lang": "hu",
         "name": "Kelet-afrikai szirtiborz"
+      },
+      {
+        "lang": "ja",
+        "name": "キボシイワハイラックス"
       },
       {
         "lang": "nr",
@@ -58,5 +66,9 @@
         "name": "Tshwanyê"
       }
     ]
+  },
+  {
+    "scientific_name": "Heterohyrax auricampensis",
+    "common_names": []
   }
 ]

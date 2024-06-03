@@ -105,6 +105,10 @@
         "name": "Rooineknaguil"
       },
       {
+        "lang": "an",
+        "name": "Gallineta ciega parda"
+      },
+      {
         "lang": "be-x-old",
         "name": "Чырванашыйны ляляк"
       },
@@ -319,47 +323,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Caprimulgus nigriscapularis",
-    "common_names": [
-      {
-        "lang": "af",
-        "name": "Swartskouernaguil"
-      },
-      {
-        "lang": "cs",
-        "name": "Lelek černotemenný"
-      },
-      {
-        "lang": "cy",
-        "name": "Troellwr jyngl Affrica"
-      },
-      {
-        "lang": "en",
-        "name": "Black-shouldered Nightjar"
-      },
-      {
-        "lang": "es",
-        "name": "Chotacabras hombrinegro"
-      },
-      {
-        "lang": "fa",
-        "name": "شبگرد دوش‌سیاه"
-      },
-      {
-        "lang": "fr",
-        "name": "Engoulevent à épaulettes noires"
-      },
-      {
-        "lang": "nl",
-        "name": "Zwartschoudernachtzwaluw"
-      },
-      {
-        "lang": "sv",
-        "name": "Mörkskuldrad nattskärra"
-      }
-    ]
-  },
-  {
     "scientific_name": "Caprimulgus nigrescens",
     "common_names": []
   },
@@ -406,6 +369,10 @@
     "scientific_name": "Caprimulgus mahrattensis",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "সাইক্সের রাতচরা"
+      },
+      {
         "lang": "cs",
         "name": "Lelek sindhský"
       },
@@ -438,6 +405,10 @@
       {
         "lang": "ar",
         "name": "سبد وسيع الذيل"
+      },
+      {
+        "lang": "bn",
+        "name": "দিনকানা"
       },
       {
         "lang": "cs",
@@ -664,6 +635,10 @@
   {
     "scientific_name": "Caprimulgus europaeus",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Gallineta ciega grisa"
+      },
       {
         "lang": "ar",
         "name": "سبد أوروبي"
@@ -1031,6 +1006,10 @@
   {
     "scientific_name": "Caprimulgus aegyptius",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Gallineta ciega echipcia"
+      },
       {
         "lang": "cs",
         "name": "Lelek světlý"

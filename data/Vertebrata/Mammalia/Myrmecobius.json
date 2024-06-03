@@ -3,10 +3,6 @@
     "scientific_name": "Myrmecobius fasciatus",
     "common_names": [
       {
-        "lang": "ja",
-        "name": "フクロアリクイ"
-      },
-      {
         "lang": "cs",
         "name": "Mravencojed žíhaný"
       },
@@ -16,17 +12,15 @@
       },
       {
         "lang": "es",
-        "name": "Numbat",
-        "synonyms": [
-          "hormiguero marsupial"
-        ]
+        "name": "hormiguero marsupial"
       },
       {
         "lang": "fi",
-        "name": "Pussimuurahaiskarhu",
-        "synonyms": [
-          "numbatti"
-        ]
+        "name": "Pussimuurahaiskarhu"
+      },
+      {
+        "lang": "ja",
+        "name": "フクロアリクイ"
       },
       {
         "lang": "pl",

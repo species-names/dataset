@@ -64,8 +64,16 @@
     "scientific_name": "Ocreatus peruanus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Peruflaggensylphe"
+      },
+      {
         "lang": "en",
         "name": "Peruvian Racket-tail"
+      },
+      {
+        "lang": "es",
+        "name": "Colibrí de raquetas peruano"
       },
       {
         "lang": "nl",
@@ -74,10 +82,6 @@
       {
         "lang": "sv",
         "name": "Peruflaggkolibri"
-      },
-      {
-        "lang": "es",
-        "name": "Colibrí de raquetas peruano"
       }
     ]
   },

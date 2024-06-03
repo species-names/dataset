@@ -23,36 +23,76 @@
     "scientific_name": "Todiramphus winchelli",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Alció de Winchell"
+      },
+      {
         "lang": "cs",
         "name": "Ledňáček Winchellův"
       },
       {
+        "lang": "da",
+        "name": "Winchells Isfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Rotnackenliest"
+      },
+      {
         "lang": "en",
-        "name": "Rufous-lored Kingfisher"
+        "name": "Winchell's Kingfisher"
       },
       {
         "lang": "es",
         "name": "Alción cuellirrojo"
       },
       {
+        "lang": "et",
+        "name": "Punakael-safiirlind"
+      },
+      {
+        "lang": "fi",
+        "name": "Negrosinkalastaja"
+      },
+      {
         "lang": "fr",
         "name": "Martin-chasseur de Winchell"
       },
       {
-        "lang": "ca",
-        "name": "Alció de Winchell"
+        "lang": "it",
+        "name": "Martin pescatore dalle redini"
+      },
+      {
+        "lang": "ja",
+        "name": "チャエリショウビン"
       },
       {
         "lang": "nl",
-        "name": "Winchells ijsvogel"
+        "name": "Winchells IJsvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Halsbåndisfugl"
       },
       {
         "lang": "pnb",
         "name": "جنگل مچھی مار"
       },
       {
+        "lang": "ru",
+        "name": "Красношейная альциона"
+      },
+      {
+        "lang": "sk",
+        "name": "Rybárikovec filipínsky"
+      },
+      {
         "lang": "sv",
-        "name": "rostpannad kungsfiskar"
+        "name": "Rostpannad kungsfiskare"
+      },
+      {
+        "lang": "uk",
+        "name": "Альціон рудолобий"
       }
     ]
   },
@@ -494,6 +534,10 @@
         "name": "Alció de les Vanuatu"
       },
       {
+        "lang": "ceb",
+        "name": "Todiramphus farquhari"
+      },
+      {
         "lang": "cy",
         "name": "Pysgotwr bron winau"
       },
@@ -605,6 +649,10 @@
   {
     "scientific_name": "Todiramphus chloris",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "ধলাঘাড় মাছরাঙা"
+      },
       {
         "lang": "cs",
         "name": "ledňáček proměnlivý"

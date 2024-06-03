@@ -3,6 +3,10 @@
     "scientific_name": "Netta rufina",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Aneda roya"
+      },
+      {
         "lang": "ast",
         "name": "Coríu Roxu"
       },
@@ -17,6 +21,10 @@
       {
         "lang": "bg",
         "name": "Червеноклюни потапници"
+      },
+      {
+        "lang": "bn",
+        "name": "রাঙ্গামুড়ি"
       },
       {
         "lang": "br",
@@ -159,6 +167,10 @@
         "name": "Rødhodeand"
       },
       {
+        "lang": "or",
+        "name": "ରଙ୍ଗ ଗେଣ୍ଡି"
+      },
+      {
         "lang": "pl",
         "name": "Hełmiatka"
       },
@@ -224,15 +236,23 @@
     "common_names": [
       {
         "lang": "ca",
-        "name": "Ànec peposaca"
+        "name": "Xibec peposaca"
       },
       {
         "lang": "cs",
         "name": "Zrzohlávka peposaka"
       },
       {
+        "lang": "cy",
+        "name": "Hwyaden bigwridog"
+      },
+      {
+        "lang": "da",
+        "name": "Peposakand"
+      },
+      {
         "lang": "de",
-        "name": "Peposakaente"
+        "name": "Rosenschnabelente"
       },
       {
         "lang": "en",
@@ -244,15 +264,35 @@
       },
       {
         "lang": "es",
-        "name": "Pato Picazo"
+        "name": "Pato picazo"
+      },
+      {
+        "lang": "et",
+        "name": "Pampavart"
+      },
+      {
+        "lang": "fa",
+        "name": "اردک نوک‌گلی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kyhmynarsku"
       },
       {
         "lang": "fr",
         "name": "Nette demi-deuil"
       },
       {
+        "lang": "ga",
+        "name": "Lacha ghobrósach"
+      },
+      {
+        "lang": "he",
+        "name": "נטה ורודת מקור"
+      },
+      {
         "lang": "hr",
-        "name": "Ružičastokljuna patka"
+        "name": "Rumenokljuna patka"
       },
       {
         "lang": "hu",
@@ -267,12 +307,20 @@
         "name": "ベニバシガモ"
       },
       {
+        "lang": "lt",
+        "name": "Rausvasnapė antis"
+      },
+      {
         "lang": "nl",
         "name": "Peposaca-eend"
       },
       {
         "lang": "no",
         "name": "Peposacaand"
+      },
+      {
+        "lang": "olo",
+        "name": "Kuhmunarsku"
       },
       {
         "lang": "pl",
@@ -283,8 +331,32 @@
         "name": "Marrecão"
       },
       {
+        "lang": "ru",
+        "name": "Пампасный нырок"
+      },
+      {
+        "lang": "sh",
+        "name": "Ružičastokljuna patka"
+      },
+      {
+        "lang": "sk",
+        "name": "Hrdzavka peposaka"
+      },
+      {
         "lang": "sv",
         "name": "Pampasand"
+      },
+      {
+        "lang": "uk",
+        "name": "Чернь аргентинська"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt mỏ hồng"
+      },
+      {
+        "lang": "zh",
+        "name": "粉嘴潜鸭"
       }
     ]
   },

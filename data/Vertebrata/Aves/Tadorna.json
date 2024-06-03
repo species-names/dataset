@@ -97,6 +97,10 @@
     "scientific_name": "Tadorna tadorna",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Aneda blanquinegra"
+      },
+      {
         "lang": "ar",
         "name": "شهرمان شائع"
       },
@@ -399,8 +403,20 @@
     ]
   },
   {
+    "scientific_name": "Tadorna petrina",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Tadorna minor",
+    "common_names": []
+  },
+  {
     "scientific_name": "Tadorna ferruginea",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Aneda caniella"
+      },
       {
         "lang": "ar",
         "name": "بط أبو فروة"

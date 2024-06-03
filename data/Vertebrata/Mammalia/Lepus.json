@@ -25,6 +25,10 @@
     "scientific_name": "Lepus tolai",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Κουνέλι Τολάι"
+      },
+      {
         "lang": "en",
         "name": "Tolai Hare"
       },
@@ -41,6 +45,10 @@
   {
     "scientific_name": "Lepus timidus",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Llebre montanyesa"
+      },
       {
         "lang": "bar",
         "name": "Schneehoos"
@@ -72,6 +80,10 @@
       {
         "lang": "de",
         "name": "Schneehase"
+      },
+      {
+        "lang": "el",
+        "name": "Λαγός Χιονιού"
       },
       {
         "lang": "en",
@@ -215,6 +227,10 @@
     "scientific_name": "Lepus tibetanus",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Λαγός της Ερήμου"
+      },
+      {
         "lang": "en",
         "name": "Desert Hare"
       }
@@ -223,6 +239,10 @@
   {
     "scientific_name": "Lepus starcki",
     "common_names": [
+      {
+        "lang": "el",
+        "name": "Αιθιοπαϊκός Λαγός Υψηπεδίων"
+      },
       {
         "lang": "en",
         "name": "Ethiopian Highland Hare"
@@ -236,6 +256,10 @@
   {
     "scientific_name": "Lepus sinensis",
     "common_names": [
+      {
+        "lang": "el",
+        "name": "Κινέζικο Κουνέλι"
+      },
       {
         "lang": "en",
         "name": "Chinese Hare"
@@ -263,6 +287,10 @@
     "scientific_name": "Lepus peguensis",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Βιρμανικό Κουνέλι"
+      },
+      {
         "lang": "en",
         "name": "Burmese Hare"
       },
@@ -274,7 +302,23 @@
   },
   {
     "scientific_name": "Lepus othus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "el",
+        "name": "Λαγός Αλάσκας"
+      },
+      {
+        "lang": "en",
+        "name": "Alaskan Hare",
+        "synonyms": [
+          "Tundra Hare"
+        ]
+      },
+      {
+        "lang": "ik",
+        "name": "ukallisugruk"
+      }
+    ]
   },
   {
     "scientific_name": "Lepus oiostolus",
@@ -288,6 +332,10 @@
   {
     "scientific_name": "Lepus nigricollis",
     "common_names": [
+      {
+        "lang": "el",
+        "name": "Ινδικό Κουνέλι"
+      },
       {
         "lang": "en",
         "name": "Indian Hare"
@@ -306,6 +354,10 @@
     "scientific_name": "Lepus microtis",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Αφρικανικό Κουνέλι Σαβάννας"
+      },
+      {
         "lang": "en",
         "name": "African Savanna Hare"
       }
@@ -314,6 +366,10 @@
   {
     "scientific_name": "Lepus mandshuricus",
     "common_names": [
+      {
+        "lang": "el",
+        "name": "Μαντσουριανό Κουνέλι"
+      },
       {
         "lang": "en",
         "name": "Manchurian Hare"
@@ -327,6 +383,10 @@
   {
     "scientific_name": "Lepus insularis",
     "common_names": [
+      {
+        "lang": "el",
+        "name": "Μαύρος Λαγός"
+      },
       {
         "lang": "en",
         "name": "Black Jackrabbit"
@@ -385,6 +445,10 @@
     "scientific_name": "Lepus hainanus",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Κουνέλι Χαϊνάν"
+      },
+      {
         "lang": "en",
         "name": "Hainan Hare"
       }
@@ -406,6 +470,10 @@
   {
     "scientific_name": "Lepus granatensis",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Liebre matacán"
+      },
       {
         "lang": "es",
         "name": "Liebre ibérica"
@@ -433,6 +501,10 @@
     "scientific_name": "Lepus fagani",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Αιθιοπικό Κουνέλι"
+      },
+      {
         "lang": "en",
         "name": "Ethiopian Hare"
       }
@@ -444,6 +516,10 @@
       {
         "lang": "als",
         "name": "Feldhase"
+      },
+      {
+        "lang": "an",
+        "name": "Liebre europea u comuna"
       },
       {
         "lang": "ar",
@@ -574,6 +650,10 @@
         "name": "Գորշ նապաստակ"
       },
       {
+        "lang": "id",
+        "name": "Terwelu eropa"
+      },
+      {
         "lang": "is",
         "name": "Gráhéri"
       },
@@ -627,7 +707,7 @@
       },
       {
         "lang": "nl",
-        "name": "Europese Haas"
+        "name": "Europese haas"
       },
       {
         "lang": "nn",
@@ -748,6 +828,10 @@
     "scientific_name": "Lepus coreanus",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Κορεάτικο Κουνέλι"
+      },
+      {
         "lang": "en",
         "name": "Korean Hare"
       },
@@ -761,6 +845,10 @@
     "scientific_name": "Lepus comus",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Κοινό Κουνέλι"
+      },
+      {
         "lang": "en",
         "name": "Yunnan Hare"
       }
@@ -769,6 +857,18 @@
   {
     "scientific_name": "Lepus castroviejoi",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Liebre cantabrica"
+      },
+      {
+        "lang": "de",
+        "name": "Lepus castroviejoi"
+      },
+      {
+        "lang": "el",
+        "name": "Κουνέλι Καστροβιέχο"
+      },
       {
         "lang": "en",
         "name": "Broom Hare"
@@ -789,6 +889,10 @@
       {
         "lang": "af",
         "name": "Vlakhaas"
+      },
+      {
+        "lang": "an",
+        "name": "Llebre africana"
       },
       {
         "lang": "br",
@@ -910,8 +1014,24 @@
     "scientific_name": "Lepus brachyurus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Japan-Hase"
+      },
+      {
+        "lang": "en",
+        "name": "Japnese Hare"
+      },
+      {
+        "lang": "es",
+        "name": "Liebre de Japón"
+      },
+      {
+        "lang": "fr",
+        "name": "Lièvre du Japon"
+      },
+      {
         "lang": "ja",
-        "name": "ノウサギ"
+        "name": "ニホンノウサギ"
       },
       {
         "lang": "ru",
@@ -922,6 +1042,10 @@
   {
     "scientific_name": "Lepus arcticus",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Llebre arctica"
+      },
       {
         "lang": "ca",
         "name": "Llebre polar"
@@ -986,11 +1110,36 @@
   },
   {
     "scientific_name": "Lepus americanus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "el",
+        "name": "Χιονιοπαπουτσοτός Λαγός"
+      },
+      {
+        "lang": "en",
+        "name": "Snowshoe Hare"
+      },
+      {
+        "lang": "fr",
+        "name": "Lièvre d'Amérique"
+      },
+      {
+        "lang": "pl",
+        "name": "Zając amerykański"
+      },
+      {
+        "lang": "ik",
+        "name": "Ukalliq; Ukalliatchiaq; Ukałłiatchiaq"
+      }
+    ]
   },
   {
     "scientific_name": "Lepus alleni",
     "common_names": [
+      {
+        "lang": "el",
+        "name": "Λαγός Αντιλόπη"
+      },
       {
         "lang": "en",
         "name": "Antelope Jackrabbit"

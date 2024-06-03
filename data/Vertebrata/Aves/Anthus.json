@@ -558,6 +558,10 @@
     "scientific_name": "Anthus rufulus",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "ধানি তুলিকা"
+      },
+      {
         "lang": "fi",
         "name": "Riisikirvinen"
       },
@@ -916,6 +920,10 @@
     "scientific_name": "Anthus pratensis",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Cistrilla gran"
+      },
+      {
         "lang": "ar",
         "name": "أبو تمرة الحقول"
       },
@@ -1085,6 +1093,10 @@
     "scientific_name": "Anthus petrosus",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Cistrilla marina"
+      },
+      {
         "lang": "bg",
         "name": "Скална бъбрица"
       },
@@ -1244,7 +1256,7 @@
       },
       {
         "lang": "es",
-        "name": "Cachirla dorada; bisbita ocre"
+        "name": "Bisbita ocre"
       }
     ]
   },
@@ -1287,8 +1299,20 @@
     "scientific_name": "Anthus leucophrys",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Plain-backed Pipit"
+      },
+      {
         "lang": "fi",
         "name": "Sänkikirvinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit à dos uni"
+      },
+      {
+        "lang": "pt",
+        "name": "petinha-de-dorso-lisoaf"
       }
     ]
   },
@@ -1440,7 +1464,20 @@
   },
   {
     "scientific_name": "Anthus hellmayri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hellmayr's Pipit"
+      },
+      {
+        "lang": "es",
+        "name": "Bisbita pálido"
+      },
+      {
+        "lang": "pt-br",
+        "name": "caminheiro-de-barriga-acanelada"
+      }
+    ]
   },
   {
     "scientific_name": "Anthus gutturalis",
@@ -1448,6 +1485,14 @@
       {
         "lang": "fi",
         "name": "Papuankirvinen"
+      },
+      {
+        "lang": "en",
+        "name": "Alpine Pipit"
+      },
+      {
+        "lang": "es",
+        "name": "Bisbita papú"
       }
     ]
   },
@@ -1559,6 +1604,10 @@
       {
         "lang": "fi",
         "name": "Keltakirvinen"
+      },
+      {
+        "lang": "fr",
+        "name": "Pipit à gorge jaune"
       }
     ]
   },
@@ -1585,6 +1634,14 @@
       {
         "lang": "fi",
         "name": "Chaconkirvinen"
+      },
+      {
+        "lang": "en",
+        "name": "Pampas Pipit"
+      },
+      {
+        "lang": "es",
+        "name": "Bisbita chaqueño"
       }
     ]
   },
@@ -1963,7 +2020,16 @@
   },
   {
     "scientific_name": "Anthus bogotensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Paramo Pipit"
+      },
+      {
+        "lang": "es",
+        "name": "Bisbita andino"
+      }
+    ]
   },
   {
     "scientific_name": "Anthus berthelotii",

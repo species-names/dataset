@@ -1,7 +1,24 @@
 [
   {
     "scientific_name": "Micropsitta pusio",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-faced pygmy parrot"
+      },
+      {
+        "lang": "fr",
+        "name": "Micropsitte à tête fauve"
+      },
+      {
+        "lang": "it",
+        "name": "Pappagallo pigmeo facciacamoscio"
+      },
+      {
+        "lang": "pl",
+        "name": "Karłówka płowolica"
+      }
+    ]
   },
   {
     "scientific_name": "Micropsitta meeki",
@@ -13,6 +30,10 @@
       {
         "lang": "en",
         "name": "Yellow-capped Pygmy-parrot"
+      },
+      {
+        "lang": "es",
+        "name": "Microloro de las Kai"
       }
     ]
   },

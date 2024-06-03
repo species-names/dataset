@@ -16,6 +16,10 @@
     "scientific_name": "Aethopyga temminckii",
     "common_names": [
       {
+        "lang": "cs",
+        "name": "Strdimil vousatý"
+      },
+      {
         "lang": "en",
         "name": "Temminck's Sunbird"
       }
@@ -102,6 +106,10 @@
     "scientific_name": "Aethopyga nipalensis",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "সবুজলেজা মৌটুসি"
+      },
+      {
         "lang": "en",
         "name": "Green-tailed Sunbird"
       },
@@ -137,8 +145,20 @@
     "scientific_name": "Aethopyga ignicauda",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Feuerschwanz-Nektarvogel"
+      },
+      {
         "lang": "en",
         "name": "Fire-tailed Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga Colafuego"
+      },
+      {
+        "lang": "fr",
+        "name": "Souimanga queue-de-feu"
       },
       {
         "lang": "th",
@@ -150,12 +170,20 @@
     "scientific_name": "Aethopyga gouldiae",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "সিঁদুরে হলুদ মৌটুসি"
+      },
+      {
         "lang": "en",
         "name": "Gould's Sunbird"
       },
       {
         "lang": "fr",
         "name": "Souimanga de Gould"
+      },
+      {
+        "lang": "ne ",
+        "name": "कान्ति बुङ्गेचरा"
       }
     ]
   },

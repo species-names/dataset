@@ -161,6 +161,10 @@
     "scientific_name": "Puffinus puffinus",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Gaviota fina chicota"
+      },
+      {
         "lang": "bg",
         "name": "Обикновен буревестник"
       },
@@ -312,6 +316,15 @@
       {
         "lang": "sv",
         "name": "arablira"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Puffinus pacificoides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "St. Helena Shearwater"
       }
     ]
   },

@@ -1,5 +1,17 @@
 [
   {
+    "scientific_name": "Erinaceus mongolicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Erinaceus lechei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Erinaceus samsonowiczi",
+    "common_names": []
+  },
+  {
     "scientific_name": "Erinaceus roumanicus",
     "common_names": [
       {
@@ -23,6 +35,10 @@
         "name": "Jeż wschodni"
       }
     ]
+  },
+  {
+    "scientific_name": "Erinaceus praeglacialis",
+    "common_names": []
   },
   {
     "scientific_name": "Erinaceus europaeus",
@@ -69,7 +85,7 @@
       },
       {
         "lang": "da",
-        "name": "(Europæisk) pindsvin"
+        "name": "Europæisk Pindsvin"
       },
       {
         "lang": "de",
@@ -77,14 +93,11 @@
       },
       {
         "lang": "en",
-        "name": "West European Hedgehog",
-        "synonyms": [
-          "Western hedgehog"
-        ]
+        "name": "Western European Hedgehog"
       },
       {
         "lang": "et",
-        "name": "Siil"
+        "name": "Harilik siil"
       },
       {
         "lang": "eml",
@@ -108,7 +121,7 @@
       },
       {
         "lang": "fr",
-        "name": "Hérisson"
+        "name": "Hérisson commun"
       },
       {
         "lang": "fy",
@@ -120,10 +133,7 @@
       },
       {
         "lang": "it",
-        "name": "Riccio",
-        "synonyms": [
-          "Porcospino"
-        ]
+        "name": "Riccio comune"
       },
       {
         "lang": "ltg",
@@ -163,10 +173,7 @@
       },
       {
         "lang": "nn",
-        "name": "Piggsvin",
-        "synonyms": [
-          "West-Europese Egel"
-        ]
+        "name": "Piggsvin"
       },
       {
         "lang": "pcd",
@@ -174,18 +181,15 @@
       },
       {
         "lang": "pl",
-        "name": "Jeż europejski",
-        "synonyms": [
-          "jeż zachodni"
-        ]
+        "name": "Jeż europejski"
       },
       {
         "lang": "pt",
-        "name": "Porco-espinho",
-        "synonyms": [
-          "Ouriço-cacheiro",
-          "Ouriço-terrestre"
-        ]
+        "name": "Porco-espinho"
+      },
+      {
+        "lang": "ro",
+        "name": "Ariciul comun"
       },
       {
         "lang": "ru",
@@ -201,7 +205,7 @@
       },
       {
         "lang": "fi",
-        "name": "Siili"
+        "name": "Eurooppalainen siili"
       },
       {
         "lang": "sv",

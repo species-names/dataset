@@ -24,6 +24,10 @@
     "scientific_name": "Tetrastes bonasia",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Gallineta montesina"
+      },
+      {
         "lang": "ar",
         "name": "طيهوج"
       },
@@ -101,7 +105,7 @@
       },
       {
         "lang": "fi",
-        "name": "pyy"
+        "name": "Pyy"
       },
       {
         "lang": "fr",
@@ -213,10 +217,7 @@
       },
       {
         "lang": "ru",
-        "name": "Рябчик",
-        "synonyms": [
-          "Обыкновенный рябчик"
-        ]
+        "name": "Обыкновенный рябчик"
       },
       {
         "lang": "sah",
@@ -240,10 +241,7 @@
       },
       {
         "lang": "sr",
-        "name": "Lještarka",
-        "synonyms": [
-          "Лештарка"
-        ]
+        "name": "Лештарка"
       },
       {
         "lang": "sv",

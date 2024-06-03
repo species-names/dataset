@@ -128,6 +128,10 @@
       {
         "lang": "en",
         "name": "Yungas Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita de Yungas"
       }
     ]
   },
@@ -150,7 +154,16 @@
   },
   {
     "scientific_name": "Basileuterus melanogenys",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-cheeked Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita carinegra"
+      }
+    ]
   },
   {
     "scientific_name": "Basileuterus luteoviridis",
@@ -179,7 +192,16 @@
   },
   {
     "scientific_name": "Basileuterus ignotus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pirre Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita del Pirre"
+      }
+    ]
   },
   {
     "scientific_name": "Basileuterus griseiceps",
@@ -199,6 +221,10 @@
       {
         "lang": "en",
         "name": "Chestnut-capped Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita coronicastaña"
       }
     ]
   },
@@ -308,7 +334,16 @@
   },
   {
     "scientific_name": "Basileuterus belli",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-browed Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita cejidorada"
+      }
+    ]
   },
   {
     "scientific_name": "Basileuterus basilicus",

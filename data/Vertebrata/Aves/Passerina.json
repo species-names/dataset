@@ -38,6 +38,10 @@
       {
         "lang": "en",
         "name": "Rose-bellied Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Azulillo ventrirrosado"
       }
     ]
   },
@@ -47,6 +51,10 @@
       {
         "lang": "en",
         "name": "Orange-breasted Bunting"
+      },
+      {
+        "lang": "es",
+        "name": "Azulillo pechinaranja"
       }
     ]
   },
@@ -75,7 +83,7 @@
       },
       {
         "lang": "es",
-        "name": "Azulillo Índigo"
+        "name": "Azulillo índigo"
       },
       {
         "lang": "fi",
@@ -231,12 +239,20 @@
     "scientific_name": "Passerina caerulea",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Син кардинал"
+      },
+      {
         "lang": "ca",
-        "name": "Durbec blau"
+        "name": "Cardenal indi becblanc"
       },
       {
         "lang": "cs",
-        "name": "dlaskovec modrý"
+        "name": "Dlaskovec modrý"
+      },
+      {
+        "lang": "cy",
+        "name": "Tewbig glas"
       },
       {
         "lang": "da",
@@ -244,7 +260,7 @@
       },
       {
         "lang": "de",
-        "name": "Azurbischof"
+        "name": "Azurfink"
       },
       {
         "lang": "en",
@@ -252,11 +268,15 @@
       },
       {
         "lang": "es",
-        "name": "Picogrueso azul"
+        "name": "Azulillo grande"
       },
       {
         "lang": "et",
         "name": "Suur-indigolind"
+      },
+      {
+        "lang": "fa",
+        "name": "نوک‌بزرگ آبی"
       },
       {
         "lang": "fi",
@@ -292,19 +312,27 @@
       },
       {
         "lang": "lt",
-        "name": "Mėlynasis kardinolas"
+        "name": "Guiraka"
+      },
+      {
+        "lang": "lv",
+        "name": "Zilais kardināls"
       },
       {
         "lang": "nl",
-        "name": "Blauwe bisschop"
+        "name": "Blauwe Bisschop"
       },
       {
         "lang": "no",
         "name": "Blåtykknebb"
       },
       {
+        "lang": "nv",
+        "name": "Daatsohí dootłʼizhígíí"
+      },
+      {
         "lang": "pl",
-        "name": "łuszczyk błekitny"
+        "name": "Łuszczyk błekitny"
       },
       {
         "lang": "pt",
@@ -329,6 +357,10 @@
       {
         "lang": "tr",
         "name": "Mavi kocabaş"
+      },
+      {
+        "lang": "uk",
+        "name": "Скригнатка синя"
       },
       {
         "lang": "zh",

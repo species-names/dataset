@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Marmota kastschenkoi",
-    "common_names": []
-  },
-  {
     "scientific_name": "Marmota vancouverensis",
     "common_names": [
       {
@@ -179,12 +175,24 @@
     "scientific_name": "Marmota marmota",
     "common_names": [
       {
-        "lang": "frp",
+        "lang": "an",
         "name": "Marmota"
+      },
+      {
+        "lang": "ast",
+        "name": "Marmota alpina"
       },
       {
         "lang": "az",
         "name": "Alp marmotu"
+      },
+      {
+        "lang": "be",
+        "name": "Альпійскі сурок"
+      },
+      {
+        "lang": "bg",
+        "name": "Алпийски мармот"
       },
       {
         "lang": "br",
@@ -199,12 +207,24 @@
         "name": "Svišť horský"
       },
       {
+        "lang": "da",
+        "name": "Alpemurmeldyr"
+      },
+      {
         "lang": "de",
         "name": "Alpenmurmeltier"
       },
       {
+        "lang": "el",
+        "name": "Μαρμότα η μαρμότα"
+      },
+      {
         "lang": "en",
         "name": "Alpine Marmot"
+      },
+      {
+        "lang": "eo",
+        "name": "Alpa marmoto"
       },
       {
         "lang": "es",
@@ -215,6 +235,10 @@
         "name": "Marmota alpetar"
       },
       {
+        "lang": "fa",
+        "name": "مارموت آلپی"
+      },
+      {
         "lang": "fi",
         "name": "Alppimurmeli"
       },
@@ -223,8 +247,28 @@
         "name": "Marmotte des Alpes"
       },
       {
+        "lang": "frp",
+        "name": "Marmota des Arpes"
+      },
+      {
+        "lang": "fy",
+        "name": "Alpenmarmot"
+      },
+      {
+        "lang": "gl",
+        "name": "Marmota alpina"
+      },
+      {
+        "lang": "he",
+        "name": "מרמיטה אלפינית"
+      },
+      {
         "lang": "hu",
         "name": "Havasi mormota"
+      },
+      {
+        "lang": "id",
+        "name": "Marmot alpen"
       },
       {
         "lang": "it",
@@ -275,8 +319,25 @@
         "name": "Alpmurmeldjur"
       },
       {
+        "lang": "tr",
+        "name": "Alp marmotu"
+      },
+      {
         "lang": "uk",
         "name": "Бабак альпійський"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Marmota kastschenkoi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Waldsteppenmurmeltier"
+      },
+      {
+        "lang": "en",
+        "name": "Forest-Steppe Marmot"
       }
     ]
   },

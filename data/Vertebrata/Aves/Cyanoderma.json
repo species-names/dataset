@@ -1,30 +1,184 @@
 [
   {
-    "scientific_name": "Cyanoderma ambiguum",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Cyanoderma chrysaeum",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Cyanoderma pyrrhops",
-    "common_names": []
-  },
-  {
     "scientific_name": "Cyanoderma rufifrons",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Cyanoderma melanothorax",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Cyanoderma erythropterum",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-fronted babbler",
+        "synonyms": [
+          "Deignan's babbler"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Timalí frentirrufo"
+      },
+      {
+        "lang": "sv",
+        "name": "Rostpannad timalia"
+      },
+      {
+        "lang": "th",
+        "name": "นกกินแมลงเด็กแนน",
+        "synonyms": [
+          "นกกินแมลงหน้าผากน้ำตาล"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "红额穗鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Cyanoderma ruficeps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-capped babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí coronirrojo"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödhättad timalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Khướu bụi đầu đỏ"
+      },
+      {
+        "lang": "zh",
+        "name": "红头穗鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanoderma pyrrhops",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-chinned babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí barbinegro"
+      },
+      {
+        "lang": "ne",
+        "name": "कालोचिउँडे वनभ्याकुर"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthaketimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "红嘴穗鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanoderma melanothorax",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crescent-chested babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí perlado"
+      },
+      {
+        "lang": "id",
+        "name": "Tepus pipi-perak"
+      },
+      {
+        "lang": "sv",
+        "name": "Månbröstad timalia"
+      },
+      {
+        "lang": "zh",
+        "name": "珠颊穗鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanoderma erythropterum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-winged Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí alirrojo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanoderma chrysaeum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí dorado"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Kelicap Mas"
+      },
+      {
+        "lang": "ne",
+        "name": "निगाले वनभ्याकुर"
+      },
+      {
+        "lang": "sv",
+        "name": "Gyllentimalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Khướu bụi vàng"
+      },
+      {
+        "lang": "zh",
+        "name": "金头穗鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanoderma bicolor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-hooded Babbler"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cyanoderma ambiguum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buff-chested Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Timalí de Harington"
+      },
+      {
+        "lang": "sv",
+        "name": "Ockrabröstad timalia"
+      },
+      {
+        "lang": "zh",
+        "name": "黄喉穗鹛"
+      }
+    ]
   }
 ]

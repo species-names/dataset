@@ -44,6 +44,34 @@
     "scientific_name": "Lonchura striata",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "مونيا أبيض الردف"
+      },
+      {
+        "lang": "bh",
+        "name": "लौन्चुरा स्ट्रेटा"
+      },
+      {
+        "lang": "bn",
+        "name": "ধলাকোমর মুনিয়া"
+      },
+      {
+        "lang": "ca",
+        "name": "Maniquí de carpó blanc"
+      },
+      {
+        "lang": "cs",
+        "name": "Panenka bronzová"
+      },
+      {
+        "lang": "cy",
+        "name": "Manicin tinwyn"
+      },
+      {
+        "lang": "da",
+        "name": "Spidshalet Bronzefinke"
+      },
+      {
         "lang": "de",
         "name": "Spitzschwanz-Bronzemännchen"
       },
@@ -52,28 +80,124 @@
         "name": "White-rumped Munia"
       },
       {
+        "lang": "es",
+        "name": "Capuchino culiblanco"
+      },
+      {
+        "lang": "et",
+        "name": "Pugal-amadiin"
+      },
+      {
+        "lang": "fa",
+        "name": "سهره ریز دمگاه‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkoperämanikki"
+      },
+      {
+        "lang": "fr",
+        "name": "Capucin domino"
+      },
+      {
+        "lang": "hi",
+        "name": "सफेद पुट्ठे वाली मुनिया"
+      },
+      {
+        "lang": "hu",
+        "name": "Hegyesfarkú bronzpinty"
+      },
+      {
+        "lang": "id",
+        "name": "Bondol tunggir-putih"
+      },
+      {
+        "lang": "it",
+        "name": "Munia groppabianca"
+      },
+      {
+        "lang": "ja",
+        "name": "コシジロキンパラ"
+      },
+      {
+        "lang": "kn",
+        "name": "ಬಿಳಿಪೃಷ್ಠದ ರಾಟವಾಳ"
+      },
+      {
+        "lang": "lt",
+        "name": "Smailiauodegė munija"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltsprākles smailastīte"
+      },
+      {
+        "lang": "ml",
+        "name": "ആറ്റക്കറുപ്പൻ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Pipit Tuli"
+      },
+      {
+        "lang": "my",
+        "name": "သင်ပေါင်းစာ"
+      },
+      {
+        "lang": "ne",
+        "name": "सेतोढाडे मुनियाँ"
+      },
+      {
         "lang": "nl",
         "name": "Spitsstaartbronzemannetje"
       },
       {
+        "lang": "no",
+        "name": "Hvitgumpnonne"
+      },
+      {
+        "lang": "pl",
+        "name": "Mniszka białorzytna"
+      },
+      {
         "lang": "pt",
-        "name": "Manon-de-peito-branco"
+        "name": "Capuchinho-de-sobre-branco"
       },
       {
         "lang": "ru",
         "name": "Острохвостая бронзовая амадина"
       },
       {
+        "lang": "sk",
+        "name": "Mníška bronzová"
+      },
+      {
         "lang": "su",
         "name": "Piit"
       },
       {
-        "lang": "zh",
-        "name": "白腰文鳥"
+        "lang": "sv",
+        "name": "Vitgumpsmunia"
       },
       {
-        "lang": "ja",
-        "name": "コシジロキンパラ（腰白金腹）"
+        "lang": "ta",
+        "name": "வெண்முதுகுச் சில்லை"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระติ๊ดตะโพกขาว"
+      },
+      {
+        "lang": "uk",
+        "name": "Мунія гострохвоста"
+      },
+      {
+        "lang": "vi",
+        "name": "Di cam"
+      },
+      {
+        "lang": "zh",
+        "name": "白腰文鳥"
       }
     ]
   },
@@ -145,6 +269,10 @@
   {
     "scientific_name": "Lonchura punctulata",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "তিলা মুনিয়া"
+      },
       {
         "lang": "de",
         "name": "Muskatamadine"
@@ -342,12 +470,41 @@
     ]
   },
   {
-    "scientific_name": "Lonchura nigriceps",
-    "common_names": []
-  },
-  {
     "scientific_name": "Lonchura nigerrima",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "مونيا هانوفر الجديدة"
+      },
+      {
+        "lang": "arz",
+        "name": "مونيا هانوفر الجديده"
+      },
+      {
+        "lang": "de",
+        "name": "Mohrennonne"
+      },
+      {
+        "lang": "en",
+        "name": "New Hanover mannikin"
+      },
+      {
+        "lang": "nl",
+        "name": "Rouwnon"
+      },
+      {
+        "lang": "no",
+        "name": "Sotnonne"
+      },
+      {
+        "lang": "sv",
+        "name": "Lavongaimunia"
+      },
+      {
+        "lang": "zh",
+        "name": "新汉诺威文鸟"
+      }
+    ]
   },
   {
     "scientific_name": "Lonchura nevermanni",
@@ -438,11 +595,20 @@
   },
   {
     "scientific_name": "Lonchura malacca",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "তিনরঙা মুনিয়া"
+      }
+    ]
   },
   {
     "scientific_name": "Lonchura maja",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Capuchet de capeza clara"
+      },
       {
         "lang": "en",
         "name": "White-headed Munia"
@@ -625,10 +791,6 @@
     ]
   },
   {
-    "scientific_name": "Lonchura griseicapilla",
-    "common_names": []
-  },
-  {
     "scientific_name": "Lonchura grandis",
     "common_names": [
       {
@@ -796,27 +958,6 @@
     ]
   },
   {
-    "scientific_name": "Lonchura fringilloides",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Magpie Munia"
-      },
-      {
-        "lang": "hu",
-        "name": "Óriás szarkapinty"
-      },
-      {
-        "lang": "it",
-        "name": "Nonnetta maggiore"
-      },
-      {
-        "lang": "nl",
-        "name": "Reuzenekstertje"
-      }
-    ]
-  },
-  {
     "scientific_name": "Lonchura forbesi",
     "common_names": [
       {
@@ -847,35 +988,6 @@
       {
         "lang": "nl",
         "name": "Japanse meeuw"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Lonchura cucullata",
-    "common_names": [
-      {
-        "lang": "af",
-        "name": "Fret"
-      },
-      {
-        "lang": "ak",
-        "name": "Aturuhweɛ"
-      },
-      {
-        "lang": "en",
-        "name": "Bronze munia"
-      },
-      {
-        "lang": "es",
-        "name": "Capuchino bronceado"
-      },
-      {
-        "lang": "fr",
-        "name": "Capucin nonnette"
-      },
-      {
-        "lang": "it",
-        "name": "Nonnetta comune o rondinella del Senegal"
       }
     ]
   },
@@ -988,19 +1100,6 @@
       {
         "lang": "en",
         "name": "Grey-headed Munia"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Lonchura bicolor",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Black-and-white Munia"
-      },
-      {
-        "lang": "ru",
-        "name": "Чёрно-белая амадина"
       }
     ]
   },

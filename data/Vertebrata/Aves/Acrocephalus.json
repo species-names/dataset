@@ -586,12 +586,16 @@
     "scientific_name": "Acrocephalus rimitarae",
     "common_names": [
       {
-        "lang": "fr",
-        "name": "Rousserolle de Rimatara"
-      },
-      {
         "lang": "cy",
         "name": "Telor cyrs Rimitara"
+      },
+      {
+        "lang": "de",
+        "name": "Rimatararohrsänger"
+      },
+      {
+        "lang": "en",
+        "name": "Rimatara Reed Warbler"
       },
       {
         "lang": "eo",
@@ -600,6 +604,10 @@
       {
         "lang": "fi",
         "name": "Rimatarankerttunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Rousserolle de Rimatara"
       },
       {
         "lang": "hu",
@@ -626,8 +634,20 @@
     "scientific_name": "Acrocephalus rehsei",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Naururohrsänger"
+      },
+      {
+        "lang": "en",
+        "name": "Nauru reed-warbler"
+      },
+      {
         "lang": "es",
         "name": "Carricero de Nauru"
+      },
+      {
+        "lang": "na",
+        "name": "Itsirir"
       }
     ]
   },
@@ -666,6 +686,10 @@
       {
         "lang": "de",
         "name": "Sumpfrohrsänger"
+      },
+      {
+        "lang": "dk",
+        "name": "Kærsanger"
       },
       {
         "lang": "en",
@@ -735,6 +759,10 @@
       {
         "lang": "ab",
         "name": "Ачалыҟә"
+      },
+      {
+        "lang": "an",
+        "name": "Carrasclís celluto"
       },
       {
         "lang": "ar",
@@ -894,6 +922,10 @@
     "scientific_name": "Acrocephalus orinus",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "বড়ঠুঁটি নলফুটকি"
+      },
+      {
         "lang": "en",
         "name": "large-billed reed-warbler"
       },
@@ -972,6 +1004,10 @@
   {
     "scientific_name": "Acrocephalus melanopogon",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Carrasclís mostachudo"
+      },
       {
         "lang": "bg",
         "name": "Мустакато шаварче"
@@ -1498,12 +1534,104 @@
     "scientific_name": "Acrocephalus australis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Boscarla d'Austràlia"
+      },
+      {
+        "lang": "cs",
+        "name": "Rákosník australský"
+      },
+      {
+        "lang": "da",
+        "name": "Australsk Drosselrørsanger"
+      },
+      {
+        "lang": "de",
+        "name": "Australrohrsänger"
+      },
+      {
         "lang": "en",
-        "name": "Australian Reed-Warbler"
+        "name": "Australian Reed Warbler"
+      },
+      {
+        "lang": "eo",
+        "name": "Aŭstrala kanbirdo"
+      },
+      {
+        "lang": "es",
+        "name": "Carricero australiano"
+      },
+      {
+        "lang": "et",
+        "name": "Austraalia roolind"
+      },
+      {
+        "lang": "fa",
+        "name": "سسک نیزار استرالیایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Australianrastaskerttunen"
       },
       {
         "lang": "fr",
         "name": "Rousserolle d'Australie"
+      },
+      {
+        "lang": "hr",
+        "name": "Australski trstenjak"
+      },
+      {
+        "lang": "hu",
+        "name": "Ausztrál nádirigó"
+      },
+      {
+        "lang": "id",
+        "name": "Kerak-basi australia"
+      },
+      {
+        "lang": "it",
+        "name": "Cannareccione australiano"
+      },
+      {
+        "lang": "ja",
+        "name": "オーストラリアヨシキリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Australinė nendrinukė"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische Karekiet"
+      },
+      {
+        "lang": "no",
+        "name": "Australtrostesanger"
+      },
+      {
+        "lang": "pl",
+        "name": "Trzciniak australijski"
+      },
+      {
+        "lang": "ru",
+        "name": "Австралийская камышевка"
+      },
+      {
+        "lang": "sk",
+        "name": "Trsteniarik hnedokrídly"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk rörsångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Очеретянка австралійська"
+      },
+      {
+        "lang": "vi",
+        "name": "Chích sậy Australia"
       }
     ]
   },
@@ -1514,6 +1642,10 @@
   {
     "scientific_name": "Acrocephalus arundinaceus",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Carrasclís gran"
+      },
       {
         "lang": "ar",
         "name": "هازجة الغاب الكبيرة"

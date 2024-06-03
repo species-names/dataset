@@ -3,6 +3,13 @@
     "scientific_name": "Melanitta stejnegeri",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Kamtschatkasamtente",
+        "synonyms": [
+          "Asiatische Samtente"
+        ]
+      },
+      {
         "lang": "en",
         "name": "Stejneger's scoter"
       },
@@ -23,6 +30,10 @@
   {
     "scientific_name": "Melanitta perspicillata",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Aneda marina americana"
+      },
       {
         "lang": "bg",
         "name": "Черна американска потапница"
@@ -164,6 +175,10 @@
   {
     "scientific_name": "Melanitta nigra",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Aneda marina"
+      },
       {
         "lang": "ar",
         "name": "بط أسقطور"
@@ -393,6 +408,10 @@
     "scientific_name": "Melanitta fusca",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Aneda marina gran"
+      },
+      {
         "lang": "ar",
         "name": "بط أسقطور مخملي"
       },
@@ -513,6 +532,10 @@
         "name": "Uhla"
       },
       {
+        "lang": "pt",
+        "name": "Negrola-de-asa-branca-europeia"
+      },
+      {
         "lang": "rue",
         "name": "Нырка чорна"
       },
@@ -587,6 +610,10 @@
       {
         "lang": "et",
         "name": "Ameerika tõmmuvaeras"
+      },
+      {
+        "lang": "eu",
+        "name": "Melanitta deglandi"
       },
       {
         "lang": "fi",

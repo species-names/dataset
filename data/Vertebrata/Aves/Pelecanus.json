@@ -136,6 +136,10 @@
     "scientific_name": "Pelecanus rufescens",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Pelicano griso"
+      },
+      {
         "lang": "ar",
         "name": "بجع رمادي"
       },
@@ -233,6 +237,10 @@
         "name": "Burung Undan Paruh Titik"
       },
       {
+        "lang": "ne",
+        "name": "घाउँके हावासील"
+      },
+      {
         "lang": "nl",
         "name": "Grijze pelikaan"
       },
@@ -284,6 +292,10 @@
       {
         "lang": "af",
         "name": "Witpelikaan"
+      },
+      {
+        "lang": "an",
+        "name": "Pelicano"
       },
       {
         "lang": "ar",
@@ -806,6 +818,10 @@
     "scientific_name": "Pelecanus crispus",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Pelicano griego"
+      },
+      {
         "lang": "ca",
         "name": "Pelicà cresp"
       },
@@ -894,6 +910,18 @@
         "name": "Аўстралійскі пелікан"
       },
       {
+        "lang": "ca",
+        "name": "Pelicà australià"
+      },
+      {
+        "lang": "cs",
+        "name": "Pelikán australský"
+      },
+      {
+        "lang": "da",
+        "name": "Australsk Pelikan"
+      },
+      {
         "lang": "de",
         "name": "Brillenpelikan"
       },
@@ -903,26 +931,51 @@
       },
       {
         "lang": "eo",
-        "name": "Aŭstralia pelikano",
-        "synonyms": [
-          "Okulvitra pelikano"
-        ]
+        "name": "Aŭstralia pelikano"
       },
       {
         "lang": "es",
         "name": "Pelícano australiano"
       },
       {
+        "lang": "et",
+        "name": "Austraalia pelikan"
+      },
+      {
+        "lang": "fi",
+        "name": "Australianpelikaani"
+      },
+      {
         "lang": "fr",
         "name": "Pélican à lunettes"
+      },
+      {
+        "lang": "hu",
+        "name": "Ausztrál pelikán"
+      },
+      {
+        "lang": "id",
+        "name": "Undan kacamata"
       },
       {
         "lang": "it",
         "name": "Pellicano australiano"
       },
       {
+        "lang": "ja",
+        "name": "コシグロペリカン"
+      },
+      {
+        "lang": "lt",
+        "name": "Australinis pelikanas"
+      },
+      {
         "lang": "nl",
-        "name": "Australische pelikaan"
+        "name": "Australische Pelikaan"
+      },
+      {
+        "lang": "no",
+        "name": "Australpelikan"
       },
       {
         "lang": "pl",
@@ -930,14 +983,23 @@
       },
       {
         "lang": "pt",
-        "name": "Pelicano australiano"
+        "name": "Pelicano-de-óculos"
       },
       {
-        "lang": "sh",
-        "name": "Australski pelikan",
-        "synonyms": [
-          "Аустралски пеликан"
-        ]
+        "lang": "ru",
+        "name": "Австралийский пеликан"
+      },
+      {
+        "lang": "sk",
+        "name": "Pelikán okuliarnatý"
+      },
+      {
+        "lang": "sr",
+        "name": "Australski pelikan - Аустралски пеликан"
+      },
+      {
+        "lang": "sv",
+        "name": "Australisk pelikan"
       },
       {
         "lang": "tr",
@@ -945,7 +1007,15 @@
       },
       {
         "lang": "uk",
-        "name": "Австралійський пелікан"
+        "name": "Пелікан австралійський"
+      },
+      {
+        "lang": "vi",
+        "name": "Bồ nông Úc"
+      },
+      {
+        "lang": "zh",
+        "name": "澳洲鵜鶘"
       }
     ]
   }

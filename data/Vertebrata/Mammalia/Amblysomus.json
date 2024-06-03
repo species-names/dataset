@@ -3,6 +3,10 @@
     "scientific_name": "Amblysomus septentrionalis",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Χρυσός Τυφλοπόντικας Χάιβελντ"
+      },
+      {
         "lang": "en",
         "name": "Highveld Golden Mole"
       }
@@ -11,6 +15,10 @@
   {
     "scientific_name": "Amblysomus robustus",
     "common_names": [
+      {
+        "lang": "el",
+        "name": "Ευρωμοχρυσοτυφλοπόντικας"
+      },
       {
         "lang": "en",
         "name": "Robust golden mole"
@@ -21,6 +29,10 @@
     "scientific_name": "Amblysomus marleyi",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Χρυσός Τυφλοπόντικας του Μάρλεϊ"
+      },
+      {
         "lang": "en",
         "name": "Marley's Golden Mole"
       }
@@ -29,6 +41,10 @@
   {
     "scientific_name": "Amblysomus hottentotus",
     "common_names": [
+      {
+        "lang": "el",
+        "name": "Χρυσός Τυφλοπόντικας Χόττεντοτ"
+      },
       {
         "lang": "en",
         "name": "Hottentot Golden Mole",
@@ -49,6 +65,14 @@
   {
     "scientific_name": "Amblysomus corriae",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Fynbos-Goldmull"
+      },
+      {
+        "lang": "el",
+        "name": "Χρυσός Τυφλοπόντικας Φινμπός"
+      },
       {
         "lang": "en",
         "name": "Fynbos Golden Mole"

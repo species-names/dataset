@@ -11,12 +11,16 @@
         "name": "Faisà verd"
       },
       {
+        "lang": "cs",
+        "name": "Bažant zelený"
+      },
+      {
         "lang": "cy",
         "name": "Ffesant werdd"
       },
       {
         "lang": "da",
-        "name": "Grøn fasan"
+        "name": "Grøn Fasan"
       },
       {
         "lang": "de",
@@ -71,12 +75,24 @@
         "name": "일본꿩"
       },
       {
+        "lang": "lt",
+        "name": "Japoninis fazanas"
+      },
+      {
         "lang": "lv",
         "name": "Raibais fazāns"
       },
       {
         "lang": "nl",
-        "name": "Groene fazant"
+        "name": "Groene Fazant"
+      },
+      {
+        "lang": "nn",
+        "name": "Grønnfasan"
+      },
+      {
+        "lang": "no",
+        "name": "Grønnfasan"
       },
       {
         "lang": "pl",
@@ -103,6 +119,10 @@
         "name": "Японський фазан"
       },
       {
+        "lang": "vi",
+        "name": "Trĩ lục"
+      },
+      {
         "lang": "zh",
         "name": "綠雉"
       }
@@ -113,7 +133,11 @@
     "common_names": [
       {
         "lang": "ar",
-        "name": "طائر التدرج"
+        "name": "تدرج مألوف"
+      },
+      {
+        "lang": "arz",
+        "name": "تدرج مالوف"
       },
       {
         "lang": "ast",
@@ -121,7 +145,7 @@
       },
       {
         "lang": "az",
-        "name": "Qırqovul"
+        "name": "Adi qırqovul"
       },
       {
         "lang": "be",
@@ -133,11 +157,15 @@
       },
       {
         "lang": "br",
-        "name": "Ar fazan-kolc'his"
+        "name": "Fazan Kolc'his"
       },
       {
         "lang": "ca",
-        "name": "Faisà"
+        "name": "Faisà comú"
+      },
+      {
+        "lang": "co",
+        "name": "Fasgianu cumunu"
       },
       {
         "lang": "cs",
@@ -153,15 +181,15 @@
       },
       {
         "lang": "da",
-        "name": "Fasan"
+        "name": "Almindelig Fasan"
       },
       {
         "lang": "de",
-        "name": "Fasan"
+        "name": "Jagdfasan"
       },
       {
         "lang": "el",
-        "name": "Κοινός Φασιανός"
+        "name": "Κοινός φασιανός"
       },
       {
         "lang": "en",
@@ -177,19 +205,19 @@
       },
       {
         "lang": "et",
-        "name": "Faasan"
+        "name": "Jahifaasan"
       },
       {
         "lang": "eu",
-        "name": "Faisà"
+        "name": "Faisai arrunta"
       },
       {
         "lang": "fa",
-        "name": "قرقاول"
+        "name": "قرقاول معمولی"
       },
       {
         "lang": "fi",
-        "name": "Fasaani"
+        "name": "Tavallinen fasaani"
       },
       {
         "lang": "fo",
@@ -233,7 +261,7 @@
       },
       {
         "lang": "hr",
-        "name": "Fazan"
+        "name": "Obični fazan"
       },
       {
         "lang": "ht",
@@ -241,7 +269,7 @@
       },
       {
         "lang": "hu",
-        "name": "Fácán"
+        "name": "Közönséges fácán"
       },
       {
         "lang": "hy",
@@ -276,16 +304,16 @@
         "name": "Fasan"
       },
       {
-        "lang": "lt",
-        "name": "Fazanas"
-      },
-      {
         "lang": "lb",
         "name": "Fasan"
       },
       {
+        "lang": "lt",
+        "name": "Medžiojamasis fazanas"
+      },
+      {
         "lang": "lv",
-        "name": "Fazāns"
+        "name": "Parastais fazāns"
       },
       {
         "lang": "mk",
@@ -297,11 +325,11 @@
       },
       {
         "lang": "nl",
-        "name": "Gewone fazant"
+        "name": "Gewone Fazant"
       },
       {
         "lang": "no",
-        "name": "Fasan"
+        "name": "Vanlig fasan"
       },
       {
         "lang": "oc",
@@ -309,11 +337,11 @@
       },
       {
         "lang": "pl",
-        "name": "Bażant"
+        "name": "Bażant zwyczajny"
       },
       {
         "lang": "pt",
-        "name": "Faisão"
+        "name": "Faisão-coleira"
       },
       {
         "lang": "rm",
@@ -321,7 +349,7 @@
       },
       {
         "lang": "ro",
-        "name": "Dropya"
+        "name": "Fazan comun"
       },
       {
         "lang": "ru",
@@ -334,6 +362,10 @@
       {
         "lang": "se",
         "name": "Fasána"
+      },
+      {
+        "lang": "sh",
+        "name": "Obični fazan"
       },
       {
         "lang": "sk",
@@ -364,7 +396,7 @@
       },
       {
         "lang": "sv",
-        "name": "Fasan"
+        "name": "Vanlig fasan"
       },
       {
         "lang": "tr",
@@ -372,7 +404,7 @@
       },
       {
         "lang": "uk",
-        "name": "фазан"
+        "name": "Фазан звичайний"
       },
       {
         "lang": "vi",

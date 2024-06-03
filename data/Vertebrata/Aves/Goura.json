@@ -7,6 +7,10 @@
         "name": "Korunáč vějířový"
       },
       {
+        "lang": "de",
+        "name": "Fächertaube"
+      },
+      {
         "lang": "en",
         "name": "Victoria Crowned Pigeon"
       },
@@ -45,8 +49,16 @@
       {
         "lang": "pl",
         "name": "Koroniec plamoczuby"
+      },
+      {
+        "lang": "sk",
+        "name": "Korunáč vejárový"
       }
     ]
+  },
+  {
+    "scientific_name": "Goura sclaterii",
+    "common_names": []
   },
   {
     "scientific_name": "Goura scheepmakeri",

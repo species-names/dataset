@@ -3,8 +3,20 @@
     "scientific_name": "Mniotilta varia",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "الدخله بالابيض والاسود"
+      },
+      {
+        "lang": "bg",
+        "name": "Пъстра дървесница"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola zebrada"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček černobílý"
+        "name": "Lesňáček černobílý"
       },
       {
         "lang": "cy",
@@ -16,10 +28,7 @@
       },
       {
         "lang": "de",
-        "name": "Baumläuferwaldsänger",
-        "synonyms": [
-          "Kletterwaldsänger"
-        ]
+        "name": "Kletterwaldsänger"
       },
       {
         "lang": "en",
@@ -35,11 +44,11 @@
       },
       {
         "lang": "et",
-        "name": "tüvesäälik"
+        "name": "Tüvesäälik"
       },
       {
         "lang": "fi",
-        "name": "kiipijäkerttuli"
+        "name": "Kiipijäkerttuli"
       },
       {
         "lang": "fo",
@@ -55,10 +64,7 @@
       },
       {
         "lang": "gcf",
-        "name": "Madras",
-        "synonyms": [
-          "Mi-deuil"
-        ]
+        "name": "Madras"
       },
       {
         "lang": "he",
@@ -70,7 +76,7 @@
       },
       {
         "lang": "hu",
-        "name": "csíkos kéregjáró"
+        "name": "Csíkos kéregjáró"
       },
       {
         "lang": "is",
@@ -82,10 +88,7 @@
       },
       {
         "lang": "ja",
-        "name": "シロクロアメリカムシクイ",
-        "synonyms": [
-          "shirokuroamerikamushikui"
-        ]
+        "name": "シロクロアメリカムシクイ"
       },
       {
         "lang": "lt",
@@ -93,7 +96,7 @@
       },
       {
         "lang": "myn",
-        "name": "sac tetel box"
+        "name": "Sac tetel box"
       },
       {
         "lang": "nl",
@@ -104,8 +107,12 @@
         "name": "Klatreparula"
       },
       {
+        "lang": "nv",
+        "name": "Tsinlátah yádíłtihii łizhin dóó łigaaígíí"
+      },
+      {
         "lang": "pl",
-        "name": "pstroszka"
+        "name": "Pstroszka"
       },
       {
         "lang": "pt",
@@ -113,15 +120,15 @@
       },
       {
         "lang": "ru",
-        "name": "Чёрно-белая древесница"
+        "name": "Пегий певун"
       },
       {
         "lang": "sk",
-        "name": "horárik strakatý"
+        "name": "Horárik strakatý"
       },
       {
         "lang": "sl",
-        "name": "zebrasti peničar"
+        "name": "Zebrasti peničar"
       },
       {
         "lang": "sv",
@@ -129,10 +136,11 @@
       },
       {
         "lang": "tr",
-        "name": "Siyah ve beyaz ötleğen",
-        "synonyms": [
-          "Tırmaşık Ötleğeni"
-        ]
+        "name": "Siyah ve beyaz ötleğen"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр строкатий"
       },
       {
         "lang": "zh",

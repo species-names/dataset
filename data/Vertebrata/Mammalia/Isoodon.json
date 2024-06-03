@@ -3,6 +3,10 @@
     "scientific_name": "Isoodon obesulus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Kleiner Kurznasenbeutler"
+      },
+      {
         "lang": "en",
         "name": "Southern Brown Bandicoot",
         "synonyms": [
@@ -11,21 +15,25 @@
         ]
       },
       {
+        "lang": "nl",
+        "name": "Gewone kortneusbuideldas"
+      },
+      {
         "lang": "pl",
         "name": "Krótkonos brązowy",
         "synonyms": [
           "jamraj brunatny"
         ]
-      },
-      {
-        "lang": "nl",
-        "name": "Gewone kortneusbuideldas"
       }
     ]
   },
   {
     "scientific_name": "Isoodon macrourus",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Großer Kurznasenbeutler"
+      },
       {
         "lang": "en",
         "name": "Northern Brown Bandicoot",
@@ -34,18 +42,34 @@
         ]
       },
       {
-        "lang": "nl",
-        "name": "Grote kortneusbuideldas"
+        "lang": "es",
+        "name": "Bandicut marrón septentrional"
       },
       {
         "lang": "fi",
         "name": "Täpläpussimäyrä"
+      },
+      {
+        "lang": "nl",
+        "name": "Grote kortneusbuideldas"
+      },
+      {
+        "lang": "pl",
+        "name": "Krótkonos wielkoogonowy"
       }
     ]
   },
   {
     "scientific_name": "Isoodon auratus",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Goldener Kurznasenbeutler"
+      },
+      {
+        "lang": "en",
+        "name": "Golden bandicoot"
+      },
       {
         "lang": "hu",
         "name": "Arany bandikut"

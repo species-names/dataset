@@ -1,11 +1,12 @@
 [
   {
     "scientific_name": "Trichoglossus weberi",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Trichoglossus capistratus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Leaf Lorikeet"
+      }
+    ]
   },
   {
     "scientific_name": "Trichoglossus rubritorquis",
@@ -56,6 +57,10 @@
     "scientific_name": "Trichoglossus rosenbergii",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Trichoglossus rosenbergii"
+      },
+      {
         "lang": "en",
         "name": "Biak Lorikeet"
       },
@@ -76,6 +81,10 @@
   {
     "scientific_name": "Trichoglossus ornatus",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Trichoglossus ornatus"
+      },
       {
         "lang": "de",
         "name": "Schmucklori"
@@ -102,6 +111,10 @@
       {
         "lang": "hu",
         "name": "Ékes lóri"
+      },
+      {
+        "lang": "pt",
+        "name": "Trichoglossus ornatus"
       },
       {
         "lang": "ru",
@@ -131,6 +144,15 @@
       {
         "lang": "en",
         "name": "Rainbow Lorikeet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trichoglossus meyeri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-Cheeked Lorikeet"
       }
     ]
   },
@@ -382,6 +404,15 @@
       {
         "lang": "tr",
         "name": "Pul göğüslü lori"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trichoglossus capistratus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Marigold Lorikeet"
       }
     ]
   }

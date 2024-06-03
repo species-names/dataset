@@ -3,16 +3,32 @@
     "scientific_name": "Oreopsar bolivianus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Federal de Bolívia"
+      },
+      {
         "lang": "cy",
         "name": "Tresglen Bolifia"
       },
       {
+        "lang": "da",
+        "name": "Boliviastærling"
+      },
+      {
+        "lang": "de",
+        "name": "Bolivienstärling"
+      },
+      {
         "lang": "en",
-        "name": "Bolivian blackbird"
+        "name": "Bolivian Blackbird"
       },
       {
         "lang": "eo",
         "name": "Oreopsaro"
+      },
+      {
+        "lang": "es",
+        "name": "Tordo boliviano"
       },
       {
         "lang": "fa",
@@ -23,6 +39,14 @@
         "name": "Carouge de Bolivie"
       },
       {
+        "lang": "it",
+        "name": "Ittero della Bolivia"
+      },
+      {
+        "lang": "ja",
+        "name": "ボリビアクロムクドリモドキ"
+      },
+      {
         "lang": "nl",
         "name": "Andestroepiaal"
       },
@@ -31,12 +55,16 @@
         "name": "Boliviatrupial"
       },
       {
-        "lang": "sv",
-        "name": "boliviatrupial"
+        "lang": "ru",
+        "name": "Боливийский кассик"
       },
       {
-        "lang": "es",
-        "name": "Tordo boliviano"
+        "lang": "sv",
+        "name": "Boliviatrupial"
+      },
+      {
+        "lang": "uk",
+        "name": "Трупіал болівійський"
       }
     ]
   }

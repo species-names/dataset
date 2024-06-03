@@ -3,6 +3,14 @@
     "scientific_name": "Trichechus senegalensis",
     "common_names": [
       {
+        "lang": "el",
+        "name": "Αφρικανικό Μανάτι"
+      },
+      {
+        "lang": "en",
+        "name": "African manatee"
+      },
+      {
         "lang": "fi",
         "name": "Afrikanmanaatti"
       },
@@ -51,8 +59,20 @@
         "name": "Karibik-Manati"
       },
       {
+        "lang": "el",
+        "name": "Δυτικό Ινδικό Μανάτι"
+      },
+      {
         "lang": "en",
         "name": "West Indian Manatee"
+      },
+      {
+        "lang": "es",
+        "name": "Trichechus manatus"
+      },
+      {
+        "lang": "eu",
+        "name": "Trichechus manatus"
       },
       {
         "lang": "fi",
@@ -61,6 +81,10 @@
           "kynsimanaatti",
           "manaatti"
         ]
+      },
+      {
+        "lang": "fr",
+        "name": "Trichechus manatus"
       },
       {
         "lang": "fy",
@@ -77,6 +101,10 @@
           "karibi manáti",
           "lamantin"
         ]
+      },
+      {
+        "lang": "it",
+        "name": "Trichechus manatus"
       },
       {
         "lang": "ja",
@@ -157,6 +185,14 @@
   {
     "scientific_name": "Trichechus inunguis",
     "common_names": [
+      {
+        "lang": "el",
+        "name": "Αμαζόνιο Μανάτι"
+      },
+      {
+        "lang": "en",
+        "name": "Amazonian manatee"
+      },
       {
         "lang": "ja",
         "name": "アマゾンマナティー"

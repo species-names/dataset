@@ -1,7 +1,20 @@
 [
   {
     "scientific_name": "Euphonia xanthogaster",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-bellied Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia ventrinaranja"
+      },
+      {
+        "lang": "pt-br",
+        "name": "fim-fim-grande"
+      }
+    ]
   },
   {
     "scientific_name": "Euphonia violacea",
@@ -33,6 +46,10 @@
       {
         "lang": "sv",
         "name": "Guttaramaeufonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia violácea"
       }
     ]
   },
@@ -45,10 +62,7 @@
       },
       {
         "lang": "es",
-        "name": "Eufonia de Trinidad",
-        "synonyms": [
-          "curruñatá saucito"
-        ]
+        "name": "Eufonia de Trinidad"
       },
       {
         "lang": "fr",
@@ -62,7 +76,16 @@
   },
   {
     "scientific_name": "Euphonia saturata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-crowned Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia coroninaranja"
+      }
+    ]
   },
   {
     "scientific_name": "Euphonia rufiventris",
@@ -98,7 +121,7 @@
       },
       {
         "lang": "pt",
-        "name": "Gaturamo-anão"
+        "name": "Gaturamo-miúdo"
       }
     ]
   },
@@ -108,32 +131,39 @@
       {
         "lang": "pt",
         "name": "Gaturamo-serrador"
+      },
+      {
+        "lang": "pt-br",
+        "name": "ferro-velho"
+      },
+      {
+        "lang": "en",
+        "name": "Chestnut-bellied Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia ventricastaña"
       }
     ]
   },
   {
     "scientific_name": "Euphonia musica",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Antillean euphonia"
-      },
-      {
-        "lang": "es",
-        "name": "Eufonia antillana"
-      },
-      {
-        "lang": "sv",
-        "name": "Antillereufonia"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Euphonia minuta",
     "common_names": [
       {
         "lang": "es",
-        "name": "Fruterito menudito"
+        "name": "Eufonia culiblanca"
+      },
+      {
+        "lang": "en",
+        "name": "White-vented Euphonia"
+      },
+      {
+        "lang": "pt-br",
+        "name": "gaturamo-de-barriga-branca"
       }
     ]
   },
@@ -143,6 +173,10 @@
       {
         "lang": "es",
         "name": "Eufonia verdosa"
+      },
+      {
+        "lang": "en",
+        "name": "Bronze-green Euphonia"
       }
     ]
   },
@@ -241,7 +275,12 @@
   },
   {
     "scientific_name": "Euphonia jamaica",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Jamaican Euphonia"
+      }
+    ]
   },
   {
     "scientific_name": "Euphonia imitans",
@@ -342,6 +381,15 @@
     ]
   },
   {
+    "scientific_name": "Euphonia godmani",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "West Mexican Euphonia"
+      }
+    ]
+  },
+  {
     "scientific_name": "Euphonia fulvicrissa",
     "common_names": [
       {
@@ -356,41 +404,41 @@
   },
   {
     "scientific_name": "Euphonia finschi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Finsch's Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia de Finsch"
+      },
+      {
+        "lang": "pt-br",
+        "name": "gaturamo-capim"
+      }
+    ]
   },
   {
     "scientific_name": "Euphonia elegantissima",
-    "common_names": [
-      {
-        "lang": "es",
-        "name": "Fruterito elegante"
-      },
-      {
-        "lang": "en",
-        "name": "Elegant Euphonia"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Euphonia cyanocephala",
-    "common_names": [
-      {
-        "lang": "pt",
-        "name": "Gaturamo-rei"
-      },
-      {
-        "lang": "en",
-        "name": "Golden-rumped Euphonia"
-      },
-      {
-        "lang": "es",
-        "name": "Eufonia Culidorada"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Euphonia concinna",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Velvet-fronted Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia del Magdalena"
+      }
+    ]
   },
   {
     "scientific_name": "Euphonia chrysopasta",
@@ -423,6 +471,14 @@
       {
         "lang": "pt",
         "name": "Fim-fim"
+      },
+      {
+        "lang": "en",
+        "name": "Purple-throated Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia golipúrpura"
       }
     ]
   },
@@ -432,6 +488,14 @@
       {
         "lang": "pt",
         "name": "Cais-cais"
+      },
+      {
+        "lang": "en",
+        "name": "Green-chinned Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia bronceada"
       }
     ]
   },
@@ -440,20 +504,42 @@
     "common_names": [
       {
         "lang": "es",
-        "name": "Fruterito cayenero"
+        "name": "Eufonia negra"
       },
       {
         "lang": "pt",
-        "name": "Tem-tem-curicaca"
+        "name": "gaturamo-preto"
+      },
+      {
+        "lang": "en",
+        "name": "Golden-sided Euphonia"
       }
     ]
   },
   {
     "scientific_name": "Euphonia anneae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tawny-capped Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia coronirrufa"
+      }
+    ]
   },
   {
     "scientific_name": "Euphonia affinis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Scrub Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia Matorralera"
+      }
+    ]
   }
 ]

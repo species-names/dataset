@@ -473,7 +473,16 @@
   },
   {
     "scientific_name": "Turdoides earlei",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "দাগি ছাতারে"
+      },
+      {
+        "lang": "en",
+        "name": "Striated babbler"
+      }
+    ]
   },
   {
     "scientific_name": "Turdoides caudata",

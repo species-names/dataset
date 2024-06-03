@@ -1,11 +1,30 @@
 [
   {
     "scientific_name": "Mesechinus wangi",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": " en",
+        "name": "Gaoligong Forest Hedgehog"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mesechinus orientalis",
+    "common_names": [
+      {
+        "lang": " en",
+        "name": "Eastern Forest Hedgehog"
+      }
+    ]
   },
   {
     "scientific_name": "Mesechinus miodon",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": " en",
+        "name": "Small-toothed Forest Hedgehog"
+      }
+    ]
   },
   {
     "scientific_name": "Mesechinus hughi",

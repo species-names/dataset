@@ -81,6 +81,10 @@
         "name": "Waldohrüüle"
       },
       {
+        "lang": "an",
+        "name": "Crabero"
+      },
+      {
         "lang": "ar",
         "name": "بومة أذناء"
       },
@@ -1007,11 +1011,12 @@
         "name": "Kalous etiopský"
       },
       {
+        "lang": "de",
+        "name": "Afrika-Waldohreule"
+      },
+      {
         "lang": "en",
-        "name": "African Long-eared Owl",
-        "synonyms": [
-          "Abyssinian Owl"
-        ]
+        "name": "African Long-eared Owl"
       },
       {
         "lang": "eo",
@@ -1024,6 +1029,10 @@
       {
         "lang": "no",
         "name": "Fjellhornugle"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk hornuggla"
       }
     ]
   }

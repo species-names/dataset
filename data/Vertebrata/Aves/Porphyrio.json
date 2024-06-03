@@ -40,6 +40,10 @@
     "scientific_name": "Porphyrio porphyrio",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Vocha gran"
+      },
+      {
         "lang": "ar",
         "name": "دجاجة الماء ارجوانية"
       },
@@ -203,6 +207,14 @@
       {
         "lang": "en",
         "name": "Grey-headed Swamphen"
+      },
+      {
+        "lang": "pa",
+        "name": "ਨੀਲੀ ਜਲ ਕੁੱਕੜੀ"
+      },
+      {
+        "lang": "ta",
+        "name": "நீலத் தாழைக் கோழி"
       }
     ]
   },
@@ -327,6 +339,10 @@
       {
         "lang": "en",
         "name": "African Swamphen"
+      },
+      {
+        "lang": "fr",
+        "name": "Talève d'Afrique"
       }
     ]
   },

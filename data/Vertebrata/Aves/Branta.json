@@ -109,6 +109,10 @@
     "scientific_name": "Branta ruficollis",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Auqueta roya"
+      },
+      {
         "lang": "az",
         "name": "Qırmızıdöş qaz"
       },
@@ -258,7 +262,7 @@
       },
       {
         "lang": "pt",
-        "name": "Ganso-de-pescoço-ruivo"
+        "name": "Ganso-de-peito-ruivo"
       },
       {
         "lang": "rm",
@@ -316,6 +320,10 @@
       {
         "lang": "af",
         "name": "Witwanggans"
+      },
+      {
+        "lang": "an",
+        "name": "Auqueta cariblanca"
       },
       {
         "lang": "ast",
@@ -641,7 +649,7 @@
       },
       {
         "lang": "cs",
-        "name": "berneška velká"
+        "name": "Berneška velká"
       },
       {
         "lang": "cw",
@@ -681,7 +689,7 @@
       },
       {
         "lang": "fi",
-        "name": "kanadanhanhi"
+        "name": "Kanadanhanhi"
       },
       {
         "lang": "fo",
@@ -744,10 +752,7 @@
       },
       {
         "lang": "ja",
-        "name": "カナダガン",
-        "synonyms": [
-          "Shijuukara-gan"
-        ]
+        "name": "カナダガン"
       },
       {
         "lang": "ko",
@@ -775,7 +780,7 @@
       },
       {
         "lang": "nl",
-        "name": "Grote Canadese gans"
+        "name": "Grote Canadese Gans"
       },
       {
         "lang": "nn",
@@ -790,12 +795,8 @@
         "name": "Naalʼeełítsoh bitsiiʼ halzhinígíí"
       },
       {
-        "lang": "pdc",
-        "name": "Schneegans"
-      },
-      {
         "lang": "pl",
-        "name": "bernikla kanadyjska"
+        "name": "Bernikla kanadyjska"
       },
       {
         "lang": "pt",
@@ -819,7 +820,7 @@
       },
       {
         "lang": "sk",
-        "name": "bernikľa veľká"
+        "name": "Bernikľa veľká"
       },
       {
         "lang": "sl",
@@ -847,7 +848,7 @@
       },
       {
         "lang": "uk",
-        "name": "Канадська казарка"
+        "name": "Казарка канадська"
       },
       {
         "lang": "vi",
@@ -866,6 +867,10 @@
   {
     "scientific_name": "Branta bernicla",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Auqueta carinegra"
+      },
       {
         "lang": "be",
         "name": "Казарка чорная"

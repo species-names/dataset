@@ -8,19 +8,27 @@
       },
       {
         "lang": "br",
-        "name": "Devedig-lann"
+        "name": "Devedig bruched ruz"
       },
       {
         "lang": "ca",
         "name": "Tallareta cuallarga"
       },
       {
+        "lang": "co",
+        "name": "Capinera curpettirossa"
+      },
+      {
         "lang": "cs",
-        "name": "pěnice kaštanová"
+        "name": "Pěnice kaštanová"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor Dartford"
       },
       {
         "lang": "da",
-        "name": "Provencesanger"
+        "name": "Provence-sanger"
       },
       {
         "lang": "de",
@@ -31,24 +39,44 @@
         "name": "Dartford Warbler"
       },
       {
+        "lang": "eo",
+        "name": "Purpura silvio"
+      },
+      {
         "lang": "es",
-        "name": "Curruca Rabilarga"
+        "name": "Curruca rabilarga"
       },
       {
         "lang": "et",
-        "name": "nõmme-põõsalind"
+        "name": "Nõmme-põõsalind"
+      },
+      {
+        "lang": "eu",
+        "name": "Ota-txinbo"
+      },
+      {
+        "lang": "fa",
+        "name": "سسک دارتفورد"
       },
       {
         "lang": "fi",
-        "name": "ruskokerttu"
+        "name": "Ruskokerttu"
       },
       {
         "lang": "fr",
         "name": "Fauvette pitchou"
       },
       {
+        "lang": "ga",
+        "name": "Ceolaire fraoigh"
+      },
+      {
+        "lang": "gl",
+        "name": "Papuxa do mato"
+      },
+      {
         "lang": "hu",
-        "name": "Bajszos poszáta"
+        "name": "Bujkáló poszáta"
       },
       {
         "lang": "is",
@@ -56,18 +84,23 @@
       },
       {
         "lang": "it",
-        "name": "Magnanina"
+        "name": "Magnanina comune"
       },
       {
         "lang": "ja",
-        "name": "オナガムシクイ",
-        "synonyms": [
-          "onagamushikui"
-        ]
+        "name": "オナガムシクイ"
+      },
+      {
+        "lang": "lt",
+        "name": "Rudakrūtė devynbalsė"
+      },
+      {
+        "lang": "lv",
+        "name": "Garastes ķauķis"
       },
       {
         "lang": "nl",
-        "name": "Provençaalse grasmus"
+        "name": "Provençaalse Grasmus"
       },
       {
         "lang": "no",
@@ -75,11 +108,11 @@
       },
       {
         "lang": "pl",
-        "name": "pokrzewka kasztanowata"
+        "name": "Pokrzewka kasztanowata"
       },
       {
         "lang": "pt",
-        "name": "Felosa-do-mato"
+        "name": "Toutinegra-do-mato"
       },
       {
         "lang": "ro",
@@ -91,7 +124,11 @@
       },
       {
         "lang": "sk",
-        "name": "penica hnedá"
+        "name": "Penica hnedá"
+      },
+      {
+        "lang": "sl",
+        "name": "Palčja penica"
       },
       {
         "lang": "sv",
@@ -102,23 +139,18 @@
         "name": "Funda ötleğeni"
       },
       {
+        "lang": "uk",
+        "name": "Кропив’янка прованська"
+      },
+      {
         "lang": "zh",
         "name": "波纹林莺"
       }
     ]
   },
   {
-    "scientific_name": "Sylvia subcaerulea",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Chestnut-vented Warbler"
-      },
-      {
-        "lang": "es",
-        "name": "Curruca sureña"
-      }
-    ]
+    "scientific_name": "Sylvia subcoerulea",
+    "common_names": []
   },
   {
     "scientific_name": "Sylvia subalpina",
@@ -132,6 +164,10 @@
   {
     "scientific_name": "Sylvia sarda",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Papafiga sarda"
+      },
       {
         "lang": "eo",
         "name": "Sarda silvio"
@@ -337,6 +373,15 @@
     ]
   },
   {
+    "scientific_name": "Sylvia nigricapilla",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bush Blackcap"
+      }
+    ]
+  },
+  {
     "scientific_name": "Sylvia nana",
     "common_names": [
       {
@@ -350,16 +395,7 @@
   },
   {
     "scientific_name": "Sylvia mystacea",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Menetries's Warbler"
-      },
-      {
-        "lang": "hy",
-        "name": "Շահրիկ սպիտակաբեղ"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Sylvia minula",
@@ -456,38 +492,27 @@
   },
   {
     "scientific_name": "Sylvia hortensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Sylvia galinieri",
     "common_names": [
       {
-        "lang": "bg",
-        "name": "Орфеево коприварче"
-      },
-      {
-        "lang": "de",
-        "name": "Orpheusgrasmücke"
-      },
+        "lang": "en",
+        "name": "Abyssinian Catbird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Sylvia dohrni",
+    "common_names": [
       {
         "lang": "en",
-        "name": "Western Orphean Warbler"
+        "name": "Dohrn's Thrush-babbler"
       },
       {
-        "lang": "fi",
-        "name": "Lännenorfeuskerttu"
-      },
-      {
-        "lang": "hy",
-        "name": "Շահրիկ երգող"
-      },
-      {
-        "lang": "it",
-        "name": "Bigia grossa"
-      },
-      {
-        "lang": "nl",
-        "name": "Orpheusgrasmus"
-      },
-      {
-        "lang": "tr",
-        "name": "Ak gözlü ötleğen"
+        "lang": "fr",
+        "name": "Gobemouche de Dohrn"
       }
     ]
   },
@@ -518,188 +543,7 @@
   },
   {
     "scientific_name": "Sylvia curruca",
-    "common_names": [
-      {
-        "lang": "kbd",
-        "name": "Вэдбгъэгуху"
-      },
-      {
-        "lang": "ar",
-        "name": "دخلة بيضاء الحنجرة صغري"
-      },
-      {
-        "lang": "ba",
-        "name": "Килейек"
-      },
-      {
-        "lang": "bg",
-        "name": "Малко белогушо коприварче"
-      },
-      {
-        "lang": "br",
-        "name": "Devedig-drez"
-      },
-      {
-        "lang": "ca",
-        "name": "Tallarol xerraire"
-      },
-      {
-        "lang": "cs",
-        "name": "Pěnice pokřovní"
-      },
-      {
-        "lang": "cv",
-        "name": "Пĕчĕк чечен кайăк"
-      },
-      {
-        "lang": "cy",
-        "name": "Llwydfron Fach"
-      },
-      {
-        "lang": "da",
-        "name": "Gærdesanger"
-      },
-      {
-        "lang": "de",
-        "name": "Klappergrasmücke"
-      },
-      {
-        "lang": "en",
-        "name": "Lesser Whitethroat"
-      },
-      {
-        "lang": "eo",
-        "name": "Babilema silvio"
-      },
-      {
-        "lang": "es",
-        "name": "Curruca zarcerilla"
-      },
-      {
-        "lang": "et",
-        "name": "Väike-põõsalind"
-      },
-      {
-        "lang": "eu",
-        "name": "Sasi-txinbotxo"
-      },
-      {
-        "lang": "fa",
-        "name": "گلوسفید کهتر"
-      },
-      {
-        "lang": "fi",
-        "name": "Hernekerttu"
-      },
-      {
-        "lang": "fo",
-        "name": "Notuljómari"
-      },
-      {
-        "lang": "fr",
-        "name": "Fauvette babillarde"
-      },
-      {
-        "lang": "ga",
-        "name": "Gilphíb bheag"
-      },
-      {
-        "lang": "gl",
-        "name": "Papuxa cincenta"
-      },
-      {
-        "lang": "he",
-        "name": "סבכי טוחנים"
-      },
-      {
-        "lang": "hu",
-        "name": "Kis poszáta"
-      },
-      {
-        "lang": "hy",
-        "name": "Մորուշահրիկ"
-      },
-      {
-        "lang": "it",
-        "name": "Bigiarella"
-      },
-      {
-        "lang": "kk",
-        "name": "Боз сандуғаш"
-      },
-      {
-        "lang": "ku",
-        "name": "Çivîka şeytanok"
-      },
-      {
-        "lang": "lt",
-        "name": "Pilkoji devynbalsė"
-      },
-      {
-        "lang": "lv",
-        "name": "Gaišais ķauķis"
-      },
-      {
-        "lang": "mk",
-        "name": "Мало белогушесто грмушарче"
-      },
-      {
-        "lang": "ne",
-        "name": "श्वेतकण्ठ फिस्टो"
-      },
-      {
-        "lang": "nl",
-        "name": "Braamsluiper"
-      },
-      {
-        "lang": "nn",
-        "name": "Møllar"
-      },
-      {
-        "lang": "no",
-        "name": "Møller"
-      },
-      {
-        "lang": "pl",
-        "name": "Piegża zwyczajna"
-      },
-      {
-        "lang": "pt",
-        "name": "Papa-amoras-cinzento"
-      },
-      {
-        "lang": "ro",
-        "name": "Silvie mică"
-      },
-      {
-        "lang": "ru",
-        "name": "Славка-завирушка"
-      },
-      {
-        "lang": "rue",
-        "name": "Мелничок"
-      },
-      {
-        "lang": "sk",
-        "name": "Penica popolavá"
-      },
-      {
-        "lang": "sv",
-        "name": "Ärtsångare"
-      },
-      {
-        "lang": "tr",
-        "name": "Küçük akgerdan"
-      },
-      {
-        "lang": "uk",
-        "name": "Кропив'янка прудка"
-      },
-      {
-        "lang": "zh",
-        "name": "白喉林莺"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Sylvia crassirostris",
@@ -717,6 +561,10 @@
   {
     "scientific_name": "Sylvia conspicillata",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Papafiga tremoncillera"
+      },
       {
         "lang": "de",
         "name": "Brillengrasmücke"
@@ -971,59 +819,7 @@
   },
   {
     "scientific_name": "Sylvia buryi",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Yemen Warbler"
-      },
-      {
-        "lang": "es",
-        "name": "Curruca yemení"
-      },
-      {
-        "lang": "fr",
-        "name": "Fauvette du Yémen",
-        "synonyms": [
-          "Parisome du Yémen"
-        ]
-      },
-      {
-        "lang": "ru",
-        "name": "Йеменская синичья славка"
-      },
-      {
-        "lang": "ar",
-        "name": "هازجة اليمن"
-      },
-      {
-        "lang": "cy",
-        "name": "Titw-delor Yemen"
-      },
-      {
-        "lang": "eo",
-        "name": "Jemena silvio"
-      },
-      {
-        "lang": "fa",
-        "name": "سسک یمن"
-      },
-      {
-        "lang": "fi",
-        "name": "Jemenintiaiskerttu"
-      },
-      {
-        "lang": "hu",
-        "name": "Jemeni poszáta"
-      },
-      {
-        "lang": "nl",
-        "name": "Arabische meeszanger"
-      },
-      {
-        "lang": "sv",
-        "name": "jemensångare"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Sylvia borin",
@@ -1256,32 +1052,24 @@
   },
   {
     "scientific_name": "Sylvia balearica",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Sylvia atriceps",
     "common_names": [
       {
-        "lang": "ca",
-        "name": "Busqueret coallarga"
-      },
-      {
         "lang": "en",
-        "name": "Balearic Warbler"
-      },
-      {
-        "lang": "es",
-        "name": "Curruca balear"
-      },
-      {
-        "lang": "fi",
-        "name": "Baleaarienkerttu"
-      },
-      {
-        "lang": "ru",
-        "name": "Балеарская славка"
+        "name": "Ruwenzori Hill-Babbler"
       }
     ]
   },
   {
     "scientific_name": "Sylvia atricapilla",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Papafiga"
+      },
       {
         "lang": "ar",
         "name": "أبو قلنسوة"
@@ -1470,14 +1258,14 @@
   },
   {
     "scientific_name": "Sylvia althaea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Sylvia abyssinica",
     "common_names": [
       {
         "lang": "en",
-        "name": "Hume's Whitethroat"
-      },
-      {
-        "lang": "fi",
-        "name": "Himalajanhernekerttu"
+        "name": "Abyssinian Hill-Babbler"
       }
     ]
   }

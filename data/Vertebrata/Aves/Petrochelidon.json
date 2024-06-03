@@ -30,6 +30,10 @@
       {
         "lang": "fr",
         "name": "Hirondelle à gorge fauve"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică de stâncă cu gât roșu"
       }
     ]
   },
@@ -61,7 +65,7 @@
       },
       {
         "lang": "es",
-        "name": "Golondrina Risquera"
+        "name": "Golondrina risquera"
       },
       {
         "lang": "et",
@@ -131,6 +135,10 @@
         "name": "Andorinha-de-dorso-acanelado"
       },
       {
+        "lang": "ro",
+        "name": "Rândunică de stâncă"
+      },
+      {
         "lang": "ru",
         "name": "Белолобая горная ласточка"
       },
@@ -170,6 +178,10 @@
       {
         "lang": "fr",
         "name": "Hirondelle de Preuss"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunica lui Preuss"
       }
     ]
   },
@@ -204,6 +216,10 @@
       {
         "lang": "en",
         "name": "Tree Martin"
+      },
+      {
+        "lang": "ro",
+        "name": "Lăstun de copac"
       }
     ]
   },
@@ -213,21 +229,33 @@
       {
         "lang": "en",
         "name": "Cave Swallow"
+      },
+      {
+        "lang": "es",
+        "name": "Golondrina pueblera"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică de peșteră"
       }
     ]
   },
   {
     "scientific_name": "Petrochelidon fuliginosa",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Forest Swallow"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Petrochelidon fluvicola",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Streak-throated swallow"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică indiană"
+      }
+    ]
   },
   {
     "scientific_name": "Petrochelidon ariel",
@@ -251,6 +279,10 @@
       {
         "lang": "nl",
         "name": "Feezwaluw"
+      },
+      {
+        "lang": "ro",
+        "name": "Lăstun ariel"
       },
       {
         "lang": "sv",

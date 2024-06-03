@@ -17,7 +17,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Cinnamon-rumped seedeater"
+        "name": "Cinnamon-rumped Seedeater"
       },
       {
         "lang": "es",
@@ -265,32 +265,47 @@
     ]
   },
   {
-    "scientific_name": "Sporophila murallae",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Caqueta seedeater"
-      },
-      {
-        "lang": "es",
-        "name": "Espiguero de Caquetá"
-      },
-      {
-        "lang": "pt",
-        "name": "Papa-capim-de-caquetá"
-      }
-    ]
-  },
-  {
     "scientific_name": "Sporophila morelleti",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Schwarzbrustspelzer"
+      },
+      {
         "lang": "en",
-        "name": "White-collared Seedeater; Morelet's Seedeater"
+        "name": "Morelet's Seedeater"
       },
       {
         "lang": "es",
         "name": "Semillero cuelliblanco"
+      },
+      {
+        "lang": "fr",
+        "name": "Sporophile de Morelet"
+      },
+      {
+        "lang": "hr",
+        "name": "Ogrličasti sjemenar"
+      },
+      {
+        "lang": "nl",
+        "name": "Morelets Dikbekje"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitkragefrøeter"
+      },
+      {
+        "lang": "pl",
+        "name": "Ziarnojadek czarnowstęgi"
+      },
+      {
+        "lang": "sk",
+        "name": "Kňažík bledobruchý"
+      },
+      {
+        "lang": "sv",
+        "name": "Vithalsad fröfink"
       }
     ]
   },
@@ -421,6 +436,10 @@
       {
         "lang": "sv",
         "name": "maximilianfröfink"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero picón"
       }
     ]
   },
@@ -483,7 +502,7 @@
       },
       {
         "lang": "es",
-        "name": "Semillero ventriblanco; corbatita blanco; espiguero de vientre blanco"
+        "name": "Semillero ventriblanco"
       }
     ]
   },
@@ -507,6 +526,23 @@
   {
     "scientific_name": "Sporophila insulata",
     "common_names": []
+  },
+  {
+    "scientific_name": "Sporophila iberaensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ibera seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Capuchino Iberá"
+      },
+      {
+        "lang": "pt",
+        "name": "Caboclinho-do-pantanal"
+      }
+    ]
   },
   {
     "scientific_name": "Sporophila hypoxantha",
@@ -743,7 +779,7 @@
       },
       {
         "lang": "pt",
-        "name": "Bicudinho-belenzinho"
+        "name": "Bicudo-do-norte"
       },
       {
         "lang": "pt-br",
@@ -1040,6 +1076,10 @@
     "scientific_name": "Sporophila americana",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Wechselpfäffchen"
+      },
+      {
         "lang": "en",
         "name": "Wing-barred Seedeater"
       },
@@ -1054,6 +1094,14 @@
       {
         "lang": "fr",
         "name": "Sporophile à ailes blanches"
+      },
+      {
+        "lang": "nl",
+        "name": "Bont dikbekje"
+      },
+      {
+        "lang": "pl",
+        "name": "Ziarnojadek plamoskrzydły"
       },
       {
         "lang": "pt",

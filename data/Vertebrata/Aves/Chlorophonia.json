@@ -1,11 +1,59 @@
 [
   {
+    "scientific_name": "Chlorophonia sclateri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Puerto Rican Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia de Puerto Rico"
+      }
+    ]
+  },
+  {
     "scientific_name": "Chlorophonia pyrrhophrys",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Chestnut-breasted Chlorophonia"
+      },
+      {
+        "lang": "es",
+        "name": "Clorofonia pechicastaña"
+      }
+    ]
   },
   {
     "scientific_name": "Chlorophonia occipitalis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-crowned Chlorophonia"
+      },
+      {
+        "lang": "es",
+        "name": "Clorofonia coroniazul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorophonia musica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hispaniolan euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia de La Española"
+      },
+      {
+        "lang": "sv",
+        "name": "Antillereufonia"
+      }
+    ]
   },
   {
     "scientific_name": "Chlorophonia flavirostris",
@@ -21,11 +69,62 @@
     ]
   },
   {
-    "scientific_name": "Chlorophonia cyanea",
+    "scientific_name": "Chlorophonia flavifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lesser Antillean Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia de las Antillas Menores"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorophonia elegantissima",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Fruterito elegante"
+      },
+      {
+        "lang": "en",
+        "name": "Elegant Euphonia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorophonia cyanocephala",
     "common_names": [
       {
         "lang": "pt",
-        "name": "Bonito-do-campo"
+        "name": "Gaturamo-rei"
+      },
+      {
+        "lang": "en",
+        "name": "Golden-rumped Euphonia"
+      },
+      {
+        "lang": "es",
+        "name": "Eufonia Culidorada"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorophonia cyanea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-naped Chlorophonia"
+      },
+      {
+        "lang": "es",
+        "name": "Clorofonia nuquiazul"
+      },
+      {
+        "lang": "pt-br",
+        "name": "gaturamo-bandeira"
       }
     ]
   },

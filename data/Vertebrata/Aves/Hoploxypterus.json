@@ -3,8 +3,24 @@
     "scientific_name": "Hoploxypterus cayanus",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "الزقزاق بييد"
+      },
+      {
+        "lang": "ca",
+        "name": "Fredeluga petita"
+      },
+      {
         "lang": "cs",
         "name": "Čejka kulíkovitá"
+      },
+      {
+        "lang": "cy",
+        "name": "Cornchwiglen tywod"
+      },
+      {
+        "lang": "da",
+        "name": "Broget Brokfugl"
       },
       {
         "lang": "de",
@@ -19,6 +35,14 @@
         "name": "Avefría de Cayena"
       },
       {
+        "lang": "et",
+        "name": "Maskkiivitaja"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم ابلق"
+      },
+      {
         "lang": "fi",
         "name": "Tyllihyyppä"
       },
@@ -27,16 +51,56 @@
         "name": "Vanneau de Cayenne"
       },
       {
+        "lang": "hr",
+        "name": "Crnolici vivak"
+      },
+      {
+        "lang": "hu",
+        "name": "Tarka bíbic"
+      },
+      {
         "lang": "it",
-        "name": "Pavoncella della Cayenna"
+        "name": "Pavoncella bianconera"
+      },
+      {
+        "lang": "ja",
+        "name": "マダラゲリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Kajeninė pempė"
       },
       {
         "lang": "nl",
-        "name": "Cayenne-kievit"
+        "name": "Cayennekievit"
+      },
+      {
+        "lang": "no",
+        "name": "Lovipe"
+      },
+      {
+        "lang": "pl",
+        "name": "Czajka obrożna"
       },
       {
         "lang": "pt",
-        "name": "Batuíra-de-esporão"
+        "name": "Mexeriqueira"
+      },
+      {
+        "lang": "ru",
+        "name": "Кайеннская ржанка"
+      },
+      {
+        "lang": "sk",
+        "name": "Kulich diadémový"
+      },
+      {
+        "lang": "sv",
+        "name": "Brokvipa"
+      },
+      {
+        "lang": "uk",
+        "name": "Чайка каєнська"
       }
     ]
   }

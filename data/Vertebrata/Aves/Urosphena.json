@@ -58,8 +58,88 @@
     "scientific_name": "Urosphena pallidipes",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Rossinyol bord de potes clares"
+      },
+      {
+        "lang": "cs",
+        "name": "Cetie pruhohlavá"
+      },
+      {
+        "lang": "da",
+        "name": "Lysbenet Busksanger"
+      },
+      {
+        "lang": "de",
+        "name": "Weißbauch-Stutzschwanz"
+      },
+      {
         "lang": "en",
         "name": "Pale-footed Bush Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Tesia paticlara"
+      },
+      {
+        "lang": "fi",
+        "name": "Oliivisilkkikerttunen"
+      },
+      {
+        "lang": "fr",
+        "name": "Bouscarle à pattes claires"
+      },
+      {
+        "lang": "hr",
+        "name": "Svjetlonoga svilorepa"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérlábú berkiposzáta"
+      },
+      {
+        "lang": "it",
+        "name": "Cettia piedichiari"
+      },
+      {
+        "lang": "ja",
+        "name": "キアシヤブサメ"
+      },
+      {
+        "lang": "lt",
+        "name": "Blyškiakojė četija"
+      },
+      {
+        "lang": "nl",
+        "name": "Bleekpootstruikzanger"
+      },
+      {
+        "lang": "no",
+        "name": "Lysbeinsanger"
+      },
+      {
+        "lang": "pl",
+        "name": "Kusaczynka bladonoga"
+      },
+      {
+        "lang": "ru",
+        "name": "Бледноногая короткокрылая камышевка"
+      },
+      {
+        "lang": "sk",
+        "name": "Cetia bledonohá"
+      },
+      {
+        "lang": "sv",
+        "name": "Ljusbent stubbstjärt"
+      },
+      {
+        "lang": "th",
+        "name": "นกกระจ้อยสีไพล"
+      },
+      {
+        "lang": "uk",
+        "name": "Очеретянка світлонога"
       }
     ]
   },

@@ -7,12 +7,24 @@
     "scientific_name": "Castor fiber",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "قندس أوراسي"
+      },
+      {
         "lang": "av",
         "name": "Хундуз"
       },
       {
+        "lang": "azb",
+        "name": "قوندوز"
+      },
+      {
         "lang": "ba",
         "name": "Ҡондоҙ"
+      },
+      {
+        "lang": "bat-smg",
+        "name": "Dabros"
       },
       {
         "lang": "be",
@@ -43,8 +55,12 @@
         "name": "Bobr evropský"
       },
       {
+        "lang": "csb",
+        "name": "Eùropejsczi bòber"
+      },
+      {
         "lang": "da",
-        "name": "Europæisk bæver"
+        "name": "Europæisk Bæver"
       },
       {
         "lang": "de",
@@ -52,38 +68,67 @@
       },
       {
         "lang": "en",
-        "name": "Eurasian Beaver",
-        "synonyms": [
-          "European Beaver"
-        ]
-      },
-      {
-        "lang": "et",
-        "name": "Euroopa kobras"
-      },
-      {
-        "lang": "myv",
-        "name": "Мия"
+        "name": "Eurasian Beaver"
       },
       {
         "lang": "es",
         "name": "Castor europeo"
       },
       {
+        "lang": "et",
+        "name": "Euroopa kobras"
+      },
+      {
         "lang": "eu",
         "name": "Europar kastore"
       },
       {
-        "lang": "fr",
-        "name": "Castor Européen"
+        "lang": "fa",
+        "name": "سگ آبی اوراسیایی"
       },
       {
-        "lang": "ko",
-        "name": "유럽비버"
+        "lang": "fi",
+        "name": "Euroopanmajava"
+      },
+      {
+        "lang": "fiu-vro",
+        "name": "Majjai"
+      },
+      {
+        "lang": "fr",
+        "name": "Castor européen"
+      },
+      {
+        "lang": "fy",
+        "name": "Bever"
+      },
+      {
+        "lang": "he",
+        "name": "בונה אירופי"
+      },
+      {
+        "lang": "hr",
+        "name": "Europski dabar"
+      },
+      {
+        "lang": "hu",
+        "name": "Eurázsiai hód"
+      },
+      {
+        "lang": "hy",
+        "name": "Կուղբ"
+      },
+      {
+        "lang": "is",
+        "name": "Evrasískur bjór"
       },
       {
         "lang": "it",
         "name": "Castoro europeo"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパビーバー"
       },
       {
         "lang": "ka",
@@ -94,6 +139,14 @@
         "name": "Құндыз"
       },
       {
+        "lang": "ko",
+        "name": "유럽비버"
+      },
+      {
+        "lang": "koi",
+        "name": "Мой"
+      },
+      {
         "lang": "kv",
         "name": "Мой"
       },
@@ -102,16 +155,36 @@
         "name": "Ындыр"
       },
       {
+        "lang": "lb",
+        "name": "Europäesche Biber"
+      },
+      {
         "lang": "lbe",
         "name": "Къундуз"
+      },
+      {
+        "lang": "li",
+        "name": "Baever"
+      },
+      {
+        "lang": "ln",
+        "name": "Kastɔró ya Erópa"
       },
       {
         "lang": "lt",
         "name": "Upinis bebras"
       },
       {
-        "lang": "hu",
-        "name": "Eurázsiai hód"
+        "lang": "lv",
+        "name": "Eirāzijas bebrs"
+      },
+      {
+        "lang": "mhr",
+        "name": "Евразий умдыр"
+      },
+      {
+        "lang": "myv",
+        "name": "Мия"
       },
       {
         "lang": "nl",
@@ -122,12 +195,12 @@
         "name": "Eurasisk bever"
       },
       {
-        "lang": "mhr",
-        "name": "Евразий умдыр"
+        "lang": "olo",
+        "name": "Majai"
       },
       {
-        "lang": "koi",
-        "name": "Мой"
+        "lang": "os",
+        "name": "Бобыр"
       },
       {
         "lang": "pl",
@@ -138,15 +211,24 @@
         "name": "Castor-europeu"
       },
       {
+        "lang": "rm",
+        "name": "Castur"
+      },
+      {
+        "lang": "ro",
+        "name": "Breb"
+      },
+      {
         "lang": "ru",
-        "name": "Бобр речной",
-        "synonyms": [
-          "Бобр обыкновенный"
-        ]
+        "name": "Обыкновенный бобр"
+      },
+      {
+        "lang": "sh",
+        "name": "Europski dabar"
       },
       {
         "lang": "sk",
-        "name": "Bobor európsky"
+        "name": "Bobor vodný"
       },
       {
         "lang": "sl",
@@ -157,19 +239,16 @@
         "name": "Европски дабар"
       },
       {
-        "lang": "fi",
-        "name": "Euroopanmajava",
-        "synonyms": [
-          "majava"
-        ]
-      },
-      {
         "lang": "sv",
         "name": "Europeisk bäver"
       },
       {
         "lang": "tr",
         "name": "Eski Dünya kunduzu"
+      },
+      {
+        "lang": "tt",
+        "name": "Елга кондызы"
       },
       {
         "lang": "udm",
@@ -180,8 +259,16 @@
         "name": "Бобер європейський"
       },
       {
-        "lang": "bat-smg",
-        "name": "Bėbros"
+        "lang": "vi",
+        "name": "Hải ly châu Âu"
+      },
+      {
+        "lang": "wuu",
+        "name": "欧亚河狸"
+      },
+      {
+        "lang": "zh",
+        "name": "欧亚河狸"
       }
     ]
   },
@@ -189,12 +276,40 @@
     "scientific_name": "Castor canadensis",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "قندس أمريكي"
+      },
+      {
+        "lang": "atj",
+        "name": "Amiskw"
+      },
+      {
+        "lang": "av",
+        "name": "Канадаялъул хундуз"
+      },
+      {
+        "lang": "bg",
+        "name": "Американски бобър"
+      },
+      {
+        "lang": "br",
+        "name": "Avank Amerika"
+      },
+      {
+        "lang": "ca",
+        "name": "Castor americà"
+      },
+      {
         "lang": "chy",
         "name": "Hóma'e"
       },
       {
+        "lang": "cs",
+        "name": "Bobr kanadský"
+      },
+      {
         "lang": "da",
-        "name": "Amerikansk bæver"
+        "name": "Nordamerikansk Bæver"
       },
       {
         "lang": "de",
@@ -202,14 +317,27 @@
       },
       {
         "lang": "en",
-        "name": "American Beaver",
-        "synonyms": [
-          "Canadian beaver"
-        ]
+        "name": "North American Beaver"
+      },
+      {
+        "lang": "eo",
+        "name": "Kanada kastoro"
+      },
+      {
+        "lang": "es",
+        "name": "Castor americano"
       },
       {
         "lang": "et",
         "name": "Kanada kobras"
+      },
+      {
+        "lang": "eu",
+        "name": "Kanadar kastore"
+      },
+      {
+        "lang": "fa",
+        "name": "سگ آبی آمریکای شمالی"
       },
       {
         "lang": "fi",
@@ -220,35 +348,128 @@
         "name": "Castor du Canada"
       },
       {
+        "lang": "fy",
+        "name": "Kanadeeske bever"
+      },
+      {
         "lang": "he",
         "name": "בונה קנדי"
+      },
+      {
+        "lang": "hr",
+        "name": "Kanadski dabar"
+      },
+      {
+        "lang": "hu",
+        "name": "Kanadai hód"
+      },
+      {
+        "lang": "ik",
+        "name": "Pałuktaq"
       },
       {
         "lang": "it",
         "name": "Castoro americano"
       },
       {
+        "lang": "ja",
+        "name": "アメリカビーバー"
+      },
+      {
+        "lang": "kk",
+        "name": "Канада құндызы"
+      },
+      {
+        "lang": "ko",
+        "name": "아메리카비버"
+      },
+      {
+        "lang": "lbe",
+        "name": "Ухссавнил Американал къундуз"
+      },
+      {
+        "lang": "ln",
+        "name": "Kastɔró ya Kanadá"
+      },
+      {
         "lang": "lt",
         "name": "Kanadinis bebras"
       },
       {
+        "lang": "lv",
+        "name": "Kanādas bebrs"
+      },
+      {
+        "lang": "mhr",
+        "name": "Американ умдыр"
+      },
+      {
+        "lang": "mrj",
+        "name": "Канада ындыр"
+      },
+      {
         "lang": "nl",
-        "name": "Canadese bever"
+        "name": "Canadese Bever"
+      },
+      {
+        "lang": "nn",
+        "name": "Amerikabever"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikansk bever"
+      },
+      {
+        "lang": "nv",
+        "name": "Chaaʼ íiyisígíí"
       },
       {
         "lang": "pl",
         "name": "Bóbr kanadyjski"
       },
       {
+        "lang": "pt",
+        "name": "Castor-americano"
+      },
+      {
+        "lang": "ro",
+        "name": "Castorul american"
+      },
+      {
         "lang": "ru",
-        "name": "Бобр канадский"
+        "name": "Канадский бобр"
+      },
+      {
+        "lang": "sl",
+        "name": "Kanadski bober"
+      },
+      {
+        "lang": "sr",
+        "name": "Канадски дабар"
       },
       {
         "lang": "sv",
-        "name": "Amerikansk bäver",
-        "synonyms": [
-          "Kanadensisk bäver"
-        ]
+        "name": "Amerikansk bäver"
+      },
+      {
+        "lang": "tr",
+        "name": "Yeni Dünya kunduzu"
+      },
+      {
+        "lang": "udm",
+        "name": "Америкаысь мый"
+      },
+      {
+        "lang": "uk",
+        "name": "Бобер канадський"
+      },
+      {
+        "lang": "vi",
+        "name": "Hải ly châu Mỹ"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲河狸"
       }
     ]
   }

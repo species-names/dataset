@@ -3,6 +3,10 @@
     "scientific_name": "Alectoris rufa",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Perdiz"
+      },
+      {
         "lang": "ar",
         "name": "حجل أحمر الساقين"
       },
@@ -170,7 +174,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Arabian partridge"
+        "name": "Arabian Partridge"
       },
       {
         "lang": "ja",
@@ -206,6 +210,10 @@
   {
     "scientific_name": "Alectoris graeca",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Perdiz griega"
+      },
       {
         "lang": "ar",
         "name": "حجل الصخر"
@@ -366,6 +374,10 @@
       {
         "lang": "af",
         "name": "Asiatiese patrys"
+      },
+      {
+        "lang": "an",
+        "name": "Perdiz chukar"
       },
       {
         "lang": "ar",
@@ -556,6 +568,10 @@
   {
     "scientific_name": "Alectoris barbara",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Perdiz d'o sud"
+      },
       {
         "lang": "ar",
         "name": "حجل بربري"

@@ -250,12 +250,27 @@
         ]
       },
       {
+        "lang": "it",
+        "name": "Tucano toco",
+        "synonyms": [
+          "tucano"
+        ]
+      },
+      {
         "lang": "ja",
         "name": "オニオオハシ"
       },
       {
         "lang": "lt",
         "name": "Didysis tukanas"
+      },
+      {
+        "lang": "pl",
+        "name": "Tukan wielki",
+        "synonyms": [
+          "tukan toko",
+          "tukan olbrzymi"
+        ]
       },
       {
         "lang": "pt",
@@ -290,7 +305,10 @@
       },
       {
         "lang": "de",
-        "name": "Fischertukan"
+        "name": "Fischertukan",
+        "synonyms": [
+          "Schwefelbrusttukan"
+        ]
       },
       {
         "lang": "en",
@@ -426,6 +444,10 @@
     "scientific_name": "Ramphastos brevis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Küstentukan"
+      },
+      {
         "lang": "en",
         "name": "Choco Toucan"
       },
@@ -434,8 +456,20 @@
         "name": "Tucán del Chocó"
       },
       {
+        "lang": "fr",
+        "name": "Toucan du Choco"
+      },
+      {
         "lang": "hu",
         "name": "Parti tukán"
+      },
+      {
+        "lang": "nl",
+        "name": "Chocótoekan"
+      },
+      {
+        "lang": "pl",
+        "name": "Tukan górski"
       }
     ]
   },

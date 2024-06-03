@@ -1,18 +1,54 @@
 [
   {
-    "scientific_name": "Chlorothraupis frenata",
-    "common_names": []
-  },
-  {
     "scientific_name": "Chlorothraupis stolzmanni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ochre-breasted Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara pechiocre"
+      }
+    ]
   },
   {
     "scientific_name": "Chlorothraupis olivacea",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Lemon-spectacled Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara olivácea"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Chlorothraupis frenata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-lored Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara embridada"
+      }
+    ]
   },
   {
     "scientific_name": "Chlorothraupis carmioli",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Olive Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara de Carmiol"
+      }
+    ]
   }
 ]

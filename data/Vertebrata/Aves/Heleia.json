@@ -1,10 +1,106 @@
 [
   {
+    "scientific_name": "Heleia wallacei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-spectacled White-eye"
+      },
+      {
+        "lang": "es",
+        "name": "Anteojitos ojigualdo"
+      },
+      {
+        "lang": "fi",
+        "name": "Floresinrilli"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heleia superciliaris",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Anteojitos cejiamarillo"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-browed White-eye"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heleia squamifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Pygmy White-eye"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heleia squamiceps",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Anteojitos cabecirrayado"
+      },
+      {
+        "lang": "en",
+        "name": "Streaky-headed White-eye"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heleia pinaiae",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Anteojitos cabecigrís"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-hooded White-eye"
+      }
+    ]
+  },
+  {
     "scientific_name": "Heleia muelleri",
     "common_names": [
       {
         "lang": "en",
         "name": "Spot-breasted White-eye"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heleia javanica",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Javan Grey-throated White-eye"
+      },
+      {
+        "lang": "es",
+        "name": "Anteojitos de Java"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heleia goodfellowi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-masked White-eye"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Heleia dohertyi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crested White-eye"
       }
     ]
   },

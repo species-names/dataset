@@ -49,30 +49,15 @@
   },
   {
     "scientific_name": "Lybius rolleti",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Black-breasted Barbet"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Lybius minor",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Black-backed Barbet"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Lybius melanopterus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Brown-breasted Barbet"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Lybius leucocephalus",
@@ -80,6 +65,14 @@
       {
         "lang": "en",
         "name": "White-headed Barbet"
+      },
+      {
+        "lang": "es",
+        "name": "Barbudo cabeciblanco"
+      },
+      {
+        "lang": "pt",
+        "name": "barbaças-de-cabeça-branca"
       }
     ]
   },
@@ -87,27 +80,70 @@
     "scientific_name": "Lybius guifsobalito",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "بربيت أسود المنقار"
+      },
+      {
+        "lang": "cy",
+        "name": "Barbed pigddu"
+      },
+      {
+        "lang": "da",
+        "name": "Sortnæbbet Tandskægfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Purpurmasken-Bartvogel"
+      },
+      {
         "lang": "en",
         "name": "Black-billed Barbet"
+      },
+      {
+        "lang": "es",
+        "name": "Barbudo guifsobalito"
+      },
+      {
+        "lang": "fr",
+        "name": "Barbican guifsobalito"
+      },
+      {
+        "lang": "it",
+        "name": "Barbetto becconero"
+      },
+      {
+        "lang": "ja",
+        "name": "ハシグロゴシキドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Rood-zwarte Baardvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Svartnebbskjeggfugl"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالی چنجوالا باربٹ"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноклювая либия"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartnäbbad barbett"
+      },
+      {
+        "lang": "uk",
+        "name": "Лібія чорнодзьоба"
       }
     ]
   },
   {
     "scientific_name": "Lybius dubius",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Bearded Barbet"
-      },
-      {
-        "lang": "hu",
-        "name": "Szakállas bajszika"
-      },
-      {
-        "lang": "nl",
-        "name": "Zwartbandbaardvogel"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Lybius chaplini",
@@ -120,11 +156,6 @@
   },
   {
     "scientific_name": "Lybius bidentatus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Double-toothed Barbet"
-      }
-    ]
+    "common_names": []
   }
 ]

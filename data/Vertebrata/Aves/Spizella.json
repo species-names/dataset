@@ -7,12 +7,16 @@
         "name": "Worthen's Sparrow"
       },
       {
+        "lang": "ca",
+        "name": "Sit de Worthen"
+      },
+      {
         "lang": "cy",
         "name": "Bras Worthen"
       },
       {
         "lang": "es",
-        "name": "gorrión indefinido altiplanero"
+        "name": "Chingolo de Worthen"
       },
       {
         "lang": "fr",
@@ -33,17 +37,12 @@
     ]
   },
   {
-    "scientific_name": "Spizella taverneri",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Timberline Sparrow"
-      }
-    ]
-  },
-  {
     "scientific_name": "Spizella pusilla",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit campestre"
+      },
       {
         "lang": "cs",
         "name": "strnádka růžovozobá"
@@ -141,6 +140,10 @@
         "name": "العُصفُور الدُّوري الزَّقزَاق"
       },
       {
+        "lang": "ca",
+        "name": "Sit cellablanc"
+      },
+      {
         "lang": "cs",
         "name": "strnádka vrabcovitá"
       },
@@ -224,6 +227,10 @@
     "scientific_name": "Spizella pallida",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit pàl·lid"
+      },
+      {
         "lang": "cs",
         "name": "Strnádka pruhohlavá"
       },
@@ -237,13 +244,7 @@
       },
       {
         "lang": "en",
-        "name": "Clay-colored Sparrow",
-        "synonyms": [
-          "Clay-Coloured Sparrow",
-          "Clay Coloured Bunting",
-          "Clay-Colored Bunting",
-          "Clay-Coloured Finch"
-        ]
+        "name": "Clay-colored Sparrow"
       },
       {
         "lang": "es",
@@ -306,8 +307,84 @@
     "scientific_name": "Spizella breweri",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit de Brewer"
+      },
+      {
+        "lang": "cs",
+        "name": "Strnádka čárkovaná"
+      },
+      {
+        "lang": "da",
+        "name": "Gråbrystet Træspurv"
+      },
+      {
+        "lang": "de",
+        "name": "Blassammer"
+      },
+      {
         "lang": "en",
         "name": "Brewer's Sparrow"
+      },
+      {
+        "lang": "es",
+        "name": "Chingolo de Brewer"
+      },
+      {
+        "lang": "et",
+        "name": "Pujusidrik"
+      },
+      {
+        "lang": "fi",
+        "name": "Marunasirkkuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bruant de Brewer"
+      },
+      {
+        "lang": "hr",
+        "name": "Prugastokapi strnadar"
+      },
+      {
+        "lang": "hu",
+        "name": "Nevadai verébsármány"
+      },
+      {
+        "lang": "it",
+        "name": "Passero di Brewer"
+      },
+      {
+        "lang": "ja",
+        "name": "ブリューワーヒメドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Brewers Gors"
+      },
+      {
+        "lang": "no",
+        "name": "Shoshonespurv"
+      },
+      {
+        "lang": "pl",
+        "name": "Spizela jasnobrzucha"
+      },
+      {
+        "lang": "ru",
+        "name": "Пустынная воробьиная овсянка"
+      },
+      {
+        "lang": "sk",
+        "name": "Strnádlik palinový"
+      },
+      {
+        "lang": "sv",
+        "name": "Bleksparv"
+      },
+      {
+        "lang": "uk",
+        "name": "Карнатка лучна"
       }
     ]
   },
@@ -315,8 +392,16 @@
     "scientific_name": "Spizella atrogularis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit de barbeta negra"
+      },
+      {
         "lang": "en",
         "name": "Black-chinned Sparrow"
+      },
+      {
+        "lang": "es",
+        "name": "Chingolo barbinegro"
       }
     ]
   }

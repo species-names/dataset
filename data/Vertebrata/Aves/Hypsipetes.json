@@ -1,7 +1,100 @@
 [
   {
+    "scientific_name": "Hypsipetes thompsoni",
+    "common_names": [
+      {
+        "lang": "ar",
+        "name": "بلبل أبيض الرأس"
+      },
+      {
+        "lang": "cy",
+        "name": "Bwlbwl Bingham"
+      },
+      {
+        "lang": "en",
+        "name": "White-headed Bulbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul cabeciblanco"
+      },
+      {
+        "lang": "fi",
+        "name": "Valkopääbulbuli"
+      },
+      {
+        "lang": "hu",
+        "name": "Thompson-bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Binghams buulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "Vithuvad bulbyl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hypsipetes siquijorensis",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Bwlbwl bronresog"
+      },
+      {
+        "lang": "en",
+        "name": "Streak-breasted bulbul"
+      },
+      {
+        "lang": "fi",
+        "name": "Negrosinbulbuli"
+      },
+      {
+        "lang": "hu",
+        "name": "Palaszürkefejű bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Leikruinbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "streckbröstad bulbyl"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hypsipetes rufigularis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Zamboanga Bulbul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hypsipetes philippinus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Philippine Bulbul"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodborstbuulbuul"
+      }
+    ]
+  },
+  {
     "scientific_name": "Hypsipetes parvirostris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grand Comoro Bulbul"
+      }
+    ]
   },
   {
     "scientific_name": "Hypsipetes olivaceus",
@@ -79,6 +172,33 @@
     ]
   },
   {
+    "scientific_name": "Hypsipetes mysticalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Buru Golden-Bulbul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hypsipetes moheliensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Moheli bulbul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hypsipetes mindorensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mindoro Bulbul"
+      }
+    ]
+  },
+  {
     "scientific_name": "Hypsipetes madagascariensis",
     "common_names": [
       {
@@ -88,6 +208,15 @@
       {
         "lang": "ja",
         "name": "クロヒヨドリ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hypsipetes longirostris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sula Golden-Bulbul"
       }
     ]
   },
@@ -109,8 +238,52 @@
     ]
   },
   {
+    "scientific_name": "Hypsipetes guimarasensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Visayan bulbul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hypsipetes ganeesa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Square-tailed Bulbul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hypsipetes everetti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellowish Bulbul"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul de Everett"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul d'Everett"
+      }
+    ]
+  },
+  {
     "scientific_name": "Hypsipetes crassirostris",
     "common_names": []
+  },
+  {
+    "scientific_name": "Hypsipetes catarmanensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Camiguin Bulbul"
+      }
+    ]
   },
   {
     "scientific_name": "Hypsipetes borbonicus",
@@ -154,6 +327,15 @@
       {
         "lang": "zh-hant",
         "name": "棕耳鵯"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hypsipetes affinis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Seram Golden Bulbul"
       }
     ]
   }

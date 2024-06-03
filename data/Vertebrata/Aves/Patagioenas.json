@@ -245,6 +245,10 @@
     "scientific_name": "Patagioenas leucocephala",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Patagioenas leucocephala"
+      },
+      {
         "lang": "de",
         "name": "Weißkopftaube"
       },
@@ -265,6 +269,10 @@
           "torcaza cabeciblanca",
           "paloma gorriblanca"
         ]
+      },
+      {
+        "lang": "eu",
+        "name": "Patagioenas leucocephala"
       },
       {
         "lang": "fa",
@@ -545,6 +553,10 @@
       {
         "lang": "fi",
         "name": "Venezuelankyyhky"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma aliblanca"
       }
     ]
   },

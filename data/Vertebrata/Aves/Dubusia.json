@@ -3,12 +3,33 @@
     "scientific_name": "Dubusia taeniata",
     "common_names": [
       {
-        "lang": "es",
-        "name": "Tangara pechifulva"
+        "lang": "de",
+        "name": "Silberbrauen-Bergtangare"
       },
       {
         "lang": "en",
         "name": "Buff-breasted mountain tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara pechifulva"
+      },
+      {
+        "lang": "nl",
+        "name": "Zilverbrauwbergtangare"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dubusia stictocephala",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Streak-crowned Mountain-tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara pechifulva sureña"
       }
     ]
   },
@@ -22,6 +43,31 @@
       {
         "lang": "es",
         "name": "Tangara ventricastaña"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dubusia carrikeri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Carriker's Mountain-tanager"
+      },
+      {
+        "lang": "de",
+        "name": "Santa-Marta-Bergtangare"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara pechifulva de Carriker"
+      },
+      {
+        "lang": "fr",
+        "name": "Tangara à poitrine fauve (carrikeri)"
+      },
+      {
+        "lang": "sv",
+        "name": "Carrikers bergtangara"
       }
     ]
   }

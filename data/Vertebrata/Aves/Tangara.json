@@ -242,6 +242,10 @@
         "name": "tangara bigotuda"
       },
       {
+        "lang": "hu",
+        "name": "Tangara johannae"
+      },
+      {
         "lang": "nl",
         "name": "Blauwbaardtangare"
       },
@@ -303,6 +307,10 @@
       {
         "lang": "es",
         "name": "Tángara cabecibaya"
+      },
+      {
+        "lang": "eu",
+        "name": "Tangara gyrola"
       },
       {
         "lang": "fr",
@@ -397,6 +405,10 @@
       {
         "lang": "en",
         "name": "Emerald Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Tangara florida"
       },
       {
         "lang": "fr",
@@ -698,6 +710,19 @@
   {
     "scientific_name": "Tangara cabanisi",
     "common_names": []
+  },
+  {
+    "scientific_name": "Tangara brasiliensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-bellied Tanager"
+      },
+      {
+        "lang": "pt",
+        "name": "Cambada-de-chaves"
+      }
+    ]
   },
   {
     "scientific_name": "Tangara arthus",

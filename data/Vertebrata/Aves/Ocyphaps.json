@@ -3,8 +3,24 @@
     "scientific_name": "Ocyphaps lophotes",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "الحمام المتوج"
+      },
+      {
+        "lang": "ca",
+        "name": "Colom bronzat crestat"
+      },
+      {
         "lang": "cs",
-        "name": "Holub chocholatý"
+        "name": "Holub hnědochocholatý"
+      },
+      {
+        "lang": "cy",
+        "name": "Colomen gribog"
+      },
+      {
+        "lang": "da",
+        "name": "Australsk Topdue"
       },
       {
         "lang": "de",
@@ -12,30 +28,71 @@
       },
       {
         "lang": "en",
-        "name": "Crested Pigeo"
+        "name": "Crested Pigeon"
+      },
+      {
+        "lang": "eo",
+        "name": "Kresta kolombo"
       },
       {
         "lang": "es",
-        "name": "Paloma bronce crestuda"
+        "name": "Paloma bronce crestada"
+      },
+      {
+        "lang": "et",
+        "name": "Tutt-tuvi"
+      },
+      {
+        "lang": "fa",
+        "name": "کبوتر کاکلی"
+      },
+      {
+        "lang": "fi",
+        "name": "Töyhtökyyhky"
       },
       {
         "lang": "fr",
-        "name": "Colombine longup",
-        "synonyms": [
-          "Colombe lophote"
-        ]
+        "name": "Colombine longup"
+      },
+      {
+        "lang": "he",
+        "name": "יונה מצויצת"
+      },
+      {
+        "lang": "hr",
+        "name": "Kukmasti golub"
       },
       {
         "lang": "hu",
         "name": "Kontyos galamb"
       },
       {
+        "lang": "it",
+        "name": "Piccione crestato"
+      },
+      {
+        "lang": "ja",
+        "name": "レンジャクバト"
+      },
+      {
+        "lang": "lt",
+        "name": "Kuoduotasis karvelis"
+      },
+      {
+        "lang": "mrj",
+        "name": "Упшан той шылдыран кӓдӹ"
+      },
+      {
         "lang": "ms",
-        "name": "Tekukur Jambul"
+        "name": "Merbuk Jambul"
       },
       {
         "lang": "nl",
         "name": "Spitskuifduif"
+      },
+      {
+        "lang": "no",
+        "name": "Toppdue"
       },
       {
         "lang": "pl",
@@ -47,11 +104,19 @@
       },
       {
         "lang": "pt",
-        "name": "Rola-de-crista"
+        "name": "Pomba-lofote"
       },
       {
         "lang": "ru",
         "name": "Хохлатый бронзовокрылый голубь"
+      },
+      {
+        "lang": "sk",
+        "name": "Blyskavec chochlatý"
+      },
+      {
+        "lang": "sr",
+        "name": "Ћубасти голуб"
       },
       {
         "lang": "sv",
@@ -62,8 +127,12 @@
         "name": "Tepeli güvercin"
       },
       {
+        "lang": "uk",
+        "name": "Голуб-бронзовокрил чубатий"
+      },
+      {
         "lang": "zh",
-        "name": "鳳頭鳩"
+        "name": "冠鳩"
       }
     ]
   }

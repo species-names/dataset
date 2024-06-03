@@ -4,7 +4,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Green-striped Brush Finch"
+        "name": "Green-striped Brush-Finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí cellaverd"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero verdiamarillo"
       }
     ]
   },
@@ -13,7 +21,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "White-browed Brush Finch"
+        "name": "White-browed Brush-Finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí cap-ratllat"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero cabecilistado"
       }
     ]
   },
@@ -25,11 +41,12 @@
         "name": "Pectoral Sparrow"
       },
       {
-        "lang": "pt",
-        "name": "Tico-tico-do-Amazonas",
-        "synonyms": [
-          "Tico-tico-da-mata"
-        ]
+        "lang": "ca",
+        "name": "Toquí pectoral"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Tico-tico-de-bico-preto"
       },
       {
         "lang": "cy",
@@ -50,12 +67,29 @@
       {
         "lang": "sv",
         "name": "halsbandssparv"
+      },
+      {
+        "lang": " es",
+        "name": "Cerquero pectoral"
       }
     ]
   },
   {
     "scientific_name": "Arremon semitorquatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Half-collared Sparrow"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de mig collar"
+      },
+      {
+        "lang": "pt",
+        "name": "tico-tico-do-mato"
+      }
+    ]
   },
   {
     "scientific_name": "Arremon schlegeli",
@@ -65,12 +99,12 @@
         "name": "Golden-winged Sparrow"
       },
       {
+        "lang": "ca",
+        "name": "Toquí aladaurat"
+      },
+      {
         "lang": "es",
-        "name": "Cerquero alidorado",
-        "synonyms": [
-          "pinzón alidorado",
-          "maizcuba"
-        ]
+        "name": "Cerquero alidorado"
       }
     ]
   },
@@ -79,7 +113,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Paria Brush Finch"
+        "name": "Paria Brush-Finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de Berlepsch"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero de Berlepsch"
       }
     ]
   },
@@ -89,6 +131,10 @@
       {
         "lang": "en",
         "name": "Caracas Brush Finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de Sclater"
       },
       {
         "lang": "es",
@@ -102,6 +148,10 @@
       {
         "lang": "en",
         "name": "Perija Brush Finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de Perijá"
       },
       {
         "lang": "es",
@@ -126,7 +176,11 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "San Francisco sparrow"
+        "name": "São Francisco sparrow"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí del São Francisco"
       },
       {
         "lang": "pt",
@@ -140,6 +194,10 @@
       {
         "lang": "en",
         "name": "Saffron-billed sparrow"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí becgroc"
       },
       {
         "lang": "pt",
@@ -159,6 +217,10 @@
         "name": "moss-backed sparrow"
       },
       {
+        "lang": "ca",
+        "name": "Toquí de coroneta ratllada"
+      },
+      {
         "lang": "nl",
         "name": "wenkbrauwgeelsnavelgors"
       }
@@ -167,6 +229,10 @@
   {
     "scientific_name": "Arremon crassirostris",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Toquí de bigotis"
+      },
       {
         "lang": "en",
         "name": "Sooty-faced Finch"
@@ -182,7 +248,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Costa Rican Brush Finch"
+        "name": "Costa Rican Brush-Finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de Costa Rica"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero costarricense"
       }
     ]
   },
@@ -192,6 +266,10 @@
       {
         "lang": "en",
         "name": "Olive Finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de corona rogenca"
       },
       {
         "lang": "es",
@@ -208,7 +286,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Chestnut-capped Brush Finch"
+        "name": "Chestnut-capped Brush-Finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de capell castany"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero coronicastaño"
       }
     ]
   },
@@ -220,6 +306,10 @@
         "name": "Sierra Nevada Brush Finch"
       },
       {
+        "lang": "ca",
+        "name": "Toquí de Bangs"
+      },
+      {
         "lang": "es",
         "name": "Cerquero de Bangs"
       }
@@ -227,14 +317,35 @@
   },
   {
     "scientific_name": "Arremon aurantiirostris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-billed Sparrow"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de bec taronja"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero piquinaranja"
+      }
+    ]
   },
   {
     "scientific_name": "Arremon atricapillus",
     "common_names": [
       {
         "lang": "en",
-        "name": "Black-headed Brush Finch"
+        "name": "Black-headed Brush-Finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí capnegre"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero cabecinegro"
       }
     ]
   },
@@ -243,7 +354,11 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Grey-browed Brush Finch"
+        "name": "Gray-stripped Brush-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero picofino"
       }
     ]
   },
@@ -255,11 +370,12 @@
         "name": "Black-Capped Sparrow"
       },
       {
+        "lang": "ca",
+        "name": "Toquí de corona negra"
+      },
+      {
         "lang": "es",
-        "name": "Cerquero coroninegro",
-        "synonyms": [
-          "chingolo gorrinegro"
-        ]
+        "name": "Cerquero coroninegro"
       }
     ]
   }

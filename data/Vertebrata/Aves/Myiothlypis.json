@@ -1,7 +1,16 @@
 [
   {
     "scientific_name": "Myiothlypis signata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Reinita paticlara"
+      },
+      {
+        "lang": "en",
+        "name": "Pale-legged Warbler"
+      }
+    ]
   },
   {
     "scientific_name": "Myiothlypis roraimae",
@@ -45,8 +54,28 @@
     "scientific_name": "Myiothlypis nigrocristata",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Schwarzscheitel-Waldsänger"
+      },
+      {
         "lang": "en",
         "name": "Black-crested Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita crestinegra"
+      },
+      {
+        "lang": "fr",
+        "name": "Paruline à cimier noir"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwartkuifzanger"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthättad skogssångare"
       }
     ]
   },
@@ -54,8 +83,16 @@
     "scientific_name": "Myiothlypis luteoviridis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Bonapartewaldsänger"
+      },
+      {
         "lang": "en",
         "name": "Citrine Warbler"
+      },
+      {
+        "lang": "es",
+        "name": "Reinita citrina"
       }
     ]
   },
@@ -85,7 +122,7 @@
       },
       {
         "lang": "es",
-        "name": "Arañero silbón; reinita silbona"
+        "name": "Reinita silbona"
       },
       {
         "lang": "pt",
@@ -176,7 +213,7 @@
       },
       {
         "lang": "es",
-        "name": "Reinita de Fraser; reinita gris y dorada"
+        "name": "Reinita de Fraser"
       }
     ]
   },
@@ -189,11 +226,11 @@
       },
       {
         "lang": "es",
-        "name": "Chiví amarillento; reinita amarillenta"
+        "name": "Reinita amarillenta"
       },
       {
         "lang": "pt",
-        "name": "Canário-do-mato; pula-pula-amarelo"
+        "name": "Canário-do-mato"
       }
     ]
   },

@@ -3,8 +3,12 @@
     "scientific_name": "Rhynchospiza strigiceps",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit de coroneta castanya"
+      },
+      {
         "lang": "en",
-        "name": "Stripe-capped Sparrow; Chaco Sparrow"
+        "name": "Stripe-capped Sparrow"
       },
       {
         "lang": "eo",
@@ -24,6 +28,10 @@
     "scientific_name": "Rhynchospiza stolzmanni",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit de Tumbes"
+      },
+      {
         "lang": "en",
         "name": "Tumbes Sparrow"
       },
@@ -36,6 +44,10 @@
   {
     "scientific_name": "Rhynchospiza dabbenei",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit dels iungues"
+      },
       {
         "lang": "en",
         "name": "Yungas Sparrow"

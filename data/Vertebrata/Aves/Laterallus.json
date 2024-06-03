@@ -16,7 +16,7 @@
       },
       {
         "lang": "it",
-        "name": "Rallo facciarossiccia"
+        "name": "Rallo facciarossa"
       },
       {
         "lang": "ja",
@@ -45,10 +45,7 @@
       },
       {
         "lang": "es",
-        "name": "Polluela overa",
-        "synonyms": [
-          "Burrito negruzco"
-        ]
+        "name": "Polluela overa"
       },
       {
         "lang": "fi",
@@ -60,7 +57,7 @@
       },
       {
         "lang": "it",
-        "name": "Schiribilla alimacchiate"
+        "name": "Rallo alimacchiate"
       },
       {
         "lang": "ja",
@@ -86,7 +83,44 @@
   },
   {
     "scientific_name": "Laterallus spilonota",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Rasclet de les Galápagos"
+      },
+      {
+        "lang": "en",
+        "name": "Galapagos Rail"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela de las Galápagos"
+      },
+      {
+        "lang": "fi",
+        "name": "Galapagosinrääkkä"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle des Galapagos"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo delle Galápagos"
+      },
+      {
+        "lang": "ja",
+        "name": "ガラパゴスクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Galápagosdwergral"
+      },
+      {
+        "lang": "sv",
+        "name": "galapagosrall"
+      }
+    ]
   },
   {
     "scientific_name": "Laterallus ruber",
@@ -170,7 +204,7 @@
       },
       {
         "lang": "it",
-        "name": "Rallo dell'isola Inaccessibile"
+        "name": "Schiribilla dell'isola Inaccessibile"
       },
       {
         "lang": "ja",
@@ -242,7 +276,7 @@
       },
       {
         "lang": "it",
-        "name": "Rallo fianchirossicci"
+        "name": "Rallo fianchirossi"
       },
       {
         "lang": "nl",
@@ -279,7 +313,7 @@
       },
       {
         "lang": "it",
-        "name": "Rallo fianchiruggine"
+        "name": "Rallo di Levraud"
       },
       {
         "lang": "ja",
@@ -361,7 +395,7 @@
       },
       {
         "lang": "it",
-        "name": "Rallo nerastro"
+        "name": "Rallo nero americano"
       },
       {
         "lang": "ja",
@@ -383,7 +417,28 @@
   },
   {
     "scientific_name": "Laterallus flaviventer",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Keltarintahuitti"
+      },
+      {
+        "lang": "en",
+        "name": "Yellow-breasted crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela pálida"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo pettogiallo"
+      },
+      {
+        "lang": "pt",
+        "name": "Sanã-amarela"
+      }
+    ]
   },
   {
     "scientific_name": "Laterallus fasciatus",

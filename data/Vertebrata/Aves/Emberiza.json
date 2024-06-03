@@ -3,6 +3,10 @@
     "scientific_name": "Emberiza yessoensis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Repicatalons de carpó bru"
+      },
+      {
         "lang": "en",
         "name": "Ochre-rumped Bunting"
       },
@@ -69,6 +73,10 @@
       {
         "lang": "ar",
         "name": "درسة الصخر إفريقية"
+      },
+      {
+        "lang": "ca",
+        "name": "Sit canyella"
       },
       {
         "lang": "en",
@@ -161,6 +169,10 @@
       {
         "lang": "ar",
         "name": "درسة مخططة"
+      },
+      {
+        "lang": "ca",
+        "name": "Sit estriat"
       },
       {
         "lang": "en",
@@ -411,6 +423,10 @@
   {
     "scientific_name": "Emberiza sahari",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit del Sàhara"
+      },
       {
         "lang": "en",
         "name": "House Bunting"
@@ -690,6 +706,10 @@
     "scientific_name": "Emberiza melanocephala",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Cisnegro"
+      },
+      {
         "lang": "ca",
         "name": "Sit capnegre"
       },
@@ -716,6 +736,10 @@
       {
         "lang": "ja",
         "name": "ズグロチャキンチョウ（頭黒茶金鳥）"
+      },
+      {
+        "lang": "pt",
+        "name": "Escrevedeira-de-cabeça-preta"
       },
       {
         "lang": "tr",
@@ -788,12 +812,20 @@
         "name": "ঝুঁটিয়াল চটক"
       },
       {
+        "lang": "ca",
+        "name": "Sit crestat"
+      },
+      {
         "lang": "en",
         "name": "Crested Bunting"
       },
       {
         "lang": "es",
         "name": "Escribano crestado"
+      },
+      {
+        "lang": "eu",
+        "name": "Emberiza lathami"
       },
       {
         "lang": "fr",
@@ -833,6 +865,10 @@
     "scientific_name": "Emberiza koslowi",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit del Tibet"
+      },
+      {
         "lang": "en",
         "name": "Tibetan bunting"
       },
@@ -853,6 +889,10 @@
   {
     "scientific_name": "Emberiza jankowskii",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit de Jankowski"
+      },
       {
         "lang": "cy",
         "name": "Bras Jankowski"
@@ -914,6 +954,10 @@
   {
     "scientific_name": "Emberiza hortulana",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Cistra hortolana"
+      },
       {
         "lang": "ar",
         "name": "درسة الشعير"
@@ -1035,6 +1079,10 @@
         "name": "Hortulan"
       },
       {
+        "lang": "pms",
+        "name": "Emberiza hortulana"
+      },
+      {
         "lang": "pl",
         "name": "Ortolan"
       },
@@ -1073,6 +1121,10 @@
       {
         "lang": "en",
         "name": "Godlewski's bunting"
+      },
+      {
+        "lang": "ca",
+        "name": "Sit de Godlewski"
       },
       {
         "lang": "es",
@@ -1172,6 +1224,10 @@
     "scientific_name": "Emberiza elegans",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit elegant"
+      },
+      {
         "lang": "de",
         "name": "Gelbkehlammer"
       },
@@ -1211,6 +1267,10 @@
       {
         "lang": "als",
         "name": "Goldammer"
+      },
+      {
+        "lang": "an",
+        "name": "Cistra amariella"
       },
       {
         "lang": "ar",
@@ -1410,6 +1470,10 @@
     "scientific_name": "Emberiza cirlus",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Cisberde"
+      },
+      {
         "lang": "bg",
         "name": "Зеленогуша овесарка"
       },
@@ -1521,6 +1585,10 @@
     "scientific_name": "Emberiza cia",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Cistra parda"
+      },
+      {
         "lang": "ca",
         "name": "Sit negre"
       },
@@ -1551,6 +1619,10 @@
       {
         "lang": "gl",
         "name": "Escribenta riscada"
+      },
+      {
+        "lang": "hu",
+        "name": "bajszos sármány"
       },
       {
         "lang": "hy",
@@ -1622,6 +1694,10 @@
   {
     "scientific_name": "Emberiza calandra",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Cluchidor"
+      },
       {
         "lang": "ar",
         "name": "درسة القمح"
@@ -1843,7 +1919,10 @@
     "common_names": [
       {
         "lang": "ca",
-        "name": "Sit de Buchanan"
+        "name": "Sit de Buchanan",
+        "synonyms": [
+          "Sit capgrís"
+        ]
       },
       {
         "lang": "en",
@@ -1932,7 +2011,7 @@
       },
       {
         "lang": "ca",
-        "name": "Sit caranegre"
+        "name": "Sit aureolat"
       },
       {
         "lang": "cs",
@@ -2043,6 +2122,10 @@
   {
     "scientific_name": "Emberiza affinis",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sir dorsibrú"
+      },
       {
         "lang": "en",
         "name": "Brown-rumped Bunting"

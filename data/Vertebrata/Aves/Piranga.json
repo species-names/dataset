@@ -8,10 +8,7 @@
       },
       {
         "lang": "es",
-        "name": "Quitrique de capucha roja",
-        "synonyms": [
-          "Piranga capuchirroja"
-        ]
+        "name": "Piranga capuchirroja"
       },
       {
         "lang": "fr",
@@ -138,7 +135,16 @@
   },
   {
     "scientific_name": "Piranga roseogularis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rose-throated Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Piranga yucateca"
+      }
+    ]
   },
   {
     "scientific_name": "Piranga olivacea",
@@ -255,6 +261,14 @@
       {
         "lang": "en",
         "name": "Tooth-billed Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Piranga montana"
+      },
+      {
+        "lang": "pt-br",
+        "name": "sanhaço-montano"
       }
     ]
   },
@@ -357,14 +371,27 @@
   },
   {
     "scientific_name": "Piranga leucoptera",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-winged Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Piranga aliblanca"
+      }
+    ]
   },
   {
     "scientific_name": "Piranga hepatica",
     "common_names": [
       {
         "lang": "en",
-        "name": "Hepatic Tanager"
+        "name": "Northern Hepatic-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Piranga hepática"
       }
     ]
   },
@@ -389,7 +416,7 @@
       },
       {
         "lang": "es",
-        "name": "Piranga Bermeja"
+        "name": "Piranga bermeja"
       },
       {
         "lang": "et",
@@ -429,11 +456,11 @@
       },
       {
         "lang": "pt-br",
-        "name": "Sanhaçu-de-fogo"
+        "name": "sanhaçu-de-fogo"
       },
       {
         "lang": "pt",
-        "name": "Sanhaco-de-fogo"
+        "name": "Sanhaço-de-fogo"
       },
       {
         "lang": "ru",
@@ -455,10 +482,28 @@
   },
   {
     "scientific_name": "Piranga erythrocephala",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-headed Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Piranga cabecirroja"
+      }
+    ]
   },
   {
     "scientific_name": "Piranga bidentata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Flame-colored Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Piranga estriada"
+      }
+    ]
   }
 ]

@@ -3,6 +3,22 @@
     "scientific_name": "Meleagris ocellata",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Паунова пуйка"
+      },
+      {
+        "lang": "ca",
+        "name": "Gall dindi ocel·lat"
+      },
+      {
+        "lang": "cs",
+        "name": "Krocan paví"
+      },
+      {
+        "lang": "da",
+        "name": "Påfuglekalkun"
+      },
+      {
         "lang": "de",
         "name": "Pfauentruthuhn"
       },
@@ -11,12 +27,120 @@
         "name": "Ocellated Turkey"
       },
       {
+        "lang": "eo",
+        "name": "Jukatana meleagro"
+      },
+      {
+        "lang": "es",
+        "name": "Pavo ocelado"
+      },
+      {
+        "lang": "et",
+        "name": "Silmikkalkun"
+      },
+      {
+        "lang": "fi",
+        "name": "Jukataninkalkkuna"
+      },
+      {
+        "lang": "fr",
+        "name": "Dindon ocellé"
+      },
+      {
+        "lang": "fy",
+        "name": "Paukalkoen"
+      },
+      {
+        "lang": "he",
+        "name": "תרנגול הודו עינוני"
+      },
+      {
+        "lang": "hi",
+        "name": "नेत्रांकित टर्की"
+      },
+      {
+        "lang": "hr",
+        "name": "Šareni puran"
+      },
+      {
+        "lang": "hu",
+        "name": "Pávaszemes pulyka"
+      },
+      {
+        "lang": "id",
+        "name": "Kalkun merak"
+      },
+      {
+        "lang": "lt",
+        "name": "Akiniuotasis kalakutas"
+      },
+      {
+        "lang": "lv",
+        "name": "Briļļainais tītars"
+      },
+      {
+        "lang": "mk",
+        "name": "Паунова мисирка"
+      },
+      {
+        "lang": "mrj",
+        "name": "Сӹнзӓлыкан немӹццӹвӹ"
+      },
+      {
+        "lang": "nl",
+        "name": "Pauwkalkoen"
+      },
+      {
+        "lang": "nn",
+        "name": "Flekkalkun"
+      },
+      {
+        "lang": "no",
+        "name": "Flekkalkun"
+      },
+      {
+        "lang": "oc",
+        "name": "Piòt ocellat"
+      },
+      {
+        "lang": "pl",
+        "name": "Indyk pawi"
+      },
+      {
+        "lang": "pt",
+        "name": "Peru-ocelado"
+      },
+      {
         "lang": "ru",
         "name": "Глазчатая индейка"
       },
       {
+        "lang": "sh",
+        "name": "Paunastolika ćurka"
+      },
+      {
+        "lang": "sk",
+        "name": "Morka lesklá"
+      },
+      {
+        "lang": "sr",
+        "name": "Jукатанска ћурка"
+      },
+      {
         "lang": "sv",
         "name": "Arguskalkon"
+      },
+      {
+        "lang": "uk",
+        "name": "Індик малий"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà tây mắt đơn"
+      },
+      {
+        "lang": "vls",
+        "name": "Pauwkalkoen"
       }
     ]
   },
@@ -24,12 +148,28 @@
     "scientific_name": "Meleagris gallopavo",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Wilde kalkoen"
+      },
+      {
+        "lang": "an",
+        "name": "Pavo"
+      },
+      {
         "lang": "ar",
-        "name": "الديك الرومي البري"
+        "name": "ديك رومي بري"
+      },
+      {
+        "lang": "arz",
+        "name": "ديك رومى برى"
+      },
+      {
+        "lang": "atj",
+        "name": "Nicirew"
       },
       {
         "lang": "az",
-        "name": "Adi hinduşka"
+        "name": "Adi hind quşu"
       },
       {
         "lang": "bar",
@@ -37,7 +177,7 @@
       },
       {
         "lang": "bg",
-        "name": "Пуйка"
+        "name": "Дива пуйка"
       },
       {
         "lang": "br",
@@ -45,10 +185,7 @@
       },
       {
         "lang": "ca",
-        "name": "Gall dindi",
-        "synonyms": [
-          "titot"
-        ]
+        "name": "Gall dindi salvatge"
       },
       {
         "lang": "chr",
@@ -56,15 +193,23 @@
       },
       {
         "lang": "cs",
-        "name": "krocan divoký"
+        "name": "Krocan divoký"
+      },
+      {
+        "lang": "csb",
+        "name": "Zwëczajny gùlôk"
       },
       {
         "lang": "da",
-        "name": "Kalkun"
+        "name": "Vild Kalkun"
       },
       {
         "lang": "de",
-        "name": "Truthuhn"
+        "name": "Wildtruthuhn"
+      },
+      {
+        "lang": "el",
+        "name": "Άγρια γαλοπούλα"
       },
       {
         "lang": "en",
@@ -72,14 +217,11 @@
       },
       {
         "lang": "eo",
-        "name": "Komuna meleagro"
+        "name": "Ordinara meleagro"
       },
       {
         "lang": "es",
-        "name": "Guajolote Gallipavo",
-        "synonyms": [
-          "pavo salvaje"
-        ]
+        "name": "Pavo salvaj"
       },
       {
         "lang": "et",
@@ -90,8 +232,12 @@
         "name": "Indioilar arrunt"
       },
       {
+        "lang": "fa",
+        "name": "بوقلمون وحشی"
+      },
+      {
         "lang": "fi",
-        "name": "kalkkuna"
+        "name": "Villikalkkuna"
       },
       {
         "lang": "fr",
@@ -102,8 +248,24 @@
         "name": "Puut"
       },
       {
+        "lang": "fy",
+        "name": "Wylde kalkoen"
+      },
+      {
         "lang": "gd",
         "name": "Coileach Frangach"
+      },
+      {
+        "lang": "gl",
+        "name": "Pavo salvaxe"
+      },
+      {
+        "lang": "he",
+        "name": "תרנגול הודו מצוי"
+      },
+      {
+        "lang": "hi",
+        "name": "जंगली टर्की"
       },
       {
         "lang": "hr",
@@ -114,34 +276,60 @@
         "name": "Vadpulyka"
       },
       {
+        "lang": "hy",
+        "name": "Վայրի հնդկահավ"
+      },
+      {
         "lang": "is",
-        "name": "Kalkúni",
-        "synonyms": [
-          "Kalkúnn"
-        ]
+        "name": "Kalkúni"
       },
       {
         "lang": "it",
-        "name": "Tacchino comune"
+        "name": "Tacchino selvatico"
       },
       {
         "lang": "ja",
-        "name": "シチメンチョウ",
-        "synonyms": [
-          "shichimenchou"
-        ]
+        "name": "シチメンチョウ"
+      },
+      {
+        "lang": "ko",
+        "name": "들칠면조"
+      },
+      {
+        "lang": "ky",
+        "name": "Кадимки күрп"
       },
       {
         "lang": "lt",
-        "name": "Kalakutas"
+        "name": "Laukinis kalakutas"
+      },
+      {
+        "lang": "lv",
+        "name": "Meža tītars"
+      },
+      {
+        "lang": "mk",
+        "name": "Дива мисирка"
+      },
+      {
+        "lang": "mn",
+        "name": "Зэрлэг цацагт хяруул"
+      },
+      {
+        "lang": "mrj",
+        "name": "Немӹццӹвӹ"
       },
       {
         "lang": "ms",
-        "name": "Ayam Belanda"
+        "name": "Ayam belanda liar"
       },
       {
         "lang": "nah",
-        "name": "Huehxōlōtl"
+        "name": "Tecuantotolin"
+      },
+      {
+        "lang": "nap",
+        "name": "Vicce"
       },
       {
         "lang": "nds",
@@ -149,64 +337,87 @@
       },
       {
         "lang": "nl",
-        "name": "Kalkoen"
+        "name": "Wilde Kalkoen"
       },
       {
         "lang": "nn",
-        "name": "Kalkun"
+        "name": "Villkalkun"
       },
       {
         "lang": "no",
-        "name": "Kalkun"
+        "name": "Villkalkun"
+      },
+      {
+        "lang": "oc",
+        "name": "Piòt salvatge"
       },
       {
         "lang": "pl",
-        "name": "indyk zwyczajny"
+        "name": "Indyk zwyczajny"
       },
       {
         "lang": "pt",
-        "name": "Peru-bravo",
-        "synonyms": [
-          "Peru-selvagem"
-        ]
+        "name": "Peru-selvagem"
       },
       {
         "lang": "ro",
-        "name": "Curcan",
-        "synonyms": [
-          "curcanul Salbatic"
-        ]
+        "name": "Curcan sălbatic"
+      },
+      {
+        "lang": "roa-rup",
+        "name": "Curcu"
       },
       {
         "lang": "ru",
-        "name": "Индейка"
+        "name": "Дикая индейка"
       },
       {
         "lang": "scn",
         "name": "Tacchinu"
       },
       {
+        "lang": "sh",
+        "name": "Divlja ćurka"
+      },
+      {
         "lang": "sk",
-        "name": "morka divá"
+        "name": "Morka divá"
       },
       {
         "lang": "sl",
-        "name": "Puran"
+        "name": "Divji puran"
+      },
+      {
+        "lang": "sr",
+        "name": "Дивља ћурка"
       },
       {
         "lang": "sv",
-        "name": "Kalkon"
+        "name": "Vildkalkon"
+      },
+      {
+        "lang": "ta",
+        "name": "காட்டு வான்கோழி"
+      },
+      {
+        "lang": "th",
+        "name": "ไก่งวงป่า"
+      },
+      {
+        "lang": "tl",
+        "name": "Ligaw na pabo"
       },
       {
         "lang": "tr",
-        "name": "Hindi",
-        "synonyms": [
-          "Yaban hindisi"
-        ]
+        "name": "Yabani hindi"
       },
       {
         "lang": "uk",
-        "name": "Дика індичка"
+        "name": "Індик великий"
+      },
+      {
+        "lang": "uz",
+        "name": "Yovvoyi kurka"
       },
       {
         "lang": "vec",
@@ -217,11 +428,16 @@
         "name": "Gà tây hoang"
       },
       {
+        "lang": "vls",
+        "name": "Kalkoen"
+      },
+      {
+        "lang": "wuu",
+        "name": "野生火鸡"
+      },
+      {
         "lang": "zh",
-        "name": "火鸡",
-        "synonyms": [
-          "野生火雞"
-        ]
+        "name": "野生火雞"
       }
     ]
   },

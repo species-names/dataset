@@ -21,10 +21,7 @@
       },
       {
         "lang": "en",
-        "name": "Spotted Souslik",
-        "synonyms": [
-          "Speckled Ground Squirrel"
-        ]
+        "name": "Speckled Ground Squirrel"
       },
       {
         "lang": "fi",
@@ -137,8 +134,24 @@
     "scientific_name": "Spermophilus dauricus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Daurischer Ziesel"
+      },
+      {
         "lang": "en",
         "name": "Daurian Ground Squirrel"
+      },
+      {
+        "lang": "es",
+        "name": "Ardilla terrestre de Dauria"
+      },
+      {
+        "lang": "fr",
+        "name": "Spermophile de Daourie"
+      },
+      {
+        "lang": "ja",
+        "name": "ダウリアハタリス"
       }
     ]
   },
@@ -146,11 +159,25 @@
     "scientific_name": "Spermophilus citellus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Europäischer Ziesel"
+      },
+      {
         "lang": "en",
         "name": "European Souslik",
         "synonyms": [
-          "European Ground Squirrel",
-          ""
+          "European Ground Squirrel"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Ardilla terrestre"
+      },
+      {
+        "lang": "fr",
+        "name": "Souslik d'Europe",
+        "synonyms": [
+          "spermophile d'Europe"
         ]
       },
       {
@@ -158,8 +185,20 @@
         "name": "Közönséges ürge"
       },
       {
+        "lang": "it",
+        "name": "Citello comune"
+      },
+      {
+        "lang": "nl",
+        "name": "Europese grondeekhoorn"
+      },
+      {
         "lang": "pl",
         "name": "Suseł moręgowany"
+      },
+      {
+        "lang": "ro",
+        "name": "Popândău European"
       }
     ]
   },
@@ -176,8 +215,24 @@
     "scientific_name": "Spermophilus alashanicus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Alashan-Ziesel"
+      },
+      {
         "lang": "en",
         "name": "Alashan Ground Squirrel"
+      },
+      {
+        "lang": "es",
+        "name": "Ardilla terrestre de Alashan"
+      },
+      {
+        "lang": "fr",
+        "name": "Spermophile de l'Ala Shan"
+      },
+      {
+        "lang": "ja",
+        "name": "アラシャンハタリス"
       }
     ]
   }

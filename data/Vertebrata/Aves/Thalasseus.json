@@ -7,6 +7,10 @@
         "name": "Grootseeswael"
       },
       {
+        "lang": "an",
+        "name": "Falceta d'augua de pata negra"
+      },
+      {
         "lang": "ar",
         "name": "خرشنة الساندويش"
       },
@@ -470,42 +474,6 @@
     "scientific_name": "Thalasseus bernsteini",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Rybák čínský"
-      },
-      {
-        "lang": "de",
-        "name": "Bernsteinseeschwalbe"
-      },
-      {
-        "lang": "en",
-        "name": "Chinese Crested Tern"
-      },
-      {
-        "lang": "eo",
-        "name": "Ĉina ŝterno"
-      },
-      {
-        "lang": "es",
-        "name": "Charrán Chino"
-      },
-      {
-        "lang": "fi",
-        "name": "Filippiinientiira"
-      },
-      {
-        "lang": "fr",
-        "name": "Sterne d'Orient"
-      },
-      {
-        "lang": "hu",
-        "name": "Kínai üstököscsér"
-      },
-      {
-        "lang": "ms",
-        "name": "Burung Camar Cina Berjambul"
-      },
-      {
         "lang": "az",
         "name": "Çin kəkilli susüpürəni"
       },
@@ -522,32 +490,104 @@
         "name": "Háik-cuōi-duăng hông-tàu iéng-ĕu"
       },
       {
+        "lang": "cs",
+        "name": "Rybák čínský"
+      },
+      {
         "lang": "cy",
         "name": "Môr-wennol Tsieina"
+      },
+      {
+        "lang": "da",
+        "name": "Kinesisk Topterne"
+      },
+      {
+        "lang": "de",
+        "name": "Bernsteinseeschwalbe"
+      },
+      {
+        "lang": "en",
+        "name": "Chinese Crested Tern"
+      },
+      {
+        "lang": "eo",
+        "name": "Ĉina krestoŝterno"
+      },
+      {
+        "lang": "es",
+        "name": "Charrán chino"
+      },
+      {
+        "lang": "et",
+        "name": "Hiina tiir"
       },
       {
         "lang": "fa",
         "name": "پرستوی دریایی کاکلی چینی"
       },
       {
-        "lang": "nl",
-        "name": "Chinese kuifstern"
+        "lang": "fi",
+        "name": "Filippiinientiira"
       },
       {
-        "lang": "nv",
-        "name": "Náátsʼózídę́ę́ʼ tónteel táshchozhii tsiiyahwozhí"
+        "lang": "fr",
+        "name": "Sterne d'Orient"
+      },
+      {
+        "lang": "hu",
+        "name": "Kínai üstököscsér"
+      },
+      {
+        "lang": "it",
+        "name": "Sterna della Cina"
+      },
+      {
+        "lang": "ja",
+        "name": "ヒガシシナアジサシ"
+      },
+      {
+        "lang": "ko",
+        "name": "뿔제비갈매기"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Camar Cina Berjambul"
+      },
+      {
+        "lang": "nl",
+        "name": "Chinese Kuifstern"
+      },
+      {
+        "lang": "no",
+        "name": "Kinaterne"
       },
       {
         "lang": "pl",
         "name": "Rybitwa chińska"
       },
       {
+        "lang": "pt",
+        "name": "Trinta-réis-chinês-de-crista"
+      },
+      {
         "lang": "ru",
         "name": "Китайская крачка"
       },
       {
+        "lang": "sk",
+        "name": "Rybár strapatý"
+      },
+      {
         "lang": "sv",
-        "name": "mingtärna"
+        "name": "Mingtärna"
+      },
+      {
+        "lang": "th",
+        "name": "นกนางนวลแกลบจีน"
+      },
+      {
+        "lang": "uk",
+        "name": "Крячок китайський"
       },
       {
         "lang": "vi",
@@ -706,6 +746,10 @@
       {
         "lang": "af",
         "name": "Kuifkopsterretjie"
+      },
+      {
+        "lang": "an",
+        "name": "Falceta d'augua bengalina"
       },
       {
         "lang": "ar",

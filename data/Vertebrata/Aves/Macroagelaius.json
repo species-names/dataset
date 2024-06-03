@@ -20,7 +20,7 @@
       },
       {
         "lang": "es",
-        "name": "cocha de Soatá"
+        "name": "Chango colombiano"
       },
       {
         "lang": "fr",
@@ -54,6 +54,19 @@
   },
   {
     "scientific_name": "Macroagelaius imthurni",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-tufted Grackle"
+      },
+      {
+        "lang": "es",
+        "name": "Chango de tepuí"
+      },
+      {
+        "lang": "pt-br",
+        "name": "iraúna-da-guiana"
+      }
+    ]
   }
 ]

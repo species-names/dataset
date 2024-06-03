@@ -1,10 +1,46 @@
 [
   {
-    "scientific_name": "Euplectes psammocromius",
+    "scientific_name": "Euplectes psammacromius",
     "common_names": [
       {
+        "lang": "da",
+        "name": "Okkerskuldret Vidafinke"
+      },
+      {
+        "lang": "de",
+        "name": "Reichenowweber"
+      },
+      {
         "lang": "en",
-        "name": "Buff-shouldered Widowbird"
+        "name": "Montane Widowbird"
+      },
+      {
+        "lang": "es",
+        "name": "Obispo montano"
+      },
+      {
+        "lang": "fr",
+        "name": "Euplecte montagnard"
+      },
+      {
+        "lang": "it",
+        "name": "Vedova spallecamoscio"
+      },
+      {
+        "lang": "ja",
+        "name": "ミヤマキガタホウオウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Reichenows Widavink"
+      },
+      {
+        "lang": "no",
+        "name": "Svansvever"
+      },
+      {
+        "lang": "sv",
+        "name": "Bergvidafink"
       }
     ]
   },
@@ -104,31 +140,84 @@
     ]
   },
   {
-    "scientific_name": "Euplectes macrourus",
+    "scientific_name": "Euplectes macroura",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Geelrugflap"
+      },
+      {
+        "lang": "ca",
+        "name": "Bisbe de dors groc"
+      },
+      {
+        "lang": "cs",
+        "name": "Vida dlouhoocasá"
+      },
+      {
+        "lang": "da",
+        "name": "Gulrygget Vidafinke"
+      },
+      {
         "lang": "de",
-        "name": "Gelbschulterwida"
+        "name": "Gelbschulterweber"
       },
       {
         "lang": "en",
-        "name": "Yellow-shouldered Widowbird"
+        "name": "Yellow-mantled Widowbird"
       },
       {
         "lang": "es",
         "name": "Obispo dorsiamarillo"
       },
       {
+        "lang": "fi",
+        "name": "Keltaselkäpiispa"
+      },
+      {
         "lang": "fr",
         "name": "Euplecte à dos d'or"
+      },
+      {
+        "lang": "it",
+        "name": "Vedova spallegialle"
+      },
+      {
+        "lang": "ja",
+        "name": "キガタホウオウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelrugwidavink"
+      },
+      {
+        "lang": "no",
+        "name": "Gulkappevever"
       },
       {
         "lang": "pt",
         "name": "Viúva-de-manto-amarelo"
       },
       {
+        "lang": "ru",
+        "name": "Желтоплечий бархатный ткач"
+      },
+      {
         "lang": "sv",
         "name": "Gulryggig vidafink"
+      },
+      {
+        "lang": "uk",
+        "name": "Вайдаг жовтоплечий"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Euplectes laticauda",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-cowled Widowbird"
       }
     ]
   },
@@ -196,12 +285,104 @@
     "scientific_name": "Euplectes franciscanus",
     "common_names": [
       {
+        "lang": "bg",
+        "name": "Оранжев тъкач"
+      },
+      {
+        "lang": "ca",
+        "name": "Bisbe vermell septentrional"
+      },
+      {
+        "lang": "cs",
+        "name": "Snovač oranžový"
+      },
+      {
+        "lang": "da",
+        "name": "Sortisset Orangevæver"
+      },
+      {
+        "lang": "de",
+        "name": "Feuerweber"
+      },
+      {
         "lang": "en",
-        "name": "Orange Bishop"
+        "name": "Northern Red Bishop"
       },
       {
         "lang": "es",
         "name": "Obispo anaranjado"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ کشیش سرخ شمالی"
+      },
+      {
+        "lang": "fi",
+        "name": "Punaperäpiispa"
+      },
+      {
+        "lang": "fr",
+        "name": "Euplecte franciscain"
+      },
+      {
+        "lang": "he",
+        "name": "בישוף אדום צפוני"
+      },
+      {
+        "lang": "hr",
+        "name": "Crvenoleđa pletilja"
+      },
+      {
+        "lang": "hu",
+        "name": "Narancsszínű szövőmadár"
+      },
+      {
+        "lang": "it",
+        "name": "Vescovo arancio"
+      },
+      {
+        "lang": "ja",
+        "name": "キタキンランチョウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Oranžinis aksominis audėjas"
+      },
+      {
+        "lang": "nl",
+        "name": "Oranje Wever"
+      },
+      {
+        "lang": "no",
+        "name": "Svarthettebisp"
+      },
+      {
+        "lang": "pl",
+        "name": "Wikłacz płomienisty"
+      },
+      {
+        "lang": "pnb",
+        "name": "کھٹا بشپ"
+      },
+      {
+        "lang": "pt",
+        "name": "Cardeal-laranja"
+      },
+      {
+        "lang": "ru",
+        "name": "Западноафриканский огненный бархатный ткач"
+      },
+      {
+        "lang": "sk",
+        "name": "Tkáčik pestrý"
+      },
+      {
+        "lang": "sv",
+        "name": "Svartpannad eldvävare"
+      },
+      {
+        "lang": "uk",
+        "name": "Вайдаг червоний"
       }
     ]
   },
@@ -209,8 +390,92 @@
     "scientific_name": "Euplectes diadematus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Bisbe de front vermell"
+      },
+      {
+        "lang": "cs",
+        "name": "Snovač diamantový"
+      },
+      {
+        "lang": "da",
+        "name": "Diademildvæver"
+      },
+      {
+        "lang": "de",
+        "name": "Diademweber"
+      },
+      {
         "lang": "en",
         "name": "Fire-fronted Bishop"
+      },
+      {
+        "lang": "es",
+        "name": "Obispo diademado"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ کشیش پیشانی‌آتشی"
+      },
+      {
+        "lang": "fi",
+        "name": "Kekälepiispa"
+      },
+      {
+        "lang": "fr",
+        "name": "Euplecte à diadème"
+      },
+      {
+        "lang": "hu",
+        "name": "Tüzeshomlokú özvegypinty"
+      },
+      {
+        "lang": "it",
+        "name": "Vescovo fronteflammea"
+      },
+      {
+        "lang": "ja",
+        "name": "ベニヒタイオウゴンチョウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Raudonkaktis aksominis audėjas"
+      },
+      {
+        "lang": "nl",
+        "name": "Diadeemwever"
+      },
+      {
+        "lang": "no",
+        "name": "Diadembisp"
+      },
+      {
+        "lang": "pl",
+        "name": "Wikłacz diademowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Bispo-de-fronte-de-fogo"
+      },
+      {
+        "lang": "ru",
+        "name": "Диадемовый бархатный ткач"
+      },
+      {
+        "lang": "sk",
+        "name": "Tkáčik diadémový"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödpannad eldvävare"
+      },
+      {
+        "lang": "uk",
+        "name": "Вайдаг діадемовий"
+      },
+      {
+        "lang": "vi",
+        "name": "Giáo sĩ ngực lửa"
       }
     ]
   },
@@ -218,8 +483,56 @@
     "scientific_name": "Euplectes capensis",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Kaapse Flap"
+      },
+      {
+        "lang": "da",
+        "name": "Fløjlsvæver"
+      },
+      {
+        "lang": "de",
+        "name": "Samtweber"
+      },
+      {
         "lang": "en",
         "name": "Yellow Bishop"
+      },
+      {
+        "lang": "es",
+        "name": "Obispo culigualdo"
+      },
+      {
+        "lang": "fr",
+        "name": "Euplecte à croupion jaune"
+      },
+      {
+        "lang": "it",
+        "name": "Vescovo giallo"
+      },
+      {
+        "lang": "ja",
+        "name": "キゴシオウゴンチョウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Fluweelwidavink"
+      },
+      {
+        "lang": "no",
+        "name": "Gulgumpbisp"
+      },
+      {
+        "lang": "ru",
+        "name": "Толстоклювый бархатный ткач"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulgumpad eldvävare"
+      },
+      {
+        "lang": "uk",
+        "name": "Вайдаг товстодзьобий"
       }
     ]
   },
@@ -245,8 +558,100 @@
     "scientific_name": "Euplectes ardens",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Rooikeelflap"
+      },
+      {
+        "lang": "bg",
+        "name": "Червеногуша вдовица"
+      },
+      {
+        "lang": "ca",
+        "name": "Bisbe de collar"
+      },
+      {
+        "lang": "cs",
+        "name": "Vida límcová"
+      },
+      {
+        "lang": "cy",
+        "name": "Gweddw dorchgoch"
+      },
+      {
+        "lang": "da",
+        "name": "Rødhalset Vidafinke"
+      },
+      {
+        "lang": "de",
+        "name": "Schildweber"
+      },
+      {
         "lang": "en",
         "name": "Red-collared Widowbird"
+      },
+      {
+        "lang": "es",
+        "name": "Obispo acollarado"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ بیوه طوق‌سرخ"
+      },
+      {
+        "lang": "fi",
+        "name": "Punakauluspiispa"
+      },
+      {
+        "lang": "fr",
+        "name": "Euplecte veuve-noire"
+      },
+      {
+        "lang": "hu",
+        "name": "Galléros özvegypinty"
+      },
+      {
+        "lang": "it",
+        "name": "Vedova dal collare"
+      },
+      {
+        "lang": "ja",
+        "name": "アカエリホウオウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Raudongurklis aksominis audėjas"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodkeelwidavink"
+      },
+      {
+        "lang": "no",
+        "name": "Rødkragevever"
+      },
+      {
+        "lang": "pl",
+        "name": "Wikłacz półobrożny"
+      },
+      {
+        "lang": "pt",
+        "name": "Viúva-de-gola-vermelha"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснозобый бархатный ткач"
+      },
+      {
+        "lang": "sk",
+        "name": "Tkáčik červenoštíty"
+      },
+      {
+        "lang": "sv",
+        "name": "Rödhalsad vidafink"
+      },
+      {
+        "lang": "uk",
+        "name": "Вайдаг великий"
       }
     ]
   },
@@ -263,23 +668,104 @@
     "scientific_name": "Euplectes afer",
     "common_names": [
       {
+        "lang": "af",
+        "name": "Goudgeelvink"
+      },
+      {
+        "lang": "am",
+        "name": "የመስቀል ወፍ"
+      },
+      {
+        "lang": "an",
+        "name": "Bispe amariello"
+      },
+      {
+        "lang": "ca",
+        "name": "Bisbe groc"
+      },
+      {
+        "lang": "cs",
+        "name": "Snovač Napoleonův"
+      },
+      {
+        "lang": "cy",
+        "name": "Esgob euraid"
+      },
+      {
+        "lang": "da",
+        "name": "Napoleons-væver"
+      },
+      {
+        "lang": "de",
+        "name": "Tahaweber"
+      },
+      {
         "lang": "en",
-        "name": "Yellow-crowned bishop"
+        "name": "Yellow-crowned Bishop"
+      },
+      {
+        "lang": "es",
+        "name": "Obispo coronigualdo"
+      },
+      {
+        "lang": "et",
+        "name": "Väike-kangurlind"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ کشیش تاج‌زرد"
+      },
+      {
+        "lang": "fi",
+        "name": "Kultapiispa"
       },
       {
         "lang": "fr",
         "name": "Euplecte vorabé"
       },
       {
+        "lang": "hu",
+        "name": "Napóleon-szövőmadár"
+      },
+      {
         "lang": "it",
-        "name": "Vescovo dorato",
-        "synonyms": [
-          "napoleone"
-        ]
+        "name": "Vescovo dorato"
+      },
+      {
+        "lang": "ja",
+        "name": "オウゴンチョウ"
+      },
+      {
+        "lang": "nl",
+        "name": "Napoleonwever"
+      },
+      {
+        "lang": "no",
+        "name": "Gulkronebisp"
+      },
+      {
+        "lang": "pl",
+        "name": "Wikłacz słoneczny"
       },
       {
         "lang": "pt",
-        "name": "Cardeal-tecelão-amarelo"
+        "name": "Arcebispo"
+      },
+      {
+        "lang": "ru",
+        "name": "Наполеонов бархатный ткач"
+      },
+      {
+        "lang": "sk",
+        "name": "Tkáčik nomádsky"
+      },
+      {
+        "lang": "sv",
+        "name": "Gulkronad eldvävare"
+      },
+      {
+        "lang": "uk",
+        "name": "Вайдаг золотистий"
       }
     ]
   }

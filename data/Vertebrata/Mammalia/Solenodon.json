@@ -4,14 +4,11 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Hispaniolan solenodon"
+        "name": "Hispaniolan Solenodon"
       },
       {
         "lang": "hu",
-        "name": "Haiti patkányvakond",
-        "synonyms": [
-          "hispaniolai patkányvakond"
-        ]
+        "name": "hispaniolai patkányvakond"
       },
       {
         "lang": "pl",
@@ -25,30 +22,6 @@
       {
         "lang": "en",
         "name": "Marcano's Solenodon"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Solenodon cubanus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Cuban Solenodon"
-      },
-      {
-        "lang": "es",
-        "name": "Almiquí cubano"
-      },
-      {
-        "lang": "hu",
-        "name": "Kubai patkányvakond",
-        "synonyms": [
-          "almiquí"
-        ]
-      },
-      {
-        "lang": "pl",
-        "name": "Almik kubański"
       }
     ]
   },

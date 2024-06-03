@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Anas theodori",
-    "common_names": []
-  },
-  {
     "scientific_name": "Anas zonorhyncha",
     "common_names": [
       {
@@ -165,6 +161,10 @@
         "name": "Keltanokkasorsa"
       }
     ]
+  },
+  {
+    "scientific_name": "Anas theodori",
+    "common_names": []
   },
   {
     "scientific_name": "Anas superciliosa",
@@ -332,6 +332,10 @@
     "scientific_name": "Anas rubripes",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Aneda negrenca"
+      },
+      {
         "lang": "ar",
         "name": "بطة سوداء أمريكية"
       },
@@ -473,52 +477,156 @@
     "scientific_name": "Anas poecilorhyncha",
     "common_names": [
       {
+        "lang": "as",
+        "name": "বৰমূগী হাঁহ"
+      },
+      {
+        "lang": "bn",
+        "name": "দেশি মেটেহাঁস"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec becpintat de l'Índia"
+      },
+      {
+        "lang": "ce",
+        "name": "Ӏаьржа акха бад"
+      },
+      {
         "lang": "cs",
         "name": "Kachna skvrnozobá"
       },
       {
+        "lang": "cy",
+        "name": "Hwyaden bigfannog"
+      },
+      {
+        "lang": "da",
+        "name": "Pletnæbbet And"
+      },
+      {
         "lang": "de",
-        "name": "Fleckschnabelente"
+        "name": "Indien-Fleckschnabelente"
       },
       {
         "lang": "en",
         "name": "Indian Spot-billed Duck"
       },
       {
+        "lang": "eo",
+        "name": "Punktobeka anaso"
+      },
+      {
         "lang": "es",
         "name": "Ánade picopinto"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغابی نوک‌خالدار"
+      },
+      {
+        "lang": "fi",
+        "name": "Täplänokkasorsa"
       },
       {
         "lang": "fr",
         "name": "Canard à bec tacheté"
       },
       {
+        "lang": "ga",
+        "name": "Lacha spotghobach"
+      },
+      {
+        "lang": "he",
+        "name": "ברווז מוכתם-מקור"
+      },
+      {
+        "lang": "hi",
+        "name": "गुगरल"
+      },
+      {
+        "lang": "hu",
+        "name": "Foltoscsőrű réce"
+      },
+      {
+        "lang": "it",
+        "name": "Germano beccomacchiato"
+      },
+      {
         "lang": "ja",
-        "name": "カルガモ"
+        "name": "アカボシカルガモ"
       },
       {
         "lang": "ko",
         "name": "흰뺨검둥오리"
       },
       {
+        "lang": "ml",
+        "name": "പുള്ളിച്ചുണ്ടൻ താറാവ്"
+      },
+      {
+        "lang": "mn",
+        "name": "Зэрлэгшир нугас"
+      },
+      {
+        "lang": "mr",
+        "name": "हळदी कुंकू"
+      },
+      {
+        "lang": "my",
+        "name": "ဝမ်းဘဲ"
+      },
+      {
+        "lang": "nds",
+        "name": "Placksnavelaante"
+      },
+      {
+        "lang": "ne",
+        "name": "नादुन हाँस"
+      },
+      {
         "lang": "nl",
-        "name": "Vlekbekeend"
+        "name": "Indische Vlekbekeend"
       },
       {
         "lang": "no",
         "name": "Flekknebband"
       },
       {
+        "lang": "or",
+        "name": "ବଣ ହଂସ"
+      },
+      {
+        "lang": "pl",
+        "name": "Kaczka pstrodzioba"
+      },
+      {
+        "lang": "pnb",
+        "name": "تبیاں آلی چنج آلی بطخ"
+      },
+      {
         "lang": "ru",
-        "name": "Черная кряква"
+        "name": "Пестроносая кряква"
+      },
+      {
+        "lang": "sv",
+        "name": "Indisk fläcknäbband"
+      },
+      {
+        "lang": "ta",
+        "name": "புள்ளி மூக்கு வாத்து"
+      },
+      {
+        "lang": "th",
+        "name": "เป็ดเทาพันธุ์อินเดีย"
+      },
+      {
+        "lang": "vi",
+        "name": "Vịt mỏ đốm"
       },
       {
         "lang": "zh",
         "name": "斑嘴鸭"
-      },
-      {
-        "lang": "ta",
-        "name": "புள்ளி மூக்கு தாரா"
       }
     ]
   },
@@ -642,6 +750,10 @@
         "name": "Πρασινοκέφαλη"
       },
       {
+        "lang": "ee",
+        "name": "Kpakpa"
+      },
+      {
         "lang": "en",
         "name": "Mallard"
       },
@@ -716,6 +828,10 @@
       {
         "lang": "he",
         "name": "ברכייה"
+      },
+      {
+        "lang": "hi",
+        "name": "नीलसर या जंगली बत्तख"
       },
       {
         "lang": "hr",
@@ -1096,6 +1212,10 @@
       {
         "lang": "zh-yue",
         "name": "野水鴨"
+      },
+      {
+        "lang": "or",
+        "name": "ରାଜ ଗେଣ୍ଡି"
       }
     ]
   },
@@ -1277,6 +1397,14 @@
         "name": "Kachna filipínská"
       },
       {
+        "lang": "da",
+        "name": "Filippinsk And"
+      },
+      {
+        "lang": "de",
+        "name": "Philippinenente"
+      },
+      {
         "lang": "en",
         "name": "Philippine Duck"
       },
@@ -1285,12 +1413,16 @@
         "name": "Ánade filipino"
       },
       {
+        "lang": "et",
+        "name": "Filipiini part"
+      },
+      {
         "lang": "fr",
         "name": "Canard des Philippines"
       },
       {
         "lang": "it",
-        "name": "Anatra delle Filippine"
+        "name": "Germano delle Filippine"
       },
       {
         "lang": "ja",
@@ -1298,11 +1430,15 @@
       },
       {
         "lang": "nl",
-        "name": "Filipijnse eend"
+        "name": "Filipijnse Eend"
       },
       {
         "lang": "no",
         "name": "Filippinerand"
+      },
+      {
+        "lang": "ru",
+        "name": "Филиппинская кряква"
       },
       {
         "lang": "zh",
@@ -1743,6 +1879,10 @@
     "scientific_name": "Anas crecca",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Gavacheta"
+      },
+      {
         "lang": "ar",
         "name": "الحذف الشتوي"
       },
@@ -1761,6 +1901,10 @@
       {
         "lang": "bg",
         "name": "Зимно бърне"
+      },
+      {
+        "lang": "bn",
+        "name": "পাতি তিলিহাঁস"
       },
       {
         "lang": "br",
@@ -2328,6 +2472,10 @@
     "scientific_name": "Anas bahamensis",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Aneda de Bahamas"
+      },
+      {
         "lang": "da",
         "name": "Hvidkindet spidsand"
       },
@@ -2435,6 +2583,10 @@
         "name": "Cerceta de Andamán"
       },
       {
+        "lang": "eo",
+        "name": "Andamana kreko"
+      },
+      {
         "lang": "fr",
         "name": "Sarcelle des Andaman"
       },
@@ -2468,6 +2620,10 @@
         "name": "Pylsterteend"
       },
       {
+        "lang": "an",
+        "name": "Collilargo"
+      },
+      {
         "lang": "ar",
         "name": "البلبول الشائع البط"
       },
@@ -2490,6 +2646,10 @@
       {
         "lang": "bg",
         "name": "Шилоопашата патица"
+      },
+      {
+        "lang": "bn",
+        "name": "উত্তুরে ল্যাঞ্জাহাঁস"
       },
       {
         "lang": "br",
@@ -2838,6 +2998,10 @@
       {
         "lang": "zh",
         "name": "针尾鸭"
+      },
+      {
+        "lang": "or",
+        "name": "ଲଞ୍ଜା ଗେଣ୍ଡି"
       }
     ]
   }

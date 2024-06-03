@@ -1,10 +1,27 @@
 [
   {
+    "scientific_name": "Hemixos leucogrammicus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Hemixos flavala",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "ছাইরঙা বুলবুল"
+      },
+      {
         "lang": "en",
         "name": "Ashy Bulbul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hemixos cinereus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cinereous Bulbul"
       }
     ]
   },

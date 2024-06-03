@@ -4,10 +4,7 @@
     "common_names": [
       {
         "lang": "es",
-        "name": "Semillero negruzco",
-        "synonyms": [
-          "Reinamora enana"
-        ]
+        "name": "Semillero negruzco"
       },
       {
         "lang": "en",
@@ -58,6 +55,19 @@
       {
         "lang": "es",
         "name": "Semillero del carrizal"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Amaurospiza aequatorialis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ecuadorian Seedeater"
+      },
+      {
+        "lang": "es",
+        "name": "Semillero ecuatoriano"
       }
     ]
   }

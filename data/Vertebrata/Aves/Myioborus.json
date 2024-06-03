@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Myioborus miniatus verticalis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Myioborus torquatus",
     "common_names": [
       {
@@ -68,14 +72,35 @@
   },
   {
     "scientific_name": "Myioborus ornatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-fronted Redstart"
+      },
+      {
+        "lang": "es",
+        "name": "Candelita adornada"
+      }
+    ]
   },
   {
     "scientific_name": "Myioborus miniatus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "حميراء بيضاء أردوازية الحلق"
+      },
+      {
+        "lang": "arz",
+        "name": "حميراء بيضاء اردوازية الحلق"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček pestrý"
+        "name": "Lesňáček pestrý"
+      },
+      {
+        "lang": "cy",
+        "name": "Tinwen yddfddu"
       },
       {
         "lang": "da",
@@ -83,14 +108,19 @@
       },
       {
         "lang": "de",
-        "name": "Larven-Waldsänger"
+        "name": "Larvenwaldsänger"
       },
       {
         "lang": "en",
-        "name": "Slate-throated Whitestart",
-        "synonyms": [
-          "Slate-throated Redstart"
-        ]
+        "name": "Slate-throated Whitestart"
+      },
+      {
+        "lang": "en-us",
+        "name": "Slate-throated Redstart"
+      },
+      {
+        "lang": "eo",
+        "name": "Ardezparulio"
       },
       {
         "lang": "es",
@@ -98,11 +128,11 @@
       },
       {
         "lang": "et",
-        "name": "tanu-mägisäälik"
+        "name": "Tanu-mägisäälik"
       },
       {
         "lang": "fi",
-        "name": "huppuviuhkakerttuli"
+        "name": "Huppuviuhkakerttuli"
       },
       {
         "lang": "fr",
@@ -110,14 +140,11 @@
       },
       {
         "lang": "it",
-        "name": "Parula pigliamosche gola ardesia"
+        "name": "Codirosso golardesia"
       },
       {
         "lang": "ja",
-        "name": "ベニイタダキアメリカムシクイ",
-        "synonyms": [
-          "beniitadakiamerikamushikui"
-        ]
+        "name": "ベニイタダキアメリカムシクイ"
       },
       {
         "lang": "nl",
@@ -128,28 +155,36 @@
         "name": "Skiferhvitstjert"
       },
       {
-        "lang": "pl",
-        "name": "pleszówka ciemnoglowa"
+        "lang": "nv",
+        "name": "Tseeyaałgaii bizééʼ halbáhígíí"
       },
       {
-        "lang": "pt-br",
-        "name": "Mariquita-cinza"
+        "lang": "pl",
+        "name": "Pleszówka ciemnoglowa"
       },
       {
         "lang": "pt",
         "name": "Mariquita-cinza"
       },
       {
+        "lang": "pt-br",
+        "name": "Mariquita-cinza"
+      },
+      {
         "lang": "ru",
-        "name": "Малый горихвостковый певун"
+        "name": "Красно-чёрный горихвостковый певун"
       },
       {
         "lang": "sk",
-        "name": "horárik bridlicový"
+        "name": "Horárik bridlicový"
       },
       {
         "lang": "sv",
         "name": "Skiffervitstjärt"
+      },
+      {
+        "lang": "uk",
+        "name": "Чернітка чорногорла"
       },
       {
         "lang": "zh",
@@ -163,12 +198,20 @@
       {
         "lang": "en",
         "name": "Spectacled Redstart"
+      },
+      {
+        "lang": "es",
+        "name": "Candelita de anteojos"
       }
     ]
   },
   {
     "scientific_name": "Myioborus flavivertex",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Salvin-Waldsänger"
+      },
       {
         "lang": "en",
         "name": "Yellow-crowned Whitestart"
@@ -180,20 +223,55 @@
       {
         "lang": "fr",
         "name": "Paruline à cimier jaune"
+      },
+      {
+        "lang": "nl",
+        "name": "Geelkruinzanger"
       }
     ]
   },
   {
-    "scientific_name": "Myioborus castaneocapillus",
-    "common_names": []
+    "scientific_name": "Myioborus castaneocapilla",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tepui Whitestart"
+      },
+      {
+        "lang": "es",
+        "name": "Candelita de tepui"
+      },
+      {
+        "lang": "pt",
+        "name": "Mariquita-de-cabeça-parda"
+      }
+    ]
   },
   {
     "scientific_name": "Myioborus cardonai",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Saffron-breasted Redstart"
+      },
+      {
+        "lang": "es",
+        "name": "Candelita de Cardona"
+      }
+    ]
   },
   {
     "scientific_name": "Myioborus brunniceps",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Brown-capped Redstart"
+      },
+      {
+        "lang": "es",
+        "name": "Candelita coronicastaña"
+      }
+    ]
   },
   {
     "scientific_name": "Myioborus albifrons",
@@ -201,6 +279,10 @@
       {
         "lang": "es",
         "name": "Candelita frentiblanca"
+      },
+      {
+        "lang": "en",
+        "name": "White-fronted Redstart"
       }
     ]
   },
@@ -210,6 +292,10 @@
       {
         "lang": "es",
         "name": "Candelita cariblanca"
+      },
+      {
+        "lang": "en",
+        "name": "White-faced Redstart"
       }
     ]
   }

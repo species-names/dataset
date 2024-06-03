@@ -208,6 +208,19 @@
     ]
   },
   {
+    "scientific_name": "Coeligena inca",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Gould's Inca"
+      },
+      {
+        "lang": "es",
+        "name": "Inca de Gould"
+      }
+    ]
+  },
+  {
     "scientific_name": "Coeligena helianthea",
     "common_names": [
       {
@@ -221,6 +234,45 @@
       {
         "lang": "es",
         "name": "Inca ventrivioleta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena eos",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-tailed Starfrontlet"
+      },
+      {
+        "lang": "es",
+        "name": "Inca alirrufo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena consita",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Perija Starfrontlet"
+      },
+      {
+        "lang": "es",
+        "name": "Inca de Perijá"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Coeligena conradii",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Green Inca"
+      },
+      {
+        "lang": "es",
+        "name": "Inca verde"
       }
     ]
   },

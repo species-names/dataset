@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Otus bikegila",
-    "common_names": []
-  },
-  {
     "scientific_name": "Otus umbra",
     "common_names": [
       {
@@ -16,7 +12,7 @@
       },
       {
         "lang": "de",
-        "name": "Simalureule"
+        "name": "Simeulue-Zwergohreule"
       },
       {
         "lang": "en",
@@ -136,6 +132,10 @@
     "scientific_name": "Otus tempestatis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Wetar-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Wetar Scops-Owl"
       }
@@ -151,6 +151,10 @@
       {
         "lang": "ca",
         "name": "Xot oriental"
+      },
+      {
+        "lang": "de",
+        "name": "Orient-Zwergohreule"
       },
       {
         "lang": "en",
@@ -215,6 +219,10 @@
         "name": "Výreček skvrnitý"
       },
       {
+        "lang": "de",
+        "name": "Gefleckte Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Mountain Scops Owl"
       },
@@ -260,8 +268,16 @@
     "scientific_name": "Otus socotranus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Sokotra-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Socotra Scops-Owl"
+      },
+      {
+        "lang": "nl",
+        "name": "Socotradwergooruil"
       }
     ]
   },
@@ -273,12 +289,20 @@
         "name": "Výreček lesní"
       },
       {
+        "lang": "de",
+        "name": "Wallace-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Wallace's Scops-Owl"
       },
       {
         "lang": "es",
         "name": "Autillo de Wallace"
+      },
+      {
+        "lang": "nl",
+        "name": "Wallace' dwergooruil"
       }
     ]
   },
@@ -331,6 +355,10 @@
         "name": "Výreček africký"
       },
       {
+        "lang": "de",
+        "name": "Afrika-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "African Scops Owl"
       },
@@ -339,12 +367,12 @@
         "name": "Autillo africano"
       },
       {
-        "lang": "pt",
-        "name": "Mocho-de-orelhas-africano"
-      },
-      {
         "lang": "nl",
         "name": "Afrikaanse dwergooruil"
+      },
+      {
+        "lang": "pt",
+        "name": "Mocho-de-orelhas-africano"
       }
     ]
   },
@@ -358,6 +386,10 @@
       {
         "lang": "cs",
         "name": "Výreček japonský"
+      },
+      {
+        "lang": "de",
+        "name": "Japan-Zwergohreule"
       },
       {
         "lang": "en",
@@ -381,6 +413,10 @@
     "scientific_name": "Otus scops",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Cholibeta"
+      },
+      {
         "lang": "be",
         "name": "Сплюшка звычайная"
       },
@@ -398,7 +434,7 @@
       },
       {
         "lang": "de",
-        "name": "Zwergohreule (Art)"
+        "name": "Zwergohreule"
       },
       {
         "lang": "el",
@@ -409,11 +445,7 @@
       },
       {
         "lang": "en",
-        "name": "Scops Owl",
-        "synonyms": [
-          "European Scops-Owl",
-          "Common Scops-Owl"
-        ]
+        "name": "Eurasian Scops-Owl"
       },
       {
         "lang": "eo",
@@ -453,7 +485,7 @@
       },
       {
         "lang": "ja",
-        "name": "コノハズク"
+        "name": "ヨーロッパコノハズク"
       },
       {
         "lang": "ko",
@@ -535,7 +567,7 @@
       },
       {
         "lang": "de",
-        "name": "Weißstirneule"
+        "name": "Weißstirn-Zwergohreule"
       },
       {
         "lang": "en",
@@ -664,6 +696,10 @@
         "name": "Výreček červenavý"
       },
       {
+        "lang": "de",
+        "name": "Rötliche Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Reddish Scops Owl"
       },
@@ -716,6 +752,10 @@
       {
         "lang": "cs",
         "name": "Výreček pembský"
+      },
+      {
+        "lang": "de",
+        "name": "Pemba-Zwergohreule"
       },
       {
         "lang": "en",
@@ -780,8 +820,20 @@
     "scientific_name": "Otus pamelae",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Arabien-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Arabian Scops-Owl"
+      },
+      {
+        "lang": "es",
+        "name": "autillo árabe"
+      },
+      {
+        "lang": "nl",
+        "name": "Arabische dwergooruil"
       }
     ]
   },
@@ -913,6 +965,10 @@
         "name": "Výreček mindorský"
       },
       {
+        "lang": "de",
+        "name": "Mindoro-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Mindoro Scops-owl"
       },
@@ -946,12 +1002,24 @@
         "name": "Výreček siporský"
       },
       {
+        "lang": "de",
+        "name": "Mentawai-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Mentawai Scops-Owl"
       },
       {
         "lang": "es",
         "name": "Autillo de las Mentawai"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc des Mentawai"
+      },
+      {
+        "lang": "nl",
+        "name": "Siporadwergooruil"
       }
     ]
   },
@@ -974,6 +1042,10 @@
       {
         "lang": "cs",
         "name": "Výreček filipínský"
+      },
+      {
+        "lang": "de",
+        "name": "Philippinen-Halsbandeule"
       },
       {
         "lang": "en",
@@ -1075,6 +1147,10 @@
         "name": "Výreček jihofilipínský"
       },
       {
+        "lang": "de",
+        "name": "Philippinen-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Sula Scops Owl"
       },
@@ -1112,12 +1188,24 @@
         "name": "Výreček celebeský"
       },
       {
+        "lang": "de",
+        "name": "Manado-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Sulawesi Scops Owl"
       },
       {
         "lang": "es",
         "name": "Autillo de Célebes"
+      },
+      {
+        "lang": "nl",
+        "name": "Sulawesi-dwergooruil"
+      },
+      {
+        "lang": "sv",
+        "name": "Sulawesidvärguv"
       }
     ]
   },
@@ -1131,6 +1219,10 @@
       {
         "lang": "cs",
         "name": "Výreček molucký"
+      },
+      {
+        "lang": "de",
+        "name": "Molukken-Zwergohreule"
       },
       {
         "lang": "en",
@@ -1212,7 +1304,7 @@
       },
       {
         "lang": "de",
-        "name": "Luzoneule"
+        "name": "Luzon-Zwergohreule"
       },
       {
         "lang": "en",
@@ -1292,6 +1384,10 @@
         "name": "Výreček čínský"
       },
       {
+        "lang": "de",
+        "name": "Halsband-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Collared Scops Owl"
       },
@@ -1363,6 +1459,10 @@
       {
         "lang": "cs",
         "name": "Výreček sundský"
+      },
+      {
+        "lang": "de",
+        "name": "Sunda-Zwergohreule"
       },
       {
         "lang": "en",
@@ -1449,6 +1549,10 @@
       {
         "lang": "cs",
         "name": "Výreček Irenin"
+      },
+      {
+        "lang": "de",
+        "name": "Sokoke-Zwergohreule"
       },
       {
         "lang": "en",
@@ -1549,6 +1653,10 @@
         "name": "Výreček skořicový"
       },
       {
+        "lang": "de",
+        "name": "Gelbschnabel-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Sandy Scops Owl"
       },
@@ -1584,6 +1692,10 @@
       {
         "lang": "cs",
         "name": "Výreček Hartlaubův"
+      },
+      {
+        "lang": "de",
+        "name": "Hartlaub-Zwergohreule"
       },
       {
         "lang": "en",
@@ -1649,6 +1761,10 @@
         "name": "Výreček palawanský"
       },
       {
+        "lang": "de",
+        "name": "Palawan-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Palawan Scops Owl"
       },
@@ -1696,15 +1812,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Annobón scops owl"
+        "name": "Annobón Scops Owl"
       },
       {
         "lang": "ca",
-        "name": "xot de Pagalu"
+        "name": "Xot de Pagalu"
       },
       {
         "lang": "sv",
-        "name": "annobóndvärguv"
+        "name": "Annobóndvärguv"
       }
     ]
   },
@@ -1725,6 +1841,10 @@
         "name": "Výreček engganský"
       },
       {
+        "lang": "de",
+        "name": "Enggano-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Enggano Scops-Owl"
       },
@@ -1740,6 +1860,10 @@
       {
         "lang": "cs",
         "name": "Výreček rjúkjúský"
+      },
+      {
+        "lang": "de",
+        "name": "Schmuck-Zwergohreule"
       },
       {
         "lang": "en",
@@ -1770,6 +1894,10 @@
         "name": "Ryukyuugle"
       },
       {
+        "lang": "pt",
+        "name": "Otus elegans"
+      },
+      {
         "lang": "sv",
         "name": "Ryukyudvärguv"
       },
@@ -1783,8 +1911,16 @@
     "scientific_name": "Otus cyprius",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Zypern-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Cyprus Scops-Owl"
+      },
+      {
+        "lang": "nl",
+        "name": "Cyprusdwergooruil"
       }
     ]
   },
@@ -1794,6 +1930,10 @@
       {
         "lang": "cs",
         "name": "Výreček sangiheský"
+      },
+      {
+        "lang": "de",
+        "name": "Sangihe-Zwergohreule"
       },
       {
         "lang": "es",
@@ -1939,6 +2079,10 @@
         "name": "Výreček Brookeův"
       },
       {
+        "lang": "de",
+        "name": "Radscha-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Rajah Scops Owl"
       },
@@ -1973,11 +2117,40 @@
     ]
   },
   {
+    "scientific_name": "Otus bikegila",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Príncipe-Zwergohreule"
+      },
+      {
+        "lang": "en",
+        "name": "Principe scops owl"
+      },
+      {
+        "lang": "fr",
+        "name": "Petit-duc de Principe"
+      }
+    ]
+  },
+  {
     "scientific_name": "Otus beccarii",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Xot de Biak"
+      },
+      {
         "lang": "cs",
         "name": "Výreček Beccariův"
+      },
+      {
+        "lang": "cy",
+        "name": "Tylluan sgops Biak"
+      },
+      {
+        "lang": "de",
+        "name": "Beccari-Zwergohreule"
       },
       {
         "lang": "en",
@@ -1986,14 +2159,6 @@
       {
         "lang": "es",
         "name": "Autillo de Biak"
-      },
-      {
-        "lang": "ca",
-        "name": "Xot de Biak"
-      },
-      {
-        "lang": "cy",
-        "name": "Tylluan sgops Biak"
       },
       {
         "lang": "fi",
@@ -2025,6 +2190,10 @@
         "name": "Výreček andamanský"
       },
       {
+        "lang": "de",
+        "name": "Andamanen-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Andaman Scops Owl"
       },
@@ -2046,6 +2215,10 @@
         "name": "Výreček indický"
       },
       {
+        "lang": "de",
+        "name": "Hindu-Halsbandeule"
+      },
+      {
         "lang": "en",
         "name": "Indian Scops Owl"
       },
@@ -2064,6 +2237,10 @@
       {
         "lang": "fi",
         "name": "Sepelpöllönen"
+      },
+      {
+        "lang": "fr",
+        "name": "Otus bakkamoena"
       },
       {
         "lang": "id",
@@ -2107,12 +2284,20 @@
         "name": "Výreček jávský"
       },
       {
+        "lang": "de",
+        "name": "Angelina-Zwergohreule"
+      },
+      {
         "lang": "en",
         "name": "Javan Scops Owl"
       },
       {
         "lang": "es",
         "name": "Autillo de Java"
+      },
+      {
+        "lang": "nl",
+        "name": "Angelinadwergooruil"
       }
     ]
   },
@@ -2120,8 +2305,16 @@
     "scientific_name": "Otus alius",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "নিকোবর স্কোপ্স পেঁচা"
+      },
+      {
         "lang": "cs",
         "name": "Výreček nikobarský"
+      },
+      {
+        "lang": "de",
+        "name": "Nikobaren-Zwergohreule"
       },
       {
         "lang": "es",
@@ -2130,6 +2323,10 @@
       {
         "lang": "hu",
         "name": "Nikobár-szigeteki füleskuvik"
+      },
+      {
+        "lang": "nl",
+        "name": "Nicobarendwergooruil"
       }
     ]
   },

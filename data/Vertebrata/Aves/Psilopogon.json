@@ -1,14 +1,6 @@
 [
   {
-    "scientific_name": "Psilopogon malabaricus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Psilopogon faber",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Psilopogon duvaucelii",
     "common_names": []
   },
   {
@@ -239,8 +231,25 @@
     ]
   },
   {
+    "scientific_name": "Psilopogon malabaricus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Malabar Barbet"
+      },
+      {
+        "lang": "es",
+        "name": "Barbudo malabar"
+      }
+    ]
+  },
+  {
     "scientific_name": "Psilopogon lineatus",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "দাগি বসন্ত"
+      },
       {
         "lang": "en",
         "name": "Lineated Barbet"
@@ -319,6 +328,10 @@
     "scientific_name": "Psilopogon haemacephalus",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "ছোট বসন্তবৌরি"
+      },
+      {
         "lang": "en",
         "name": "Coppersmith Barbet"
       },
@@ -335,6 +348,10 @@
   {
     "scientific_name": "Psilopogon franklinii",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "সোনালি গলা বসন্তবৌরি"
+      },
       {
         "lang": "en",
         "name": "Golden-throated Barbet"
@@ -377,6 +394,36 @@
       {
         "lang": "en",
         "name": "Bornean Barbet"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psilopogon duvaucelii",
+    "common_names": [
+      {
+        "lang": "bn",
+        "name": "নীলকান বসন্তবৌরি"
+      },
+      {
+        "lang": "en",
+        "name": "Black-eared Barbet"
+      },
+      {
+        "lang": "es",
+        "name": "Barbudo orejinegro"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Psilopogon cyanotis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-eared Barbet"
+      },
+      {
+        "lang": "es",
+        "name": "Barbudo orejiazul"
       }
     ]
   },
@@ -436,11 +483,11 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Blue-eared Barbet"
+        "name": "Yellow-eared Barbet"
       },
       {
         "lang": "es",
-        "name": "Barbudo variable"
+        "name": "Barbudo orejigualdo"
       },
       {
         "lang": "fr",

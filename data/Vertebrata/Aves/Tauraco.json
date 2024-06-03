@@ -3,6 +3,10 @@
     "scientific_name": "Tauraco schuettii",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Schwarzschnabelturako"
+      },
+      {
         "lang": "en",
         "name": "Black-billed Turaco"
       },
@@ -27,6 +31,10 @@
   {
     "scientific_name": "Tauraco schalowi",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Schalowturako"
+      },
       {
         "lang": "en",
         "name": "Schalow's Turaco"
@@ -105,6 +113,10 @@
         "name": "Turak etiopski"
       },
       {
+        "lang": "pt",
+        "name": "Tauraco ruspolii"
+      },
+      {
         "lang": "sv",
         "name": "Etiopisk turako"
       }
@@ -151,6 +163,10 @@
         "name": "Turako chocholatý"
       },
       {
+        "lang": "de",
+        "name": "Guineaturako"
+      },
+      {
         "lang": "en",
         "name": "Guinea Turaco"
       },
@@ -177,12 +193,20 @@
       {
         "lang": "ru",
         "name": "Гвинейский турако"
+      },
+      {
+        "lang": "sv",
+        "name": "Guineaturako"
       }
     ]
   },
   {
     "scientific_name": "Tauraco macrorhynchus",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Blaurückenturako"
+      },
       {
         "lang": "en",
         "name": "Yellow-billed Turaco"
@@ -200,6 +224,10 @@
         "name": "Turaco beccogiallo"
       },
       {
+        "lang": "nl",
+        "name": "Geelsnaveltoerako"
+      },
+      {
         "lang": "pl",
         "name": "Turak żółtodzioby"
       }
@@ -208,6 +236,10 @@
   {
     "scientific_name": "Tauraco livingstonii",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Langschopfturako"
+      },
       {
         "lang": "en",
         "name": "Livingstone's Turaco"
@@ -271,6 +303,10 @@
     "scientific_name": "Tauraco leucolophus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Weißhaubenturako"
+      },
+      {
         "lang": "en",
         "name": "White-crested Turaco"
       },
@@ -304,12 +340,28 @@
     "scientific_name": "Tauraco hartlaubi",
     "common_names": [
       {
+        "lang": "da",
+        "name": "Hartlaubs turako"
+      },
+      {
+        "lang": "de",
+        "name": "Seidenturako"
+      },
+      {
+        "lang": "el",
+        "name": "Τουράκο του Χάρτλομπ"
+      },
+      {
         "lang": "en",
         "name": "Hartlaub's Turaco"
       },
       {
         "lang": "es",
         "name": "Turaco de Hanlaub"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco de Hartlaub"
       },
       {
         "lang": "it",
@@ -324,12 +376,24 @@
         "name": "Ngũgũ"
       },
       {
+        "lang": "nl",
+        "name": "Hartlaubs toerako"
+      },
+      {
         "lang": "pl",
         "name": "Turak liliowoczuby"
       },
       {
+        "lang": "pt",
+        "name": "Turaco-de-hartlaub"
+      },
+      {
         "lang": "ru",
         "name": "Синехохлый турако"
+      },
+      {
+        "lang": "sv",
+        "name": "Kenyaturako"
       }
     ]
   },
@@ -499,6 +563,10 @@
         "name": "Knysnaloerie"
       },
       {
+        "lang": "de",
+        "name": "Federhelmturako"
+      },
+      {
         "lang": "en",
         "name": "Knysna Turaco"
       },
@@ -520,22 +588,6 @@
     "scientific_name": "Tauraco bannermani",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Bannerman's Turaco"
-      },
-      {
-        "lang": "fr",
-        "name": "Touraco doré"
-      },
-      {
-        "lang": "nl",
-        "name": "Bannermans toerako"
-      },
-      {
-        "lang": "pl",
-        "name": "Turak kameruński"
-      },
-      {
         "lang": "ar",
         "name": "توراكو بانرماني"
       },
@@ -556,20 +608,40 @@
         "name": "Twraco Bannerman"
       },
       {
+        "lang": "de",
+        "name": "Bannermanturako"
+      },
+      {
+        "lang": "en",
+        "name": "Bannerman's Turaco"
+      },
+      {
         "lang": "fa",
-        "name": "موزخوار بنرمن"
+        "name": "وزخوار بنرمن"
+      },
+      {
+        "lang": "fr",
+        "name": "Touraco doré"
       },
       {
         "lang": "hu",
         "name": "Bannerman-turákó"
       },
       {
+        "lang": "nl",
+        "name": "Bannermans toerako"
+      },
+      {
         "lang": "mrj",
         "name": "Баннерман турако"
       },
       {
+        "lang": "pl",
+        "name": "Turak kameruński"
+      },
+      {
         "lang": "sv",
-        "name": "bannermanturako"
+        "name": "Bannermanturako"
       }
     ]
   }

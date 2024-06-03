@@ -389,6 +389,10 @@
     ]
   },
   {
+    "scientific_name": "Egretta subfluvia",
+    "common_names": []
+  },
+  {
     "scientific_name": "Egretta sacra",
     "common_names": [
       {
@@ -555,6 +559,47 @@
     ]
   },
   {
+    "scientific_name": "Egretta picata",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Volavka černobílá"
+      },
+      {
+        "lang": "de",
+        "name": "Elsterreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Pied Heron"
+      },
+      {
+        "lang": "es",
+        "name": "Garceta pía"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigrette pie"
+      },
+      {
+        "lang": "hu",
+        "name": "Tarka kócsag"
+      },
+      {
+        "lang": "ja",
+        "name": "ムナジロサギ"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla srokata"
+      },
+      {
+        "lang": "zh",
+        "name": "白頸黑鷺"
+      }
+    ]
+  },
+  {
     "scientific_name": "Egretta novaehollandiae",
     "common_names": [
       {
@@ -587,6 +632,10 @@
     "scientific_name": "Egretta gularis",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Pescairet cenisoso"
+      },
+      {
         "lang": "de",
         "name": "Küstenreiher"
       },
@@ -614,6 +663,10 @@
       {
         "lang": "af",
         "name": "Kleinwitreier"
+      },
+      {
+        "lang": "an",
+        "name": "Pescairet blanco"
       },
       {
         "lang": "ar",
@@ -668,7 +721,7 @@
       },
       {
         "lang": "el",
-        "name": "Χιονάτη"
+        "name": "λευκοτσικνιάς"
       },
       {
         "lang": "en",
@@ -810,6 +863,10 @@
         "name": "Agrett Abjad"
       },
       {
+        "lang": "ne",
+        "name": "सानो सेतोबकुल्ला"
+      },
+      {
         "lang": "nl",
         "name": "Kleine zilverreiger"
       },
@@ -832,6 +889,10 @@
       {
         "lang": "rm",
         "name": "Irun da saida"
+      },
+      {
+        "lang": "ro",
+        "name": "Egretă mică"
       },
       {
         "lang": "ru",
@@ -1018,8 +1079,100 @@
     "scientific_name": "Egretta dimorpha",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "البلشون البحرى ثنائى الشكل"
+      },
+      {
+        "lang": "cy",
+        "name": "Crëyr traethau Masgarîn"
+      },
+      {
+        "lang": "da",
+        "name": "Mascarenerhejre"
+      },
+      {
         "lang": "de",
         "name": "Meerreiher"
+      },
+      {
+        "lang": "en",
+        "name": "Dimorphic Egret"
+      },
+      {
+        "lang": "eo",
+        "name": "Duforma egreto"
+      },
+      {
+        "lang": "es",
+        "name": "Garceta dimorfa"
+      },
+      {
+        "lang": "et",
+        "name": "Madagaskari siidhaigur"
+      },
+      {
+        "lang": "fa",
+        "name": "قار دوریخت"
+      },
+      {
+        "lang": "fi",
+        "name": "Madagaskarinsilkkihaikara"
+      },
+      {
+        "lang": "fr",
+        "name": "Aigrette dimorphe"
+      },
+      {
+        "lang": "he",
+        "name": "לבנית דימורפית"
+      },
+      {
+        "lang": "hu",
+        "name": "Madagaszkári zátonykócsag"
+      },
+      {
+        "lang": "it",
+        "name": "Garzetta dimorfica"
+      },
+      {
+        "lang": "ja",
+        "name": "マダガスカルクロサギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Dimorfinis garnys"
+      },
+      {
+        "lang": "nl",
+        "name": "Madagaskarzilverreiger"
+      },
+      {
+        "lang": "no",
+        "name": "Madagaskarsilkehegre"
+      },
+      {
+        "lang": "pl",
+        "name": "Czapla zmienna"
+      },
+      {
+        "lang": "pt",
+        "name": "Garça-dimorfa"
+      },
+      {
+        "lang": "ru",
+        "name": "Рифовая цапля"
+      },
+      {
+        "lang": "sk",
+        "name": "Volavka menlivá"
+      },
+      {
+        "lang": "sv",
+        "name": "Kusthäger"
+      },
+      {
+        "lang": "uk",
+        "name": "Чапля двоморфна"
       }
     ]
   },

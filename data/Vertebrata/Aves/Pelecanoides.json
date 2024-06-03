@@ -7,6 +7,10 @@
     "scientific_name": "Pelecanoides urinatrix",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Common diving petrel"
+      },
+      {
         "lang": "fr",
         "name": "Puffinure plongeur"
       },
@@ -22,7 +26,16 @@
   },
   {
     "scientific_name": "Pelecanoides magellani",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Magellanic diving petrel"
+      },
+      {
+        "lang": "it",
+        "name": "Petrello tuffatore di Magellano"
+      }
+    ]
   },
   {
     "scientific_name": "Pelecanoides georgicus",
@@ -30,6 +43,14 @@
       {
         "lang": "af",
         "name": "Kleinduikstormvoël"
+      },
+      {
+        "lang": "en",
+        "name": "South Georgia diving petrel"
+      },
+      {
+        "lang": "it",
+        "name": "Petrello tuffatore di Georgia"
       }
     ]
   },
@@ -37,8 +58,8 @@
     "scientific_name": "Pelecanoides garnotii",
     "common_names": [
       {
-        "lang": "nl",
-        "name": "Chileens alkstormvogeltje"
+        "lang": "ca",
+        "name": "Petrell cabussador del Perú"
       },
       {
         "lang": "cs",
@@ -49,12 +70,24 @@
         "name": "Pedryn plymio Periw"
       },
       {
+        "lang": "da",
+        "name": "Perualkestormfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Peru-Lummensturmvogel"
+      },
+      {
         "lang": "en",
-        "name": "Peruvian diving petrel"
+        "name": "Peruvian Diving Petrel"
       },
       {
         "lang": "eo",
         "name": "Perua merĝopetrelo"
+      },
+      {
+        "lang": "es",
+        "name": "Potoyunco peruano"
       },
       {
         "lang": "fa",
@@ -73,12 +106,44 @@
         "name": "Perui bukóhojsza"
       },
       {
+        "lang": "it",
+        "name": "Petrello tuffatore del Perù"
+      },
+      {
+        "lang": "ja",
+        "name": "ペルーモグリウミツバメ"
+      },
+      {
+        "lang": "nl",
+        "name": "Chileens Alkstormvogeltje"
+      },
+      {
         "lang": "nn",
         "name": "Humboldtdukkpetrell"
       },
       {
+        "lang": "no",
+        "name": "Humboldtdykkpetrell"
+      },
+      {
+        "lang": "pl",
+        "name": "Nurzec peruwiański"
+      },
+      {
+        "lang": "pt",
+        "name": "Petrel-mergulhador-peruano"
+      },
+      {
+        "lang": "ru",
+        "name": "Перуанский нырковый буревестник"
+      },
+      {
         "lang": "sv",
-        "name": "perudykpetrell"
+        "name": "Perudykpetrell"
+      },
+      {
+        "lang": "uk",
+        "name": "Пуфінур перуанський"
       }
     ]
   }

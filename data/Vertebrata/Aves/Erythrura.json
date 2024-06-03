@@ -54,7 +54,12 @@
   },
   {
     "scientific_name": "Erythrura tricolor",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tricolored Parrotfinch"
+      }
+    ]
   },
   {
     "scientific_name": "Erythrura trichroa",
@@ -177,7 +182,88 @@
   },
   {
     "scientific_name": "Erythrura prasina",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "Diamant cuafí"
+      },
+      {
+        "lang": "cs",
+        "name": "Amada modrolící"
+      },
+      {
+        "lang": "da",
+        "name": "Løggrøn Papegøjeamadine"
+      },
+      {
+        "lang": "de",
+        "name": "Lauchpapageiamadine"
+      },
+      {
+        "lang": "en",
+        "name": "Pin-tailed Parrotfinch"
+      },
+      {
+        "lang": "es",
+        "name": "Diamante colifino"
+      },
+      {
+        "lang": "et",
+        "name": "Malai roheamadiin"
+      },
+      {
+        "lang": "fi",
+        "name": "Sateenkaaripeippo"
+      },
+      {
+        "lang": "fr",
+        "name": "Diamant quadricolore"
+      },
+      {
+        "lang": "hu",
+        "name": "Indiai papagájamandina"
+      },
+      {
+        "lang": "id",
+        "name": "Bondol-hijau binglis"
+      },
+      {
+        "lang": "it",
+        "name": "Diamante codaspillo"
+      },
+      {
+        "lang": "ja",
+        "name": "セイコウチョウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Ilgauodegė papūginė amadina"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische Papegaaiamadine"
+      },
+      {
+        "lang": "no",
+        "name": "Nålhaleamadin"
+      },
+      {
+        "lang": "pl",
+        "name": "Papuzik ostrosterny"
+      },
+      {
+        "lang": "pt",
+        "name": "Diamante-de-rabo-fino"
+      },
+      {
+        "lang": "sk",
+        "name": "Amada modrolíca"
+      },
+      {
+        "lang": "sv",
+        "name": "Nålstjärtsamadin"
+      }
+    ]
   },
   {
     "scientific_name": "Erythrura pealii",
@@ -254,39 +340,6 @@
       {
         "lang": "en",
         "name": "Tawny-breasted Parrotfinch"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Erythrura gouldiae",
-    "common_names": [
-      {
-        "lang": "da",
-        "name": "Gouldsamadine"
-      },
-      {
-        "lang": "de",
-        "name": "Gouldamadine"
-      },
-      {
-        "lang": "en",
-        "name": "Gouldian Finch"
-      },
-      {
-        "lang": "es",
-        "name": "Diamante de Gould"
-      },
-      {
-        "lang": "pt",
-        "name": "Diamante-de-Gould"
-      },
-      {
-        "lang": "it",
-        "name": "Diamante di Gould"
-      },
-      {
-        "lang": "nl",
-        "name": "Goulds amadine"
       }
     ]
   },

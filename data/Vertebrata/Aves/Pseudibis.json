@@ -7,6 +7,10 @@
         "name": "أبو منجل الأسود الهندي"
       },
       {
+        "lang": "bn",
+        "name": "কালো কাস্তেচরা"
+      },
+      {
         "lang": "br",
         "name": "Ibiz du India"
       },
@@ -49,6 +53,10 @@
       {
         "lang": "mr",
         "name": "काळा अवाक"
+      },
+      {
+        "lang": "ne",
+        "name": "कर्रा साँवरी"
       },
       {
         "lang": "pnb",
@@ -169,30 +177,6 @@
     "scientific_name": "Pseudibis davisoni",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Ibis běloramenný"
-      },
-      {
-        "lang": "en",
-        "name": "White-shouldered Ibis"
-      },
-      {
-        "lang": "es",
-        "name": "Ibis de Davison"
-      },
-      {
-        "lang": "fi",
-        "name": "Sininiskaiibis"
-      },
-      {
-        "lang": "hu",
-        "name": "Fehérvállú íbisz"
-      },
-      {
-        "lang": "tr",
-        "name": "Ak omuzlu aynak"
-      },
-      {
         "lang": "ar",
         "name": "أبو منجل أبيض الكتف"
       },
@@ -205,16 +189,68 @@
         "name": "Ibis de clatell blau"
       },
       {
+        "lang": "cs",
+        "name": "Ibis běloramenný"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidskuldret Ibis"
+      },
+      {
+        "lang": "de",
+        "name": "Weißschulteribis"
+      },
+      {
+        "lang": "en",
+        "name": "White-shouldered Ibis"
+      },
+      {
         "lang": "eo",
         "name": "Blankanuka ibiso"
+      },
+      {
+        "lang": "es",
+        "name": "Ibis de Davison"
       },
       {
         "lang": "fa",
         "name": "اکراس شانه‌سفید"
       },
       {
+        "lang": "fi",
+        "name": "Sininiskaiibis"
+      },
+      {
         "lang": "fr",
         "name": "Ibis de Davison"
+      },
+      {
+        "lang": "hi",
+        "name": "श्वेत-कंधा बाज़ा"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérvállú íbisz"
+      },
+      {
+        "lang": "id",
+        "name": "Ibis karau"
+      },
+      {
+        "lang": "it",
+        "name": "Ibis spallebianche"
+      },
+      {
+        "lang": "ja",
+        "name": "カタジロトキ"
+      },
+      {
+        "lang": "ko",
+        "name": "흰어깨따오기"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltapetis ibis"
       },
       {
         "lang": "mrj",
@@ -225,16 +261,40 @@
         "name": "Witschouderibis"
       },
       {
+        "lang": "no",
+        "name": "Blånakkeibis"
+      },
+      {
         "lang": "pnb",
         "name": "چٹپرا آئیبیس"
       },
       {
+        "lang": "ru",
+        "name": "Ибис Дэвисона"
+      },
+      {
         "lang": "sv",
-        "name": "davisonibis"
+        "name": "Davisonibis"
+      },
+      {
+        "lang": "th",
+        "name": "นกช้อนหอยดำ"
+      },
+      {
+        "lang": "tr",
+        "name": "Ak omuzlu aynak"
+      },
+      {
+        "lang": "uk",
+        "name": "Ібіс білоплечий"
       },
       {
         "lang": "vi",
         "name": "Cò quăm cánh xanh"
+      },
+      {
+        "lang": "zh",
+        "name": "白肩黑鹮"
       }
     ]
   }

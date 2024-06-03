@@ -79,6 +79,10 @@
         "name": "Kulíšek džunglový"
       },
       {
+        "lang": "de",
+        "name": "Dschungel-Sperlingskauz"
+      },
+      {
         "lang": "en",
         "name": "Jungle Owlet"
       },
@@ -145,6 +149,10 @@
   {
     "scientific_name": "Glaucidium passerinum",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Mucholet d'Eurasia"
+      },
       {
         "lang": "ar",
         "name": "بومة قزمة أوراسية"
@@ -351,16 +359,28 @@
         "name": "Kulíšek subtropický"
       },
       {
+        "lang": "de",
+        "name": "Parkerzwergkauz"
+      },
+      {
         "lang": "en",
         "name": "Subtropical pygmy-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Mochuelo de Parker"
+      },
+      {
+        "lang": "nl",
+        "name": "Parkers dwerguil"
       },
       {
         "lang": "pl",
         "name": "sóweczka ciemna"
       },
       {
-        "lang": "es",
-        "name": "Mochuelo de Parker"
+        "lang": "pt",
+        "name": "Caburé-subtropical"
       }
     ]
   },
@@ -370,6 +390,10 @@
       {
         "lang": "cs",
         "name": "Kulíšek colimský"
+      },
+      {
+        "lang": "de",
+        "name": "Palmenzwergkauz"
       },
       {
         "lang": "en",
@@ -858,6 +882,10 @@
       {
         "lang": "cs",
         "name": "Kulíšek hnědokřídlý"
+      },
+      {
+        "lang": "de",
+        "name": "Trillerzwergkauz"
       },
       {
         "lang": "en",

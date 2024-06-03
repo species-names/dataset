@@ -7,6 +7,10 @@
         "name": "Sokolík černobílý"
       },
       {
+        "lang": "da",
+        "name": "Sortkindet Pygmæfalk"
+      },
+      {
         "lang": "de",
         "name": "Elsterfälkchen"
       },
@@ -16,11 +20,43 @@
       },
       {
         "lang": "es",
-        "name": "falconete pío"
+        "name": "Falconete pío"
+      },
+      {
+        "lang": "fr",
+        "name": "Fauconnet noir et blanc"
+      },
+      {
+        "lang": "it",
+        "name": "Falchetto bianconero"
+      },
+      {
+        "lang": "ja",
+        "name": "シロハラヒメハヤブサ"
       },
       {
         "lang": "nl",
-        "name": "Bonte dwergvalk"
+        "name": "Bonte Dwergvalk"
+      },
+      {
+        "lang": "no",
+        "name": "Sløyfefalkonett"
+      },
+      {
+        "lang": "ru",
+        "name": "Сорочий карликовый сокол"
+      },
+      {
+        "lang": "uk",
+        "name": "Сокіл-карлик строкатий"
+      },
+      {
+        "lang": "vi",
+        "name": "Cắt nhỏ bụng trắng"
+      },
+      {
+        "lang": "zh",
+        "name": "白腿小隼"
       }
     ]
   },
@@ -32,6 +68,10 @@
         "name": "Sokolík bornejský"
       },
       {
+        "lang": "da",
+        "name": "Borneopygmæfalk"
+      },
+      {
         "lang": "de",
         "name": "Weißscheitelfälkchen"
       },
@@ -41,11 +81,23 @@
       },
       {
         "lang": "es",
-        "name": "falconete de Borneo"
+        "name": "Falconete de Borneo"
+      },
+      {
+        "lang": "id",
+        "name": "Alap-alap dahi-putih"
       },
       {
         "lang": "fr",
         "name": "Fauconnet de Bornéo"
+      },
+      {
+        "lang": "it",
+        "name": "Falchetto frontebianca"
+      },
+      {
+        "lang": "ja",
+        "name": "ボルネオヒメハヤブサ"
       },
       {
         "lang": "ms",
@@ -53,7 +105,23 @@
       },
       {
         "lang": "nl",
-        "name": "Borneo-dwergvalk"
+        "name": "Borneodwergvalk"
+      },
+      {
+        "lang": "no",
+        "name": "Hvitpannefalkonett"
+      },
+      {
+        "lang": "ru",
+        "name": "Белолобый сокол-крошка"
+      },
+      {
+        "lang": "uk",
+        "name": "Сокіл-карлик білолобий"
+      },
+      {
+        "lang": "zh",
+        "name": "白額隼"
       }
     ]
   },
@@ -65,12 +133,20 @@
         "name": "Sokolík zakrslý"
       },
       {
+        "lang": "da",
+        "name": "Sortflanket Pygmæfalk"
+      },
+      {
         "lang": "de",
         "name": "Finkenfälkchen"
       },
       {
         "lang": "en",
         "name": "Black-thighed Falconet"
+      },
+      {
+        "lang": "es",
+        "name": "Falconete indonesio"
       },
       {
         "lang": "fr",
@@ -81,14 +157,46 @@
         "name": "Alap-alap Capung"
       },
       {
+        "lang": "it",
+        "name": "Falchetto zampenere"
+      },
+      {
+        "lang": "ja",
+        "name": "モモグロヒメハヤブサ"
+      },
+      {
         "lang": "nl",
         "name": "Musvalk"
+      },
+      {
+        "lang": "no",
+        "name": "Svartflankefalkonett"
+      },
+      {
+        "lang": "ru",
+        "name": "Черноногий сокол-крошка"
+      },
+      {
+        "lang": "th",
+        "name": "เหยี่ยวแมลงปอขาดำ"
+      },
+      {
+        "lang": "uk",
+        "name": "Сокіл-карлик чорноногий"
+      },
+      {
+        "lang": "vi",
+        "name": "Cắt nhỏ đùi đen"
       }
     ]
   },
   {
     "scientific_name": "Microhierax erythrogenys",
     "common_names": [
+      {
+        "lang": "da",
+        "name": "Filippinsk Pygmæfalk"
+      },
       {
         "lang": "de",
         "name": "Zweifarbenfälkchen"
@@ -102,8 +210,20 @@
         "name": "Falconete filipino"
       },
       {
+        "lang": "fr",
+        "name": "Fauconnet des Philippines"
+      },
+      {
+        "lang": "it",
+        "name": "Falchetto delle Filippine"
+      },
+      {
         "lang": "nl",
-        "name": "Filippijnse dwergvalk"
+        "name": "Filipijnse Dwergvalk"
+      },
+      {
+        "lang": "no",
+        "name": "Filippinerfalkonett"
       }
     ]
   },

@@ -38,44 +38,7 @@
   },
   {
     "scientific_name": "Chroicocephalus saundersi",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Racek čínský"
-      },
-      {
-        "lang": "de",
-        "name": "Kappenmöwe"
-      },
-      {
-        "lang": "en",
-        "name": "Saunders's Gull"
-      },
-      {
-        "lang": "eo",
-        "name": "Ĉina mevo"
-      },
-      {
-        "lang": "fi",
-        "name": "Kiinannaurulokki"
-      },
-      {
-        "lang": "fr",
-        "name": "Mouette de Saunders"
-      },
-      {
-        "lang": "ja",
-        "name": "ズグロカモメ"
-      },
-      {
-        "lang": "ko",
-        "name": "검은머리갈매기"
-      },
-      {
-        "lang": "zh",
-        "name": "黑嘴鷗"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Chroicocephalus ridibundus",
@@ -83,6 +46,10 @@
       {
         "lang": "af",
         "name": "Swartkopmeeu"
+      },
+      {
+        "lang": "an",
+        "name": "Gaviota redidera"
       },
       {
         "lang": "ar",
@@ -95,6 +62,10 @@
       {
         "lang": "az",
         "name": "Adi qağayı"
+      },
+      {
+        "lang": "bar",
+        "name": "Lochméwen"
       },
       {
         "lang": "be",
@@ -353,6 +324,10 @@
         "name": "கருந்தலை கடல் காக்கை"
       },
       {
+        "lang": "te",
+        "name": "క్రోయికోసెఫాలస్ రిడిబండస్"
+      },
+      {
         "lang": "th",
         "name": "นกนางนวลขอบปีกขาว"
       },
@@ -370,7 +345,7 @@
       },
       {
         "lang": "vi",
-        "name": "Chim Mòng biển"
+        "name": "Mòng biển đầu đen"
       },
       {
         "lang": "zh",
@@ -821,6 +796,10 @@
       {
         "lang": "fr",
         "name": "Mouette à tête grise"
+      },
+      {
+        "lang": "he",
+        "name": "שחף אפור-ראש"
       },
       {
         "lang": "it",

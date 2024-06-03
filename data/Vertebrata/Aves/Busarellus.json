@@ -3,8 +3,20 @@
     "scientific_name": "Busarellus nigricollis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Aligot de collar negre"
+      },
+      {
         "lang": "cs",
         "name": "Káně černohrdlá"
+      },
+      {
+        "lang": "da",
+        "name": "Fiskevåge"
+      },
+      {
+        "lang": "de",
+        "name": "Fischbussard"
       },
       {
         "lang": "en",
@@ -12,7 +24,39 @@
       },
       {
         "lang": "es",
-        "name": "Águila colorada"
+        "name": "Busardo colorado"
+      },
+      {
+        "lang": "et",
+        "name": "Kalaviu"
+      },
+      {
+        "lang": "fi",
+        "name": "Kalastajahaukka"
+      },
+      {
+        "lang": "fr",
+        "name": "Buse à tête blanche"
+      },
+      {
+        "lang": "hu",
+        "name": "Halászölyv"
+      },
+      {
+        "lang": "it",
+        "name": "Poiana dal collare"
+      },
+      {
+        "lang": "ja",
+        "name": "ミサゴノスリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Moerasbuizerd"
+      },
+      {
+        "lang": "no",
+        "name": "Fiskevåk"
       },
       {
         "lang": "pl",
@@ -25,6 +69,18 @@
       {
         "lang": "ru",
         "name": "Рыбный канюк"
+      },
+      {
+        "lang": "sk",
+        "name": "Kaňúr hrdzavý"
+      },
+      {
+        "lang": "sv",
+        "name": "Svarthalsad vråk"
+      },
+      {
+        "lang": "uk",
+        "name": "Канюк-рибалка"
       }
     ]
   }

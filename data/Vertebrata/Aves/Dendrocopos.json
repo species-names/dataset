@@ -249,6 +249,10 @@
         "name": "Buntspecht"
       },
       {
+        "lang": "an",
+        "name": "Picatroncos"
+      },
+      {
         "lang": "ar",
         "name": "نقار خشب مرقط كبير"
       },
@@ -567,6 +571,10 @@
     "scientific_name": "Dendrocopos leucotos",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Picatroncos faxato"
+      },
+      {
         "lang": "ar",
         "name": "نقار خشب أبيض الظهر"
       },
@@ -795,7 +803,24 @@
   },
   {
     "scientific_name": "Dendrocopos hyperythrus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-bellied Woodpecker"
+      },
+      {
+        "lang": "es",
+        "name": "Pico ventrirrufo"
+      },
+      {
+        "lang": "ko",
+        "name": "붉은배오색딱따구리"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskokirjotikka"
+      }
+    ]
   },
   {
     "scientific_name": "Dendrocopos himalayensis",

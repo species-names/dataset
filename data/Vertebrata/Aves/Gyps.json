@@ -451,12 +451,16 @@
         "name": "Kransaasvoël"
       },
       {
+        "lang": "an",
+        "name": "Vueitre"
+      },
+      {
         "lang": "ar",
         "name": "النسر"
       },
       {
         "lang": "ast",
-        "name": "Utre leonad"
+        "name": "Utre"
       },
       {
         "lang": "az",
@@ -564,7 +568,7 @@
       },
       {
         "lang": "it",
-        "name": "Grifone"
+        "name": "Grifone eurasiatico"
       },
       {
         "lang": "ja",
@@ -616,7 +620,7 @@
       },
       {
         "lang": "pt",
-        "name": "Abutre-fouveiro"
+        "name": "Grifo-eurasiático"
       },
       {
         "lang": "rm",
@@ -689,7 +693,11 @@
       },
       {
         "lang": "fr",
-        "name": "Vautour du Cap"
+        "name": "vautour du Cap",
+        "synonyms": [
+          "vautour chasse-fiente",
+          "chasse-fiente"
+        ]
       },
       {
         "lang": "ja",

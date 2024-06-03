@@ -4,10 +4,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Upupa antaios",
-    "common_names": []
-  },
-  {
     "scientific_name": "Upupa marginata",
     "common_names": [
       {
@@ -555,6 +551,15 @@
     ]
   },
   {
+    "scientific_name": "Upupa antaios",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "St. Helena Hoopoe"
+      }
+    ]
+  },
+  {
     "scientific_name": "Upupa africana",
     "common_names": [
       {
@@ -607,7 +612,7 @@
       },
       {
         "lang": "it",
-        "name": "Upupa  africana"
+        "name": "Upupa africana"
       },
       {
         "lang": "ja",

@@ -27,6 +27,10 @@
         "name": "Blumaska jakutingo"
       },
       {
+        "lang": "es",
+        "name": "Pava de Trinidad"
+      },
+      {
         "lang": "fa",
         "name": "شب‌خروش پیپ گوآن"
       },
@@ -146,8 +150,34 @@
     ]
   },
   {
+    "scientific_name": "Pipile grayi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-throated Piping-Guan"
+      },
+      {
+        "lang": "pt",
+        "name": "jacutinga-de-garganta-branca"
+      }
+    ]
+  },
+  {
     "scientific_name": "Pipile cumanensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Blue-throated Piping-Guan"
+      },
+      {
+        "lang": "es",
+        "name": "Pava goliazul"
+      },
+      {
+        "lang": "pt",
+        "name": "Jacutinga-de-garganta-azul"
+      }
+    ]
   },
   {
     "scientific_name": "Pipile cujubi",

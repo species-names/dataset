@@ -3,8 +3,20 @@
     "scientific_name": "Oreopholus ruficollis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Corriol gola-rogenc"
+      },
+      {
         "lang": "cs",
         "name": "Kulík tenkozobý"
+      },
+      {
+        "lang": "cy",
+        "name": "Hutan gyddfgoch"
+      },
+      {
+        "lang": "da",
+        "name": "Langnæbbet Pomeransfugl"
       },
       {
         "lang": "de",
@@ -16,7 +28,15 @@
       },
       {
         "lang": "es",
-        "name": "Chorlito Cabezón"
+        "name": "Chorlito cabezón"
+      },
+      {
+        "lang": "et",
+        "name": "Andi tüll"
+      },
+      {
+        "lang": "fa",
+        "name": "سلیم گلوگندمی"
       },
       {
         "lang": "fi",
@@ -27,12 +47,52 @@
         "name": "Pluvier oréophile"
       },
       {
+        "lang": "hu",
+        "name": "Vörösnyakú lile"
+      },
+      {
         "lang": "it",
-        "name": "Piviere tortolino collorosso"
+        "name": "Corriere golafulva"
+      },
+      {
+        "lang": "ja",
+        "name": "ノドアカコバシチドリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Rusvagurklis sėjikas"
+      },
+      {
+        "lang": "nl",
+        "name": "Andesplevier"
+      },
+      {
+        "lang": "no",
+        "name": "Rusthalslo"
+      },
+      {
+        "lang": "pl",
+        "name": "Mornelak"
+      },
+      {
+        "lang": "pt",
+        "name": "Batuíra-de-papo-ferrugíneo"
+      },
+      {
+        "lang": "ru",
+        "name": "Бурогорлая ржанка"
+      },
+      {
+        "lang": "sk",
+        "name": "Kulík hnedohrdlý"
       },
       {
         "lang": "sv",
-        "name": "Roststrupig pipare"
+        "name": "Rosthalspipare"
+      },
+      {
+        "lang": "uk",
+        "name": "Хрустан тонкодзьобий"
       }
     ]
   }

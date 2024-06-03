@@ -3,6 +3,10 @@
     "scientific_name": "Bucephala islandica",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Cabezudo d'Islandia"
+      },
+      {
         "lang": "bg",
         "name": "Исландска звънарка"
       },
@@ -123,6 +127,10 @@
   {
     "scientific_name": "Bucephala clangula",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Cabezudo de lentes"
+      },
       {
         "lang": "ar",
         "name": "بط ذهبي العين"
@@ -285,10 +293,7 @@
       },
       {
         "lang": "ru",
-        "name": "Гоголь",
-        "synonyms": [
-          "Обыкновенный гоголь"
-        ]
+        "name": "Чернеть криклива"
       },
       {
         "lang": "rue",
@@ -327,6 +332,10 @@
   {
     "scientific_name": "Bucephala albeola",
     "common_names": [
+      {
+        "lang": "as",
+        "name": "হাঁহ"
+      },
       {
         "lang": "br",
         "name": "Garv kilpenn gwenn"

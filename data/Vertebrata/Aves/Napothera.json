@@ -5,32 +5,82 @@
   },
   {
     "scientific_name": "Napothera rabori",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Napothera pasquieri",
     "common_names": [
       {
-        "lang": "cy",
-        "name": "Drywbreblyn Luzon"
-      },
-      {
         "lang": "en",
-        "name": "Cordillera ground warbler"
-      },
-      {
-        "lang": "es",
-        "name": "ratina de Rabor"
+        "name": "White-throated wren-babbler"
       },
       {
         "lang": "nl",
-        "name": "Rands sluiptimalia"
+        "name": "Vietnamese dwergkruiplijster"
       },
       {
         "lang": "sv",
-        "name": "kordiljärgräsfågel"
+        "name": "vitstrupig skärtimalia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Napothera naungmungensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Naung Mung Scimitar-Babbler"
       }
     ]
   },
   {
     "scientific_name": "Napothera marmorata",
     "common_names": []
+  },
+  {
+    "scientific_name": "Napothera malacoptila",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Drywbreblyn hirbig"
+      },
+      {
+        "lang": "en",
+        "name": "Long-billed wren-babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Ratina picuda"
+      },
+      {
+        "lang": "hu",
+        "name": "Hosszúcsőrű ökörszembujkáló"
+      },
+      {
+        "lang": "ne",
+        "name": "लामोठुँडे डिकुरेभ्याकुर"
+      },
+      {
+        "lang": "nl",
+        "name": "Assamdwergkruiplijster"
+      },
+      {
+        "lang": "nv",
+        "name": "Chʼizhaazhii bidaaʼ nineezígíí"
+      },
+      {
+        "lang": "pl",
+        "name": "Sierpotymalek cienkodzioby"
+      },
+      {
+        "lang": "sv",
+        "name": "assamskärtimalia"
+      },
+      {
+        "lang": "zh",
+        "name": "长嘴鹩鹛"
+      }
+    ]
   },
   {
     "scientific_name": "Napothera macrodactyla",
@@ -41,17 +91,17 @@
     "common_names": []
   },
   {
-    "scientific_name": "Napothera crispifrons",
+    "scientific_name": "Napothera danjoui",
     "common_names": [
       {
         "lang": "en",
-        "name": "Limestone wren-babbler"
-      },
-      {
-        "lang": "th",
-        "name": "นกจู๋เต้นเขาปูน"
+        "name": "Short-tailed Scimitar-Babbler"
       }
     ]
+  },
+  {
+    "scientific_name": "Napothera crispifrons",
+    "common_names": []
   },
   {
     "scientific_name": "Napothera crassa",
@@ -63,26 +113,22 @@
   },
   {
     "scientific_name": "Napothera atrigularis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Napothera albostriata",
     "common_names": [
       {
-        "lang": "cy",
-        "name": "Drywbreblyn gyddfddu"
-      },
-      {
         "lang": "en",
-        "name": "Black-throated wren-babbler"
-      },
-      {
-        "lang": "fr",
-        "name": "Turdinule à gorge noire"
+        "name": "Sumatran wren-babbler"
       },
       {
         "lang": "nl",
-        "name": "Zwartkeelsluiptimalia"
+        "name": "Sumatraanse dwergkruiplijster"
       },
       {
         "lang": "sv",
-        "name": "svartstrupig smygtimalia"
+        "name": "sumatraskärtimalia"
       }
     ]
   }

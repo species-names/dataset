@@ -1,5 +1,30 @@
 [
   {
+    "scientific_name": "Dendrohyrax interfluvialis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Dendrohyrax validus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Östlicher Baumschliefer"
+      },
+      {
+        "lang": "en",
+        "name": "Eastern Tree Hyrax"
+      },
+      {
+        "lang": "es",
+        "name": "Damán arboricola oriental"
+      },
+      {
+        "lang": "fr",
+        "name": "Daman du Kilimanjaro"
+      }
+    ]
+  },
+  {
     "scientific_name": "Dendrohyrax samueli",
     "common_names": []
   },
@@ -9,6 +34,10 @@
       {
         "lang": "af",
         "name": "Westelike boomdassie"
+      },
+      {
+        "lang": "el",
+        "name": "Δυτικός Δενδρύραξ"
       },
       {
         "lang": "en",
@@ -37,10 +66,11 @@
       },
       {
         "lang": "de",
-        "name": "Waldschliefer",
-        "synonyms": [
-          "Baumschliefer"
-        ]
+        "name": "Waldschliefer"
+      },
+      {
+        "lang": "el",
+        "name": "Νότιος Δενδρύραξ"
       },
       {
         "lang": "en",

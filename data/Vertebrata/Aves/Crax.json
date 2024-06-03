@@ -46,6 +46,10 @@
         "name": "Nagy hokkó"
       },
       {
+        "lang": "is",
+        "name": "Bóluhúkur"
+      },
+      {
         "lang": "it",
         "name": "Hocco maggiore"
       },
@@ -90,6 +94,10 @@
         "name": "大凤冠雉"
       }
     ]
+  },
+  {
+    "scientific_name": "Crax nigra",
+    "common_names": []
   },
   {
     "scientific_name": "Crax globulosa",
@@ -190,6 +198,10 @@
       {
         "lang": "es",
         "name": "pavón muitú​"
+      },
+      {
+        "lang": "eu",
+        "name": "Crax fasciolata"
       },
       {
         "lang": "fa",
@@ -347,6 +359,10 @@
         "name": "Fekete hokkó"
       },
       {
+        "lang": "is",
+        "name": "Skúfhúkur"
+      },
+      {
         "lang": "nl",
         "name": "Zwarte hokko"
       },
@@ -384,12 +400,24 @@
         "name": "Cwrasow piglas"
       },
       {
+        "lang": "da",
+        "name": "Blåknoppet Hokko"
+      },
+      {
+        "lang": "de",
+        "name": "Blaulappenhokko"
+      },
+      {
         "lang": "en",
-        "name": "Blue-billed curassow"
+        "name": "Blue-billed Curassow"
       },
       {
         "lang": "eo",
         "name": "Blubeka mutuo"
+      },
+      {
+        "lang": "es",
+        "name": "Pavón piquiazul"
       },
       {
         "lang": "fa",
@@ -408,16 +436,20 @@
         "name": "Kéklebenyes hokkó"
       },
       {
+        "lang": "it",
+        "name": "Hocco beccazzurro"
+      },
+      {
+        "lang": "ja",
+        "name": "アオコブホウカンチョウ"
+      },
+      {
         "lang": "nl",
         "name": "Blauwknobbelhokko"
       },
       {
-        "lang": "nn",
+        "lang": "no",
         "name": "Blåknopphokko"
-      },
-      {
-        "lang": "nv",
-        "name": "Atseentélí bidaaʼ dootłʼizhígíí"
       },
       {
         "lang": "ru",
@@ -429,15 +461,15 @@
       },
       {
         "lang": "sv",
-        "name": "blånäbbad hocko"
+        "name": "Blånäbbad hocko"
+      },
+      {
+        "lang": "uk",
+        "name": "Кракс синьодзьобий"
       },
       {
         "lang": "zh",
         "name": "藍嘴鳳冠雉"
-      },
-      {
-        "lang": "ja",
-        "name": "アオコブホウカンチョウ"
       }
     ]
   }

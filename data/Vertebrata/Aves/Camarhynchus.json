@@ -20,20 +20,24 @@
     "scientific_name": "Camarhynchus pauper",
     "common_names": [
       {
-        "lang": "en",
-        "name": "Medium Tree-Finch"
-      },
-      {
-        "lang": "es",
-        "name": "Pinzón de Darwin modesto"
-      },
-      {
         "lang": "bg",
         "name": "Средна дървесна чинка"
       },
       {
         "lang": "cy",
         "name": "Pila coed pryfysol Ynys Charles"
+      },
+      {
+        "lang": "de",
+        "name": "Kleinschnabel-Darwinfink"
+      },
+      {
+        "lang": "en",
+        "name": "Medium Tree-Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Pinzón de Darwin modesto"
       },
       {
         "lang": "fa",
@@ -82,8 +86,8 @@
     "scientific_name": "Camarhynchus pallidus",
     "common_names": [
       {
-        "lang": "hu",
-        "name": "Harkálypinty"
+        "lang": "de",
+        "name": "Spechtfink"
       },
       {
         "lang": "en",
@@ -92,6 +96,14 @@
       {
         "lang": "es",
         "name": "Pinzón de Darwin carpintero"
+      },
+      {
+        "lang": "hu",
+        "name": "Harkálypinty"
+      },
+      {
+        "lang": "nl",
+        "name": "Spechtvink"
       }
     ]
   },

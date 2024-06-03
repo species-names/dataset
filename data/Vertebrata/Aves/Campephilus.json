@@ -1,5 +1,14 @@
 [
   {
+    "scientific_name": "Campephilus splendens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Splended Woodpecker"
+      }
+    ]
+  },
+  {
     "scientific_name": "Campephilus rubricollis",
     "common_names": [
       {
@@ -303,6 +312,10 @@
       {
         "lang": "en",
         "name": "Crimson-bellied Woodpecker"
+      },
+      {
+        "lang": "es",
+        "name": "Carpintero ventrirrojo"
       },
       {
         "lang": "fi",

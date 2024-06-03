@@ -69,11 +69,15 @@
       },
       {
         "lang": "en",
-        "name": "Forest buzzard"
+        "name": "Forest Buzzard"
       },
       {
         "lang": "nl",
         "name": "Kaapse bergbuizerd"
+      },
+      {
+        "lang": "ru",
+        "name": "Лесной канюк"
       },
       {
         "lang": "sv",
@@ -98,7 +102,7 @@
       },
       {
         "lang": "en",
-        "name": "Swainson's hawk"
+        "name": "Swainson's Hawk"
       },
       {
         "lang": "es",
@@ -231,6 +235,10 @@
         "name": "Myszołów hawajski"
       },
       {
+        "lang": "ru",
+        "name": "Канюк-отшельник"
+      },
+      {
         "lang": "tr",
         "name": "Hawaii şahini"
       }
@@ -266,6 +274,10 @@
       {
         "lang": "pl",
         "name": "Myszołów sokotrzański"
+      },
+      {
+        "lang": "ru",
+        "name": "Сокотранский канюк"
       },
       {
         "lang": "sv",
@@ -595,6 +607,10 @@
         "name": "Myszołów siwogłowy"
       },
       {
+        "lang": "ru",
+        "name": "Гаитянский канюк"
+      },
+      {
         "lang": "tr",
         "name": "Haiti şahini"
       },
@@ -678,6 +694,10 @@
       {
         "lang": "pl",
         "name": "Myszołów królewski"
+      },
+      {
+        "lang": "ru",
+        "name": "Королевский канюк"
       },
       {
         "lang": "sv",
@@ -805,11 +825,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Gray Hawk"
+        "name": "Grey Hawk"
       },
       {
         "lang": "nl",
         "name": "Grijze buizerd"
+      },
+      {
+        "lang": "ru",
+        "name": "Серый канюк"
       }
     ]
   },
@@ -839,6 +863,10 @@
       {
         "lang": "pl",
         "name": "Myszołów górski"
+      },
+      {
+        "lang": "ru",
+        "name": "Горный канюк"
       },
       {
         "lang": "tr",
@@ -904,6 +932,10 @@
       {
         "lang": "pt",
         "name": "Gavião-pedrês"
+      },
+      {
+        "lang": "ru",
+        "name": "Сизый канюк"
       },
       {
         "lang": "sv",
@@ -1277,8 +1309,20 @@
     "scientific_name": "Buteo japonicus",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Taigabussard"
+      },
+      {
         "lang": "en",
         "name": "Eastern Buzzard"
+      },
+      {
+        "lang": "fi",
+        "name": "Aasianhiirihaukka"
+      },
+      {
+        "lang": "ru",
+        "name": "Восточный канюк"
       }
     ]
   },
@@ -1455,6 +1499,10 @@
         "name": "Myszołów mongolski"
       },
       {
+        "lang": "ru",
+        "name": "Мохноногий курганник"
+      },
+      {
         "lang": "tr",
         "name": "Yayla şahini"
       }
@@ -1498,6 +1546,10 @@
       {
         "lang": "pl",
         "name": "Myszołów galapagoski"
+      },
+      {
+        "lang": "ru",
+        "name": "Галапагосский канюк"
       },
       {
         "lang": "tr",
@@ -2115,6 +2167,10 @@
         "name": "Myszołów madagaskarski"
       },
       {
+        "lang": "ru",
+        "name": "Мадагаскарский короткокрылый сарыч"
+      },
+      {
         "lang": "tr",
         "name": "Madagaskar şahini"
       }
@@ -2138,6 +2194,10 @@
       {
         "lang": "nl",
         "name": "Kaapverdische buizerd"
+      },
+      {
+        "lang": "ru",
+        "name": "Кабовердский канюк"
       },
       {
         "lang": "sv",

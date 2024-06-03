@@ -1,5 +1,26 @@
 [
   {
+    "scientific_name": "Gallus domesticus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Gallus violaceus",
+    "common_names": [
+      {
+        "lang": "ban",
+        "name": "ᬩᭂᬓᬶᬲᬃᬍᬫ᭄ᬩᬬᬸᬂ (bekisar lembayung)"
+      },
+      {
+        "lang": "id",
+        "name": "bekisar lembayung"
+      },
+      {
+        "lang": "jv",
+        "name": "ꦧꦼꦏꦶꦱꦂꦊꦩ꧀ꦧꦪꦸꦁ​ (bekisar lembayung)"
+      }
+    ]
+  },
+  {
     "scientific_name": "Gallus varius",
     "common_names": [
       {
@@ -37,11 +58,76 @@
     ]
   },
   {
+    "scientific_name": "Gallus temminckii",
+    "common_names": [
+      {
+        "lang": "ban",
+        "name": "ᬩᭂᬓᬶᬲᬃ (bekisar)"
+      },
+      {
+        "lang": "id",
+        "name": "bekisar"
+      },
+      {
+        "lang": "jv",
+        "name": "ꦧꦼꦏꦶꦱꦂ (bekisar)"
+      },
+      {
+        "lang": "mad",
+        "name": "bĕkisar"
+      },
+      {
+        "lang": "su",
+        "name": "ᮘᮦᮊᮤᮞᮁ (bekisar; beukisar)"
+      }
+    ]
+  },
+  {
     "scientific_name": "Gallus sonneratii",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "دجاج الأدغال الرمادي"
+      },
+      {
+        "lang": "arz",
+        "name": "دجاج الادغال الرمادى"
+      },
+      {
+        "lang": "az",
+        "name": "Boz cəngəllik toyuğu"
+      },
+      {
+        "lang": "bg",
+        "name": "Сива кокошка"
+      },
+      {
+        "lang": "bh",
+        "name": "मटियाहूँ जंगली मुर्गा"
+      },
+      {
+        "lang": "bn",
+        "name": "ধূসর বনমোরগ"
+      },
+      {
+        "lang": "br",
+        "name": "Kilhog Sonnerat"
+      },
+      {
         "lang": "ca",
         "name": "Gall gris"
+      },
+      {
+        "lang": "cs",
+        "name": "Kur Sonneratův"
+      },
+      {
+        "lang": "cy",
+        "name": "Ceiliog coedwig llwyd"
+      },
+      {
+        "lang": "da",
+        "name": "Grå Junglehøne"
       },
       {
         "lang": "de",
@@ -60,12 +146,20 @@
         "name": "Gallo gris"
       },
       {
+        "lang": "fa",
+        "name": "مرغ جنگلی خاکستری"
+      },
+      {
         "lang": "fr",
         "name": "Coq de Sonnerat"
       },
       {
         "lang": "he",
         "name": "תרנגול סונרט"
+      },
+      {
+        "lang": "hi",
+        "name": "सलेटी जंगली मुर्गा"
       },
       {
         "lang": "hu",
@@ -84,6 +178,10 @@
         "name": "ハイイロヤケイ"
       },
       {
+        "lang": "kn",
+        "name": "ಬೂದು ಕಾಡು ಕೋಳಿ"
+      },
+      {
         "lang": "ko",
         "name": "회색야계"
       },
@@ -93,7 +191,11 @@
       },
       {
         "lang": "ml",
-        "name": "ചാര കാട്ടുകോഴി"
+        "name": "കാട്ടുകോഴി"
+      },
+      {
+        "lang": "mr",
+        "name": "राखी रानकोंबडी"
       },
       {
         "lang": "ms",
@@ -106,6 +208,14 @@
       {
         "lang": "nl",
         "name": "Sonnerathoen"
+      },
+      {
+        "lang": "no",
+        "name": "Brokadehane"
+      },
+      {
+        "lang": "or",
+        "name": "ଚିତ୍ରା ଜଙ୍ଗଲୀ କୁକୁଡ଼ା"
       },
       {
         "lang": "pl",
@@ -125,19 +235,35 @@
       },
       {
         "lang": "sv",
-        "name": "Sonneratshöna"
+        "name": "Grå djungelhöna"
+      },
+      {
+        "lang": "ta",
+        "name": "வெள்ளைக் கானாங்கோழி"
       },
       {
         "lang": "th",
-        "name": "ไก่ป่าเทา"
+        "name": "ไก่ป่าอินเดีย"
       },
       {
-        "lang": "zh-hant",
+        "lang": "tr",
+        "name": "Gri hint kuşu"
+      },
+      {
+        "lang": "vi",
+        "name": "Gà rừng lông xám"
+      },
+      {
+        "lang": "zh",
         "name": "灰原雞"
       },
       {
         "lang": "zh-hans",
         "name": "灰原鸡"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "灰原雞"
       }
     ]
   },
@@ -163,6 +289,10 @@
       {
         "lang": "ca",
         "name": "Gall de Sri Lanka"
+      },
+      {
+        "lang": "cs",
+        "name": "Kur srílanský"
       },
       {
         "lang": "de",
@@ -221,6 +351,10 @@
         "name": "Ceylonhoen"
       },
       {
+        "lang": "or",
+        "name": "ସିଙ୍ଘଳୀ ଜଙ୍ଗଲୀ କୁକୁଡ଼ା"
+      },
+      {
         "lang": "pl",
         "name": "Kur cejloński"
       },
@@ -253,14 +387,18 @@
         "name": "Gà rừng Sri Lanka"
       },
       {
-        "lang": "zh-hant",
-        "name": "黑尾原雞"
-      },
-      {
         "lang": "zh-hans",
         "name": "黑尾原鸡"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "黑尾原雞"
       }
     ]
+  },
+  {
+    "scientific_name": "Gallus javanicus",
+    "common_names": []
   },
   {
     "scientific_name": "Gallus gallus",
@@ -399,7 +537,7 @@
       },
       {
         "lang": "ko",
-        "name": "적색야계(赤色野鷄)"
+        "name": "적색야계"
       },
       {
         "lang": "ky",
@@ -512,6 +650,23 @@
       {
         "lang": "zh-hans",
         "name": "红原鸡"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Gallus aeneus",
+    "common_names": [
+      {
+        "lang": "ban",
+        "name": "ᬩᭂᬓᬶᬲᬃ (bekisar)"
+      },
+      {
+        "lang": "id",
+        "name": "bekisar"
+      },
+      {
+        "lang": "jv",
+        "name": "ꦧꦼꦏꦶꦱꦂ (bekisar)"
       }
     ]
   }

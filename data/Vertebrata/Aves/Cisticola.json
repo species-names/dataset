@@ -138,6 +138,10 @@
         "name": "Rooitinktinkie"
       },
       {
+        "lang": "ca",
+        "name": "Cistícola grisa"
+      },
+      {
         "lang": "cy",
         "name": "Sisticola tinciog"
       },
@@ -342,6 +346,10 @@
         "name": "Huiltinktinkie"
       },
       {
+        "lang": "ca",
+        "name": "Cistícola ploranera"
+      },
+      {
         "lang": "cs",
         "name": "Cistovník naříkavý"
       },
@@ -433,6 +441,10 @@
       {
         "lang": "bg",
         "name": "Пъстроопашато шаварче"
+      },
+      {
+        "lang": "bn",
+        "name": "ভোমরা ছোটন"
       },
       {
         "lang": "br",
@@ -532,6 +544,10 @@
       {
         "lang": "sv",
         "name": "Grässångare"
+      },
+      {
+        "lang": " ta",
+        "name": "கருங்கோட்டுக் கதிர்க்குருவி"
       },
       {
         "lang": "tr",
@@ -675,10 +691,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Piping Cisticola",
-        "synonyms": [
-          "Neddicky"
-        ]
+        "name": "Piping Cisticola"
       }
     ]
   },

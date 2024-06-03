@@ -1,5 +1,25 @@
 [
   {
+    "scientific_name": "Ptilinopus speciosus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ptilinopus ponapensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ptilinopus mangoliensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ptilinopus hernsheimi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ptilinopus gularis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Ptilinopus wallacii",
     "common_names": [
       {
@@ -192,6 +212,10 @@
       {
         "lang": "sv",
         "name": "Marianafruktduva"
+      },
+      {
+        "lang": "vi",
+        "name": "Ptilinopus roseicapilla"
       }
     ]
   },
@@ -254,6 +278,10 @@
         "name": "Cook Islands Fruit-Dove"
       },
       {
+        "lang": "es",
+        "name": "Ptilinopus rarotongensis"
+      },
+      {
         "lang": "fr",
         "name": "Ptilope de Rarotonga"
       },
@@ -283,24 +311,12 @@
     "scientific_name": "Ptilinopus purpuratus",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Holub tuamotský"
-      },
-      {
-        "lang": "en",
-        "name": "Grey-green Fruit-Dove"
-      },
-      {
-        "lang": "es",
-        "name": "Tilopo de las Sociedad"
-      },
-      {
-        "lang": "fr",
-        "name": "Ptilope de la Société"
-      },
-      {
         "lang": "ca",
-        "name": "Ptilinop de Tahití"
+        "name": "Tilinop de Tahití"
+      },
+      {
+        "lang": "cs",
+        "name": "Holub šedozelený"
       },
       {
         "lang": "cy",
@@ -311,20 +327,60 @@
         "name": "Tahitifrugtdue"
       },
       {
+        "lang": "de",
+        "name": "Tahitifruchttaube"
+      },
+      {
+        "lang": "en",
+        "name": "Grey-green Fruit Dove"
+      },
+      {
+        "lang": "es",
+        "name": "Tilopo de Tahití"
+      },
+      {
+        "lang": "et",
+        "name": "Tahiti rohetuvi"
+      },
+      {
         "lang": "fa",
         "name": "کبوتر میوه‌خوار خاکستری-سبز"
       },
       {
+        "lang": "fi",
+        "name": "Tahitinhedelmäkyyhky"
+      },
+      {
+        "lang": "fr",
+        "name": "Ptilope de Tahiti"
+      },
+      {
+        "lang": "hu",
+        "name": "Tahiti gyümölcsgalamb"
+      },
+      {
+        "lang": "it",
+        "name": "Tortora beccafrutta grigioverde"
+      },
+      {
+        "lang": "ja",
+        "name": "ポリネシアヒメアオバト"
+      },
+      {
+        "lang": "lt",
+        "name": "Pilkakaklis karvelis vaislesys"
+      },
+      {
         "lang": "nl",
-        "name": "Tahitiaanse jufferduif"
+        "name": "Tahitiaanse Jufferduif"
       },
       {
         "lang": "no",
         "name": "Tahitifruktdue"
       },
       {
-        "lang": "nv",
-        "name": "Hasbídí ałchozhí chʼilgo dootłʼizhígíí"
+        "lang": "pl",
+        "name": "Owocożer atolowy"
       },
       {
         "lang": "pnb",
@@ -332,11 +388,19 @@
       },
       {
         "lang": "ru",
-        "name": "Серо-зелёный пёстрый голубь"
+        "name": "Серозелёный пёстрый голубь"
+      },
+      {
+        "lang": "sk",
+        "name": "Pestroš svetlohlavý"
       },
       {
         "lang": "sv",
-        "name": "tahitifruktduva"
+        "name": "Tahitifruktduva"
+      },
+      {
+        "lang": "uk",
+        "name": "Тілопо таїтянський"
       }
     ]
   },
@@ -1212,7 +1276,7 @@
     ]
   },
   {
-    "scientific_name": "Ptilinopus greyii",
+    "scientific_name": "Ptilinopus greyi",
     "common_names": [
       {
         "lang": "cs",
@@ -1296,6 +1360,10 @@
       {
         "lang": "ca",
         "name": "Tilinop d'Eugènia"
+      },
+      {
+        "lang": "ceb",
+        "name": "Ptilinopus eugeniae"
       },
       {
         "lang": "cy",
@@ -1417,6 +1485,15 @@
       {
         "lang": "en",
         "name": "Banded Fruit Dove"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptilinopus chrysogaster",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Raiatea Fruit Dove"
       }
     ]
   },

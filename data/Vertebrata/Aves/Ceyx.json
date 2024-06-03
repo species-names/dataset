@@ -60,6 +60,19 @@
     ]
   },
   {
+    "scientific_name": "Ceyx rufidorsa",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-backed Dwaerf Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Martín pigmeo herrumbroso"
+      }
+    ]
+  },
+  {
     "scientific_name": "Ceyx pusillus",
     "common_names": [
       {
@@ -270,6 +283,10 @@
         "name": "Black-backed Kingfisher"
       },
       {
+        "lang": "es",
+        "name": "Martín pigmeo dorsinegro"
+      },
+      {
         "lang": "fr",
         "name": "Martin-pêcheur pourpré"
       },
@@ -283,6 +300,10 @@
         "synonyms": [
           "മേനി പൊന്മാൻ"
         ]
+      },
+      {
+        "lang": "pt",
+        "name": "guarda-rios-pigmeu-oriental"
       },
       {
         "lang": "ru",
@@ -408,23 +429,63 @@
     "common_names": [
       {
         "lang": "ca",
-        "name": "Blauet argentat"
+        "name": "Blauet pigmeu argentat"
       },
       {
         "lang": "cs",
         "name": "Ledňáček mindanajský"
       },
       {
+        "lang": "da",
+        "name": "Sølvisfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Silberzwergfischer"
+      },
+      {
         "lang": "en",
-        "name": "Silvery Kingfisher"
+        "name": "Southern Silvery Kingfisher"
+      },
+      {
+        "lang": "es",
+        "name": "Martín pigmeo plateado del sur"
+      },
+      {
+        "lang": "et",
+        "name": "Must-jäälind"
+      },
+      {
+        "lang": "fi",
+        "name": "Hopeakalastaja"
       },
       {
         "lang": "fr",
         "name": "Martin-pêcheur argenté"
       },
       {
+        "lang": "it",
+        "name": "Martin pescatore argentato"
+      },
+      {
+        "lang": "ja",
+        "name": "セジロカワセミ"
+      },
+      {
         "lang": "nl",
-        "name": "Zilveren dwergijsvogel"
+        "name": "Zuidelijke Zilverdwergijsvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Sølvisfugl"
+      },
+      {
+        "lang": "ru",
+        "name": "Серебристый лесной зимородок"
+      },
+      {
+        "lang": "sv",
+        "name": "Sydlig silverkungsfiskare"
       },
       {
         "lang": "tr",

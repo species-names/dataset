@@ -3,6 +3,10 @@
     "scientific_name": "Peucaea sumichrasti",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit de cua canyella"
+      },
+      {
         "lang": "de",
         "name": "Zimtschwanzammer"
       },
@@ -32,6 +36,10 @@
     "scientific_name": "Peucaea ruficauda",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit cap-ratllat"
+      },
+      {
         "lang": "cs",
         "name": "Strnádka bělobrvá"
       },
@@ -49,7 +57,7 @@
       },
       {
         "lang": "es",
-        "name": "Chingolo Cabecilistado"
+        "name": "Chingolo cabecilistado"
       },
       {
         "lang": "fi",
@@ -69,6 +77,10 @@
         "synonyms": [
           "hoogurosuzumemodoki"
         ]
+      },
+      {
+        "lang": "la",
+        "name": "Peucaea ruficauda"
       },
       {
         "lang": "nl",
@@ -104,7 +116,11 @@
     "scientific_name": "Peucaea mystacalis",
     "common_names": [
       {
-        "lang": "en",
+        "lang": "ca",
+        "name": "Sit embridat"
+      },
+      {
+        "lang": " en",
         "name": "Bridled Sparrow"
       },
       {
@@ -116,6 +132,10 @@
   {
     "scientific_name": "Peucaea humeralis",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit pitnegre"
+      },
       {
         "lang": "en",
         "name": "Black-chested Sparrow"
@@ -134,6 +154,10 @@
     "scientific_name": "Peucaea cassinii",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Sit de Cassin"
+      },
+      {
         "lang": "en",
         "name": "Cassin's Sparrow"
       },
@@ -146,6 +170,10 @@
   {
     "scientific_name": "Peucaea carpalis",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit ala-roig"
+      },
       {
         "lang": "de",
         "name": "Rostflügelammer"
@@ -172,7 +200,11 @@
     "scientific_name": "Peucaea botterii",
     "common_names": [
       {
-        "lang": "de",
+        "lang": "ca",
+        "name": "Sit de Botteri"
+      },
+      {
+        "lang": " de",
         "name": "Botteriammer"
       },
       {
@@ -196,6 +228,10 @@
   {
     "scientific_name": "Peucaea aestivalis",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit de Bachman"
+      },
       {
         "lang": "de",
         "name": "Bachmanammer"

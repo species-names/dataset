@@ -3,8 +3,20 @@
     "scientific_name": "Spindalis zena",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "الغربيه سبينداليس"
+      },
+      {
+        "lang": "ca",
+        "name": "Tàngara arlequinada de Cuba"
+      },
+      {
         "lang": "cs",
-        "name": "tangara kubánská"
+        "name": "Tangara kubánská"
+      },
+      {
+        "lang": "cy",
+        "name": "Tanagr penrhesog"
       },
       {
         "lang": "da",
@@ -20,30 +32,35 @@
       },
       {
         "lang": "es",
-        "name": "Cabrero",
-        "synonyms": [
-          "sigua amarilla",
-          "reina mora"
-        ]
+        "name": "Cigua cubana"
       },
       {
         "lang": "fi",
-        "name": "sirkkutangara"
+        "name": "Sirkkutangara"
       },
       {
         "lang": "fr",
         "name": "Zéna à tête rayée"
       },
       {
+        "lang": "hr",
+        "name": "Kubanska tangara"
+      },
+      {
         "lang": "it",
-        "name": "Tangara testastriata"
+        "name": "Spindalis occidentale"
       },
       {
         "lang": "ja",
-        "name": "シトドフウキンチョウ",
-        "synonyms": [
-          "shitodofuukinchou"
-        ]
+        "name": "シトドフウキンチョウ"
+      },
+      {
+        "lang": "lt",
+        "name": "Bahaminė tanagra"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltsvītru tanagra"
       },
       {
         "lang": "nl",
@@ -55,7 +72,7 @@
       },
       {
         "lang": "pl",
-        "name": "antyla pasiasta"
+        "name": "Antyla pasiasta"
       },
       {
         "lang": "ru",
@@ -63,11 +80,15 @@
       },
       {
         "lang": "sk",
-        "name": "spindalis žltohrdlý"
+        "name": "Spindalis žltohrdlý"
       },
       {
         "lang": "sv",
-        "name": "Västlig streckhuvad tangara"
+        "name": "Kubaspindalia"
+      },
+      {
+        "lang": "uk",
+        "name": "Танагра антильська"
       },
       {
         "lang": "zh",
@@ -79,12 +100,68 @@
     "scientific_name": "Spindalis portoricensis",
     "common_names": [
       {
+        "lang": "arz",
+        "name": "سبينداليس بورتوريكو"
+      },
+      {
+        "lang": "ca",
+        "name": "Tàngara arlequinada de Puerto Rico"
+      },
+      {
+        "lang": "cs",
+        "name": "Tangara Bryantova"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidskægget Tangar"
+      },
+      {
+        "lang": "de",
+        "name": "Puerto-Rico-Streifenkopftangare"
+      },
+      {
         "lang": "en",
         "name": "Puerto Rican Spindalis"
       },
       {
         "lang": "es",
         "name": "Cigua puertorriqueña"
+      },
+      {
+        "lang": "fi",
+        "name": "Puertoriconsirkkutangara"
+      },
+      {
+        "lang": "fr",
+        "name": "Zéna de Porto Rico"
+      },
+      {
+        "lang": "it",
+        "name": "Spindalis di Portorico"
+      },
+      {
+        "lang": "nl",
+        "name": "Puertoricaanse Spindalis"
+      },
+      {
+        "lang": "no",
+        "name": "Puertoricospindalis"
+      },
+      {
+        "lang": "pl",
+        "name": "Antyla portorykańska"
+      },
+      {
+        "lang": "sk",
+        "name": "Spindalis portorický"
+      },
+      {
+        "lang": "sv",
+        "name": "Puertoricospindalia"
+      },
+      {
+        "lang": "uk",
+        "name": "Танагра пуерто-риканська"
       }
     ]
   },
@@ -93,7 +170,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Jamaican spindalis"
+        "name": "Jamaican Spindalis"
       },
       {
         "lang": "es",
@@ -113,24 +190,40 @@
     "scientific_name": "Spindalis dominicensis",
     "common_names": [
       {
+        "lang": "da",
+        "name": "Hispaniolatangar"
+      },
+      {
+        "lang": "de",
+        "name": "Hispaniola-Streifenkopftangare"
+      },
+      {
         "lang": "en",
-        "name": "Hispaniolan spindalis"
+        "name": "Hispaniolan Spindalis"
       },
       {
         "lang": "es",
-        "name": "cigua de La Española"
+        "name": "Cigua de La Española"
       },
       {
         "lang": "fr",
         "name": "Zéna d'Hispaniola"
       },
       {
+        "lang": "it",
+        "name": "Spindalis di Hispaniola"
+      },
+      {
         "lang": "nl",
         "name": "Hispaniolaspindalis"
       },
       {
+        "lang": "no",
+        "name": "Hispaniolaspindalis"
+      },
+      {
         "lang": "sv",
-        "name": "hispaniolaspindalia"
+        "name": "Hispaniolaspindalia"
       }
     ]
   }

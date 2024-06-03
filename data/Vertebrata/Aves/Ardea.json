@@ -29,7 +29,7 @@
       },
       {
         "lang": "ast",
-        "name": "Garcia Roxa"
+        "name": "Garcia bermeya"
       },
       {
         "lang": "az",
@@ -220,6 +220,10 @@
         "name": "ငဟစ်ငှက်"
       },
       {
+        "lang": "ne",
+        "name": "ध्यानी बकुल्ला"
+      },
+      {
         "lang": "nl",
         "name": "Purperreiger"
       },
@@ -330,43 +334,27 @@
       {
         "lang": "zh-yue",
         "name": "草鷺"
+      },
+      {
+        "lang": "ta",
+        "name": "செந்நாரை"
       }
     ]
   },
   {
-    "scientific_name": "Ardea picata",
+    "scientific_name": "Ardea plumifera",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Volavka černobílá"
-      },
-      {
-        "lang": "de",
-        "name": "Elsterreiher"
-      },
-      {
         "lang": "en",
-        "name": "Pied Heron"
+        "name": "Plumed Egret"
+      },
+      {
+        "lang": "es",
+        "name": "Garceta plumífera"
       },
       {
         "lang": "fr",
-        "name": "Aigrette pie"
-      },
-      {
-        "lang": "hu",
-        "name": "Tarka kócsag"
-      },
-      {
-        "lang": "ja",
-        "name": "ムナジロサギ"
-      },
-      {
-        "lang": "pl",
-        "name": "Czapla srokata"
-      },
-      {
-        "lang": "zh",
-        "name": "白頸黑鷺"
+        "name": "Héron plumifère"
       }
     ]
   },
@@ -504,7 +492,11 @@
         "name": "मझिला बकुला"
       },
       {
-        "lang": "ca",
+        "lang": "bn",
+        "name": "মাঝারি বক"
+      },
+      {
+        "lang": " ca",
         "name": "Martinet intermedi"
       },
       {
@@ -564,7 +556,11 @@
         "name": "Burung Bangau Kerbau"
       },
       {
-        "lang": "nl",
+        "lang": "ne",
+        "name": "मझौला सेतोबकुल्ला"
+      },
+      {
+        "lang": " nl",
         "name": "Middelste zilverreiger"
       },
       {
@@ -605,10 +601,6 @@
     "scientific_name": "Ardea insignis",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Volavka císařská"
-      },
-      {
         "lang": "ar",
         "name": "بلشون أبيض البطن"
       },
@@ -625,8 +617,16 @@
         "name": "Agró ventreblanc"
       },
       {
+        "lang": "cs",
+        "name": "Volavka císařská"
+      },
+      {
         "lang": "cy",
         "name": "Crëyr torwyn"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidbuget Hejre"
       },
       {
         "lang": "de",
@@ -634,11 +634,19 @@
       },
       {
         "lang": "en",
-        "name": "White-bellied heron"
+        "name": "White-bellied Heron"
       },
       {
         "lang": "eo",
         "name": "Blankventra ardeo"
+      },
+      {
+        "lang": "es",
+        "name": "Garza ventriblanca"
+      },
+      {
+        "lang": "et",
+        "name": "Terai-haigur"
       },
       {
         "lang": "fa",
@@ -659,6 +667,14 @@
       {
         "lang": "hu",
         "name": "Fehérhasú gém"
+      },
+      {
+        "lang": "it",
+        "name": "Airone panciabianca"
+      },
+      {
+        "lang": "ja",
+        "name": "シロハラサギ"
       },
       {
         "lang": "lt",
@@ -685,10 +701,6 @@
         "name": "Keiserhegre"
       },
       {
-        "lang": "nv",
-        "name": "Toohjįʼ noołnahii bitéél łigaaígíí"
-      },
-      {
         "lang": "pl",
         "name": "Czapla białobrzucha"
       },
@@ -701,8 +713,12 @@
         "name": "Белобрюхая цапля"
       },
       {
+        "lang": "sk",
+        "name": "Volavka bielobruchá"
+      },
+      {
         "lang": "sv",
-        "name": "kejsarhäger"
+        "name": "Kejsarhäger"
       },
       {
         "lang": "uk",
@@ -900,7 +916,7 @@
       },
       {
         "lang": "nl",
-        "name": "Amerikaanse blauwe reiger"
+        "name": "Amerikaanse Blauwe Reiger"
       },
       {
         "lang": "no",
@@ -1050,7 +1066,7 @@
       },
       {
         "lang": "bn",
-        "name": "সারস"
+        "name": "সাদা বক"
       },
       {
         "lang": "bo",
@@ -1070,7 +1086,7 @@
       },
       {
         "lang": "cs",
-        "name": "volavka popelavá"
+        "name": "Volavka popelavá"
       },
       {
         "lang": "csb",
@@ -1114,7 +1130,7 @@
       },
       {
         "lang": "es",
-        "name": "Garza Real"
+        "name": "Garza real"
       },
       {
         "lang": "et",
@@ -1122,7 +1138,7 @@
       },
       {
         "lang": "eu",
-        "name": "Lertxun hauskara"
+        "name": "Koartza hauskara"
       },
       {
         "lang": "fa",
@@ -1333,6 +1349,10 @@
         "name": "Reiger"
       },
       {
+        "lang": "ne ",
+        "name": "फुस्रो बकुल्ला"
+      },
+      {
         "lang": "nl",
         "name": "Blauwe reiger"
       },
@@ -1535,6 +1555,23 @@
       {
         "lang": "zu",
         "name": "uNokilonki"
+      },
+      {
+        "lang": "or",
+        "name": "ଅଞ୍ଜନା ବଗ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ardea brachyrhyncha",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-billed Egret"
+      },
+      {
+        "lang": "es",
+        "name": "Garceta piquicorta"
       }
     ]
   },
@@ -1544,6 +1581,10 @@
       {
         "lang": "af",
         "name": "Grootwitreier"
+      },
+      {
+        "lang": "an",
+        "name": "Garrapescaire blanco"
       },
       {
         "lang": "ar",
@@ -1564,6 +1605,10 @@
       {
         "lang": "bg",
         "name": "Голяма бяла чапла"
+      },
+      {
+        "lang": "bn",
+        "name": "বড় বক"
       },
       {
         "lang": "br",
@@ -1880,6 +1925,10 @@
       {
         "lang": "zu",
         "name": "iLanda"
+      },
+      {
+        "lang": "or",
+        "name": "ବଡ଼ ଝାଲିଆ ବଗ"
       }
     ]
   },

@@ -116,11 +116,7 @@
       },
       {
         "lang": "fr",
-        "name": "Venturon corse"
-      },
-      {
-        "lang": "it",
-        "name": "Venturone corso"
+        "name": "Venturon corse it"
       },
       {
         "lang": "nl",
@@ -254,7 +250,7 @@
       },
       {
         "lang": "ca",
-        "name": "Cadernera"
+        "name": "Cadernera europea"
       },
       {
         "lang": "co",
@@ -553,7 +549,7 @@
       },
       {
         "lang": "uk",
-        "name": "Щиглик"
+        "name": "Щиглик звичайний"
       },
       {
         "lang": "vec",
@@ -576,6 +572,23 @@
   {
     "scientific_name": "Carduelis cannabina",
     "common_names": []
+  },
+  {
+    "scientific_name": "Carduelis caniceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern Goldfinch"
+      },
+      {
+        "lang": "pt",
+        "name": "pintassilgo-dos-himalaias"
+      },
+      {
+        "lang": "it",
+        "name": "Cardellino dell'Himalaya"
+      }
+    ]
   },
   {
     "scientific_name": "Carduelis barbata",

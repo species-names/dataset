@@ -418,6 +418,10 @@
     "scientific_name": "Columba palumbus",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Turcazo"
+      },
+      {
         "lang": "ar",
         "name": "ورشان مألوف"
       },
@@ -793,6 +797,10 @@
   {
     "scientific_name": "Columba oenas",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Sisella"
+      },
       {
         "lang": "ar",
         "name": "حمام بري"
@@ -1896,6 +1904,10 @@
         "name": "Kransduif"
       },
       {
+        "lang": "az",
+        "name": "Columba guinea"
+      },
+      {
         "lang": "bg",
         "name": "Гвинейски гълъб"
       },
@@ -2106,6 +2118,10 @@
       {
         "lang": "tr",
         "name": "Türkmen güvercini"
+      },
+      {
+        "lang": "vi",
+        "name": "Columba eversmanni"
       }
     ]
   },

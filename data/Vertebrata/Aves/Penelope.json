@@ -17,7 +17,7 @@
     "common_names": [
       {
         "lang": "cs",
-        "name": "guan chocholatý"
+        "name": "Guan chocholatý"
       },
       {
         "lang": "da",
@@ -32,22 +32,16 @@
         "name": "Crested Guan"
       },
       {
+        "lang": "eo",
+        "name": "Krona penelopo"
+      },
+      {
         "lang": "es",
-        "name": "Pava Cojolita",
-        "synonyms": [
-          "Pava moñuda",
-          "pava crestada",
-          "pava granadera",
-          "catita serrana",
-          "cojolite",
-          "congona",
-          "ajolite",
-          "chonche"
-        ]
+        "name": "Pava moñuda"
       },
       {
         "lang": "fi",
-        "name": "isosaku"
+        "name": "Isosaku"
       },
       {
         "lang": "fr",
@@ -74,7 +68,7 @@
       },
       {
         "lang": "pl",
-        "name": "penelopa rdzawobrzucha"
+        "name": "Penelopa rdzawobrzucha"
       },
       {
         "lang": "pt-br",
@@ -90,7 +84,7 @@
       },
       {
         "lang": "sk",
-        "name": "šuan chochlatý"
+        "name": "Šuan chochlatý"
       },
       {
         "lang": "sv",
@@ -300,6 +294,10 @@
       {
         "lang": "en",
         "name": "Andean Guan"
+      },
+      {
+        "lang": "es",
+        "name": "Pava andina"
       }
     ]
   },
@@ -366,7 +364,11 @@
       },
       {
         "lang": "pt",
-        "name": "jacuaçu"
+        "name": "Jacu-de-spix"
+      },
+      {
+        "lang": "es",
+        "name": "Pava amazónica"
       }
     ]
   },
@@ -414,6 +416,14 @@
       {
         "lang": "en",
         "name": "Band-tailed Guan"
+      },
+      {
+        "lang": "eo",
+        "name": "Kamata penelopo"
+      },
+      {
+        "lang": "es",
+        "name": "Pava camata"
       }
     ]
   },

@@ -20,7 +20,7 @@
       },
       {
         "lang": "es",
-        "name": "Cacique Cabecicastaño"
+        "name": "Cacique cabecicastaño"
       },
       {
         "lang": "fi",
@@ -81,6 +81,10 @@
       {
         "lang": "pt",
         "name": "Japu-verde"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique verde"
       }
     ]
   },
@@ -166,6 +170,10 @@
       {
         "lang": "en",
         "name": "Black Oropendola"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique negro"
       }
     ]
   },
@@ -177,8 +185,12 @@
         "name": "Crested Oropendola"
       },
       {
-        "lang": "pt",
-        "name": "Japuguaçu"
+        "lang": "pt-br",
+        "name": "Japu"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique crestado"
       }
     ]
   },
@@ -232,11 +244,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Para Oropendola"
+        "name": "Amazonian Oropendola"
       },
       {
         "lang": "pt",
         "name": "Japuaçu"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique de Pará"
       }
     ]
   },
@@ -270,10 +286,7 @@
       },
       {
         "lang": "es",
-        "name": "Cacique dorsirrufo",
-        "synonyms": [
-          "oropéndola variable"
-        ]
+        "name": "Cacique dorsirrufo"
       },
       {
         "lang": "fr",

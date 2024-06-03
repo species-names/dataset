@@ -15,6 +15,10 @@
         "name": "Holub nikobarský"
       },
       {
+        "lang": "da",
+        "name": "Nicobardue"
+      },
+      {
         "lang": "de",
         "name": "Kragentaube"
       },
@@ -23,36 +27,44 @@
         "name": "Nicobar Pigeon"
       },
       {
-        "lang": "es",
-        "name": "Paloma de Nicobar"
-      },
-      {
         "lang": "eo",
         "name": "Nikobara kolombo"
+      },
+      {
+        "lang": "es",
+        "name": "Paloma de Nicobar"
       },
       {
         "lang": "fr",
         "name": "Nicobar à camail"
       },
       {
-        "lang": "ko",
-        "name": "니코바르비둘기"
-      },
-      {
         "lang": "hr",
         "name": "Nikobarski golub"
       },
       {
+        "lang": "hu",
+        "name": "Sörényes galamb"
+      },
+      {
         "lang": "id",
-        "name": "Junai Mas"
+        "name": "Junai emas"
+      },
+      {
+        "lang": "it",
+        "name": "Piccione delle Nicobare"
+      },
+      {
+        "lang": "ja",
+        "name": "ミノバト"
+      },
+      {
+        "lang": "ko",
+        "name": "니코바르비둘기"
       },
       {
         "lang": "lt",
         "name": "Nikobarinis karvelis"
-      },
-      {
-        "lang": "hu",
-        "name": "Sörényes galamb"
       },
       {
         "lang": "ms",
@@ -63,20 +75,16 @@
         "name": "Manenduif"
       },
       {
-        "lang": "ja",
-        "name": "ミノバト"
-      },
-      {
         "lang": "no",
         "name": "Mankedue"
       },
       {
-        "lang": "pnb",
-        "name": "نکوبار کبوتر"
-      },
-      {
         "lang": "pl",
         "name": "Nikobarczyk"
+      },
+      {
+        "lang": "pnb",
+        "name": "نکوبار کبوتر"
       },
       {
         "lang": "pt",
@@ -96,10 +104,23 @@
       },
       {
         "lang": "th",
-        "name": "นกชาปีไหน",
-        "synonyms": [
-          "นกกะดง"
-        ]
+        "name": "นกชาปีไหน"
+      },
+      {
+        "lang": "uk",
+        "name": "Голуб гривастий"
+      },
+      {
+        "lang": "ur",
+        "name": "نیکوبار کبوتر"
+      },
+      {
+        "lang": "vi",
+        "name": "Bồ câu Nicoba"
+      },
+      {
+        "lang": "zh",
+        "name": "綠蓑鳩"
       }
     ]
   },

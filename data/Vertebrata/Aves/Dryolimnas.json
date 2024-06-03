@@ -4,10 +4,20 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "White-throated Rail",
-        "synonyms": [
-          "Cuvier's Rail"
-        ]
+        "name": "White-throated Rail"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dryolimnas augusti",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Reunion Rail"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de La Réunion"
       }
     ]
   }

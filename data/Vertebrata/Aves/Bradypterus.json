@@ -25,6 +25,23 @@
     ]
   },
   {
+    "scientific_name": "Bradypterus seebohmi",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Madagaskar-Grassänger"
+      },
+      {
+        "lang": "en",
+        "name": "Grey Emutail"
+      },
+      {
+        "lang": "fr",
+        "name": "Amphilaïs tachetée"
+      }
+    ]
+  },
+  {
     "scientific_name": "Bradypterus lopezi",
     "common_names": [
       {
@@ -72,7 +89,12 @@
   },
   {
     "scientific_name": "Bradypterus grandis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Gabunbuschsänger"
+      }
+    ]
   },
   {
     "scientific_name": "Bradypterus cinnamomeus",

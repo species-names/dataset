@@ -8,7 +8,7 @@
       },
       {
         "lang": "da",
-        "name": "Lysbrystet Drosseltimalie"
+        "name": "lysbrystet drosseltimalie"
       },
       {
         "lang": "de",
@@ -16,11 +16,11 @@
       },
       {
         "lang": "en",
-        "name": "Buff-breasted Babbler"
+        "name": "buff-breasted babbler"
       },
       {
         "lang": "es",
-        "name": "Tordina de Tickell"
+        "name": "tordina de Tickell"
       },
       {
         "lang": "fi",
@@ -28,11 +28,11 @@
       },
       {
         "lang": "fr",
-        "name": "Akalat de Tickell"
+        "name": "akalat de Tickell"
       },
       {
         "lang": "it",
-        "name": "Garrulo della giungla di Tickell"
+        "name": "garrulo della giungla di Tickell"
       },
       {
         "lang": "ja",
@@ -43,11 +43,11 @@
       },
       {
         "lang": "nl",
-        "name": "Tickells Jungletimalia"
+        "name": "Tickells jungletimalia"
       },
       {
         "lang": "no",
-        "name": "Bruntimal"
+        "name": "bruntimal"
       },
       {
         "lang": "pl",
@@ -63,7 +63,7 @@
       },
       {
         "lang": "sv",
-        "name": "Ljusbröstad trasttimalia"
+        "name": "ljusbröstad trasttimalia"
       },
       {
         "lang": "th",
@@ -72,6 +72,15 @@
       {
         "lang": "zh",
         "name": "棕胸雅鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pellorneum saturatum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Glissando Babbler"
       }
     ]
   },
@@ -113,8 +122,175 @@
     ]
   },
   {
+    "scientific_name": "Pellorneum rostratum",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Preblyn jyngl bronwyn"
+      },
+      {
+        "lang": "en",
+        "name": "Malayan Swamp Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Tordina pechiblanca"
+      },
+      {
+        "lang": "fi",
+        "name": "Jokitimali"
+      },
+      {
+        "lang": "fr",
+        "name": "Akalat à front noir"
+      },
+      {
+        "lang": "id",
+        "name": "Pelanduk dada-putih"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Telanjuk"
+      },
+      {
+        "lang": "nl",
+        "name": "Mangrovemuistimalia"
+      },
+      {
+        "lang": "sv",
+        "name": "vitbröstad timalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Khướu ngực trắng"
+      }
+    ]
+  },
+  {
     "scientific_name": "Pellorneum pyrrogenys",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "ca",
+        "name": "matinera de Temminck"
+      },
+      {
+        "lang": "cs",
+        "name": "timálie proužkohřbetá"
+      },
+      {
+        "lang": "cy",
+        "name": "preblyn jyngl Temminck"
+      },
+      {
+        "lang": "da",
+        "name": "rødbrynet drosseltimalie"
+      },
+      {
+        "lang": "de",
+        "name": "Rostwangen-Erddrossling"
+      },
+      {
+        "lang": "en",
+        "name": "Temminck's babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Rostwangen-Erddrossling"
+      },
+      {
+        "lang": "fi",
+        "name": "sundanviidakkotimali"
+      },
+      {
+        "lang": "fr",
+        "name": "akalat de Temminck"
+      },
+      {
+        "lang": "hr",
+        "name": "pjegavokapi drozdalj"
+      },
+      {
+        "lang": "id",
+        "name": "pelanduk bukit"
+      },
+      {
+        "lang": "it",
+        "name": "garrulo di Temminck"
+      },
+      {
+        "lang": "ja",
+        "name": "ワキアカムジチメドリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Teminko dirvinė timalija"
+      },
+      {
+        "lang": "nl",
+        "name": "Temmincks jungletimalia"
+      },
+      {
+        "lang": "no",
+        "name": "spraglekinntimal"
+      },
+      {
+        "lang": "pl",
+        "name": "dżunglak przepasany"
+      },
+      {
+        "lang": "pt-pt",
+        "name": "tordina-de-temminck"
+      },
+      {
+        "lang": "pt",
+        "name": "tordina-flamejante"
+      },
+      {
+        "lang": "ru",
+        "name": "Рыжещёкая тимелия-говорушка"
+      },
+      {
+        "lang": "sk",
+        "name": "dudroš hrdzavoboký"
+      },
+      {
+        "lang": "sr",
+        "name": "Teminkova brbljuša"
+      },
+      {
+        "lang": "sv",
+        "name": "rostbrynad timalia"
+      },
+      {
+        "lang": "ta",
+        "name": "தெம்மினிக் சிலம்பன்"
+      },
+      {
+        "lang": "tr",
+        "name": "Temminck ardıçesmeri"
+      },
+      {
+        "lang": "uk",
+        "name": "Баблер темноголовий"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "泰明氏幽鶥"
+      },
+      {
+        "lang": "zh",
+        "name": "泰氏幽鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pellorneum poliogene",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Leaflitter Babbler"
+      }
+    ]
   },
   {
     "scientific_name": "Pellorneum palustre",
@@ -142,6 +318,41 @@
       {
         "lang": "zh",
         "name": "沼泽幽鹛"
+      },
+      {
+        "lang": "ta",
+        "name": "சதுப்புநிலச் சிலம்பன்"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pellorneum nigrocapitatum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-capped Babbler"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pellorneum malaccense",
+    "common_names": [
+      {
+        "lang": "es",
+        "name": "Tordina colicorta"
+      },
+      {
+        "lang": "en",
+        "name": "Short-tailed Babbler"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pellorneum macropterum",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bornean Swamp Babbler"
       }
     ]
   },
@@ -163,6 +374,44 @@
       {
         "lang": "zh",
         "name": "褐冠幽鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pellorneum cinereiceps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ashy-headed Babbler"
+      },
+      {
+        "lang": "es",
+        "name": "Tordina coronigrís"
+      },
+      {
+        "lang": "fr",
+        "name": "Akalat à tête cendrée"
+      },
+      {
+        "lang": "sv",
+        "name": "Palawantimalia"
+      },
+      {
+        "lang": "vi",
+        "name": "Hoét đầu xám"
+      },
+      {
+        "lang": "zh",
+        "name": "灰头雅鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pellorneum celebense",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sulawesi Babbler"
       }
     ]
   },
@@ -200,6 +449,15 @@
     ]
   },
   {
+    "scientific_name": "Pellorneum capistratoides",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Rufous-browed Babbler"
+      }
+    ]
+  },
+  {
     "scientific_name": "Pellorneum buettikoferi",
     "common_names": [
       {
@@ -217,6 +475,31 @@
       {
         "lang": "sv",
         "name": "sumatratimalia"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Pellorneum bicolor",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ferruginous babbler"
+      },
+      {
+        "lang": "es",
+        "name": "tordina bicolor"
+      },
+      {
+        "lang": "fr",
+        "name": "Akalat ferrugineux"
+      },
+      {
+        "lang": "nl",
+        "name": "Witwangmuistimalia"
+      },
+      {
+        "lang": "sv",
+        "name": "Rosttimalia"
       }
     ]
   },

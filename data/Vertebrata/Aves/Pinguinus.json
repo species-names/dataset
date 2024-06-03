@@ -7,8 +7,16 @@
         "name": "أوك عظيم"
       },
       {
+        "lang": "as",
+        "name": "অ'ক চৰাই"
+      },
+      {
         "lang": "ast",
         "name": "Alca xigante"
+      },
+      {
+        "lang": "bg",
+        "name": "Гигантска гагарка"
       },
       {
         "lang": "br",
@@ -16,7 +24,7 @@
       },
       {
         "lang": "ca",
-        "name": "Gran gavot"
+        "name": "Alca gegant"
       },
       {
         "lang": "cs",
@@ -43,6 +51,14 @@
         "name": "Alca gigante"
       },
       {
+        "lang": "et",
+        "name": "Hiidalk"
+      },
+      {
+        "lang": "fa",
+        "name": "ماهی‌گیرک بزرگ"
+      },
+      {
         "lang": "fi",
         "name": "Siivetönruokki"
       },
@@ -59,12 +75,32 @@
         "name": "Grutte Alk"
       },
       {
+        "lang": "ga",
+        "name": "Falcóg mhór"
+      },
+      {
+        "lang": "gd",
+        "name": "Gearra-bhall"
+      },
+      {
+        "lang": "gl",
+        "name": "Arao xigante"
+      },
+      {
         "lang": "he",
         "name": "אלקה גדולה"
       },
       {
+        "lang": "hr",
+        "name": "Velika njorka"
+      },
+      {
         "lang": "hu",
         "name": "Óriásalka"
+      },
+      {
+        "lang": "id",
+        "name": "Alka besar"
       },
       {
         "lang": "is",
@@ -77,6 +113,14 @@
       {
         "lang": "ja",
         "name": "オオウミガラス"
+      },
+      {
+        "lang": "jv",
+        "name": "Auk gedhé"
+      },
+      {
+        "lang": "ka",
+        "name": "უფრთო ალკა"
       },
       {
         "lang": "kk",
@@ -95,8 +139,16 @@
         "name": "Didžioji alka"
       },
       {
+        "lang": "lv",
+        "name": "Milzu alks"
+      },
+      {
         "lang": "ml",
         "name": "ഗ്രേറ്റ് ഓക്ക്"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шылдырдымы гагарка"
       },
       {
         "lang": "nl",
@@ -120,26 +172,31 @@
       },
       {
         "lang": "pt",
-        "name": "Arau-gigante",
-        "synonyms": [
-          "Alca-grande"
-        ]
+        "name": "Torda-grande"
+      },
+      {
+        "lang": "ro",
+        "name": "Marele pinguin nordic"
       },
       {
         "lang": "ru",
         "name": "Бескрылая гагарка"
       },
       {
+        "lang": "se",
+        "name": "Soajáhis ruohki"
+      },
+      {
         "lang": "sh",
         "name": "Velika njorka"
       },
       {
-        "lang": "simple",
-        "name": "Great Auk"
+        "lang": "sk",
+        "name": "Alka veľká"
       },
       {
         "lang": "sl",
-        "name": "Velika njorka"
+        "name": "Orjaška njorka"
       },
       {
         "lang": "sr",
@@ -159,7 +216,15 @@
       },
       {
         "lang": "uk",
-        "name": "Безкрила гагарка"
+        "name": "Гагарка велика"
+      },
+      {
+        "lang": "vi",
+        "name": "An ca lớn"
+      },
+      {
+        "lang": "wuu",
+        "name": "大海雀"
       },
       {
         "lang": "zh",

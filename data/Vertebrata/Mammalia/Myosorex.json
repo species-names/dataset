@@ -22,6 +22,10 @@
       {
         "lang": "en",
         "name": "Forest Shrew"
+      },
+      {
+        "lang": "de",
+        "name": "Südafrikanische Waldspitzmaus"
       }
     ]
   },
@@ -118,12 +122,16 @@
     "scientific_name": "Myosorex cafer",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Musaranya ratolí cafre"
+      },
+      {
         "lang": "en",
         "name": "Dark-footed Mouse Shrew"
       },
       {
-        "lang": "ca",
-        "name": "Musaranya ratolí cafre"
+        "lang": "ja",
+        "name": "クロアシモリジャコウネズミ"
       }
     ]
   },

@@ -261,8 +261,36 @@
     "scientific_name": "Ichthyaetus leucophthalmus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "نورس أبيض العين"
+      },
+      {
+        "lang": "arz",
+        "name": "نورس ابيض العين"
+      },
+      {
+        "lang": "bg",
+        "name": "Белоока чайка"
+      },
+      {
+        "lang": "br",
+        "name": "Gouelan lagad gwenn"
+      },
+      {
+        "lang": "ca",
+        "name": "Gavina d'ulls blancs"
+      },
+      {
         "lang": "cs",
         "name": "Racek bělooký"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwylan lygatwen"
+      },
+      {
+        "lang": "da",
+        "name": "Rødehavs-måge"
       },
       {
         "lang": "de",
@@ -277,6 +305,22 @@
         "name": "Blankokula mevo"
       },
       {
+        "lang": "es",
+        "name": "Gaviota ojiblanca"
+      },
+      {
+        "lang": "et",
+        "name": "Valgesilm-kajakas"
+      },
+      {
+        "lang": "eu",
+        "name": "Kaio begizuri"
+      },
+      {
+        "lang": "fa",
+        "name": "کاکایی چشم‌سفید"
+      },
+      {
         "lang": "fi",
         "name": "Valkosilmälokki"
       },
@@ -285,20 +329,92 @@
         "name": "Goéland à iris blanc"
       },
       {
+        "lang": "ga",
+        "name": "Faoileán súilbhán"
+      },
+      {
+        "lang": "gd",
+        "name": "Foillan sooill-vane"
+      },
+      {
+        "lang": "hr",
+        "name": "Crvenomorski galeb"
+      },
+      {
+        "lang": "he",
+        "name": "שחף לבן עין"
+      },
+      {
         "lang": "hu",
         "name": "Pápaszemes sirály"
+      },
+      {
+        "lang": "hy",
+        "name": "Սպիտակաչք որոր"
+      },
+      {
+        "lang": "is",
+        "name": "Sandmáfur"
+      },
+      {
+        "lang": "it",
+        "name": "Gabbiano occhibianchi"
+      },
+      {
+        "lang": "lt",
+        "name": "Baltaakis kiras"
+      },
+      {
+        "lang": "lv",
+        "name": "Baltacu kaija"
       },
       {
         "lang": "ja",
         "name": "メジロカモメ"
       },
       {
+        "lang": "nl",
+        "name": "Witoogmeeuw"
+      },
+      {
+        "lang": "no",
+        "name": "Rødehavsmåke"
+      },
+      {
+        "lang": "pl",
+        "name": "Mewa białooka"
+      },
+      {
+        "lang": "pt",
+        "name": "Gaivota-d'olho-branco"
+      },
+      {
         "lang": "ru",
         "name": "Белоглазая чайка"
       },
       {
+        "lang": "se",
+        "name": "Vilgesčalmbáiski"
+      },
+      {
+        "lang": "sl",
+        "name": "Rdečemorski galeb"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitögd mås"
+      },
+      {
         "lang": "tr",
         "name": "Beyaz gözlü martı"
+      },
+      {
+        "lang": "uk",
+        "name": "Мартин червономорський"
+      },
+      {
+        "lang": "vi",
+        "name": "Mòng biển mắt trắng"
       }
     ]
   },
@@ -593,7 +709,7 @@
       },
       {
         "lang": "et",
-        "name": "vahemere kajakas"
+        "name": "Vahemere kajakas"
       },
       {
         "lang": "eu",
@@ -641,7 +757,7 @@
       },
       {
         "lang": "nl",
-        "name": "Audouins meeuw"
+        "name": "Audouins Meeuw"
       },
       {
         "lang": "no",

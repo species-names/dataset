@@ -69,6 +69,10 @@
     "scientific_name": "Arborophila rufogularis",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "পাহাড়ি তিতির"
+      },
+      {
         "lang": "cs",
         "name": "Koroptev oranžovohrdlá"
       },
@@ -274,38 +278,6 @@
       {
         "lang": "zh",
         "name": "蘇門答臘山鷓鴣"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Arborophila merlini",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Koroptev žlutonohá"
-      },
-      {
-        "lang": "en",
-        "name": "Annam Hill-partridge",
-        "synonyms": [
-          "Vietnam Partridge"
-        ]
-      },
-      {
-        "lang": "es",
-        "name": "Arborófila de Annam"
-      },
-      {
-        "lang": "fa",
-        "name": "کبک ویتنام"
-      },
-      {
-        "lang": "it",
-        "name": "Pernice dell'Annam"
-      },
-      {
-        "lang": "vi",
-        "name": "Gà so Trung Bộ"
       }
     ]
   },
@@ -529,77 +501,11 @@
   },
   {
     "scientific_name": "Arborophila chloropus",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Koroptev zelenonohá"
-      },
-      {
-        "lang": "en",
-        "name": "Scaly-breasted Partridge"
-      },
-      {
-        "lang": "sk",
-        "name": "Kurička zelenonohá"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Arborophila charltonii",
-    "common_names": [
-      {
-        "lang": "bg",
-        "name": "Кестенявогърда горска яребица"
-      },
-      {
-        "lang": "cs",
-        "name": "Koroptev malajská"
-      },
-      {
-        "lang": "en",
-        "name": "Chestnut-necklaced Partridge"
-      },
-      {
-        "lang": "es",
-        "name": "Arborófila pechicastaña"
-      },
-      {
-        "lang": "fa",
-        "name": "کبک گردن‌بندبلوطی"
-      },
-      {
-        "lang": "fr",
-        "name": "Torquéole à poitrine châtaine"
-      },
-      {
-        "lang": "hu",
-        "name": "Örvös hegyifogoly"
-      },
-      {
-        "lang": "ms",
-        "name": "Burung Sang Serok"
-      },
-      {
-        "lang": "nl",
-        "name": "Charltons bospatrijs"
-      },
-      {
-        "lang": "sk",
-        "name": "Kurička goliernatá"
-      },
-      {
-        "lang": "sv",
-        "name": "Charltonsånghöna"
-      },
-      {
-        "lang": "vi",
-        "name": "Gà so vòng cổ nâu"
-      },
-      {
-        "lang": "zh",
-        "name": "栗胸山鷓鴣"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Arborophila campbelli",
@@ -615,6 +521,10 @@
       {
         "lang": "en",
         "name": "Chestnut-headed Partridge"
+      },
+      {
+        "lang": "es",
+        "name": "Arborófila de Camboya"
       },
       {
         "lang": "sk",

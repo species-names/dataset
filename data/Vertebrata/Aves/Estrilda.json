@@ -81,7 +81,20 @@
   },
   {
     "scientific_name": "Estrilda perreini",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-tailed Waxbill"
+      },
+      {
+        "lang": "fr",
+        "name": "Astrild à queue noire"
+      },
+      {
+        "lang": "af",
+        "name": "Gryssysie"
+      }
+    ]
   },
   {
     "scientific_name": "Estrilda paludicola",
@@ -132,6 +145,10 @@
       {
         "lang": "pt",
         "name": "Bico-de-lacre-de-face-laranja"
+      },
+      {
+        "lang": "ta",
+        "name": "மெழுகு சிவப்பு அலகு பறவை"
       }
     ]
   },
@@ -145,7 +162,20 @@
   },
   {
     "scientific_name": "Estrilda erythronotos",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-cheeked Waxbill"
+      },
+      {
+        "lang": "af",
+        "name": "Swartwangsysie"
+      },
+      {
+        "lang": "pt",
+        "name": "bico-de-lacre-de-faces-pretas"
+      }
+    ]
   },
   {
     "scientific_name": "Estrilda charmosyna",
@@ -188,6 +218,10 @@
       {
         "lang": "af",
         "name": "Rooibeksysie"
+      },
+      {
+        "lang": "an",
+        "name": "Astrilde de coralet"
       },
       {
         "lang": "bg",

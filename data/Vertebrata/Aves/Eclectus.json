@@ -40,7 +40,7 @@
       },
       {
         "lang": "en",
-        "name": "Eclectus Parrot"
+        "name": "Moluccan Eclectus"
       },
       {
         "lang": "es",
@@ -121,6 +121,33 @@
       {
         "lang": "zh",
         "name": "折衷鹦鹉"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eclectus riedeli",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tanimbar Eclectus"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eclectus polychloros",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Papuan Eclectus"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Eclectus cornelia",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sumba Eclectus"
       }
     ]
   }

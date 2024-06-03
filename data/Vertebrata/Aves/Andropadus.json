@@ -8,17 +8,20 @@
     "common_names": []
   },
   {
+    "scientific_name": "Andropadus striifacies",
+    "common_names": []
+  },
+  {
     "scientific_name": "Andropadus olivaceiceps",
     "common_names": []
   },
   {
     "scientific_name": "Andropadus nigriceps",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Mountain Greenbul"
-      }
-    ]
+    "common_names": []
+  },
+  {
+    "scientific_name": "Andropadus neumanni",
+    "common_names": []
   },
   {
     "scientific_name": "Andropadus montanus",
@@ -26,30 +29,19 @@
   },
   {
     "scientific_name": "Andropadus milanjensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Stripe-cheeked Greenbul"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Andropadus masukuensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Shelley's Greenbul"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Andropadus latirostris",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Yellow-whiskered Greenbul"
-      }
-    ]
+    "common_names": []
+  },
+  {
+    "scientific_name": "Andropadus kikuyuensis",
+    "common_names": []
   },
   {
     "scientific_name": "Andropadus kakamegae",
@@ -57,38 +49,64 @@
   },
   {
     "scientific_name": "Andropadus importunus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Andropadus hallae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "bulbul tmavý"
+      },
+      {
+        "lang": "de",
+        "name": "Dunkelbülbül"
+      },
+      {
+        "lang": "en",
+        "name": "Sombre greenbul"
+      },
+      {
+        "lang": "es",
+        "name": "bulbul de Zanzíbar"
+      },
+      {
+        "lang": "fi",
+        "name": "pensasbulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "bulbul importun"
+      },
+      {
+        "lang": "hu",
+        "name": "surranó bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "vale buulbuul"
+      },
+      {
+        "lang": "pl",
+        "name": "bilbil zuchwały"
+      },
+      {
+        "lang": "sv",
+        "name": "buskgrönbulbyl"
+      },
+      {
+        "lang": "uk",
+        "name": "Бюльбюль білоокий"
+      }
+    ]
   },
   {
     "scientific_name": "Andropadus gracilis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Grey Greenbul"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Andropadus gracilirostris",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Slender-billed Greenbul"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Andropadus fusciceps",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Northern mountain greenbul"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Andropadus curvirostris",

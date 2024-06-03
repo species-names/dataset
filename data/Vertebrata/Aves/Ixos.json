@@ -22,32 +22,7 @@
   },
   {
     "scientific_name": "Ixos siquijorensis",
-    "common_names": [
-      {
-        "lang": "cy",
-        "name": "Bwlbwl bronresog"
-      },
-      {
-        "lang": "en",
-        "name": "Streak-breasted bulbul"
-      },
-      {
-        "lang": "fi",
-        "name": "Negrosinbulbuli"
-      },
-      {
-        "lang": "hu",
-        "name": "Palaszürkefejű bülbül"
-      },
-      {
-        "lang": "nl",
-        "name": "Leikruinbuulbuul"
-      },
-      {
-        "lang": "sv",
-        "name": "streckbröstad bulbyl"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Ixos rufigularis",
@@ -55,16 +30,7 @@
   },
   {
     "scientific_name": "Ixos philippinus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Philippine Bulbul"
-      },
-      {
-        "lang": "nl",
-        "name": "Roodborstbuulbuul"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Ixos nicobariensis",
@@ -96,6 +62,10 @@
     ]
   },
   {
+    "scientific_name": "Ixos mindorensis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Ixos mcclellandii",
     "common_names": []
   },
@@ -104,20 +74,36 @@
     "common_names": []
   },
   {
-    "scientific_name": "Ixos everetti",
+    "scientific_name": "Ixos leucogrammicus",
     "common_names": [
       {
         "lang": "en",
-        "name": "Yellowish Bulbul"
-      },
-      {
-        "lang": "es",
-        "name": "Bulbul de Everett"
+        "name": "Cream-striped Bulbul"
       },
       {
         "lang": "fr",
-        "name": "Bulbul d'Everett"
+        "name": "Bulbul rayé"
+      },
+      {
+        "lang": "hu",
+        "name": "Bujkáló bülbül"
+      },
+      {
+        "lang": "pl",
+        "name": "Bilbil plamisty"
+      },
+      {
+        "lang": "es",
+        "name": "Bulbul rayado"
       }
     ]
+  },
+  {
+    "scientific_name": "Ixos guimarasensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ixos everetti",
+    "common_names": []
   }
 ]

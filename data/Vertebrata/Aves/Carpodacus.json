@@ -120,12 +120,20 @@
     "scientific_name": "Carpodacus synoicus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "العصفور الوردي السينائي"
+      },
+      {
         "lang": "en",
         "name": "Pale Rosefinch"
       },
       {
         "lang": "ja",
         "name": "サバクマシコ"
+      },
+      {
+        "lang": "pl",
+        "name": "Dziwonia synajska"
       }
     ]
   },
@@ -791,6 +799,10 @@
       {
         "lang": "en",
         "name": "Chinese Beautiful Rosefinch"
+      },
+      {
+        "lang": "it",
+        "name": "Carpodaco magnifico cinese"
       }
     ]
   },

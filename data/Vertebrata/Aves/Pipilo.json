@@ -5,6 +5,14 @@
       {
         "lang": "en",
         "name": "Collared Towhee"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de collar"
+      },
+      {
+        "lang": "es",
+        "name": "Toquí acollarado"
       }
     ]
   },
@@ -26,6 +34,10 @@
       {
         "lang": "sv",
         "name": "Bermudabusksparv"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de les Bermudes"
       }
     ]
   },
@@ -35,6 +47,10 @@
       {
         "lang": "ar",
         "name": "الطُّوهي المُرَقَّط"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí maculat"
       },
       {
         "lang": "cs",
@@ -123,7 +139,7 @@
     "common_names": [
       {
         "lang": "ca",
-        "name": "Pinsà emmantellat"
+        "name": "Toquí emmantellat"
       },
       {
         "lang": "cs",
@@ -230,6 +246,10 @@
   {
     "scientific_name": "Pipilo chlorurus",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Toquí cuaverd"
+      },
       {
         "lang": "cs",
         "name": "Pipilo zelenoocasý"

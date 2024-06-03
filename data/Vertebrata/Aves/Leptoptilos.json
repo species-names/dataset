@@ -1,7 +1,43 @@
 [
   {
+    "scientific_name": "Leptoptilos titan",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Leptoptilos richae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Leptoptilos pliocenicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Leptoptilos patagonicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Leptoptilos lüi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Leptoptilos indicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Leptoptilos falconeri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Leptoptilos robustus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Leptoptilos javanicus",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "মদনটাক"
+      },
       {
         "lang": "de",
         "name": "Kleiner Adjutant",
@@ -28,6 +64,10 @@
       {
         "lang": "ms",
         "name": "Burung Botak"
+      },
+      {
+        "lang": "ne",
+        "name": "भुँडीफोर गरुड"
       },
       {
         "lang": "nl",

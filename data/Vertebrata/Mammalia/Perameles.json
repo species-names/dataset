@@ -4,10 +4,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Perameles bowensis",
-    "common_names": []
-  },
-  {
     "scientific_name": "Perameles allinghamensis",
     "common_names": []
   },
@@ -36,6 +32,10 @@
         "name": "Bandikut nosatý"
       },
       {
+        "lang": "de",
+        "name": "Großer Langnasenbeutler"
+      },
+      {
         "lang": "en",
         "name": "Southern Long-nosed Bandicoot"
       },
@@ -44,16 +44,16 @@
         "name": "Hosszúorrú bandikut"
       },
       {
-        "lang": "tr",
-        "name": "Uzun burunlu bandikut"
-      },
-      {
         "lang": "nl",
         "name": "Spitsneusbuideldas"
       },
       {
         "lang": "pl",
         "name": "Jamraj zwyczajny"
+      },
+      {
+        "lang": "tr",
+        "name": "Uzun burunlu bandikut"
       }
     ]
   },
@@ -61,18 +61,34 @@
     "scientific_name": "Perameles gunnii",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Tasmanischer Langnasenbeutler"
+      },
+      {
         "lang": "en",
         "name": "Eastern Barred Bandicoot"
       },
       {
+        "lang": "es",
+        "name": "Bandicut oriental"
+      },
+      {
         "lang": "fr",
         "name": "Péramèle À Long Nez De L´est"
+      },
+      {
+        "lang": "nl",
+        "name": "Tasmaanse buideldas"
       }
     ]
   },
   {
     "scientific_name": "Perameles eremiana",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Wüsten-Langnasenbeutler"
+      },
       {
         "lang": "en",
         "name": "Desert Bandicoot"
@@ -84,12 +100,24 @@
       {
         "lang": "ja",
         "name": "カタアカバンディクート<!--絶滅野生動物事典 2020 p.501-->"
+      },
+      {
+        "lang": "nl",
+        "name": "Woestijnbuideldas"
       }
     ]
   },
   {
+    "scientific_name": "Perameles bowensis",
+    "common_names": []
+  },
+  {
     "scientific_name": "Perameles bougainville",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Streifen-Langnasenbeutler"
+      },
       {
         "lang": "en",
         "name": "Western Barred Bandicoot"

@@ -1,14 +1,5 @@
 [
   {
-    "scientific_name": "Locustella timorensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Timor Bush Warbler"
-      }
-    ]
-  },
-  {
     "scientific_name": "Locustella thoracica",
     "common_names": [
       {
@@ -45,50 +36,24 @@
   },
   {
     "scientific_name": "Locustella pryeri",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Locustella portenta",
     "common_names": [
       {
         "lang": "en",
-        "name": "Marsh Grassbird"
+        "name": "Taliabu Grasshopper-Warbler"
       }
     ]
   },
   {
     "scientific_name": "Locustella pleskei",
-    "common_names": [
-      {
-        "lang": "fi",
-        "name": "Koreansirkkalintu"
-      },
-      {
-        "lang": "ja",
-        "name": "ウチヤマセンニュウ"
-      },
-      {
-        "lang": "ko",
-        "name": "섬개개비"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Locustella ochotensis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Middendorff's grasshopper-warbler"
-      },
-      {
-        "lang": "fi",
-        "name": "Ohotansirkkalintu"
-      },
-      {
-        "lang": "ja",
-        "name": "シマセンニュウ"
-      },
-      {
-        "lang": "pl",
-        "name": "świerszczak ochocki"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Locustella naevia",
@@ -184,6 +149,15 @@
       {
         "lang": "zh",
         "name": "黑斑蝗莺"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Locustella musculus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Seram Bush-Warbler"
       }
     ]
   },
@@ -506,8 +480,21 @@
     ]
   },
   {
+    "scientific_name": "Locustella idonea",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Dalat Bush-Warbler"
+      }
+    ]
+  },
+  {
     "scientific_name": "Locustella fluviatilis",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Carrasclís de río"
+      },
       {
         "lang": "cs",
         "name": "Cvrčilka říční"
@@ -572,26 +559,14 @@
   },
   {
     "scientific_name": "Locustella fasciolata",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Locustella disturbans",
     "common_names": [
       {
         "lang": "en",
-        "name": "Gray's Grasshopper Warbler"
-      },
-      {
-        "lang": "es",
-        "name": "Buscarla de Gray"
-      },
-      {
-        "lang": "fi",
-        "name": "Jättiläissirkkalintu"
-      },
-      {
-        "lang": "ja",
-        "name": "エゾセンニュウ"
-      },
-      {
-        "lang": "zh",
-        "name": "苍眉蝗莺"
+        "name": "Buru Bush-Warbler"
       }
     ]
   },
@@ -615,56 +590,7 @@
   },
   {
     "scientific_name": "Locustella certhiola",
-    "common_names": [
-      {
-        "lang": "br",
-        "name": "Fouin-Pallas"
-      },
-      {
-        "lang": "de",
-        "name": "Streifenschwirl"
-      },
-      {
-        "lang": "en",
-        "name": "Pallas's Grasshopper Warbler"
-      },
-      {
-        "lang": "fi",
-        "name": "Sarasirkkalintu"
-      },
-      {
-        "lang": "fr",
-        "name": "Locustelle de Pallas"
-      },
-      {
-        "lang": "lv",
-        "name": "Pallasa ķauķis"
-      },
-      {
-        "lang": "ms",
-        "name": "Burung Cekup Belakang Perang"
-      },
-      {
-        "lang": "no",
-        "name": "Starrsanger"
-      },
-      {
-        "lang": "pl",
-        "name": "Świerszczak melodyjny"
-      },
-      {
-        "lang": "ru",
-        "name": "Певчий сверчок"
-      },
-      {
-        "lang": "sv",
-        "name": "Starrsångare"
-      },
-      {
-        "lang": "zh",
-        "name": "小蝗莺"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Locustella caudata",
@@ -686,12 +612,7 @@
   },
   {
     "scientific_name": "Locustella amnicola",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Sakhalin Grasshopper Warbler"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Locustella alishanensis",
@@ -707,6 +628,15 @@
       {
         "lang": "zh",
         "name": "臺灣短翅鶯"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Locustella alfredi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bamboo Warbler"
       }
     ]
   },

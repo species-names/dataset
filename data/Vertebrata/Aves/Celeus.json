@@ -119,27 +119,6 @@
     ]
   },
   {
-    "scientific_name": "Celeus grammicus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Scaly-breasted Woodpecker"
-      },
-      {
-        "lang": "fi",
-        "name": "Kastanjatöyhtötikka"
-      },
-      {
-        "lang": "es",
-        "name": "Carpintero rojizo"
-      },
-      {
-        "lang": "pt",
-        "name": "Picapauzinho chocolate"
-      }
-    ]
-  },
-  {
     "scientific_name": "Celeus galeatus",
     "common_names": [
       {
@@ -188,6 +167,10 @@
         "name": "Cream-colored Woodpecker"
       },
       {
+        "lang": "es",
+        "name": "Carpintero amarillo"
+      },
+      {
         "lang": "pt",
         "name": "Pica-pau-amarelo"
       },
@@ -228,6 +211,10 @@
       {
         "lang": "en",
         "name": "Chestnut Woodpecker"
+      },
+      {
+        "lang": "es",
+        "name": "Celeus elegans"
       },
       {
         "lang": "fa",

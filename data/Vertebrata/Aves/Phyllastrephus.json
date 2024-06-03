@@ -1,12 +1,7 @@
 [
   {
     "scientific_name": "Phyllastrephus zosterops",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Spectacled Greenbul"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Phyllastrephus xavieri",
@@ -23,12 +18,7 @@
   },
   {
     "scientific_name": "Phyllastrephus tenebrosus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Dusky Greenbul"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Phyllastrephus strepitans",
@@ -174,7 +164,44 @@
   },
   {
     "scientific_name": "Phyllastrephus fischeri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Fischerbülbül"
+      },
+      {
+        "lang": "en",
+        "name": "Fischer's greenbul"
+      },
+      {
+        "lang": "fa",
+        "name": "بوبر فیشر"
+      },
+      {
+        "lang": "fi",
+        "name": "Rusobulbuli"
+      },
+      {
+        "lang": "fr",
+        "name": "Bulbul de Fischer"
+      },
+      {
+        "lang": "hu",
+        "name": "Fischer-bülbül"
+      },
+      {
+        "lang": "nl",
+        "name": "Fischers loofbuulbuul"
+      },
+      {
+        "lang": "sv",
+        "name": "Fischergrönbulbyl"
+      },
+      {
+        "lang": "uk",
+        "name": "Торо рудохвостий"
+      }
+    ]
   },
   {
     "scientific_name": "Phyllastrephus debilis",

@@ -106,8 +106,32 @@
     "scientific_name": "Spizocorys obbiensis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Obbialerche"
+      },
+      {
+        "lang": "en",
+        "name": "Obbia lark"
+      },
+      {
+        "lang": "es",
+        "name": "alondra de Obbia"
+      },
+      {
         "lang": "fi",
         "name": "Obbiankiuru"
+      },
+      {
+        "lang": "fr",
+        "name": "Alouette d'Obbia"
+      },
+      {
+        "lang": "nl",
+        "name": "Obbialeeuwerik"
+      },
+      {
+        "lang": "sv",
+        "name": "Obbialärka"
       }
     ]
   },

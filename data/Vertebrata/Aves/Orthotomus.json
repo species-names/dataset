@@ -7,6 +7,10 @@
         "name": "টুনটুনি"
       },
       {
+        "lang": "ca",
+        "name": "Ocell sastre cuallarg"
+      },
+      {
         "lang": "cs",
         "name": "Krejčiřík obecný"
       },
@@ -124,7 +128,11 @@
     "scientific_name": "Orthotomus sepium",
     "common_names": [
       {
-        "lang": "cs",
+        "lang": "ca",
+        "name": "Ocell sastre de dors olivaci"
+      },
+      {
+        "lang": " cs",
         "name": "Krejčiřík rudohlavý"
       },
       {
@@ -282,6 +290,10 @@
     "scientific_name": "Orthotomus chloronotus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Ocell sastre dorsiverd"
+      },
+      {
         "lang": "en",
         "name": "Trilling tailorbird"
       },
@@ -332,6 +344,10 @@
   {
     "scientific_name": "Orthotomus atrogularis",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Ocell sastre collnegre"
+      },
       {
         "lang": "en",
         "name": "Dark-necked Tailorbird"

@@ -1,18 +1,127 @@
 [
   {
-    "scientific_name": "Atticora melanoleuca",
+    "scientific_name": "Atticora tibialis",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "سنونو أبيض الفخذ"
+      },
+      {
+        "lang": "arz",
+        "name": "سنونو ابيض الفخذ"
+      },
+      {
+        "lang": "ca",
+        "name": "Oreneta camablanca"
+      },
+      {
+        "lang": "cs",
+        "name": "Vlaštovka lesní"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol facsiog"
+      },
+      {
+        "lang": "da",
+        "name": "Hvidlåret Svale"
+      },
+      {
+        "lang": "de",
+        "name": "Weißhosenschwalbe"
+      },
+      {
         "lang": "en",
-        "name": "Black-collared Swallow"
+        "name": "White-thighed Swallow"
       },
       {
         "lang": "es",
-        "name": "Golondrina acollarada"
+        "name": "Golondrina patiblanca"
+      },
+      {
+        "lang": "et",
+        "name": "Tõmmupääsuke"
+      },
+      {
+        "lang": "fa",
+        "name": "پرستوی ران‌سفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Sukkapääsky"
+      },
+      {
+        "lang": "fr",
+        "name": "Hirondelle à cuisses blanches"
+      },
+      {
+        "lang": "hr",
+        "name": "Čađasti piljak"
+      },
+      {
+        "lang": "hu",
+        "name": "Fehérlábú erdeifecske"
+      },
+      {
+        "lang": "it",
+        "name": "Rondine zampebianche"
+      },
+      {
+        "lang": "ja",
+        "name": "モモジロコツバメ"
+      },
+      {
+        "lang": "lt",
+        "name": "Nykštukinė kregždė"
+      },
+      {
+        "lang": "nl",
+        "name": "Witflankzwaluw"
+      },
+      {
+        "lang": "no",
+        "name": "Flaggermussvale"
+      },
+      {
+        "lang": "pl",
+        "name": "Jaskółeczka mała"
       },
       {
         "lang": "pt",
-        "name": "Andorinha-de-coleira"
+        "name": "Calcinha-branca"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică cu picioare albe"
+      },
+      {
+        "lang": "ru",
+        "name": "Карликовая ласточка"
+      },
+      {
+        "lang": "sk",
+        "name": "Lastovička pančuchová"
+      },
+      {
+        "lang": "sv",
+        "name": "Vitlårad svala"
+      },
+      {
+        "lang": "uk",
+        "name": "Ластівка карликова"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Atticora pileata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-capped Swallow"
+      },
+      {
+        "lang": "es",
+        "name": "Golondrina Cabecinegra"
       }
     ]
   },
@@ -22,6 +131,10 @@
       {
         "lang": "en",
         "name": "White-banded Swallow"
+      },
+      {
+        "lang": "es",
+        "name": "Golondrina fajiblanca"
       },
       {
         "lang": "fi",
@@ -34,6 +147,10 @@
       {
         "lang": "pt",
         "name": "Peitoril"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică cu bandă albă"
       }
     ]
   }

@@ -1,5 +1,13 @@
 [
   {
+    "scientific_name": "Anser thraceiensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Anser tchikoicus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Anser serrirostris",
     "common_names": [
       {
@@ -182,6 +190,10 @@
     ]
   },
   {
+    "scientific_name": "Anser liskunae",
+    "common_names": []
+  },
+  {
     "scientific_name": "Anser indicus",
     "common_names": [
       {
@@ -349,6 +361,10 @@
         "name": "Stripegås"
       },
       {
+        "lang": "or",
+        "name": "ଦୁବ ହଂସ"
+      },
+      {
         "lang": "pa",
         "name": "ਸਾਵਾ ਮਘ"
       },
@@ -359,6 +375,10 @@
       {
         "lang": "pnb",
         "name": "ساوا مگھ"
+      },
+      {
+        "lang": "pt",
+        "name": "Ganso-de-cabeça-listada"
       },
       {
         "lang": "ru",
@@ -404,6 +424,10 @@
   {
     "scientific_name": "Anser fabalis",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Auca montesina"
+      },
       {
         "lang": "be",
         "name": "Гусь-гуменніца"
@@ -907,6 +931,19 @@
     ]
   },
   {
+    "scientific_name": "Anser djuktaiensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Djuktai Goose"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Anser devjatkini",
+    "common_names": []
+  },
+  {
     "scientific_name": "Anser cygnoides",
     "common_names": [
       {
@@ -1140,6 +1177,10 @@
     "scientific_name": "Anser caerulescens",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Auca blanca"
+      },
+      {
         "lang": "bg",
         "name": "Снежна гъска"
       },
@@ -1276,6 +1317,10 @@
   {
     "scientific_name": "Anser brachyrhynchus",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Auca de piponet"
+      },
       {
         "lang": "ast",
         "name": "Gansu Picu Cortu"
@@ -1451,8 +1496,16 @@
     ]
   },
   {
+    "scientific_name": "Anser azerbaidzhanicus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Anser anser",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Auca"
+      },
       {
         "lang": "ar",
         "name": "إوز أربد"
@@ -1499,7 +1552,7 @@
       },
       {
         "lang": "cs",
-        "name": "husa velká"
+        "name": "Husa velká"
       },
       {
         "lang": "cy",
@@ -1527,7 +1580,10 @@
       },
       {
         "lang": "et",
-        "name": "Hallhani"
+        "name": "Hallhani",
+        "synonyms": [
+          "Roohani"
+        ]
       },
       {
         "lang": "eu",
@@ -1539,7 +1595,7 @@
       },
       {
         "lang": "fi",
-        "name": "merihanhi"
+        "name": "Merihanhi"
       },
       {
         "lang": "fo",
@@ -1679,7 +1735,7 @@
       },
       {
         "lang": "sk",
-        "name": "hus divá"
+        "name": "Hus divá"
       },
       {
         "lang": "sv",
@@ -1715,6 +1771,10 @@
     "scientific_name": "Anser albifrons",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Auca ristolera"
+      },
+      {
         "lang": "ar",
         "name": "الإوز الأغر",
         "synonyms": [
@@ -1736,6 +1796,10 @@
       {
         "lang": "bg",
         "name": "Голяма белочела гъска"
+      },
+      {
+        "lang": "bn",
+        "name": "সাদাকপাল রাজহাঁস"
       },
       {
         "lang": "br",
@@ -1895,7 +1959,7 @@
       },
       {
         "lang": "nl",
-        "name": "Kolgans"
+        "name": "kolgans"
       },
       {
         "lang": "nn",

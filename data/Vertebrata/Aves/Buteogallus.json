@@ -29,6 +29,10 @@
       {
         "lang": "pt",
         "name": "Gavião-preto"
+      },
+      {
+        "lang": "ru",
+        "name": "Мексиканский крабовый канюк"
       }
     ]
   },
@@ -53,7 +57,7 @@
       },
       {
         "lang": "en",
-        "name": "Montane Solitary Eagle"
+        "name": "Solitary Eagle"
       },
       {
         "lang": "eo",
@@ -102,7 +106,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Slate-coloured Hawk"
+        "name": "Slate-colored Hawk"
       },
       {
         "lang": "es",
@@ -115,12 +119,20 @@
       {
         "lang": "pt",
         "name": "Gavião-azul"
+      },
+      {
+        "lang": "ru",
+        "name": "Шиферный крабоед"
       }
     ]
   },
   {
     "scientific_name": "Buteogallus meridionalis",
     "common_names": [
+      {
+        "lang": "en",
+        "name": "Savanna Hawk"
+      },
       {
         "lang": "es",
         "name": "Busardo sabanero",
@@ -139,6 +151,10 @@
       {
         "lang": "pt",
         "name": "Gavião-casco-de-couro"
+      },
+      {
+        "lang": "ru",
+        "name": "Саванный крабоед"
       }
     ]
   },
@@ -160,6 +176,10 @@
       {
         "lang": "pt",
         "name": "Gavião-pombo-pequeno"
+      },
+      {
+        "lang": "ru",
+        "name": "Белоголовый крабоед"
       },
       {
         "lang": "ar",
@@ -251,6 +271,10 @@
         "name": "Falcão-negro-cubano"
       },
       {
+        "lang": "ru",
+        "name": "Кубинский крабоед"
+      },
+      {
         "lang": "sk",
         "name": "myšiak kubánsky"
       }
@@ -273,7 +297,7 @@
       },
       {
         "lang": "en",
-        "name": "Crowned Solitary Eagle"
+        "name": "Chaco Eagle"
       },
       {
         "lang": "eo",
@@ -334,7 +358,7 @@
       },
       {
         "lang": "en",
-        "name": "Common black hawk"
+        "name": "Common Black Hawk"
       },
       {
         "lang": "es",
@@ -415,6 +439,10 @@
         "name": "Káně krabí"
       },
       {
+        "lang": "en",
+        "name": "Rufous Crab Hawk"
+      },
+      {
         "lang": "es",
         "name": "Busardo negro del Atlántico"
       },
@@ -425,6 +453,10 @@
       {
         "lang": "pl",
         "name": "Czarnostrząb rdzawoskrzydły"
+      },
+      {
+        "lang": "ru",
+        "name": "Краснобрюхий крабовый канюк"
       },
       {
         "lang": "tr",

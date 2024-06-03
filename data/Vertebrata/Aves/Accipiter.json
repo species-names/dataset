@@ -1858,7 +1858,7 @@
       },
       {
         "lang": "en",
-        "name": "Northern Goshawk"
+        "name": "Eurasian Goshawk"
       },
       {
         "lang": "eo",
@@ -2053,19 +2053,8 @@
         "name": "Hønsehauk"
       },
       {
-        "lang": "nv",
-        "name": "Giníłbáhí"
-      },
-      {
         "lang": "oc",
         "name": "Astor"
-      },
-      {
-        "lang": "oj",
-        "name": "ᑭᐳᓇᓯ",
-        "synonyms": [
-          "ᓄᒋᓭᐍᓹᐏ"
-        ]
       },
       {
         "lang": "pl",
@@ -2137,10 +2126,7 @@
       },
       {
         "lang": "sr",
-        "name": "Јастреб кокошар",
-        "synonyms": [
-          "Jastreb kokošar"
-        ]
+        "name": "Јастреб кокошар - Jastreb kokošar"
       },
       {
         "lang": "stq",
@@ -2980,6 +2966,10 @@
       {
         "lang": "ru",
         "name": "Двуцветный ястреб"
+      },
+      {
+        "lang": "pt",
+        "name": "gavião-bombachinha-grande"
       }
     ]
   },
@@ -3024,6 +3014,38 @@
         "synonyms": [
           "เหยี่ยวชิครา"
         ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Accipiter atricapillus",
+    "common_names": [
+      {
+        "lang": "cy",
+        "name": "Gwyddwalch America"
+      },
+      {
+        "lang": "en",
+        "name": "American Goshawk"
+      },
+      {
+        "lang": "nl",
+        "name": "Amerikaanse havik"
+      },
+      {
+        "lang": "nv",
+        "name": "Giníłbáhí"
+      },
+      {
+        "lang": "oj",
+        "name": "ᑭᐳᓇᓯ",
+        "synonyms": [
+          "ᓄᒋᓭᐍᓹᐏ"
+        ]
+      },
+      {
+        "lang": "sv",
+        "name": "Amerikansk duvhök"
       }
     ]
   },

@@ -117,20 +117,80 @@
     "scientific_name": "Chlorostilbon lucidus",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Colibrí maragda ventridaurat"
+      },
+      {
+        "lang": "cs",
+        "name": "Kolibřík zlatobřichý"
+      },
+      {
+        "lang": "da",
+        "name": "Glanssmaragd"
+      },
+      {
+        "lang": "de",
+        "name": "Goldbauch-Smaragdkolibri"
+      },
+      {
         "lang": "en",
         "name": "Glittering-bellied Emerald"
+      },
+      {
+        "lang": "es",
+        "name": "Esmeralda ventridorada"
+      },
+      {
+        "lang": "fi",
+        "name": "Hohtosmaragdikolibri"
       },
       {
         "lang": "fr",
         "name": "Émeraude splendide"
       },
       {
-        "lang": "es",
-        "name": "Esmeralda Ventridorada"
+        "lang": "hu",
+        "name": "Sárgahasú smaragdkolibri"
+      },
+      {
+        "lang": "it",
+        "name": "Smeraldo pancialuccicante"
+      },
+      {
+        "lang": "ja",
+        "name": "アオムネヒメエメラルドハチドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudbuiksmaragdkolibrie"
+      },
+      {
+        "lang": "no",
+        "name": "Glansbuksmaragd"
+      },
+      {
+        "lang": "pl",
+        "name": "Złocik złotobrzuchy"
       },
       {
         "lang": "pt",
-        "name": "besourinho-de-bico-vermelho"
+        "name": "Besourinho-de-bico-vermelho"
+      },
+      {
+        "lang": "ru",
+        "name": "Золотобрюхий изумрудный колибри"
+      },
+      {
+        "lang": "sk",
+        "name": "Smaragdovec zlatobruchý"
+      },
+      {
+        "lang": "sv",
+        "name": "Glanssmaragd"
+      },
+      {
+        "lang": "uk",
+        "name": "Колібрі-смарагд золоточеревий"
       }
     ]
   },

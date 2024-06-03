@@ -29,7 +29,7 @@
     ]
   },
   {
-    "scientific_name": "Stachyris striolata",
+    "scientific_name": "Stachyris strialata",
     "common_names": [
       {
         "lang": "en",
@@ -51,32 +51,7 @@
   },
   {
     "scientific_name": "Stachyris speciosa",
-    "common_names": [
-      {
-        "lang": "cy",
-        "name": "Preblyn coed ysblennydd"
-      },
-      {
-        "lang": "nl",
-        "name": "Geelkapboomtimalia"
-      },
-      {
-        "lang": "pnb",
-        "name": "ڈاسیکروٹوفا سپیسیاوسا"
-      },
-      {
-        "lang": "en",
-        "name": "Flame-templed babbler"
-      },
-      {
-        "lang": "es",
-        "name": "Timalí frentigualdo"
-      },
-      {
-        "lang": "sv",
-        "name": "praktträdtimalia"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Stachyris rufifrons",
@@ -84,28 +59,7 @@
   },
   {
     "scientific_name": "Stachyris ruficeps",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Rufous-capped babbler"
-      },
-      {
-        "lang": "es",
-        "name": "Timalí coronirrojo"
-      },
-      {
-        "lang": "sv",
-        "name": "Rödhättad timalia"
-      },
-      {
-        "lang": "vi",
-        "name": "Khướu bụi đầu đỏ"
-      },
-      {
-        "lang": "zh",
-        "name": "红头穗鹛"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Stachyris rodolphei",
@@ -121,29 +75,17 @@
     ]
   },
   {
-    "scientific_name": "Stachyris pyrrhops",
+    "scientific_name": "Stachyris roberti",
     "common_names": [
       {
         "lang": "en",
-        "name": "Black-chinned babbler"
-      },
-      {
-        "lang": "es",
-        "name": "Timalí barbinegro"
-      },
-      {
-        "lang": "ne",
-        "name": "कालोचिउँडे वनभ्याकुर"
-      },
-      {
-        "lang": "sv",
-        "name": "Svarthaketimalia"
-      },
-      {
-        "lang": "zh",
-        "name": "红嘴穗鹛"
+        "name": "Chevron-breasted Wren-Babbler"
       }
     ]
+  },
+  {
+    "scientific_name": "Stachyris pyrrhops",
+    "common_names": []
   },
   {
     "scientific_name": "Stachyris poliocephala",
@@ -234,24 +176,7 @@
   },
   {
     "scientific_name": "Stachyris nigrocapitata",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Black-crowned Babbler"
-      },
-      {
-        "lang": "es",
-        "name": "timalí coroninegro"
-      },
-      {
-        "lang": "sv",
-        "name": "Svartkronad trädtimalia"
-      },
-      {
-        "lang": "zh",
-        "name": "黑冠穗鹛"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Stachyris nigricollis",
@@ -313,28 +238,7 @@
   },
   {
     "scientific_name": "Stachyris melanothorax",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Crescent-chested babbler"
-      },
-      {
-        "lang": "es",
-        "name": "Timalí perlado"
-      },
-      {
-        "lang": "id",
-        "name": "Tepus pipi-perak"
-      },
-      {
-        "lang": "sv",
-        "name": "Månbröstad timalia"
-      },
-      {
-        "lang": "zh",
-        "name": "珠颊穗鹛"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Stachyris maculata",
@@ -395,6 +299,15 @@
       {
         "lang": "zh",
         "name": "白耳穗鹛"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Stachyris humei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wedge-billed Wren-Babbler"
       }
     ]
   },
@@ -466,98 +379,18 @@
   },
   {
     "scientific_name": "Stachyris dennistouni",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Golden-crowned babbler"
-      },
-      {
-        "lang": "es",
-        "name": "Timalí coronidorado"
-      },
-      {
-        "lang": "nl",
-        "name": "Vuurkruinboomtimalia"
-      },
-      {
-        "lang": "pnb",
-        "name": "سٹیروپٹیلس ڈینسٹونی"
-      },
-      {
-        "lang": "sv",
-        "name": "gulkronad trädtimalia"
-      },
-      {
-        "lang": "zh",
-        "name": "金冠穗鹛"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Stachyris chrysaea",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Golden Babbler"
-      },
-      {
-        "lang": "es",
-        "name": "Timalí dorado"
-      },
-      {
-        "lang": "ms",
-        "name": "Burung Kelicap Mas"
-      },
-      {
-        "lang": "ne",
-        "name": "निगाले वनभ्याकुर"
-      },
-      {
-        "lang": "sv",
-        "name": "Gyllentimalia"
-      },
-      {
-        "lang": "vi",
-        "name": "Khướu bụi vàng"
-      },
-      {
-        "lang": "zh",
-        "name": "金头穗鹛"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Stachyris capitalis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Rusty-crowned Babbler"
-      },
-      {
-        "lang": "es",
-        "name": "timalí mitrado"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Stachyris ambigua",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Buff-chested Babbler"
-      },
-      {
-        "lang": "es",
-        "name": "Timalí de Harington"
-      },
-      {
-        "lang": "sv",
-        "name": "Ockrabröstad timalia"
-      },
-      {
-        "lang": "zh",
-        "name": "黄喉穗鹛"
-      }
-    ]
+    "common_names": []
   }
 ]

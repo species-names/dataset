@@ -1,14 +1,63 @@
 [
   {
     "scientific_name": "Dromiciops gliroides",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Chiloe-Beutelratte"
+      },
+      {
+        "lang": "en",
+        "name": "Monito del Monte"
+      },
+      {
+        "lang": "es",
+        "name": "Monito del monte"
+      },
+      {
+        "lang": "fr",
+        "name": "Monito"
+      },
+      {
+        "lang": "is",
+        "name": "Fjallaposa"
+      },
+      {
+        "lang": "ja",
+        "name": "チロエオポッサム"
+      },
+      {
+        "lang": "nl",
+        "name": "Monito del monte"
+      },
+      {
+        "lang": "pl",
+        "name": "Beztorbik bambusowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Colocolo"
+      },
+      {
+        "lang": "sv",
+        "name": "Chiloépungråtta"
+      },
+      {
+        "lang": "tr",
+        "name": "Chiloé keseli sıçanı"
+      },
+      {
+        "lang": "zh",
+        "name": "南𪕨"
+      }
+    ]
   },
   {
     "scientific_name": "Dromiciops bozinovici",
     "common_names": [
       {
         "lang": "en",
-        "name": "Panchos’s monito del monte"
+        "name": "Panchos’s Monito del Monte"
       }
     ]
   }

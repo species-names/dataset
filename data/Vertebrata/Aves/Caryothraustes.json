@@ -1,14 +1,23 @@
 [
   {
     "scientific_name": "Caryothraustes poliogaster",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-faced Grosbeak"
+      },
+      {
+        "lang": "es",
+        "name": "Picogrueso carinegro"
+      }
+    ]
   },
   {
     "scientific_name": "Caryothraustes canadensis",
     "common_names": [
       {
-        "lang": "pt",
-        "name": "Furriel"
+        "lang": "pt-br",
+        "name": "Furriel-do-norteen"
       }
     ]
   }

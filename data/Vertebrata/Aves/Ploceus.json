@@ -110,6 +110,14 @@
       {
         "lang": "en",
         "name": "Southern Masked Weaver"
+      },
+      {
+        "lang": "af",
+        "name": "Kaapse Wewer"
+      },
+      {
+        "lang": "pt",
+        "name": "tecelão-de-máscara"
       }
     ]
   },
@@ -352,12 +360,24 @@
     "scientific_name": "Ploceus princeps",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Prinzenweber"
+      },
+      {
         "lang": "en",
         "name": "Principe Golden-Weaver"
       },
       {
         "lang": "es",
         "name": "Tejedor de Príncipe"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin de Principé"
+      },
+      {
+        "lang": "nl",
+        "name": "Principewever"
       }
     ]
   },
@@ -513,6 +533,14 @@
       {
         "lang": "en",
         "name": "Vieillot's Black Weaver"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin noir"
+      },
+      {
+        "lang": "pt",
+        "name": "tecelão-preto"
       }
     ]
   },
@@ -813,7 +841,20 @@
   },
   {
     "scientific_name": "Ploceus heuglini",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Heuglin-Weber"
+      },
+      {
+        "lang": "en",
+        "name": "Heuglin's masked weaver"
+      },
+      {
+        "lang": "nl",
+        "name": "Heuglins wever"
+      }
+    ]
   },
   {
     "scientific_name": "Ploceus grandis",
@@ -1171,7 +1212,24 @@
   },
   {
     "scientific_name": "Ploceus bicolor",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Forest Weaver"
+      },
+      {
+        "lang": "af",
+        "name": "Bosmusikant"
+      },
+      {
+        "lang": "fr",
+        "name": "Tisserin bicolore"
+      },
+      {
+        "lang": "pt",
+        "name": "tecelão-de-dorso-escuro"
+      }
+    ]
   },
   {
     "scientific_name": "Ploceus bertrandi",
@@ -1211,18 +1269,23 @@
       },
       {
         "lang": "bn",
-        "name": "কালোবুক বাবুই",
-        "synonyms": [
-          "বাংলা বাবুই"
-        ]
+        "name": "কালোবুক বাবুই"
       },
       {
         "lang": "bh",
         "name": "सर्बो बया"
       },
       {
+        "lang": "da",
+        "name": "Bengalvæver"
+      },
+      {
+        "lang": "de",
+        "name": "Bengalenweber"
+      },
+      {
         "lang": "en",
-        "name": "Black-throated Weaver"
+        "name": "Black-breasted Weaver"
       },
       {
         "lang": "es",
@@ -1233,6 +1296,14 @@
         "name": "Tisserin du Bengale"
       },
       {
+        "lang": "it",
+        "name": "Tessitore del Bengala"
+      },
+      {
+        "lang": "ja",
+        "name": "ノドグロコウヨウジャク"
+      },
+      {
         "lang": "mrj",
         "name": "Инди кошыгек"
       },
@@ -1241,8 +1312,28 @@
         "name": "छातीकाले तोपचरा"
       },
       {
+        "lang": "nl",
+        "name": "Bengaalse Wever"
+      },
+      {
+        "lang": "no",
+        "name": "Bengalvever"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالا گل بجڑا"
+      },
+      {
+        "lang": "ru",
+        "name": "Бенгальский ткач"
+      },
+      {
         "lang": "sv",
         "name": "Bengalvävare"
+      },
+      {
+        "lang": "uk",
+        "name": "Ткачик бенгальський"
       },
       {
         "lang": "zh",

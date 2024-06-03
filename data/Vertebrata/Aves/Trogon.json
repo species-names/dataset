@@ -1,17 +1,5 @@
 [
   {
-    "scientific_name": "Trogon ramonianus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Trogon mesurus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Trogon chionurus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Trogon viridis",
     "common_names": [
       {
@@ -20,7 +8,11 @@
       },
       {
         "lang": "en",
-        "name": "White-tailed Trogon"
+        "name": "Green-backed Trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Torgón dorsiverde"
       },
       {
         "lang": "pt",
@@ -29,6 +21,10 @@
       {
         "lang": "tr",
         "name": "Ak kuyruklu trogon"
+      },
+      {
+        "lang": "fr",
+        "name": "Trogon à queue blanche"
       }
     ]
   },
@@ -90,6 +86,15 @@
     ]
   },
   {
+    "scientific_name": "Trogon tenellus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Northern Black-throated Trogon"
+      }
+    ]
+  },
+  {
     "scientific_name": "Trogon surrucura",
     "common_names": [
       {
@@ -124,6 +129,23 @@
     ]
   },
   {
+    "scientific_name": "Trogon ramonianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Amazonian Trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón amazónico"
+      },
+      {
+        "lang": "pt",
+        "name": "surucuá-pequeno"
+      }
+    ]
+  },
+  {
     "scientific_name": "Trogon personatus",
     "common_names": [
       {
@@ -146,6 +168,19 @@
     ]
   },
   {
+    "scientific_name": "Trogon mesurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ecuadorian Trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón colinegro occidental"
+      }
+    ]
+  },
+  {
     "scientific_name": "Trogon melanurus",
     "common_names": [
       {
@@ -155,6 +190,10 @@
       {
         "lang": "pt",
         "name": "Surucuá-de-cauda-preta"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón colinegro común"
       }
     ]
   },
@@ -183,7 +222,7 @@
       },
       {
         "lang": "es",
-        "name": "Trogón Cabecinegro"
+        "name": "Trogón cabecinegro"
       },
       {
         "lang": "et",
@@ -263,7 +302,7 @@
       },
       {
         "lang": "es",
-        "name": "Trogón Grande"
+        "name": "Trogón grande"
       },
       {
         "lang": "et",
@@ -341,6 +380,19 @@
       {
         "lang": "en",
         "name": "Blue-crowned Trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón curucuí"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon cupreicauda",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Choco Black-throated Trogon"
       }
     ]
   },
@@ -460,6 +512,36 @@
     ]
   },
   {
+    "scientific_name": "Trogon chrysochloros",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Atlantic Black-throated Trogon"
+      },
+      {
+        "lang": "pt-br",
+        "name": "surucuá-dourado"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón amarillo sureño"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Trogon chionurus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-tailed Trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón coliblanco"
+      }
+    ]
+  },
+  {
     "scientific_name": "Trogon caligatus",
     "common_names": [
       {
@@ -493,6 +575,10 @@
       {
         "lang": "sv",
         "name": "Nordlig Violetthuvad trogon"
+      },
+      {
+        "lang": "es",
+        "name": "Trogón violáceo norteño"
       }
     ]
   },

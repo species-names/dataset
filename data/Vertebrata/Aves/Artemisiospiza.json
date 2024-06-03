@@ -1,7 +1,16 @@
 [
   {
     "scientific_name": "Artemisiospiza nevadensis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sage Sparrow"
+      },
+      {
+        "lang": "es",
+        "name": "Chingolo de Nevada"
+      }
+    ]
   },
   {
     "scientific_name": "Artemisiospiza belli",

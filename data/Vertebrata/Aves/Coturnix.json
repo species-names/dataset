@@ -1,16 +1,7 @@
 [
   {
     "scientific_name": "Coturnix ypsilophora",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Brown Quail"
-      },
-      {
-        "lang": "sv",
-        "name": "Brun vaktel"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Coturnix pectoralis",
@@ -43,12 +34,64 @@
       {
         "lang": "sv",
         "name": "Nyazeelandvaktel"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "新西兰鹌鹑"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "紐西蘭鵪鶉"
       }
     ]
   },
   {
     "scientific_name": "Coturnix japonica",
     "common_names": [
+      {
+        "lang": "ar",
+        "name": "سمان ياباني"
+      },
+      {
+        "lang": "ast",
+        "name": "Parpayuela xaponesa"
+      },
+      {
+        "lang": "az",
+        "name": "Yapon bildirçini"
+      },
+      {
+        "lang": "bg",
+        "name": "Японски пъдпъдък"
+      },
+      {
+        "lang": "bh",
+        "name": "जापानी बटेर"
+      },
+      {
+        "lang": "bn",
+        "name": "জাপানি বটেরা"
+      },
+      {
+        "lang": "br",
+        "name": "Koailh Japan"
+      },
+      {
+        "lang": "ca",
+        "name": "Guatlla del Japó"
+      },
+      {
+        "lang": "cs",
+        "name": "Křepelka japonská"
+      },
+      {
+        "lang": "cy",
+        "name": "Sofliar Japan"
+      },
+      {
+        "lang": "da",
+        "name": "Japansk Vagtel"
+      },
       {
         "lang": "de",
         "name": "Japanwachtel"
@@ -58,28 +101,168 @@
         "name": "Japanese Quail"
       },
       {
+        "lang": "eo",
+        "name": "Japana koturno"
+      },
+      {
         "lang": "es",
         "name": "Codorniz japonesa"
+      },
+      {
+        "lang": "et",
+        "name": "Ida-põldvutt"
+      },
+      {
+        "lang": "fa",
+        "name": "بلدرچین ژاپنی"
+      },
+      {
+        "lang": "fi",
+        "name": "Japaninviiriäinen"
       },
       {
         "lang": "fr",
         "name": "Caille du Japon"
       },
       {
+        "lang": "ga",
+        "name": "Gearg Sheapánach"
+      },
+      {
+        "lang": "gd",
+        "name": "Quayl Shapaanagh"
+      },
+      {
+        "lang": "gl",
+        "name": "Paspallás xaponés"
+      },
+      {
+        "lang": "he",
+        "name": "שליו יפני"
+      },
+      {
+        "lang": "hi",
+        "name": "जापानी बटेर"
+      },
+      {
+        "lang": "hr",
+        "name": "Japanska prepelica"
+      },
+      {
+        "lang": "hu",
+        "name": "Japán fürj"
+      },
+      {
+        "lang": "it",
+        "name": "Quaglia del Giappone"
+      },
+      {
         "lang": "ja",
         "name": "ウズラ"
+      },
+      {
+        "lang": "jv",
+        "name": "Gemak jepang"
+      },
+      {
+        "lang": "kbd",
+        "name": "Ныбгъуэбзагуэ"
       },
       {
         "lang": "ko",
         "name": "메추라기"
       },
       {
+        "lang": "lt",
+        "name": "Japoninė putpelė"
+      },
+      {
+        "lang": "lv",
+        "name": "Japānas paipala"
+      },
+      {
+        "lang": "ms",
+        "name": "Puyuh Jepun"
+      },
+      {
+        "lang": "nl",
+        "name": "Japanse Kwartel"
+      },
+      {
+        "lang": "nn",
+        "name": "Engvaktel"
+      },
+      {
+        "lang": "no",
+        "name": "Engvaktel"
+      },
+      {
         "lang": "pl",
         "name": "Przepiórka japońska"
       },
       {
+        "lang": "pnb",
+        "name": "جپانی کوئل"
+      },
+      {
+        "lang": "pt",
+        "name": "Codorna-japonesa"
+      },
+      {
+        "lang": "rm",
+        "name": "Quacra giapunaisa"
+      },
+      {
+        "lang": "ro",
+        "name": "Prepelița japoneză"
+      },
+      {
+        "lang": "ru",
+        "name": "Немой перепел"
+      },
+      {
+        "lang": "sh",
+        "name": "Japanska prepelica"
+      },
+      {
+        "lang": "sk",
+        "name": "Prepelica japonská"
+      },
+      {
+        "lang": "sq",
+        "name": "Shkurtëza japoneze"
+      },
+      {
+        "lang": "sr",
+        "name": "Japanska prepelica - Јапанска препелица"
+      },
+      {
         "lang": "sv",
         "name": "Japansk vaktel"
+      },
+      {
+        "lang": "ta",
+        "name": "ஜப்பானியக் காடை"
+      },
+      {
+        "lang": "te",
+        "name": "కౌజు పిట్ట"
+      },
+      {
+        "lang": "th",
+        "name": "นกคุ่มญี่ปุ่น"
+      },
+      {
+        "lang": "tr",
+        "name": "Japon bıldırcını"
+      },
+      {
+        "lang": "uk",
+        "name": "Перепілка японська"
+      },
+      {
+        "lang": "vi",
+        "name": "Cút Nhật Bản"
       },
       {
         "lang": "zh",
@@ -109,7 +292,7 @@
     "common_names": [
       {
         "lang": "af",
-        "name": "Afrikaanse Kwartel"
+        "name": "Afrikaanse kwartel"
       },
       {
         "lang": "als",
@@ -117,7 +300,7 @@
       },
       {
         "lang": "an",
-        "name": "Cotornice"
+        "name": "Gualla"
       },
       {
         "lang": "ar",
@@ -149,15 +332,19 @@
       },
       {
         "lang": "be",
-        "name": "Перапёлка"
+        "name": "Перапёлка звычайная"
       },
       {
         "lang": "bg",
-        "name": "Пъдпъдък"
+        "name": "Европейският пъдпъдък"
+      },
+      {
+        "lang": "bn",
+        "name": "পাতি বটেরা"
       },
       {
         "lang": "br",
-        "name": "Koailh"
+        "name": "Koailh-soul"
       },
       {
         "lang": "ca",
@@ -169,7 +356,7 @@
       },
       {
         "lang": "co",
-        "name": "Quaglia"
+        "name": "Quagliula cumuna"
       },
       {
         "lang": "cs",
@@ -189,7 +376,7 @@
       },
       {
         "lang": "da",
-        "name": "Vagtel"
+        "name": "Almindelig Vagtel"
       },
       {
         "lang": "de",
@@ -221,7 +408,7 @@
       },
       {
         "lang": "eu",
-        "name": "Galeper"
+        "name": "Galeper arrunt"
       },
       {
         "lang": "fa",
@@ -229,7 +416,7 @@
       },
       {
         "lang": "fi",
-        "name": "Viiriäinen"
+        "name": "Tavallinen viiriäinen"
       },
       {
         "lang": "fo",
@@ -261,7 +448,7 @@
       },
       {
         "lang": "gl",
-        "name": "Paspallás"
+        "name": "Paspallás común"
       },
       {
         "lang": "gv",
@@ -269,7 +456,7 @@
       },
       {
         "lang": "he",
-        "name": "שלו"
+        "name": "שליו נודד"
       },
       {
         "lang": "hi",
@@ -277,7 +464,7 @@
       },
       {
         "lang": "hr",
-        "name": "Prepelica"
+        "name": "Obični prepelica"
       },
       {
         "lang": "hsb",
@@ -285,11 +472,15 @@
       },
       {
         "lang": "hu",
-        "name": "Fürj"
+        "name": "Közönséges fürj"
       },
       {
         "lang": "hy",
         "name": "Լոր"
+      },
+      {
+        "lang": "id",
+        "name": "Puyuh biasa"
       },
       {
         "lang": "io",
@@ -301,11 +492,15 @@
       },
       {
         "lang": "it",
-        "name": "Quaglia"
+        "name": "Quaglia comune"
       },
       {
         "lang": "ja",
         "name": "ヨーロッパウズラ"
+      },
+      {
+        "lang": "jv",
+        "name": "Gemak biasa"
       },
       {
         "lang": "ka",
@@ -377,15 +572,15 @@
       },
       {
         "lang": "lt",
-        "name": "Putpelė"
+        "name": "Paprastoji putpelė"
       },
       {
         "lang": "lv",
-        "name": "Paipala"
+        "name": "Parastais paipala"
       },
       {
         "lang": "mg",
-        "name": "Papelika"
+        "name": "Papelika mahazatra"
       },
       {
         "lang": "mhr",
@@ -393,7 +588,7 @@
       },
       {
         "lang": "mk",
-        "name": "Потполошка"
+        "name": "Обична потполошка"
       },
       {
         "lang": "ml",
@@ -429,7 +624,7 @@
       },
       {
         "lang": "nl",
-        "name": "Kwartel"
+        "name": "Gewone Kwartel"
       },
       {
         "lang": "nn",
@@ -437,7 +632,7 @@
       },
       {
         "lang": "no",
-        "name": "Vaktel"
+        "name": "Vanlig vaktel"
       },
       {
         "lang": "nrm",
@@ -465,7 +660,7 @@
       },
       {
         "lang": "pl",
-        "name": "Przepiórka"
+        "name": "Przepiórka zwyczajna"
       },
       {
         "lang": "pms",
@@ -477,11 +672,11 @@
       },
       {
         "lang": "pt",
-        "name": "Codorniz"
+        "name": "Codorniz-comum"
       },
       {
         "lang": "rm",
-        "name": "Quacra"
+        "name": "Quacra europeica"
       },
       {
         "lang": "rmy",
@@ -489,11 +684,11 @@
       },
       {
         "lang": "ro",
-        "name": "Prepeliță"
+        "name": "Prepeliță comun"
       },
       {
         "lang": "ru",
-        "name": "Перепел"
+        "name": "Обыкновенный перепел"
       },
       {
         "lang": "sah",
@@ -541,7 +736,7 @@
       },
       {
         "lang": "sv",
-        "name": "Vaktel"
+        "name": "Vanlig vaktel"
       },
       {
         "lang": "sw",
@@ -585,7 +780,7 @@
       },
       {
         "lang": "uk",
-        "name": "Перепілка"
+        "name": "Перепілка звичайна"
       },
       {
         "lang": "vec",
@@ -608,11 +803,11 @@
         "name": "Kwakkel"
       },
       {
-        "lang": "zh-yue",
+        "lang": "zh-hant",
         "name": "鵪鶉"
       },
       {
-        "lang": "zh",
+        "lang": "zh-hans",
         "name": "鹌鹑"
       },
       {

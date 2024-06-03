@@ -1,5 +1,9 @@
 [
   {
+    "scientific_name": "Paradoxornis aemodius",
+    "common_names": []
+  },
+  {
     "scientific_name": "Paradoxornis unicolor",
     "common_names": [
       {
@@ -25,10 +29,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Paradoxornis polivanovi",
-    "common_names": []
-  },
-  {
     "scientific_name": "Paradoxornis paradoxus",
     "common_names": [
       {
@@ -44,6 +44,10 @@
         "name": "三趾鸦雀"
       }
     ]
+  },
+  {
+    "scientific_name": "Paradoxornis margaritae",
+    "common_names": []
   },
   {
     "scientific_name": "Paradoxornis heudei",
@@ -68,20 +72,7 @@
   },
   {
     "scientific_name": "Paradoxornis gularis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Grey-headed Parrotbill"
-      },
-      {
-        "lang": "es",
-        "name": "Picoloro cabecigrís"
-      },
-      {
-        "lang": "zh",
-        "name": "灰头鸦雀"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Paradoxornis flavirostris",
@@ -102,32 +93,14 @@
   },
   {
     "scientific_name": "Paradoxornis davidianus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Short-tailed Parrotbill"
-      },
-      {
-        "lang": "es",
-        "name": "Picoloro de David"
-      },
-      {
-        "lang": "zh",
-        "name": "短尾鸦雀"
-      }
-    ]
+    "common_names": []
+  },
+  {
+    "scientific_name": "Paradoxornis bakeri",
+    "common_names": []
   },
   {
     "scientific_name": "Paradoxornis atrosuperciliaris",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Black-browed Parrotbill"
-      },
-      {
-        "lang": "es",
-        "name": "Picoloro cejinegro"
-      }
-    ]
+    "common_names": []
   }
 ]

@@ -1,7 +1,16 @@
 [
   {
     "scientific_name": "Chlorospingus tacarcunae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": ""
+      },
+      {
+        "lang": "es",
+        "name": ""
+      }
+    ]
   },
   {
     "scientific_name": "Chlorospingus semifuscus",
@@ -25,10 +34,7 @@
       },
       {
         "lang": "es",
-        "name": "Clorospingo cejiblanco",
-        "synonyms": [
-          "frutero copetón"
-        ]
+        "name": "Clorospingo cejiblanco"
       },
       {
         "lang": "ja",
@@ -38,7 +44,16 @@
   },
   {
     "scientific_name": "Chlorospingus parvirostris",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-whiskered Bush-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Clorospingo bigotudo"
+      }
+    ]
   },
   {
     "scientific_name": "Chlorospingus inornatus",
@@ -76,6 +91,15 @@
   },
   {
     "scientific_name": "Chlorospingus canigularis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ashy-throated Bush-Tanager"
+      },
+      {
+        "lang": "es",
+        "name": "Clorospingo gorjigrís"
+      }
+    ]
   }
 ]

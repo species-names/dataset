@@ -1,9 +1,5 @@
 [
   {
-    "scientific_name": "Nycticorax olsoni",
-    "common_names": []
-  },
-  {
     "scientific_name": "Nycticorax megacephalus",
     "common_names": []
   },
@@ -14,6 +10,15 @@
   {
     "scientific_name": "Nycticorax duboisi",
     "common_names": []
+  },
+  {
+    "scientific_name": "Nycticorax olsoni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ascension Night Heron"
+      }
+    ]
   },
   {
     "scientific_name": "Nycticorax nycticorax",
@@ -269,6 +274,10 @@
       {
         "lang": "my",
         "name": "လင်းဝက်"
+      },
+      {
+        "lang": "ne",
+        "name": "बाँके बकुल्ला"
       },
       {
         "lang": "nl",

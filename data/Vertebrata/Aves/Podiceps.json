@@ -24,7 +24,7 @@
       },
       {
         "lang": "es",
-        "name": "Zampullín del Junín"
+        "name": "Zambullidor de Junín"
       },
       {
         "lang": "et",
@@ -181,8 +181,24 @@
         "name": "Swartnekdobbertjie"
       },
       {
+        "lang": "ar",
+        "name": "غطاس أسود الرقبة"
+      },
+      {
+        "lang": "az",
+        "name": "Qaraboyun maygülü"
+      },
+      {
+        "lang": "ba",
+        "name": "Ҡара сыпҡай"
+      },
+      {
         "lang": "bg",
         "name": "Черноврат гмурец"
+      },
+      {
+        "lang": "bh",
+        "name": "करिया कंठ पनडुब्बी"
       },
       {
         "lang": "br",
@@ -209,6 +225,14 @@
         "name": "Schwarzhalstaucher"
       },
       {
+        "lang": "dty",
+        "name": "कालीकण्ठ डुबुल्कीचरा"
+      },
+      {
+        "lang": "el",
+        "name": "Μαυροβουτηχτάρι"
+      },
+      {
         "lang": "en",
         "name": "Black-necked Grebe"
       },
@@ -229,8 +253,20 @@
         "name": "Mustkael-pütt"
       },
       {
+        "lang": "eu",
+        "name": "Txilinporta lepabeltz"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم گردن‌سیاه"
+      },
+      {
         "lang": "fi",
         "name": "Mustakaulauikku"
+      },
+      {
+        "lang": "fo",
+        "name": "Hálssvørt gjør"
       },
       {
         "lang": "fr",
@@ -241,12 +277,24 @@
         "name": "Swarthalsdûker"
       },
       {
+        "lang": "ga",
+        "name": "Foitheach píbdhubh"
+      },
+      {
         "lang": "gl",
         "name": "Mergullón de pescozo negro"
       },
       {
         "lang": "gu",
         "name": "શિયાળુ નાની ડુબકી"
+      },
+      {
+        "lang": "he",
+        "name": "טבלן בינוני"
+      },
+      {
+        "lang": "hr",
+        "name": "Crnogrli gnjurac"
       },
       {
         "lang": "hu",
@@ -269,12 +317,48 @@
         "name": "ハジロカイツブリ"
       },
       {
+        "lang": "ka",
+        "name": "შავყელა მურტალა"
+      },
+      {
+        "lang": "kbd",
+        "name": "БабыщыпцӀэныбэху"
+      },
+      {
+        "lang": "kk",
+        "name": "Қарамойын сұқсыр"
+      },
+      {
+        "lang": "ko",
+        "name": "검은목논병아리"
+      },
+      {
         "lang": "lt",
         "name": "Juodakaklis kragas"
       },
       {
         "lang": "lv",
         "name": "Melnkakla dūkuris"
+      },
+      {
+        "lang": "mk",
+        "name": "Големо штипче"
+      },
+      {
+        "lang": "mn",
+        "name": "Халтар шунгуур"
+      },
+      {
+        "lang": "my",
+        "name": "ထန်းစေ့မှုတ်လည်နက်"
+      },
+      {
+        "lang": "nah",
+        "name": "Yacapitzahuatl"
+      },
+      {
+        "lang": "ne",
+        "name": "कालीकण्ठ डुबुल्कीचरा"
       },
       {
         "lang": "nl",
@@ -289,8 +373,20 @@
         "name": "Svarthalsdykker"
       },
       {
+        "lang": "nv",
+        "name": "Naalʼeełii keelóól diłhiłígíí"
+      },
+      {
+        "lang": "olo",
+        "name": "Mustukaglu-uikku"
+      },
+      {
         "lang": "pl",
         "name": "Perkoz zausznik"
+      },
+      {
+        "lang": "pnb",
+        "name": "کالی دھون آلا گریب"
       },
       {
         "lang": "pt",
@@ -301,8 +397,12 @@
         "name": "Черношейная поганка"
       },
       {
+        "lang": "rue",
+        "name": "Пірникоза чорношыйка"
+      },
+      {
         "lang": "sh",
-        "name": "Crnogrli gnjurac - црногрли гњурац"
+        "name": "Crnogrli gnjurac"
       },
       {
         "lang": "sk",
@@ -313,12 +413,32 @@
         "name": "Svarthalsad dopping"
       },
       {
+        "lang": "th",
+        "name": "นกเป็ดผีคอดำ"
+      },
+      {
         "lang": "tr",
         "name": "Kara boyunlu batağan"
       },
       {
+        "lang": "uk",
+        "name": "Пірникоза чорношия"
+      },
+      {
+        "lang": "vi",
+        "name": "Le hôi cổ đen"
+      },
+      {
+        "lang": "wuu",
+        "name": "黑颈鸊鷉"
+      },
+      {
         "lang": "zh",
         "name": "黑颈鸊鷉"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "黑頸鷿鷈"
       }
     ]
   },
@@ -997,6 +1117,10 @@
         "name": "Seehahn"
       },
       {
+        "lang": "ne",
+        "name": "सिउरे डुबुल्कीचरा"
+      },
+      {
         "lang": "nl",
         "name": "Gewone fuut"
       },
@@ -1406,16 +1530,112 @@
     "scientific_name": "Podiceps andinus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "غطاس كولومبي"
+      },
+      {
+        "lang": "br",
+        "name": "Plomer an Andoù"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabussó de Colòmbia"
+      },
+      {
+        "lang": "cs",
+        "name": "Potápka andská"
+      },
+      {
+        "lang": "da",
+        "name": "Colombiansk Lappedykker"
+      },
+      {
+        "lang": "de",
+        "name": "Andentaucher"
+      },
+      {
         "lang": "en",
         "name": "Colombian Grebe"
+      },
+      {
+        "lang": "eo",
+        "name": "Kolombia grebo"
       },
       {
         "lang": "es",
         "name": "Zampullín colombiano"
       },
       {
+        "lang": "et",
+        "name": "Kolumbia pütt"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم کلمبیایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Andienuikku"
+      },
+      {
+        "lang": "fr",
+        "name": "Grèbe des Andes"
+      },
+      {
+        "lang": "hu",
+        "name": "Andoki vöcsök"
+      },
+      {
+        "lang": "it",
+        "name": "Svasso della Colombia"
+      },
+      {
+        "lang": "ja",
+        "name": "コロンビアカイツブリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Andinis kragas"
+      },
+      {
+        "lang": "nl",
+        "name": "Andesfuut"
+      },
+      {
+        "lang": "no",
+        "name": "Colombiadykker"
+      },
+      {
+        "lang": "pl",
+        "name": "Perkoz kolumbijski"
+      },
+      {
+        "lang": "pnb",
+        "name": "کولمبی ڈبکنی"
+      },
+      {
+        "lang": "pt",
+        "name": "Mergulhão-colombiano"
+      },
+      {
+        "lang": "ru",
+        "name": "Андийская поганка"
+      },
+      {
+        "lang": "sk",
+        "name": "Potápka andská"
+      },
+      {
         "lang": "sv",
         "name": "Colombiadopping"
+      },
+      {
+        "lang": "uk",
+        "name": "Пірникоза колумбійська"
+      },
+      {
+        "lang": "zh",
+        "name": "哥倫比亞鸊鷉"
       }
     ]
   }

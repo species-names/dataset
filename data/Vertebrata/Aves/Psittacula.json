@@ -171,7 +171,35 @@
     "common_names": [
       {
         "lang": "af",
-        "name": "Ringnekpapegaai"
+        "name": "Ringnekparkiet"
+      },
+      {
+        "lang": "an",
+        "name": "Cotorra de Kramer"
+      },
+      {
+        "lang": "ar",
+        "name": "ببغاء الدرة المطوقة"
+      },
+      {
+        "lang": "arz",
+        "name": "باراكيت اخضر"
+      },
+      {
+        "lang": "as",
+        "name": "গলমণিকা"
+      },
+      {
+        "lang": "bg",
+        "name": "Крамеров папагал"
+      },
+      {
+        "lang": "bh",
+        "name": "देसी सुग्गा"
+      },
+      {
+        "lang": "bn",
+        "name": "সবুজ টিয়া"
       },
       {
         "lang": "br",
@@ -186,8 +214,20 @@
         "name": "Alexandr malý"
       },
       {
+        "lang": "cy",
+        "name": "Paracît torchog"
+      },
+      {
+        "lang": "da",
+        "name": "Alexanderparakit"
+      },
+      {
         "lang": "de",
         "name": "Halsbandsittich"
+      },
+      {
+        "lang": "el",
+        "name": "Δακτυλιοειδής παπαγάλος"
       },
       {
         "lang": "en",
@@ -195,19 +235,19 @@
       },
       {
         "lang": "eo",
-        "name": "Kolumpsitaketo"
+        "name": "Kolumpapago"
       },
       {
         "lang": "es",
         "name": "Cotorra de Kramer"
       },
       {
-        "lang": "fa",
-        "name": "طوطی کوچک اسکندر"
+        "lang": "et",
+        "name": "Kaeluspapagoi"
       },
       {
-        "lang": "ar",
-        "name": "ببغاء الدرة المطوقة"
+        "lang": "fa",
+        "name": "طوطی کوچک اسکندر"
       },
       {
         "lang": "fi",
@@ -218,16 +258,28 @@
         "name": "Perruche à collier"
       },
       {
+        "lang": "ga",
+        "name": "Pearaicít rósbhráisléadach"
+      },
+      {
         "lang": "gu",
         "name": "સૂડો"
+      },
+      {
+        "lang": "ha",
+        "name": "Kalo"
       },
       {
         "lang": "he",
         "name": "דררת קרמר"
       },
       {
+        "lang": "hi",
+        "name": "लाल चक्राकार तोता"
+      },
+      {
         "lang": "hu",
-        "name": "Örvös sándorpapagáj"
+        "name": "Örvös papagáj"
       },
       {
         "lang": "it",
@@ -235,11 +287,47 @@
       },
       {
         "lang": "ja",
-        "name": "ワカケホンセイインコ"
+        "name": "ホンセイインコ"
+      },
+      {
+        "lang": "kn",
+        "name": "ಗುಲಾಬಿ ಉಂಗುರದ ಗಿಳಿ"
+      },
+      {
+        "lang": "ks",
+        "name": "شوگہٕ"
       },
       {
         "lang": "lt",
         "name": "Žieduotoji papūga"
+      },
+      {
+        "lang": "lv",
+        "name": "Krāmera papagailis"
+      },
+      {
+        "lang": "mk",
+        "name": "Мал александар"
+      },
+      {
+        "lang": "ml",
+        "name": "മോതിരത്തത്ത"
+      },
+      {
+        "lang": "mrj",
+        "name": "Шӓргӓшӓн попугай"
+      },
+      {
+        "lang": "mr",
+        "name": "पोपट"
+      },
+      {
+        "lang": "my",
+        "name": "ကျေးကျုတ်"
+      },
+      {
+        "lang": "ne",
+        "name": "कण्ठे सुगा"
       },
       {
         "lang": "nl",
@@ -254,12 +342,28 @@
         "name": "Aleksandretta obrożna"
       },
       {
+        "lang": "pnb",
+        "name": "گلابی گانی والا طوطا"
+      },
+      {
         "lang": "pt",
-        "name": "Periquito-de-colar"
+        "name": "Periquito-rabijunco"
       },
       {
         "lang": "ru",
-        "name": "Ожереловый попугай Крамера"
+        "name": "Попугай Крамера"
+      },
+      {
+        "lang": "sk",
+        "name": "Alexander malý"
+      },
+      {
+        "lang": "sl",
+        "name": "Aleksander"
+      },
+      {
+        "lang": "sq",
+        "name": "Papagalli me unazë rozë"
       },
       {
         "lang": "sr",
@@ -270,12 +374,32 @@
         "name": "Halsbandsparakit"
       },
       {
+        "lang": "ta",
+        "name": "பச்சைக்கிளி"
+      },
+      {
         "lang": "tr",
         "name": "Yeşil papağan"
       },
       {
+        "lang": "uk",
+        "name": "Папуга Крамера"
+      },
+      {
+        "lang": "ur",
+        "name": "گلابی گردن طوطا"
+      },
+      {
+        "lang": "vi",
+        "name": "Vẹt cổ hồng"
+      },
+      {
         "lang": "zh",
         "name": "红领绿鹦鹉"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "紅領綠鸚鵡"
       }
     ]
   },
@@ -325,6 +449,10 @@
   {
     "scientific_name": "Psittacula eupatria",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "চন্দনা"
+      },
       {
         "lang": "de",
         "name": "Alexandersittich"

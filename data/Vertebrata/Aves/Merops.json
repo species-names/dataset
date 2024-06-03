@@ -590,6 +590,10 @@
         "name": "Blouwangbyvreter"
       },
       {
+        "lang": "an",
+        "name": "Abellerol de Persia"
+      },
+      {
         "lang": "ar",
         "name": "وروار أزرق الخد"
       },
@@ -1394,6 +1398,10 @@
         "name": "Pienkborsbyvreter"
       },
       {
+        "lang": "an",
+        "name": "Abellerol de Malimba"
+      },
+      {
         "lang": "ar",
         "name": "وروار زهري"
       },
@@ -1617,6 +1625,10 @@
         "name": "Swaelstertbyvreter"
       },
       {
+        "lang": "an",
+        "name": "Abellerol hengrineta"
+      },
+      {
         "lang": "ar",
         "name": "وروار سنونوي الذيل"
       },
@@ -1795,10 +1807,18 @@
         "name": "Arabian Green Bee-eater"
       },
       {
+        "lang": "he",
+        "name": "שרקרק גמדי"
+      },
+      {
         "lang": "sv",
         "name": "Arabisk biätare"
       }
     ]
+  },
+  {
+    "scientific_name": "Merops cinereus",
+    "common_names": []
   },
   {
     "scientific_name": "Merops bulocki",

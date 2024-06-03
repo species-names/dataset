@@ -3,6 +3,22 @@
     "scientific_name": "Pavo muticus",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "طاووس أخضر"
+      },
+      {
+        "lang": "arz",
+        "name": "طاووس اخضر"
+      },
+      {
+        "lang": "az",
+        "name": "Yava tovuz quşu"
+      },
+      {
+        "lang": "ban",
+        "name": "Merak ijo"
+      },
+      {
         "lang": "bn",
         "name": "সবুজ ময়ূর"
       },
@@ -15,12 +31,20 @@
         "name": "Páv zelený"
       },
       {
+        "lang": "cy",
+        "name": "Paun gwyrdd"
+      },
+      {
         "lang": "da",
-        "name": "Grøn påfugl"
+        "name": "Grøn Påfugl"
       },
       {
         "lang": "de",
         "name": "Ährenträgerpfau"
+      },
+      {
+        "lang": "el",
+        "name": "Πράσινο παγώνι"
       },
       {
         "lang": "en",
@@ -32,11 +56,15 @@
       },
       {
         "lang": "es",
-        "name": "Pavo-real Cuelliverde"
+        "name": "Pavo-real cuelliverde"
       },
       {
         "lang": "et",
         "name": "Rohe-paabulind"
+      },
+      {
+        "lang": "fa",
+        "name": "طاووس سبز"
       },
       {
         "lang": "fi",
@@ -47,8 +75,16 @@
         "name": "Paon spicifère"
       },
       {
+        "lang": "he",
+        "name": "טווס ירוק"
+      },
+      {
         "lang": "hu",
-        "name": "zöld páva"
+        "name": "Zöld páva"
+      },
+      {
+        "lang": "hy",
+        "name": "Կանաչ սիրամարգ"
       },
       {
         "lang": "id",
@@ -60,14 +96,23 @@
       },
       {
         "lang": "ja",
-        "name": "マクジャク",
-        "synonyms": [
-          "makujaku"
-        ]
+        "name": "マクジャク"
+      },
+      {
+        "lang": "lv",
+        "name": "Zaļais pāvs"
+      },
+      {
+        "lang": "ml",
+        "name": "പച്ചമയിൽ"
       },
       {
         "lang": "ms",
         "name": "Burung Merak Hijau"
+      },
+      {
+        "lang": "my",
+        "name": "ဥဒေါင်း"
       },
       {
         "lang": "nl",
@@ -78,16 +123,28 @@
         "name": "Smaragdpåfugl"
       },
       {
+        "lang": "or",
+        "name": "ସବୁଜ ମୟୁର"
+      },
+      {
         "lang": "pl",
         "name": "Paw złoty"
+      },
+      {
+        "lang": "pnb",
+        "name": "ہرا مور"
       },
       {
         "lang": "pt",
         "name": "Pavão-verde"
       },
       {
+        "lang": "ro",
+        "name": "Păun verde"
+      },
+      {
         "lang": "ru",
-        "name": "Яванский павлин"
+        "name": "Зелёный павлин"
       },
       {
         "lang": "sk",
@@ -96,6 +153,10 @@
       {
         "lang": "sl",
         "name": "Klasasti pav"
+      },
+      {
+        "lang": "su",
+        "name": "Merak Héjo"
       },
       {
         "lang": "sv",
@@ -110,12 +171,20 @@
         "name": "Yeşil Tavuk"
       },
       {
+        "lang": "uk",
+        "name": "Павич зелений"
+      },
+      {
         "lang": "vi",
-        "name": "Công"
+        "name": "Công lục"
       },
       {
         "lang": "zh",
         "name": "綠孔雀"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Le̍k-khóng-chhiok"
       }
     ]
   },
@@ -308,6 +377,10 @@
       {
         "lang": "hi",
         "name": "मोर"
+      },
+      {
+        "lang": "as",
+        "name": "ম’ৰা চৰাই"
       }
     ]
   }

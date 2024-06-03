@@ -3,8 +3,48 @@
     "scientific_name": "Tachybaptus tricolor",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Dreifarb-Zwergtaucher"
+      },
+      {
         "lang": "en",
         "name": "Tricoloured Grebe"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم سه‌رنگه"
+      },
+      {
+        "lang": "fr",
+        "name": "Grèbe tricolore"
+      },
+      {
+        "lang": "it",
+        "name": "Tuffetto tricolore"
+      },
+      {
+        "lang": "nl",
+        "name": "Indische Dodaars"
+      },
+      {
+        "lang": "pl",
+        "name": "Perkozek trójbarwny"
+      },
+      {
+        "lang": "pt",
+        "name": "Mergulhão-tricolor"
+      },
+      {
+        "lang": "ru",
+        "name": "Трехцветная поганка"
+      },
+      {
+        "lang": "sk",
+        "name": "Potápka trojfarebná"
+      },
+      {
+        "lang": "sv",
+        "name": "Indonesisk smådopping"
       }
     ]
   },
@@ -101,15 +141,19 @@
       },
       {
         "lang": "az",
-        "name": "Kiçik iyrəncə"
+        "name": "Kiçik maygülü"
       },
       {
         "lang": "be",
-        "name": "Мала паганка"
+        "name": "Коўра малая"
       },
       {
         "lang": "bg",
         "name": "Малък гмурец"
+      },
+      {
+        "lang": "bh",
+        "name": "पनडुब्बी"
       },
       {
         "lang": "bn",
@@ -121,7 +165,7 @@
       },
       {
         "lang": "ca",
-        "name": "Cabusset"
+        "name": "Cabusset comú"
       },
       {
         "lang": "cs",
@@ -133,11 +177,15 @@
       },
       {
         "lang": "da",
-        "name": "Lille lappedykker"
+        "name": "Lille Lappedykker"
       },
       {
         "lang": "de",
         "name": "Zwergtaucher"
+      },
+      {
+        "lang": "ee",
+        "name": "Tɔmekpakpaxe"
       },
       {
         "lang": "el",
@@ -153,7 +201,7 @@
       },
       {
         "lang": "eo",
-        "name": "Malgranda grebo"
+        "name": "Eta grebo"
       },
       {
         "lang": "es",
@@ -221,7 +269,7 @@
       },
       {
         "lang": "hr",
-        "name": "Gnjurac pilinorac"
+        "name": "Patuljasti gnjurac"
       },
       {
         "lang": "hu",
@@ -233,7 +281,7 @@
       },
       {
         "lang": "id",
-        "name": "Titihan"
+        "name": "Titihan telaga"
       },
       {
         "lang": "is",
@@ -241,16 +289,11 @@
       },
       {
         "lang": "it",
-        "name": "Tuffetto comune"
+        "name": "Tuffetto"
       },
       {
         "lang": "ja",
-        "name": "カイツブリ",
-        "synonyms": [
-          "鳰 (にお)",
-          "鸊鷉 (へきてい)",
-          "鸊鵜 (へきてい)"
-        ]
+        "name": "カイツブリ"
       },
       {
         "lang": "ka",
@@ -263,6 +306,10 @@
       {
         "lang": "kk",
         "name": "Кішкене сұқсыр"
+      },
+      {
+        "lang": "km",
+        "name": "ពពុះទឹក"
       },
       {
         "lang": "kn",
@@ -294,7 +341,7 @@
       },
       {
         "lang": "lt",
-        "name": "Mažasis kragas"
+        "name": "Paprastasis mažasis kragas"
       },
       {
         "lang": "lv",
@@ -337,8 +384,16 @@
         "name": "ထန်းစေ့မှုတ်ငှက်"
       },
       {
+        "lang": "mzn",
+        "name": "حسن چلایی"
+      },
+      {
         "lang": "nds-nl",
         "name": "Dodaars"
+      },
+      {
+        "lang": "ne",
+        "name": "डुबुल्कीचरा"
       },
       {
         "lang": "nl",
@@ -353,6 +408,18 @@
         "name": "Dvergdykker"
       },
       {
+        "lang": "olo",
+        "name": "Pikku-uikku"
+      },
+      {
+        "lang": "pam",
+        "name": "Uis"
+      },
+      {
+        "lang": "pa",
+        "name": "ਡੁਬਕਣੀ"
+      },
+      {
         "lang": "pl",
         "name": "Perkozek"
       },
@@ -362,7 +429,7 @@
       },
       {
         "lang": "pt",
-        "name": "Mergulhão-pequeno"
+        "name": "Mergulhão-pequeno-castanho"
       },
       {
         "lang": "rm",
@@ -381,6 +448,10 @@
         "name": "Пірникоза карликова"
       },
       {
+        "lang": "rw",
+        "name": "Grebe nto"
+      },
+      {
         "lang": "sc",
         "name": "Cabussoni"
       },
@@ -394,7 +465,7 @@
       },
       {
         "lang": "sh",
-        "name": "Patuljasti gnjurac - патуљасти гњурац"
+        "name": "Patuljasti gnjurac"
       },
       {
         "lang": "sk",
@@ -410,10 +481,7 @@
       },
       {
         "lang": "sr",
-        "name": "Мали гњурац",
-        "synonyms": [
-          "Mali gnjurac"
-        ]
+        "name": "Мали гњурац"
       },
       {
         "lang": "st",
@@ -429,7 +497,7 @@
       },
       {
         "lang": "ta",
-        "name": "முக்குளிப்பான்"
+        "name": "சிறு முக்குளிப்பான்"
       },
       {
         "lang": "th",
@@ -449,7 +517,11 @@
       },
       {
         "lang": "vi",
-        "name": "Chim le hôi"
+        "name": "Le hôi"
+      },
+      {
+        "lang": "wuu",
+        "name": "小鸊鷉"
       },
       {
         "lang": "xh",
@@ -466,20 +538,16 @@
       {
         "lang": "zh-min-nan",
         "name": "Chúi-pī-á"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "小鷿鷈"
       }
     ]
   },
   {
     "scientific_name": "Tachybaptus pelzelnii",
     "common_names": [
-      {
-        "lang": "en",
-        "name": "Madagascar Grebe"
-      },
-      {
-        "lang": "es",
-        "name": "Zampullín malgache"
-      },
       {
         "lang": "br",
         "name": "Plomer Madagaskar"
@@ -489,12 +557,28 @@
         "name": "Cabusset de Madagascar"
       },
       {
+        "lang": "cy",
+        "name": "Gwyach fach Madagasgar"
+      },
+      {
+        "lang": "da",
+        "name": "Madagaskarlappedykker"
+      },
+      {
         "lang": "de",
         "name": "Madagaskar-Zwergtaucher"
       },
       {
+        "lang": "en",
+        "name": "Madagascar Grebe"
+      },
+      {
         "lang": "eo",
         "name": "Madagaskara grebo"
+      },
+      {
+        "lang": "es",
+        "name": "Zampullín malgache"
       },
       {
         "lang": "fa",
@@ -513,8 +597,20 @@
         "name": "Madagaszkári vöcsök"
       },
       {
+        "lang": "it",
+        "name": "Tuffetto del Madagascar"
+      },
+      {
+        "lang": "ja",
+        "name": "マダガスカルカイツブリ"
+      },
+      {
         "lang": "nl",
-        "name": "Pelzelns dodaars"
+        "name": "Pelzelns Dodaars"
+      },
+      {
+        "lang": "no",
+        "name": "Madagaskardykker"
       },
       {
         "lang": "pl",
@@ -526,11 +622,15 @@
       },
       {
         "lang": "ru",
-        "name": "Мадагаскарская малая поганка"
+        "name": "Мадагаскарская поганка"
       },
       {
         "lang": "sv",
-        "name": "madagaskarsmådopping"
+        "name": "Madagaskarsmådopping"
+      },
+      {
+        "lang": "uk",
+        "name": "Пірникоза мадагаскарська"
       }
     ]
   },
@@ -538,28 +638,112 @@
     "scientific_name": "Tachybaptus novaehollandiae",
     "common_names": [
       {
+        "lang": "br",
+        "name": "Plomer Aostralazia"
+      },
+      {
+        "lang": "ca",
+        "name": "Cabusset australià"
+      },
+      {
+        "lang": "cs",
+        "name": "Potápka australská"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwyach Fach Awstralia"
+      },
+      {
+        "lang": "da",
+        "name": "Sortstrubet Lappedykker"
+      },
+      {
         "lang": "de",
-        "name": "Australischer Zwergtaucher"
+        "name": "Australzwergtaucher"
       },
       {
         "lang": "en",
         "name": "Australasian Grebe"
       },
       {
+        "lang": "eo",
+        "name": "Aŭstralazia grebo"
+      },
+      {
         "lang": "es",
         "name": "Zampullín australiano"
+      },
+      {
+        "lang": "et",
+        "name": "Austraalia väikepütt"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم استرالیایی"
+      },
+      {
+        "lang": "fi",
+        "name": "Australianuikku"
       },
       {
         "lang": "fr",
         "name": "Grèbe australasien"
       },
       {
+        "lang": "hu",
+        "name": "Vöröspofájú vöcsök"
+      },
+      {
+        "lang": "id",
+        "name": "Titihan australia"
+      },
+      {
+        "lang": "it",
+        "name": "Tuffetto australasiatico"
+      },
+      {
         "lang": "ja",
         "name": "ノドグロカイツブリ"
       },
       {
+        "lang": "lt",
+        "name": "Australinis mažasis kragas"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische Dodaars"
+      },
+      {
+        "lang": "no",
+        "name": "Australdvergdykker"
+      },
+      {
+        "lang": "pl",
+        "name": "Perkozek australijski"
+      },
+      {
+        "lang": "pnb",
+        "name": "اسٹریلیشی ڈبکنی"
+      },
+      {
+        "lang": "pt",
+        "name": "Mergulhão-da-australásia"
+      },
+      {
+        "lang": "ru",
+        "name": "Австралийская поганка"
+      },
+      {
+        "lang": "sk",
+        "name": "Potápka žltooká"
+      },
+      {
         "lang": "sv",
         "name": "Australisk smådopping"
+      },
+      {
+        "lang": "uk",
+        "name": "Пірникоза австралійська"
       }
     ]
   },
@@ -571,6 +755,10 @@
         "name": "Plomer bihan"
       },
       {
+        "lang": "ca",
+        "name": "Cabusset americà"
+      },
+      {
         "lang": "cs",
         "name": "Potápka nejmenší"
       },
@@ -580,19 +768,27 @@
       },
       {
         "lang": "de",
-        "name": "Schwarzkopftaucher"
+        "name": "Schwarzkopf-Zwergtaucher"
       },
       {
         "lang": "en",
         "name": "Least Grebe"
       },
       {
+        "lang": "eo",
+        "name": "Malgrandeta grebo"
+      },
+      {
         "lang": "es",
-        "name": "Zampullín Macacito"
+        "name": "Zampullín macacito"
       },
       {
         "lang": "et",
         "name": "Ameerika väikepütt"
+      },
+      {
+        "lang": "fa",
+        "name": "کشیم کمینه"
       },
       {
         "lang": "fi",
@@ -600,17 +796,11 @@
       },
       {
         "lang": "fr",
-        "name": "Grèbe dominicain",
-        "synonyms": [
-          "Grèbe minime"
-        ]
+        "name": "Grèbe minime"
       },
       {
         "lang": "gn",
-        "name": "Myaka'i",
-        "synonyms": [
-          "Ype apa'i"
-        ]
+        "name": "Myaka'i"
       },
       {
         "lang": "ht",
@@ -622,14 +812,19 @@
       },
       {
         "lang": "it",
-        "name": "Svasso minore"
+        "name": "Tuffetto minuto"
       },
       {
         "lang": "ja",
-        "name": "ヒメカイツブリ",
-        "synonyms": [
-          "himekaitsuburi"
-        ]
+        "name": "ヒメカイツブリ"
+      },
+      {
+        "lang": "lt",
+        "name": "Dominikinis mažasis kragas"
+      },
+      {
+        "lang": "lv",
+        "name": "Pelēkais dūkuris"
       },
       {
         "lang": "nl",
@@ -640,12 +835,16 @@
         "name": "Pygmédykker"
       },
       {
+        "lang": "nv",
+        "name": "Naalʼeełii keelóólchilí"
+      },
+      {
         "lang": "pl",
         "name": "Perkozek białoskrzydły"
       },
       {
-        "lang": "pt-br",
-        "name": "Merguhão-pequeno"
+        "lang": "pnb",
+        "name": "ٹھمنی ڈبکنی"
       },
       {
         "lang": "pt",
@@ -653,10 +852,7 @@
       },
       {
         "lang": "ru",
-        "name": "Доминиканская поганка",
-        "synonyms": [
-          "Южноамериканская поганка"
-        ]
+        "name": "Южноамериканская поганка"
       },
       {
         "lang": "sk",
@@ -665,6 +861,10 @@
       {
         "lang": "sv",
         "name": "Dvärgdopping"
+      },
+      {
+        "lang": "uk",
+        "name": "Пірникоза домініканська"
       },
       {
         "lang": "zh",

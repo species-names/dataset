@@ -11,18 +11,6 @@
     "scientific_name": "Scolopax saturata",
     "common_names": [
       {
-        "lang": "cs",
-        "name": "Sluka tmavá"
-      },
-      {
-        "lang": "en",
-        "name": "Dusky Woodcock"
-      },
-      {
-        "lang": "sv",
-        "name": "Javamorkulla"
-      },
-      {
         "lang": "br",
         "name": "Kefeleg-koad Java"
       },
@@ -31,16 +19,36 @@
         "name": "Becada de Java"
       },
       {
+        "lang": "cs",
+        "name": "Sluka tmavá"
+      },
+      {
         "lang": "cy",
         "name": "Cyffylog coch"
+      },
+      {
+        "lang": "da",
+        "name": "Bjergskovsneppe"
       },
       {
         "lang": "de",
         "name": "Malaienschnepfe"
       },
       {
+        "lang": "en",
+        "name": "Javan Woodcock"
+      },
+      {
         "lang": "eo",
         "name": "Java skolopo"
+      },
+      {
+        "lang": "es",
+        "name": "Chocha oscura"
+      },
+      {
+        "lang": "et",
+        "name": "Tõmmukurvits"
       },
       {
         "lang": "fa",
@@ -59,8 +67,52 @@
         "name": "Vörhenyes szalonka"
       },
       {
+        "lang": "id",
+        "name": "Berkik-gunung merah"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia fosca"
+      },
+      {
+        "lang": "ja",
+        "name": "ミナミヤマシギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Malajinė slanka"
+      },
+      {
         "lang": "nl",
-        "name": "Indische houtsnip"
+        "name": "Indische Houtsnip"
+      },
+      {
+        "lang": "no",
+        "name": "Jungelrugde"
+      },
+      {
+        "lang": "pl",
+        "name": "Słonka rdzawa"
+      },
+      {
+        "lang": "pt",
+        "name": "Galinhola-ruiva"
+      },
+      {
+        "lang": "ru",
+        "name": "Малайский вальдшнеп"
+      },
+      {
+        "lang": "sk",
+        "name": "Sluka hrdzavá"
+      },
+      {
+        "lang": "sv",
+        "name": "Javamorkulla"
+      },
+      {
+        "lang": "uk",
+        "name": "Слуква суматранська"
       }
     ]
   },
@@ -153,7 +205,7 @@
       },
       {
         "lang": "es",
-        "name": "Becada"
+        "name": "Chocha perdiz"
       },
       {
         "lang": "et",
@@ -321,7 +373,7 @@
       },
       {
         "lang": "pt",
-        "name": "Galinhola"
+        "name": "Galinhola-eurasiática"
       },
       {
         "lang": "rm",
@@ -438,12 +490,36 @@
         "name": "Becada de les Moluques"
       },
       {
+        "lang": "cs",
+        "name": "Sluka molucká"
+      },
+      {
         "lang": "cy",
         "name": "Cyffylog Ynys Obi"
       },
       {
+        "lang": "da",
+        "name": "Molukskovsneppe"
+      },
+      {
+        "lang": "de",
+        "name": "Obischnepfe"
+      },
+      {
+        "lang": "en",
+        "name": "Moluccan Woodcock"
+      },
+      {
         "lang": "eo",
         "name": "Moluka skolopo"
+      },
+      {
+        "lang": "es",
+        "name": "Chocha moluqueña"
+      },
+      {
+        "lang": "et",
+        "name": "Maluku kurvits"
       },
       {
         "lang": "fa",
@@ -462,24 +538,48 @@
         "name": "Malukui szalonka"
       },
       {
+        "lang": "id",
+        "name": "Berkik-gunung maluku"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia delle Molucche"
+      },
+      {
+        "lang": "ja",
+        "name": "オビヤマシギ"
+      },
+      {
         "lang": "nl",
         "name": "Obihoutsnip"
       },
       {
-        "lang": "cs",
-        "name": "Sluka molucká"
+        "lang": "no",
+        "name": "Molukkrugde"
       },
       {
-        "lang": "en",
-        "name": "Moluccan Woodcock"
+        "lang": "pl",
+        "name": "Słonka złotawa"
       },
       {
-        "lang": "es",
-        "name": "Chocha moluqueña"
+        "lang": "pt",
+        "name": "Galinhola-das-molucas"
+      },
+      {
+        "lang": "ru",
+        "name": "Молуккский вальдшнеп"
+      },
+      {
+        "lang": "sk",
+        "name": "Sluka zlatistá"
       },
       {
         "lang": "sv",
         "name": "Moluckmorkulla"
+      },
+      {
+        "lang": "uk",
+        "name": "Слуква молуцька"
       }
     ]
   },
@@ -487,8 +587,16 @@
     "scientific_name": "Scolopax mira",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Becada de les illes Amami"
+      },
+      {
         "lang": "cs",
         "name": "Sluka japonská"
+      },
+      {
+        "lang": "da",
+        "name": "Amamiskovsneppe"
       },
       {
         "lang": "de",
@@ -507,16 +615,68 @@
         "name": "Chocha de Amami"
       },
       {
+        "lang": "et",
+        "name": "Ryukyu kurvits"
+      },
+      {
+        "lang": "fi",
+        "name": "Riukiunkurppa"
+      },
+      {
         "lang": "fr",
         "name": "Bécasse d'Amami"
+      },
+      {
+        "lang": "hu",
+        "name": "Amami-szigeti szalonka"
+      },
+      {
+        "lang": "it",
+        "name": "Beccaccia di Amami"
       },
       {
         "lang": "ja",
         "name": "アマミヤマシギ"
       },
       {
+        "lang": "lt",
+        "name": "Amaminė slanka"
+      },
+      {
+        "lang": "lv",
+        "name": "Amami sloka"
+      },
+      {
+        "lang": "nl",
+        "name": "Amamihoutsnip"
+      },
+      {
+        "lang": "no",
+        "name": "Amamirugde"
+      },
+      {
+        "lang": "pl",
+        "name": "Słonka falista"
+      },
+      {
+        "lang": "pt",
+        "name": "Galinhola-japonesa"
+      },
+      {
+        "lang": "ru",
+        "name": "Амамийский вальдшнеп"
+      },
+      {
+        "lang": "sk",
+        "name": "Sluka vlnkovaná"
+      },
+      {
         "lang": "sv",
         "name": "Amamimorkulla"
+      },
+      {
+        "lang": "uk",
+        "name": "Слуква японська"
       }
     ]
   },
@@ -540,6 +700,14 @@
         "name": "Cyffylog America"
       },
       {
+        "lang": "da",
+        "name": "Amerikansk Skovsneppe"
+      },
+      {
+        "lang": "de",
+        "name": "Kanadaschnepfe"
+      },
+      {
         "lang": "en",
         "name": "American Woodcock"
       },
@@ -549,7 +717,11 @@
       },
       {
         "lang": "es",
-        "name": "Agachadiza americana"
+        "name": "Chocha americana"
+      },
+      {
+        "lang": "et",
+        "name": "Ameerika kurvits"
       },
       {
         "lang": "fa",
@@ -565,7 +737,7 @@
       },
       {
         "lang": "hu",
-        "name": "Amerikai szalonka"
+        "name": "Koboldszalonka"
       },
       {
         "lang": "id",
@@ -576,24 +748,52 @@
         "name": "Beccaccia americana"
       },
       {
+        "lang": "ja",
+        "name": "アメリカヤマシギ"
+      },
+      {
+        "lang": "lt",
+        "name": "Amerikinė slanka"
+      },
+      {
+        "lang": "lv",
+        "name": "Amerikas sloka"
+      },
+      {
         "lang": "nl",
-        "name": "Amerikaanse houtsnip"
+        "name": "Amerikaanse Houtsnip"
+      },
+      {
+        "lang": "no",
+        "name": "Amerikarugde"
       },
       {
         "lang": "nv",
         "name": "Tsintasdísí"
       },
       {
+        "lang": "pl",
+        "name": "Słonka amerykańska"
+      },
+      {
         "lang": "pt",
-        "name": "Galinhola americana"
+        "name": "Galinhola-pequena"
       },
       {
         "lang": "ru",
         "name": "Американский вальдшнеп"
       },
       {
+        "lang": "sk",
+        "name": "Sluka svišťavá"
+      },
+      {
         "lang": "sv",
         "name": "Amerikansk morkulla"
+      },
+      {
+        "lang": "uk",
+        "name": "Слуква американська"
       }
     ]
   },

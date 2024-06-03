@@ -331,6 +331,10 @@
         "name": "Ċikonja Sewda"
       },
       {
+        "lang": "ne",
+        "name": "कालो गरुड"
+      },
+      {
         "lang": "nl",
         "name": "Zwarte ooievaar"
       },
@@ -449,6 +453,27 @@
     ]
   },
   {
+    "scientific_name": "Ciconia microscelis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Afrikanischer Wollhalsstorch"
+      },
+      {
+        "lang": "en",
+        "name": "African Woolly-necked Stork"
+      },
+      {
+        "lang": "nl",
+        "name": "Afrikaanse Bisschopsooievaar"
+      },
+      {
+        "lang": "sv",
+        "name": "Afrikansk ullhalsstork"
+      }
+    ]
+  },
+  {
     "scientific_name": "Ciconia maguari",
     "common_names": [
       {
@@ -485,8 +510,8 @@
     "scientific_name": "Ciconia episcopus",
     "common_names": [
       {
-        "lang": "af",
-        "name": "Wolnekooievaar"
+        "lang": "bn",
+        "name": "ধলাগলা মানিকজোড়"
       },
       {
         "lang": "cs",
@@ -498,7 +523,7 @@
       },
       {
         "lang": "en",
-        "name": "Woolly-necked Stork"
+        "name": "Asian Woolly-necked Stork"
       },
       {
         "lang": "es",
@@ -509,8 +534,12 @@
         "name": "エンビコウ"
       },
       {
+        "lang": "ne",
+        "name": "लोभीपापी गरुड"
+      },
+      {
         "lang": "nl",
-        "name": "Bisschopsooievaar"
+        "name": "Aziatische Bisschopsooievaar"
       },
       {
         "lang": "sv",
@@ -573,6 +602,10 @@
         "name": "Бял щъркел"
       },
       {
+        "lang": "bn",
+        "name": "ধলা মানিকজোড়"
+      },
+      {
         "lang": "br",
         "name": "C'hwibon wenn"
       },
@@ -618,7 +651,7 @@
       },
       {
         "lang": "es",
-        "name": "Cigüeña Blanca"
+        "name": "Cigüeña blanca"
       },
       {
         "lang": "et",
@@ -662,7 +695,7 @@
       },
       {
         "lang": "gd",
-        "name": "Corra Bhàn"
+        "name": "Corra bhàn"
       },
       {
         "lang": "gl",
@@ -797,6 +830,10 @@
         "name": "Wittn stoark"
       },
       {
+        "lang": "ne",
+        "name": "सेतो गरुड"
+      },
+      {
         "lang": "nl",
         "name": "Ooievaar"
       },
@@ -842,7 +879,7 @@
       },
       {
         "lang": "ro",
-        "name": "Barză"
+        "name": "Barză albă"
       },
       {
         "lang": "ru",

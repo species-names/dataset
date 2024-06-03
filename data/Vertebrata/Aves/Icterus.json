@@ -37,10 +37,7 @@
       },
       {
         "lang": "es",
-        "name": "Turpial Castaño",
-        "synonyms": [
-          "Calandria café"
-        ]
+        "name": "Turpial Castaño"
       },
       {
         "lang": "fi",
@@ -111,18 +108,40 @@
         "name": "Variable Oriole"
       },
       {
-        "lang": "pt",
-        "name": "Inhapim"
+        "lang": "pt-br",
+        "name": "Encontro"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial variable"
       }
     ]
   },
   {
     "scientific_name": "Icterus pustulatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Streak-backed Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial dorsilistado"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus prosthemelas",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-cowled Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial cabecinegro"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus portoricensis",
@@ -139,7 +158,16 @@
   },
   {
     "scientific_name": "Icterus pectoralis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Spot-breasted Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial pechipinto"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus parisorum",
@@ -180,6 +208,10 @@
       {
         "lang": "es",
         "name": "Turpial de Montserrat"
+      },
+      {
+        "lang": "en",
+        "name": "Montserrat Oriole"
       }
     ]
   },
@@ -218,7 +250,20 @@
   },
   {
     "scientific_name": "Icterus nigrogularis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial amarillo"
+      },
+      {
+        "lang": "pt-br",
+        "name": "joão-pinto-amarelo"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus mesomelas",
@@ -241,7 +286,7 @@
       },
       {
         "lang": "es",
-        "name": "Turpial de Cola Amarilla"
+        "name": "Turpial de cola amarilla"
       },
       {
         "lang": "fi",
@@ -324,7 +369,16 @@
   },
   {
     "scientific_name": "Icterus maculialatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Bar-winged Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial alibarrado"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus leucopteryx",
@@ -332,12 +386,21 @@
       {
         "lang": "en",
         "name": "Jamaican Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial jamaicano"
       }
     ]
   },
   {
     "scientific_name": "Icterus laudabilis",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "St. Lucia Oriole"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus jamacaii",
@@ -386,7 +449,16 @@
   },
   {
     "scientific_name": "Icterus icterus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Venezuelan Troupial"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial venezolano"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus gularis",
@@ -462,11 +534,29 @@
   },
   {
     "scientific_name": "Icterus graduacauda",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Audubon's Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial de Audubon"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus graceannae",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "White-edged Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial aliblanco"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus galbula",
@@ -497,10 +587,7 @@
       },
       {
         "lang": "es",
-        "name": "Turpial de Baltimore",
-        "synonyms": [
-          "Oropéndola de Baltimore"
-        ]
+        "name": "Turpial de Baltimore"
       },
       {
         "lang": "et",
@@ -574,10 +661,6 @@
         "name": "Kacyk północny"
       },
       {
-        "lang": "pt-br",
-        "name": "Corrupião-de-baltimore"
-      },
-      {
         "lang": "pt",
         "name": "Corrupião-de-baltimore"
       },
@@ -604,19 +687,6 @@
       {
         "lang": "zh",
         "name": "橙腹拟鹂"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Icterus fuertesi",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Fuertes's Oriole"
-      },
-      {
-        "lang": "es",
-        "name": "Turpial de Fuertes"
       }
     ]
   },
@@ -711,6 +781,14 @@
       {
         "lang": "en",
         "name": "Orange-backed Oriole"
+      },
+      {
+        "lang": "pt-br",
+        "name": "joão-pinto"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial amazónico"
       }
     ]
   },
@@ -735,7 +813,7 @@
       },
       {
         "lang": "es",
-        "name": "Turpial Dorsidorado"
+        "name": "Turpial dorsidorado"
       },
       {
         "lang": "fi",
@@ -793,6 +871,10 @@
       {
         "lang": "pt",
         "name": "Inhapim"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial boyerito"
       }
     ]
   },
@@ -883,11 +965,29 @@
   },
   {
     "scientific_name": "Icterus bonana",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Martinique Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial de Martinica"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus auricapillus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Orange-crowned Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial coroninaranja"
+      }
+    ]
   },
   {
     "scientific_name": "Icterus auratus",
@@ -895,11 +995,24 @@
       {
         "lang": "en",
         "name": "Orange Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial yucateco"
       }
     ]
   },
   {
     "scientific_name": "Icterus abeillei",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-backed Oriole"
+      },
+      {
+        "lang": "es",
+        "name": "Turpial dorsinegro"
+      }
+    ]
   }
 ]

@@ -8,10 +8,7 @@
       },
       {
         "lang": "hu",
-        "name": "Norfolki kaka",
-        "synonyms": [
-          "norfolk-szigeti nesztorpapagáj"
-        ]
+        "name": "norfolki kea"
       },
       {
         "lang": "it",
@@ -64,7 +61,10 @@
       },
       {
         "lang": "hu",
-        "name": "Kea"
+        "name": "hegyi kea",
+        "synonyms": [
+          "kea"
+        ]
       },
       {
         "lang": "id",
@@ -121,9 +121,9 @@
       },
       {
         "lang": "hu",
-        "name": "Új-zélandi kaka",
+        "name": "parti kea",
         "synonyms": [
-          "nesztorpapagáj"
+          "kaka"
         ]
       },
       {
@@ -261,10 +261,7 @@
     "common_names": [
       {
         "lang": "hu",
-        "name": "Chathami kaka",
-        "synonyms": [
-          "chatham kaka"
-        ]
+        "name": "chathami kea"
       }
     ]
   }

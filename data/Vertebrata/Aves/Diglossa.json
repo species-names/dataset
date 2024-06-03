@@ -44,12 +44,20 @@
     "scientific_name": "Diglossa sittoides",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Rostbauch-Hakenschnabel"
+      },
+      {
         "lang": "en",
         "name": "Rusty Flowerpiercer"
       },
       {
         "lang": "es",
         "name": "Pinchaflor ferrugíneo"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleverberghoningkruiper"
       }
     ]
   },
@@ -57,18 +65,30 @@
     "scientific_name": "Diglossa plumbea",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Einfarb-Hakenschnabel"
+      },
+      {
         "lang": "en",
         "name": "Slaty Flowerpiercer"
       },
       {
         "lang": "es",
         "name": "Pinchaflor plomizo"
+      },
+      {
+        "lang": "nl",
+        "name": "Leigrijze berghoningkruiper"
       }
     ]
   },
   {
     "scientific_name": "Diglossa mystacalis",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Barthakenschnabel"
+      },
       {
         "lang": "en",
         "name": "Moustached Flowerpiercer"
@@ -83,6 +103,10 @@
     "scientific_name": "Diglossa major",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Strichelhakenschnabel"
+      },
+      {
         "lang": "en",
         "name": "Greater Flowerpiercer"
       },
@@ -95,6 +119,10 @@
         "name": "Grand Percefleur"
       },
       {
+        "lang": "nl",
+        "name": "Grote berghoningkruiper"
+      },
+      {
         "lang": "pt",
         "name": "Fura-flor-grande"
       }
@@ -103,6 +131,10 @@
   {
     "scientific_name": "Diglossa lafresnayii",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Stahlhakenschnabel"
+      },
       {
         "lang": "en",
         "name": "Glossy Flowerpiercer"
@@ -117,6 +149,10 @@
     "scientific_name": "Diglossa indigotica",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Indigohakenschnabel"
+      },
+      {
         "lang": "en",
         "name": "Indigo flowerpiercer"
       },
@@ -129,6 +165,10 @@
   {
     "scientific_name": "Diglossa humeralis",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Schwarzhakenschnabel"
+      },
       {
         "lang": "en",
         "name": "Black Flowerpiercer"
@@ -143,6 +183,10 @@
     "scientific_name": "Diglossa gloriosissima",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Maronenbauch-Hakenschnabel"
+      },
+      {
         "lang": "en",
         "name": "Chestnut-bellied Flowerpiercer"
       },
@@ -156,12 +200,20 @@
     "scientific_name": "Diglossa gloriosa",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Méridahakenschnabel"
+      },
+      {
         "lang": "en",
         "name": "Merida Flowerpiercer"
       },
       {
         "lang": "es",
         "name": "Pinchaflor de Mérida"
+      },
+      {
+        "lang": "nl",
+        "name": "Méridaberghoningkruiper"
       }
     ]
   },
@@ -169,18 +221,54 @@
     "scientific_name": "Diglossa glauca",
     "common_names": [
       {
+        "lang": "da",
+        "name": "Guløjet Blomsterborer"
+      },
+      {
+        "lang": "de",
+        "name": "Ultramarin-Hakenschnabel"
+      },
+      {
         "lang": "en",
-        "name": "Deep-blue Flowerpiercer"
+        "name": "Golden-eyed Flowerpiercer"
       },
       {
         "lang": "es",
         "name": "Pinchaflor glauco"
+      },
+      {
+        "lang": "fr",
+        "name": "Percefleur glauque"
+      },
+      {
+        "lang": "it",
+        "name": "Bucafiori blu"
+      },
+      {
+        "lang": "ja",
+        "name": "ムラサキハナサシミツドリ"
+      },
+      {
+        "lang": "nl",
+        "name": "Goudoogberghoningkruiper"
+      },
+      {
+        "lang": "no",
+        "name": "Koboltblomsterborer"
+      },
+      {
+        "lang": "ru",
+        "name": "Ультрамариновый крючкоклюв"
       }
     ]
   },
   {
     "scientific_name": "Diglossa duidae",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Schuppenbrust-Hakenschnabel"
+      },
       {
         "lang": "en",
         "name": "Scaled Flowerpiercer"
@@ -202,6 +290,10 @@
   {
     "scientific_name": "Diglossa cyanea",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Maskenhakenschnabel"
+      },
       {
         "lang": "en",
         "name": "Masked Flowerpiercer"
@@ -236,6 +328,10 @@
   {
     "scientific_name": "Diglossa caerulescens",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Silberhakenschnabel"
+      },
       {
         "lang": "en",
         "name": "Bluish Flowerpiercer"
@@ -303,6 +399,10 @@
   {
     "scientific_name": "Diglossa albilatera",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Schieferhakenschnabel"
+      },
       {
         "lang": "en",
         "name": "White-sided Flowerpiercer"

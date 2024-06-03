@@ -3,8 +3,16 @@
     "scientific_name": "Zapornia tabuensis",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Spotless crake"
+      },
+      {
         "lang": "fi",
         "name": "Putotohuitti"
+      },
+      {
+        "lang": "it",
+        "name": "Schiribilla fuligginosa"
       },
       {
         "lang": "to",
@@ -22,6 +30,10 @@
       {
         "lang": "ja",
         "name": "ハワイクイナ"
+      },
+      {
+        "lang": "en",
+        "name": "Hawaiian Rail"
       }
     ]
   },
@@ -353,6 +365,10 @@
         "name": "Mandarin vízicsibe"
       },
       {
+        "lang": "it",
+        "name": "Schiribilla striata"
+      },
+      {
         "lang": "kbd",
         "name": "Бгъэнджэдышхуэ"
       },
@@ -517,7 +533,7 @@
       },
       {
         "lang": "it",
-        "name": "Schiribilla"
+        "name": "Schiribilla comune"
       },
       {
         "lang": "ja",
@@ -644,6 +660,10 @@
       {
         "lang": "ja",
         "name": "レイサンクイナ"
+      },
+      {
+        "lang": "en",
+        "name": "Laysan Rail"
       }
     ]
   },
@@ -677,6 +697,10 @@
       {
         "lang": "fr",
         "name": "Râle d'Olivier"
+      },
+      {
+        "lang": "it",
+        "name": "Gallinella di Olivier"
       },
       {
         "lang": "ja",
@@ -754,12 +778,20 @@
     "scientific_name": "Zapornia fusca",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "লালবুক গুরগুরি"
+      },
+      {
         "lang": "en",
         "name": "Ruddy-breasted Crake"
       },
       {
         "lang": "es",
         "name": "Polluela pechirrufa"
+      },
+      {
+        "lang": "it",
+        "name": "Schiribilla fosca"
       },
       {
         "lang": "ja",
@@ -824,7 +856,7 @@
       },
       {
         "lang": "it",
-        "name": "Schiribilla nera africana"
+        "name": "Gallinella nera"
       },
       {
         "lang": "ja",
@@ -909,6 +941,10 @@
       {
         "lang": "es",
         "name": "Polluela bicolor"
+      },
+      {
+        "lang": "it",
+        "name": "Rallo di Elwes"
       }
     ]
   },
@@ -948,6 +984,10 @@
         "name": "Henderson-szigeti vízicsibe"
       },
       {
+        "lang": "it",
+        "name": "Schiribilla di Henderson"
+      },
+      {
         "lang": "ja",
         "name": "ヘンダーソンクイナ"
       },
@@ -963,7 +1003,12 @@
   },
   {
     "scientific_name": "Zapornia astrictocarpus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Saint Helena Rail"
+      }
+    ]
   },
   {
     "scientific_name": "Zapornia akool",

@@ -1,5 +1,100 @@
 [
   {
+    "scientific_name": "Mustelirallus erythrops",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Paint-billed Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela picopinta"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle à bec peint"
+      },
+      {
+        "lang": "nl",
+        "name": "Roodsnavelhoen"
+      },
+      {
+        "lang": "pt",
+        "name": "turu-turu"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustelirallus colombianus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Colombian Crake"
+      },
+      {
+        "lang": "es",
+        "name": "Polluela colombiana"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Mustelirallus cerverai",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Zapata Rail"
+      },
+      {
+        "lang": "ca",
+        "name": "Rascló de Zapata"
+      },
+      {
+        "lang": "cy",
+        "name": "Rhegen Ciwba"
+      },
+      {
+        "lang": "de",
+        "name": "Kubaralle"
+      },
+      {
+        "lang": "fa",
+        "name": "یلوه زاپاتا"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuubanluhtakana"
+      },
+      {
+        "lang": "fr",
+        "name": "Râle de Zapata"
+      },
+      {
+        "lang": "he",
+        "name": "רלית ספאטה"
+      },
+      {
+        "lang": "ja",
+        "name": "キューバクイナ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zapataral"
+      },
+      {
+        "lang": "pl",
+        "name": "Modroderkaczyk"
+      },
+      {
+        "lang": "sv",
+        "name": "zapatarall"
+      },
+      {
+        "lang": "es",
+        "name": "Gallinuela de Santo Tomás"
+      }
+    ]
+  },
+  {
     "scientific_name": "Mustelirallus albicollis",
     "common_names": [
       {
@@ -13,6 +108,10 @@
       {
         "lang": "fi",
         "name": "Sepelhuitti"
+      },
+      {
+        "lang": "it",
+        "name": "Schiribilla collobianco"
       },
       {
         "lang": "pt",

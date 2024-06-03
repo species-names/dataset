@@ -3,22 +3,43 @@
     "scientific_name": "Arremonops tocuyensis",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Tocuyo Sparrow"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de Tocuyo"
+      },
+      {
         "lang": "es",
-        "name": "Cerquero de El Tocuyo",
-        "synonyms": [
-          "curtío del Tocuyo",
-          "pinzón de Tocuyo"
-        ]
+        "name": "Cerquero de El Tocuyo"
       }
     ]
   },
   {
     "scientific_name": "Arremonops rufivirgatus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Olive Sparrow"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí olivaci"
+      },
+      {
+        "lang": "es",
+        "name": "Cerquero oliváceo"
+      }
+    ]
   },
   {
     "scientific_name": "Arremonops conirostris",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Toquí de ratlles negres"
+      },
       {
         "lang": "cs",
         "name": "habije černopásá"
@@ -75,12 +96,8 @@
         "name": "ciszek siwogłowy"
       },
       {
-        "lang": "pt-br",
-        "name": "Tico-tico-cantor"
-      },
-      {
         "lang": "pt",
-        "name": "Tico-tico-cantor"
+        "name": "tico-tico-cantor"
       },
       {
         "lang": "ru",
@@ -106,6 +123,10 @@
       {
         "lang": "en",
         "name": "Green-backed sparrow"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí dorsiverd"
       },
       {
         "lang": "es",

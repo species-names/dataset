@@ -1,10 +1,50 @@
 [
   {
+    "scientific_name": "Crocidura tadae",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocidura similiturba",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocidura makeda",
+    "common_names": []
+  },
+  {
     "scientific_name": "Crocidura kapsominensis",
     "common_names": []
   },
   {
+    "scientific_name": "Crocidura huangshanensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocidura gueldenstaedtii",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocidura gathornei",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocidura eburnea",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocidura dracula",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocidura bloyeti",
+    "common_names": []
+  },
+  {
     "scientific_name": "Crocidura balsamifera",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocidura baletei",
     "common_names": []
   },
   {
@@ -40,15 +80,6 @@
       {
         "lang": "en",
         "name": "Zaphir's Shrew"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Crocidura zaitsevi",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Mikhail Zaitsev's Shrew"
       }
     ]
   },
@@ -114,8 +145,20 @@
     "scientific_name": "Crocidura watasei",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Kleine Ryukyu-Weißzahnspitzmaus"
+      },
+      {
         "lang": "en",
-        "name": "Watase's shrew"
+        "name": "Lesser Ryukyu Shrew"
+      },
+      {
+        "lang": "es",
+        "name": "Musaraña de Ryukyu menor"
+      },
+      {
+        "lang": "fr",
+        "name": "Crocidure de Watase"
       },
       {
         "lang": "ja",
@@ -178,6 +221,15 @@
     ]
   },
   {
+    "scientific_name": "Crocidura umbra",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Java Ghost Shew"
+      }
+    ]
+  },
+  {
     "scientific_name": "Crocidura ultima",
     "common_names": [
       {
@@ -223,15 +275,6 @@
     ]
   },
   {
-    "scientific_name": "Crocidura thalia",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Thalia's Shrew"
-      }
-    ]
-  },
-  {
     "scientific_name": "Crocidura tenuis",
     "common_names": [
       {
@@ -258,7 +301,7 @@
     ]
   },
   {
-    "scientific_name": "Crocidura tarfayensis",
+    "scientific_name": "Crocidura tarfayaensis",
     "common_names": [
       {
         "lang": "en",
@@ -685,7 +728,7 @@
     "scientific_name": "Crocidura palawanensis",
     "common_names": [
       {
-        "lang": "en",
+        "lang": " en",
         "name": "Palawan Shrew"
       }
     ]
@@ -705,6 +748,22 @@
   {
     "scientific_name": "Crocidura orii",
     "common_names": [
+      {
+        "lang": "de",
+        "name": "Große Ryukyu-Weißzahnspitzmaus"
+      },
+      {
+        "lang": "en",
+        "name": "Greater Ryukyu Shrew"
+      },
+      {
+        "lang": "es",
+        "name": "Musaraña de Ryukyu mayor"
+      },
+      {
+        "lang": "fr",
+        "name": "Crocidure d'Orii"
+      },
       {
         "lang": "ja",
         "name": "オリイジネズミ"
@@ -835,11 +894,15 @@
     ]
   },
   {
-    "scientific_name": "Crocidura negligens",
+    "scientific_name": "Crocidura neglecta",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocidura narcondamica",
     "common_names": [
       {
         "lang": "en",
-        "name": "Peninsular Shrew"
+        "name": "Narcondam Shrew"
       }
     ]
   },
@@ -1191,15 +1254,6 @@
     ]
   },
   {
-    "scientific_name": "Crocidura kivuana",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Kivu Shrew"
-      }
-    ]
-  },
-  {
     "scientific_name": "Crocidura kegoensis",
     "common_names": []
   },
@@ -1383,15 +1437,6 @@
       {
         "lang": "en",
         "name": "Goliath Shrew"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Crocidura gmelini",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Gmelin's White-toothed Shrew"
       }
     ]
   },
@@ -1638,7 +1683,12 @@
   },
   {
     "scientific_name": "Crocidura caudipilosa",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": " en",
+        "name": "Hairy-tailed White-toothed Shrew"
+      }
+    ]
   },
   {
     "scientific_name": "Crocidura caudicrassa",
@@ -1733,20 +1783,11 @@
     ]
   },
   {
-    "scientific_name": "Crocidura beatus",
+    "scientific_name": "Crocidura beata",
     "common_names": [
       {
         "lang": "en",
         "name": "Mindanao Shrew"
-      }
-    ]
-  },
-  {
-    "scientific_name": "Crocidura batesi",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Bates's Shrew"
       }
     ]
   },
@@ -1766,10 +1807,6 @@
         "name": "Zębiełek sułtański"
       }
     ]
-  },
-  {
-    "scientific_name": "Crocidura balletei",
-    "common_names": []
   },
   {
     "scientific_name": "Crocidura baileyi",
@@ -1859,6 +1896,15 @@
     "common_names": []
   },
   {
+    "scientific_name": "Crocidura anhuiensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Anhui White-toothed Shrew"
+      }
+    ]
+  },
+  {
     "scientific_name": "Crocidura andamanensis",
     "common_names": [
       {
@@ -1881,6 +1927,10 @@
       {
         "lang": "en",
         "name": "East African Highland Shrew"
+      },
+      {
+        "lang": "pl",
+        "name": "zębiełek wyżynny"
       }
     ]
   },
@@ -1907,7 +1957,12 @@
     ]
   },
   {
-    "scientific_name": "Crocidura absconditus",
-    "common_names": []
+    "scientific_name": "Crocidura abscondita",
+    "common_names": [
+      {
+        "lang": " en",
+        "name": "Javan Long-tailed White-toothed Shrew"
+      }
+    ]
   }
 ]

@@ -25,8 +25,20 @@
     "scientific_name": "Sylvietta rufescens",
     "common_names": [
       {
+        "lang": "en",
+        "name": "Cape Crombec"
+      },
+      {
         "lang": "fi",
         "name": "Savannitöpökerttunen"
+      },
+      {
+        "lang": "af",
+        "name": "Bosveldstompstert"
+      },
+      {
+        "lang": "pt",
+        "name": "rabicurta-de-bico-comprido"
       }
     ]
   },
@@ -83,8 +95,16 @@
     "scientific_name": "Sylvietta brachyura",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Braunbauchsylvietta"
+      },
+      {
         "lang": "en",
         "name": "Northern Crombec"
+      },
+      {
+        "lang": "es",
+        "name": "crombec norteño"
       },
       {
         "lang": "fi",

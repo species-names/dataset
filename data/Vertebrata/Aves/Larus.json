@@ -408,6 +408,10 @@
     "scientific_name": "Larus michahellis",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Gaviota patiamariella"
+      },
+      {
         "lang": "ar",
         "name": "نورس أصفر الساق"
       },
@@ -1004,7 +1008,7 @@
       },
       {
         "lang": "mn",
-        "name": "Мөсны цахлай - ᠮᠦᠰᠦᠨ ᠦ ᠴᠠᠬᠣᠯᠠᠢ"
+        "name": "Мөсны цахлай - ᠮᠦᠰᠦᠨ ᠦ ᠴᠠᠬᠣᠯᠠᠢ"
       },
       {
         "lang": "mt",
@@ -1191,6 +1195,10 @@
       {
         "lang": "ast",
         "name": "Gavilueta d'Islandia"
+      },
+      {
+        "lang": "an",
+        "name": "Gaviota polar"
       },
       {
         "lang": "br",
@@ -1471,6 +1479,10 @@
         "name": "Kleinswartrugmeeu"
       },
       {
+        "lang": "an",
+        "name": "Gaviota fosca"
+      },
+      {
         "lang": "ar",
         "name": "نورس أغبس"
       },
@@ -1656,7 +1668,7 @@
       },
       {
         "lang": "nl",
-        "name": "Kleine mantelmeeuw"
+        "name": "Kleine Mantelmeeuw"
       },
       {
         "lang": "nn",
@@ -1868,6 +1880,10 @@
   {
     "scientific_name": "Larus delawarensis",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Gaviota de Delaware"
+      },
       {
         "lang": "ar",
         "name": "نورس ديلاوير"
@@ -2764,6 +2780,14 @@
       {
         "lang": "sv",
         "name": "Kortnäbbad mås"
+      },
+      {
+        "lang": "uk",
+        "name": "Мартин аляскинський"
+      },
+      {
+        "lang": "zh",
+        "name": "美洲海鸥"
       }
     ]
   },

@@ -20,7 +20,7 @@
       },
       {
         "lang": "es",
-        "name": "Picogrueso Muslinegro"
+        "name": "Picogrueso muslinegro"
       },
       {
         "lang": "fi",
@@ -167,6 +167,10 @@
         "name": "Róusenbrust-Kernknocker"
       },
       {
+        "lang": "bg",
+        "name": "Pheucticus ludovicianus"
+      },
+      {
         "lang": "cs",
         "name": "dlaskovec růžovoprsý"
       },
@@ -292,11 +296,29 @@
   },
   {
     "scientific_name": "Pheucticus chrysopeplus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow Grossbreak"
+      },
+      {
+        "lang": "es",
+        "name": "Picogrueso amarillo"
+      }
+    ]
   },
   {
     "scientific_name": "Pheucticus chrysogaster",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Golden-bellied Grosbeak"
+      },
+      {
+        "lang": "es",
+        "name": "Picogrueso ventriamarillo"
+      }
+    ]
   },
   {
     "scientific_name": "Pheucticus aureoventris",

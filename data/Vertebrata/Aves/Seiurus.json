@@ -3,12 +3,28 @@
     "scientific_name": "Seiurus aurocapilla",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "طائر الفران"
+      },
+      {
+        "lang": "arz",
+        "name": "طائر الفران"
+      },
+      {
+        "lang": "ca",
+        "name": "Bosquerola reietó"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček oranžovotemenný"
+        "name": "Lesňáček oranžovotemenný"
+      },
+      {
+        "lang": "cy",
+        "name": "Aderyn ffwrn"
       },
       {
         "lang": "da",
-        "name": "Brillevanddrossel"
+        "name": "Brille-vanddrossel"
       },
       {
         "lang": "de",
@@ -19,16 +35,24 @@
         "name": "Ovenbird"
       },
       {
+        "lang": "eo",
+        "name": "Orverta parulio"
+      },
+      {
         "lang": "es",
         "name": "Reinita hornera"
       },
       {
         "lang": "et",
-        "name": "maasäälik"
+        "name": "Maasäälik"
+      },
+      {
+        "lang": "fa",
+        "name": "مرغ تنورساز"
       },
       {
         "lang": "fi",
-        "name": "tulipääkerttuli"
+        "name": "Tulipääkerttuli"
       },
       {
         "lang": "fo",
@@ -48,7 +72,7 @@
       },
       {
         "lang": "hu",
-        "name": "koronás harasztjáró"
+        "name": "Koronás harasztjáró"
       },
       {
         "lang": "is",
@@ -56,14 +80,15 @@
       },
       {
         "lang": "it",
-        "name": "Tordo corona dorata"
+        "name": "Seiuro corona dorata"
       },
       {
         "lang": "ja",
-        "name": "カマドムシクイ",
-        "synonyms": [
-          "kamadomushikui"
-        ]
+        "name": "カマドムシクイ"
+      },
+      {
+        "lang": "ko",
+        "name": "가마새"
       },
       {
         "lang": "lt",
@@ -74,19 +99,24 @@
         "name": "Ovenvogel"
       },
       {
+        "lang": "nn",
+        "name": "Omnparula"
+      },
+      {
         "lang": "no",
         "name": "Ovnparula"
       },
       {
+        "lang": "nv",
+        "name": "Téél halkizhii"
+      },
+      {
         "lang": "pl",
-        "name": "lasówka zlotoglowa"
+        "name": "Lasówka zlotoglowa"
       },
       {
         "lang": "pt",
-        "name": "Mariquita-de-coroa-ruiva",
-        "synonyms": [
-          "Mariquita-forneira"
-        ]
+        "name": "Mariquita-de-coroa-ruiva"
       },
       {
         "lang": "ru",
@@ -94,19 +124,23 @@
       },
       {
         "lang": "sk",
-        "name": "horárik žltohlavý"
+        "name": "Horárik žltohlavý"
       },
       {
         "lang": "sl",
-        "name": "zlatoglavi cipar"
+        "name": "Zlatoglavi cipar"
       },
       {
         "lang": "sv",
         "name": "Rödkronad piplärksångare"
       },
       {
+        "lang": "ta",
+        "name": "அடுப்புப் பறவை"
+      },
+      {
         "lang": "tr",
-        "name": "kızıl taçlı suötleğeni"
+        "name": "Kızıl taçlı suötleğeni"
       },
       {
         "lang": "zh",

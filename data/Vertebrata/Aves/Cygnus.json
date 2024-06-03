@@ -4,10 +4,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Cygnus pristinus",
-    "common_names": []
-  },
-  {
     "scientific_name": "Cygnus paloregonus",
     "common_names": []
   },
@@ -88,11 +84,19 @@
     "common_names": []
   },
   {
+    "scientific_name": "Cygnus pristinus",
+    "common_names": []
+  },
+  {
     "scientific_name": "Cygnus olor",
     "common_names": [
       {
         "lang": "af",
         "name": "Witswaan"
+      },
+      {
+        "lang": "an",
+        "name": "Cisne mudo"
       },
       {
         "lang": "ar",
@@ -192,11 +196,11 @@
       },
       {
         "lang": "ga",
-        "name": "Eala Bhalbh"
+        "name": "Eala bhalbh"
       },
       {
         "lang": "gd",
-        "name": "Eala"
+        "name": "Eala-bhàn"
       },
       {
         "lang": "gl",
@@ -352,6 +356,10 @@
         "name": "Labuť černokrká"
       },
       {
+        "lang": "da",
+        "name": "Sorthalset Svane"
+      },
+      {
         "lang": "de",
         "name": "Schwarzhalsschwan"
       },
@@ -385,7 +393,7 @@
       },
       {
         "lang": "it",
-        "name": "Cigno Collo Nero"
+        "name": "Cigno collonero"
       },
       {
         "lang": "ja",
@@ -461,6 +469,10 @@
       {
         "lang": "af",
         "name": "Singswaan"
+      },
+      {
+        "lang": "an",
+        "name": "Cisne charraire"
       },
       {
         "lang": "ar",
@@ -755,6 +767,10 @@
   {
     "scientific_name": "Cygnus columbianus",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Cisnet"
+      },
       {
         "lang": "ast",
         "name": "Cisne"

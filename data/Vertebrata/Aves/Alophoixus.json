@@ -1,5 +1,23 @@
 [
   {
+    "scientific_name": "Alophoixus tephrogenys",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-cheeked Bulbul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alophoixus ruficrissus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Penan Bulbul"
+      }
+    ]
+  },
+  {
     "scientific_name": "Alophoixus phaeocephalus",
     "common_names": [
       {
@@ -23,6 +41,15 @@
       {
         "lang": "en",
         "name": "Ochraceous Bulbul"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alophoixus frater",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Palawan Bulbul"
       }
     ]
   },
@@ -77,12 +104,7 @@
   },
   {
     "scientific_name": "Alophoixus finschii",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Finsch's Bulbul"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Alophoixus bres",

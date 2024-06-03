@@ -49,7 +49,11 @@
       },
       {
         "lang": "es",
-        "name": "Chipe de Cara Colorada"
+        "name": "Reinita carirroja"
+      },
+      {
+        "lang": "et",
+        "name": "Punakurk-säälik"
       },
       {
         "lang": "fi",
@@ -57,11 +61,11 @@
       },
       {
         "lang": "fr",
-        "name": "Paruline à face rose"
+        "name": "Paruline à face rouge"
       },
       {
         "lang": "it",
-        "name": "Parula cardellina"
+        "name": "Parula facciarossa"
       },
       {
         "lang": "ja",
@@ -84,8 +88,12 @@
         "name": "Szczyglówka"
       },
       {
+        "lang": "pt",
+        "name": "Mariquita-de-cara-vermelha"
+      },
+      {
         "lang": "ru",
-        "name": "Краснолицая древесница"
+        "name": "Трёхцветная карделлина"
       },
       {
         "lang": "sk",
@@ -94,6 +102,10 @@
       {
         "lang": "sv",
         "name": "Rödbröstad skogssångare"
+      },
+      {
+        "lang": "uk",
+        "name": "Пісняр червонолобий"
       },
       {
         "lang": "zh",
@@ -158,8 +170,16 @@
     "scientific_name": "Cardellina pusilla",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Bosquerola de Wilson"
+      },
+      {
         "lang": "cs",
-        "name": "lesňáček mniší"
+        "name": "Lesňáček mniší"
+      },
+      {
+        "lang": "cy",
+        "name": "Telor Wilson"
       },
       {
         "lang": "da",
@@ -179,11 +199,11 @@
       },
       {
         "lang": "et",
-        "name": "pajusäälik"
+        "name": "Pajusäälik"
       },
       {
         "lang": "fi",
-        "name": "sitruunakerttuli"
+        "name": "Sitruunakerttuli"
       },
       {
         "lang": "fr",
@@ -195,7 +215,7 @@
       },
       {
         "lang": "hu",
-        "name": "sapkás lombjáró"
+        "name": "Sapkás lombjáró"
       },
       {
         "lang": "is",
@@ -207,17 +227,11 @@
       },
       {
         "lang": "ja",
-        "name": "ウィルソンアメリカムシクイ",
-        "synonyms": [
-          "wiruson'amerikamushikui"
-        ]
+        "name": "ウィルソンアメリカムシクイ"
       },
       {
         "lang": "lt",
-        "name": "Mažoji vilsonija",
-        "synonyms": [
-          "Nykštukinė vilsonija"
-        ]
+        "name": "Mažoji vilsonija"
       },
       {
         "lang": "nl",
@@ -241,11 +255,11 @@
       },
       {
         "lang": "sk",
-        "name": "horárik vŕbový"
+        "name": "Horárik vŕbový"
       },
       {
         "lang": "sl",
-        "name": "mali frfotavček"
+        "name": "Mali frfotavček"
       },
       {
         "lang": "sv",
@@ -254,6 +268,10 @@
       {
         "lang": "tr",
         "name": "Takkeli Ötleğen"
+      },
+      {
+        "lang": "uk",
+        "name": "Болотянка мала"
       },
       {
         "lang": "zh",

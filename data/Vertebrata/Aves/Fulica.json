@@ -91,6 +91,10 @@
         "name": "Bleshoender"
       },
       {
+        "lang": "an",
+        "name": "Vocha cornuta"
+      },
+      {
         "lang": "bg",
         "name": "Червеночела лиска"
       },
@@ -185,15 +189,15 @@
     ]
   },
   {
-    "scientific_name": "Fulica caribaea",
-    "common_names": []
-  },
-  {
     "scientific_name": "Fulica atra",
     "common_names": [
       {
         "lang": "als",
         "name": "Blässhuhn"
+      },
+      {
+        "lang": "an",
+        "name": "Focha"
       },
       {
         "lang": "ar",

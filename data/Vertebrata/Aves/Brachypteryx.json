@@ -1,10 +1,59 @@
 [
   {
+    "scientific_name": "Brachypteryx sinensis",
+    "common_names": [
+      {
+        "lang": "nl",
+        "name": "Chinese kortvleugel"
+      },
+      {
+        "lang": "en",
+        "name": "Chinese shortwing"
+      },
+      {
+        "lang": "sv",
+        "name": "Kinesisk kortvinge"
+      }
+    ]
+  },
+  {
     "scientific_name": "Brachypteryx montana",
     "common_names": [
       {
         "lang": "en",
         "name": "White-browed Shortwing"
+      },
+      {
+        "lang": "bg",
+        "name": "Беловежда късокрилка"
+      },
+      {
+        "lang": "cy",
+        "name": "Adeinfyr aelwyn"
+      },
+      {
+        "lang": "fa",
+        "name": "بال‌کوتاه ابروسفید"
+      },
+      {
+        "lang": "fi",
+        "name": "Sinitöpörastas"
+      },
+      {
+        "lang": "nl",
+        "name": "Blauwe kortvleugel"
+      },
+      {
+        "lang": "nv",
+        "name": "Dǫ́ʼiiyiyiitsahí tʼachʼį́į́dí dootłʼizhígíí"
+      },
+      {
+        "lang": "sv",
+        "name": "Blå kortvinge"
+      },
+      {
+        "lang": "vi",
+        "name": "Hoét đuôi cụt xanh"
       },
       {
         "lang": "zh",
@@ -17,7 +66,35 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Lesser Shortwing"
+        "name": "Lesser shortwing"
+      },
+      {
+        "lang": "es",
+        "name": "alicorto chico"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskotöpörastas"
+      },
+      {
+        "lang": "fr",
+        "name": "Petite Brachyptère"
+      },
+      {
+        "lang": "id",
+        "name": "Cingcoang coklat"
+      },
+      {
+        "lang": "ne",
+        "name": "सानो लघुपङ्ख"
+      },
+      {
+        "lang": "nl",
+        "name": "Kleine kortvleugel"
+      },
+      {
+        "lang": "vi",
+        "name": "Hoét đuôi cụt mày trắng"
       },
       {
         "lang": "zh",
@@ -55,6 +132,40 @@
       {
         "lang": "zh",
         "name": "锈腹短翅鸫"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Brachypteryx goodfellowi",
+    "common_names": [
+      {
+        "lang": "nl",
+        "name": "Taiwankortvleugel"
+      },
+      {
+        "lang": "en",
+        "name": "Taiwan shortwing"
+      },
+      {
+        "lang": "sv",
+        "name": "Taiwan kortvinge"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Brachypteryx cruralis",
+    "common_names": [
+      {
+        "lang": "nl",
+        "name": "Himalayakortvleugel"
+      },
+      {
+        "lang": "en",
+        "name": "Himalayan Shortwing"
+      },
+      {
+        "lang": "sv",
+        "name": "Himalayakortvinge"
       }
     ]
   }

@@ -112,7 +112,16 @@
   },
   {
     "scientific_name": "Cacomantis passerinus",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Grey-bellied cuckoo"
+      },
+      {
+        "lang": "ne",
+        "name": "फुस्रो सानो कोइली"
+      }
+    ]
   },
   {
     "scientific_name": "Cacomantis pallidus",

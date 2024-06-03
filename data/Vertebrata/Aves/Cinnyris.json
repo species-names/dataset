@@ -1,5 +1,22 @@
 [
   {
+    "scientific_name": "Cinnyris whytei",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Whyte's Double-collared Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga de Whyte"
+      },
+      {
+        "lang": "fr",
+        "name": "Souimanga du Malawi"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cinnyris venustus",
     "common_names": [
       {
@@ -8,6 +25,19 @@
         "synonyms": [
           "Yellow-bellied Sunbird"
         ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cinnyris usambaricus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Usambara Double-collared Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga de Usambara"
       }
     ]
   },
@@ -45,6 +75,23 @@
       {
         "lang": "en",
         "name": "Tsavo Sunbird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cinnyris teysmanni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Flores Sea Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga de Flores"
+      },
+      {
+        "lang": "id",
+        "name": "Burung-madu flores"
       }
     ]
   },
@@ -224,6 +271,10 @@
       {
         "lang": "es",
         "name": "Suimanga de Pemba"
+      },
+      {
+        "lang": "ru",
+        "name": "Фиолетовогрудая нектарница"
       }
     ]
   },
@@ -302,6 +353,27 @@
     ]
   },
   {
+    "scientific_name": "Cinnyris ornatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ornate Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga ornado"
+      },
+      {
+        "lang": "fr",
+        "name": "Souimanga orné"
+      },
+      {
+        "lang": "id",
+        "name": "Burung-madu sriganti"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cinnyris notatus",
     "common_names": []
   },
@@ -371,6 +443,10 @@
       {
         "lang": "en",
         "name": "Eastern Double-collared Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga del Kilimanjaro Oriental"
       }
     ]
   },
@@ -388,7 +464,11 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Miombo Double-collared Sunbird"
+        "name": "Eastern Miombo Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga del Miombo oriental"
       }
     ]
   },
@@ -398,6 +478,10 @@
       {
         "lang": "en",
         "name": "Ludwig's Double-collared Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga angoleño"
       },
       {
         "lang": "cy",
@@ -418,6 +502,10 @@
       {
         "lang": "pnb",
         "name": "لڈوگ دوہرے کالروالا رس پنچھی"
+      },
+      {
+        "lang": "pt",
+        "name": "nectarínia-das-montanhas"
       },
       {
         "lang": "sv",
@@ -508,7 +596,7 @@
       },
       {
         "lang": "en",
-        "name": "Olive-backed Sunbird"
+        "name": "Garden Sunbird"
       },
       {
         "lang": "es",
@@ -582,6 +670,36 @@
     ]
   },
   {
+    "scientific_name": "Cinnyris infrenatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Tukangbesi Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga de Tukangbesi"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cinnyris idenburgi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Mamberamo Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga de Rand"
+      },
+      {
+        "lang": "id",
+        "name": "Burung-madu papua"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cinnyris humbloti",
     "common_names": [
       {
@@ -611,11 +729,70 @@
     ]
   },
   {
+    "scientific_name": "Cinnyris hofmanni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hofmann's Sunbird"
+      },
+      {
+        "lang": "de",
+        "name": "Hofmann-Nektarvogel"
+      },
+      {
+        "lang": "fr",
+        "name": "Souimanga de Hofmann"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cinnyris hellmayri",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Arabian Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga árabe"
+      },
+      {
+        "lang": "de",
+        "name": "Arabiennektarvogel"
+      },
+      {
+        "lang": "fr",
+        "name": "Souimanga de Hellmayr"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cinnyris habessinicus",
     "common_names": [
       {
         "lang": "en",
         "name": "Shining Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga brillante"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cinnyris gertrudis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Western Miombo Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga del Miombo Occidental"
+      },
+      {
+        "lang": "pt",
+        "name": "beija-flor-do-miombo"
       }
     ]
   },
@@ -625,6 +802,36 @@
       {
         "lang": "en",
         "name": "Dusky Sunbird"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cinnyris fuelleborni",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Forest Double-collared Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga forestal"
+      },
+      {
+        "lang": "de",
+        "name": "Füllebornnektarvogel"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Cinnyris frenatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Sahul Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga de Sahul"
       }
     ]
   },
@@ -779,6 +986,27 @@
     ]
   },
   {
+    "scientific_name": "Cinnyris clementiae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "South Moluccan Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga de Clementia"
+      },
+      {
+        "lang": "fr",
+        "name": "Souimanga de Clémence"
+      },
+      {
+        "lang": "id",
+        "name": "Burung-madu maluku"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cinnyris chloropygius",
     "common_names": [
       {
@@ -801,11 +1029,15 @@
     ]
   },
   {
-    "scientific_name": "Cinnyris chacomelas",
+    "scientific_name": "Cinnyris chalcomelas",
     "common_names": [
       {
         "lang": "en",
         "name": "Violet-breasted Sunbird"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga pechivioleta"
       }
     ]
   },
@@ -845,8 +1077,29 @@
     ]
   },
   {
+    "scientific_name": "Cinnyris aurora",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Palawan Sunbird"
+      },
+      {
+        "lang": "fr",
+        "name": "Souimanga aurore"
+      },
+      {
+        "lang": "es",
+        "name": "Suimanga de Palawan"
+      }
+    ]
+  },
+  {
     "scientific_name": "Cinnyris asiaticus",
     "common_names": [
+      {
+        "lang": "bn",
+        "name": "নীলটুনি"
+      },
       {
         "lang": "en",
         "name": "Purple Sunbird"
@@ -858,6 +1111,10 @@
       {
         "lang": "th",
         "name": "นกกินปลีดำม่วง"
+      },
+      {
+        "lang": "ta",
+        "name": "ஊதா தேன்சிட்டு"
       }
     ]
   },

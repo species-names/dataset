@@ -59,5 +59,72 @@
         "name": "Sorgfink"
       }
     ]
+  },
+  {
+    "scientific_name": "Rhopospina carbonaria",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Carbonated sierra-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Yal carbonero"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhopospina caerulescens",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yellow-billed Blue Finch"
+      },
+      {
+        "lang": "pt",
+        "name": "Azulão-do-cerrado"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Campainha-azul"
+      },
+      {
+        "lang": "es",
+        "name": "Yal Azul; azulillo brasileño"
+      },
+      {
+        "lang": "fr",
+        "name": "Porphyrin à bec jaune"
+      },
+      {
+        "lang": "hu",
+        "name": "Kobaltkék pinty"
+      },
+      {
+        "lang": "nl",
+        "name": "Kobaltgors"
+      },
+      {
+        "lang": "sv",
+        "name": "camposfink"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhopospina alaudina",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Band-tailed Sierra Finch"
+      },
+      {
+        "lang": "es",
+        "name": "Yal platero"
+      },
+      {
+        "lang": "fr",
+        "name": "Phrygile à queue barrée"
+      }
+    ]
   }
 ]

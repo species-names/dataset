@@ -31,7 +31,16 @@
   },
   {
     "scientific_name": "Cacicus sclateri",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Ecuadorian Cacique"
+      },
+      {
+        "lang": "es",
+        "name": "Cacique ecuatoriano"
+      }
+    ]
   },
   {
     "scientific_name": "Cacicus oseryi",
@@ -52,18 +61,14 @@
   },
   {
     "scientific_name": "Cacicus microrhynchus",
-    "common_names": []
-  },
-  {
-    "scientific_name": "Cacicus leucoramphus",
     "common_names": [
       {
         "lang": "en",
-        "name": "Mountain cacique"
+        "name": "Small-billed Cacique"
       },
       {
         "lang": "es",
-        "name": "Cacique montano norteño"
+        "name": "Cacique lomiescarlata"
       }
     ]
   },
@@ -150,7 +155,7 @@
       },
       {
         "lang": "es",
-        "name": "Arrendajo de lomo rojo"
+        "name": "Cacique lomirrojo"
       },
       {
         "lang": "fr",
@@ -200,7 +205,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "mountain cacique"
+        "name": "Mountain Cacique"
       },
       {
         "lang": "eo",

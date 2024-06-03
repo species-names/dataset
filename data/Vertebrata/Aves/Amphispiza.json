@@ -1,16 +1,11 @@
 [
   {
-    "scientific_name": "Amphispiza quinquestriata",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Five-striped Sparrow"
-      }
-    ]
-  },
-  {
     "scientific_name": "Amphispiza bilineata",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Sit gorjanegre"
+      },
       {
         "lang": "en",
         "name": "Black-throated Sparrow"
@@ -21,7 +16,7 @@
       },
       {
         "lang": "es",
-        "name": "Gorrión gorjinegro carirrayado"
+        "name": "Chingolo gorjinegro"
       },
       {
         "lang": "fr",

@@ -121,16 +121,92 @@
     "scientific_name": "Alcedo meninting",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "নীলকান মাছরাঙা"
+      },
+      {
+        "lang": "ca",
+        "name": "Blauet meninting"
+      },
+      {
         "lang": "cs",
         "name": "Ledňáček modrohřbetý"
+      },
+      {
+        "lang": "da",
+        "name": "Blåøret Isfugl"
+      },
+      {
+        "lang": "de",
+        "name": "Menintingeisvogel"
       },
       {
         "lang": "en",
         "name": "Blue-eared Kingfisher"
       },
       {
+        "lang": "es",
+        "name": "Martín pescador meninting"
+      },
+      {
+        "lang": "et",
+        "name": "Türkiis-jäälind"
+      },
+      {
+        "lang": "fi",
+        "name": "Sinikorvakalastaja"
+      },
+      {
+        "lang": "fr",
+        "name": "Martin-pêcheur méninting"
+      },
+      {
+        "lang": "hu",
+        "name": "Meninting-jégmadár"
+      },
+      {
+        "lang": "id",
+        "name": "Raja-udang meninting"
+      },
+      {
+        "lang": "it",
+        "name": "Martin pescatore guanceblu"
+      },
+      {
         "lang": "ja",
         "name": "ルリカワセミ"
+      },
+      {
+        "lang": "my",
+        "name": "ပိန်ညင်းနားပြာ"
+      },
+      {
+        "lang": "nl",
+        "name": "Menintingijsvogel"
+      },
+      {
+        "lang": "no",
+        "name": "Lakmusisfugl"
+      },
+      {
+        "lang": "pl",
+        "name": "Zimorodek granatowy"
+      },
+      {
+        "lang": "ru",
+        "name": "Синеухий зимородок"
+      },
+      {
+        "lang": "sk",
+        "name": "Rybárik lesný"
+      },
+      {
+        "lang": "sv",
+        "name": "Menintingkungsfiskare"
+      },
+      {
+        "lang": "th",
+        "name": "นกกะเต็นน้อยหลังสีน้ำเงิน"
       },
       {
         "lang": "tr",
@@ -283,7 +359,7 @@
       },
       {
         "lang": "nl",
-        "name": "Blauwborstijsvogel"
+        "name": "Javaanse blauwborstijsvogel"
       },
       {
         "lang": "no",
@@ -337,7 +413,7 @@
     "common_names": [
       {
         "lang": "af",
-        "name": "Europese visvanger"
+        "name": "Eurasiese visvanger"
       },
       {
         "lang": "als",
@@ -370,6 +446,10 @@
       {
         "lang": "bg",
         "name": "Земеродно рибарче"
+      },
+      {
+        "lang": "bn",
+        "name": "পাতি মাছরাঙা"
       },
       {
         "lang": "br",

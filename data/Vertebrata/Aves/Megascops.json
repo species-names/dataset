@@ -1,5 +1,13 @@
 [
   {
+    "scientific_name": "Megascops usta",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Megascops ater",
+    "common_names": []
+  },
+  {
     "scientific_name": "Megascops watsonii",
     "common_names": [
       {
@@ -17,39 +25,6 @@
     ]
   },
   {
-    "scientific_name": "Megascops vermiculatus",
-    "common_names": [
-      {
-        "lang": "ca",
-        "name": "Xot vermiculat"
-      },
-      {
-        "lang": "de",
-        "name": "Kritzel-Kreischeule"
-      },
-      {
-        "lang": "en",
-        "name": "Vermiculated Screech Owl"
-      },
-      {
-        "lang": "es",
-        "name": "Autillo vermiculado"
-      },
-      {
-        "lang": "fi",
-        "name": "Rusopöllönen"
-      },
-      {
-        "lang": "fr",
-        "name": "Petit-duc vermiculé"
-      },
-      {
-        "lang": "nl",
-        "name": "Marmerschreeuwuil"
-      }
-    ]
-  },
-  {
     "scientific_name": "Megascops trichopsis",
     "common_names": [
       {
@@ -59,6 +34,19 @@
       {
         "lang": "es",
         "name": "Autillo bigotudo"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops stangiae",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Xingu Screech-Owl"
+      },
+      {
+        "lang": "pt",
+        "name": "corujinha-do-xingu"
       }
     ]
   },
@@ -332,6 +320,10 @@
       {
         "lang": "en",
         "name": "Guatemalan Screech-owl"
+      },
+      {
+        "lang": "es",
+        "name": "Autillo guatemalteco"
       }
     ]
   },
@@ -589,6 +581,23 @@
       {
         "lang": "sv",
         "name": "Vitstrupig skrikuv"
+      },
+      {
+        "lang": "ru",
+        "name": "Белогорлая совка"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Megascops alagoensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Alagoas Screech-Owl"
+      },
+      {
+        "lang": "pt",
+        "name": "corujinha-de-alagoas"
       }
     ]
   }

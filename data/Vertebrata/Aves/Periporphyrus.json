@@ -1,6 +1,32 @@
 [
   {
     "scientific_name": "Periporphyrus erythromelas",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-and-black Grosbeak"
+      },
+      {
+        "lang": "es",
+        "name": "Picogordo rojinegro"
+      },
+      {
+        "lang": "pt",
+        "name": "bivudo-encarnado"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Periporphyrus celaeno",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Crimson-collared Grosbeak"
+      },
+      {
+        "lang": "es",
+        "name": "Picogrueso cuellirrufo"
+      }
+    ]
   }
 ]

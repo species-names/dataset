@@ -5,6 +5,14 @@
       {
         "lang": "en",
         "name": "Tricoloured Brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí tricolor"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes tricolor"
       }
     ]
   },
@@ -31,6 +39,14 @@
       {
         "lang": "en",
         "name": "Vilcabamba Brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de Vilcabamba"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes de Vilcabamba"
       }
     ]
   },
@@ -43,11 +59,7 @@
       },
       {
         "lang": "es",
-        "name": "Atlapetes semirrufo",
-        "synonyms": [
-          "atlapetes ajicero",
-          "gorrión de monte ocráceo"
-        ]
+        "name": "Atlapetes semirrufo"
       }
     ]
   },
@@ -57,6 +69,10 @@
       {
         "lang": "en",
         "name": "Bay-crowned Brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de Seebohm"
       },
       {
         "lang": "es",
@@ -70,6 +86,14 @@
       {
         "lang": "en",
         "name": "Slaty Brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí pissarrós"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes pizarroso"
       }
     ]
   },
@@ -79,6 +103,10 @@
       {
         "lang": "en",
         "name": "Rufous-naped Brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de Bolívia"
       },
       {
         "lang": "es",
@@ -92,6 +120,14 @@
       {
         "lang": "en",
         "name": "Rufous-eared Brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí cap-roig"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes orejirrufo"
       }
     ]
   },
@@ -114,6 +150,10 @@
       {
         "lang": "en",
         "name": "Tepui Brush-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes de tepuí"
       }
     ]
   },
@@ -126,11 +166,7 @@
       },
       {
         "lang": "es",
-        "name": "atlapetes cabecipálido",
-        "synonyms": [
-          "matorralero nuquipálido",
-          "gorrión montés cabeciblanco"
-        ]
+        "name": "atlapetes cabecipálido"
       }
     ]
   },
@@ -142,15 +178,16 @@
         "name": "Pale-headed Brush-finch"
       },
       {
+        "lang": "ca",
+        "name": "Toquí pàl·lid"
+      },
+      {
         "lang": "cy",
         "name": "Pila prysgoed penwelw"
       },
       {
         "lang": "es",
-        "name": "atlapetes cabecipálido",
-        "synonyms": [
-          "saltón cabecipálido"
-        ]
+        "name": "atlapetes cabecipálido"
       },
       {
         "lang": "fi",
@@ -174,6 +211,10 @@
         "name": "Black-fronted brush-finch"
       },
       {
+        "lang": "ca",
+        "name": "Toquí frontnegre"
+      },
+      {
         "lang": "es",
         "name": "Atlapetes del Perijá"
       }
@@ -183,8 +224,16 @@
     "scientific_name": "Atlapetes nationi",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Toquí ventre-rogenc"
+      },
+      {
         "lang": "en",
         "name": "Rusty-bellied Brush-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes ventrirrufo"
       }
     ]
   },
@@ -194,6 +243,10 @@
       {
         "lang": "en",
         "name": "Merida brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de Mérida"
       },
       {
         "lang": "es",
@@ -209,12 +262,20 @@
         "name": "Black-spectacled Brush-finch"
       },
       {
+        "lang": "ca",
+        "name": "Toquí arlequí"
+      },
+      {
         "lang": "nl",
         "name": "Zwartbrilstruikgors"
       },
       {
         "lang": "sv",
         "name": "svartmaskad snårsparv"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes de anteojos"
       }
     ]
   },
@@ -224,6 +285,10 @@
       {
         "lang": "en",
         "name": "Black-faced brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí caranegre"
       },
       {
         "lang": "es",
@@ -237,6 +302,10 @@
       {
         "lang": "en",
         "name": "Santa Marta Brush-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes de Santa Marta"
       }
     ]
   },
@@ -277,11 +346,12 @@
         "name": "White-winged Brush-finch"
       },
       {
+        "lang": "ca",
+        "name": "Toquí alablanc"
+      },
+      {
         "lang": "es",
-        "name": "Atlapetes aliblanco",
-        "synonyms": [
-          "matorralero aliblanco"
-        ]
+        "name": "Atlapetes aliblanco"
       },
       {
         "lang": "sv",
@@ -293,16 +363,20 @@
     "scientific_name": "Atlapetes leucopis",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Toquí d'ulleres"
+      },
+      {
         "lang": "en",
         "name": "White-rimmed Brush-finch"
       },
       {
         "lang": "es",
-        "name": "Atlapetes embridado",
-        "synonyms": [
-          "matorralero de anteojos",
-          "gorrión montés parduzco"
-        ]
+        "name": "Atlapetes embridado"
+      },
+      {
+        "lang": "sv",
+        "name": "Glasögonsnårsparv"
       }
     ]
   },
@@ -338,6 +412,14 @@
       {
         "lang": "en",
         "name": "Fulvous-headed Brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí de cap ardent"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes cabecirrufo"
       }
     ]
   },
@@ -347,6 +429,10 @@
       {
         "lang": "en",
         "name": "Apurímac Brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí d'Apurímac"
       },
       {
         "lang": "es",
@@ -398,6 +484,10 @@
         "name": "Choco brush finch"
       },
       {
+        "lang": "ca",
+        "name": "Toquí del Chocó"
+      },
+      {
         "lang": "es",
         "name": "Atlapetes del Chocó"
       }
@@ -409,6 +499,14 @@
       {
         "lang": "en",
         "name": "Yellow-striped Brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí citrí"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes amarillo"
       }
     ]
   },
@@ -420,8 +518,12 @@
         "name": "Grey Brush-finch"
       },
       {
+        "lang": "ca",
+        "name": "Toquí de Cusco"
+      },
+      {
         "lang": "es",
-        "name": "Atlapetes de Cuzco; matorralero de Cuzco"
+        "name": "Atlapetes de Cuzco"
       }
     ]
   },
@@ -435,6 +537,14 @@
       {
         "lang": "pl",
         "name": "zaroślak kolumbijski"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí d'Antioquia"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes antioqueño"
       }
     ]
   },
@@ -444,6 +554,10 @@
       {
         "lang": "en",
         "name": "Moustached Brush-finch"
+      },
+      {
+        "lang": "es",
+        "name": "Atlapetes bigotudo"
       }
     ]
   },
@@ -462,6 +576,10 @@
       {
         "lang": "en",
         "name": "White-headed Brush-finch"
+      },
+      {
+        "lang": "ca",
+        "name": "Toquí capblanc"
       }
     ]
   }

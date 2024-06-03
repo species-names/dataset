@@ -1,148 +1,23 @@
 [
   {
     "scientific_name": "Alcippe vinipectus",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "White-browed Fulvetta"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Alcippe variegaticeps",
-    "common_names": [
-      {
-        "lang": "cs",
-        "name": "Timálie pestrohlavá"
-      },
-      {
-        "lang": "da",
-        "name": "Gulpandet Alcippe"
-      },
-      {
-        "lang": "de",
-        "name": "Buntkopfalcippe",
-        "synonyms": [
-          "Buntkopf-Alcippe"
-        ]
-      },
-      {
-        "lang": "en",
-        "name": "Gold fronted Fulvetta",
-        "synonyms": [
-          "Golden-fronted Fulvetta",
-          "Gold-fronted Fulvetta",
-          "Variegated Fulvetta",
-          "Yellow fronted Tit Babbler",
-          "Yellow-fronted Fulvetta",
-          "Yen's Fulvetta"
-        ]
-      },
-      {
-        "lang": "es",
-        "name": "Fulveta frentigualda",
-        "synonyms": [
-          "Fulveta variable"
-        ]
-      },
-      {
-        "lang": "fi",
-        "name": "Kwangsintimali"
-      },
-      {
-        "lang": "fr",
-        "name": "Alcippe à front jaune",
-        "synonyms": [
-          "Alcippe à tête variée",
-          "Pseudominla à front jaune"
-        ]
-      },
-      {
-        "lang": "it",
-        "name": "Fulvetta frontedorata",
-        "synonyms": [
-          "Fulvetta variegata"
-        ]
-      },
-      {
-        "lang": "ja",
-        "name": "キビタイチメドリ [kibitaichimedori]"
-      },
-      {
-        "lang": "nl",
-        "name": "Bonte nontimalia"
-      },
-      {
-        "lang": "no",
-        "name": "Gyllenpannefulvetta"
-      },
-      {
-        "lang": "pl",
-        "name": "Sikornik zlotoczelny",
-        "synonyms": [
-          "Sikornik złotoczelny"
-        ]
-      },
-      {
-        "lang": "ru",
-        "name": "Желтолобая альциппа"
-      },
-      {
-        "lang": "sk",
-        "name": "Pásikár zlatočelý"
-      },
-      {
-        "lang": "sv",
-        "name": "Gulpannad fulvetta"
-      },
-      {
-        "lang": "vi",
-        "name": "Lách tách trán vàng"
-      },
-      {
-        "lang": "zh",
-        "name": "金额雀鹛"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Alcippe striaticollis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Chinese Fulvetta"
-      },
-      {
-        "lang": "es",
-        "name": "Fulveta china"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Alcippe rufogularis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Rufous-throated Fulvetta"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Alcippe ruficapilla",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Spectacled Fulvetta"
-      },
-      {
-        "lang": "es",
-        "name": "Fulvetta ruficapilla"
-      },
-      {
-        "lang": "zh",
-        "name": "棕头雀鹛"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Alcippe pyrrhoptera",
@@ -199,69 +74,63 @@
   },
   {
     "scientific_name": "Alcippe ludlowi",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Alcippe hueti",
     "common_names": [
       {
         "lang": "en",
-        "name": "Ludlow's Fulvetta"
-      },
+        "name": "Huet's Fulvetta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alcippe grotei",
+    "common_names": [
       {
-        "lang": "es",
-        "name": "Fulveta de Ludlow"
+        "lang": "en",
+        "name": "Black-browed Fulvetta"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Alcippe fratercula",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Yunnan Fulvetta"
       }
     ]
   },
   {
     "scientific_name": "Alcippe dubia",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Alcippe davidi",
     "common_names": [
       {
         "lang": "en",
-        "name": "Rusty-capped Fulvetta"
+        "name": "David's Fulvetta"
       }
     ]
   },
   {
     "scientific_name": "Alcippe cinereiceps",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Streak-throated Fulvetta"
-      },
-      {
-        "lang": "es",
-        "name": "Fulveta encapuchada"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Alcippe cinerea",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Yellow-throated Fulvetta"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Alcippe chrysotis",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Golden-breasted Fulvetta"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Alcippe castaneceps",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Rufous-winged Fulvetta"
-      },
-      {
-        "lang": "es",
-        "name": "Fulveta alirrufa"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Alcippe brunneicauda",
@@ -274,11 +143,6 @@
   },
   {
     "scientific_name": "Alcippe brunnea",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Dusky Fulvetta"
-      }
-    ]
+    "common_names": []
   }
 ]

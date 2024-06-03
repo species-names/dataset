@@ -618,7 +618,7 @@
       },
       {
         "lang": "da",
-        "name": "Hvidhovedet havørn"
+        "name": "Hvidhovedet Havørn"
       },
       {
         "lang": "de",
@@ -745,11 +745,15 @@
       },
       {
         "lang": "nl",
-        "name": "Amerikaanse zeearend"
+        "name": "Amerikaanse Zeearend"
       },
       {
         "lang": "no",
         "name": "Hvithodet havørn"
+      },
+      {
+        "lang": "or",
+        "name": "ଈଗଲ୍"
       },
       {
         "lang": "pl",
@@ -758,6 +762,10 @@
       {
         "lang": "pt",
         "name": "Águia de cabeça branca"
+      },
+      {
+        "lang": "ro",
+        "name": "Haliaeetus leucocephalus"
       },
       {
         "lang": "ru",
@@ -802,10 +810,6 @@
       {
         "lang": "zh",
         "name": "白頭海鵰"
-      },
-      {
-        "lang": "or",
-        "name": "ଈଗଲ୍"
       }
     ]
   },
@@ -894,6 +898,10 @@
   {
     "scientific_name": "Haliaeetus albicilla",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Alica marina"
+      },
       {
         "lang": "ar",
         "name": "عقاب ابيض الذنب"

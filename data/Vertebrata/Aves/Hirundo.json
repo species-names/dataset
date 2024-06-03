@@ -12,7 +12,7 @@
       },
       {
         "lang": "es",
-        "name": "golondrina pacífica"
+        "name": "Golondrina pacífica"
       },
       {
         "lang": "fa",
@@ -47,12 +47,16 @@
         "name": "Zuidzeezwaluw"
       },
       {
+        "lang": "ro",
+        "name": "Rândunică de Pacific"
+      },
+      {
         "lang": "sv",
         "name": "Kustsvala"
       },
       {
         "lang": "to",
-        "name": "pekepeka"
+        "name": "Pekepeka"
       },
       {
         "lang": "zh",
@@ -134,6 +138,10 @@
       {
         "lang": "pnb",
         "name": "تارپونجھا ابابیل"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică cu coadă lungă"
       },
       {
         "lang": "ru",
@@ -513,7 +521,7 @@
       },
       {
         "lang": "ro",
-        "name": "Lăstun"
+        "name": "Rândunică de câmp"
       },
       {
         "lang": "ru",
@@ -680,6 +688,10 @@
         "name": "Benguelazwaluw"
       },
       {
+        "lang": "ro",
+        "name": "Rândunică cu burtă ruginie"
+      },
+      {
         "lang": "sv",
         "name": "Rostbuksvala"
       },
@@ -715,6 +727,10 @@
       {
         "lang": "nl",
         "name": "Zwarte zwaluw"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică albastră cu gât alb"
       },
       {
         "lang": "ru",
@@ -756,6 +772,10 @@
       {
         "lang": "nn",
         "name": "Pionérsvale"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică australiană"
       },
       {
         "lang": "ru",
@@ -811,6 +831,10 @@
         "name": "Witstaartzwaluw"
       },
       {
+        "lang": "ro",
+        "name": "Rândunică cu coadă albă"
+      },
+      {
         "lang": "sv",
         "name": "Vitstjärtssvala"
       },
@@ -850,6 +874,10 @@
       {
         "lang": "nl",
         "name": "Roodkeelzwaluw"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică cu gușă roșie"
       },
       {
         "lang": "sv",
@@ -897,6 +925,10 @@
         "name": "Bontvleugelzwaluw"
       },
       {
+        "lang": "ro",
+        "name": "Rândunică cu aripi pătate"
+      },
+      {
         "lang": "sv",
         "name": "Brokvingesvala"
       }
@@ -908,6 +940,10 @@
       {
         "lang": "cs",
         "name": "Vlaštovka vrchovištní"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică de deal"
       }
     ]
   },
@@ -935,8 +971,16 @@
         "name": "Hirondelle à gorge perlée"
       },
       {
+        "lang": "hu",
+        "name": "Hirundo dimidiata"
+      },
+      {
         "lang": "nl",
         "name": "Parelborstzwaluw"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică cu piept perlat"
       },
       {
         "lang": "sv",
@@ -988,6 +1032,10 @@
         "name": "Blauwe zwaluw"
       },
       {
+        "lang": "ro",
+        "name": "Rândunică albastră"
+      },
+      {
         "lang": "sv",
         "name": "Blåsvala"
       }
@@ -1029,6 +1077,10 @@
         "name": "Angolese zwaluw"
       },
       {
+        "lang": "ro",
+        "name": "Rândunică de Angola"
+      },
+      {
         "lang": "sv",
         "name": "Angolasvala"
       }
@@ -1066,6 +1118,10 @@
         "name": "Witkeelzwaluw"
       },
       {
+        "lang": "ro",
+        "name": "Rândunică cu gât alb"
+      },
+      {
         "lang": "sv",
         "name": "Vitstrupesvala"
       },
@@ -1083,16 +1139,32 @@
     "scientific_name": "Hirundo aethiopica",
     "common_names": [
       {
+        "lang": "ar",
+        "name": "السنونو الاثيوبى"
+      },
+      {
         "lang": "bg",
         "name": "Етиопска лястовица"
       },
       {
         "lang": "ca",
-        "name": "Oreneta etíop"
+        "name": "Oreneta d'Etiòpia"
       },
       {
         "lang": "cs",
         "name": "Vlaštovka středoafrická"
+      },
+      {
+        "lang": "cy",
+        "name": "Gwennol Ethiopia"
+      },
+      {
+        "lang": "da",
+        "name": "Etioper-svale"
+      },
+      {
+        "lang": "de",
+        "name": "Fahlkehlschwalbe"
       },
       {
         "lang": "en",
@@ -1100,27 +1172,111 @@
       },
       {
         "lang": "es",
-        "name": "Golondrina etíope"
+        "name": "Golondrina etiópica"
+      },
+      {
+        "lang": "et",
+        "name": "Sudaani suitsupääsuke"
       },
       {
         "lang": "fa",
         "name": "پرستوی اتیوپی"
       },
       {
+        "lang": "fi",
+        "name": "Etiopianhaarapääsky"
+      },
+      {
         "lang": "fr",
         "name": "Hirondelle d'Éthiopie"
       },
       {
+        "lang": "ga",
+        "name": "Fáinleog Aetópach"
+      },
+      {
+        "lang": "he",
+        "name": "סנונית אתיופית"
+      },
+      {
+        "lang": "hr",
+        "name": "Bjelogrla lastavica"
+      },
+      {
         "lang": "hu",
-        "name": "Etióp fecske"
+        "name": "Nílusi fecske"
+      },
+      {
+        "lang": "is",
+        "name": "Bliksvala"
+      },
+      {
+        "lang": "it",
+        "name": "Rondine etiopica"
+      },
+      {
+        "lang": "ja",
+        "name": "エチオピアノドジロツバメ"
+      },
+      {
+        "lang": "lt",
+        "name": "Etiopinė šelmeninė kregždė"
+      },
+      {
+        "lang": "lv",
+        "name": "Etiopijas bezdelīga"
       },
       {
         "lang": "nl",
-        "name": "Ethiopische zwaluw"
+        "name": "Ethiopische Zwaluw"
+      },
+      {
+        "lang": "no",
+        "name": "Savannesvale"
+      },
+      {
+        "lang": "pl",
+        "name": "Jaskółka rudoczelna"
+      },
+      {
+        "lang": "pt",
+        "name": "Andorinha-da-etiópia"
+      },
+      {
+        "lang": "ro",
+        "name": "Rândunică de savană"
+      },
+      {
+        "lang": "se",
+        "name": "Savánnaspálfu"
+      },
+      {
+        "lang": "sk",
+        "name": "Lastovička červenočelá"
+      },
+      {
+        "lang": "sl",
+        "name": "Etiopska lastovka"
+      },
+      {
+        "lang": "sr",
+        "name": "Етиопска ласта"
       },
       {
         "lang": "sv",
         "name": "Etiopisk svala"
+      },
+      {
+        "lang": "ta",
+        "name": "எத்தியோப்பிய தகைவிலான் குருவி"
+      },
+      {
+        "lang": "uk",
+        "name": "Ластівка ефіопська"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "紅額燕"
       }
     ]
   }

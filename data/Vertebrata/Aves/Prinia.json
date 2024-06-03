@@ -9,6 +9,15 @@
     ]
   },
   {
+    "scientific_name": "Prinia superciliaris",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hill Prinia"
+      }
+    ]
+  },
+  {
     "scientific_name": "Prinia subflava",
     "common_names": [
       {
@@ -106,6 +115,15 @@
     ]
   },
   {
+    "scientific_name": "Prinia striata",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Swinhoe's Prinia"
+      }
+    ]
+  },
+  {
     "scientific_name": "Prinia somalica",
     "common_names": [
       {
@@ -124,6 +142,15 @@
     ]
   },
   {
+    "scientific_name": "Prinia rufifrons",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Red-fronted warbler"
+      }
+    ]
+  },
+  {
     "scientific_name": "Prinia rufescens",
     "common_names": [
       {
@@ -133,8 +160,22 @@
     ]
   },
   {
+    "scientific_name": "Prinia rocki",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Annam prinia"
+      }
+    ]
+  },
+  {
     "scientific_name": "Prinia polychroa",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Deignan's Prinia"
+      }
+    ]
   },
   {
     "scientific_name": "Prinia molleri",
@@ -168,45 +209,20 @@
   },
   {
     "scientific_name": "Prinia leucopogon",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Prinia lepida",
     "common_names": [
       {
         "lang": "en",
-        "name": "White-chinned Prinia"
+        "name": "Delicate prinia"
       }
     ]
   },
   {
     "scientific_name": "Prinia leontica",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "White-eyed Prinia"
-      },
-      {
-        "lang": "cy",
-        "name": "Prinia Sierra Leone"
-      },
-      {
-        "lang": "eo",
-        "name": "Sieraleona skistolao"
-      },
-      {
-        "lang": "fa",
-        "name": "سسکک سیرالئون"
-      },
-      {
-        "lang": "fi",
-        "name": "Guineanpriinia"
-      },
-      {
-        "lang": "nl",
-        "name": "Witoogprinia"
-      },
-      {
-        "lang": "sv",
-        "name": "sierraleonesångare"
-      }
-    ]
+    "common_names": []
   },
   {
     "scientific_name": "Prinia inornata",
@@ -304,19 +320,46 @@
     ]
   },
   {
+    "scientific_name": "Prinia erythroptera",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Savannipriinia"
+      }
+    ]
+  },
+  {
     "scientific_name": "Prinia crinigera",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Himalayian prinia"
+      },
+      {
+        "lang": "ne",
+        "name": "सुया घाँसेफिस्टो"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Prinia cooki",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Burmese Prinia"
+      }
+    ]
   },
   {
     "scientific_name": "Prinia cinereocapilla",
     "common_names": [
       {
-        "lang": "fi",
-        "name": "Sinilakkipriinia"
-      },
-      {
         "lang": "cy",
         "name": "Prinia penllwyd"
+      },
+      {
+        "lang": "de",
+        "name": "Graukopfprinie"
       },
       {
         "lang": "en",
@@ -325,6 +368,10 @@
       {
         "lang": "fa",
         "name": "سسکک کاکل‌خاکستری"
+      },
+      {
+        "lang": "fi",
+        "name": "Sinilakkipriinia"
       },
       {
         "lang": "ne",
@@ -369,6 +416,10 @@
   {
     "scientific_name": "Prinia atrogularis",
     "common_names": [
+      {
+        "lang": "en",
+        "name": "Black-throated prinia"
+      },
       {
         "lang": "fi",
         "name": "Mustakurkkupriinia"

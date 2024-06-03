@@ -3,6 +3,10 @@
     "scientific_name": "Dendrocygna viduata",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Sirirí cariblanco"
+      },
+      {
         "lang": "cs",
         "name": "Husička vdovka"
       },
@@ -40,6 +44,10 @@
     "scientific_name": "Dendrocygna javanica",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "পাতি সরালি"
+      },
+      {
         "lang": "cs",
         "name": "Husička malá"
       },
@@ -56,6 +64,14 @@
         "name": "Dendrocygne siffleur"
       },
       {
+        "lang": "ja",
+        "name": "リュウキュウガモ"
+      },
+      {
+        "lang": "ne",
+        "name": "सिलसिले हाँस"
+      },
+      {
         "lang": "sv",
         "name": "Orientvisseland"
       },
@@ -66,6 +82,10 @@
       {
         "lang": "zh",
         "name": "[栗]树鸭"
+      },
+      {
+        "lang": "ta",
+        "name": "சிறிய சீழ்க்கைச் சிறகி"
       }
     ]
   },
@@ -77,8 +97,20 @@
         "name": "Xallı fitçalan ördək"
       },
       {
+        "lang": "ca",
+        "name": "Ànec arbori clapejat"
+      },
+      {
         "lang": "cs",
         "name": "Husička tečkovaná"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden chwibanog fannog"
+      },
+      {
+        "lang": "da",
+        "name": "Plettet Træand"
       },
       {
         "lang": "de",
@@ -97,6 +129,10 @@
         "name": "Suirirí moteado"
       },
       {
+        "lang": "et",
+        "name": "Täpik-vilepart"
+      },
+      {
         "lang": "fa",
         "name": "اردک سوت‌زن خال‌دار"
       },
@@ -109,28 +145,60 @@
         "name": "Dendrocygne tacheté"
       },
       {
+        "lang": "hr",
+        "name": "Bjelopjegava utva"
+      },
+      {
         "lang": "hu",
         "name": "Gyöngyös fütyülőlúd"
+      },
+      {
+        "lang": "id",
+        "name": "Belibis totol"
+      },
+      {
+        "lang": "it",
+        "name": "Dendrocigna macchiata"
       },
       {
         "lang": "ja",
         "name": "シラボシリュウキュウガモ"
       },
       {
+        "lang": "lt",
+        "name": "Dėmėtoji medžąsė"
+      },
+      {
         "lang": "nl",
-        "name": "Gevlekte fluiteend"
+        "name": "Gevlekte Fluiteend"
+      },
+      {
+        "lang": "no",
+        "name": "Perleplystreand"
       },
       {
         "lang": "pl",
         "name": "Drzewica plamista"
       },
       {
+        "lang": "pt",
+        "name": "Marreca-pintada"
+      },
+      {
         "lang": "ru",
-        "name": "Пятнистая свистящая утка"
+        "name": "Пятнистая древесная утка"
+      },
+      {
+        "lang": "sk",
+        "name": "Stromárka bodkavá"
       },
       {
         "lang": "sv",
         "name": "Fläckig visseland"
+      },
+      {
+        "lang": "uk",
+        "name": "Свистач плямистобокий"
       },
       {
         "lang": "vi",
@@ -142,12 +210,36 @@
     "scientific_name": "Dendrocygna eytoni",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Ànec arbori d'Eyton"
+      },
+      {
         "lang": "cs",
         "name": "Husička australská"
       },
       {
+        "lang": "cy",
+        "name": "Hwyaden chwibanog hirblu"
+      },
+      {
+        "lang": "da",
+        "name": "Australsk Træand"
+      },
+      {
+        "lang": "de",
+        "name": "Gelbfuß-Pfeifgans"
+      },
+      {
         "lang": "en",
         "name": "Plumed Whistling Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Suirirí australiano"
+      },
+      {
+        "lang": "et",
+        "name": "Rohtla-vilepart"
       },
       {
         "lang": "fi",
@@ -158,12 +250,60 @@
         "name": "Dendrocygne d’Eyton"
       },
       {
+        "lang": "hr",
+        "name": "Australska utva"
+      },
+      {
         "lang": "hu",
         "name": "Sarlós fütyülőlúd"
       },
       {
+        "lang": "id",
+        "name": "Belibis rumbai"
+      },
+      {
+        "lang": "it",
+        "name": "Dendrocigna falcata"
+      },
+      {
+        "lang": "ja",
+        "name": "カザリリュウキュウガモ"
+      },
+      {
+        "lang": "lt",
+        "name": "Eitono medžąsė"
+      },
+      {
+        "lang": "nl",
+        "name": "Australische Fluiteend"
+      },
+      {
+        "lang": "no",
+        "name": "Prydplystreand"
+      },
+      {
+        "lang": "pl",
+        "name": "Drzewica australijska"
+      },
+      {
+        "lang": "pt",
+        "name": "Marreca-emplumada"
+      },
+      {
+        "lang": "ru",
+        "name": "Розовоногая древесная утка"
+      },
+      {
+        "lang": "sk",
+        "name": "Stromárka kosierkavá"
+      },
+      {
         "lang": "sv",
         "name": "Plymvisseland"
+      },
+      {
+        "lang": "uk",
+        "name": "Свистач австралійський"
       }
     ]
   },
@@ -175,28 +315,160 @@
         "name": "Fluiteend"
       },
       {
+        "lang": "an",
+        "name": "Sirirí caniella"
+      },
+      {
+        "lang": "ar",
+        "name": "بط صفار أصهب"
+      },
+      {
+        "lang": "arz",
+        "name": "بط صفار اصهب"
+      },
+      {
+        "lang": "as",
+        "name": "বৰশৰালি"
+      },
+      {
+        "lang": "az",
+        "name": "Kürən ağac ördəyi"
+      },
+      {
+        "lang": "bg",
+        "name": "Ръждива свиреща патица"
+      },
+      {
+        "lang": "bn",
+        "name": "বড় সরালী"
+      },
+      {
+        "lang": "ca",
+        "name": "Ànec arbori bicolor"
+      },
+      {
+        "lang": "cs",
+        "name": "Husička dvoubarvá"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden chwibanog winau"
+      },
+      {
+        "lang": "da",
+        "name": "Okkertræand"
+      },
+      {
         "lang": "de",
-        "name": "Gelbe Pfeifgans"
+        "name": "Gelbbrust-Pfeifgans"
       },
       {
         "lang": "en",
-        "name": "Fulvous Whistling-Duck"
+        "name": "Fulvous Whistling Duck"
       },
       {
         "lang": "eo",
         "name": "Rufa dendrocigno"
       },
       {
+        "lang": "es",
+        "name": "Suirirí bicolor"
+      },
+      {
+        "lang": "et",
+        "name": "Ruuge-vilepart"
+      },
+      {
+        "lang": "fa",
+        "name": "اردک سوت‌زن گندم‌گون"
+      },
+      {
+        "lang": "fi",
+        "name": "Ruskoviheltäjäsorsa"
+      },
+      {
         "lang": "fr",
         "name": "Dendrocygne fauve"
+      },
+      {
+        "lang": "ga",
+        "name": "Feadlacha bhuídhonn"
+      },
+      {
+        "lang": "ha",
+        "name": "Wushi-wushi"
+      },
+      {
+        "lang": "he",
+        "name": "ברווז שורק פולווס"
+      },
+      {
+        "lang": "hi",
+        "name": "भूरी सिल्ही"
+      },
+      {
+        "lang": "hr",
+        "name": "Smeđa utva"
       },
       {
         "lang": "hu",
         "name": "Sujtásos fütyülőlúd"
       },
       {
+        "lang": "is",
+        "name": "Barkarblístra"
+      },
+      {
+        "lang": "it",
+        "name": "Dendrocigna fulva"
+      },
+      {
+        "lang": "ja",
+        "name": "アカリュウキュウガモ"
+      },
+      {
+        "lang": "lt",
+        "name": "Dvispalvė medžąsė"
+      },
+      {
+        "lang": "lv",
+        "name": "Rūsganā svilpējzoss"
+      },
+      {
+        "lang": "ml",
+        "name": "വലിയ ചൂളൻ എരണ്ട"
+      },
+      {
+        "lang": "mr",
+        "name": "मोठी अडई"
+      },
+      {
+        "lang": "my",
+        "name": "စစ်စလီကြီး"
+      },
+      {
+        "lang": "ne",
+        "name": "ठूलो सिलसिले"
+      },
+      {
+        "lang": "nl",
+        "name": "Rosse Fluiteend"
+      },
+      {
+        "lang": "no",
+        "name": "Brunplystreand"
+      },
+      {
+        "lang": "nv",
+        "name": "Naalʼeełí áníní dibéłchíʼígíí"
+      },
+      {
         "lang": "pl",
         "name": "Drzewica dwubarwna"
+      },
+      {
+        "lang": "pnb",
+        "name": "فلوس سیٹی مار بطخ"
       },
       {
         "lang": "pt",
@@ -204,25 +476,57 @@
       },
       {
         "lang": "ru",
-        "name": "Рыжая свистящая утка"
+        "name": "Рыжая древесная утка"
+      },
+      {
+        "lang": "se",
+        "name": "Ruškesnjurgoduoršu"
+      },
+      {
+        "lang": "sk",
+        "name": "Stromárka hrdzavá"
+      },
+      {
+        "lang": "sl",
+        "name": "Rumeni žvižgač"
       },
       {
         "lang": "sv",
         "name": "Brun visseland"
       },
       {
-        "lang": "zh",
-        "name": "草黃樹鴨"
-      },
-      {
         "lang": "ta",
         "name": "சீழ்க்கைச்சிரவி"
+      },
+      {
+        "lang": "tr",
+        "name": "Kahverengi ıslıkçı ördek"
+      },
+      {
+        "lang": "uk",
+        "name": "Свистач рудий"
+      },
+      {
+        "lang": "vi",
+        "name": "Le nâu hung"
+      },
+      {
+        "lang": "zh",
+        "name": "草黃樹鴨"
       }
     ]
   },
   {
     "scientific_name": "Dendrocygna autumnalis",
     "common_names": [
+      {
+        "lang": "an",
+        "name": "Sirirí de bieco royo"
+      },
+      {
+        "lang": "arz",
+        "name": "بطه صفير اسود بطن"
+      },
       {
         "lang": "az",
         "name": "Qara yekəqarın fitçalan ördək"
@@ -237,7 +541,11 @@
       },
       {
         "lang": "cs",
-        "name": "husička podzimní"
+        "name": "Husička podzimní"
+      },
+      {
+        "lang": "cy",
+        "name": "Hwyaden chwibanog dorddu"
       },
       {
         "lang": "da",
@@ -245,7 +553,7 @@
       },
       {
         "lang": "de",
-        "name": "Herbstpfeifgans"
+        "name": "Rotschnabel-Pfeifgans"
       },
       {
         "lang": "en",
@@ -261,7 +569,7 @@
       },
       {
         "lang": "et",
-        "name": "punanokk-vilepart"
+        "name": "Punanokk-vilepart"
       },
       {
         "lang": "fa",
@@ -269,7 +577,7 @@
       },
       {
         "lang": "fi",
-        "name": "punaviheltäjäsorsa"
+        "name": "Punaviheltäjäsorsa"
       },
       {
         "lang": "fr",
@@ -284,27 +592,48 @@
         "name": "Ype suiriri pepotî"
       },
       {
+        "lang": "he",
+        "name": "ברווז שורק שחור-בטן"
+      },
+      {
+        "lang": "hi",
+        "name": "काला-उदर सिल्ही"
+      },
+      {
+        "lang": "hr",
+        "name": "Crnotrba utva"
+      },
+      {
         "lang": "ht",
         "name": "Jenjon vant nwa"
       },
       {
         "lang": "hu",
-        "name": "piroscsőrű fütyülőlúd"
+        "name": "Piroscsőrű fütyülőlúd"
       },
       {
         "lang": "it",
-        "name": "Dendrocigna beccorosso"
+        "name": "Dendrocigna pancianera"
       },
       {
         "lang": "ja",
-        "name": "アカハシリュウキュウガモ",
-        "synonyms": [
-          "akahashiryuukyuugamo"
-        ]
+        "name": "アカハシリュウキュウガモ"
+      },
+      {
+        "lang": "lt",
+        "name": "Raudonsnapė medžąsė"
+      },
+      {
+        "lang": "lv",
+        "name": "Sarkanknābja svilpējzoss"
       },
       {
         "lang": "ml",
         "name": "എരണ്ട"
+      },
+      {
+        "lang": "nah",
+        "name": "Picicihtli"
       },
       {
         "lang": "nl",
@@ -315,27 +644,28 @@
         "name": "Rødnebbplystreand"
       },
       {
-        "lang": "pl",
-        "name": "drzewica czarnobrzucha"
+        "lang": "nv",
+        "name": "Naalʼeełí áníní bibid halzhinígíí"
       },
       {
-        "lang": "pt-br",
-        "name": "Asa-branca"
+        "lang": "pl",
+        "name": "Drzewica czarnobrzucha"
       },
       {
         "lang": "pt",
         "name": "Marreca-cabocla"
       },
       {
+        "lang": "pt-br",
+        "name": "Asa-branca"
+      },
+      {
         "lang": "ru",
-        "name": "Чернобрюхая свистящая утка",
-        "synonyms": [
-          "Чернобрюхая (осенняя) древесная утка"
-        ]
+        "name": "Осенняя древесная утка"
       },
       {
         "lang": "sk",
-        "name": "stromárka sivokrká"
+        "name": "Stromárka sivokrká"
       },
       {
         "lang": "sv",
@@ -344,6 +674,10 @@
       {
         "lang": "tr",
         "name": "Kara karınlı ıslıkçı ördek"
+      },
+      {
+        "lang": "uk",
+        "name": "Свистач червонодзьобий"
       },
       {
         "lang": "vi",
@@ -359,12 +693,32 @@
     "scientific_name": "Dendrocygna arcuata",
     "common_names": [
       {
+        "lang": "ca",
+        "name": "Ànec arbori de casquet"
+      },
+      {
         "lang": "cs",
         "name": "Husička stěhovavá"
       },
       {
+        "lang": "da",
+        "name": "Rustfarvet Træand"
+      },
+      {
+        "lang": "de",
+        "name": "Wanderpfeifgans"
+      },
+      {
         "lang": "en",
         "name": "Wandering Whistling Duck"
+      },
+      {
+        "lang": "es",
+        "name": "Suirirí capirotado"
+      },
+      {
+        "lang": "et",
+        "name": "Roostekõht-vilepart"
       },
       {
         "lang": "fi",
@@ -375,8 +729,68 @@
         "name": "Dendrocygne à lunules"
       },
       {
+        "lang": "hu",
+        "name": "Vándorfütyülőlúd"
+      },
+      {
+        "lang": "id",
+        "name": "Belibis kembang"
+      },
+      {
+        "lang": "it",
+        "name": "Dendrocigna errante"
+      },
+      {
+        "lang": "ja",
+        "name": "オオリュウキュウガモ"
+      },
+      {
+        "lang": "ms",
+        "name": "Burung Belibis Kembang"
+      },
+      {
+        "lang": "my",
+        "name": "စစ်စလီခေါင်းမဲ"
+      },
+      {
+        "lang": "nl",
+        "name": "Zwervende Fluiteend"
+      },
+      {
+        "lang": "no",
+        "name": "Hetteplystreand"
+      },
+      {
+        "lang": "pl",
+        "name": "Drzewica wędrowna"
+      },
+      {
+        "lang": "pt",
+        "name": "Marreca-errante"
+      },
+      {
+        "lang": "ru",
+        "name": "Странствующая древесная утка"
+      },
+      {
+        "lang": "sk",
+        "name": "Stromárka sťahovavá"
+      },
+      {
         "lang": "sv",
         "name": "Vandringsvisseland"
+      },
+      {
+        "lang": "uk",
+        "name": "Свистач філіппінський"
+      },
+      {
+        "lang": "vi",
+        "name": "Le nâu ngực sọc"
+      },
+      {
+        "lang": "zh",
+        "name": "斑胸树鸭"
       }
     ]
   },
@@ -396,20 +810,32 @@
         "name": "Husička stromová"
       },
       {
+        "lang": "cy",
+        "name": "Hwyaden chwibanog y palmwydd"
+      },
+      {
+        "lang": "da",
+        "name": "Cubatræand"
+      },
+      {
         "lang": "de",
         "name": "Kubapfeifgans"
       },
       {
         "lang": "en",
-        "name": "Black-billed Whistling Duck"
-      },
-      {
-        "lang": "es",
-        "name": "Yaguasa de pico negro"
+        "name": "West Indian Whistling Duck"
       },
       {
         "lang": "eo",
         "name": "Kariba dendrocigno"
+      },
+      {
+        "lang": "es",
+        "name": "Suirirí yaguaza"
+      },
+      {
+        "lang": "et",
+        "name": "Palmi-vilepart"
       },
       {
         "lang": "fa",
@@ -421,44 +847,63 @@
       },
       {
         "lang": "fr",
-        "name": "Dendrocygne des Antilles",
-        "synonyms": [
-          "Dendrocygne à bec noir"
-        ]
+        "name": "Dendrocygne des Antilles"
+      },
+      {
+        "lang": "hr",
+        "name": "Antilska utva"
+      },
+      {
+        "lang": "hu",
+        "name": "Pálmafütyülőlúd"
       },
       {
         "lang": "it",
         "name": "Dendrocigna delle Indie Occidentali"
       },
       {
-        "lang": "hu",
-        "name": "Pálmafütyülőlúd",
-        "synonyms": [
-          "karibi fütyülőlúd"
-        ]
+        "lang": "ja",
+        "name": "ハシグロリュウキュウガモ"
+      },
+      {
+        "lang": "lt",
+        "name": "Kubinė medžąsė"
+      },
+      {
+        "lang": "lv",
+        "name": "Kubas svilpējzoss"
       },
       {
         "lang": "nl",
-        "name": "West-Indische fluiteend"
+        "name": "West-Indische Fluiteend"
       },
       {
-        "lang": "ja",
-        "name": "ハシグロリュウキュウガモ"
+        "lang": "no",
+        "name": "Palmeplystreand"
       },
       {
         "lang": "pl",
         "name": "Drzewica karaibska"
       },
       {
+        "lang": "pt",
+        "name": "Marreca-laguaça"
+      },
+      {
         "lang": "ru",
-        "name": "Кубинская свистящая утка"
+        "name": "Черноклювая древесная утка"
+      },
+      {
+        "lang": "sk",
+        "name": "Stromárka veľká"
       },
       {
         "lang": "sv",
-        "name": "Karibvisseland",
-        "synonyms": [
-          "Karibisk visseland"
-        ]
+        "name": "Karibvisseland"
+      },
+      {
+        "lang": "uk",
+        "name": "Свистач кубинський"
       },
       {
         "lang": "vi",

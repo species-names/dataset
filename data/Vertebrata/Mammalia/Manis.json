@@ -31,6 +31,10 @@
         "name": "Pangoliin"
       },
       {
+        "lang": "eu",
+        "name": "Manis pentadactyla"
+      },
+      {
         "lang": "fr",
         "name": "Pangolin à courte queue"
       },
@@ -69,6 +73,10 @@
       {
         "lang": "th",
         "name": "ลิ่นจีน"
+      },
+      {
+        "lang": "uk",
+        "name": "Manis pentadactyla"
       },
       {
         "lang": "vi",
@@ -139,11 +147,16 @@
     "scientific_name": "Manis culionensis",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Palawan-Schuppentier"
+      },
+      {
         "lang": "en",
-        "name": "Philippine pangolin",
-        "synonyms": [
-          "Palawan pangolin"
-        ]
+        "name": "Palawan Pangolin"
+      },
+      {
+        "lang": "fr",
+        "name": "Pangolin de Palawan"
       },
       {
         "lang": "hu",

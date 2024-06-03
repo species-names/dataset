@@ -23,7 +23,16 @@
   },
   {
     "scientific_name": "Mirafra sabota",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "af",
+        "name": "Sabotalewerik"
+      },
+      {
+        "lang": "en",
+        "name": "Sabota lark"
+      }
+    ]
   },
   {
     "scientific_name": "Mirafra rufocinnamomea",
@@ -217,6 +226,10 @@
         "name": "Strandlerke"
       },
       {
+        "lang": "pt",
+        "name": "Mirafra ashi"
+      },
+      {
         "lang": "sv",
         "name": "ashlärka"
       },
@@ -232,7 +245,16 @@
   },
   {
     "scientific_name": "Mirafra apiata",
-    "common_names": []
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Cape Clapper Lark"
+      },
+      {
+        "lang": "af",
+        "name": "Kaapse klappertjie"
+      }
+    ]
   },
   {
     "scientific_name": "Mirafra angolensis",

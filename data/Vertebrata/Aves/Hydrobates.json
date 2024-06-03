@@ -28,10 +28,6 @@
     "common_names": []
   },
   {
-    "scientific_name": "Hydrobates markhami",
-    "common_names": []
-  },
-  {
     "scientific_name": "Hydrobates macrodactylus",
     "common_names": []
   },
@@ -73,6 +69,10 @@
           "Stormswael",
           "Swartpootstormswael"
         ]
+      },
+      {
+        "lang": "an",
+        "name": "Gurrión marino"
       },
       {
         "lang": "ar",
@@ -375,6 +375,19 @@
       {
         "lang": "zh",
         "name": "煙黑叉尾海燕"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Hydrobates markhami",
+    "common_names": [
+      {
+        "lang": "fi",
+        "name": "Nokikeiju"
+      },
+      {
+        "lang": "fr",
+        "name": "Océanite de Markham"
       }
     ]
   }

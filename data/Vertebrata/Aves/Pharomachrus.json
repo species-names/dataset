@@ -16,6 +16,10 @@
     "scientific_name": "Pharomachrus mocinno",
     "common_names": [
       {
+        "lang": "an",
+        "name": "Quetzal"
+      },
+      {
         "lang": "be",
         "name": "Квезаль"
       },
@@ -25,7 +29,7 @@
       },
       {
         "lang": "cs",
-        "name": "kvesal chocholatý"
+        "name": "Kvesal chocholatý"
       },
       {
         "lang": "da",
@@ -49,14 +53,11 @@
       },
       {
         "lang": "et",
-        "name": "ketsal",
-        "synonyms": [
-          "hundketsal"
-        ]
+        "name": "Ketsal"
       },
       {
         "lang": "fi",
-        "name": "mayaketsaali"
+        "name": "Mayaketsaali"
       },
       {
         "lang": "fr",
@@ -72,10 +73,7 @@
       },
       {
         "lang": "hu",
-        "name": "kvézál",
-        "synonyms": [
-          "Quetzal"
-        ]
+        "name": "Kvézál"
       },
       {
         "lang": "it",
@@ -102,10 +100,7 @@
       },
       {
         "lang": "no",
-        "name": "Praktketsal",
-        "synonyms": [
-          "Quetzal"
-        ]
+        "name": "Praktketsal"
       },
       {
         "lang": "nv",
@@ -113,7 +108,7 @@
       },
       {
         "lang": "pl",
-        "name": "kwezal herbowy"
+        "name": "Kwezal herbowy"
       },
       {
         "lang": "pt",
@@ -121,10 +116,7 @@
       },
       {
         "lang": "ru",
-        "name": "Гватемальский Квезал",
-        "synonyms": [
-          "Квезаль"
-        ]
+        "name": "Гватемальский Квезал"
       },
       {
         "lang": "sk",
@@ -154,6 +146,10 @@
       {
         "lang": "en",
         "name": "White-tipped Quetzal"
+      },
+      {
+        "lang": "es",
+        "name": "Quetzal fúlgido"
       },
       {
         "lang": "fi",

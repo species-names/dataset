@@ -202,6 +202,14 @@
       {
         "lang": "fi",
         "name": "Orinocontikkanen"
+      },
+      {
+        "lang": "es",
+        "name": "Carpinterito del Orinoco"
+      },
+      {
+        "lang": "pt",
+        "name": "picapauzinho-do-orinoco"
       }
     ]
   },
@@ -343,6 +351,10 @@
     "scientific_name": "Picumnus innominatus",
     "common_names": [
       {
+        "lang": "bn",
+        "name": "তিলা কুটিকুড়ালি"
+      },
+      {
         "lang": "en",
         "name": "Speckled Piculet"
       },
@@ -415,43 +427,6 @@
     ]
   },
   {
-    "scientific_name": "Picumnus fulvescens",
-    "common_names": [
-      {
-        "lang": "en",
-        "name": "Tawny Piculet"
-      },
-      {
-        "lang": "fi",
-        "name": "Ruskotikkanen"
-      },
-      {
-        "lang": "cy",
-        "name": "Cnocellan felynddu"
-      },
-      {
-        "lang": "fa",
-        "name": "دارشکنک خاکی"
-      },
-      {
-        "lang": "fr",
-        "name": "Picumne fauve"
-      },
-      {
-        "lang": "nl",
-        "name": "Vale dwergspecht"
-      },
-      {
-        "lang": "pnb",
-        "name": "پکمنس فلوسنس"
-      },
-      {
-        "lang": "sv",
-        "name": "alagoasdvärgspett"
-      }
-    ]
-  },
-  {
     "scientific_name": "Picumnus exilis",
     "common_names": [
       {
@@ -473,19 +448,71 @@
     ]
   },
   {
-    "scientific_name": "Picumnus dorbygnianus",
+    "scientific_name": "Picumnus dorbignyanus",
     "common_names": [
+      {
+        "lang": "ca",
+        "name": "Picotet de d'Orbigny"
+      },
+      {
+        "lang": "cs",
+        "name": "Datlíček bolivijský"
+      },
+      {
+        "lang": "da",
+        "name": "Olivengrå Dværgspætte"
+      },
+      {
+        "lang": "de",
+        "name": "Andenzwergspecht"
+      },
       {
         "lang": "en",
         "name": "Ocellated Piculet"
+      },
+      {
+        "lang": "es",
+        "name": "Carpinterito boliviano"
+      },
+      {
+        "lang": "et",
+        "name": "Silmikrähnak"
+      },
+      {
+        "lang": "fi",
+        "name": "Täpläliaanitikkanen"
       },
       {
         "lang": "fr",
         "name": "Picumne d'Orbigny"
       },
       {
-        "lang": "fi",
-        "name": "Täpläliaanitikkanen"
+        "lang": "it",
+        "name": "Picchiolo ocellato"
+      },
+      {
+        "lang": "ja",
+        "name": "ガンモンヒメキツツキ"
+      },
+      {
+        "lang": "nl",
+        "name": "D'Orbigny's Dwergspecht"
+      },
+      {
+        "lang": "no",
+        "name": "Pilspisspikulett"
+      },
+      {
+        "lang": "ru",
+        "name": "Глазчатый дятелок"
+      },
+      {
+        "lang": "sv",
+        "name": "Pilspetsdvärgspett"
+      },
+      {
+        "lang": "uk",
+        "name": "Добаш плямистобокий"
       }
     ]
   },
