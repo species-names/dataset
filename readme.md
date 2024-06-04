@@ -1,7 +1,7 @@
 # Species names dataset ![tests](https://github.com/species-names/dataset/actions/workflows/tests.yaml/badge.svg)
 
 
-v0.0.11
+v0.0.12
 
 A json format dataset for scientific and common species names.
 
@@ -28,8 +28,8 @@ Pls add some sort of reference.
 
 ## Tests
 
-    yarn install
-    yarn test
+    npm install
+    npm run test
 
 ## Publish
 The dataset is published on npm:  
