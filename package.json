@@ -1,6 +1,6 @@
 {
   "name": "species-names-dataset",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Species names dataset",
   "scripts": {
     "test": "mocha -R spec ./tests/*"
@@ -15,13 +15,16 @@
     "species names",
     "zoology",
     "dataset"
-  ],
+  ],  
+  "engines": {
+    "node": ">=22"
+  },
   "homepage": "https://github.com/species-names/dataset",
   "devDependencies": {
     "chai": "^4.3.6",
     "chai-json-schema": "^1.4.0",
     "json-schema-remote": "^1.6.2",
-    "mocha": "^10.1.0",
+    "mocha": "^10.4.0",
     "walk": "^2.3.15"
   },
   "dependencies": {}
