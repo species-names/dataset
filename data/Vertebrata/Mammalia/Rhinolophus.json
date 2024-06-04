@@ -8,7 +8,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Ziama Leaf-nosed Bat."
+        "name": "Ziama Leaf-nosed Bat"
       }
     ]
   },
@@ -18,6 +18,15 @@
       {
         "lang": "en",
         "name": "Dobson's Leaf-nosed Bat"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Rhinolophus xinanzhongguoensis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Wedge-sellaed Horseshoe Bat"
       }
     ]
   },
@@ -42,6 +51,10 @@
         "name": "Trefoil Rufous Leaf-nosed Bat"
       },
       {
+        "lang": "hu",
+        "name": "Lebenyes patkósdenevér"
+      },
+      {
         "lang": "ms",
         "name": "Kelawar Ladam Muka Kuning"
       }
@@ -59,6 +72,15 @@
   {
     "scientific_name": "Rhinolophus thailandensis",
     "common_names": []
+  },
+  {
+    "scientific_name": "Rhinolophus tatar",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Broad-eared Horseshoe Bat"
+      }
+    ]
   },
   {
     "scientific_name": "Rhinolophus swinnyi",
@@ -199,7 +221,11 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Large Rufous Horseshoe Bat."
+        "name": "Large Rufous Horseshoe Bat"
+      },
+      {
+        "lang": "ja",
+        "name": "アカキクガシラコウモリ"
       }
     ]
   },
@@ -208,7 +234,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Rufous  Horseshoe Bat."
+        "name": "Indian Rufous Horseshoe Bat"
       }
     ]
   },
@@ -217,7 +243,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Peninsular  Horseshoe Bat."
+        "name": "Peninsular Horseshoe Bat."
       },
       {
         "lang": "ms",
@@ -230,7 +256,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "King  Horseshoe Bat."
+        "name": "King Horseshoe Bat."
       }
     ]
   },
@@ -239,7 +265,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Least  Horseshoe Bat."
+        "name": "Least Horseshoe Bat."
       },
       {
         "lang": "ms",
@@ -252,7 +278,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Large-eared  Horseshoe Bat."
+        "name": "Large-eared Horseshoe Bat."
       }
     ]
   },
@@ -261,7 +287,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Pearson's  Horseshoe Bat"
+        "name": "Pearson's Horseshoe Bat"
       }
     ]
   },
@@ -385,7 +411,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Maendeleo Horseshoe Bat."
+        "name": "Maendeleo Horseshoe Bat"
       }
     ]
   },
@@ -487,7 +513,11 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Imaizumi's Horseshoe Bat."
+        "name": "Imaizumi's Horseshoe Bat"
+      },
+      {
+        "lang": "ja",
+        "name": "イリオモテキクガシラコウモリ"
       }
     ]
   },
@@ -495,12 +525,20 @@
     "scientific_name": "Rhinolophus hipposideros",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Kleine Hufeisennase"
+      },
+      {
         "lang": "en",
-        "name": "Lesser Horseshoe Bat."
+        "name": "Lesser Horseshoe Bat"
       },
       {
         "lang": "es",
-        "name": "Murciélago pequeño de herradura."
+        "name": "Murciélago pequeño de herradura"
+      },
+      {
+        "lang": "gl",
+        "name": "Morcego pequeno de ferradura"
       }
     ]
   },
@@ -517,8 +555,12 @@
     "scientific_name": "Rhinolophus hilli",
     "common_names": [
       {
+        "lang": "de",
+        "name": "Hill-Hufeisennase"
+      },
+      {
         "lang": "en",
-        "name": "Hill's Horseshoe Bat."
+        "name": "Hill's Horseshoe Bat"
       }
     ]
   },
@@ -586,6 +628,10 @@
         "name": "Grande rhinolophe"
       },
       {
+        "lang": "gl",
+        "name": "Morcego grande de ferradura"
+      },
+      {
         "lang": "hu",
         "name": "Nagy patkósdenevér"
       },
@@ -619,7 +665,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Broad-eared Horseshoe Bat."
+        "name": "New Guinea Broad-eared Horseshoe Bat"
       }
     ]
   },
@@ -628,11 +674,15 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Mediterranean Horseshoe Bat."
+        "name": "Mediterranean Horseshoe Bat"
       },
       {
         "lang": "es",
-        "name": "Murciélago mediterráneo de herradura."
+        "name": "Murciélago mediterráneo de herradura"
+      },
+      {
+        "lang": "gl",
+        "name": "Morcego mediterráneo de ferradura"
       },
       {
         "lang": "hu",
@@ -641,6 +691,10 @@
       {
         "lang": "hy",
         "name": "Պայտաքիթ հարավային"
+      },
+      {
+        "lang": "pt",
+        "name": "morcego-de-ferradura-mediterrânico"
       }
     ]
   },
@@ -685,7 +739,7 @@
     "common_names": [
       {
         "lang": "en",
-        "name": "Creagh's Horseshoe Bat."
+        "name": "Creagh's Horseshoe Bat"
       }
     ]
   },
@@ -802,6 +856,10 @@
       {
         "lang": "en",
         "name": "Blasius's Horseshoe Bat"
+      },
+      {
+        "lang": "hu",
+        "name": "Blasius-patkósdenevér"
       }
     ]
   },
