@@ -1,0 +1,40 @@
+[
+  {
+    "scientific_name": "Oxyuranus temporalis",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Central range taipan"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oxyuranus scutellatus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Coastal taipan",
+        "synonyms": [
+          "Common taipan",
+          "Papuan taipan"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Oxyuranus microlepidotus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Inland Taipan"
+      },
+      {
+        "lang": "zh",
+        "name": "內陸太攀蛇",
+        "synonyms": [
+          "兇猛太攀蛇"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "scientific_name": "Dendroaspis viridis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Grüne Mamba"
+      },
+      {
+        "lang": "en",
+        "name": "Western green mamba",
+        "synonyms": [
+          "West African green mamba"
+        ]
+      },
+      {
+        "lang": "hu",
+        "name": "Zöld mamba",
+        "synonyms": [
+          "nyugati zöld mamba"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Lännenvihermamba"
+      },
+      {
+        "lang": "th",
+        "name": "งูแมมบาเขียว"
+      },
+      {
+        "lang": "pt",
+        "name": "Mamba-verde-ocidental"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dendroaspis polylepis",
+    "common_names": [
+      {
+        "lang": "be",
+        "name": "Чорная мамба"
+      },
+      {
+        "lang": "de",
+        "name": "Schwarze Mamba"
+      },
+      {
+        "lang": "en",
+        "name": "Black mamba"
+      },
+      {
+        "lang": "hu",
+        "name": "Fekete mamba"
+      },
+      {
+        "lang": "id",
+        "name": "Mamba hitam"
+      },
+      {
+        "lang": "ja",
+        "name": "ブラックマンバ"
+      },
+      {
+        "lang": "fi",
+        "name": "Mustamamba"
+      },
+      {
+        "lang": "tr",
+        "name": "Kara mamba"
+      },
+      {
+        "lang": "th",
+        "name": "งูแบล็คแมมบา"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dendroaspis jamesoni",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Jamesons Mamba"
+      },
+      {
+        "lang": "en",
+        "name": "Jameson's Mamba"
+      },
+      {
+        "lang": "fi",
+        "name": "Jamesoninmamba"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Dendroaspis angusticeps",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Eastern green mamba"
+      },
+      {
+        "lang": "th",
+        "name": "งูแมมบาเขียว"
+      }
+    ]
+  }
+]

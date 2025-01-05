@@ -1,0 +1,633 @@
+[
+  {
+    "scientific_name": "Crocodylus falconensis",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocodylus checchiai",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocodylus thorbjarnarsoni",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocodylus suchus",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Nordwestafrikanisches Krokodil",
+        "synonyms": [
+          "Wüstenkrokodil"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "West African Crocodile"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus siamensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Siam-Krokodil"
+      },
+      {
+        "lang": "en",
+        "name": "Siamese Crocodile"
+      },
+      {
+        "lang": "fr",
+        "name": "Crocodile du Siam"
+      },
+      {
+        "lang": "ja",
+        "name": "シャムワニ"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl syjamski"
+      },
+      {
+        "lang": "fi",
+        "name": "Siaminkrokotiili"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo-siamês"
+      },
+      {
+        "lang": "th",
+        "name": "จระเข้น้ำจืด"
+      },
+      {
+        "lang": "vi",
+        "name": "Cá sấu Xiêm"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus rhombifer",
+    "common_names": [
+      {
+        "lang": "bar",
+        "name": "Kubakrókódü(ui)"
+      },
+      {
+        "lang": "de",
+        "name": "Kubakrokodil",
+        "synonyms": [
+          "Rautenkrokodil"
+        ]
+      },
+      {
+        "lang": "en",
+        "name": "Cuban Crocodile"
+      },
+      {
+        "lang": "fi",
+        "name": "Kuubankrokotiili"
+      },
+      {
+        "lang": "ja",
+        "name": "キューバワニ"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl kubański"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo-cubano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus raninus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocodylus porosus",
+    "common_names": [
+      {
+        "lang": "ban",
+        "name": "Buaya pasih"
+      },
+      {
+        "lang": "cs",
+        "name": "Krokodýl mořský"
+      },
+      {
+        "lang": "de",
+        "name": "Leistenkrokodil"
+      },
+      {
+        "lang": "en",
+        "name": "Saltwater Crocodile"
+      },
+      {
+        "lang": "es",
+        "name": "Cocodrilo marino"
+      },
+      {
+        "lang": "fr",
+        "name": "Crocodile à double crête"
+      },
+      {
+        "lang": "gl",
+        "name": "Crocodilo de auga salgada"
+      },
+      {
+        "lang": "he",
+        "name": "תנין הים"
+      },
+      {
+        "lang": "id",
+        "name": "Buaya muara"
+      },
+      {
+        "lang": "ms",
+        "name": "Buaya katak"
+      },
+      {
+        "lang": "nl",
+        "name": "Zeekrokodil"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl różańcowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo de água salgada"
+      },
+      {
+        "lang": "ru",
+        "name": "Гребнистый крокодил"
+      },
+      {
+        "lang": "fi",
+        "name": "Suistokrokotiili"
+      },
+      {
+        "lang": "sv",
+        "name": "Deltakrokodil"
+      },
+      {
+        "lang": "ja",
+        "name": "イリエワニ"
+      },
+      {
+        "lang": "tr",
+        "name": "Tuzlu su timsahı"
+      },
+      {
+        "lang": "th",
+        "name": "จระเข้น้ำเค็ม"
+      },
+      {
+        "lang": "bn",
+        "name": "লোনা পানির কুমির"
+      },
+      {
+        "lang": "ta",
+        "name": "கழிமுக முதலை"
+      },
+      {
+        "lang": "ur",
+        "name": "مگر مچھ"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus palustris",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Sumpfkrokodil"
+      },
+      {
+        "lang": "en",
+        "name": "Mugger crocodile",
+        "synonyms": [
+          "Swamp crocodile"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Suokrokotiili"
+      },
+      {
+        "lang": "ja",
+        "name": "ヌマワニ"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl błotny"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo-persa"
+      },
+      {
+        "lang": "sh",
+        "name": "Močvarni krokodil"
+      },
+      {
+        "lang": "bn",
+        "name": "স্বাদুপানির কুমির"
+      },
+      {
+        "lang": "ta",
+        "name": "சதுப்புநில முதலை"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus palaeindicus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocodylus novaeguineae",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Neuguinea-Krokodil"
+      },
+      {
+        "lang": "en",
+        "name": "New Guinea Crocodile"
+      },
+      {
+        "lang": "fi",
+        "name": "Uudenguineankrokotiili"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl nowogwinejski"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo-da-Nova-Guiné"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus niloticus",
+    "common_names": [
+      {
+        "lang": "bat-smg",
+        "name": "Nila kruokodėls"
+      },
+      {
+        "lang": "bg",
+        "name": "Нилски крокодил"
+      },
+      {
+        "lang": "br",
+        "name": "Krokodil an Nil"
+      },
+      {
+        "lang": "cs",
+        "name": "Krokodýl nilský"
+      },
+      {
+        "lang": "de",
+        "name": "Nilkrokodil"
+      },
+      {
+        "lang": "en",
+        "name": "Nile Crocodile"
+      },
+      {
+        "lang": "fi",
+        "name": "Niilinkrokotiili"
+      },
+      {
+        "lang": "fr",
+        "name": "Crocodile du Nil"
+      },
+      {
+        "lang": "he",
+        "name": "תנין היאור"
+      },
+      {
+        "lang": "hr",
+        "name": "Nilski krokodil"
+      },
+      {
+        "lang": "hu",
+        "name": "Nílusi krokodil"
+      },
+      {
+        "lang": "id",
+        "name": "Buaya sungai Nil"
+      },
+      {
+        "lang": "is",
+        "name": "Nílarkrókódíll"
+      },
+      {
+        "lang": "ja",
+        "name": "ナイルワニ"
+      },
+      {
+        "lang": "ln",
+        "name": "Nkɔ́li"
+      },
+      {
+        "lang": "lt",
+        "name": "Nilo krokodilas"
+      },
+      {
+        "lang": "lv",
+        "name": "Nīlas krokodils"
+      },
+      {
+        "lang": "mk",
+        "name": "Нилски крокодил"
+      },
+      {
+        "lang": "nl",
+        "name": "Nijlkrokodil"
+      },
+      {
+        "lang": "nn",
+        "name": "Nilkrokodille"
+      },
+      {
+        "lang": "no",
+        "name": "Nilkrokodille"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl nilowy"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo-do-nilo"
+      },
+      {
+        "lang": "ro",
+        "name": "Crocodilul de Nil"
+      },
+      {
+        "lang": "ru",
+        "name": "Нильский крокодил"
+      },
+      {
+        "lang": "sk",
+        "name": "Krokodíl nílsky"
+      },
+      {
+        "lang": "sr",
+        "name": "Нилски крокодил"
+      },
+      {
+        "lang": "sv",
+        "name": "Nilkrokodil"
+      },
+      {
+        "lang": "sw",
+        "name": "Mamba"
+      },
+      {
+        "lang": "ta",
+        "name": "நைல் முதலை"
+      },
+      {
+        "lang": "th",
+        "name": "จระเข้แม่น้ำไนล์"
+      },
+      {
+        "lang": "tr",
+        "name": "Nil timsahı"
+      },
+      {
+        "lang": "uk",
+        "name": "Нільський крокодил"
+      },
+      {
+        "lang": "vi",
+        "name": "Cá sấu sông Nin"
+      },
+      {
+        "lang": "zh",
+        "name": "尼羅鱷"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "尼羅鱷"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus moreletii",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Beulenkrokodil"
+      },
+      {
+        "lang": "en",
+        "name": "Belize Crocodile",
+        "synonyms": [
+          "Morelet's Crocodile",
+          "Central American Crocodile"
+        ]
+      },
+      {
+        "lang": "es",
+        "name": "Cocodrilo De Morelet"
+      },
+      {
+        "lang": "fr",
+        "name": "Crocodile De Morelet"
+      },
+      {
+        "lang": "fi",
+        "name": "Kyhmykrokotiili"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl meksykański"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo-de-Morelet",
+        "synonyms": [
+          "Crocodilo-mexicano"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus mindorensis",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Philippinen-Krokodil"
+      },
+      {
+        "lang": "en",
+        "name": "Philippine crocodile"
+      },
+      {
+        "lang": "fi",
+        "name": "Filippiinienkrokotiili"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl filipiński"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo-filipino"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus johnsoni",
+    "common_names": [
+      {
+        "lang": "cs",
+        "name": "Krokodýl Johnstonův"
+      },
+      {
+        "lang": "de",
+        "name": "Australisches Süßwasserkrokodil"
+      },
+      {
+        "lang": "en",
+        "name": "Freshwater Crocodile",
+        "synonyms": [
+          "Johnstone River Crocodile"
+        ]
+      },
+      {
+        "lang": "fi",
+        "name": "Australiankrokotiili"
+      },
+      {
+        "lang": "ja",
+        "name": "オーストラリアワニ"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl australijski"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo-de-água-doce-australiano"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus intermedius",
+    "common_names": [
+      {
+        "lang": "de",
+        "name": "Orinoko-Krokodil"
+      },
+      {
+        "lang": "en",
+        "name": "Orinoco Crocodile"
+      },
+      {
+        "lang": "es",
+        "name": "Cocodrilo del Orinoco"
+      },
+      {
+        "lang": "fi",
+        "name": "Orinoconkrokotiili"
+      },
+      {
+        "lang": "fr",
+        "name": "Crocodile de l'Orénoque"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl z Orinoko"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo do Orinoco"
+      },
+      {
+        "lang": "zh",
+        "name": "奧利諾科鱷"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus halli",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Hall’s New Guinea Crocodile"
+      }
+    ]
+  },
+  {
+    "scientific_name": "Crocodylus anthropophagus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Crocodylus acutus",
+    "common_names": [
+      {
+        "lang": "bar",
+        "name": "Spietzkrókódü"
+      },
+      {
+        "lang": "ca",
+        "name": "Cocodril americà"
+      },
+      {
+        "lang": "de",
+        "name": "Spitzkrokodil"
+      },
+      {
+        "lang": "en",
+        "name": "American Crocodile"
+      },
+      {
+        "lang": "ga",
+        "name": "Crogall Meiriceánach"
+      },
+      {
+        "lang": "he",
+        "name": "תנין אמריקני"
+      },
+      {
+        "lang": "ja",
+        "name": "アメリカワニ"
+      },
+      {
+        "lang": "ko",
+        "name": "아메리카악어"
+      },
+      {
+        "lang": "pt",
+        "name": "Crocodilo-americano"
+      },
+      {
+        "lang": "fi",
+        "name": "Amerikankrokotiili"
+      },
+      {
+        "lang": "pl",
+        "name": "Krokodyl amerykański",
+        "synonyms": [
+          "krokodyl amazoński"
+        ]
+      },
+      {
+        "lang": "zh",
+        "name": "美洲鱷"
+      }
+    ]
+  }
+]

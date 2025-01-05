@@ -1,0 +1,43 @@
+[
+  {
+    "scientific_name": "Ptenopus maculatus",
+    "common_names": []
+  },
+  {
+    "scientific_name": "Ptenopus kochi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Interdune Barking Gecko",
+        "synonyms": [
+          "Koch's Barking Gecko",
+          "Koch's Chirping Gecko"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptenopus garrulus",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Common Barking Gecko",
+        "synonyms": [
+          "Whistling Gecko"
+        ]
+      }
+    ]
+  },
+  {
+    "scientific_name": "Ptenopus carpi",
+    "common_names": [
+      {
+        "lang": "en",
+        "name": "Carp's Barking Gecko",
+        "synonyms": [
+          "Namib Chirping Gecko"
+        ]
+      }
+    ]
+  }
+]
