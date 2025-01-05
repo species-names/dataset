@@ -1,38 +1,42 @@
 'use strict'
 
-const assert = require('assert')
+const test = require('node:test')
+const assert = require('node:assert/strict')
 const walk = require('walk')
 const path = require('path')
 
-describe('Duplicates', function () {
-  this.timeout(17000)
-  it('should not have duplicates', function (done) {
-      let scientific_names = [];
-      let duplicates = []
-      const walker = walk.walk(
-        path.join(__dirname, '..', 'data'),
-        { followLinks: false }
-      )
-      walker.on("file", (root, fileStat, next) => {
-          let file = require(path.resolve(root, fileStat.name))
-          file.forEach((species) => {
-            if(scientific_names.indexOf(species) > 0){
-              duplicates.push(species)
-            }
-            else {
-              scientific_names.push(species.scientific_name)
-            }
-          })
-          next()
+test('Duplicates', async (t) => {
+  let scientific_names = []
+  let duplicates = []
+  
+  await new Promise((resolve, reject) => {
+    const walker = walk.walk(
+      path.join(__dirname, '..', 'data'),
+      { followLinks: false }
+    )
+
+    walker.on("file", (root, fileStat, next) => {
+      let file = require(path.resolve(root, fileStat.name))
+      file.forEach((species) => {
+        if(scientific_names.indexOf(species.scientific_name) > -1){
+          duplicates.push(species.scientific_name)
+        }
+        else {
+          scientific_names.push(species.scientific_name)
+        }
       })
-      walker.on("errors", (root, nodeStatsArray, next) => {
-        done(nodeStatsArray)
-      }); // plural
-      walker.on("end", () => {
-        assert.equal(0, duplicates.length)
-        assert.notEqual(0, scientific_names.length)
-        console.log(scientific_names.length + ' species in dataset')
-        done()
-      })
+      next()
+    })
+
+    walker.on("errors", (root, nodeStatsArray) => {
+      reject(nodeStatsArray)
+    })
+
+    walker.on("end", () => {
+      assert.equal(duplicates.length, 0)
+      assert.notEqual(scientific_names.length, 0)
+      console.log(scientific_names.length + ' species in dataset')
+      resolve()
+    })
   })
 })
