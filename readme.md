@@ -1,7 +1,7 @@
 # Species names dataset ![tests](https://github.com/species-names/dataset/actions/workflows/tests.yaml/badge.svg)
 
 
-v0.0.12
+v0.0.13
 
 A json format dataset for scientific and common species names.
 
@@ -10,7 +10,7 @@ Data is harvested mainly from https://species.wikimedia.org
 Species names are stored in json format in one file per genera.
 
 ## Current State
-Currently only birds amd mammals are done.  
+Currently only birds, reptiles and mammals are done.  
 
 ## Todo
 - Html in names: Chendytes lawi invisible html comment behind name
